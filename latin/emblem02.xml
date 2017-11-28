@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+     <revisionDesc>
+        <change when="2017-03-08" who="SJD">Created</change>
+        <change when="2017-03-09" who="SJD">Completed draft</change>
+     </revisionDesc>
+  </teiHeader>
+   
+   
+  <text>
+      <body>
+         <div type="emblem" n="e2">
+            <pb n="16"/>
+            <head>
+               <lb n="1"/><fw type="pageNum" place="top-left">16</fw> FUGA II. in Quinta, infr<hi rend="grave">a</hi>.
+               <lb n="2"/>Sein Saugmutter ist die Erden.
+            </head>
+            
+            <div type="fugue">
+               <head>
+                  
+               </head>
+               
+            </div>
+            
+            <div type="epigram" xml:lang="de">
+               <head>II. Epigrammatis Latini versio Germanica.</head>
+               <lg>
+                  <lb n="1"/><l><persName>Romulus</persName> von einer Wölffin ist <pc>/</pc> aber <persName>Jupiter</persName> gesäuget</l>
+                  <lb n="2"/><l>Von einer Geiß<pc>/</pc> wir solchs das Gerüchte bezeuget.</l>
+                  <lb n="3"/><l>Was Wunder ist <pc>/</pc> so wir sagen <pc>/</pc> daß der Weisen Kind ernehret</l>
+                  <lb n="4"/><l>Sen von der Erd <pc>/</pc> so ihm ihre Milch hat gewehret?</l>
+                  <lb n="5"/><l>So dann die Thier gespeiset <expan><abbr>ha</abbr><ex>be</ex><abbr>n</abbr></expan> solche grosse Helden gewiß <pc>/</pc></l>
+                  <lb n="6"/><l>Wie groß mag dann der senn <pc>/</pc> <choice><corr>dessen</corr><orig>dessin</orig></choice> die Erd Säugmutter ist?</l>
+               </lg>
+            </div>
+            <fw type="catchword" place="bottom-right">Emble-</fw>
+            
+            <pb n="13"/>
+            
+            <div type="image-caption">
+               <head>
+                  <lb n="1"/>Emblema II.<hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">17</fw>
+                  <lb n="2"/>Nutrix ejus terra est.
+               </head>
+            </div>
+            
+            <figure><graphic url=""></graphic></figure>
+            
+            <div type="epigram" xml:lang="la">
+               <head>Epigramma II.</head>
+               <lg>
+                  <lb n="1"/><l><persName>Romulus</persName> hirta lup<hi rend="ligature">ae</hi> pressisse, sed ubera capr<hi rend="ligature">ae</hi></l>
+                  <lb n="2"/><l><persName>Jupiter</persName>, <g type="ampersand">et</g> factis, fertur, adesse fides:</l>
+                  <lb n="3"/><l>Quid mirum, tener<hi rend="ligature">ae</hi> SAPIENTUM viscera PROLIS</l>
+                  <lb n="4"/><l>si ferimus TERRAM lacte nutrisse suo?</l>
+                  <lb n="5"/><l>Parvula si tantas Heroas bestia pavit,</l>
+                  <lb n="6"/><l>QUANTUS, cui NUTRIX TERREUS ORBIS, erit?</l>
+               </lg>
+            </div>
+            
+           <fw type="gathering">C</fw> <fw type="catchword" place="bottom-right">Apud</fw>
+            
+            <div type="discourse">
+               <pb n="18"/>
+               <head><fw type="pageNum" place="top-left">18</fw> <hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="2">II</num></head>
+                  <ab>
+                     <lb n="1"/><milestone unit="section" n="e02-01"/>Apud Peripateticos <g type="ampersand">et</g> rect<hi rend="grave">e</hi> judicantes Philosophos statui
+                     <lb n="2" break="no"/>tur; quod Nutriens vertatur in substantiam nutritim, ei<hi rend="acute">q</hi>ue assi
+                     <lb n="3" break="no"/>miletur non quidem ante, sed post alterationem ejus, id<hi rend="acute">q</hi>ue verssi
+                     <lb n="4" break="no"/>mum Axioma habetur: <milestone unit="section" n="e02-02"/> Quomodo enim nutrienti, quod jam ante
+                     <lb n="5"/>simile <g type="ampersand">et</g> idem sit cum nutrito, opus esset mutatione su<hi rend="ligature">ae</hi> essenti<hi rend="ligature">ae</hi>,
+                     <lb n="6"/>qu<hi rend="ligature">ae</hi> si accideret, non maneret idem nec simile; <milestone unit="section" n="e02-03"/> Aut quomodo ea,
+                     <lb n="7"/>qu<hi rend="ligature">ae</hi> assimilari nutrito nequeunt, pr nutrimento assumerentur, ut
+                     <lb n="8"/>sunt ligna, lapides <g type="ampersand">et</g> ejusmodi alia: <milestone unit="section" n="e02-04"/> Primum itaque ut inane, sic alte
+                     <lb n="9" break="no"/>rum, natur<hi rend="ligature">ae</hi> adversum est. <milestone unit="section" n="e02-05"/> Lacte autem animalium nutriri homi
+                     <lb n="10" break="no"/>nem recens natum, non alienum est <hi rend="grave">a</hi> natura: quia assimilatio ejus
+                     <lb n="11"/>fieri potest, at long<hi rend="grave">e</hi> facilius materni, <expan><abbr>qua</abbr><ex>m</ex></expan> alterius: <milestone unit="section" n="e02-06"/> Unde medici <expan><abbr>co</abbr><ex>n</ex>
+                     <lb n="12" break="no"/><abbr>cludunt</abbr></expan>, ad sanitatem, similitudinem substanti<hi rend="ligature">ae</hi> <g type="ampersand">et</g> morum, nec
+                     <lb n="13"/>non robur conferre infanti, si propri<hi rend="ligature">ae</hi> matris lacte semper foveatur
+                     <lb n="14"/><g type="ampersand">et</g> educetur, econtra, si alieno. <milestone unit="section" n="e02-07"/> H<hi rend="ligature">ae</hi>c est harmonia omnis natur<hi rend="ligature">ae</hi>,
+                     <lb n="15"/>quod simile gaudeat suo simili, ejus<hi rend="acute">q</hi>ue vestigia imitetur, quantu
+                     <lb n="16"/>potest, in omnibus ex tacito quodam consensu <g type="ampersand">et</g> conspiratione. <milestone unit="section" n="e02-08"/>I
+                     <lb n="17" break="no"/>dem usu venit in naturali Philosophorum opere quod aequ<hi rend="grave">e</hi> <hi rend="grave">a</hi> na
+                     <lb n="18" break="no"/>tura regitur in sui conformatione, qu<hi rend="grave">a</hi>m infans sub utero materno:
+                     <lb n="19"/><milestone unit="section" n="e02-09"/>Et licet pater <g type="ampersand">et</g> mater, ipsa<hi rend="acute">q</hi>ue nutrix illi similtudinari<hi rend="grave">e</hi> a<surplus>s</surplus>scriban
+                     <lb n="20" break="no"/>tur, non tamen artificiale est magis, qu<hi rend="grave">a</hi>m animalis cujusque gene
+                     <lb n="21" break="no"/>ratio: <milestone unit="section" n="e02-10"/> Semina bina quodam delectabili artificio conjunguntur ab
+                     <lb n="22"/>animalibus <g type="ampersand">et</g> utroque sexu hominis, ex quibus unitis per successi
+                     <lb n="23" break="no"/>vam alterationem sit Embryo, qui crescit <g type="ampersand">et</g> augetur, vitam <g type="ampersand">et</g> mo
+                     <lb n="24" break="no"/>tum acquirit, deinde lacte nutritur: <milestone unit="section" n="e02-11"/> Mulier ver<hi rend="grave">o</hi> conceptionis <g type="ampersand">et</g>
+                     <lb n="25"/>impr<hi rend="ligature">ae</hi>gnationis tempore in calore, cibo <g type="ampersand">et</g> potu, motu <g type="ampersand">et</g> quiete, a
+                     <lb n="26" break="no"/>liis<hi rend="acute">q</hi>ue se temperat<hi rend="grave">e</hi> ut gerat, necessse est, ali<hi rend="grave">a</hi>s abortus sequetur <g type="ampersand">et</g>
+                     <lb n="27"/>concepti f<hi rend="ligature">oe</hi>rus destructio, qu<hi rend="ligature">ae</hi> observatio in <num type="cardinal" value="6">6</num>. rebus <expan><abbr>no</abbr><ex>n</ex></expan> naturali
+                     <lb n="28" break="no"/>ibus, quia <hi rend="grave">a</hi> medicis secund<hi rend="grave">u</hi>m artem suam pr<hi rend="ligature">ae</hi>scribitur, artificialis
+                     <lb n="29"/>quoque est. <milestone unit="section" n="e02-12"/> Eodem modo semina si sint non conjuncta in opere
+                     <lb n="30"/>Philosophico, conjungi debent: Quod si ver<hi rend="grave">o</hi> alicubi conjuncta in
+                     <lb n="31" break="no"/>venirentur, ut in ovo semen galli <g type="ampersand">et</g> gallin<hi rend="ligature">ae</hi> substantia habentur si
+                     <lb n="32" break="no"/>mul in uno continente, tum esset Philosophorum opus adhuc ma
+                     <lb n="33" break="no"/>gis naturale, qu<hi rend="grave">a</hi>m generatio animalium. <milestone unit="section" n="e02-13"/> At demus, ut philsophi
+                  </ab>
+               <fw type="catchword" place="bottom-right">testan</fw>
+                  
+               <pb n="19"/>
+               <head><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="2">II</num>. <fw type="pageNum" place="top-right">19</fw></head>
+                  <ab>
+                     <lb n="1"/>testantur, quod unum veniat ab orienti <g type="ampersand">et</g> alterum ab occidente, fi
+                     <lb n="2" break="no"/>antque unum, quid plus administratur hisce, qu<hi rend="grave">a</hi>m mixtio in suo
+                     <lb n="3"/>vase, calor temperatus <g type="ampersand">et</g> nutrimentum? <milestone unit="section" n="e02-14"/> Vas quidem artificiale est
+                     <lb n="4"/>sed in hoc differentia non committitur, sive nidus ab ipsa gallina
+                     <lb n="5"/>fiat, sive <hi rend="grave">a</hi> rustica incerto quodam loco (ut solet) ordinetur, eadem
+                     <lb n="6"/>erit ovorum generatio <g type="ampersand">et</g> ex illis pullorum exclusio. <milestone unit="section" n="e02-15"/> Calor est res
+                     <lb n="7"/>naturalis, sive ab igne temperato veniat furnorum <g type="ampersand">et</g> fimi putredi
+                     <lb n="8" break="no"/>nis, vel sole <g type="ampersand">et</g> aëre, vel matris visceribus, aut aliunde: sic <orgName><hi rend="ligature">Ae</hi>gytus</orgName>
+                     <lb n="9"/>calorem ovis exludendis arte naturalem administrat per suos fur
+                     <lb n="10" break="no"/>nos: <milestone unit="section" n="e02-16"/> Bombycum semina, im<hi rend="grave">o</hi> <g type="ampersand">et</g> ova gallinaecea virginearum mam
+                     <lb n="11" break="no"/>marum tepore exclusa leguntur: <milestone unit="section" n="e02-17"/> Ars itaque <g type="ampersand">et</g> natura mutuas sibi
+                     <lb n="12"/>manus conferunt, ita ut h<hi rend="ligature">ae</hi>c illius vicaria fiat <g type="ampersand">et</g> illa hujus: Nihilo
+                     <lb n="13" break="no"/>minus Natura manet Domina <g type="ampersand">et</g> ars ancilla. <milestone unit="section" n="e02-18"/> <quote><hi rend="caps">Cur vero terra</hi></quote>
+                     <lb n="14"/>dicatur nutrix Nati Philosophici, dubium alicui movere posset,
+                     <lb n="15"/>c<hi rend="grave">u</hi>m terra inter elementa sit maxim<hi rend="grave">e</hi> exucca <g type="ampersand">et</g> arida, cui siccitas ut
+                     <lb n="16"/>propria qualitas accidat? <milestone unit="section" n="e02-19"/> At <expan><abbr>responde</abbr><ex>n</ex><abbr>dum</abbr></expan>, quod terra elementata
+                     <lb n="17"/>hic intelligatur, non Elementum, cujus in Septiman<hi rend="ligature">ae</hi> philosophi
+                     <lb n="18" break="no"/>cae primo die abund<hi rend="grave">e</hi> meminimus, naturam<hi rend="acute">q</hi>ue explicavimus: 
+                     <lb n="19"/><milestone unit="section" n="e02-20"/> H<hi rend="ligature">ae</hi>c nutrix est C<hi rend="ligature">oe</hi>li, non quod solvat, lavet aut humectet f<hi rend="ligature">oe</hi>tum,
+                     <lb n="20"/>sed coagulet, figat <g type="ampersand">et</g> coloret, inque succum <g type="ampersand">et</g> sanguinem merum
+                     <lb n="21"/>convertat. <milestone unit="section" n="e02-21"/> Nutritio enim augmentationem in longum, latum <g type="ampersand">et</g>
+                     <lb n="22"/>profundum, hoc est, per omnes corporis dimensiones se extenden
+                     <lb n="23" break="no"/>tem complectitur, qu<hi rend="ligature">ae</hi> c<hi rend="grave">u</hi>m hic adsit <g type="ampersand">et</g> <hi rend="grave">a</hi> sola terra pr<hi rend="ligature">ae</hi>stetur f<hi rend="ligature">oe</hi>tui
+                     <lb n="24"/>philosophico, non immerito nutricis nomine terra appellanda erit: 
+                     <lb n="25"/><milestone unit="section" n="e02-22"/> At contrarium quid c<hi rend="ligature">oe</hi>teris lactis generibus, qu<hi rend="ligature">ae</hi> convertuntur <g type="ampersand">et</g>
+                     <lb n="26"/>non convertunt, in hoc admirando succo terrestri contingit, cum
+                     <lb n="27"/>propter vim ejus fotissimam vald<hi rend="grave">e</hi> alteret naturam nutriti, quem
+                     <lb n="28" break="no"/>admodum lup<hi rend="ligature">ae</hi> lac <persName><choice><orig>Remuli</orig><corr>Romuli</corr></choice></persName> corpus in naturam animosam <g type="ampersand">et</g> ad bel
+                     <lb n="29" break="no"/>lum promptam disposuisse creditur.
+                                          <lb/> 
+                    </ab> 
+               <fw type="gathering"><hi rend="gothic">C ii</hi></fw> <fw type="catchword" place="bottom-right" xml:lang="de">Sehe</fw>
+                </div>
+            
+         </div>
+      </body>
+  </text>
+</TEI>

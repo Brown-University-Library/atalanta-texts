@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+     <revisionDesc>
+        <change when="2017-02-14" who="SJD">Created</change>
+        <change when="2017-02-15" who="SJD">Completed draft</change>
+     </revisionDesc>
+  </teiHeader>
+   
+   
+  <text>
+      <body>
+         <div type="emblem" n="e1">
+            <pb n="12"/>
+            <head>
+               <lb n="1"/><fw type="pageNum" place="top-left">12</fw> FUGA I. in Quarta, infr<hi rend="grave">a</hi>.
+               <lb n="2"/>Es hat ihn der Wind getragen im Bauche.
+            </head>
+            
+            <div type="fugue">
+               <head>
+                  
+               </head>
+               
+            </div>
+            
+            <div type="epigram" xml:lang="de">
+               <head>I. Epigrammatis Latini versio Germanica.</head>
+               <lg>
+                  <lb n="1"/><l>Die Fruche im Buach deß Winds<pc>/</pc> welche noch verborgen lebet<pc>/</pc></l>
+                  <lb n="2"/><l>So ferne in dieses Liecht die selbe wirt erhebet<pc>/</pc></l>
+                  <lb n="3"/><l>kan allerhohen Helden Raht und That ubergehen weit</l>
+                  <lb n="4"/><l>Durch kunst und star<hi rend="ligature">ck</hi>e Gewalt und seines Leibes Arbeit;</l>
+                  <lb n="5"/><l>Schaw<pc>/</pc> daß er nich unziemlich vor der Zeit geboren werd<pc>/</pc></l>
+                  <lb n="6"/><l>Sondern in rechter Maß komme lebendig auff die Erd.</l>
+               </lg>
+            </div>
+            <fw type="catchword" place="bottom-right">Emble-</fw>
+            
+            <pb n="13"/>
+            
+            <div type="image-caption">
+               <head>
+                  <lb n="1"/>Emblema I. De secretis Natur<hi rend="ligature">ae</hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">13</fw>
+                  <lb n="2"/>Portavit eum ventus in ventre suo.
+               </head>
+            </div>
+            
+            <figure><graphic url=""></graphic></figure>
+            
+            <div type="epigram" xml:lang="la">
+               <head>Epigramma I.</head>
+               <lg>
+                  <lb n="1"/><l>Embryo ventos<hi rend="circumflex">a</hi> BORE<hi rend="ligature">AE</hi> qui clauditur alvo,</l>
+                  <lb n="2"/><l>Vivus in hanc lucem si semel ortus erit;</l>
+                  <lb n="3"/><l>Unus is Heroum cunctos superare labores</l>
+                  <lb n="4"/><l>Arte, manu, forti corpore, mente, potest.</l>
+                  <lb n="5"/><l>Ne tibi sit <persName>C<hi rend="ligature">ae</hi>so</persName>, nec abortus inutilis ill<hi rend="tail">e</hi>,</l>
+                  <lb n="6"/><l>Non <persName>Agrippa</persName>, bono sydere sed genitus.</l>
+               </lg>
+            </div>
+            
+           <fw type="gathering">B 3</fw> <fw type="catchword" place="bottom-right">HER-</fw>
+            
+            <div type="discourse">
+               <pb n="14"/>
+               <head><fw type="pageNum" place="top-left">14</fw> <hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="1">I</num></head>
+                  <ab>
+                     <lb n="1"/><milestone unit="section" n="e01-01"/><persName ref="https://viaf.org/viaf/24571510/">Hermes</persName> omnis secreti naturalis indagator diligentissimus in
+                     <lb n="2"/>tabula sua smaragdina graphic<hi rend="grave">e</hi>, lic<hi rend="grave">e</hi>t succinct<hi rend="grave">e</hi>, describit opus
+                     <lb n="3"/>naturale, ubi inter alia inquit: <quote source="https://viaf.org/viaf/225064984"><hi rend="italic">Portavit eum ventus in ventre suo,</hi></quote> qua
+                     <lb n="4" break="no"/>si dicat, Ille, cu<choice><orig>j</orig><reg>i</reg></choice> pater est SOl, mater ver<hi rend="grave">o</hi> Luna, antequam in lu
+                     <lb n="5" break="no"/>cem edatur, portabitur <hi rend="grave">a</hi> fumis ventosis, quemadmodum avis ab
+                     <lb n="6"/>aëre, dum volat: <milestone unit="section" n="e01-02"/> Ex fumis autem seu ventis (qui sunt nihil aliud,
+                     <lb n="7"/>qu<hi rend="grave">a</hi>m aër motus) coagulatis fit aqua, ex qua cum terra mixta mi
+                     <lb n="8" break="no"/>neralia <g type="ampersand">et</g> metalla omnia: <milestone unit="section" n="e01-03"/> Im<hi rend="grave">o</hi> h<hi rend="ligature">ae</hi>c ipsa ex fumis constare <g type="ampersand">et</g> coagu
+                     <lb n="9" break="no"/>lari immediat<hi rend="grave">e</hi> statuuntur: Sive itaque in aquam seu fumum po
+                     <lb n="10" break="no"/>natur, eodem res redit, quia utraque venti materia est: <milestone unit="section" n="e01-04"/> Idem di
+                     <lb n="11" break="no"/>cendum de mineralibus <g type="ampersand">et</g> metallis, lic<hi rend="grave">e</hi>t magis remot<hi rend="grave">e</hi>: Qu<hi rend="ligature">ae</hi>ritur
+                        <add place="margin-left" >
+                              <lb/><persName ref="http://viaf.org/viaf/120696927"><expan><abbr>Lull<am>.</am></abbr><ex>ius</ex></expan></persName> <expan><abbr>ibi<am>.</am></abbr><ex>dem</ex></expan>
+                              <lb/><quote>portat il
+                              <lb break="no"/>lum ventus
+                              <lb/>in ventre
+                              <lb/>suo,</quote> hoc est,
+                              <lb/>sulfur por
+                              <lb break="no"/>tatur in ar
+                              <lb break="no"/>gento vivo.
+                              <lb/>Et <expan><abbr>C<am>.</am></abbr><ex>apite</ex></expan> <num type="ordinal" value="47">47</num>.
+                              <lb/><quote>Lapis est
+                              <lb/>ignis de
+                              <lb break="no"/>portatus  in
+                              <lb/>ventre aë
+                              <lb break="no"/>ris.</quote>                           
+                        </add>
+                     <lb n="12"/>autem, quis ille sit, qui <hi rend="grave">a</hi> vento portari debeat? <milestone unit="section" n="e01-05"/> Respondeo, <hi rend="italic">chymi      
+                     <lb n="13" break="no"/>c<hi rend="grave">e</hi></hi>, est sulphur, quod portatur in argento vivo, ut <persName ref="http://viaf.org/viaf/120696927"><expan><abbr>Lull<am>.</am></abbr><ex>ius</ex></expan></persName> <title><expan><abbr>Codicill<am>.</am></abbr><ex>o</ex></expan></title>
+                     <lb n="14"/><expan><abbr>cap<am>.</am></abbr><ex>ite</ex></expan> <num type="ordinal" value="32">32.</num> testatur, c<hi rend="ligature">ae</hi>ter<hi rend="acute">i</hi>que omnes; <hi rend="italic">Physic<hi rend="grave">e></hi></hi>, est f<hi rend="ligature">oe</hi>tus, qui mox in lu
+                     <lb n="15" break="no"/>cem nasci debet: Dico <g type="ampersand">et</g> <hi rend="italic">Arithmetic<hi rend="grave">e</hi></hi>, quod sit radix Cubi; <hi rend="italic">Music<hi rend="grave">e</hi></hi>,
+                     <lb n="16"/>qu<hi rend="grave">o</hi>d sit Disdiapason; <hi rend="italic">Geometric<hi rend="grave">e</hi></hi>, qu<hi rend="grave">o</hi>d sit punctum line<hi rend="ligature">ae</hi> fluentis
+                     <lb n="17"/>principium, <hi rend="italic">Astronomic<hi rend="grave">e</hi></hi>, centrum <placeName>Saturni</placeName>, <placeName>Jovis</placeName> <g type="ampersand">et</g> <placeName>Martis</placeName>, plane
+                     <lb n="18" break="no"/>tarum: <milestone unit="section" n="e01-06"/> H<hi rend="ligature">ae</hi>c lic<hi rend="grave">e</hi>t diversa sine subiecta, tamen si bene inter se com
+                     <lb n="19" break="no"/>parentur, f<hi rend="ligature">oe</hi>tum venti facil<hi rend="grave">e</hi> demonstrabunt, qu<hi rend="grave">o</hi>d cuiuslibet in
+                     <lb n="20" break="no"/>dustri<hi rend="ligature">ae</hi> maiori aut minori relinquendum erit. <milestone unit="section" n="e01-07"/> At rem plani<hi rend="grave">u</hi>s sic
+                     <lb n="21"/>indigeto: Omnis Mercurius ex fumis est compositus, hoc est, ex
+                     <lb n="22"/> aqua sublevante terram secu in aëriam raritatem, <g type="ampersand">et</g> ex terra co
+                     <lb n="23"/>gente aërem redire in aqueam terram seu terream aquam: <milestone unit="section" n="e01-08"/> C<hi rend="grave">u</hi>m
+                     <lb n="24"/>enim Elementa in eo sine per omnia, <g type="ampersand">et</g> mixta, <g type="ampersand">et</g> invicem in quan
+                     <lb n="25" break="no"/>dam viscosam naturam conculcata <g type="ampersand">et</g> redacta, non facil<hi rend="grave">e</hi> ab invi
+                     <lb n="26" break="no"/>cem recedunt, sed vel volatilia sequuntur superi<hi rend="grave">us</hi>, vel apud fixa
+                     <lb n="27"/>inferi<hi rend="grave">u</hi>s manent, quorum primum in vulgari Mercurio, alterum
+                     <lb n="28"/>in Philosophico <g type="ampersand">et</g> metallis fixis apparet: In his Elementa fixa pr<hi rend="ligature">ae</hi>
+                     <lb n="29" break="no"/>dominantur volatilibus, in illo volatilia fixis. <milestone unit="section" n="e01-09"/> Nec ver<hi rend="grave">o</hi> <expan><abbr>absq<am>;</am></abbr><ex>ue</ex></expan> cau
+                     <lb n="30" break="no"/>sa est, cur Mercurius Deorum reliquorum nuncius, interpres <g type="ampersand">et</g>
+                     <lb n="31"/>quasi minister intermedius currens dicatur <g type="ampersand">et</g> habeatur, als ad
+                     <lb n="32"/>caput <g type="ampersand">et</g> pedes adaptatis: Ventosus enim est <g type="ampersand">et</g> volat per aëra, ut
+                     <lb n="33"/>ipse ventus, ut in communi, multorum cum damno re ipsa con
+                     <lb break="no"/>
+                  </ab>
+                  <fw type="catchword" place="bottom-right">vincitur</fw>
+               <pb n="15"/>
+               <head><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="1">I</num>. <fw type="pageNum" place="top-right">15</fw></head>
+                  <ab>
+                     <lb n="1"/>vincitur: <milestone unit="section" n="e01-10"/> At quia caduceum gestet binis serpentibus transversim
+                     <lb n="2"/>cinctum, qui animas ex corporibus ducat <g type="ampersand">et</g> reducat, <g type="ampersand">et></g> multa eius
+                     <lb n="3" break="no"/>modi contraria efficiat, Philosophici Mercurii symbolum optim<hi rend="grave">e</hi>
+                     <lb n="4"/>exprimit. <milestone unit="section" n="e01-11"/> <persName>Mercurius</persName> itaque est ventus, qui sulfur seu <persName>Dionysium</persName>,
+                     <lb n="5"/>aut, si mavis, <persName><hi rend="ligature">Ae</hi>sculapium</persName> adhuc imperfectum f<hi rend="ligature">oe</hi>tum ex ventre
+                     <lb n="6"/>materno, vel etiam ex cineribus corporis materni combusti acci
+                     <lb n="7" break="no"/>piat <g type="ampersand">et</g> portet e<hi rend="grave">o</hi>, ubi maturari possit; <milestone unit="section" n="e01-12"/> Et Embryo est Sulfur, quod <hi rend="grave">a</hi>
+                     <lb n="8"/>Sole c<hi rend="ligature">oe</hi>lesti <hi rend="italic">Bore<hi rend="ligature">ae</hi></hi> vento infusum est, ut is maturatum pariat, qui
+                     <lb n="9"/>gestationis su<hi rend="ligature">ae</hi> absoluto tempore gemellos edit, unum albis ca
+                     <lb n="10" break="no"/>pillis, <persName>Calaim</persName> dictum, alterum rubris, <persName>Zeten</persName>: <milestone unit="section" n="e01-13"/> Hi <persName><hi rend="italic">Bore<hi rend="ligature">ae></hi></hi></persName> filii fu<hi rend="circumflex">e></hi>re
+                     <lb n="11"/>(ut <persName ref="http://viaf.org/viaf/309825473"><hi rend="italic">Orpheus</hi></persName> poëta Chymicus scribit) apud <persName><hi rend="italic">Jasonem</hi></persName> inter Argonau
+                     <lb n="12" break="no"/>tas ad vellus aureum <hi rend="grave">a</hi> <placeName ref="https://pleiades.stoa.org/places/863770"><hi rend="italic">Colchis</hi></placeName> auferendum: <persName><hi rend="italic">Phineus</hi></persName> ver<hi rend="grave">o</hi> vates c<hi rend="ligature">oe</hi>
+                     <lb n="13" break="no"/>cus ab <persName>Harpyjis</persName> infestatus, liberari non potuit, nisi <hi rend="grave">a</hi> dictis <persName><hi rend="italic">Bore<hi rend="ligature">ae</hi></hi></persName> fi
+                     <lb n="14" break="no"/>liis: Pro quo beneficio ab iis impetrato ille gratus <persName><hi rend="italic">Argonautis></hi></persName> o
+                     <lb n="15" break="no"/>mnem vi<hi rend="ligature">ae</hi> rationem declaravit. <milestone unit="section" n="e01-14"/> At <persName><hi rend="italic">Harpyj<hi rend="ligature">ae</hi></hi></persName> nihil aliud sunt, qu<hi rend="grave">a</hi>m
+                     <lb n="16"/>sulfur corrumpens, quod abigitur <hi rend="grave">a</hi> <persName><hi rend="italic">Bore<hi rend="ligature">ae</hi></hi></persName> filiis, c<hi rend="grave">u</hi>m ad justam <hi rend="ligature">ae></hi>
+                     <lb n="17" break="no"/>tatem pervenerint, <g type="ampersand">et</g> ex imperfecto seu molestato <hi rend="grave">a</hi> volatilibus
+                     <lb n="18"/>noxiis fit perfectum, illi malo non subjectum, quod deinde ad vel
+                     <lb n="19" break="no"/>lus aureum <persName><hi rend="italic">Jasoni</hi></persName> medico obtinendum viam indicat. <milestone unit="section" n="e01-15"/> Horum <expan><abbr>ve</abbr><ex>n</ex>
+                     <lb n="20" break="no"/><abbr>torum</abbr></expan> meminit <expan><abbr>quoq<am>;</am></abbr><ex>ue</ex></expan> inter alios <persName ref="http://viaf.org/viaf/31992530/"><hi rend="italic">Basilius</hi></persName> <hi rend="italic">nostras</hi>, qui cla<choice><orig>r</orig><corr>v</corr></choice><hi rend="grave">e></hi> <num type="ordinal">6</num>. inquit:
+                     <lb n="21"/><quote type="direct"><hi rend="italic">Nam geminus ventus venire debet, <persName>Vulturnus</persName> dictus, ac deinde simplex,
+                     <lb n="22"/><persName>Notus</persName> appellatus, qui ab oriente <g type="ampersand">et</g> meridie impetuos<hi rend="grave">e</hi> spirabunt, quorum
+                     <lb n="23"/>motione cessante, it aut ex aëre facta sit aqua, audacter confides, quod ex sp
+                     <lb n="24" break="no"/>rituali corporale fiet.</hi></quote> <milestone unit="section" n="e01-16"/> Et <persName ref="http://viaf.org/viaf/122334648"><hi rend="italic">Ripl<hi rend="ligature">ae</hi>us</hi></persName> <title><expan><abbr>port<am>.</am></abbr><ex>u</ex></expan></title> <num type="ordinal" value="8">8</num>. dicit <quote type="paraphrase">in aëre nostrum infan
+                     <lb n="25" break="no"/>tem debere renasci</quote>, hoc est, in ventre venti: <milestone unit="section" n="e01-17"/> Ad eundem sensum
+                     <lb n="26"/><title>scala <expan><abbr>philos<am>.</am></abbr><ex>ophorum</ex></expan></title> gradu. <num type="ordinal" value="6">6</num>. Et <quote><hi rend="italic">sciendum</hi></quote>, inquit, <quote><hi rend="italic">quod natus sapientis in aëre
+                     <lb n="27"/>nascitur:</hi></quote> <milestone unit="section" n="e01-18"/> Et gradu <num type="ordinal" value="8">8</num>. <quote><hi rend="italic">spiritus aërei siml in aërem scandentes se diligunt, ut
+                     <lb n="28"/><persName ref="https://viaf.org/viaf/24571510/">Hermes</persName></hi> inquit, <hi rend="italic"><quote>portavit illum ventus in ventre suo:</quote> Quia generatio ge
+                     <lb n="29" break="no"/>niti nostri fit in aëre <g type="ampersand">et</g> nascens in aëre sapienter nascitur: Ascendit enim <hi rend="grave">a></hi>
+                     <lb n="30"/>terra in c<hi rend="ligature">oe</hi>lum, iter<hi rend="acute">u</hi>mque descendit in terram conquirendo vim superio
+                     <lb n="31" break="no"/>rem <g type="ampersand">et</g> inferiorem.</hi></quote>
+                                          <lb/> 
+                     <fw type="catchword" place="bottom-right" xml:lang="de">Sein</fw>
+                  </ab>                  
+            </div>
+            
+         </div>
+      </body>
+  </text>
+</TEI>
