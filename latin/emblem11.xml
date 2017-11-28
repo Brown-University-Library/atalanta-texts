@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+     <revisionDesc>
+        <change when="2017-07-12" who="SJD">Created</change>
+        <change when="2017-07-12" who="SJD">Completed draft</change>
+     </revisionDesc>
+  </teiHeader>
+   
+   
+  <text>
+      <body>
+         <div type="emblem" n="e11">
+            <pb n="52"/>
+            <head>
+               <lb n="1"/><fw type="pageNum" place="top-left">52</fw> FUGA XI. in 6. supr<hi rend="grave">a</hi>.
+               <lb n="2"/>Machet weiß die <persName><hi rend="roman">Latonam</hi></persName> <pc>/</pc> und zerreisset
+               <lb n="3"/>die Bücher.
+            </head>
+            
+            <div type="fugue">
+               <head>
+                  
+               </head>
+               
+            </div>
+            
+            <div type="epigram" xml:lang="de">
+               <head>XI. Epigrammatis Latini versio Germanica.</head>
+               <lg>
+                  <lb n="1"/><l>Ein jeder kennet der <persName><hi rend="roman">Laton<hi rend="ligature">ae</hi></hi></persName> Zwilling Geschlecht wol<pc>/</pc></l>
+                  <lb n="2"/><l>(Wie dae Gerücht zeugt) welchs von <hi rend="roman">Jove</hi> gebohren senn sol<pc>/</pc></l>
+                  <lb n="3"/><l>Diß andre nennnen Sonn und Mohn verknüpffe aller massen</l>
+                  <lb n="4"/><l>Darin schwarzer Flecken sich viele spüren laffen<pc>/</pc></l>
+                  <lb n="5"/><l>Drumb mache <persName><hi rend="roman">Latonam</hi></persName> von Farben am Gesich gar weiß<pc>/</pc></l>
+                  <lb n="6"/><l>Und daß dir nicht schaden die Bücher <pc>/</pc> in Stücken reiß</l>
+               </lg>
+            </div>
+            <fw type="catchword" place="bottom-right">Emblema</fw>
+            
+            <pb n="53"/> 
+            
+            <div type="image-caption">
+               <head>
+                  <lb n="1"/>Emblema XI. <hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">53</fw>
+                  <lb n="2"/>Dealbate <persName>Latonam</persName> <g type="ampersand">et</g> rumpite libros.
+               </head>
+            </div>
+            
+            <figure><graphic url=""></graphic></figure>
+            
+            <div type="epigram" xml:lang="la">
+               <head>Epigramma XI.</head>
+               <lg>
+                  <lb n="1"/><l><persName>Laton<hi rend="ligature">ae</hi></persName> sobolem non novit nemo gemellam,</l>
+                  <lb n="2"/><l>(Ceu fert fama vetus) qu<hi rend="ligature">ae</hi> Jove nata fuit.</l>
+                  <lb n="3"/><l>Hanc alii tradunt cum luna lumina solis</l>
+                  <lb n="4"/><l>Mixta, nigr<hi rend="ligature">ae</hi> cui sint in facie macul<hi rend="ligature">ae</hi>.</l>
+                  <lb n="5"/><l><persName>Latonam</persName> ergo pares albescere, damn<hi rend="acute">a</hi>que dantes</l>
+                  <lb n="6"/><l>Ambiguos, adsit nec mora, rumpe libros.</l>
+               </lg>
+            </div>
+            
+           <fw type="gathering">G <unclear cert="high">3</unclear></fw> <fw type="catchword" place="bottom-right">Tanta</fw>
+            
+            <div type="discourse">
+               <pb n="54"/>
+               <head><fw type="pageNum" place="top-left">54</fw> <hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="11">XI</num>.</head>
+                  <ab>
+                     <lb n="1"/><milestone unit="section" n="e11-01"/> Tanta est authorum in scribendo diversitas, ut fer<hi rend="grave">e</hi> inquisitores
+                     <lb n="2"/>veritatis de artis fine inveniendo desperent. <milestone unit="section" n="e11-02"/> C<hi rend="grave">u</hi>m enim per se
+                     <lb n="3"/>allegorici sermones sint captu difficiles <g type="ampersand">et</g> multorum errorum cau
+                     <lb n="4" break="no"/>s<hi rend="ligature">ae</hi>, tum inprimis, si vocabulae rebus diversis eadem <g type="ampersand">et</g> iisdem diversa
+                     <lb n="5"/>applicentur. <milestone unit="section" n="e11-03"/> Ex quibus si quis se extricare velit, oportet <expan><abbr>e<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> aut divi
+                     <lb n="6" break="no"/>ni esse ingenii, ut perspiciat sub tantis tenebris latentem veritatem,
+                     <lb n="7"/>aut laboris <g type="ampersand">et</g> sumptus in exhausti, ut experiatur, quid verum, quid
+                     <lb n="8"/>non sit. <milestone unit="section" n="e11-04"/> At philosophi unum absque alio non sufficere dicunt, inge
+                     <lb n="9" break="no"/>nium acutum <expan><abbr>absq<am>;</am></abbr><ex>ue</ex></expan> manuum labore, aut hunc <expan><abbr>absq<am>;</am></abbr><ex>ue</ex></expan> illo, ut nec theo
+                     <lb n="10" break="no"/>riam absque praxi <g type="ampersand">et</g> vice versa. <milestone unit="section" n="e11-05"/> Nemo enim ade<hi rend="grave">o</hi> discreti intel
+                     <lb n="11" break="no"/>lectus est, ut centies mille ambages, errores, ad vocem falsitates, di
+                     <lb n="12" break="no"/>verticula <g type="ampersand">et</g> ambiguitates declinet <g type="ampersand">et</g> in vera Natur<hi rend="ligature">ae</hi> semita persi
+                     <lb n="13" break="no"/>stat: Unde dicunt <expan><abbr>Philos<am>.</am></abbr><ex>ophum</ex></expan> Qui nondum erravit, nondum incepit, <g type="ampersand">et</g>
+                     <lb n="14"/>errores essse magistros eorum qu<hi rend="ligature">ae</hi> fieri debeant aut non. <milestone unit="section" n="e11-06"/> Ita iidem
+                     <lb n="15"/>inculcant, quod quis totam vitam distillando <g type="ampersand">et</g> redistillando
+                     <lb n="16"/>consumere possit, etiamsi mille annos viveret, antequam per solam
+                     <lb n="17"/>Experimentationem ad veritatem perveniret. <milestone unit="section" n="e11-07"/> Quod absque studio
+                     <lb n="18"/><g type="ampersand">et</g> lectione authorum parum proficiatur, <title>Corrector <expan><abbr>fatuor<hi rend="tilde">u</hi></abbr><ex>m</ex></expan></title> innuit,
+                     <lb n="19"/>c<hi rend="grave">u</hi>m dicit: <quote type="paraphrase">Studium amovet <expan><abbr>ignor<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>tiam</abbr></expan> <g type="ampersand">et</g> reducit humanum inge
+                     <lb n="20" break="no"/>primis est necessarium per studium hujus suavis operis scientiam
+                        <lb n="21"/>acquiescere <g type="ampersand">et</g> per physica dicta ingenium acuere, c<hi rend="grave">u</hi>m in ipsis fit co
+                     <lb n="22" break="no"/>gnitio veritatis. <milestone unit="section" n="e11-08"/> Si ergo laborantes studium <expan><abbr>n<hi rend="tilde">o</hi></abbr><ex>n</ex></expan> despexerint, fructum
+                     <lb n="23"/>inde <expan><abbr>pervenient<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> dulciter degustabunt. <milestone unit="section" n="e11-09"/> Qui autem studere abhor
+                     <lb n="24" break="no"/>ruerint <g type="ampersand">et</g> tamen laborare voluerint, videant, an ars ipsius natur<hi rend="ligature">ae</hi>
+                     <lb n="25"/>fit imitatio, wuam ars ipsius emendare cupit. Quoniam impossibile
+                     <lb n="26"/>est ei secreta Philosophorum ad perfectum finem pr<hi rend="ligature">ae</hi>parare. <milestone unit="section" n="e11-10"/> De
+                     <lb n="27"/>his sapientes dicunt, quod ii transeant ad practicam sicut asinus ad
+                     <lb n="28"/>f<hi rend="ligature">oe</hi>num, nescientes ad quid rostrum porrigant, nisi in quantum sen
+                     <lb n="29" break="no"/>sus exteriores sine intellectu per visum <g type="ampersand">et</g> gustum ad pabulum ad
+                     <lb n="30" break="no"/>ducit.</quote> H<hi rend="ligature">ae</hi>c ille. <milestone unit="section" n="e11-11"/> Ver<hi rend="grave">u</hi>m ne quis nimio studio, quod mare est inex
+                     <lb n="31" break="no"/>haustum <g type="ampersand">et</g> immens<hi rend="ligature">ae</hi> profunditatis, se maceret, omn<hi rend="acute">e</hi>mque lite
+                     <lb n="32" break="no"/>ram, etiam cum multis aliis concordantem, in actum ducere cone
+                     <lb break="no"/>
+                  </ab>
+               <fw type="catchword" place="bottom-right">d<hi rend="ligature">tur</hi></fw>
+                  
+               <pb n="55"/>
+               <head><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="11">XI</num>. <fw type="pageNum" place="top-right">55</fw></head>
+                  <ab>
+                     <lb n="1"/>tur (licet frustra) vires, corporis <hi rend="ligature">ae</hi>tatem, famam, opes <g type="ampersand">et</g> facultates
+                     <lb n="2"/>interim absumendo aut diminuendo, Philosophi Emblematico
+                     <lb n="3"/>hoc utuntur sermone, quod <persName><hi rend="caps">Latona</hi></persName> <expan><abbr>dealb<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>da</abbr></expan> sit, <g type="ampersand">et</g> libri illi rum
+                     <lb n="4" break="no"/>pendi, ne corda eorum rumpantur: sunt enim plerique libri ade<hi rend="grave">o</hi>
+                     <lb n="5"/>obscur<hi rend="grave">e</hi> scripti, ut <hi rend="grave">a</hi> solis authoribus suis percipiantur. <milestone unit="section" n="e11-12"/> Non pauci ad
+                     <lb n="6"/>se ducendum alios ex invidia relicti, aut potius ad remorandum in
+                     <lb n="7"/>cursu, ne absque difficultate <expan><abbr>met<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> attingant, aut ad obscurationem
+                     <lb n="8"/><hi rend="grave">a</hi> se ante scriptorum. <milestone unit="section" n="e11-13"/> Quid autem fit, <persName><expan><abbr>Laton<hi rend="tilde">a</hi></abbr><ex>m</ex></expan></persName> dealbare, hoc opus hic
+                     <lb n="9"/>labor est, inquirere. <q><hi rend="italic"><persName>Latonam</persName> esse ex sole <g type="ampersand">et</g> luna compositum corpus imper
+                     <lb n="10" break="no"/>fectum</hi></q> <title>Clangor buccin<hi rend="ligature">ae</hi></title> asserit. <milestone unit="section" n="e11-14"/> Poët<hi rend="ligature">ae</hi> <g type="ampersand">et</g> antiquissimi scriptores,
+                     <lb n="11"/><persName><expan><abbr>Laton<hi rend="tilde">a</hi></abbr><ex>m</ex></expan></persName> solis <g type="ampersand">et</g> Lun<hi rend="ligature">ae</hi> seu <persName>Apollinis</persName> <g type="ampersand">et</g> <persName>Dian<hi rend="ligature">ae</hi></persName> matrem statuunt, Alli
+                     <lb n="12"/>nutricem. Pri<hi rend="grave">u</hi>s autem <persName><expan><abbr>Dian<hi rend="tilde">a</hi></abbr><ex>m</ex></expan></persName> editam (Luna enim <g type="ampersand">et</g> albedo prim<hi rend="grave">o</hi>
+                     <lb n="13"/>apparet) qu<hi rend="ligature">ae</hi> deinde obstetricis munere functa sit <expan><abbr>e<hi rend="circumflex">a</hi>d<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> die in eden
+                     <lb n="14" break="no"/>do <pc>|</pc> suo fratre <persName>Apolline</persName>. <milestone unit="section" n="e11-15"/> Est autem <persName>Latona</persName> una ex <num value="12" type="cardinal">12<am>.</am></num> diis Hierogly
+                     <lb n="15" break="no"/>phicis <orgName><expan><abbr><hi rend="ligature">Ae</hi>gyptior<hi rend="tilde">u</hi></abbr><ex>m</ex></expan></orgName>, <hi rend="grave">a</hi> <expan><abbr>quib<am>.</am></abbr><ex>us</ex></expan> <expan><abbr>h</abbr><ex>a</ex><abbr><hi rend="hook">e</hi>c</abbr></expan> <expan><abbr>ali<hi rend="ligature">ae</hi>q<am>;</am></abbr><ex>ue</ex></expan> <expan><abbr>allegori</abbr><ex>a</ex><abbr><hi rend="hook">e</hi></abbr></expan> ad reliquas <expan><abbr>g<hi rend="tilde">e></hi></abbr><ex>n</ex><abbr>tes</abbr></expan> pro
+                     <lb n="16" break="no"/>pagat<hi rend="ligature">ae</hi> <expan><abbr>s<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>t</abbr></expan>, solis paucissimis <expan><abbr>sacerdotib<am>.</am></abbr><ex>us</ex></expan> <orgName><hi rend="ligature">Ae</hi>gyptiis</orgName> <expan><abbr>har<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <expan><abbr>ver<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> <expan><abbr>m<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>t<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> <g type="ampersand">et</g>
+                     <lb n="17"/>sententiam intelligentibus, c<hi rend="ligature">ae</hi>teris omnibus ad alia subjecta, qu<hi rend="ligature">ae</hi>
+                     <lb n="18"/>in rerum natura non essent, <expan><abbr>n<hi rend="tilde">e</hi></abbr><ex>m</ex><abbr>pe</abbr></expan> varios Deos De<hi rend="acute">a</hi>sque, ejusmodi
+                     <lb n="19"/><expan><abbr>interpretantib</abbr><ex>us</ex></expan>. <milestone unit="section" n="e11-16"/> Hinc post <persName>Vulcanum</persName> <persName>Latona</persName> ibidem habuit tem
+                     <lb n="20" break="no"/>plum <expan><abbr>sumptiosissim<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>, auro tectum <g type="ampersand">et</g> <expan><abbr>exornat<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>, quippe qu<hi rend="ligature">ae</hi> <persName>Apol
+                     <lb n="21" break="no"/>linis</persName> <expan><abbr>Philos<am>.</am></abbr><ex>ophi</ex></expan> <g type="ampersand">et</g> <persName>Dian<hi rend="ligature">ae</hi></persName> mater fuerit. <milestone unit="section" n="e11-17"/> Est autem h<hi rend="ligature">ae</hi>c <persName>Latona</persName> fusca <g type="ampersand">et</g>
+                     <lb n="22"/>subnigra, <expan><abbr>mult<hi rend="acute">o</hi>sq<am>;</am></abbr><ex>ue</ex></expan> n<hi rend="ligature">ae</hi>vos habet in facie, qui artificio tollendi sunt
+                     <lb n="23"/>nempe per dealbationem. <milestone unit="section" n="e11-18"/> Quidam ex cerusa, mrecurio sublimato,
+                     <lb n="24"/>talco in <expan><abbr>ole<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> redacto <g type="ampersand">et</g> <expan><abbr>similib<am>.</am></abbr><ex>us</ex></expan> dealbationes faciunt, quibus exter
+                     <lb n="25" break="no"/>nam cutim incrustant, tegunt <g type="ampersand">et</g> sic dealbant. At h<hi rend="ligature">ae</hi> incrustationes
+                     <lb n="26"/>dealbativ<hi rend="ligature">ae</hi> quolibet flatu aut liquore decidunt: quia non penetrant
+                     <lb n="27"/>ad interiora. <milestone unit="section" n="e11-19"/> Sed <expan><abbr>Philos<am>.</am></abbr><ex>ophi</ex></expan> de talibus non curant coloritiis, qu<hi rend="ligature">ae</hi> ma
+                     <lb n="28" break="no"/>gis ad <expan><abbr>fall<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>dum</abbr></expan> oculos, qu<hi rend="grave">a</hi>m <expan><abbr>ting<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>d<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <expan><abbr>substanti<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> corporis <expan><abbr>intentior<hi rend="tilde">e</hi></abbr><ex>m</ex></expan>
+                     <lb n="29"/>adhibentur. Volunt enim, ut <persName>Laton<hi rend="ligature">ae</hi></persName> facies dealbetur penetrativ<hi rend="grave">e</hi>
+                     <lb n="30"/><g type="ampersand">et</g> ipsa cutis alteretur, hoc est, ver<hi rend="grave">e</hi> <g type="ampersand">et</g> <expan><abbr>n<hi rend="tilde">o</hi></abbr><ex>n</ex></expan> fucos<hi rend="grave">e</hi>. <milestone unit="section" n="e11-20"/> Qu<hi rend="ligature">ae</hi>ri autem posset
+                     <lb n="31"/>quomodo contingat? Respondeo, <persName>Latona</persName> prim<hi rend="grave">o</hi> inquirenda <g type="ampersand">et</g> a
+                     <lb n="32" break="no"/>gnoscenda est, qu<hi rend="ligature">ae</hi> <expan><abbr>eti<hi rend="tilde">a</hi></abbr><ex>m</ex><abbr>si</abbr></expan> ex vili loco extrahatur, tamen <expan><abbr>sublim<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>da</abbr></expan>
+                     <lb n="33"/>est in <expan><abbr>digior<hi rend="tilde">e</hi></abbr><ex>m</ex></expan>, si ver<hi rend="grave">o</hi> ex digniori, in <expan><abbr>vilior<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> <expan><abbr>submerg<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>da</abbr></expan>, <expan><abbr>n<hi rend="tilde">e</hi></abbr><ex>m</ex><abbr>pe</abbr></expan> in <expan><abbr>fi
+                     <lb n="34" break="no"/>m<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>: Ibi <expan><abbr>n<am>.</am></abbr><ex>m</ex></expan> albescet rever<hi rend="grave">a</hi> <g type="ampersand">et</g> fiet <expan><abbr>pl<hi rend="tilde">u</hi></abbr><ex>m</ex><abbr>b<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <expan><abbr>alb<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>, quo habito, <expan><abbr>n<hi rend="tilde">o</hi></abbr><ex>n</ex></expan> est, <expan><abbr><hi rend="stroke">q</hi></abbr><ex>uod</ex></expan> du
+                     <lb n="35" break="no"/>bitetur de successu, seu <expan><abbr>pl<hi rend="tilde">u</hi></abbr><ex>m</ex><abbr>o</abbr></expan> rubeo, <expan><abbr><hi rend="stroke">q</hi></abbr><ex>uod</ex></expan> est opis <expan><abbr>initi<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <g type="ampersand">et</g> finis.
+                     <lb/> 
+                  </ab> 
+                <fw type="catchword" place="bottom-right" xml:lang="de"><hi rend="gothic">Der</hi></fw>
+                </div>
+            
+         </div>
+      </body>
+  </text>
+</TEI>

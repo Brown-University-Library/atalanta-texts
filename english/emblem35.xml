@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="emblem" n="e35"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+                <pb n="110"/><!-- Change to page number of the actual manuscript -->
+                
+                
+                <div type="title" xml:lang="en">
+                    <head>
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 35. Of the Secrets of Nature.
+                        <lb/>As Ceres accustomed Triptolemus, and Thetis Achilles to abide in
+                        <lb/>fire, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>doth</orig><reg>does</reg></choice> an artist the stone.</seg>
+                    </head>
+                </div>
+                
+                
+                <div type="epigram" xml:lang="en">
+                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 35.</head>
+                    <lg>
+                        <l>Achilles and Triptolemus <choice><orig>enur'd</orig><reg>inured</reg></choice>,</l>
+                        <l>By documents, the hottest flames <choice><orig>endur'd</orig><reg>endured</reg></choice>:</l>
+                        <l>Thetis and Ceres thus did them <choice><orig>sustaine</orig><reg>sustain</reg></choice>,</l>
+                        <l>By night with fire, <choice><orig>ith'</orig><reg>in the</reg></choice> day with <choice><orig>milke</orig><reg>milk</reg></choice> amaine.</l>
+                        <l>As to a babe the breast is <choice><orig>naturall</orig><reg>natural</reg></choice>,</l>
+                        <l><choice><orig>Soe</orig><reg>So</reg></choice> fire to <choice><orig>th'</orig><reg>the</reg></choice> <choice><orig>med'cine</orig><reg>medicine</reg></choice> <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice>.</l>
+                    </lg>
+                </div>
+                
+                
+                <pb n="111"/> <!-- Change to page number of the actual manuscript -->
+                <div type="discourse" xml:lang="en">
+                    <head rend="italics">Discourse 35.</head>
+                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+                        <lb/>Lycurgus that Law<pc rend="double-hyphen">-</pc>maker of the Spartans <choice><orig>Shewed</orig><reg>Showed</reg></choice> to the people in <pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>an assembly in the Theater by an ocular example, how <choice><orig>farre</orig><reg>far</reg></choice> <choice><orig>custome</orig><reg>custom</reg></choice>
+                        <lb/>and use whether good or <choice><orig>evill</orig><reg>evil</reg></choice> may <choice><orig>prævayle</orig><reg>prevail</reg></choice>, <choice><orig>hee</orig><reg>he</reg></choice> bringing in two whelps
+                        <lb/>produced at one litter, and between both setting a <choice><orig>pott</orig><reg>pot</reg></choice> full of meat, <pc>-</pc>
+                        <lb/>and a hare, one of which whelps seeing the food and the hare, left
+                        <lb/>the food and <choice><orig>pursud</orig><reg>pursued</reg></choice> the hare, because <choice><orig>hee</orig><reg>he</reg></choice> was <choice><orig>soe</orig><reg>so</reg></choice> accustomed, but
+                        <lb/>the other not regarding the hare, <choice><orig>emptyed</orig><reg>emptied</reg></choice> the <choice><orig>pott</orig><reg>pot</reg></choice>, <choice><orig>hee</orig><reg>he</reg></choice> being <choice><orig>allso</orig><reg>also</reg></choice> <pc>-</pc>
+                        <lb/><choice><orig>soe</orig><reg>so</reg></choice> accustomed: which being done, behold, <choice><orig>sayth</orig><reg>says</reg></choice> <choice><orig>hee</orig><reg>he</reg></choice>, here you see by
+                        <lb/>little ones, how <choice><orig>farre</orig><reg>far</reg></choice> education and <choice><orig>custome</orig><reg>custom</reg></choice> may <choice><orig>prævayle</orig><reg>prevail</reg></choice>, even in those,
+                        <lb/>which nature <choice><orig>hath</orig><reg>has</reg></choice> produced exactly alike, and of the same litter: After
+                        <lb/>this manner therefore is it convenient to rectify or direct nature to bet
+                        <lb break="no"/>ter things, which is as wax, easily flexible to vice or virtue. That <pc>-</pc>
+                        <lb/>which <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>hath</orig><reg>has</reg></choice> demonstrated to be true in <choice><orig>politicks</orig><reg>politics</reg></choice>, the Philosophers
+                        <lb/><choice><orig>doe</orig><reg>do</reg></choice> agree to be <choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>soe</orig><reg>so</reg></choice> in <choice><orig>Physicks</orig><reg>Physics</reg></choice>. How <choice><orig>effectuall</orig><reg>effectual</reg></choice> <choice><orig>custome</orig><reg>custom</reg></choice> is in <pc>-</pc>
+                        <lb/>men and brutes daily examples are seen throughout the whole world,
+                        <lb/>in vegetables <choice><orig>allso</orig><reg>also</reg></choice> are many obvious, but in <choice><orig>minerall</orig><reg>mineral</reg></choice> and <choice><orig>metallicke</orig><reg>metallic</reg></choice> <pc>-</pc>
+                        <lb/><choice><orig>bodyes</orig><reg>bodies</reg></choice> <choice><orig>wee</orig><reg>we</reg></choice> have not <choice><orig>soe</orig><reg>so</reg></choice> much experience: yet <choice><orig>neverthelesse</orig><reg>nevertheless</reg></choice> they fix
+                        <lb/>their stone by <choice><orig>custome</orig><reg>custom</reg></choice> in fire <choice><orig>agreable</orig><reg>agreeable</reg></choice> to it, as they in innumerable <pc>-</pc>
+                        <lb/>places <choice><orig>doe</orig><reg>do</reg></choice> signify: For it must be nourished by fire, as a child by <choice><orig>milke</orig><reg>milk</reg></choice>
+                        <lb/>upon its mothers breasts: whereupon <choice><orig>sayth</orig><reg>says</reg></choice> Emiganus; behold the babe <pc>-</pc>
+                        <lb/>sucking, and hinder him not: And Bodillus, The infant <choice><orig>borne</orig><reg>born</reg></choice> is nou
+                        <lb break="no"/>rished by <choice><orig>milke</orig><reg>milk</reg></choice> and fire alone, and by little and little whilst <choice><orig>hee</orig><reg>he</reg></choice>
+                        <lb/>is very young, and the more <choice><orig>hee</orig><reg>he</reg></choice> is burned, his bones being comforted,
+                        <lb/><choice><orig>hee</orig><reg>he</reg></choice> is brought to youth, to which attaining, <choice><orig>hee</orig><reg>he</reg></choice> is able to provide for <pc>-</pc>
+                        <lb/><choice><orig>himselfe</orig><reg>himself</reg></choice>: And Arnold in the Rosary booke 2. Chapt 7. Yet the Medicine
+                        <lb/>must be a long time roasted by fire, and nourished as a child <pc>-</pc>
+                        <lb/>with the breasts. These same things have the most ancient Philo
+                        <lb break="no"/>sophers been pleased to demonstrate by the <choice><orig>allegoryes</orig><reg>allegories</reg></choice> of Triptole
+                        <lb break="no"/>mus and Achilles accustomed to <choice><orig>lye</orig><reg>lie</reg></choice> and being hardened in fire, they
+                        <lb/>both denoting nothing <choice><orig>els</orig><reg>else</reg></choice> but the <choice><orig>Chymicall</orig><reg>Chymical</reg></choice> subject, besides which
+                        <lb/>the fable would be insignificant and absurd, unworthy either to be
+                        <lb/>appropriated to other <choice><orig>morall</orig><reg>moral</reg></choice> things, or inculcated to the ears of the <pc>-</pc>
+                        <lb/>learned: Ceres did as a <choice><orig>Nurce</orig><reg>Nurse</reg></choice> feed Triptolemus in the day time <pc>-</pc>
+                        <lb/>with <choice><orig>milke</orig><reg>milk</reg></choice>, and in the night <choice><orig>layd</orig><reg>laid</reg></choice> him in fire, whereupon the <pc>-</pc>
+                        <lb/>youth being very well nourished, his father Eleusius at length <pc>-</pc>
+                        <lb/><choice><orig>tooke</orig><reg>took</reg></choice> notice of it: hereupon Ceres <choice><orig>killd</orig><reg>killed</reg></choice> Eleusius, and gave the <pc>-</pc>
+                        <lb/>youth Triptolemus a <choice><orig>chariott</orig><reg>chariot</reg></choice> <choice><orig>drawne</orig><reg>drawn</reg></choice> with winged Dragons, <pc>-</pc>
+                        <lb/>whereby <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>passd</orig><reg>passed</reg></choice> through the <choice><orig>aire</orig><reg>air</reg></choice> into all parts of the world, <pc>-</pc>
+                        <lb/>and taught men how to sow <choice><orig>corne</orig><reg>corn</reg></choice>: But this Triptolemus is the <pc>-</pc>
+                        <lb/>tincture nourished by fire after a <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> manner, which
+                        <lb/>being <choice><orig>drawne</orig><reg>drawn</reg></choice> by Serpents, that is, Mercury, taught men how the
+                        
+                        
+                        
+                        <pb n="112"/><fw rend="italics">Discourse 35.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <lb/>Philosophers seeds are to be cast into their earth. These same things
+                        <lb/>are ascribed to Osiris, who to that end <choice><orig>tooke</orig><reg>took</reg></choice> a view of the whole world,
+                        <lb/>as <choice><orig>wee</orig><reg>we</reg></choice> have <choice><orig>elswhere</orig><reg>elsewhere</reg></choice> demonstrated, and to Dionysius, who travelled <pc>-</pc>
+                        <lb/>throughout the world teaching men the use of wine: Now these three
+                        <lb/>Triptolemus, Osiris, and Dionysius are of one intention and office, <pc>-</pc>
+                        <lb/>yea one thing; as <choice><orig>allso</orig><reg>also</reg></choice> Achilles, who being most valiant was to be <pc>-</pc>
+                        <lb/>sent to the <choice><orig>Trojane</orig><reg>Trojan</reg></choice> <choice><orig>warre</orig><reg>war</reg></choice>; his father was Peleus, that is, earth, or the
+                        <lb/><choice><orig>mountaine</orig><reg>mountain</reg></choice> Peleus, his mother Thetis <choice><orig>goddesse</orig><reg>goddess</reg></choice> of the Sea or waters; from
+                        <lb/>these Achilles descended: But at their <choice><orig>nuptialls</orig><reg>nuptials</reg></choice> the golden apple of Eris
+                        <lb/>was produced, the first cause of the <choice><orig>Trojane</orig><reg>Trojan</reg></choice> <choice><orig>warre</orig><reg>war</reg></choice>, wherefore <choice><orig>pro
+                        <lb break="no"/>ceding</orig><reg>proceeding</reg></choice> from those <choice><orig>nuptialls</orig><reg>nuptials</reg></choice> reason there was that <choice><orig>hee</orig><reg>he</reg></choice> should determine
+                        <lb/>it: Achilles is <choice><orig>sayd</orig><reg>said</reg></choice> to be hardened by his mother after the same manner <pc>-</pc>
+                        <lb/>as the <choice><orig>aforesayd</orig><reg>aforesaid</reg></choice> Triptolemus by Ceres, concerning <choice><orig>whome</orig><reg>whom</reg></choice> <choice><orig>wee</orig><reg>we</reg></choice> have
+                        <lb/><choice><orig>sayd</orig><reg>said</reg></choice> enough in the 6th <choice><orig>booke</orig><reg>book</reg></choice> of <choice><orig>Hieroglyphicks</orig><reg>Hieroglyphics</reg></choice>, which here to repeat <pc>-</pc>
+                        <lb/><choice><orig>wee</orig><reg>we</reg></choice> <choice><orig>thinke</orig><reg>think</reg></choice> superfluous. The nutriment therefore of the Stone is fire,
+                        <lb/>but it is not thereby (as some may falsely imagine) extended into lon
+                        <lb break="no"/>gitude, latitude, and profundity, nor <choice><orig>doth</orig><reg>does</reg></choice> it receive increment in <pc>-</pc>
+                        <lb/>weight; because it acquires <choice><orig>onely</orig><reg>only</reg></choice> virtue, maturation, and <choice><orig>colour</orig><reg>color</reg></choice> from
+                        <lb/>fire, carrying all the rest with it as <choice><orig>viaticke</orig><reg>viatics</reg></choice> provisions: For when its <pc>-</pc>
+                        <lb/>parts are from <choice><orig>severall</orig><reg>several</reg></choice> places congested, purged, and <choice><orig>conjoyned</orig><reg>conjoined</reg></choice>, it <choice><orig>hath</orig><reg>has</reg></choice> in
+                        <lb/>it all things requisite for it: Whereupon <choice><orig>sayth</orig><reg>says</reg></choice> a Philosopher in the Ro
+                        <lb break="no"/>sary. Omnia fert Secum quibus indiget hæc aqua fœtum.
+                        <lb/>Nor indeed is any strange thing added to it from the beginning to the
+                        <lb/>end, except it be homogeneous, nor separated, if not heterogeneous: <pc>-</pc>
+                        <lb/>But every man ought to consider, before <choice><orig>hee</orig><reg>he</reg></choice> begin any thing, how <choice><orig>hee</orig><reg>he</reg></choice>
+                        <lb/>may come to the knowledge of those Dragons that are to be <choice><orig>joyned</orig><reg>joined</reg></choice> to
+                        <lb/>the chariot of Triptolemus, which are winged and volatile, which
+                        <lb/>if you desire to know, you will find them in the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> dung: <pc>-</pc>
+                        <lb/>for they are dung, and are generated from dung, and are that <choice><orig>vessell</orig><reg>vessel</reg></choice>,
+                        <lb/>which Mary <choice><orig>sayth</orig><reg>says</reg></choice>, is not <choice><orig>negromanticall</orig><reg>negromantical</reg></choice>, but the regiment of your
+                        <lb/>fire, without which you will effect nothing: I have revealed to you <pc>-</pc>
+                        <lb/>the truth, which by incredible pains I acquired from the monuments
+                        <lb/>of the Ancients, not without the expense of many years<pc>. . . .</pc>
+                    </ab>   
+                </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="emblem" n="e25"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+                <pb n="80"/><!-- Change to page number of the actual manuscript -->
+                
+                
+                <div type="title" xml:lang="en">
+                    <head>
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 25. Of the Secrets of Nature.
+                        <lb/>The Dragon <choice><orig>dyes</orig><reg>dies</reg></choice> not, except <choice><orig>hee</orig><reg>he</reg></choice> be <choice><orig>killd</orig><reg>killed</reg></choice> by his brother and Sister,
+                        <lb/>which are Sol and Luna.</seg>
+                    </head>
+                </div>
+                
+                
+                <div type="epigram" xml:lang="en">
+                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 25.</head>
+                    <lg>
+                        <l>To kill the dragon will much art require,</l>
+                        <l><choice><orig>Soe</orig><reg>So</reg></choice> sure as never after to respire:</l>
+                        <l>Brother and Sister <choice><orig>joyntly</orig><reg>jointly</reg></choice> must invade</l>
+                        <l>His life, <choice><orig>'cause</orig><reg>because</reg></choice> nothing <choice><orig>els</orig><reg>else</reg></choice> can him degrade;</l>
+                        <l>Luna his sister is, who Orion Slew,</l>
+                        <l>His brother <choice><orig>Phœbus</orig><reg>Phoebus</reg></choice> Python overthrew.</l>
+                    </lg>
+                </div>
+                
+                
+                <pb n="81"/><!-- regularized from 8i --> <!-- Change to page number of the actual manuscript -->
+                <div type="discourse" xml:lang="en">
+                    <head rend="italics">Discourse 25.</head>
+                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+                        <lb/>In acquiring the golden fleece the Dragon was first of all to be killed, because<pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>the <choice><orig>labour</orig><reg>labor</reg></choice> being attempted by many men, they were overcome by the Dragon <pc>-</pc>
+                        <lb/>and <choice><orig>destroyd</orig><reg>destroyed</reg></choice> with deadly <choice><orig>poyson</orig><reg>poison</reg></choice>: the reason was, because they were not sufficiently
+                        <lb/>armed against the dragons <choice><orig>poyson</orig><reg>poison</reg></choice>, nor instructed, by what <choice><orig>entrigue</orig><reg>intrigue</reg></choice> <choice><orig>hee</orig><reg>he</reg></choice> <pc>-</pc>
+                        <lb/>might be <choice><orig>slayne</orig><reg>slain</reg></choice>: but Jason (the <choice><orig>Physitian</orig><reg>Physician</reg></choice>) neglected <choice><orig>noe</orig><reg>no</reg></choice> manner of <choice><orig>reme
+                        <lb break="no"/>dyes</orig><reg>remedies</reg></choice>, whereof <choice><orig>hee</orig><reg>he</reg></choice> received <choice><orig>severall</orig><reg>several</reg></choice> from Medea (the advice of the mind) and <pc>-</pc>
+                        <lb/>amongst those the images of Sol and Luna, which using <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>successefully</orig><reg>successfully</reg></choice> <choice><orig>ob
+                        <lb break="no"/>taind</orig><reg>obtained</reg></choice> the victory with the reward, that is, the Golden Fleece. The Dragon there
+                        <lb break="no"/>fore was <choice><orig>slayne</orig><reg>slain</reg></choice> by Sol and Luna, or the images of them, which the Philosophers
+                        <lb/><choice><orig>doe</orig><reg>do</reg></choice> in many places inculcate: for an Author of the Rosary amongst others <choice><orig>hath</orig><reg>has</reg></choice> it
+                        <lb/>thus: Hermes; The Dragon <choice><orig>dyes</orig><reg>dies</reg></choice> not, except <choice><orig>hee</orig><reg>he</reg></choice> be <choice><orig>killd</orig><reg>killed</reg></choice> by his brother and Sister,
+                        <lb/>not by one alone but by both together, to <choice><orig>witt</orig><reg>wit</reg></choice>, by Sol and Luna. The Philoso
+                        <lb break="no"/>phers Mercury never <choice><orig>dyes</orig><reg>dies</reg></choice>, except <choice><orig>hee</orig><reg>he</reg></choice> be <choice><orig>killd</orig><reg>killed</reg></choice> by his Sister, that is, <choice><orig>hee</orig><reg>he</reg></choice> must be
+                        <lb/><choice><orig>congeald</orig><reg>congealed</reg></choice> by Luna or Sol. Note, that the Dragon is Argent vive extracted from <choice><orig>bo
+                        <lb break="no"/>dyes</orig><reg>bodies</reg></choice>, having in it body, <choice><orig>Soule</orig><reg>Soul</reg></choice>, and Spirit, whereupon <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>sayth</orig><reg>says</reg></choice>: The Dragon <choice><orig>dyes</orig><reg>dies</reg></choice> <pc>-</pc>
+                        <lb/>not, except by his brother and Sister, that is, Sol and Luna, that is, Sulphur ex
+                        <lb break="no"/>tracted, containing in it the nature of <choice><orig>moistnesse</orig><reg>moistness</reg></choice> and <choice><orig>coldnesse</orig><reg>coldness</reg></choice> according to Luna,
+                        <lb/>by those the dragon <choice><orig>dyes</orig><reg>dies</reg></choice>, that is, Argent vive extracted from the same <choice><orig>bodyes</orig><reg>bodies</reg></choice> at <pc>-</pc>
+                        <lb/>first, which is the Philosophers Aqua permanens, which is made after putre
+                        <lb break="no"/>faction, and after separation of the Elements, and that water is by another <pc>-</pc>
+                        <lb/>name called Aqua fætida: these are his words: with <choice><orig>whome</orig><reg>whom</reg></choice> all the rest <choice><orig>doe</orig><reg>do</reg></choice> <pc>-</pc>
+                        <lb/>agree, <choice><orig>soe</orig><reg>so</reg></choice> that there is <choice><orig>noe</orig><reg>no</reg></choice> need to <choice><orig>alleadge</orig><reg>alleged</reg></choice> the authority of every one: the
+                        <lb/>Epyreans <choice><orig>worshipped</orig><reg>worshiped</reg></choice> the Dragon in the temple of Apollo in <choice><orig>coḿemoration</orig><reg>commemoration</reg></choice> of <pc>-</pc>
+                        <lb/>Python being <choice><orig>slayne</orig><reg>slain</reg></choice>: <choice><orig>Warre</orig><reg>War</reg></choice> and hatred is genuine to the dragon with the Ele
+                        <lb break="no"/>phant, whose eyes and throat <choice><orig>hee</orig><reg>he</reg></choice> strikes at, till the Elephant falling on the <pc>-</pc>
+                        <lb/>ground kills the dragon with <choice><orig>himselfe</orig><reg>himself</reg></choice> by the weight of his body, by which means
+                        <lb/>dragons blood is imported into our <choice><orig>countryes</orig><reg>countries</reg></choice>: The Dragon <choice><orig>hath</orig><reg>has</reg></choice> eyes of the va
+                        <lb break="no"/>luation of <choice><orig>gemms</orig><reg>gems</reg></choice>: his sight is very acute and clear, and therefore <choice><orig>hee</orig><reg>he</reg></choice> is much
+                        <lb/>used for the keeping of treasures, as the apples of the Hesperides, and the gol
+                        <lb break="no"/>den fleece at Colchos <choice><orig>aforesayd</orig><reg>aforesaid</reg></choice>: The Ancients <choice><orig>ascribed</orig><reg>ascribed</reg></choice> a dragon to <choice><orig>Æsculapius</orig><reg>Asculapius</reg></choice>
+                        <lb/>as a <choice><orig>Hieroglyphicke</orig><reg>Hieroglypics</reg></choice>: But the Chymists <choice><orig>doe</orig><reg>do</reg></choice> appropriate dragons to their opera
+                        <lb break="no"/>tions, not indeed really, but allegorically: for a dragon, whether <choice><orig>hee</orig><reg>he</reg></choice> be <choice><orig>fixd</orig><reg>fixed</reg></choice> <pc>-</pc>
+                        <lb/>or volatile, <choice><orig>allwayes</orig><reg>always</reg></choice> denotes Mercury: for this reason Mercury is to be seen with
+                        <lb/>two serpents twisted about his wand (the Dragon being a great Serpent) and <choice><orig>Sa
+                        <lb break="no"/>turne</orig><reg>Saturn</reg></choice> with one, which <choice><orig>devoures</orig><reg>devours</reg></choice> his <choice><orig>tayle</orig><reg>tail</reg></choice>, as <choice><orig>allso</orig><reg>also</reg></choice> Janus: A Serpent is conse
+                        <lb break="no"/>crated to <choice><orig>Æsculapius</orig><reg>Asculapius</reg></choice> the <choice><orig>Sonne</orig><reg>Son</reg></choice> of Apollo, the <choice><orig>inventer</orig><reg>inventor</reg></choice> of medicine (<choice><orig>Philo
+                        <lb break="no"/>sophicall</orig><reg>Philosophical</reg></choice> medicine) in which <choice><orig>forme</orig><reg>form</reg></choice> <choice><orig>hee</orig><reg>he</reg></choice> is reported to be brought from Epi
+                        <lb break="no"/>daurus to Rome, and there <choice><orig>allwayes</orig><reg>always</reg></choice> <choice><orig>worshipped</orig><reg>worshiped</reg></choice> for the cessation of the <pc>-</pc>
+                        <lb/>pestilence caused by him, as was supposed: But the Philosophers dragon is
+                        <lb/><choice><orig>allwayes</orig><reg>always</reg></choice> most vigilant and lively, nor easily to be wounded, both by rea
+                        <lb break="no"/>son of the <choice><orig>thicknesse</orig><reg>thickness</reg></choice> of his <choice><orig>skinne</orig><reg>skin</reg></choice>, and the <choice><orig>sharpnesse</orig><reg>sharpness</reg></choice> of his teeth <pc>-</pc>
+                        <lb/>and <choice><orig>poyson</orig><reg>poison</reg></choice>, wherewith <choice><orig>hee</orig><reg>he</reg></choice> is armed: For though <choice><orig>coḿon</orig><reg>common</reg></choice> dragons are <choice><orig>sayd</orig><reg>said</reg></choice>
+                        <lb/>to be <choice><orig>voyd</orig><reg>void</reg></choice> of <choice><orig>poyson</orig><reg>poison</reg></choice>, yet this is not without it, venting it upon any one
+                        
+                        <pb n="82"/><fw rend="italics">Discourse 25.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <lb/>in his way, if <choice><orig>hee</orig><reg>he</reg></choice> be not warily managed: <choice><orig>Hee</orig><reg>He</reg></choice> can therefore be rarely over
+                        <lb break="no"/>come by force, except the craft of his consanguine relations be <choice><orig>allso</orig><reg>also</reg></choice> added: For
+                        <lb/>the Poet <choice><orig>sayd</orig><reg>said</reg></choice> <choice><orig>truely</orig><reg>truly</reg></choice>, It is a safe and <choice><orig>usuall</orig><reg>usual</reg></choice> way to deceive by the name <pc>-</pc>
+                        <lb/>of a <choice><orig>freind</orig><reg>friend</reg></choice>, yet though it be a safe and <choice><orig>usuall</orig><reg>usual</reg></choice> way, it is a crime, which is <choice><orig>soe</orig><reg>so</reg></choice>
+                        <lb/><choice><orig>elswhere</orig><reg>elsewhere</reg></choice>, and in other businesses, not here. <choice><orig>Juglers</orig><reg>Jugglers</reg></choice> and Mountebanks are <choice><orig>sayd</orig><reg>said</reg></choice> to <pc>-</pc>
+                        <lb/>kill and <choice><orig>expell</orig><reg>expel</reg></choice> <choice><orig>wormes</orig><reg>worms</reg></choice> out of children by the powder of such other <choice><orig>wormes</orig><reg>worms</reg></choice>, that
+                        <lb/>is, brethren by brothers and Sisters, <choice><orig>soe</orig><reg>so</reg></choice> here the dragon must be killed by the
+                        <lb/>brother and Sister together, that is, by Sol and Luna: from whence it appears
+                        <lb/>that the dragon is <choice><orig>allso</orig><reg>also</reg></choice> one of the <choice><orig>Planetts</orig><reg>Planets</reg></choice>, to <choice><orig>witt</orig><reg>wit</reg></choice>, Mercury extracted from
+                        <lb/><choice><orig>bodyes</orig><reg>bodies</reg></choice>, as <choice><orig>hath</orig><reg>has</reg></choice> been <choice><orig>allready</orig><reg>already</reg></choice> manifested by the Rosary: Some of the <choice><orig>Græ
+                        <lb break="no"/>cians</orig><reg>Grecians</reg></choice> <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>affirme</orig><reg>affirm</reg></choice>, that, in the <choice><orig>reigne</orig><reg>reign</reg></choice> of <choice><orig>Herodes</orig><reg>Herod</reg></choice> King of <choice><orig>Judæa</orig><reg>Judea</reg></choice>, a dragon <pc>-</pc>
+                        <lb/>fell in love with a <choice><orig>mariageable</orig><reg>marriageable</reg></choice> and <choice><orig>beautifull</orig><reg>beautiful</reg></choice> <choice><orig>mayd</orig><reg>maid</reg></choice>, and lay with her in bed,
+                        <lb/>and that Tiberius the <choice><orig>Emperour</orig><reg>Emperor</reg></choice> delighted in another, which <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>coḿonly</orig><reg>commonly</reg></choice>
+                        <lb/>fed with his <choice><orig>owne</orig><reg>own</reg></choice> hand: <choice><orig>Soe</orig><reg>So</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> dragon, if <choice><orig>hee</orig><reg>he</reg></choice> be <pc>-</pc>
+                        <lb/>rightly handled, leaves his <choice><orig>fiercenesse</orig><reg>fierceness</reg></choice>, and becomes a <choice><orig>freind</orig><reg>friend</reg></choice> to man, though
+                        <lb/><choice><orig>hee</orig><reg>he</reg></choice> be <choice><orig>malitious</orig><reg>malicious</reg></choice>, if otherwise. Xanthus the historian is a <choice><orig>wittnesse</orig><reg>witness</reg></choice> with <pc>-</pc>
+                        <lb/>Pliny, that the young of a dragon being <choice><orig>killd</orig><reg>killed</reg></choice> was restored by the parent
+                        <lb/>to life with the <choice><orig>herbe</orig><reg>herb</reg></choice>, which <choice><orig>hee</orig><reg>he</reg></choice> calls Balin: which notwithstanding I as
+                        <lb break="no"/>cribe to a <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> allegory, rather than true history, for life is <choice><orig>re
+                        <lb break="no"/>stord</orig><reg>restored</reg></choice> to a dead dragon, and death to a living by course in <choice><orig>Chymicall</orig><reg>Chymical</reg></choice> processes <choice><orig>onely</orig><reg>only</reg></choice>:
+                        <lb/>But some man may enquire, where and how the dragon must be taken? <pc>-</pc>
+                        <lb/>The Philosophers answer by a verse most concisely,
+                        <quote rend="indent" xml:lang="lat">Dant Rebis montes, dracones, terraq, fontes:</quote>
+                        <lb/>But you may see Tacitus of the way of taking him, with what care and
+                        <lb/>industry many men <choice><orig>watchd</orig><reg>watched</reg></choice> to take a mighty dragon <choice><orig>observd</orig><reg>observed</reg></choice> in Africa,
+                        <lb/>and bring him to the <choice><orig>Emperour</orig><reg>Emperor</reg></choice> Tiberius, namely the dragons accusto
+                        <lb break="no"/>med way amongst stones being enclosed and by degrees straightened, <pc>-</pc>
+                        <lb/>where <choice><orig>hee</orig><reg>he</reg></choice> was <choice><orig>stopd</orig><reg>stopped</reg></choice> by <choice><orig>netts</orig><reg>nets</reg></choice> and cords, and at length made tame by clubs <pc>-</pc>
+                        <lb/>and stripes, and as a <choice><orig>burthen</orig><reg>burden</reg></choice> of many carts brought to a ship, in which <choice><orig>hee</orig><reg>he</reg></choice>
+                        <lb/>was <choice><orig>carryed</orig><reg>carried</reg></choice> to Rome<pc>. . . . . . . . . . .</pc>     
+                    </ab>   
+                </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

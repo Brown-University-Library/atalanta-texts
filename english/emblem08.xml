@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="emblem" n="e08"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+                <pb n="29"/><!-- Change to page number of the actual manuscript -->
+                
+                
+                <div type="title" xml:lang="en">
+                    <head>
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 8. Of the Secrets of Nature.
+                        <lb/>Take an <choice><orig>egge</orig><reg>egg</reg></choice> and smite it with a fiery sword.</seg>
+                        
+                    </head>
+                </div>
+                
+                
+                <div type="epigram" xml:lang="en">
+                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 8.</head>
+                    <lg>
+                        <l>Rest not till you have found that <choice><orig>egge</orig><reg>egg</reg></choice> <choice><orig>soe</orig><reg>so</reg></choice> rare,</l>
+                        <l>Descended from the <choice><orig>loftyest</orig><reg>loftiest</reg></choice> bird <choice><orig>oth'</orig><reg>of the</reg></choice> <choice><orig>aire</orig><reg>air</reg></choice>:</l>
+                        <l>With fire and <choice><orig>steele</orig><reg>steel</reg></choice> (<choice><orig>noe</orig><reg>no</reg></choice> otherwise) confound</l>
+                        <l>The Slimy white which <choice><orig>dos</orig><reg>does</reg></choice> the <choice><orig>yolke</orig><reg>yolk</reg></choice> surround;</l>
+                        <l>Though to the God of fire Mars <choice><orig>ayd</orig><reg>aid</reg></choice> Shall give,</l>
+                        <l>The product will of both the victor live.</l>
+                    </lg>
+                </div>
+                
+                
+                <pb n="30"/> <!-- Change to page number of the actual manuscript -->
+                <div type="discourse" xml:lang="en">
+                    <head rend="italics">Discourse 8.</head>
+                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+                        <lb/><milestone unit="section" n="e08-01"/>Many and <choice><orig>severall</orig><reg>several</reg></choice> sorts of birds there are, which as they are indefinite in number, <choice><orig>soe</orig><reg>so</reg></choice> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>are they <choice><orig>unknowne</orig><reg>unknown</reg></choice> to us by names: <milestone unit="section" n="e08-02"/>Story tells us of a very great bird appearing at a <pc>-</pc>
+                        <lb/><choice><orig>certaine</orig><reg>certain</reg></choice> time of the year in a small Isle of the Sea called Ruc, because it can lift
+                        <lb/>up an Elephant with it into the <choice><orig>aire</orig><reg>air</reg></choice>. India and America <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>yeild</orig><reg>yield</reg></choice> <choice><orig>Parrotts</orig><reg>Parrots</reg></choice> of va
+                        <lb break="no"/>rious <choice><orig>colour</orig><reg>color</reg></choice>, Crows, and the like: <milestone unit="section" n="e08-03"/>but it is not the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> intention to in
+                        <lb break="no"/>quire after the eggs of these birds: The <choice><orig>Ægyptians</orig><reg>Egyptians</reg></choice> <choice><orig>doe</orig><reg>do</reg></choice> yearly infest, and as it <pc>-</pc>
+                        <lb/>were with a <choice><orig>publicke</orig><reg>public</reg></choice> <choice><orig>warre</orig><reg>war</reg></choice> denounced prosecute the Eggs of Crocodiles with <pc>-</pc>
+                        <lb/>weapons of iron; the Philosophers <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>burne</orig><reg>burn</reg></choice> their <choice><orig>egge</orig><reg>egg</reg></choice> with fire, not to mortify <pc>-</pc>
+                        <lb/>and destroy it, but that it may receive life and growth; <milestone unit="section" n="e08-04"/>for when a chicken is <pc>-</pc>
+                        <lb/>from thence produced animated and living, it cannot be <choice><orig>sayd</orig><reg>said</reg></choice> to be the corruption
+                        <lb/>but generation of it: <milestone unit="section" n="e08-05"/>it <choice><orig>ceaseth</orig><reg>ceases</reg></choice> indeed to be an <choice><orig>egge</orig><reg>egg</reg></choice> by the privation of the <choice><orig>ovall</orig><reg>oval</reg></choice>
+                        <lb/><choice><orig>forme</orig><reg>form</reg></choice>, and begins to be an <choice><orig>animall</orig><reg>animal</reg></choice> with two feet and volatile by the introduction
+                        <lb/>of a more noble <choice><orig>forme</orig><reg>form</reg></choice>: In an <choice><orig>egge</orig><reg>egg</reg></choice> are the seeds of both male and female <pc>-</pc>
+                        <lb/><choice><orig>joyned</orig><reg>joined</reg></choice> together under one cover or shell: <milestone unit="section" n="e08-06"/>The <choice><orig>yolke</orig><reg>yolk</reg></choice> constitutes the chicken, <pc>-</pc>
+                        <lb/>and the <choice><orig>radicall</orig><reg>radical</reg></choice> parts and <choice><orig>bowells</orig><reg>bowels</reg></choice> thereof, the seed of the male being the <pc>-</pc>
+                        <lb/>former, and <choice><orig>internall</orig><reg>internal</reg></choice> efficient: <milestone unit="section" n="e08-07"/>The white <choice><orig>yeilds</orig><reg>yields</reg></choice> matter, or thread and incre
+                        <lb break="no"/>ment to the rudiment as it were to the warp of the chicken: <milestone unit="section" n="e08-08"/><choice><orig>Externall</orig><reg>External</reg></choice> heat
+                        <lb/>is the first mover, which <choice><orig>doth</orig><reg>does</reg></choice> by a <choice><orig>certaine</orig><reg>certain</reg></choice> circulation of the Elements, toge
+                        <lb break="no"/>ther with instinct and guidance of nature introduce a new <choice><orig>forme</orig><reg>form</reg></choice> by <pc>-</pc>
+                        <lb/>changing one thing into another: <milestone unit="section" n="e08-09"/>for water turnes into <choice><orig>aire</orig><reg>air</reg></choice>, <choice><orig>aire</orig><reg>air</reg></choice> into fire, and
+                        <lb/>fire into earth, upon the conjunction of which, a <choice><orig>specificke</orig><reg>specific</reg></choice> <choice><orig>forme</orig><reg>form</reg></choice> being trans
+                        <lb break="no"/>mitted by the <choice><orig>Starrs</orig><reg>Stars</reg></choice>, an <choice><orig>individuall</orig><reg>individual</reg></choice> is made of a <choice><orig>certaine</orig><reg>certain</reg></choice> kind of bird, namely
+                        <lb/>of that, whose <choice><orig>egge</orig><reg>egg</reg></choice> it was, and seed infused in it. <milestone unit="section" n="e08-10"/>Is it indeed <choice><orig>sayd</orig><reg>said</reg></choice> to be smitten
+                        <lb/>with a fiery sword, whilst Vulcan officiating the duty of a midwife gives pas
+                        <lb break="no"/>sage or <choice><orig>egresse</orig><reg>egress</reg></choice> to the chicken by his axe, as to Pallas out of the <choice><orig>braine</orig><reg>brain</reg></choice> of Ju
+                        <lb break="no"/>piter: <milestone unit="section" n="e08-11"/>This is that which Basill Valentine affirms, that Mercury was impri
+                        <lb break="no"/>soned by Vulcan at the <choice><orig>coḿand</orig><reg>command</reg></choice> of Mars, and not released, before <choice><orig>hee</orig><reg>he</reg></choice> was <pc>-</pc>
+                        <lb/><choice><orig>wholy</orig><reg>wholly</reg></choice> <choice><orig>putrefyd</orig><reg>putrified</reg></choice> and dead: <milestone unit="section" n="e08-12"/>but this death is to him the <choice><orig>begining</orig><reg>beginning</reg></choice> of a new life, <pc>-</pc>
+                        <lb/>as the corruption or death of an <choice><orig>egge</orig><reg>egg</reg></choice> brings new generation and life to the <pc>-</pc>
+                        <lb/>chicken, <milestone unit="section" n="e08-13"/><choice><orig>soe</orig><reg>so</reg></choice> an Embryo being freed from that <choice><orig>humane</orig><reg>human</reg></choice> vegetable life (which
+                        <lb/>alone <choice><orig>hee</orig><reg>he</reg></choice> enjoyed in his mothers <choice><orig>wombe</orig><reg>womb</reg></choice>, another more perfect is obtained by
+                        <lb/>coming into the light of this world, as by nativity: <milestone unit="section" n="e08-14"/>yea <choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>wee</orig><reg>we</reg></choice> being de
+                        <lb break="no"/>prived of this present life, which <choice><orig>wee</orig><reg>we</reg></choice> lead, another most perfect and <choice><orig>æter
+                        <lb break="no"/>nall</orig><reg>eternal</reg></choice> is at hand: Thus Lully <choice><orig>doth</orig><reg>does</reg></choice> in many places call this fiery sword a <pc>-</pc>
+                        <lb/>Sharp Spear; <milestone unit="section" n="e08-15"/>because fire <choice><orig>doth</orig><reg>does</reg></choice> as a Sharp Spear or sword perforate <choice><orig>bodyes</orig><reg>bodies</reg></choice>, <pc>-</pc>
+                        <lb/>and make them porous and pervious, that water can penetrate to dissolve
+                        <lb/>and reduce them from <choice><orig>hardnesse</orig><reg>hardness</reg></choice> to <choice><orig>softnesse</orig><reg>softness</reg></choice> and tractability. <milestone unit="section" n="e08-16"/>In the
+                        <lb/><choice><orig>Stomacke</orig><reg>Stomach</reg></choice> of a Cormorant, which is of all birds most voracious, are found
+                        <lb/>long and round <choice><orig>wormes</orig><reg>worms</reg></choice> alive, which are to it as the instrument of heat,
+                        <lb/>they forthwith invading, and as most sharp needles perforating, (as <choice><orig>wee</orig><reg>we</reg></choice>
+                        <lb/>have sometimes observed) and <choice><orig>soe</orig><reg>so</reg></choice> in a very short time consuming <pc>-</pc>
+                        <lb/>the <choice><orig>Eeles</orig><reg>Eels</reg></choice> and other fish taken by it, with a <choice><orig>wonderfull</orig><reg>wonderful</reg></choice> operation of na
+                        <lb break="no"/>ture: <milestone unit="section" n="e08-17"/>as therefore heat <choice><orig>pricketh</orig><reg>pricks</reg></choice>, <choice><orig>soe</orig><reg>so</reg></choice> a thing pricking sometimes <choice><orig>supplys</orig><reg>supplies</reg></choice> the
+                        
+                        
+                        
+                        <pb n="31"/><fw rend="italics">Discourse 8.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <lb/>place of heat: upon which consideration that, wherewith the Philosophers <choice><orig>egge</orig><reg>egg</reg></choice> <pc>-</pc>
+                        <lb/>ought to be pieced and smitten, may not undeservedly be called a fiery sword:
+                        <lb/><milestone unit="section" n="e08-18"/>but the Philosophers had rather have it understood of a temperate heat, where
+                        <lb break="no"/>by the <choice><orig>egge</orig><reg>egg</reg></choice> is kept <choice><orig>warme</orig><reg>warm</reg></choice>, as Morforleus in Turba declares, <milestone unit="section" n="e08-19"/>saying, wise men
+                        <lb/>ought to <choice><orig>burne</orig><reg>burn</reg></choice> away moisture first with a slow fire, as is <choice><orig>Shewed</orig><reg>Showed</reg></choice> to us by an
+                        <lb/>example in the generation of a chicken, and where the fire is augmented, <pc>-</pc>
+                        <lb/>the <choice><orig>vessell</orig><reg>vessel</reg></choice> must be <choice><orig>stopd</orig><reg>stopped</reg></choice> on all sides, that the body of the <choice><orig>brasse</orig><reg>brass</reg></choice>, and the
+                        <lb/>fugitive Spirit thereof may not exhale. <milestone unit="section" n="e08-20"/>But what birds was the <choice><orig>egge</orig><reg>egg</reg></choice>? Mos
+                        <lb break="no"/>cus in the same place; now I Say, <choice><orig>sayth</orig><reg>says</reg></choice> <choice><orig>hee</orig><reg>he</reg></choice>, that <choice><orig>noe</orig><reg>no</reg></choice> instruments are <pc>-</pc>
+                        <lb/>made, except of our white, starry, splendid powder, and of the white <pc>-</pc>
+                        <lb/>stone, of which powder are made <choice><orig>fitt</orig><reg>fit</reg></choice> instruments for the <choice><orig>egge</orig><reg>egg</reg></choice>; yet they
+                        <lb/>have not named the <choice><orig>egge</orig><reg>egg</reg></choice>, nor what birds the <choice><orig>egge</orig><reg>egg</reg></choice> was<pc>. . . . .</pc>
+                    </ab>   
+                </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
+

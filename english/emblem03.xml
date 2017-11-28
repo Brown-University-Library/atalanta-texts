@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   
+   <text>
+      <body>
+         <div type="emblem" n="e03">
+           <pb n="14"/>
+            
+         
+            <div type="title" xml:lang="en">
+               <head>
+                  <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 3. Of the Secrets of Nature.
+                  <lb/><choice><orig>Goe</orig><reg>Go</reg></choice> to the woman washing <choice><orig>cloaths</orig><reg>clothes</reg></choice>, and <choice><orig>doe</orig><reg>do</reg></choice> you after the same manner.</seg>
+               </head>
+            </div>
+            
+            
+            <div type="epigram" xml:lang="en">
+               <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 3.</head>
+               <lg>
+                  <l>If you delight to dive in things abstruse,</l>
+                  <l>Be vigilant, observe what may conduce:</l>
+                  <l><choice><orig>Doe</orig><reg>Do</reg></choice> you not see, how women wash and <choice><orig>boyle</orig><reg>boil</reg></choice></l>
+                  <l>Their <choice><orig>cloaths</orig><reg>clothes</reg></choice> in waters <choice><orig>hott</orig><reg>hot</reg></choice>, if they <choice><orig>gett</orig><reg>get</reg></choice> <choice><orig>soyle</orig><reg>soil</reg></choice>?</l>
+                  <l>Pursue their steps, you cannot <choice><orig>goe</orig><reg>go</reg></choice> astray,</l>
+                  <l>For water washeth any filth away.</l>
+               </lg>
+            </div>
+            
+            
+            <pb n="15"/>
+            <div type="discourse" xml:lang="en">
+               <head rend="italics">Discourse 3.</head>
+               <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+                  <lb/><milestone unit="section" n="e03-01" />If <subst><del>some <choice><orig>certaine</orig><reg>certain</reg></choice></del><add>any</add></subst> <choice><orig>impurityes</orig><reg>impurities</reg></choice> happen to <choice><orig>linnen</orig><reg>linen</reg></choice> <choice><orig>cloaths</orig><reg>clothes</reg></choice>, whereby they are spot
+                  <lb break="no" />ted and <choice><orig>blacke</orig><reg>black</reg></choice>, as with earthy recrements, they are <choice><orig>washd</orig><reg>washed</reg></choice> away by the next <pc>-</pc>
+                  <lb/>Element, namely water, and the <choice><orig>cloaths</orig><reg>clothes</reg></choice> exposed to the <choice><orig>aire</orig><reg>air</reg></choice>, that the moisture <pc>-</pc>
+                  <lb/>together with the <choice><orig>fæces</orig><reg>feces</reg></choice> may be <choice><orig>drawne</orig><reg>drawn</reg></choice> out by the heat of the <choice><orig>Sunne</orig><reg>Sun</reg></choice>, as by <pc>-</pc>
+                  <lb/>fire, the fourth Element, if this be often done the <choice><orig>cloaths</orig><reg>clothes</reg></choice>, which before were
+                  <lb/><choice><orig>foule</orig><reg>foul</reg></choice> and <choice><orig>uncleane</orig><reg>unclean</reg></choice>, <choice><orig>doe</orig><reg>do</reg></choice> become pure, and <subst><del>purged</del><add>free</add></subst> from Spots: <milestone unit="section" n="e03-02" />This is the art of
+                  <lb/>women, which they learned from Nature <choice><orig>herselfe</orig><reg>herself</reg></choice>:<milestone unit="section" n="e03-02"/> for <choice><orig>wee</orig><reg>we</reg></choice> see, that if the bones of
+                  <lb/><choice><orig>animalls</orig><reg>animals</reg></choice>, which at first are <choice><orig>blacke</orig><reg>black</reg></choice> and filthy, be exposed to the <choice><orig>aire</orig><reg>air</reg></choice>, and often
+                  <lb/><choice><orig>washd</orig><reg>washed</reg></choice> with <choice><orig>raine</orig><reg>rain</reg></choice>, and <choice><orig>dryed</orig><reg>dried</reg></choice> <choice><orig>agayne</orig><reg>again</reg></choice> by the heat of the <choice><orig>Sunne</orig><reg>Sun</reg></choice> often coming upon
+                  <lb/>them, they will, as <choice><orig>Isaacke</orig><reg>Isaac</reg></choice> notes, <milestone unit="section" n="e03-03" />be reduced to perfect <choice><orig>whitenesse</orig><reg>whiteness</reg></choice>: The same <pc>-</pc>
+                  <lb/><choice><orig>allso</orig><reg>also</reg></choice> were <choice><orig>observd</orig><reg>observed</reg></choice> in the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> subject, whatsoever <choice><orig>crudityes</orig><reg>crudities</reg></choice> and <choice><orig>fæ
+                  <lb break="no"/>ces</orig><reg>feces</reg></choice> appear, they are purged and taken away by <del>their</del> waters poured on, and the
+                  <lb/>body <del>is</del> brought to great clarity and perfection. <milestone unit="section" n="e03-04" />For all <choice><orig>Chymicall</orig><reg>Chymical</reg></choice> operations,
+                  <lb/>as Calcination, Sublimation, Solution, Distillation, Descension, Coagulation, Fixa
+                  <lb break="no"/>tion, and the rest, are perfected by ablution alone: <milestone unit="section" n="e03-05" />For <choice><orig>hee</orig><reg>he</reg></choice> that <choice><orig>washeth</orig><reg>washes</reg></choice> an <pc>-</pc>
+                  <lb/>impure thing with water, performs the same thing, as is accomplished by <choice><orig>soe</orig><reg>so</reg></choice> <pc>-</pc>
+                  <lb/>many forms of operating: <milestone unit="section" n="e03-06" />For, as the Philosophers Rosary <choice><orig>sayth</orig><reg>says</reg></choice> <choice><orig>linnen</orig><reg>linen</reg></choice> of
+                  <lb/>prince Duenech being defiled by sweat, must be washed by fire, and burned <pc>-</pc>
+                  <lb/>by water: <milestone unit="section" n="e03-07" />by which fire and water seem to have given one another <choice><orig>mutuall</orig><reg>mutual</reg></choice> <choice><orig>qua
+                  <lb break="no"/>lityes</orig><reg>qualities</reg></choice>, or that the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> fire is not of the same kind with <choice><orig>coḿon</orig><reg>common</reg></choice> fire, and
+                  <lb/>the same must be <choice><orig>supposd</orig><reg>supposed</reg></choice> of the water. <milestone unit="section" n="e03-08" />As for Calx vive, and ignis Græcus <choice><orig>wee</orig><reg>we</reg></choice>
+                  <lb/>know that they are kindled by water, and <choice><orig>noe</orig><reg>no</reg></choice> wise extinguished, contrary to <pc>-</pc>
+                  <lb/>the nature of other things that are subject to take fire: <choice><orig>soe</orig><reg>so</reg></choice> they <choice><orig>affirme</orig><reg>affirm</reg></choice> that
+                  <lb/>Camphore being kindled before burnes in water: <milestone unit="section" n="e03-09" />and the Stone <choice><orig>calld</orig><reg>called</reg></choice> Gagates (as
+                  <lb/>Ansell de Bood attests) being kindled is more easily extinguished by <choice><orig>oyle</orig><reg>oil</reg></choice> <pc>-</pc>
+                  <lb/>than <del>by</del> water: for <choice><orig>Oyle</orig><reg>Oil</reg></choice> is <subst><del><unclear reason="illegible">not</unclear></del><add>mixed</add></subst> with it, and suffocates the fired body:
+                  <lb/><milestone unit="section" n="e03-10" />water not being able to mix <choice><orig>itselfe</orig><reg>itself</reg></choice> with <choice><orig>fattnesse</orig><reg>fatness</reg></choice>, gives place to the body <pc>-</pc>
+                  <lb/>being fired, <choice><orig>unlesse</orig><reg>unless</reg></choice> it <choice><orig>alltogether</orig><reg>altogether</reg></choice> cover and <choice><orig>overwhelme</orig><reg>overwhelm</reg></choice> it: but that can
+                  <lb break="no"/>not easily be done, because it is a stone, and swims upon the top of the <pc>-</pc>
+                  <lb/>water, as all <choice><orig>oyle</orig><reg>oil</reg></choice>: <choice><orig>Soe</orig><reg>So</reg></choice> Naphta, Petroleum, and the like being kindled <choice><orig>doe</orig><reg>do</reg></choice>
+                  <lb/>not much fear water. <milestone unit="section" n="e03-11" />Some write of the Subterranean coals in the dominion
+                  <lb/>of Liege, that being kindled in the earth, they cannot be extinguished by
+                  <lb/>water, but <choice><orig>onely</orig><reg>only</reg></choice> by throwing and heaping the dust of the earth upon them:
+                  <lb/>as Cor: <milestone unit="section" n="e03-12" />Tacitus declares of the like kind of fire, which cannot be quenched
+                  <lb/>by water, but <choice><orig>onely</orig><reg>only</reg></choice> by clubs, and garments taken <choice><orig>of</orig><reg>off</reg></choice> from the body: <milestone unit="section" n="e03-13" />there
+                  <lb/>is therefore a great diversity of <hi rend="superscript">1</hi>fires, <hi rend="superscript">8</hi>and <hi rend="superscript">9</hi><choice><orig>noe</orig><reg>no</reg></choice> <hi rend="superscript">10</hi><choice><orig>lesse</orig><reg>less</reg></choice> <hi rend="superscript">11</hi>of <hi rend="superscript">12</hi>liquors, <hi rend="superscript">2</hi><add>both</add> <hi rend="superscript">3</hi>in <hi rend="superscript">4</hi>exciting <pc>-</pc>
+                  <lb/><hi rend="superscript">5</hi>and <hi rend="superscript">6</hi>in <hi rend="superscript">7</hi>extinguishing, <hi rend="superscript">13</hi>because <choice><orig>milke</orig><reg>milk</reg></choice>, vinegar, Spirit of wine, Aqua fortis,
+                  <lb/>aqua Regia, and <choice><orig>coḿon</orig><reg>common</reg></choice> water <choice><orig>doe</orig><reg>do</reg></choice> differ much one from another, as to com
+                  <lb break="no"/>parison with fire: <milestone unit="section" n="e03-14" />nor this <choice><orig>onely</orig><reg>only</reg></choice>, but <choice><orig>allso</orig><reg>also</reg></choice> the matter <choice><orig>itselfe</orig><reg>itself</reg></choice> <choice><orig>doth</orig><reg>does</reg></choice> some
+                  <lb break="no"/>times <choice><orig>sustaine</orig><reg>sustain</reg></choice> fire, as those fine Byssinian <choice><orig>cloaths</orig><reg>clothes</reg></choice>, formerly used and
+                  <lb/>esteemed by rich men, which were <choice><orig>washd</orig><reg>washed</reg></choice>, or reduced to former <choice><orig>cleanesse</orig><reg>cleanness</reg></choice>,
+                  <lb/>by fire, not by water, the <choice><orig>fæces</orig><reg>feces</reg></choice> being burned away: <milestone unit="section" n="e03-15" />Whatsoever some men
+                  <lb/>vainly <choice><orig>talke</orig><reg>talk</reg></choice> of the <choice><orig>haires</orig><reg>hairs</reg></choice> of the reptile Salamander, as if incombustible
+               
+                  
+                  <pb n="16"/><fw rend="italics">Discourse 3.</fw>
+                  <lb/>Elychnia <add>or <choice><orig>lamp-wiecks</orig><reg>lamp-wicks</reg></choice></add> may be made thereof, is not to be regarded: Some there be who of a
+                  <lb/>truth <choice><orig>affirme</orig><reg>affirm</reg></choice> that in times past a texture was <choice><orig>præpared</orig><reg>prepared</reg></choice> <milestone unit="section" n="e03-16" />of <choice><orig>Talke</orig><reg>Talc</reg></choice>, plumous Alum,
+                  <lb/>and such other matters, which was frequently purged by fire, but that the art <pc>-</pc>
+                  <lb/>was lost and extinct with the artist (a woman of Antwerp) through envy, and that
+                  <lb/>the same temperament could not be found afterwards: <choice><orig>Wee</orig><reg>We</reg></choice> <choice><orig>doe</orig><reg>do</reg></choice> not here <choice><orig>speake</orig><reg>speak</reg></choice> of
+                  <lb/>combustible matters: The <choice><orig>Philosophicall</orig><reg><milestone unit="section" n="e03-17" />Philosophical</reg></choice> Subject must be considered according
+                  <lb/>to all these differences, if at any time it be <choice><orig>præpared</orig><reg>prepared</reg></choice>: for fire, water, and matter
+                  <lb/><choice><orig>itselfe</orig><reg>itself</reg></choice> is here not <choice><orig>coḿon</orig><reg>common</reg></choice>: for the Philosophers fire is water, and water fire: <pc>-</pc>
+                  <lb/><milestone unit="section" n="e03-18" />their water <choice><orig>doth</orig><reg>does</reg></choice> at once both wash and calcine, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> their fire: and the <pc>-</pc>
+                  <lb/><choice><orig>cloaths</orig><reg>clothes</reg></choice> which are to be <choice><orig>washd</orig><reg>washed</reg></choice> have the nature of the byssinean textures, or
+                  <lb/><choice><orig>præpared</orig><reg>prepared</reg></choice> <choice><orig>Talke</orig><reg>Talc</reg></choice>, the temperament of which, and art of <choice><orig>præparation</orig><reg>preparation</reg></choice> is <choice><orig>allso</orig><reg>also</reg></choice> <pc>-</pc>
+                  <lb/>not obvious to all men: <milestone unit="section" n="e03-19" /><seg rend="underline" hand="2">To wash them, they make a Lixivium, or Lye, not <pc>-</pc>
+                  <lb/>with the ashes, or Salt of Oaks,</seg> bu<seg rend="underline" hand="2">t <choice><orig>metallicke</orig><reg>metallic</reg></choice>, which is more durable than <pc>-</pc>
+                  <lb/>the other, nor with <choice><orig>coḿon</orig><reg>common</reg></choice> water,</seg> <seg rend="underline" hand="2">but that, which <choice><orig>hath</orig><reg>has</reg></choice> been <choice><orig>congeled</orig><reg>congealed</reg></choice> into <pc>-</pc>
+                  <lb/>Ice and Snow under the <choice><orig>signe</orig><reg>sign</reg></choice> Aquary, as that which is of thinner parts, than
+                  <lb/>standing waters of ditches or Marshes, and therefore can better penetrate into
+                  <lb/>the more <choice><orig>internall</orig><reg>internal</reg></choice> parts of the <choice><orig>blacke</orig><reg>black</reg></choice> and unclean <choice><orig>Philosophicall</orig><reg>Philsophical</reg></choice> body, in <pc>-</pc>
+                  <lb/>order to the washing and purging thereof</seg><pc>. . . . . . .</pc>
+               
+               </ab>   
+            </div>
+            
+         </div>
+      </body>
+   </text>
+</TEI>

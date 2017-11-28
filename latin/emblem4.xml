@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+     <revisionDesc>
+        <change when="2017-03-15" who="SJD">Created</change>
+        <change when="2017-03-15" who="SJD">Completed draft</change>
+     </revisionDesc>
+  </teiHeader>
+   
+   
+  <text>
+      <body>
+         <div type="emblem" n="e4">
+            <pb n="24"/>
+            <head>
+               <lb n="1"/><fw type="pageNum" place="top-left">24</fw> FUGA IV. in Quarta, supr<hi rend="grave">a</hi>.
+               <lb n="2"/>Füge den Bruder der Schwester zu <pc>/</pc> und gib ihnen
+               <lb n="3"/>den Becher der Liebe.
+            </head>
+            
+            <div type="fugue">
+               <head>
+                  
+               </head>
+               
+            </div>
+            
+            <div type="epigram" xml:lang="de">
+               <head>IV. Epigrammatis Latini versio Germanica.</head>
+               <lg>
+                  <lb n="1"/><l>Der Menschen <expan><abbr>G</abbr><ex>e</ex><abbr>schlecht</abbr></expan> in dieser Welt wär nich so wolv vermehret<pc>/</pc></l>
+                  <lb n="2"/><l>Wann nicht zum Bruder die Schwester sich gekehret.</l>
+                  <lb n="3"/><l>Darumb zusammen füg zwein Geschwister eines Geblütes<pc>/</pc></l>
+                  <lb n="4"/><l>Daß sie ehlig leben <pc>/</pc> Mann und Weib eins Gemüthes.</l>
+                  <lb n="5"/><l>Schenck ihnen ein der Lieb Becher mit süssem Reben Safft<pc>/</pc></l>
+                  <lb n="6"/><l>Solchs gibt ihn zur Hoffnung der Frucht ein groß und starcke Krafft.</l>
+               </lg>
+            </div>
+            <fw type="catchword" place="bottom-right">Emble</fw>
+            
+            <pb n="25"/> <fw type="pageNum" place="top-right">25</fw>
+            
+            <div type="image-caption">
+               <head>
+                  <lb n="1"/>Emblema IV.<hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.<!-- BC: how do we want to handle ligatures? -->
+                  <lb n="2"/>Conjunge fratrem cum sorore <g type="ampersand">et</g> propina illis poculum amoris:
+               </head>
+            </div>
+            
+            <figure><graphic url=""></graphic></figure>
+            
+            <div type="epigram" xml:lang="la">
+               <head>Epigramma IV.</head>
+               <lg>
+                  <lb n="1"/><l>Non hominum foret in mundo nun tanta propago,</l>
+                  <lb n="2"/><l>Si fratri coniunx non data prima soror.</l>
+                  <lb n="3"/><l>Ergo lubens conjunge duos ab utroque parente</l>
+                  <lb n="4"/><l>Progenitos, ut sint f<hi rend="ligature">oe</hi>mina m<hi rend="acute">a</hi>sque toro.</l>
+                  <lb n="5"/><l>Pr<hi rend="ligature">ae</hi>bibe nectareo Philothsia pocla liquore</l>
+                  <lb n="6"/><l>Utrisque, <g type="ampersand">et</g> f<hi rend="ligature">oe</hi>tus spem generabit amor.</l>
+               </lg>
+            </div>
+            
+           <fw type="gathering">D</fw> <fw type="catchword" place="bottom-right">Lex</fw>
+            
+            <div type="discourse">
+               <pb n="26"/>
+               <head><fw type="pageNum" place="top-left">26</fw> <hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="4">IV</num>.</head>
+                  <ab>
+                     <lb n="1"/><milestone unit="section" n="e04-01"/>Lex Divina <g type="ampersand">et</g> politica prohibit gradu sanguinis propinquiore
+                     <lb n="2"/>per naturam <pc>|</pc> conjunctos, matrimonio copulari, quales sunt di
+                     <lb n="3"  break="no"/>recte ascendentes <g type="ampersand">et</g> descendentes in arbore genealogica <g type="ampersand">et</g> ad la
+                     <lb n="4" break="no"/>tera concurrentes, idque propter causas certissimas: <milestone unit="section" n="e04-02"/> At quando
+                     <lb n="5"/>philosophi de matre cum filio, aut patre cum filia, seu de fratre cum
+                     <lb n="6"/>sorore, conjugio jugendis loquuntur, non contra dictam legem 
+                     <lb n="7"/>quid dicunt aut faciunt: Quia subjecta distinguunt attributa <g type="ampersand">et</g>
+                     <lb n="8"/>caus<hi rend="ligature">ae</hi> effectus: <milestone unit="section" n="e04-03"/> Person<hi rend="ligature">ae</hi> enim Philosophorum ab iis differentiis
+                     <lb n="9"/>sunt liber<hi rend="ligature">ae</hi> <hi rend="ligature">ae</hi>qu<hi rend="grave">e</hi>unt ut <persName>Adami</persName> filii fili<hi rend="ligature">ae</hi>que, qui se invicem in conjuges
+                     <lb n="10"/>ducebant absque ullius criminis imputatione: <milestone unit="section" n="e04-04"/> Ratio autem potis
+                     <lb n="11" break="no"/>sima videtur, ut genus humanum affinitate <g type="ampersand">et</g> amicitia firmi<hi rend="grave">u</hi>s coa
+                     <lb n="12" break="no"/>lcescat <g type="ampersand">et</g> consocietur, nec in factiones familiarum inimicas <g type="ampersand">et</g> h<hi rend="ligature">ae</hi>re
+                     <lb n="13" break="no"/>ditarias dividatur: <milestone unit="section" n="e04-05"/> Eadem causa quia primis fratribus <g type="ampersand">et</g> sororibus
+                     <lb n="14"/><orgName>Adamicis</orgName> integra manserit, nil prohibuit, quo minus matrimonio
+                     <lb n="15"/>conjungerentur: <milestone unit="section" n="e04-06"/> In ipsis enim solis genus humanum tum extitit,
+                     <lb n="16"/>nec alii pr<hi rend="ligature">ae</hi>ter ipsos, eorum<hi rend="acute">q</hi>ue parentes, vixerunt ide<hi rend="acute">o</hi>que ut san
+                     <lb n="17" break="no"/>guine connexi, sic affinitate connectendi necessario fuerunt: At
+                     <lb n="18"/>succrescentes hominum multitudine, qu<hi rend="ligature">ae</hi> in innumeras familias
+                     <lb n="19"/>distributa, causa h<hi rend="ligature">ae</hi>c vera <g type="ampersand">et</g> <hi rend="ligature">ae</hi>qua inventa est, ne fratres sorores
+                     <lb n="20"/>ducerent: <milestone unit="section" n="e04-07"/> Apud philosophos alia ratio est, cur sorores nubant fra
+                     <lb n="21" break="no"/>tribus, nempe similitudo substanti<hi rend="ligature">ae</hi>, ut simil conjugatur: <milestone unit="section" n="e04-08"/> Sunt
+                     <lb n="22"/>autem in hoc genere saltem duo sibi quo ad speciem similia,
+                     <lb n="23"/>quo ad sexum differentia, quorum unum fratis, alterum
+                     <lb n="24"/>sororis nomine salutatur: H<hi rend="ligature">ae</hi>c itaque e<hi rend="circumflex">a</hi>dem <g type="ampersand">et</g> libertate <g type="ampersand">et</g>
+                     <lb n="25"/>conditione, im<hi rend="grave">o</hi> <g type="ampersand">et</g> necessitate inevitabili, qu<hi rend="circumflex">a</hi> primi homine con
+                     <lb n="26" break="no"/>sanguinei, uni matrimonio legitim<hi rend="grave">e</hi> committenda sunt: <milestone unit="section" n="e04-09"/> Frater est
+                     <lb n="27"/>ardens <g type="ampersand">et</g> siccus, ide<hi rend="acute">o</hi>que vald<hi rend="grave">e</hi> chloericus; soror est frigida <g type="ampersand">et</g> hu
+                     <lb n="28" break="no"/>mida, multum phlegmatic<hi rend="ligature">ae</hi> in se habens materi<hi rend="ligature">ae</hi>: Qu<hi rend="ligature">ae</hi> intempe
+                     <lb n="29" break="no"/>rie ade<hi rend="grave">o</hi> differentes natur<hi rend="ligature">ae</hi>, in amore <g type="ampersand">et</g> f<hi rend="ligature">oe</hi>cunditate, liberor<hi rend="acute">u</hi>m
+                     <lb n="30" break="no"/>que propagatione optim<hi rend="grave">e</hi> convenire solent: <milestone unit="section" n="e04-10"/> Ut enim non ex chaly
+                     <lb n="31" break="no"/>be <g type="ampersand">et</g> chalybe durissimo corpore, nec ex silice <g type="ampersand">et</g> silice fragili, excu
+                     <lb n="32" break="no"/>titur facil<hi rend="grave">e</hi> ignis, qui propagari possit, sed ex duro <g type="ampersand">et</g> fragili, hoc est,
+                     <lb n="33"/>chalybe <g type="ampersand">et</g> silice; sic <expan><abbr>no</abbr><ex>n</ex></expan> ex ardente mare <g type="ampersand">et</g> ignea f<hi rend="ligature">oe</hi>mina, ut nec ex
+                     <lb/>
+                  </ab>
+               <fw type="catchword" place="bottom-right">utrisque</fw>
+                  
+               <pb n="27"/>
+               <head><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="4">IV</num>, <fw type="pageNum" place="top-right">27</fw></head>
+                  <ab>
+                     <lb n="1"/>utrisque frigidis (frigiditas enim maris inf<hi rend="ligature">oe</hi>cunditas est) proles vi
+                     <lb n="2" break="no"/>vax suscipitur, sed ex illo calido, hac frigidiore: <milestone unit="section" n="e04-11"/> calidissima enim
+                     <lb n="3"/>mulier, in temperamenti humani latitudine, frigidior statuitur fri
+                     <lb n="4" break="no"/>gidissimo sui sexus (at sano) viro, ut <persName ref="http://viaf.org/viaf/68988246"><expan><abbr>Lev<am>.</am></abbr><ex>inus</ex></expan> Lemnius</persName> in <title ref="http://viaf.org/viaf/313402273"><expan><abbr>lib<am>.</am></abbr><ex>ris</ex></expan> de <expan><abbr>occ<am>.</am></abbr><ex>ultis</ex></expan> <expan><abbr>nat<am>.</am></abbr><ex>urae</ex></expan>
+                     <lb n="5"/><expan><abbr>mirac<am>.</am></abbr><ex>ulis</ex></expan></title> probat. Soror itaque <g type="ampersand">et</g> frater <hi rend="grave">a</hi> Philosophis rect<hi rend="grave">e</hi> conjun
+                     <lb n="6" break="no"/>guntur. <milestone unit="section" n="e04-12"/> Si quis ex gallina, canicula, capra, ove vel aliis brutis f<hi rend="ligature">oe</hi>
+                     <lb n="7" break="no"/>tum nasci debere <choice><orig>desyderet</orig><corr>desideret</corr></choice>, is gallum, canem, hircum, caprum,
+                     <lb n="8"/>quodque animal su<hi rend="ligature">ae</hi> speciei, cui similius existit, adjungit, atque
+                     <lb n="9"/>sic voto suo non frustratur; nec ver<hi rend="grave">o</hi> respicit consanguinitatem
+                     <lb n="10"/>brutorum, sed saltem generositatem cujusque <g type="ampersand">et</g> natur<hi rend="ligature">ae</hi> conveni
+                     <lb n="11" break="no"/>ntiam. Ita dicendum de trunco arboris, <g type="ampersand">et</g> surculo ei inferendo?
+                     <lb n="12"/><milestone unit="section" n="e04-13"/> Im<hi rend="grave">o</hi> de metallica natura, qu<hi rend="ligature">ae</hi> tamen omnium maxim<hi rend="grave">e</hi> similitudi
+                     <lb n="13" break="no"/>nem <g type="ampersand">et</g> homogeneitatem substanti<hi rend="ligature">ae</hi> ut habet, sic, ubi quid sibi con
+                     <lb n="14" break="no"/>jungi postulet, requirit: <milestone unit="section" n="e04-14"/> Ver<hi rend="grave">u</hi>m frater <g type="ampersand">et</g> soror conjuncti, f<hi rend="ligature">oe</hi>cundi
+                     <lb n="15"/>non fiunt, nec in amore diu persistunt, nisi Philothesium illis seu po
+                     <lb n="16" break="no"/>culum amoris, instar philtri, propinetur: Hoc enim sedantur <g type="ampersand">et</g> con
+                     <lb n="17" break="no"/>ciliantur eorum animi ade<hi rend="grave">o</hi>, ut quasi ebrii (instar Lothi) inter se,
+                     <lb n="18"/>pudore abiecto, congrediantur <g type="ampersand">et</g> prolem (non spuriam, sed) legi
+                     <lb n="19" break="no"/>timam progeneret. <milestone unit="section" n="e04-15"/> Quis enim ignorat, humanum genus Medi
+                     <lb n="20" break="no"/>cin<hi rend="ligature">ae</hi> plurimum debere, propterea, quod mult<hi rend="ligature">ae</hi> hominum myria
+                     <lb n="21" break="no"/>des, ejus beneficio <g type="ampersand">et</g> oper<hi rend="circumflex">a</hi>, nunc in mundo extent, qui non fuis
+                     <lb n="22" break="no"/>sent, nisi eorum parentes aut proavi<hi rend="grave">a</hi> vitio sterilitatis per remotio
+                     <lb n="23" break="no"/>nem caus<hi rend="ligature">ae</hi> <g type="ampersand">et</g> sublationem, seu impedimenti proximi, <g type="ampersand">et</g> remoti,
+                     <lb n="24"/>vindicati <g type="ampersand">et</g> liberati, aut ab abortu matres pr<hi rend="ligature">ae</hi>servat<hi rend="ligature">ae</hi> forent? <milestone unit="section" n="e04-16"/> Da
+                     <lb n="25" break="no"/>tur itaque hoc poculum amoris easdem ob causas his novis nuptis,
+                     <lb n="26"/>quas quilibet ex jam dictis ternas perspicere poterit, utpote amoris
+                     <lb n="27"/>constantiam, sterilitatis remotionem <g type="ampersand">et</g> abortus prohibitionem.
+                     <lb/> 
+                  </ab> 
+               <fw type="gathering" place="bottom-right"><hi rend="gothic">D ij</hi></fw> <fw type="catchword" place="bottom-right" xml:lang="de"><hi rend="gothic">Setz</hi></fw>
+                </div>
+            
+         </div>
+      </body>
+  </text>
+</TEI>

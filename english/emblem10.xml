@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="emblem" n="e10"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+                <pb n="35"/><!-- Change to page number of the actual manuscript -->
+                
+                
+                <div type="title" xml:lang="en">
+                    <head>
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 10. Of the Secrets of Nature.
+                        <lb/>Give fire to fire, Mercury to Mercury, and you have enough.</seg>
+                    </head>
+                </div>
+                
+                
+                <div type="epigram" xml:lang="en">
+                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 10.</head>
+                    <lg>
+                        <l>The worlds whole frame depends upon this <choice><orig>chaine</orig><reg>chain</reg></choice>,</l>
+                        <l>Like to its like, as <choice><orig>Shepheardesse</orig><reg>Shepherdess</reg></choice> to <choice><orig>Swaine</orig><reg>Swain</reg></choice>:</l>
+                        <l>These are the bounds of art, proceed <choice><orig>noe</orig><reg>no</reg></choice> higher,</l>
+                        <l>Hermes to Hermes <choice><orig>joyne</orig><reg>join</reg></choice>, and fire to fire.</l>
+                        <l>Vulcan makes Hermes fly, but Cynthia must</l>
+                        <l>Bring him to tears, then <choice><orig>yeild</orig><reg>yield</reg></choice> to her brothers lust.</l>
+                    </lg>
+                </div>
+                
+                
+                <pb n="36"/> <!-- Change to page number of the actual manuscript -->
+                <div type="discourse" xml:lang="en">
+                    <head rend="italics">Discourse 10.</head>
+                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+                        <lb/><milestone unit="section" n="e10-01" />If this saying be taken literally, it <choice><orig>onely</orig><reg>only</reg></choice> <choice><orig>increaseth</orig><reg>increases</reg></choice> the quality of fire and Mer <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb break="no"/>cury, and <choice><orig>introduceth</orig><reg>introduces</reg></choice> <choice><orig>noe</orig><reg>no</reg></choice> new quality in the subject: for every like being added
+                        <lb/>to its like makes a similar augmentation: <milestone unit="section" n="e10-02" />and therefore <choice><orig>Physitians</orig><reg>Physicians</reg></choice> <choice><orig>affirme</orig><reg>affirm</reg></choice> <pc>-</pc>
+                        <lb/>that contrary diseases are cured and taken away by contrary medicines, <pc>-</pc>
+                        <lb/><choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>wee</orig><reg>we</reg></choice> see that fire is extinguished by water, but sustained by adding
+                        <lb/>fire: <milestone unit="section" n="e10-03" />The Poet is of the same opinion saying: Venus <choice><orig>rageth</orig><reg>rages</reg></choice> in wine, fire in
+                        <lb/>fire: <milestone unit="section" n="e10-04" />but it may be answered, that fire and fire, Mercury and Mercury are
+                        <lb/>very different one from another: for there are many kinds of fires with the
+                        <lb/>Philosophers, many <choice><orig>allso</orig><reg>also</reg></choice> of Mercury: <milestone unit="section" n="e10-05" />Moreover the same heat and cold <pc>-</pc>
+                        <lb/>being distant <choice><orig>onely</orig><reg>only</reg></choice> in place or situation, differs from another of its <choice><orig>owne</orig><reg>own</reg></choice> <pc>-</pc>
+                        <lb/>kind, <choice><orig>soe</orig><reg>so</reg></choice> as to attract to it that which is like to <choice><orig>itselfe</orig><reg>itself</reg></choice>, that heat fixed in <pc>-</pc>
+                        <lb/>any part is attracted and <choice><orig>drawne</orig><reg>drawn</reg></choice> forth by the same heat, and that the <pc>-</pc>
+                        <lb/><seg rend="underline" hand="2"><choice><orig>joynts</orig><reg>joints</reg></choice> being <choice><orig>stupefyd</orig><reg>stupefied</reg></choice> with the cold of winter, and</seg> <seg rend="underline" hand="2"><choice><orig>allmost</orig><reg>almost</reg></choice></seg> dead with cold
+                        <lb/>water, are restored if they be put <seg rend="underline" hand="2">into it, not by <choice><orig>externall</orig><reg>external</reg></choice> heat <choice><orig>iḿediately</orig><reg>immediately</reg></choice></seg>
+                        <lb/><choice><orig>administred</orig><reg>administered</reg></choice>: <milestone unit="section" n="e10-06" />as indeed a greater light obscures the <choice><orig>lesse</orig><reg>less</reg></choice>, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> greater heat the
+                        <lb/><choice><orig>lesse</orig><reg>less</reg></choice>, and greater cold the <choice><orig>lesse</orig><reg>less</reg></choice>: <choice><orig>neverthelesse</orig><reg>nevertheless</reg></choice> it is requisite for the <choice><orig>externall</orig><reg>external</reg></choice>
+                        <lb/>heat and cold to be <choice><orig>lesse</orig><reg>less</reg></choice>, than that which was before fixed or imprinted on the
+                        <lb/>parts or <choice><orig>joynts</orig><reg>joints</reg></choice>, otherwise the same impression would be made, as before, and <pc>-</pc>
+                        <lb/>the like would be much more increased, than <choice><orig>drawne</orig><reg>drawn</reg></choice> out, by the like: <milestone unit="section" n="e10-07" />for <pc>-</pc>
+                        <lb/>the drawing out of cold by cold water, and of fiery heat by heat is <choice><orig>agreable</orig><reg>agreeable</reg></choice> to
+                        <lb/>nature, because every sudden mutation into a contrary is dangerous to it, and <pc>-</pc>
+                        <lb/><choice><orig>lesse</orig><reg>less</reg></choice> acceptable, but that which is by little and little, and as it were by degrees
+                        <lb/>is tolerable: <milestone unit="section" n="e10-08" /><choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>wee</orig><reg>we</reg></choice> say, there is one <choice><orig>internall</orig><reg>internal</reg></choice> fire, and is <choice><orig>allready</orig><reg>already</reg></choice> infixed <pc>-</pc>
+                        <lb/>and <choice><orig>essentiall</orig><reg>essential</reg></choice> in the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> subject, another <choice><orig>externall</orig><reg>external</reg></choice>, which may
+                        <lb/><choice><orig>allso</orig><reg>also</reg></choice> be understood of Mercury: <milestone unit="section" n="e10-09" />that is an <choice><orig>internall</orig><reg>internal</reg></choice> fire <choice><orig>æquivocally</orig><reg>equivocally</reg></choice> because
+                        <lb/>of its fiery qualities, virtues, and operations, <choice><orig>externall</orig><reg>external</reg></choice> univocally: <choice><orig>Externall</orig><reg>External</reg></choice> fire
+                        <lb/>therefore must be given to the <choice><orig>internall</orig><reg>internal</reg></choice>, and the like Mercury to Mercury, <pc>-</pc>
+                        <lb/>that the intention of the art may be completed: To mollify or mature any <pc>-</pc>
+                        <lb/>hard or crude thing by coction, <choice><orig>wee</orig><reg>we</reg></choice> use fire and water: <milestone unit="section" n="e10-10" />for water dissolves <pc>-</pc>
+                        <lb/><choice><orig>hardnesse</orig><reg>hardness</reg></choice>, and penetrates into the compact parts, heat adding strength and <pc>-</pc>
+                        <lb/>motion to it; as appears by example in the coction of Peas, which are of
+                        <lb/>themselves sound and hard, but <choice><orig>doe</orig><reg>do</reg></choice> swell, are broken, and reduced to a <pc>-</pc>
+                        <lb/><choice><orig>pulpe</orig><reg>pulp</reg></choice> by water, the heat of fire rarefying the water by ebullition, and
+                        <lb/>making it of a more <choice><orig>thinne</orig><reg>thin</reg></choice> or <choice><orig>allmost</orig><reg>almost</reg></choice> airy substance: <choice><orig>Soe</orig><reg>So</reg></choice> the heat of
+                        <lb/>fire resolves the crude parts of fruit or flesh into water, and <choice><orig>causeth</orig><reg>causes</reg></choice> them
+                        <lb/>to evaporate with it into <choice><orig>aire</orig><reg>air</reg></choice>: <milestone unit="section" n="e10-11" />after the same manner fire and Mercury
+                        <lb/>here are fire and water, and the same, fire and Mercury are the mature
+                        <lb/>and crude parts, of which the crude are to be matured by coction, or the
+                        <lb/>mature purged from <choice><orig>superfluityes</orig><reg>superfluities</reg></choice> by the ministery of fire and water: <pc>-</pc>
+                        <lb/><milestone unit="section" n="e10-12" />Now that these are two fires, and two <choice><orig>Mercuryes</orig><reg>Mercuries</reg></choice> principally and solely ne
+                        <lb break="no"/>cessary to the art, <choice><orig>wee</orig><reg>we</reg></choice> will here <choice><orig>breifely</orig><reg>briefly</reg></choice> demonstrate: <milestone unit="section" n="e10-13" />Empedocles deter
+                        <lb break="no"/>mined two principles of all things, love, and variance, or <choice><orig>freindship</orig><reg>friendship</reg></choice> and dis
+                        
+                        
+                        <pb n="37"/><fw rend="italics">Discourse 10.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <lb break="no"/>cord: that by variance corruptions were made, generations by love: such vari
+                        <lb break="no"/>ance is manifestly beheld between fire and water, fire causing water to eva
+                        <lb break="no"/>porate, if it can, water on the contrary extinguishing fire, if admitted to it: <pc>-</pc>
+                        <lb/><milestone unit="section" n="e10-14" />but for all that it is conspicuous that generations may be made of the same <pc>-</pc>
+                        <lb/>with some <choice><orig>certaine</orig><reg>certain</reg></choice> <choice><orig>freindship</orig><reg>friendship</reg></choice>; for by heat a new generation of <choice><orig>aire</orig><reg>air</reg></choice> is made
+                        <lb/>of water, and by the same the induration of water into a stone, and <choice><orig>soe</orig><reg>so</reg></choice>
+                        <lb/>out of these two Elements as it were the first are made <choice><orig>allso</orig><reg>also</reg></choice> the other two, <pc>-</pc>
+                        <lb/>and by consequence the production of all things: <milestone unit="section" n="e10-15" />Water was the matter <pc>-</pc>
+                        <lb/>of heaven, and of all <choice><orig>corporall</orig><reg>corporal</reg></choice> things: Fire, as the <choice><orig>forme</orig><reg>form</reg></choice>, moves and in
+                        <lb break="no"/>forms this matter; <choice><orig>soe</orig><reg>so</reg></choice> this water or Mercury <choice><orig>yeilds</orig><reg>yields</reg></choice> the matter, and fire <pc>-</pc>
+                        <lb/>or Sulphur, the <choice><orig>forme</orig><reg>form</reg></choice>: <milestone unit="section" n="e10-16" />which two, that they may come to operation, and
+                        <lb/>move themselves mutually by solution, coagulation, alteration, tinction,
+                        <lb/>and perfection, <seg rend="underline" hand="2">have n</seg>ee<seg rend="underline" hand="2">d of <choice><orig>externall</orig><reg>external</reg></choice> helps, as instruments, without</seg> <pc>-</pc>
+                        <lb/>w<seg rend="underline" hand="2">hich <choice><orig>noe</orig><reg>no</reg></choice> effect could follow: For as a S</seg>mith effects nothing without <pc>-</pc><note place="margin" hand="2">NB</note>
+                        <lb/>hammer and fire, <choice><orig>soe</orig><reg>so</reg></choice> neither the Philosopher without his instruments, <pc>-</pc>
+                        <lb/>which are water and fire: <milestone unit="section" n="e10-17" />And this water is called by some the water of <pc>-</pc>
+                        <lb/>clouds, as this fire occasioned fire: It is without doubt <choice><orig>calld</orig><reg>called</reg></choice> the water of
+                        <lb/>clouds, because it is <choice><orig>distilld</orig><reg>distilled</reg></choice>, as the dew of May, of most <choice><orig>thinne</orig><reg>thin</reg></choice> parts: for <pc>-</pc>
+                        <lb/>as the dew of the <choice><orig>sayd</orig><reg>said</reg></choice> <choice><orig>moneth</orig><reg>month</reg></choice> being included in an eggshell is affirmed to
+                        <lb/><choice><orig>rayse</orig><reg>raise</reg></choice> the <choice><orig>egge</orig><reg>egg</reg></choice>, or its continent, high by the heat of the <choice><orig>Sunne</orig><reg>Sun</reg></choice>, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice>
+                        <lb/>this water of the clouds, or dew makes the Philosophers <choice><orig>egge</orig><reg>egg</reg></choice> ascend, that
+                        <lb/>is, sublimes, exalts, and perfects it: <milestone unit="section" n="e10-18" />The same water is <choice><orig>allso</orig><reg>also</reg></choice> most Sharp <pc>-</pc>
+                        <lb/>vinegar, which <choice><orig>hath</orig><reg>has</reg></choice> made a body a mere Spirit: for as vinegar is of dif
+                        <lb break="no"/>ferent <choice><orig>qualityes</orig><reg>qualities</reg></choice>, namely to penetrate to the <choice><orig>bottome</orig><reg>bottom</reg></choice>, and astringe, <choice><orig>soe</orig><reg>so</reg></choice>
+                        <lb/>this water dissolves and coagulates, but is not coagulated, because it is <pc>-</pc>
+                        <lb/>not of a proper subject: <milestone unit="section" n="e10-19" />Now this water is had from the <choice><orig>fountaine</orig><reg>fountain</reg></choice> of <pc>-</pc>
+                        <lb/>Parnassus, which contrary to the nature of other fountains is at the top <pc>-</pc>
+                        <note place="margin" n="x">the. .</note><lb/>of a <choice><orig>mountaine</orig><reg>mountain</reg></choice>, made by the <choice><orig>hoofe</orig><reg>hoof</reg></choice> of the flying horse Pegasus. <pc>-</pc>
+                        <lb/><milestone unit="section" n="e10-20" />There must <choice><orig>allso</orig><reg>also</reg></choice> be <choice><orig>actuall</orig><reg>actual</reg></choice> fire, which notwithstanding must be go
+                        <lb break="no"/>verned and <choice><orig>qualifyed</orig><reg>qualified</reg></choice> by its degrees, as by bridles. <milestone unit="section" n="e10-21" />For as the <choice><orig>Sunne</orig><reg>Sun</reg></choice> <pc>-</pc>
+                        <lb/><choice><orig>proceding</orig><reg>proceeding</reg></choice> from Aries into Leo gradually <choice><orig>increaseth</orig><reg>increases</reg></choice> heat to things <pc>-</pc>
+                        <lb/>growing, by approaching <choice><orig>allwayes</orig><reg>always</reg></choice> nearer, <choice><orig>soe</orig><reg>so</reg></choice> is it here necessary to be
+                        <lb/>done: for the Philosophers infant must be nourished by fire, as <choice><orig>milke</orig><reg>milk</reg></choice>,
+                        <lb/>the more <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>growes</orig><reg>grows</reg></choice>, the more <choice><orig>fruitfull</orig><reg>fruitful</reg></choice><pc>. . . . . . . .</pc>
+                    </ab>   
+                </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
+

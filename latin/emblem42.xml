@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+     <revisionDesc>
+        <change when="2017-07-14" who="SJD">Created</change>
+        <change when="2017-07-14" who="SJD">Completed draft</change>
+     </revisionDesc>
+  </teiHeader>
+   
+   
+  <text>
+      <body>
+         <div type="emblem" n="e42">
+            <pb n="176"/>
+            <head>
+               <lb n="1"/><fw type="pageNum" place="top-left">176</fw> FUGA <num value="42" type="cardinal">XLII</num>. in 4. supr<hi rend="grave">a</hi>. Contrapunctum.
+               <lb n="2"/>Dem <pc>/</pc> der <hi rend="latin">in Chymicis versiret</hi>, sen di Natur <pc>/</pc> Bernunfft <pc>/</pc>
+               <lb n="3"/>Erfahrenheit und Lefen <pc>/</pc> wie ein Führer <pc>/</pc> Stab <pc>/</pc>
+               <lb n="4"/>Brijllen und Lampen.
+            </head>
+            
+            <div type="fugue">
+               <head>
+                  
+               </head>
+               
+            </div>
+            
+            <div type="epigram" xml:lang="de">
+               <head>XLII. Epigrammatis Latini versio Germanica.</head>
+               <lg>
+                  <lb n="1"/><l>Dein Führerin di Natur sen <pc>/</pc> welch'r du must folgen von meiten <pc>/</pc></l>
+                  <lb n="2"/><l>Williglich <pc>/</pc> anderst du frist <pc>/</pc> wo sie dich nicht thut lenten <pc>/</pc></l>
+                  <lb n="3"/><l>Die Bernunffe sen dein Stab <pc>/</pc> und es muß stärken die Erfahrnheit</l>
+                  <lb n="4"/><l>Dein Gesicht <pc>/</pc> daß du könnst sehen <pc>/</pc> was gelegt ist weit und breit <pc>/</pc></l>
+                  <lb n="5"/><l>Daß Lesen sen wie ein Lamp im finstern leuchtend hell und klar <pc>/</pc></l>
+                  <lb n="6"/><l>Dadurch du mögst verhüten der Sachn und Wörter Gefahr.</l>
+               </lg>
+            </div>
+            <fw type="catchword" place="bottom-right">Emble-</fw>
+            
+            <pb n="177"/> 
+            
+            <div type="image-caption">
+               <head>
+                  <lb n="1"/>Emblema XLII. <hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">177</fw>
+                  <lb n="2"/>In Chymicis versanti Natura, Ratio, Experientia <g type="ampersand">et></g> lectio
+                  <lb n="3"/>sint Dux, scipio, perspicilia <g type="ampersand">et></g> lampas.
+               </head>
+            </div>
+            
+            <figure><graphic url=""></graphic></figure>
+            
+            <div type="epigram" xml:lang="la">
+               <head>Epigramma XLII.</head>
+               <lg>
+                  <lb n="1"/><l>Dux Natura tibi, t<hi rend="acute">u</hi>que arte pedissequus illi</l>
+                  <lb n="2"/><l>Esto lubens, erras, ni comes ipsa vi<hi rend="ligature">ae</hi> est.</l>
+                  <lb n="3"/><l>Det ratio scipionis opem, Experientia firmet</l>
+                  <lb n="4"/><l>Lumina, qu<hi rend="grave">o</hi> possit cernere posta procul.</l>
+                  <lb n="5"/><l>Lectio sit lampas tenebris dilucida, rerum</l>
+                  <lb n="6"/><l>Verbor<hi rend="acute">u</hi>mque strues providus ut caveas.</l>
+               </lg>
+            </div>
+            
+           <fw type="gathering">Z</fw> <fw type="catchword" place="bottom-right">Cas-</fw>
+            
+            <div type="discourse">
+               <pb n="178"/>
+               <head><fw type="pageNum" place="top-left">178</fw> <hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="42">XLII</num>.</head>
+                  <ab>
+                     <lb n="1"/><milestone unit="section" n="e42-01"/> Casus, qui peregrinantibus accidere possunt, innumeri sunt,
+                     <lb n="2"/>pr<hi rend="ligature">ae</hi>sertim si pedibus noctu per loca lubrica <g type="ampersand">et></g> periculosa iter fa
+                     <lb n="3" break="no"/>cere instituant: ad quod quatuor tanquam summ<hi rend="grave">e</hi> necessaria re
+                     <lb n="4" break="no"/>quiruntur, ne de viatico <g type="ampersand">et></g> robusto corpore quiquam dicamus:
+                     <lb n="5"/><milestone unit="section" n="e42-02"/> Prim<hi rend="grave">o</hi> locorum, per qu<hi rend="ligature">ae</hi> eundum erit, non ignarus comes aut dux:
+                     <lb n="6"/>Si enim ignarus ignarum duxerit, idem iis quod c<hi rend="ligature">ae</hi>cis contingit, ut
+                     <lb n="7"/>si non in foveam, tamen in errores <g type="ampersand">et></g> ambages ambo pr<hi rend="ligature">ae</hi>cipitentur:
+                     <lb n="8"/><milestone unit="section" n="e42-03"/> Secund<hi rend="grave">o</hi>, bacillus vel scipio, quo vi<hi rend="ligature">ae</hi> lubricitas, ne cui damnosa sit,
+                     <lb n="9"/>pr<hi rend="ligature">ae</hi>cavetur: <milestone unit="section" n="e42-04"/> Terti<hi rend="grave">o</hi>, oculi sani; c<hi rend="ligature">ae</hi>cis enim aut lippis ejusmodi iti
+                     <lb n="10" break="no"/>nera sunt periculosissima: <milestone unit="section" n="e42-05"/> Quart<hi rend="grave">o</hi> lampas sive fax incensa; ut discri
+                     <lb n="11" break="no"/>mina viarum dignosci possint. <milestone unit="section" n="e42-06"/> Eodem modo si quis difficilimo se
+                     <lb n="12"/>committat itineri, ut Medicinam Philosophicam indaget, pr<hi rend="ligature">ae</hi>ter
+                     <lb n="13"/>sumptus <g type="ampersand">et></g> corporis robur, quaterna desiderabit ante dictis paral
+                     <lb n="14" break="no"/>lela <g type="ampersand">et></g> <expan><abbr>correspond<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>tia</abbr></expan> ex <hi rend="ligature">ae</hi>quo, videlicet Naturam, Rationem, Ex
+                     <lb n="15" break="no"/>perientiam <g type="ampersand">et></g> Lectionem: quorum si unum aut alternum defuerit, re
+                     <lb n="16" break="no"/>liqua par<hi rend="grave">u</hi>m aut nihil juvabunt: <milestone unit="section" n="e42-07"/> Hisce enim, tanquam quatuor rotis
+                     <lb n="17"/>currus Philosophicus incedit, cui ex rotis una deesse nequit, si super
+                     <lb n="18" break="no"/>sit, nil prodest. <milestone unit="section" n="e42-08"/> Natura pr<hi rend="ligature">ae</hi>supponit corpora naturalia, <g type="ampersand">et></g> spiritus,
+                     <lb n="19"/>tanquam subjecta primo <hi rend="grave">a</hi> natura ministrata, in qu<hi rend="ligature">ae</hi> ars postea agat
+                     <lb n="20"/>id pr<hi rend="ligature">ae</hi>parando, purificando <g type="ampersand">et></g> habile reddendo, ut de eo id fieri pos
+                     <lb n="21" break="no"/>sit, quod ars pro fine promittit: <milestone unit="section" n="e42-09"/> Sic figulus sumit aquam <g type="ampersand">et></g> terram,
+                     <lb n="22"/>vitrarius cineres <g type="ampersand">et></g> arenam, faber ferrum, <hi rend="ligature">ae</hi>s stannum, plumbum,
+                     <lb n="23"/>argentum vel aurum, coriarius pelles crudas <g type="ampersand">et></g> sic alii alia:
+                     <lb n="24"/>Ita quoque chymi<hi rend="ligature">ae</hi> artifex ad sua materialia respicit: <milestone unit="section" n="e42-10"/> Illis sua sunt
+                     <lb n="25"/>notissima vel primo die, huic per multos annos, c<hi rend="grave">u</hi>m incipit, ple
+                     <lb n="26" break="no"/>rumque ignota manent, ne dicam per totam vitam. <milestone unit="section" n="e42-11"/> Natura <expan><abbr>quid<hi rend="tilde">e</hi></abbr><ex>m</ex></expan>
+                     <lb n="27"/>digitum intendit in materias, sed multa sunt, qu<hi rend="ligature">ae</hi> impressionem na
+                     <lb n="28" break="no"/>tur<hi rend="ligature">ae</hi> obscurent, ut agnosci nequeat. <milestone unit="section" n="e42-12"/> Prima itaque intentio est, na
+                     <lb n="29" break="no"/>turam intim<hi rend="grave">e</hi> contemplari quomodo procedat in suis operationi
+                     <lb n="30" break="no"/>bus eo fine, ut subjecta Chymi<hi rend="ligature">ae</hi> naturalia absque defectu aut super
+                     <lb n="31" break="no"/>fluitate haberi queant: Unde natura sit dux <g type="ampersand">et></g> comes tanti itineris,
+                     <lb n="32"/>cujus vestigia sequenda sunt. <milestone unit="section" n="e42-13"/> Secund<hi rend="grave">o</hi> Ratio sit instar scipionis;
+                     <lb n="33"/>qui firmet gressus <g type="ampersand">et></g> pedes stabiliat, ne vacillent; <expan><abbr>Absq<am>;</am></abbr><ex>ue</ex></expan> ratiocinatio
+                     <lb break="no"/>
+                  </ab>
+               <fw type="catchword" place="bottom-right">ne</fw>
+                  
+               <pb n="179"/>
+               <head><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="42">XLII</num>. <fw type="pageNum" place="top-right">179</fw></head>
+                  <ab>
+                     <lb n="1"/>ne enim quis ad lapsum in errores erit proclivis, Unde dicunt Philo
+                     <lb n="2" break="no"/>sophi; Quicquid audis, ratiocinare, num ita esse possit, nec ne. <milestone unit="section" n="e42-14"/> Ad im
+                     <lb n="3" break="no"/>possibil<supplied reason="omitted">i</supplied>a enim credenda vel peragenda nemo impellitur, nisi ipse
+                     <lb n="4"/>debilis memori<hi rend="ligature">ae</hi> obtusi ingenii <g type="ampersand">et></g> fatu<hi rend="ligature">ae</hi> imaginationis, ut sibi im
+                     <lb n="5" break="no"/>ponat falsa pro veris accipiendo <g type="ampersand">et></g> vera pro falsis renuendo: <milestone unit="section" n="e42-15"/> Ajunt
+                     <lb n="6"/>quoque se non curare de verbis, quicquid dicatur, sed saltem de re
+                     <lb n="7" break="no"/>bus, quid intelligatur; Et verba esse propter res <g type="ampersand">et></g> non res propter
+                     <lb n="8"/>verba. <milestone unit="section" n="e42-16"/> Exempli gratia, dicat quis, tinctur<hi rend="ligature">a</hi> Philosophic<hi rend="circumflex">a</hi> vitrum fie
+                     <lb n="9" break="no"/>ri malleabile. Quid ni hoc credidero, si mod<hi rend="grave">o</hi> ratio dictet? <milestone unit="section" n="e42-17"/> Terti<hi rend="grave">o</hi>
+                     <lb n="10"/>Experientia dabit perspicilia, quibus remota videri possint; H<hi rend="ligature">ae</hi>c
+                     <lb n="11"/>sunt instrumenta optica imbecillitatem oculorum humanorum ju
+                     <lb n="12" break="no"/>vantia <g type="ampersand">et></g> corrigentia, arte inventa <g type="ampersand">et></g> facta. <milestone unit="section" n="e42-18"/> His persimilia sunt Ex
+                     <lb n="13" break="no"/>perimenta circa mineralem materiam cujusque generis tentata,
+                     <lb n="14"/>visa vel ver<hi rend="grave">e</hi> audita; qu<hi rend="ligature">ae</hi> qu<hi rend="grave">o</hi> plura fuerint in memoria, e<hi rend="grave">o</hi> plura ra
+                     <lb n="15" break="no"/>tiocinatio inde sumet <g type="ampersand">et></g> inter <g type="ampersand">et></g> cum aliis comparabit, ut animad
+                     <lb n="16" break="no"/>vertat, quid sit verum, quid non. <milestone unit="section" n="e42-19"/> Quart<hi rend="grave">o</hi> Lectio quasi lampada per
+                     <lb n="17" break="no"/>spicuam in intellectu incendat, sine qua erunt ubique tenebr<hi rend="ligature">ae</hi> <g type="ampersand">et></g>
+                     <lb n="18"/>dens<hi rend="ligature">ae</hi> nubes. <milestone unit="section" n="e42-20"/> Debet autem lectio bonorum authorum s<hi rend="ligature">ae</hi>p<hi rend="grave">e</hi> iterari;
+                     <lb n="19"/>ali<hi rend="grave">a</hi>s nihil proderit. <milestone unit="section" n="e42-21"/> Hinc <persName>Bacasser</persName> in <title ref="http://viaf.org/viaf/317093189">turba</title>: <q rend="italic">Qui></q> ergo inquit, <q rend="italic">longa
+                     <lb n="20" break="no"/>nimis erit, libent<hi rend="acute">e</hi>rque patienti<hi rend="circumflex">a</hi> fruitur, in tramite justo hujus artis meabit
+                     <lb n="21"/>qui ver<hi rend="grave">o</hi> citius se putat ex libris nostris fructum capere posse fallitur satiusque
+                     <lb n="22"/>fuerat, non inspicere quidem, qu<hi rend="grave">a</hi>m unquam contigisse</q>: Et qu<hi rend="ligature">ae></hi> ibidem se
+                     <lb n="23" break="no"/>quuntur.
+                     <lb/> 
+                  </ab> 
+                <fw type="gathering" place="bottom-right"><hi rend="gothic">Z ii</hi></fw> <fw type="catchword" place="bottom-right" xml:lang="de"><hi rend="gothic">Hör</hi></fw>
+                </div>
+            
+         </div>
+      </body>
+  </text>
+</TEI>

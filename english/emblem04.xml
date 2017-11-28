@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   
+   <text>
+      <body>
+         <div type="emblem" n="e04"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+            <pb n="17"/><!-- Page number of the actual manuscript -->
+            
+            
+            <div type="title" xml:lang="en">
+               <head>
+                  <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 4. Of the Secrets of Nature.
+                  <lb/><choice><orig>Joyne</orig><reg>Join</reg></choice> the Brother with the Sister and give them a cup of love.</seg>                  
+               </head>
+            </div>
+            
+            
+            <div type="epigram" xml:lang="en">
+               <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 4.</head>
+               <lg>
+                  <l>To multiply the world with <choice><orig>humane</orig><reg>human</reg></choice> race,</l>
+                  <l>The brother <subst><del>must</del><add>did</add></subst> his sister close embrace:</l>
+                  <l>Let therefore one the other <choice><orig>freindly</orig><reg>friendly</reg></choice> wed,</l>
+                  <l>That they may act as man and wife in bed:</l>
+                  <l>First to incite, <choice><orig>præpare</orig><reg>prepare</reg></choice> a cup <choice><orig>o'th</orig><reg>of the</reg></choice> best,</l>
+                  <l>And then they both will freely <choice><orig>doe</orig><reg>do</reg></choice> the rest.</l>
+               </lg>
+            </div>
+            
+            
+            <pb n="18"/> <!-- Page number of the actual manuscript -->
+            <div type="discourse" xml:lang="en">
+               <head rend="italics">Discourse 4.</head>
+               <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+                  <lb/><milestone unit="section" n="e04-01" />The divine and <choice><orig>politicall</orig><reg>political</reg></choice> <choice><orig>lawes</orig><reg>laws</reg></choice> <choice><orig>doe</orig><reg>do</reg></choice> both forbid those people to marry, who are by <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                  <lb/>nature <choice><orig>joyned</orig><reg>joined</reg></choice> in too near a degree of consanguinity, such namely as <add>directly</add>ascend and des
+                  <lb break="no"/>cend in a <choice><orig>genealogicall</orig><reg>genealogical</reg></choice> line, and that for very good considerations; <milestone unit="section" n="e04-02" />but when the <pc>-</pc>
+                  <lb/>Philosophers <choice><orig>speake</orig><reg>speak</reg></choice> of the mother to be <choice><orig>joynd</orig><reg>joined</reg></choice> with the <choice><orig>Sonne</orig><reg>Son</reg></choice>, or father with the
+                  <lb/>daughter, or of the brother with the Sister, they neither say or <choice><orig>doe</orig><reg>do</reg></choice> anything contrary
+                  <lb/>to the <choice><orig>sayd</orig><reg>said</reg></choice> laws: because subjects distinguish attributes and causes effects; <milestone unit="section" n="e04-03" />for the
+                  <lb/>persons of Philosophers are <add>as</add> free from those differences as <del>well as</del> the <choice><orig>Sonns</orig><reg>Sons</reg></choice> and daugh
+                  <lb break="no"/>ters of Adam, who <choice><orig>marryed</orig><reg>married</reg></choice> one with another without the imputation of any <pc>-</pc>
+                  <lb/>crime: <milestone unit="section" n="e04-04" />but the <choice><orig>principall</orig><reg>principal</reg></choice> reason seems to be, that man=kind might be more <pc>-</pc>
+                  <lb/>firmly united and linked in affinity and <choice><orig>freindship</orig><reg>friendship</reg></choice>, and not <del>be</del> divided into <pc>-</pc>
+                  <lb/><choice><orig>inimicall</orig><reg>inimical</reg></choice> and <choice><orig>hæreditary</orig><reg>hereditary</reg></choice> factions of <choice><orig>familyes</orig><reg>families</reg></choice>: <milestone unit="section" n="e04-05" />the same reason remaining <pc>-</pc>
+                  <lb/><choice><orig>firme</orig><reg>firm</reg></choice> and entire in the first <choice><orig>Sonns</orig><reg>Sons</reg></choice> and daughters of Adam, did not as all <choice><orig>de
+                  <lb break="no"/>barre</orig><reg>debar</reg></choice> them from the <subst><del>rights</del><add>rites</add></subst> of matrimony: <milestone unit="section" n="e04-06" />for man=kind did then exist in<note place="margin">rites</note><!-- It looks like the author was unsure of which spelling to use -->
+                  <lb/>them alone, and <choice><orig>noe</orig><reg>no</reg></choice> others were living besides them, and their parents, and <pc>-</pc>
+                  <lb/>therefore as <choice><orig>ally'd</orig><reg>allied</reg></choice> in blood, <choice><orig>soe</orig><reg>so</reg></choice> necessarily were they <choice><orig>joyned</orig><reg>joined</reg></choice> in affinity: but
+                  <lb/>a multitude of men increasing, and being distributed into innumerable <choice><orig>fa
+                  <lb break="no"/>milyes</orig><reg>families</reg></choice>, this was found a true and just cause why brothers Should not marry
+                  <lb/>Sisters: <milestone unit="section" n="e04-07" />The Philosophers have another reason, why Sisters may marry
+                  <lb/>brothers, namely the similitude of substance, that it may be <choice><orig>joyned</orig><reg>joined</reg></choice> to <pc>-</pc>
+                  <lb/>the like: <milestone unit="section" n="e04-08" />but in this kind there are onely two like one another as to species,
+                  <lb/>different as to sex, whereof one is saluted by the name of brother, the <pc>-</pc>
+                  <lb/>other of sister: they therefore may be the same both liberty and condi
+                  <lb break="no"/>tion, yea and inevitable necessity, as the first consanguine men, be lawfully
+                  <lb/><choice><orig>coḿitted</orig><reg>committed</reg></choice> to one matrimony: <milestone unit="section" n="e04-09" />the brother is <choice><orig>hott</orig><reg>hot</reg></choice> and dry, and therefore ve
+                  <lb break="no"/>ry <choice><orig>cholericke</orig><reg>choleric</reg></choice>; the Sister is cold and moist, having much <choice><orig>phlegmaticke</orig><reg>phlegmatic</reg></choice> <pc>-</pc>
+                  <lb/>matter in her: which natures <choice><orig>soe</orig><reg>so</reg></choice> differing in temper <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>coḿonly</orig><reg>commonly</reg></choice> best <pc>-</pc>
+                  <lb/>agree in love and <choice><orig>fruitfullnesse</orig><reg>fruitfulness</reg></choice>, and the propagation of Children: <milestone unit="section" n="e04-10" />for as
+                  <lb/>fire, which may be propagated, is not easily <choice><orig>strucke</orig><reg>struck</reg></choice> out of the most hard
+                  <lb/>body Steel and Steel, nor out of the brittle flint and flint, but out of hard
+                  <lb/>and brittle, that is, steel and flint, <choice><orig>soe</orig><reg>so</reg></choice> a lively offspring is not produ
+                  <lb break="no"/>ced from a <choice><orig>hott</orig><reg>hot</reg></choice> man and fiery woman, as neither from both cold (for the
+                  <lb/><choice><orig>coldnesse</orig><reg>coldness</reg></choice> of the man is <choice><orig>barrenesse</orig><reg>barrenness</reg></choice>) but from him <choice><orig>hott</orig><reg>hot</reg></choice>, her more cold, <pc>-</pc>
+                  <lb/><milestone unit="section" n="e04-11" />for, in the latitude of <choice><orig>humane</orig><reg>human</reg></choice> temperament, the hottest woman is con
+                  <lb break="no"/>cluded colder than the coldest man of his sex, if sound, as Lev. Lemnius
+                  <lb/>in lib. de occ. nat. mirac. proves: the Sister therefore and brother are
+                  <lb/>rightly <choice><orig>joyned</orig><reg>joined</reg></choice> together by the Philosophers: <milestone unit="section" n="e04-12" />If a man defines offspring
+                  <lb/>from a <choice><orig>henne</orig><reg>hen</reg></choice>, bitch, <choice><orig>Shee</orig><reg>She</reg></choice> goat, Ewe, or other brutes, <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>joynes</orig><reg>joins</reg></choice> a <del><choice><orig>dogge</orig><reg>dog</reg></choice></del>
+                  <lb/><choice><orig>cocke</orig><reg>cock</reg></choice>, <choice><orig>dogge</orig><reg>dog</reg></choice>, <choice><orig>hee</orig><reg>he</reg></choice> goat, <choice><orig>ramme</orig><reg>ram</reg></choice>, every <choice><orig>animall</orig><reg>animal</reg></choice> <seg rend="underline" hand="2">to its Speci</seg>es, to w<seg rend="underline" hand="2">hich it is</seg>
+                  <lb/>m<seg rend="underline" hand="2">ost li</seg>ke, and <choice><orig>soe</orig><reg>so</reg></choice> is not frustrated of his desire; nor indeed <choice><orig>doth</orig><reg>does</reg></choice> <choice><orig>hee</orig><reg>he</reg></choice> <pc>-</pc>
+                  <lb/>respect the consanguinity of brutes, but <choice><orig>onely</orig><reg>only</reg></choice> the generosity of every
+                  <lb/>one, and the congruity of nature: <choice><orig>Soe</orig><reg>So</reg></choice> may it be <choice><orig>sayd</orig><reg>said</reg></choice> of the body of a tree,
+                  <lb/>and the <choice><orig>slippe</orig><reg>slip</reg></choice> to be therein grafted, <milestone unit="section" n="e04-13" />yea of the metallicke <pc>-</pc>
+                  
+                  
+       
+                  <pb n="19"/><fw rend="italics">Discourse 4.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                  <lb/>nature, which notwithstanding as it <choice><orig>hath</orig><reg>has</reg></choice> of all things the greatest <pc>-</pc>
+                  <lb/>similitude and homogeneity of substance, <choice><orig>doth</orig><reg>does</reg></choice> <choice><orig>soe</orig><reg>so</reg></choice> require, where it
+                  <lb/>desires a thing to be <choice><orig>joyned</orig><reg>joined</reg></choice> with it: <milestone unit="section" n="e04-14" />But brother and Sister being <choice><orig>joynd</orig><reg>joined</reg></choice>
+                  <lb/>together, <choice><orig>doe</orig><reg>do</reg></choice> not become <choice><orig>fruitfull</orig><reg>fruitful</reg></choice>, nor persist long in love, except a Philo
+                  <lb break="no"/>thesium, or cup of <choice><orig>loue</orig><reg>love</reg></choice> be <choice><orig>administred</orig><reg>administered</reg></choice> to them like an amorous potion: <pc>-</pc>
+                  <lb/>for their minds are hereby <choice><orig>soe</orig><reg>so</reg></choice> quieted and united, that (laying aside mo
+                  <lb break="no"/>desty) they <choice><orig>doe</orig><reg>do</reg></choice> as it were <choice><orig>drunke</orig><reg>drunk</reg></choice> (like Lot) <choice><orig>goe</orig><reg>go</reg></choice> together, and procreate <pc>-</pc>
+                  <lb/>an offspring (not spurious but) legitimate: <milestone unit="section" n="e04-15" />For who <choice><orig>knowes</orig><reg>knows</reg></choice> not that man
+                  <lb break="no"/>kind is very much obliged to medicine, because many thousands of men <pc>-</pc>
+                  <lb/>are now in the world, which would not have been, if their fathers or fore
+                  <lb break="no"/>fathers had not by the means and benefit thereof been freed and delivered
+                  <lb/>from the defect of sterility, or their mothers <add><choice><orig>præserved</orig><reg>preserved</reg></choice></add>from abortion, by removing <pc>-</pc>
+                  <lb/>and taking away the cause, or the nearest, and remote impediment? <milestone unit="section" n="e04-16" />This
+                  <lb/>cup of love is therfore given to this new <choice><orig>marryd</orig><reg>married</reg></choice> couple for the same reasons,
+                  <lb/>which any man may hereby plainly understand are three, that is to say, <pc>-</pc>
+                  <lb/>constancy of love, remotion of sterility, and <choice><orig>prævention</orig><reg>prevention</reg></choice> of abortion <pc>. .</pc>
+                  
+               </ab>   
+            </div>
+            
+         </div>
+      </body>
+   </text>
+</TEI>

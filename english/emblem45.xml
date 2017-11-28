@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="emblem" n="e45"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+                <pb n="140"/><!-- Change to page number of the actual manuscript -->
+                
+                
+                <div type="title" xml:lang="en">
+                    <head>
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 45. Of the Secrets of Nature.
+                        <lb/>The <choice><orig>worke</orig><reg>work</reg></choice> is perfected by Sol and his shade.</seg>
+                    </head>
+                </div>
+                
+                
+                <div type="epigram" xml:lang="en">
+                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 45.</head>
+                    <lg>
+                        <l>The <choice><orig>Sunne</orig><reg>Sun</reg></choice> <choice><orig>noe</orig><reg>no</reg></choice> <choice><orig>bodyes</orig><reg>bodies</reg></choice> dense can penetrate,</l>
+                        <l>And <choice><orig>soe</orig><reg>so</reg></choice> the adverse parts a shade create:</l>
+                        <l>Which, though it be of all things least <choice><orig>sett</orig><reg>set</reg></choice> by,</l>
+                        <l>Is much conducing to Astronomy;</l>
+                        <l>But more to <choice><orig>th'</orig><reg>the</reg></choice> Sophi are the <choice><orig>Sunne</orig><reg>Sun</reg></choice> and shade,</l>
+                        <l>Because they perfect the auriferous trade.</l>
+                    </lg>
+                </div>
+                
+                
+                <pb n="141"/> <!-- Change to page number of the actual manuscript -->
+                <div type="discourse" xml:lang="en">
+                    <head rend="italics">Discourse 45.</head>
+                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+                        <lb/>As in a round or <choice><orig>Sphericall</orig><reg>Spherical</reg></choice> Palace, a fire kindled in one place illustrates<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>the parts above and below round about all the walls, except those, where
+                        <lb/>a table or the like standing in the <choice><orig>midle</orig><reg>middle</reg></choice> may by its objection and inter
+                        <lb break="no"/>position impede, and <choice><orig>admitt</orig><reg>admit</reg></choice> a <choice><orig>darke</orig><reg>dark</reg></choice> shadow; <choice><orig>Soe</orig><reg>So</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> the <choice><orig>Sunne</orig><reg>Sun</reg></choice> being <pc>-</pc>
+                        <lb/>placed in that great Palace or carved theater of the heaven <choice><orig>dos</orig><reg>does</reg></choice> by its <pc>-</pc>
+                        <lb/><choice><orig>rayes</orig><reg>rays</reg></choice> illuminate every concavity of heaven, the <choice><orig>bodyes</orig><reg>bodies</reg></choice> <choice><orig>containd</orig><reg>contained</reg></choice> therein
+                        <lb/>which are diaphanous and receptive of light, that is, all <choice><orig>starrs</orig><reg>stars</reg></choice> whatsoever
+                        <lb/>both <choice><orig>erraticke</orig><reg>erratic</reg></choice> and fixed, except where the density of the earth in the <pc>-</pc>
+                        <lb/><choice><orig>midle</orig><reg>middle</reg></choice> may prohibit: For there a <choice><orig>blacke</orig><reg>black</reg></choice> and <choice><orig>darke</orig><reg>dark</reg></choice> shadow, which is called
+                        <lb/>night, continues <choice><orig>soe</orig><reg>so</reg></choice> long, till it be driven away by the <choice><orig>præsence</orig><reg>presence</reg></choice> of <pc>-</pc>
+                        <lb/>the <choice><orig>Sunne</orig><reg>Sun</reg></choice>, and light established and made conspicuous in stead thereof:
+                        <lb/>A shadow therefore and night is the privation or absence (as day on the <pc>-</pc>
+                        <lb/>contrary is the irradiation and circumfusion) of the Solar light. A shadow
+                        <lb/>is that which cannot endure the aspect of the <choice><orig>Sunne</orig><reg>Sun</reg></choice>, and therefore <pc>-</pc>
+                        <lb/><choice><orig>avoyds</orig><reg>avoids</reg></choice> and absconds <choice><orig>itselfe</orig><reg>itself</reg></choice> sometimes in this sometimes in that part of
+                        <lb/>the earth, as the <choice><orig>Sunne</orig><reg>Sun</reg></choice> is in opposition. The <choice><orig>Sunne</orig><reg>Sun</reg></choice> and shadow never
+                        <lb/>saw themselves together, though, if nature would <choice><orig>admitt</orig><reg>admit</reg></choice>, they might in
+                        <lb/>every moment, but the <choice><orig>Sunne</orig><reg>Sun</reg></choice> considering her as an enemy to <choice><orig>himselfe</orig><reg>himself</reg></choice>,
+                        <lb/><choice><orig>allwayes</orig><reg>always</reg></choice> pursues her flying, and can never take her weary,<seg rend="underline" hand="2"> as Buchanan <note place="margin" hand="2">Buchanan?</note>
+                        <lb/>in his <choice><orig>booke</orig><reg>book</reg></choice> of Spheres in</seg>geniously <choice><orig>hath</orig><reg>has</reg></choice> declared: For imitation and <pc>-</pc>
+                        <lb/>example of that great <choice><orig>Sunne</orig><reg>Sun</reg></choice>, and shadow thereof, the Philosophers have
+                        <lb/>observed that their <choice><orig>Sunne</orig><reg>Sun</reg></choice> <choice><orig>hath</orig><reg>has</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> a <choice><orig>blacke</orig><reg>black</reg></choice>, cloudy, and flying Shadow:
+                        <lb/>Hereupon <choice><orig>Sayth</orig><reg>Says</reg></choice> Hermes, My <choice><orig>Sonne</orig><reg>Son</reg></choice>! take from the ray its shadow, that is,
+                        <lb/>see that you bring your <choice><orig>Sunne</orig><reg>Sun</reg></choice> round about the primum mobile, of <pc>-</pc>
+                        <lb/>which Vulcan is made overseer, that even that part of your Earth, which
+                        <lb/>is now covered with a shady night, may <choice><orig>obtaine</orig><reg>obtain</reg></choice> the clear light of the <pc>-</pc>
+                        <lb/><choice><orig>Sunne</orig><reg>Sun</reg></choice>: for if the whole Firmament of the heaven with all things con
+                        <lb break="no"/>tained were not every <choice><orig>naturall</orig><reg>natural</reg></choice> day, that is, in twenty four <choice><orig>houres</orig><reg>hours</reg></choice> <choice><orig>alltogether</orig><reg>altogether</reg></choice>
+                        <lb/>circumvolved by the first motion, but the <choice><orig>Sunne</orig><reg>Sun</reg></choice> <choice><orig>onely</orig><reg>only</reg></choice> moved by its <choice><orig>owne</orig><reg>own</reg></choice>
+                        <lb/>(<choice><orig>calld</orig><reg>called</reg></choice> the second and <choice><orig>annuall</orig><reg>annual</reg></choice>) motion, it would happen that they, which
+                        <lb/>are Antipodes below us, would for the Space of <choice><orig>allmost</orig><reg>almost</reg></choice> six <choice><orig>moneths</orig><reg>months</reg></choice> have
+                        <lb/>a night, and <choice><orig>wee</orig><reg>we</reg></choice> a day, and afterwards on the contrary they a day and <pc>-</pc>
+                        <lb/><choice><orig>wee</orig><reg>we</reg></choice> a night; <choice><orig>soe</orig><reg>so</reg></choice> that the whole year would consist of one night and <pc>-</pc>
+                        <lb/>day, as now these courses are by experience and reason confirmed to be <pc>-</pc>
+                        <lb/>most true under both the Poles: But it <choice><orig>seemd</orig><reg>seemed</reg></choice> <choice><orig>farre</orig><reg>far</reg></choice> otherwise to divine provi
+                        <lb break="no"/>dence, which therefore <choice><orig>hath</orig><reg>has</reg></choice> ordained two motions of the Planets, the first
+                        <lb/>and second, and <choice><orig>soe</orig><reg>so</reg></choice> distributed the year into many <choice><orig>dayes</orig><reg>days</reg></choice>: Now that sha
+                        <lb break="no"/>dow and <choice><orig>Sunne</orig><reg>Sun</reg></choice> <choice><orig>doe</orig><reg>do</reg></choice> together make day and night, which the <choice><orig>Sunne</orig><reg>Sun</reg></choice> by
+                        <lb/><choice><orig>itselfe</orig><reg>itself</reg></choice> alone could not effect, whose property it is to illuminate all opposite
+                        <lb/>places and <choice><orig>bodyes</orig><reg>bodies</reg></choice>, but not make a shadow, except accidentally by his absence:
+                        <lb/><choice><orig>Soe</orig><reg>So</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> <choice><orig>Sunne</orig><reg>Sun</reg></choice> <choice><orig>dos</orig><reg>does</reg></choice> with its shadow make a day, that
+                        <lb/>is, light and night or <choice><orig>darkenesse</orig><reg>darkness</reg></choice>, namely Latona or Magnesia, whose <pc>-</pc>
+                        <lb/>Shadow Democritus <choice><orig>teacheth</orig><reg>teaches</reg></choice>, as appears in the third <choice><orig>booke</orig><reg>book</reg></choice> of his <pc>-</pc>
+                        
+                        
+                        
+                        <pb n="142"/><fw rend="italics">Discourse 45.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <lb/>Golden table at the <choice><orig>begining</orig><reg>beginning</reg></choice>, must be extinguished and consumed by a fiery
+                        <lb/>medicine. The utility of shadows in <choice><orig>Astronomicall</orig><reg>Astronomical</reg></choice> affairs is <choice><orig>soe</orig><reg>so</reg></choice> great, that <pc>-</pc>
+                        <lb/>without them that Science can scarce be perfected; Chymists <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> ascribe
+                        <lb/>it to their shadows, that their art comes to perfection; for what is this <choice><orig>Sunne</orig><reg>Sun</reg></choice> <pc>-</pc>
+                        <lb/>without a shadow? As a clapper without a bell: That indeed makes the first
+                        <lb/>motion to a sound, but this gives the sound; that is the quill, this the instru
+                        <lb break="no"/>ment; that the tongue, this the great mouth: A shadow is a most contemptible
+                        <lb/>thing, not next to a Being, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> the Philosophers shadow is a thing <pc>-</pc>
+                        <lb/><choice><orig>blacke</orig><reg>black</reg></choice> blacker than <choice><orig>blacke</orig><reg>black</reg></choice>, as they <choice><orig>terme</orig><reg>term</reg></choice> it, or of <choice><orig>lesse</orig><reg>less</reg></choice> esteem than weeds, <pc>-</pc>
+                        <lb/>not in respect of <choice><orig>itselfe</orig><reg>itself</reg></choice>, but the opinion of men and plenty; What more <pc>-</pc>
+                        <lb/><choice><orig>coḿodious</orig><reg>commodious</reg></choice> than fire, what more <choice><orig>pretious</orig><reg>precious</reg></choice> than water, what more amiable <pc>-</pc>
+                        <lb/>than earth, which <choice><orig>yeilds</orig><reg>yields</reg></choice> flowers and all amiable things, what more plea
+                        <lb break="no"/>sant than <choice><orig>aire</orig><reg>air</reg></choice>, which being <choice><orig>restraind</orig><reg>restrained</reg></choice> and obstructed, all things cease to be
+                        <lb/>pleasant? Yet <choice><orig>neverthelesse</orig><reg>nevertheless</reg></choice>, because they are <choice><orig>exposd</orig><reg>exposed</reg></choice> to mens uses in their
+                        <lb/>large Spheres, they are esteemed most vile, by a <choice><orig>præposterous</orig><reg>preposterous</reg></choice> imagination: <pc>-</pc>
+                        <lb/><choice><orig>Soe</orig><reg>So</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> is both the common and <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> shadow undervalued; They <pc>-</pc>
+                        <lb/>that live long in subterranean shadows, if brought suddenly to the clear <pc>-</pc>
+                        <lb/>light of the <choice><orig>Sunne</orig><reg>Sun</reg></choice>, <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>loose</orig><reg>lose</reg></choice> their eye<pc rend="double-hyphen">-</pc>sight; <choice><orig>Soe</orig><reg>So</reg></choice> they that reside and
+                        <lb/>operate in the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> shadow alone, and <choice><orig>doe</orig><reg>do</reg></choice> not <choice><orig>joyne</orig><reg>join</reg></choice> the <pc>-</pc>
+                        <lb/><choice><orig>Sunne</orig><reg>Sun</reg></choice> with it, are deprived of <choice><orig>judgement</orig><reg>judgment</reg></choice> and the sight of the mind, and
+                        <lb/>frustrated of the effect: The <choice><orig>cælestiall</orig><reg>celestial</reg></choice> <choice><orig>Sunne</orig><reg>Sun</reg></choice> being elevated upon the <pc>-</pc>
+                        <lb/>South there is greater heat and <choice><orig>lesse</orig><reg>less</reg></choice> shadow; <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> here heat being in
+                        <lb break="no"/>creased the shadow is diminished, and on the contrary; <choice><orig>Wee</orig><reg>We</reg></choice> must there
+                        <lb break="no"/>fore begin the <choice><orig>Sunne</orig><reg>Sun</reg></choice> being from the <choice><orig>meridionall</orig><reg>meridional</reg></choice> side bending <choice><orig>itselfe</orig><reg>itself</reg></choice><pc>-</pc>
+                        <lb/><choice><orig>againe</orig><reg>again</reg></choice> to the top of our head, in <choice><orig>Capricorne</orig><reg>Capricorn</reg></choice>; and the first operation will <pc>-</pc>
+                        <lb/>be even finished at Aries, then begins the womens <choice><orig>worke</orig><reg>work</reg></choice>, even to Leo; <pc>-</pc>
+                        <lb/>and afterwards <choice><orig>labour</orig><reg>labor</reg></choice> proceeds from <choice><orig>labour</orig><reg>labor</reg></choice>, till the year take the <choice><orig>tayle</orig><reg>tail</reg></choice>
+                        <lb/>with the head, as a Snake, that is to say, is completed<pc>. . . . . . .</pc>
+                    </ab>   
+                </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

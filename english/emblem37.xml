@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="emblem" n="e37"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+                <pb n="116"/><!-- Change to page number of the actual manuscript -->
+                
+                
+                <div type="title" xml:lang="en">
+                    <head>
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 37. Of the Secrets of Nature.
+                        <lb/>Three things are sufficient for the Magistery, the white fume, that
+                        <lb/>is, water, the green <choice><orig>Lyon</orig><reg>Lion</reg></choice>, that is, the <choice><orig>brasse</orig><reg>brass</reg></choice> of Hermes, and aqua
+                        <lb/>fœtida.</seg>
+                    </head>
+                </div>
+                
+                
+                <div type="epigram" xml:lang="en">
+                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 37.</head>
+                    <lg>
+                        <l>The <choice><orig>Lyon</orig><reg>Lion</reg></choice> green, white fume, and stinking juice,</l>
+                        <l>Are all that to our <choice><orig>Processe</orig><reg>Process</reg></choice> <choice><orig>doe</orig><reg>do</reg></choice> conduce:</l>
+                        <l>Water the mother is <choice><orig>oth'</orig><reg>of the</reg></choice> Elements,</l>
+                        <l>And the sole matter of the <choice><orig>Sophicke</orig><reg>Sophic</reg></choice> Ens.</l>
+                        <l>This <choice><orig>Lyon</orig><reg>Lion</reg></choice> is <choice><orig>th'</orig><reg>the</reg></choice> <choice><orig>Hermeticke</orig><reg>Hermetic</reg></choice> Stone and <choice><orig>Brasse</orig><reg>Brass</reg></choice>,</l>
+                        <l>And the white fume a <choice><orig>watry</orig><reg>watery</reg></choice> nature has.</l>
+                    </lg>
+                </div>
+                
+                
+                <pb n="117"/> <!-- Change to page number of the actual manuscript -->
+                <div type="discourse" xml:lang="en">
+                    <head rend="italics">Discourse 37.</head>
+                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+                        <lb/>As three <choice><orig>essentiall</orig><reg>essential</reg></choice> things, which are the foundation, walls, and <choice><orig>roofe</orig><reg>roof</reg></choice>, are<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>required to the building of every <choice><orig>ædifice</orig><reg>edifice</reg></choice>, whereof one being absent, there
+                        <lb/>can be <choice><orig>noe</orig><reg>no</reg></choice> perfection of it, <choice><orig>soe</orig><reg>so</reg></choice> are <choice><orig>soe</orig><reg>so</reg></choice> many desired in order to <pc>-</pc>
+                        <lb/>complete the Philosophers compound, which are here named by their
+                        <lb/>proper names: The author of Aurora, chapt. 20. speaking of the Se
+                        <lb break="no"/>paration of the Elements, <choice><orig>Sayth</orig><reg>Says</reg></choice>, Earth is left in the same place, that
+                        <lb/>the other three Elements may be radicated in it; if it were not for
+                        <lb/>that, the Elements could have <choice><orig>noe</orig><reg>no</reg></choice> foundation to build upon it a new
+                        <lb/><choice><orig>jewell</orig><reg>jewel</reg></choice> house: This foundation is here called Aqua fœtida, which is
+                        <lb/>the mother of all the Elements, <choice><orig>wittnesse</orig><reg>witness</reg></choice> Rosarius, from which, and
+                        <lb/>by which, and with which the Philosophers <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>præpare</orig><reg>prepare</reg></choice> it, that is,
+                        <lb/>the Elixir in the <choice><orig>begining</orig><reg>beginning</reg></choice>, and the end: It is called Aqua fœtida,
+                        <lb/>because it sends forth a Sulphureous <choice><orig>stinke</orig><reg>stink</reg></choice>, and the smell of Sepulchers: <pc>-</pc>
+                        <lb/>This is that water, which Pegasus <choice><orig>strucke</orig><reg>struck</reg></choice> out of Parnassus with his <choice><orig>hoofe</orig><reg>hoof</reg></choice>, <pc>-</pc>
+                        <lb/>which Nonacris a <choice><orig>mountaine</orig><reg>mountain</reg></choice> of Arcadia <choice><orig>produceth</orig><reg>produces</reg></choice> springing out of a <pc>-</pc>
+                        <lb/><choice><orig>rocke</orig><reg>rock</reg></choice> at the top, which can <choice><orig>onely</orig><reg>only</reg></choice> be contained in the <choice><orig>hoofe</orig><reg>hoof</reg></choice> of a horse by
+                        <lb/>reason of its most excessive strength: This is that Dragons water, as Rosa
+                        <lb break="no"/>rius calls it, which ought to be made by an <choice><orig>Alembicke</orig><reg>Alembic</reg></choice>, without adding <pc>-</pc>
+                        <lb/>any other thing, in the making of which there is an extraordinary <choice><orig>stinke</orig><reg>stink</reg></choice>:
+                        <lb/>Which words some having heard <choice><orig>betooke</orig><reg>betook</reg></choice> themselves to distill the dung of
+                        <lb/>men or other <choice><orig>animalls</orig><reg>animals</reg></choice>, in which operation they did indeed <choice><orig>feele</orig><reg>feel</reg></choice> a most <pc>-</pc>
+                        <lb/>vehement <choice><orig>stinke</orig><reg>stink</reg></choice>, but found dung in the dung: But <choice><orig>thinke</orig><reg>think</reg></choice> not the Phi
+                        <lb break="no"/>losophers to be Beetles, which operate in dung, you must know that the <choice><orig>stinke</orig><reg>stink</reg></choice>,
+                        <lb/>if there be any, is presently changed into great fragrancy, as Lully asserts
+                        <lb/>of his Quintessence, to which <choice><orig>hee</orig><reg>he</reg></choice> ascribes such a <choice><orig>sweetnesse</orig><reg>sweetness</reg></choice> of <choice><orig>savour</orig><reg>savor</reg></choice>, if
+                        <lb/>it be rightly made, that being placed at the top of a house, it allures <pc>-</pc>
+                        <lb/>birds flying to it, and <choice><orig>causeth</orig><reg>causes</reg></choice> them to stand: But <choice><orig>hee</orig><reg>he</reg></choice> puts his Quintessence
+                        <lb/>in dung, by the most temperate heat of which that fragrancy <choice><orig>followes</orig><reg>follows</reg></choice>, <pc>-</pc>
+                        <lb/>which some men having <choice><orig>tryed</orig><reg>tried</reg></choice> with strong wine, but in <choice><orig>vaine</orig><reg>vain</reg></choice>, did there
+                        <lb break="no"/>fore accuse Lully of vanity, whereas themselves ought rather to be <pc>-</pc>
+                        <lb/>reproved of folly, who never tasted <choice><orig>Lullye's</orig><reg>Lully's</reg></choice> wine; but that golden Po
+                        <lb break="no"/>et better understood Lully, who in his first <choice><orig>booke</orig><reg>book</reg></choice> of Aurifaction thus sings:
+                        <quote rend="indent">
+                            <lg xml:lang="lat">
+                                <l>At non ille quidem sensit, quæ dicere prima</l>
+                                <l>Est facie visus, neq tum stillantia vina</l>
+                                <l>Miscebat, etc.</l>
+                            </lg>
+                            <lg xml:lang="eng">
+                                <l><choice><orig>Hee</orig><reg>He</reg></choice> thought not what at first <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>seemd</orig><reg>seemed</reg></choice> to say,</l>
+                                <l>Nor then <choice><orig>mixd</orig><reg>mixed</reg></choice> stilling wines, etc.</l>
+                            </lg>
+                        </quote>
+                        <lb/>After Aqua fœtida comes the green <choice><orig>Lyon</orig><reg>Lion</reg></choice>: concerning which <choice><orig>sayth</orig><reg>says</reg></choice> Ro
+                        <lb break="no"/>sarius; you have sought for <choice><orig>greennesse</orig><reg>greenness</reg></choice>, supposing, that <choice><orig>brasse</orig><reg>brass</reg></choice> was a <pc>-</pc>
+                        <lb/>leprous body, because of that <choice><orig>greenesse</orig><reg>greenness</reg></choice> which it <choice><orig>hath</orig><reg>has</reg></choice>: and therefore <pc>-</pc>
+                        <lb/>I declare to you, that whatsoever is perfect in <choice><orig>brasse</orig><reg>brass</reg></choice>, is that <choice><orig>greenesse</orig><reg>greenness</reg></choice>
+                        
+                        
+                        
+                        <pb n="118"/><fw rend="italics">Discourse 37.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <lb/>alone, which is in it: because that <choice><orig>greenesse</orig><reg>greenness</reg></choice> is by our Magistery suddenly
+                        <lb/>turned into our most true gold, and this <choice><orig>wee</orig><reg>we</reg></choice> have had experience of:
+                        <lb/>yet you can <choice><orig>noe</orig><reg>no</reg></choice> way <choice><orig>præpare</orig><reg>prepare</reg></choice> the Stone without Duenech green and
+                        <lb/>liquid, which is seen to spring in our <choice><orig>Mynes</orig><reg>Mines</reg></choice>: O blessed <choice><orig>greenesse</orig><reg>greenness</reg></choice>, <pc>-</pc>
+                        <lb/>which <choice><orig>dost</orig><reg>does</reg></choice> generate all things: From whence you must know, that <pc>-</pc>
+                        <lb/><choice><orig>noe</orig><reg>no</reg></choice> vegetable, and <choice><orig>noe</orig><reg>no</reg></choice> fruit appears to germinate without a green <pc>-</pc>
+                        <lb/><choice><orig>colour</orig><reg>color</reg></choice>: in like manner you must know, that the generation of this thing is
+                        <lb/>green, wherefore the Philosophers call it the bud. These are the words of
+                        <lb/>Rosarius: This is the Philosophers gold, and <choice><orig>brasse</orig><reg>brass</reg></choice>, and Stone noted in <pc>-</pc>
+                        <lb/>the Chapters, a fume, <choice><orig>vapour</orig><reg>vapor</reg></choice> and water, the Spittle of Luna, which is <choice><orig>joynd</orig><reg>joined</reg></choice>
+                        <lb/>to the light of Sol; This green <choice><orig>Lyon</orig><reg>Lion</reg></choice> fights with the Dragon, but is by him
+                        <lb/>overcome, and in length of time devoured; and the <choice><orig>Lyon</orig><reg>Lion</reg></choice> being <choice><orig>putrefyed</orig><reg>putrefied</reg></choice>
+                        <lb/><choice><orig>sweetnesse</orig><reg>sweetness</reg></choice> is expected to proceed from his mouth, as being <choice><orig>Slayne</orig><reg>Slain</reg></choice> by Sampson:
+                        <lb/>The Dragon getting the upper hand <choice><orig>soe</orig><reg>so</reg></choice> fills <choice><orig>himselfe</orig><reg>himself</reg></choice> with the <choice><orig>Lyons</orig><reg>Lions</reg></choice> <pc>-</pc>
+                        <lb/>flesh, as to burst a little and <choice><orig>dye</orig><reg>die</reg></choice>: Of which, the <choice><orig>fatt</orig><reg>fat</reg></choice> alone of a <choice><orig>Lyon</orig><reg>Lion</reg></choice> curing
+                        <lb/>quotidian <choice><orig>Feavers</orig><reg>Fevers</reg></choice>, and grace and <choice><orig>favour</orig><reg>favor</reg></choice> being obtained between Kings <pc>-</pc>
+                        <lb/>and people <choice><orig>anoynted</orig><reg>anointed</reg></choice> therewith, a most excellent medicine may be made,
+                        <lb/>very <choice><orig>coḿodious</orig><reg>commodious</reg></choice> for many <choice><orig>maladyes</orig><reg>maladies</reg></choice>. In the third place <choice><orig>followes</orig><reg>follows</reg></choice> <pc>-</pc>
+                        <lb/>the white fume, which, if it be coagulated, becomes water,
+                        <lb/>and performs the office of water in washing, dissolving, and
+                        <lb/>taking away spots like Soap: This is that fire against na
+                        <lb break="no"/>ture, which see that you find, <choice><orig>soe</orig><reg>so</reg></choice> called, because it is <pc>-</pc>
+                        <lb/>contrary to nature undoing and destroying that, which She
+                        <lb/>with diligent care compounded: This fire is not kindled as
+                        <lb/>the Spirit of wind or <choice><orig>oyle</orig><reg>oil</reg></choice>, but as an incombustible matter, of <pc>-</pc>
+                        <lb/><choice><orig>æquall</orig><reg>equal</reg></choice> duration and heat, and is a fire without light and combusti
+                        <lb break="no"/>on of great virtue and efficacy, which to find in <choice><orig>darkenesse</orig><reg>darkness</reg></choice> is a
+                        <lb/>thing of <choice><orig>noe</orig><reg>no</reg></choice> little difficulty, because it shines not, but of much
+                        <lb/>greater to apply rightly to the <choice><orig>worke</orig><reg>work</reg></choice>; the circumstances and <pc>-</pc>
+                        <lb/><choice><orig>propertyes</orig><reg>properties</reg></choice> of which <choice><orig>wee</orig><reg>we</reg></choice> have sufficiently in <choice><orig>severall</orig><reg>several</reg></choice> places de
+                        <lb break="no"/>scribed<pc>. . . . . . . . . . . . . .</pc>
+                    </ab>   
+                </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

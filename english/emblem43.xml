@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="emblem" n="e43"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+                <pb n="134"/><!-- Change to page number of the actual manuscript -->
+                
+                
+                <div type="title" xml:lang="en">
+                    <head>
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 43. Of the Secrets of Nature.
+                        <lb/>Give ear to the <choice><orig>Vultur's</orig><reg>Vulture's</reg></choice> words, which are <choice><orig>noewise</orig><reg>nowise</reg></choice> false.</seg>
+                    </head>
+                </div>
+                
+                
+                <div type="epigram" xml:lang="en">
+                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 43.</head>
+                    <lg>
+                        <l>The <choice><orig>Vultur</orig><reg>Vulture</reg></choice> on the <choice><orig>mountaine</orig><reg>mountain</reg></choice> stands in sight,</l>
+                        <l><choice><orig>Himselfe</orig><reg>Himself</reg></choice> proclaiming daily, <choice><orig>blacke</orig><reg>black</reg></choice>, and white,</l>
+                        <l>Citrine, and red; nor false: The Raven is</l>
+                        <l>The same, which without wings by nature <choice><orig>flyes</orig><reg>flies</reg></choice></l>
+                        <l>In <choice><orig>dismall</orig><reg>dismal</reg></choice> <choice><orig>darkenesse</orig><reg>darkness</reg></choice>, and in glorious light,</l>
+                        <l>For either will to <choice><orig>th'</orig><reg>the</reg></choice> art conduct you right.</l>
+                    </lg>
+                </div>
+                
+                
+                <pb n="135"/> <!-- Change to page number of the actual manuscript -->
+                <div type="discourse" xml:lang="en">
+                    <head rend="italics">Discourse 43.</head>
+                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+                        <lb/><choice><orig>Wee</orig><reg>We</reg></choice> daily in many places hear birds prattling or imitating the <choice><orig>voyce</orig><reg>voice</reg></choice><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>of man, such as <choice><orig>Parrotts</orig><reg>Parrots</reg></choice>, Ravens, Dawes, and <choice><orig>Pyes</orig><reg>Pies</reg></choice>. <choice><orig>Soe</orig><reg>So</reg></choice> Pliny writes <pc>-</pc>
+                        <lb/>that, at the time wherein <choice><orig>hee</orig><reg>he</reg></choice> published his history, Agrippina the <pc>-</pc>
+                        <lb/>wife of Claudius <choice><orig>Cæsar</orig><reg>Caesar</reg></choice> had a thrush, imitating the speech of men. <pc>-</pc>
+                        <lb/>The young <choice><orig>Cæsars</orig><reg>Caesars</reg></choice> had <choice><orig>allso</orig><reg>also</reg></choice> a Starling and Nightingales accustomed to
+                        <lb/>the <choice><orig>Greeke</orig><reg>Greek</reg></choice> and <choice><orig>Latine</orig><reg>Latin</reg></choice> tongue, and daily speaking new things, with <pc>-</pc>
+                        <lb/>a long <choice><orig>forme</orig><reg>form</reg></choice> of words <choice><orig>allso</orig><reg>also</reg></choice>. But such birds now frequently happening
+                        <lb/>they are thought <choice><orig>lesse</orig><reg>less</reg></choice> worthy of admiration, for all birds <choice><orig>endu'd</orig><reg>endued</reg></choice> <pc>-</pc>
+                        <lb/>with a broad tongue may by use and <choice><orig>custome</orig><reg>custom</reg></choice> be brought to <choice><orig>speake</orig><reg>speak</reg></choice>
+                        <lb/>and babble. But that <choice><orig>Vultur</orig><reg>Vulture</reg></choice>, which the Philosophers make mention
+                        <lb/>of, did not <choice><orig>learne</orig><reg>learn</reg></choice> words, if any <choice><orig>hee</orig><reg>he</reg></choice> utters, by use, but his nature tacit
+                        <lb break="no"/>ly <choice><orig>expresseth</orig><reg>expresses</reg></choice> them. The Philosophers <choice><orig>doe</orig><reg>do</reg></choice> indeed say, that <choice><orig>hee</orig><reg>he</reg></choice> <pc>-</pc>
+                        <lb/>continually <choice><orig>cryes</orig><reg>cries</reg></choice> out, and with a loud <choice><orig>Voyce</orig><reg>Voice</reg></choice> <choice><orig>pronounceth</orig><reg>pronounces</reg></choice>, who and
+                        <lb/>what <choice><orig>hee</orig><reg>he</reg></choice> is, wherein <choice><orig>hee</orig><reg>he</reg></choice> imitates great Princes, who in the <choice><orig>begining</orig><reg>beginning</reg></choice>
+                        <lb/>of their intimations will <choice><orig>allwayes</orig><reg>always</reg></choice> make their titles and inheritances <pc>-</pc>
+                        <lb/><choice><orig>knowne</orig><reg>known</reg></choice>, not in token of any pride, but for other reasons, that they <pc>-</pc>
+                        <lb/><choice><orig>allso</orig><reg>also</reg></choice> themselves may know, what <choice><orig>principalityes</orig><reg>principalies</reg></choice> they <choice><orig>governe</orig><reg>govern</reg></choice>, or <pc>-</pc>
+                        <lb/>right of inheritance they <choice><orig>prætend</orig><reg>pretend</reg></choice> to: <choice><orig>Soe</orig><reg>So</reg></choice> it is very <choice><orig>materiall</orig><reg>material</reg></choice> to <pc>-</pc>
+                        <lb/>know, what <choice><orig>colours</orig><reg>colors</reg></choice>, as ensigns of <choice><orig>armes</orig><reg>arms</reg></choice> and titles, the <choice><orig>Philosophi
+                        <lb break="no"/>call</orig><reg>Philosophical</reg></choice> bird is <choice><orig>adornd</orig><reg>adorned</reg></choice> with, and wherein <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>excells</orig><reg>excels</reg></choice> all others. I, <choice><orig>Sayth</orig><reg>Says</reg></choice> <choice><orig>hee</orig><reg>he</reg></choice>,
+                        <lb/>as Rosarius <choice><orig>hath</orig><reg>has</reg></choice> it from Hermes, am the <choice><orig>blacke</orig><reg>black</reg></choice> of white, and the ci
+                        <lb break="no"/>trine of red, and certainly I <choice><orig>speake</orig><reg>speak</reg></choice> truth and <choice><orig>lye</orig><reg>lie</reg></choice> not. <choice><orig>Hee</orig><reg>He</reg></choice> <choice><orig>affirmes</orig><reg>affirms</reg></choice>
+                        <lb/><choice><orig>himselfe</orig><reg>himself</reg></choice> blacke, white, citrine, and red, and such <choice><orig>hee</orig><reg>he</reg></choice> really is, for <pc>-</pc>
+                        <lb/>though <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>doth</orig><reg>does</reg></choice> not as yet actually <choice><orig>possesse</orig><reg>possess</reg></choice> the last <choice><orig>colours</orig><reg>colors</reg></choice>, yet <choice><orig>hee</orig><reg>he</reg></choice>
+                        <lb/>expects the inheritance of them: Hereupon <choice><orig>Sayth</orig><reg>Says</reg></choice> Rosinus in his <choice><orig>booke</orig><reg>book</reg></choice>
+                        <lb/>of divine interpretations; Take the Stone, which is <choice><orig>blacke</orig><reg>black</reg></choice>, white, <pc>-</pc>
+                        <lb/>red, citrine, that admirable bird, which <choice><orig>flyes</orig><reg>flies</reg></choice> without wings in the
+                        <lb/><choice><orig>darknesse</orig><reg>darkness</reg></choice> of the night, and <choice><orig>clearnesse</orig><reg>clearness</reg></choice> of the day: For coloration <pc>-</pc>
+                        <lb/><choice><orig>ariseth</orig><reg>arises</reg></choice> from the <choice><orig>bitternesse</orig><reg>bitterness</reg></choice> which is in his throat, but mere water <pc>-</pc>
+                        <lb/>proceeds from his blood, as Alexander <choice><orig>sayd</orig><reg>said</reg></choice>. Take (My <choice><orig>Sonne</orig><reg>Son</reg></choice>) the
+                        <lb/>Stone of four <choice><orig>colours</orig><reg>colors</reg></choice>. The Philosophers books <choice><orig>doe</orig><reg>do</reg></choice> abundantly de
+                        <lb break="no"/>clare and insinuate that the Stone <choice><orig>hath</orig><reg>has</reg></choice> all these <choice><orig>colours</orig><reg>colors</reg></choice>, which
+                        <lb/>are <choice><orig>principall</orig><reg>principal</reg></choice>, in a successive order. But why the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice>
+                        <lb/>subject is <choice><orig>calld</orig><reg>called</reg></choice> a <choice><orig>Vultur</orig><reg>Vulture</reg></choice>, there is reason to be <choice><orig>alleadged</orig><reg>alleged</reg></choice>. Of <choice><orig>Vulturs</orig><reg>Vultures</reg></choice> <pc>-</pc>
+                        <lb/>the <choice><orig>blacke</orig><reg>black</reg></choice> are of most esteem, they are rapacious, but fly Slowly, be
+                        <lb break="no"/>cause of the <choice><orig>bignesse</orig><reg>bigness</reg></choice> of body. They say that this bird conceives <pc>-</pc>
+                        <lb/>without the seed of the males, and generates without coition, and
+                        <lb/>that their offspring <choice><orig>doe</orig><reg>do</reg></choice> arrive to a great age even to a hundred <pc>-</pc>
+                        <lb/>years. Their nests they build in high rocks, <choice><orig>noe</orig><reg>no</reg></choice> man <choice><orig>hath</orig><reg>has</reg></choice> attained
+                        <lb/>to them. Two chickens are for the most part seen: They are <choice><orig>helpe</orig><reg>help</reg></choice>
+                        <lb break="no"/>full and commodious <choice><orig>agaynst</orig><reg>against</reg></choice> Serpents. They are offended and <pc>-</pc>
+                        
+                        
+                        
+                        <pb n="136"/><fw rend="italics">Discourse 43.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <lb/>perplexed with the East wind. When they begin to lay eggs, they <pc>-</pc>
+                        <lb/>bring a thing out of the <choice><orig>Indyes</orig><reg>Indies</reg></choice>, which is as a <choice><orig>nutt</orig><reg>nut</reg></choice>, having within a <pc>-</pc>
+                        <lb/>thing that may be moved, and forthwith <choice><orig>yeilds</orig><reg>yields</reg></choice> a sound, which when
+                        <lb/>they have <choice><orig>applyed</orig><reg>applied</reg></choice> to them, they produce many young chickens, <pc>-</pc>
+                        <lb/>but one <choice><orig>onely</orig><reg>only</reg></choice> <choice><orig>remayns</orig><reg>remains</reg></choice>, which is <choice><orig>calld</orig><reg>called</reg></choice> Immusulus. Hermodorus Fon
+                        <lb break="no"/>ticus in <choice><orig>Cælius</orig><reg>Caelius</reg></choice> is a <choice><orig>wittnesse</orig><reg>witness</reg></choice>, that <choice><orig>Vulturs</orig><reg>Vultures</reg></choice> of all <choice><orig>animalls</orig><reg>animals</reg></choice> are the <pc>-</pc>
+                        <lb/>most innocent, because they <choice><orig>doe</orig><reg>do</reg></choice> not at all meddle with any of those
+                        <lb/>things which men sow, plant, and breed. Moreover they kill <choice><orig>noe</orig><reg>no</reg></choice> <pc>-</pc>
+                        <lb/><choice><orig>animalls</orig><reg>animals</reg></choice>. They <choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>abstaine</orig><reg>abstain</reg></choice> from birds though dead by a <choice><orig>certaine</orig><reg>certain</reg></choice>
+                        <lb/>instinct of affinity: For this cause they were best <choice><orig>esteemd</orig><reg>esteemed</reg></choice> in divina
+                        <lb break="no"/>tions, as the <choice><orig>originalls</orig><reg>originals</reg></choice> of the <choice><orig>Citty</orig><reg>City</reg></choice> of Rome declare. The <choice><orig>Philoso
+                        <lb break="no"/>phicall</orig><reg>Philosophical</reg></choice> bird expressing <choice><orig>allmost</orig><reg>almost</reg></choice> all these <choice><orig>propertyes</orig><reg>properties</reg></choice> of <choice><orig>Vulturs</orig><reg>Vultures</reg></choice>, is
+                        <lb/>therefore by Hermes and others not undeservedly called <choice><orig>Vultur</orig><reg>Vulture</reg></choice>, which
+                        <lb/>is <choice><orig>allso</orig><reg>also</reg></choice> slow in flight, and <choice><orig>blacke</orig><reg>black</reg></choice> of <choice><orig>colour</orig><reg>color</reg></choice>; It conceives by <choice><orig>itselfe</orig><reg>itself</reg></choice>:
+                        <lb/>For thus <choice><orig>sayth</orig><reg>says</reg></choice> Rosarius about the end; And it is the Dragon, which
+                        <lb/><choice><orig>wedds</orig><reg>weds</reg></choice> <choice><orig>itselfe</orig><reg>itself</reg></choice>, and <choice><orig>impregnats</orig><reg>impregnates</reg></choice> <choice><orig>itselfe</orig><reg>itself</reg></choice>, and brings forth in its <choice><orig>owne</orig><reg>own</reg></choice>
+                        <lb/>season etc. And Rosinus to Sarratant: And that is the Serpent, <choice><orig>ad
+                        <lb break="no"/>ministring</orig><reg>administering</reg></choice> pleasure to <choice><orig>itselfe</orig><reg>itself</reg></choice>, impregnating <choice><orig>itselfe</orig><reg>itself</reg></choice>, and bringing
+                        <lb/>forth in one day, etc. It lives and endures a very long time, and <pc>-</pc>
+                        <lb/><choice><orig>multiplyes</orig><reg>multiplies</reg></choice> <choice><orig>itselfe</orig><reg>itself</reg></choice>. For that which <choice><orig>Virgill</orig><reg>Virgil</reg></choice> writes of the bird <choice><orig>calld</orig><reg>called</reg></choice>
+                        <lb/>a <choice><orig>Phœnix</orig><reg>Phoenix</reg></choice>, is as proper to this, because it is the same.
+                        <quote rend="indent">
+                            <lg xml:lang="lat">
+                                <l>Alipedem Cervum Corvus ter vincit, at illum</l>
+                                <l>Multiplicat novies <choice><orig>Phœnix</orig><reg>Phoenix</reg></choice> reparabilis ales.</l>
+                            </lg>
+                            <lg xml:lang="eng">
+                                <l>Three ages of a Hart the Raven lives,</l>
+                                <l>Which the rare <choice><orig>Phœnix</orig><reg>Phoenix</reg></choice> nine times <choice><orig>o're</orig><reg>over</reg></choice> survives.</l>
+                            </lg>
+                        </quote>
+                        <lb/>It is very difficult to <choice><orig>climbe</orig><reg>climb</reg></choice> this birds nest: It fights with the <choice><orig>Mercuriall</orig><reg>Mercurial</reg></choice>
+                        <lb/>serpent, and overcomes it, that is, Sol with Luna. It is conceived by <pc>-</pc>
+                        <lb/>the wind, and <choice><orig>carryed</orig><reg>carried</reg></choice> in its belly, and bred in the <choice><orig>aire</orig><reg>air</reg></choice>. The <pc>-</pc>
+                        <lb/>Stone Ætites, containing a little stone sounding within <add>it</add> is by many
+                        <lb/>men called Totium. One <choice><orig>onely</orig><reg>only</reg></choice> Immusulus is found in the Philoso
+                        <lb break="no"/>phers nest. The <choice><orig>Philosophicke</orig><reg>Philosophic</reg></choice> bird is <choice><orig>allso</orig><reg>also</reg></choice> most innocent, because
+                        <lb/>it hurts <choice><orig>noe</orig><reg>no</reg></choice> body, it is <choice><orig>beneficiall</orig><reg>beneficial</reg></choice> to all that know it, and most ex
+                        <lb break="no"/>cellent in divinations. But why <choice><orig>doth</orig><reg>does</reg></choice> it make its nest on a <choice><orig>Mountaine</orig><reg>Mountain</reg></choice>,
+                        <lb/>and sitting <choice><orig>soe</orig><reg>so</reg></choice> cry out? Rosinus answers according to Rasis, who <choice><orig>sayth</orig><reg>says</reg></choice>
+                        <lb/>Behold the most high mountains, which are both on the right and
+                        <lb/>left, and <choice><orig>climbe</orig><reg>climb</reg></choice> up thither: There is our Stone found, and in another
+                        <lb/><choice><orig>mountaine</orig><reg>mountain</reg></choice>, which <choice><orig>produceth</orig><reg>produces</reg></choice> all sorts of Painter <choice><orig>colours</orig><reg>colors</reg></choice>, and Spirits <pc>-</pc>
+                        <lb/>or Species, there likewise it is: Morienus: <choice><orig>Climbe</orig><reg>Climb</reg></choice> up the high mountains,
+                        <lb/>planted wih trees, because there is our stone found, and hidden: And Hermes:
+                        <lb/>Take yee the blessed Stone, <choice><orig>breake</orig><reg>break</reg></choice> it to <choice><orig>peices</orig><reg>pieces</reg></choice>, and wash the red stone, from
+                        <lb/>which is extracted that which is found in mountains, and especially sometimes in old Sinks.
+                    </ab>   
+                </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="emblem" n="e40"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+                <pb n="125"/><!-- Change to page number of the actual manuscript -->
+                
+                
+                <div type="title" xml:lang="en">
+                    <head>
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 40. Of the Secrets of Nature.
+                        <lb/>Of two waters make one, and that will be the water of Sanctity.</seg>
+                    </head>
+                </div>
+                
+                
+                <div type="epigram" xml:lang="en">
+                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 40.</head>
+                    <lg>
+                        <l>Two streaming fountains here you may behold,</l>
+                        <l>One with <choice><orig>hott</orig><reg>hot</reg></choice> water, but the other cold:</l>
+                        <l>That's <choice><orig>calld</orig><reg>called</reg></choice> the Boy's, but this the <choice><orig>Virgins</orig><reg>Virgin's</reg></choice> Spring,</l>
+                        <l><choice><orig>Joyne</orig><reg>Join</reg></choice> them, that they may be one <choice><orig>onely</orig><reg>only</reg></choice> thing:</l>
+                        <l>This river will participate of both,</l>
+                        <l>As Jove (<choice><orig>Sirnamed</orig><reg>Surnamed</reg></choice>) Hammon's <choice><orig>fountaine</orig><reg>fountain</reg></choice> <choice><orig>doth</orig><reg>does</reg></choice>.</l>
+                    </lg>
+                </div>
+                
+                
+                <pb n="126"/> <!-- Change to page number of the actual manuscript -->
+                <div type="discourse" xml:lang="en">
+                    <head rend="italics">Discourse 40.</head>
+                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+                        <lb/>The miracles of waters are <choice><orig>soe</orig><reg>so</reg></choice> many and <choice><orig>soe</orig><reg>so</reg></choice> great, as scarce to be <pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>comprehended in a large volume, concerning which <choice><orig>severall</orig><reg>several</reg></choice> authors <pc>-</pc>
+                        <lb/>have here and there treated: But above all the two <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> wa
+                        <lb break="no"/>ters are celebrated with that name, because they <choice><orig>doe</orig><reg>do</reg></choice> as it were not <choice><orig>one
+                        <lb break="no"/>ly</orig><reg>only</reg></choice> <choice><orig>æmulate</orig><reg>emulate</reg></choice>, but <choice><orig>allso</orig><reg>also</reg></choice> exceed the virtues and <choice><orig>propertyes</orig><reg>properties</reg></choice> of all the rest. <pc>-</pc>
+                        <lb/>The rivers Sybaris, Axus of Macedonia, and Melas of <choice><orig>Bœotia</orig><reg>Boeotia</reg></choice> make <pc>-</pc>
+                        <lb/>Cattle <choice><orig>blacke</orig><reg>black</reg></choice>, if they <choice><orig>drinke</orig><reg>drink</reg></choice> thereof; but the rivers Crathis, Clitummus
+                        <lb/>of Mevania, and Cephisus make <choice><orig>blacke</orig><reg>black</reg></choice> Cattle white. The waters of <pc>-</pc>
+                        <lb/>Sinuessa in the country of Campania takes away <choice><orig>barrennesse</orig><reg>barrenness</reg></choice> from <pc>-</pc>
+                        <lb/>both sexes. The river Afrodisius makes women barren: Cabura a <choice><orig>foun
+                        <lb break="no"/>taine</orig><reg>fountain</reg></choice> of Mesopotamia <choice><orig>hath</orig><reg>has</reg></choice> water of a sweet smell; The water of Any
+                        <lb break="no"/>ger in Peloponnesus stinks very much: The <choice><orig>fountaine</orig><reg>fountain</reg></choice> of Jupiter Ham
+                        <lb break="no"/>mon is cold in the day time, <choice><orig>hott</orig><reg>hot</reg></choice> by night, and morning and evening <pc>-</pc>
+                        <lb/><choice><orig>luke<pc rend="double-hyphen">-</pc>warme</orig><reg>luke<pc rend="double-hyphen">-</pc>warm</reg></choice> by <choice><orig>turnes</orig><reg>turns</reg></choice>. <choice><orig>Wee</orig><reg>We</reg></choice> need not insist upon others, all things even
+                        <lb/>contrary one to the other are <choice><orig>performd</orig><reg>performed</reg></choice> by the Philosophers waters. Of
+                        <lb/>which <choice><orig>Sayth</orig><reg>Says</reg></choice> Lully in his <choice><orig>booke</orig><reg>book</reg></choice> of the Quintessence, distin: 3. of ince
+                        <lb break="no"/>ration; And <choice><orig>soe</orig><reg>so</reg></choice> there is a twofold consideration in the art, that is, of
+                        <lb/>the single nature of one <choice><orig>metall</orig><reg>metal</reg></choice> to make two contrary liquors in the <pc>-</pc>
+                        <lb/>composition; one, which <choice><orig>hath</orig><reg>has</reg></choice> a fixing, congealing, and <choice><orig>hardning</orig><reg>hardening</reg></choice> vir
+                        <lb break="no"/>tue, and the other, which is volatile, unfixed, and soft. But that se
+                        <lb break="no"/>cond liquor is hardened, fixed, and congealed by the first: from both <pc>-</pc>
+                        <lb/>which liquors results one stone congealed, fixed, and hardened, which
+                        <lb/><choice><orig>hath</orig><reg>has</reg></choice> the virtue of congealing not a thing congealed, to harden a thing
+                        <lb/><choice><orig>mollifyed</orig><reg>mollified</reg></choice>, and to mollify a hard thing: From which it is evident, <pc>-</pc>
+                        <lb/>what those two waters are, and why to be reduced into one water: <pc>-</pc>
+                        <lb/>For the Stone is called water, because fusible, and on the contrary,
+                        <lb/>water stone, because frangible: But these waters are <choice><orig>drawne</orig><reg>drawn</reg></choice> out of <pc>-</pc>
+                        <lb/>different places, sometimes in a long tract, as may be seen at Rome <pc>-</pc>
+                        <lb/>about Aqua Virginis, and other <choice><orig>artificiall</orig><reg>artificial</reg></choice> fountains, and then they <pc>-</pc>
+                        <lb/>must be mixed by conflux, that one may be made of two. For if
+                        <lb/>one be of a <choice><orig>hott</orig><reg>hot</reg></choice> and the other of a cold virtue, being mixed together
+                        <lb/>they will acquire <choice><orig>mixd</orig><reg>mixed</reg></choice> virtues, and after a <choice><orig>wonderfull</orig><reg>wonderful</reg></choice> manner re
+                        <lb break="no"/>gulate one the other: From hence are most excellent <choice><orig>medicinall</orig><reg>medicinal</reg></choice> and
+                        <lb/>bath waters to be produced, which will profligate all sorts of diseases <pc>-</pc>
+                        <lb/>and <choice><orig>maladyes</orig><reg>maladies</reg></choice>, and restore a man to <choice><orig>firme</orig><reg>firm</reg></choice> health. Nature <choice><orig>doth</orig><reg>does</reg></choice> in
+                        <lb break="no"/>deed by her occult artifice of composition confound and mix many <pc>-</pc>
+                        <lb/>waters in the <choice><orig>bowells</orig><reg>bowels</reg></choice> of the earth with <choice><orig>severall</orig><reg>several</reg></choice> virtues of <choice><orig>Mynes</orig><reg>Mines</reg></choice>, which
+                        <lb/>are wholesome and <choice><orig>coḿodious</orig><reg>commodious</reg></choice> to many <choice><orig>sicke</orig><reg>sick</reg></choice> and <choice><orig>infirme</orig><reg>infirm</reg></choice> persons, but
+                        <lb/>if art be added with due regiment, all evacuations being <choice><orig>præmised</orig><reg>premised</reg></choice> and
+                        <lb/>other things to be <choice><orig>prætermitted</orig><reg>pretermitted</reg></choice>, and mix those things that are to be <pc>-</pc>
+                        <lb/>mixed together, that composition will be <choice><orig>farre</orig><reg>far</reg></choice> more <choice><orig>effectuall</orig><reg>effectual</reg></choice>: <pc>-</pc>
+                        <lb/>Which, though it seem <choice><orig>artificiall</orig><reg>artificial</reg></choice>, is notwithstanding merely <choice><orig>naturall</orig><reg>natural</reg></choice>,
+                        <lb/>because of things different it is made one simple homogeneous matter,
+                        
+                        
+                        
+                        <pb n="127"/><fw rend="italics">Discourse 40.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <lb/>which can never be effected by art: A mixtion and confusion is indeed cau
+                        <lb break="no"/>sed by art, without the <choice><orig>helpe</orig><reg>help</reg></choice> of nature <choice><orig>noe</orig><reg>no</reg></choice> true and <choice><orig>naturall</orig><reg>natural</reg></choice> union, <pc>-</pc>
+                        <lb/>which is made by nature alone: There is an <choice><orig>artificiall</orig><reg>artificial</reg></choice> mixtion of various <pc>-</pc>
+                        <lb/>simples in Triacle, which is <choice><orig>performd</orig><reg>performed</reg></choice> by contrition and fermentation, <pc>-</pc>
+                        <lb/>but <choice><orig>noe</orig><reg>no</reg></choice> man will (except inconsiderately) <choice><orig>affirme</orig><reg>affirm</reg></choice> it to be a <choice><orig>naturall</orig><reg>natural</reg></choice> <pc>-</pc>
+                        <lb/>composition, much <choice><orig>lesse</orig><reg>less</reg></choice> a homogeneous medicament: As to the <choice><orig>artificiall</orig><reg>artificial</reg></choice>
+                        <lb/>mixtion of substances it is manifest, that they <choice><orig>doe</orig><reg>do</reg></choice> not enter one <pc>-</pc>
+                        <lb/>into the other in the least parts, though they cannot <choice><orig>againe</orig><reg>again</reg></choice> be divided
+                        <lb/>and separated one from the other by the industry of man. But as to
+                        <lb/>the mixtion of all <choice><orig>qualityes</orig><reg>qualities</reg></choice> <choice><orig>wee</orig><reg>we</reg></choice> must enquire, whether the first Tri
+                        <lb break="no"/>acles of all Simples may be reduced not one Quintessence, <del>and whol</del>
+                        <lb/>or yet in their powders or substances be, as before, as accidents in a subject,
+                        <lb/>or <choice><orig>colour</orig><reg>color</reg></choice> in a wall; and then what is to be <choice><orig>sayd</orig><reg>said</reg></choice> of the second, third, and
+                        <lb/>fourth <choice><orig>qualityes</orig><reg>qualities</reg></choice>? Probable it is that all the <choice><orig>qualityes</orig><reg>qualities</reg></choice> are yet <choice><orig>inhærent</orig><reg>inherent</reg></choice>
+                        <lb/>in their <choice><orig>owne</orig><reg>own</reg></choice> subjects, and not compounded together by a true <choice><orig>natu
+                        <lb break="no"/>rall</orig><reg>natural</reg></choice> mixtion; otherwise, if the <choice><orig>qualityes</orig><reg>qualities</reg></choice> should relinquish their <choice><orig>bo
+                        <lb break="no"/>dyes</orig><reg>bodies</reg></choice>, there would be four Quintessences in every <hi rend="superscript">2</hi>composition <hi rend="superscript">1</hi><choice><orig>arti
+                        <lb break="no"/>ficiall</orig><reg>artificial</reg></choice>, according to the number of the order of the <choice><orig>qualityes</orig><reg>qualities</reg></choice>, first, <pc>-</pc>
+                        <lb/>second etc. without their <choice><orig>bodyes</orig><reg>bodies</reg></choice>, and separable; which they say
+                        <lb/>is not <choice><orig>soe</orig><reg>so</reg></choice> with the coagulum of a hare, which being in flux <pc>-</pc>
+                        <lb/>by the tenuity of the blood stops and as it were coagulates it, <pc>-</pc>
+                        <lb/>but in the coagulation and concretion <choice><orig>cutts</orig><reg>cuts</reg></choice> and resolves the same;
+                        <lb/>soe the operations of vinegar, lead, and many other things are con
+                        <lb break="no"/>trary according to the different use of them, because nature <choice><orig>hath</orig><reg>has</reg></choice> <pc>-</pc>
+                        <lb/>soe wonderfully mixed them: <choice><orig>Soe</orig><reg>So</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>hath</orig><reg>has</reg></choice> the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice>
+                        <lb/>water different and contrary virtues, because nature <choice><orig>hath</orig><reg>has</reg></choice> by the <pc>-</pc>
+                        <lb/><choice><orig>helpe</orig><reg>help</reg></choice> of art mixed it with things contrary into one indivisible <pc>-</pc>
+                        <lb/>substance, which is nothing <choice><orig>els</orig><reg>else</reg></choice> but a Quintessence, in respect of <pc>-</pc>
+                        <lb/>other things to be mixed with it<pc>. . . . . . .</pc>
+                    </ab>   
+                </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

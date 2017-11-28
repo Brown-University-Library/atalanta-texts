@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="emblem" n="e16"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+                <pb n="53"/><!-- Change to page number of the actual manuscript -->
+                
+                
+                <div type="title" xml:lang="en">
+                    <head>
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 16. Of the Secrets of Nature.
+                        <lb/>One <choice><orig>Lyon</orig><reg>Lion</reg></choice> <choice><orig>hath</orig><reg>has</reg></choice> wings, the other none.</seg>
+                    </head>
+                </div>
+                
+                
+                <div type="epigram" xml:lang="en">
+                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 16.</head>
+                    <lg>
+                        <l>The <choice><orig>Lyon</orig><reg>Lion</reg></choice> prince of beasts in might and sway</l>
+                        <l>Fights without fear, and <choice><orig>scornes</orig><reg>scorns</reg></choice> to <choice><orig>runne</orig><reg>run</reg></choice> away:</l>
+                        <l>Give him a Spouse with wings of his <choice><orig>owne</orig><reg>own</reg></choice> race,</l>
+                        <l>To mount him with <choice><orig>herselfe</orig><reg>herself</reg></choice> from place to place;</l>
+                        <l>But <choice><orig>hee</orig><reg>he</reg></choice> immoved stands, and nulls her force,</l>
+                        <l>By <choice><orig>Embleme</orig><reg>Emblem</reg></choice> to demonstrate Natures course.</l>
+                    </lg>
+                </div>
+                
+                
+                <pb n="54"/> <!-- Change to page number of the actual manuscript -->
+                <div type="discourse" xml:lang="en">
+                    <head rend="italics">Discourse 16.</head>
+                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+                        <lb/>It is a thing <choice><orig>knowne</orig><reg>known</reg></choice> by experience that a <choice><orig>Lyon</orig><reg>Lion</reg></choice> <choice><orig>excells</orig><reg>excels</reg></choice> other <choice><orig>animalls</orig><reg>animals</reg></choice> not<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/><choice><orig>soe</orig><reg>so</reg></choice> much in <choice><orig>bignesse</orig><reg>bigness</reg></choice> and strength of body, as generosity: if <choice><orig>hee</orig><reg>he</reg></choice> be seen in <pc>-</pc>
+                        <lb/>hunting, being <choice><orig>ashamd</orig><reg>ashamed</reg></choice> to <choice><orig>runne</orig><reg>run</reg></choice> away, <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>releaseth</orig><reg>releases</reg></choice> <choice><orig>himselfe</orig><reg>himself</reg></choice> by degrees,
+                        <lb/>if <choice><orig>hee</orig><reg>he</reg></choice> be <choice><orig>oppressd</orig><reg>oppressed</reg></choice> by a multitude: being removed from the view of the <pc>-</pc>
+                        <lb/>hunters, <choice><orig>hee</orig><reg>he</reg></choice> makes hast away, thinking it a <choice><orig>dishonour</orig><reg>dishonor</reg></choice> to be <choice><orig>excusd</orig><reg>excused</reg></choice> by ab
+                        <lb break="no"/>sconding: <choice><orig>hee</orig><reg>he</reg></choice> desires a wood in flight, which <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>useth</orig><reg>uses</reg></choice>, when anything
+                        <lb/>pursues: his bones are solid and not at all empty, which are <choice><orig>sayd</orig><reg>said</reg></choice> to be
+                        <lb/><choice><orig>soe</orig><reg>so</reg></choice> hard, that being <choice><orig>shakd</orig><reg>shaked</reg></choice> together they <choice><orig>yeild</orig><reg>yield</reg></choice> fire as out of a Steel and <pc>-</pc>
+                        <lb/>flint. <choice><orig>Hee</orig><reg>He</reg></choice> fears fire above all things. <choice><orig>Hee</orig><reg>He</reg></choice> seems to derive his substance
+                        <lb/>from the nature of the <choice><orig>Sunne</orig><reg>Sun</reg></choice>, for in force and heat <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>excells</orig><reg>excels</reg></choice> other <pc>-</pc>
+                        <lb/><choice><orig>animalls</orig><reg>animals</reg></choice>, as the <choice><orig>Sunne</orig><reg>Sun</reg></choice> <choice><orig>doth</orig><reg>does</reg></choice> the <choice><orig>Starrs</orig><reg>Stars</reg></choice>: Besides <choice><orig>hee</orig><reg>he</reg></choice> is <choice><orig>allways</orig><reg>always</reg></choice> beheld with
+                        <lb/>fiery and open eyes, as the <choice><orig>Sunne</orig><reg>Sun</reg></choice> beholds the earth with an open and <pc>-</pc>
+                        <lb/>fiery eye: a <choice><orig>Lionesse</orig><reg>Lioness</reg></choice> fighting for her whelps <choice><orig>fixeth</orig><reg>fixes</reg></choice> her eyes upon the <pc>-</pc>
+                        <lb/>ground, that <choice><orig>Shee</orig><reg>She</reg></choice> may not be <choice><orig>afrayd</orig><reg>afraid</reg></choice> of the hunters Staffs and Spears. <pc>-</pc>
+                        <lb/>where a <choice><orig>Lyon</orig><reg>Lion</reg></choice> perceives the coition of a Leopard, <choice><orig>hee</orig><reg>he</reg></choice> takes revenge <pc>-</pc>
+                        <lb/>upon the <choice><orig>Lionesse</orig><reg>Lioness</reg></choice> for adultery, and inflicts severe <choice><orig>punnishment</orig><reg>punishment</reg></choice>; <pc>-</pc>
+                        <lb/>The <choice><orig>Lionesse</orig><reg>Lioness</reg></choice> therefore <choice><orig>washeth</orig><reg>washes</reg></choice> away the <choice><orig>offence</orig><reg>offense</reg></choice> and scent in a river, <pc>-</pc>
+                        <lb/>or being conscious of the <choice><orig>trespasse</orig><reg>trespass</reg></choice> <choice><orig>doth</orig><reg>does</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> accompany the adulterer <pc>-</pc>
+                        <lb/>flying for fear of the male: Which <choice><orig>wonderfull</orig><reg>wonderful</reg></choice> nature of this beast the
+                        <lb/>Philosophers contemplating, have produced <choice><orig>severall</orig><reg>several</reg></choice> <choice><orig>allegoryes</orig><reg>allegories</reg></choice> of the
+                        <lb/><choice><orig>Lyon</orig><reg>Lion</reg></choice>, as it were <choice><orig>hieroglyphicall</orig><reg>hieroglyphical</reg></choice> writings testifying of their secret <pc>-</pc>
+                        <lb/><choice><orig>worke</orig><reg>work</reg></choice>, observing the <choice><orig>Lyon</orig><reg>Lion</reg></choice> to be a constant, <choice><orig>firme</orig><reg>firm</reg></choice> <choice><orig>animall</orig><reg>animal</reg></choice>, without <pc>-</pc>
+                        <lb/><choice><orig>deceipt</orig><reg>deceit</reg></choice> and suspicion, they assimilated the better part of their <choice><orig>Phi
+                        <lb break="no"/>losophicall</orig><reg>Philosophical</reg></choice> composition to him: for as <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>flyes</orig><reg>flies</reg></choice> not, <choice><orig>soe</orig><reg>so</reg></choice> neither this: <pc>-</pc>
+                        <lb/><choice><orig>hee</orig><reg>he</reg></choice> with solid bones, <choice><orig>soe</orig><reg>so</reg></choice> this fixed and not to be overcome: and as <pc>-</pc>
+                        <lb/>the <choice><orig>Lionesse</orig><reg>Lioness</reg></choice> is not <choice><orig>allways</orig><reg>always</reg></choice> innocent and free from adultery, <choice><orig>soe</orig><reg>so</reg></choice> <pc>-</pc>
+                        <lb/>is neither Luna nor Mercury without some blemish, but is <choice><orig>joyned</orig><reg>joined</reg></choice>
+                        <lb/>by the ignorant sometimes to this, sometimes to that matter, where
+                        <lb break="no"/>by an adulterous conjunction of things discrepant and different in
+                        <lb/>nature rather than true matrimony is established: for the products
+                        <lb/>of a Leopard and <choice><orig>Lionesse</orig><reg>Lioness</reg></choice> have <choice><orig>noe</orig><reg>no</reg></choice> specious and comely <choice><orig>mains</orig><reg>manes</reg></choice> <pc>-</pc>
+                        <lb/>about the <choice><orig>necke</orig><reg>neck</reg></choice> and Shoulders; with which <choice><orig>ensigne</orig><reg>ensign</reg></choice> those generated
+                        <lb/>by the <choice><orig>Lyon</orig><reg>Lion</reg></choice> are alone adorned. The <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> <choice><orig>Lionesse</orig><reg>Lioness</reg></choice> must
+                        <lb/>therefore be <choice><orig>joyned</orig><reg>joined</reg></choice> to her proper mate or male, and a genuine <pc>-</pc>
+                        <lb/>and generous whelp will from thence Spring, which may easily
+                        <lb/>be <choice><orig>knowne</orig><reg>known</reg></choice> by his paw. But the <choice><orig>Lionesse</orig><reg>Lioness</reg></choice> must not be any or <pc>-</pc>
+                        <lb/>what you please, but winged, which may be able to fight and
+                        <lb/>contest with the <choice><orig>Lyon</orig><reg>Lion</reg></choice>, depending upon the <choice><orig>Swiftnesse</orig><reg>Swiftness</reg></choice> of her <pc>-</pc>
+                        <lb/>plumes, lest (to <choice><orig>witt</orig><reg>wit</reg></choice>) <choice><orig>Shee</orig><reg>She</reg></choice> Should be oppressed by his extraordi
+                        <lb break="no"/>nary wrath, but to <choice><orig>thinke</orig><reg>think</reg></choice> upon escape, if at any time <choice><orig>hee</orig><reg>he</reg></choice> fall
+                        <lb/>into fury without cause, for <choice><orig>hee</orig><reg>he</reg></choice> when <choice><orig>hee</orig><reg>he</reg></choice> stops her flying <pc>-</pc>
+                        
+                        
+                        
+                        <pb n="55"/><fw rend="italics">Discourse 16.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <lb/>is incited with greater love towards her, <choice><orig>freindship</orig><reg>friendship</reg></choice> being made after discord. <pc>-</pc>
+                        <lb/>But you will say who ever saw a <choice><orig>Lionesse</orig><reg>Lioness</reg></choice> with wings, or what can the plumes
+                        <lb/>of a <choice><orig>Lionesse</orig><reg>Lioness</reg></choice> <choice><orig>avayle</orig><reg>avail</reg></choice>? There is a deep valley near the <choice><orig>mountaine</orig><reg>mountain</reg></choice> <choice><orig>Cythæron</orig><reg>Cithaeron</reg></choice>,
+                        <lb/>in which are seen none but flying <choice><orig>Lionesse</orig><reg>Lioness</reg></choice>, and at the top of the same <pc>-</pc>
+                        <lb/><choice><orig>mountaine</orig><reg>mountain</reg></choice> resorts a red <choice><orig>Lyon</orig><reg>Lion</reg></choice> of that kind, which Hercules killed. The <pc>-</pc>
+                        <lb/><choice><orig>Lyon</orig><reg>Lion</reg></choice> therefore must be taken, and brought into the valley, and forthwith
+                        <lb/>coupled to the winged <choice><orig>Lionesse</orig><reg>Lioness</reg></choice>: <choice><orig>Shee</orig><reg>She</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> will easily suffer <choice><orig>herselfe</orig><reg>herself</reg></choice> to
+                        <lb/>be overcome, as like by like: afterwards they must be both advanced
+                        <lb/>out of the <choice><orig>sayd</orig><reg>said</reg></choice> valley to the top of the <choice><orig>mountaine</orig><reg>mountain</reg></choice>, and henceforth they
+                        <lb/>will never desert one another, but <choice><orig>allwayes</orig><reg>always</reg></choice> <choice><orig>remaine</orig><reg>remain</reg></choice> together in inviolable
+                        <lb/>amity: The taking of <choice><orig>Lyons</orig><reg>Lions</reg></choice>. I <choice><orig>confesse</orig><reg>confess</reg></choice>, is not easy, but obnoxious to many <pc>-</pc>
+                        <lb/>dangers, <choice><orig>neverthelesse</orig><reg>nevertheless</reg></choice> it must be attempted: a <choice><orig>Lyon</orig><reg>Lion</reg></choice> feeds not with the <pc>-</pc>
+                        <lb/><choice><orig>Lionesse</orig><reg>Lioness</reg></choice>, but <choice><orig>strayes</orig><reg>strays</reg></choice> apart, as story relates, therefore they are to be found and
+                        <lb/>hunted severally: But if the <choice><orig>Lyons</orig><reg>Lions</reg></choice> whelps be <choice><orig>obtaind</orig><reg>obtained</reg></choice> in their infancy, when
+                        <lb/>they first begin to <choice><orig>goe</orig><reg>go</reg></choice>, which is at two <choice><orig>moneths</orig><reg>months</reg></choice> age, and be <choice><orig>joyned</orig><reg>joined</reg></choice>, as <choice><orig>afore
+                        <lb break="no"/>sayd</orig><reg>said</reg></choice>, being come to good growth and stature, the thing will be free from <pc>-</pc>
+                        <lb/>any danger. Moreover <seg rend="underline" hand="2">they breed in the Spring time, which must be well
+                        <lb/>observed: b</seg>ut <choice><orig>Lyons</orig><reg>Lions</reg></choice> after whelping using <choice><orig>crosse</orig><reg>cross</reg></choice> and winding <choice><orig>wayes</orig><reg>ways</reg></choice>, to
+                        <lb/><choice><orig>prævent</orig><reg>prevent</reg></choice> the discovery of their <choice><orig>denne</orig><reg>den</reg></choice>, therefore must they be sought and
+                        <lb/>their whelps taken away with very great diligence and care<pc>. . . .</pc>
+                    </ab>   
+                </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
+

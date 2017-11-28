@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="emblem" n="e32"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+                <pb n="i0i"/><!-- Change to page number of the actual manuscript -->
+                
+                
+                <div type="title" xml:lang="en">
+                    <head>
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 32. Of the Secrets of Nature.
+                        <lb/>As <choice><orig>Corall</orig><reg>Coral</reg></choice> <choice><orig>growes</orig><reg>grows</reg></choice> under water, and is hardened by the <choice><orig>aire</orig><reg>air</reg></choice>,
+                        <lb/><choice><orig>Soe</orig><reg>So</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> is the Stone.</seg>
+                    </head>
+                </div>
+                
+                
+                <div type="epigram" xml:lang="en">
+                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 32.</head>
+                    <lg>
+                        <l>In the Sicilian waves a Sea<pc rend="double-hyphen">-</pc>plant <choice><orig>growes</orig><reg>grows</reg></choice>,</l>
+                        <l>Shooting forth many moist and <choice><orig>plyant</orig><reg>pliant</reg></choice> boughs:</l>
+                        <l><choice><orig>Corall</orig><reg>Coral</reg></choice> it is by name; whose nature's such,</l>
+                        <l>That, if exposed to <choice><orig>th'</orig><reg>the</reg></choice> <choice><orig>aire</orig><reg>air</reg></choice>, it alters much,</l>
+                        <l><del>And</del> A blood red <choice><orig>rocke</orig><reg>rock</reg></choice> becoming: which alone</l>
+                        <l>Exactly <choice><orig>repræsents</orig><reg>represents</reg></choice> the <choice><orig>Sophicke</orig><reg>Sophic</reg></choice> stone.</l>
+                    </lg>
+                </div>
+                
+                
+                <pb n="102"/> <!-- Change to page number of the actual manuscript -->
+                <div type="discourse" xml:lang="en">
+                    <head rend="italics">Discourse 32.</head>
+                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+                        <lb/>The Philosophers call their Stone vegetable, because it vegetates, <choice><orig>growes</orig><reg>grows</reg></choice>, <pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>is <choice><orig>increasd</orig><reg>increased</reg></choice> and <choice><orig>multiplyd</orig><reg>multiplied</reg></choice> as a plant: which indeed to the ignorant seems
+                        <lb/>strange and contrary to truth; it being manifest that stones <choice><orig>doe</orig><reg>do</reg></choice> neither
+                        <lb/>vegetate, nor grow after this manner, nor any thing at all relate to <pc>-</pc>
+                        <lb/>liquable <choice><orig>metalls</orig><reg>metals</reg></choice>: but they are deceived in their judgment: for that which
+                        <lb/>is <choice><orig>unknowne</orig><reg>unknown</reg></choice> to them they suppose is not in rerum natura, measuring
+                        <lb/>the immensity of the universe by their capacity: For who could ever
+                        <lb/>have <choice><orig>beleived</orig><reg>believed</reg></choice> that a stone should grow under water, or a plant there ge
+                        <lb break="no"/>nerated become a stone, if experience together with the credible <choice><orig>testimo
+                        <lb break="no"/>nyes</orig><reg>testimonies</reg></choice> of writes had not <choice><orig>confirmd</orig><reg>confirmed</reg></choice> it? where is that <choice><orig>petrefying</orig><reg>petrifying</reg></choice>, where <pc>-</pc>
+                        <lb/>that tinging virtue, which <choice><orig>hardeneth</orig><reg>hardens</reg></choice> and <choice><orig>tingeth</orig><reg>tinges</reg></choice> <choice><orig>Corall</orig><reg>Coral</reg></choice>, whether in the
+                        <lb/>water, or in the <choice><orig>aire</orig><reg>air</reg></choice>, or in the earth? <choice><orig>wee</orig><reg>we</reg></choice> may reasonably <choice><orig>beleive</orig><reg>believe</reg></choice> it
+                        <lb/>to be, as they <choice><orig>affirme</orig><reg>affirm</reg></choice>, a soft and <seg rend="underline" hand="2">flexible</seg> plant, whilst it is under wa
+                        <lb break="no"/>ter, yet of a very <choice><orig>terrestriall</orig><reg>terrestrial</reg></choice> nature, which, when it is cut <choice><orig>of</orig><reg>off</reg></choice> and exposed
+                        <lb/>to the cold winds, becomes hard, and acquires a stony frangibility, the
+                        <lb/><choice><orig>watry</orig><reg>watery</reg></choice> parts abounding being <choice><orig>dryed</orig><reg>dried</reg></choice> up by the cold and dry <choice><orig>aire</orig><reg>air</reg></choice> (for these
+                        <lb/>North winds blowing <choice><orig>doe</orig><reg>do</reg></choice> introduce siccity) and the <choice><orig>terrestriall</orig><reg>terrestrial</reg></choice> body <pc>-</pc>
+                        <lb/>remaining congealed with cold and siccity <choice><orig>by<add>ing</add></orig><reg>being</reg></choice> the <choice><orig>qualityes</orig><reg>qualities</reg></choice> of the earth:
+                        <lb/>for constriction <choice><orig>appertaines</orig><reg>appertains</reg></choice> to the earth alone, not to the water, nor <choice><orig>aire</orig><reg>air</reg></choice>,
+                        <lb/>as to the proper and genuine virtues of either. Besides the sea in other
+                        <lb/>places <choice><orig>yeilds</orig><reg>yields</reg></choice> three <choice><orig>medicinall</orig><reg>medicinal</reg></choice> stones deduced partly from the vegetable
+                        <lb/>kind, partly from the <choice><orig>animall</orig><reg>animal</reg></choice>, or rather partly from the secrets of na
+                        <lb break="no"/>ture; as Pearls, <choice><orig>Ambar</orig><reg>Amber</reg></choice>, and <choice><orig>Ambar<pc rend="double-hyphen">-</pc>grise</orig><reg>Ambergris</reg></choice>: the production of Pearls, <pc>-</pc>
+                        <lb/>and the way of taking them have been <choice><orig>knowne</orig><reg>known</reg></choice> to us, but not of the
+                        <lb/>rest: <choice><orig>Ambar</orig><reg>Amber</reg></choice> is found and gathered on the Sea coasts of Sudavia, on the
+                        <lb/><choice><orig>shoars</orig><reg>shores</reg></choice>, after a most vehement South or westerly wind, which without
+                        <lb/>doubt <choice><orig>boyles</orig><reg>boils</reg></choice> out of the veins of the earth into the Sea, or is <choice><orig>washd</orig><reg>washed</reg></choice> <pc>-</pc>
+                        <lb/>out by the water, and driven by the waves to the <choice><orig>shoars</orig><reg>shores</reg></choice>: For <choice><orig>wee</orig><reg>we</reg></choice> <pc>-</pc>
+                        <lb/>have seen some veins of iron and Silver swimming with the <choice><orig>Ambar</orig><reg>Amber</reg></choice>,
+                        <lb/>which could not be done but in the earth. But as to <add>the</add> <choice><orig>flyes</orig><reg>flies</reg></choice>, <choice><orig>gnatts</orig><reg>gnats</reg></choice>,<pc>-</pc>
+                        <lb/>Spiders, <choice><orig>Butterflyes</orig><reg>Butterflies</reg></choice>, <choice><orig>froggs</orig><reg>frogs</reg></choice>, Serpents which are seen in some <choice><orig>peices</orig><reg>pieces</reg></choice> (as
+                        <lb/><choice><orig>wee</orig><reg>we</reg></choice> have had 120 beads turned out of <choice><orig>Ambar</orig><reg>Amber</reg></choice>, which did every one
+                        <lb/><choice><orig>containe</orig><reg>contain</reg></choice> some <choice><orig>flyes</orig><reg>flies</reg></choice>, <choice><orig>gnatts</orig><reg>gnats</reg></choice>, Spiders, <choice><orig>butterflyes</orig><reg>butterflies</reg></choice>, and one particle nine,
+                        <lb/>not without a singular miracle of nature) that happens by the influ
+                        <lb break="no"/>ence and imagination of the heaven; as <choice><orig>wee</orig><reg>we</reg></choice> have <choice><orig>elswhere</orig><reg>elsewhere</reg></choice> demon
+                        <lb break="no"/>strated. That <choice><orig>Ambar<pc rend="double-hyphen">-</pc>grise</orig><reg>Ambergris</reg></choice> is found after the same manner on the
+                        <lb/><choice><orig>Shoars</orig><reg>Shores</reg></choice> of the east and west <choice><orig>Indyes</orig><reg>Indies</reg></choice>, cannot be <choice><orig>denyd</orig><reg>denied</reg></choice>, and though <pc>-</pc>
+                        <lb/>some declare it to be the juice or <choice><orig>gumme</orig><reg>gum</reg></choice> of trees, as the <choice><orig>Ambar</orig><reg>Amber</reg></choice> <pc>-</pc>
+                        <lb/><choice><orig>aforesayd</orig><reg>aforesaid</reg></choice>, yet they that conceive it to proceed out of veins of the <pc>-</pc>
+                        <lb/>earth <choice><orig>doe</orig><reg>do</reg></choice> judge more probably: For <choice><orig>fruitfull</orig><reg>fruitful</reg></choice> trees of <choice><orig>Ambar</orig><reg>Amber</reg></choice> have
+                        <lb/>been in <choice><orig>noe</orig><reg>no</reg></choice> place seen, which notwithstanding, if there be, <choice><orig>doe</orig><reg>do</reg></choice> <pc>-</pc>
+                        <lb/>most certainly grow out of the water in the open <choice><orig>aire</orig><reg>air</reg></choice>: <choice><orig>Wee</orig><reg>We</reg></choice> <pc>-</pc>
+                        
+                        
+                        
+                        <pb n="103"/><fw rend="italics">Discourse 32.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <lb/>therefore ascribe both sorts of <choice><orig>Ambar</orig><reg>Amber</reg></choice> to subterranean veins or stones, as
+                        <lb/>Pearls to Zoophytes (that is, a <choice><orig>midle</orig><reg>middle</reg></choice> nature between <choice><orig>animall</orig><reg>animal</reg></choice> and plant) <pc>-</pc>
+                        <lb/>and <choice><orig>Corall</orig><reg>Coral</reg></choice> to vegetables. The Philosophers stone is indeed like to these stones
+                        <lb/>and especially to <choice><orig>Corall</orig><reg>Coral</reg></choice>: for as <choice><orig>Corall</orig><reg>Coral</reg></choice> <choice><orig>growes</orig><reg>grows</reg></choice> in water, and <choice><orig>drawes</orig><reg>draws</reg></choice> nutriment
+                        <lb/>from the earth; <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> stone growes in <choice><orig>Mercuriall</orig><reg>Mercurial</reg></choice> <pc>-</pc>
+                        <lb/>water, and from it receives whatsoever is earthy, for the augmentation of <choice><orig>it
+                        <lb break="no"/>selfe</orig><reg>itself</reg></choice>, the superfluous moisture expiring. A red <choice><orig>colour</orig><reg>color</reg></choice> is <choice><orig>allso</orig><reg>also</reg></choice> fixed in <choice><orig>Corall</orig><reg>Coral</reg></choice>
+                        <lb/>by coagulation, which modern authors call the tincture of <choice><orig>Coralls</orig><reg>Corals</reg></choice>, <choice><orig>noe</orig><reg>no</reg></choice> other
+                        <lb break="no"/>wise than as in the <choice><orig>Physicall</orig><reg>Physical</reg></choice> stone, which becomes red in the last coagu
+                        <lb break="no"/>lation of it, and appears like the reddest <choice><orig>Corall</orig><reg>Coral</reg></choice>, which is the tincture: <pc>-</pc>
+                        <lb/>but as <choice><orig>Corall</orig><reg>Coral</reg></choice> becomes hard by cold and siccity, <choice><orig>soe</orig><reg>so</reg></choice> that by heat and sicci
+                        <lb break="no"/>ty, which being augmented it likewise dissolves, contrary to the nature of
+                        <lb/>other stones, which <choice><orig>doe</orig><reg>do</reg></choice> indeed dissolve, but <choice><orig>turne</orig><reg>turn</reg></choice> into <choice><orig>glasse</orig><reg>glass</reg></choice>, which thing
+                        <lb/>is <choice><orig>noewise</orig><reg>nowise</reg></choice> <choice><orig>agreable</orig><reg>agreeable</reg></choice> to this: And as <choice><orig>Corall</orig><reg>Coral</reg></choice> is <choice><orig>præpared</orig><reg>prepared</reg></choice> into <choice><orig>severall</orig><reg>several</reg></choice> medi
+                        <lb break="no"/>cines of great virtue, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>hath</orig><reg>has</reg></choice> the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> <choice><orig>Corall</orig><reg>Coral</reg></choice> <choice><orig>transferrd</orig><reg>transferred</reg></choice> <pc>-</pc>
+                        <lb/>the virtues of all herbs into <choice><orig>itselfe</orig><reg>itself</reg></choice>, <choice><orig>soe</orig><reg>so</reg></choice> that is alone is able to <choice><orig>performe</orig><reg>perform</reg></choice>
+                        <lb/>as much as all the medicines of all vegetables: For the <choice><orig>cælestiall</orig><reg>celestial</reg></choice> <choice><orig>Sunne</orig><reg>Sun</reg></choice>,
+                        <lb/>which <choice><orig>infuseth</orig><reg>infuses</reg></choice> <choice><orig>medicinall</orig><reg>medicinal</reg></choice> virtue and efficacy into vegetables, contributes
+                        <lb/>to this its <choice><orig>Sonne</orig><reg>Son</reg></choice> and <choice><orig>terrestriall</orig><reg>terrestrial</reg></choice> deputy more, than to all others: This is <pc>-</pc>
+                        <lb/>the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> vegetable, <choice><orig>animall</orig><reg>animal</reg></choice>, and <choice><orig>minerall</orig><reg>mineral</reg></choice> <choice><orig>Corall</orig><reg>Coral</reg></choice>, which <choice><orig>lyes</orig><reg>lies</reg></choice>
+                        <lb/>occult in the vast ocean, and is not <choice><orig>knowne</orig><reg>known</reg></choice>, except it be exposed to the
+                        <lb/>eyes and put into the hands of the ignorant: But it must be cut <choice><orig>of</orig><reg>off</reg></choice> in
+                        <lb/>the water with very great caution, lest it <choice><orig>loose</orig><reg>lose</reg></choice> its juice and blood, and
+                        <lb/>nothing <choice><orig>remayne</orig><reg>remain</reg></choice> but a <choice><orig>terrestriall</orig><reg>terrestrial</reg></choice> chaos without its true <choice><orig>forme</orig><reg>form</reg></choice>: For
+                        <lb/>herein consists all the difficulty of taking <choice><orig>corall</orig><reg>coral</reg></choice>, besides which there is <pc>-</pc>
+                        <lb/>scarce any: The superfluous moisture. I <choice><orig>meane</orig><reg>mean</reg></choice>, which kills the stone,
+                        <lb/><choice><orig>unlesse</orig><reg>unless</reg></choice> it be separated, which suffers not the <choice><orig>coralline</orig><reg>coraline</reg></choice> <choice><orig>rednesse</orig><reg>redness</reg></choice> to <pc>-</pc>
+                        <lb/>appear, which <choice><orig>admitts</orig><reg>admits</reg></choice> not coagulation, whilst it is therein<pc>. . . . .</pc>
+                        <note><!-- note inserted on folded piece of paper, much more modern hand? -->
+                            <lb/>Avoid all disputes as much as poss
+                            <lb/>Beware of all unruly passions
+                            <lb/>Crave the divine protection
+                            <lb/>Demonstrate your care by improven
+                        </note>
+                    </ab>   
+                </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

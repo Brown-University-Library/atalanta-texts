@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="emblem" n="e07"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+                <pb n="26"/><!-- Change to page number of the actual manuscript -->
+                
+                
+                <div type="title" xml:lang="en">
+                    <head>
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 7. Of the Secrets of Nature.
+                        <lb/>A chicken is flying out of the nest, which falls <choice><orig>againe</orig><reg>again</reg></choice> into the nest.</seg>
+                        
+                    </head>
+                </div>
+                
+                
+                <div type="epigram" xml:lang="en">
+                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 7.</head>
+                    <lg>
+                        <l>The bird of Jove had nested on a <choice><orig>rocke</orig><reg>rock</reg></choice>,</l>
+                        <l>Whe<subst><del>e</del><add>r</add></subst>e <choice><orig>Shee</orig><reg>She</reg></choice> brought forth, and fed her tender <choice><orig>flocke</orig><reg>flock</reg></choice>:</l>
+                        <l>Out <choice><orig>flyes</orig><reg>flys</reg></choice> the eldest having wings and <choice><orig>trayne</orig><reg>train</reg></choice>,</l>
+                        <l><choice><orig>Pulld</orig><reg>Pulled</reg></choice> by the naked nestling <choice><orig>backe</orig><reg>back</reg></choice> <choice><orig>againe</orig><reg>again</reg></choice></l>
+                        <l>To the deserted nest: you <choice><orig>hitt</orig><reg>hit</reg></choice> the <choice><orig>nayle</orig><reg>nail</reg></choice>,</l>
+                        <l>If you know how to <choice><orig>joyne</orig><reg>join</reg></choice> them head and <choice><orig>tayle</orig><reg>tail</reg></choice>.</l>
+                    </lg>
+                </div>
+                
+                
+                <pb n="27"/> <!-- Change to page number of the actual manuscript -->
+                <div type="discourse" xml:lang="en">
+                    <head rend="italics">Discourse 7.</head>
+                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+                        <lb/><milestone unit="section" n="e07-01" />What Hippocrates, the defender and propugnator of <choice><orig>Physitians</orig><reg>Physicians</reg></choice>, affirms of hu <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb break="no"/>mors, that they are different and many in man, and not one <choice><orig>onely</orig><reg>only</reg></choice>, otherwise
+                        <lb/>various diseases, could not arise, that <choice><orig>wee</orig><reg>we</reg></choice> perceive to be true of the elements
+                        <lb/>of the world: <milestone unit="section" n="e07-02" />for if there was but one <choice><orig>onely</orig><reg>only</reg></choice> element, there could be <choice><orig>noe</orig><reg>no</reg></choice> <pc>-</pc>
+                        <lb/>mutation of it into another, <choice><orig>noe</orig><reg>no</reg></choice> generation nor corruption, yea all things
+                        <lb/>would be one immutable thing, and <choice><orig>noe</orig><reg>no</reg></choice> meteors, <choice><orig>mineralls</orig><reg>minerals</reg></choice>, plants, and
+                        <lb/><choice><orig>animalls</orig><reg>animals</reg></choice> could be naturally from thence produced. <milestone unit="section" n="e07-03" />For this reason the su
+                        <lb break="no"/>preme Creator composed the whole <choice><orig>systeme</orig><reg>system</reg></choice> of this world of <choice><orig>divers</orig><reg>diverse</reg></choice> and <pc>-</pc>
+                        <lb/>contrary natures, namely of light and heavy, <choice><orig>hott</orig><reg>hot</reg></choice> and cold, moist and dry <pc>-</pc>
+                        <lb/>that one might by affinity <choice><orig>passe</orig><reg>pass</reg></choice> into the other, and <choice><orig>soe</orig><reg>so</reg></choice> a composition be
+                        <lb/>made of <choice><orig>bodyes</orig><reg>bodies</reg></choice>, which might be very different one from another in essence,
+                        <lb/><choice><orig>qualityes</orig><reg>qualities</reg></choice>, virtues, and effects: <milestone unit="section" n="e07-04" />for in things perfectly mixed are the light Ele
+                        <lb break="no"/>ments, as fire and <choice><orig>aire</orig><reg>air</reg></choice>, and <choice><orig>allso</orig><reg>also</reg></choice> the heavy, as earth and water, which are <choice><orig>soe</orig><reg>so</reg></choice>
+                        <lb/><choice><orig>æqually</orig><reg>equally</reg></choice> tempered together, that one recedes not from the other, but suffers <choice><orig>itselfe</orig><reg>itself</reg></choice>
+                        <lb/>to be easily taken and held by the other as <choice><orig>neighbour</orig><reg>neighbor</reg></choice> by <choice><orig>neighbour</orig><reg>neighbor</reg></choice>: <milestone unit="section" n="e07-05" />Earth and <choice><orig>aire</orig><reg>air</reg></choice>
+                        <lb/>are contrary one to the other, <choice><orig>soe</orig><reg>so</reg></choice> fire and water, yet notwithstanding fire <choice><orig>main
+                        <lb break="no"/>taines</orig><reg>maintains</reg></choice> <choice><orig>freindship</orig><reg>friendship</reg></choice> with <choice><orig>aire</orig><reg>air</reg></choice> by heat <choice><orig>coḿon</orig><reg>common</reg></choice> to both, with earth by siccity: <choice><orig>soe</orig><reg>so</reg></choice>
+                        <lb/><choice><orig>aire</orig><reg>air</reg></choice> with water, and water with earth: <milestone unit="section" n="e07-06" />by which means they are all <choice><orig>joyned</orig><reg>joined</reg></choice>
+                        <lb/>by bonds of affinity or rather consanguinity, and <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>remayne</orig><reg>remain</reg></choice> together in
+                        <lb/>one composition, which, if it abound with the light Elements, elevates the <pc>-</pc>
+                        <lb/>heavy with it, if with the heavy, weighs <choice><orig>downe</orig><reg>down</reg></choice> the light with it: <milestone unit="section" n="e07-07" />This is decla
+                        <lb break="no"/>red by the two Eagles, one with wings, the other without, of which that <pc>-</pc>
+                        <lb/>which <choice><orig>endeavoured</orig><reg>endeavored</reg></choice> to fly is restrained by the <add>other</add> <milestone unit="section" n="e07-08" />an example hereof is evident
+                        <lb/>in the fight of the Falcon and Heron, for the Falcon soaring higher in <pc>-</pc>
+                        <lb/>the <choice><orig>aire</orig><reg>air</reg></choice> by his Speedy flying, takes and tears the Heron with his Talons, by
+                        <lb/>whose weight both fall to the ground: <milestone unit="section" n="e07-09" />The contrary appeared in the <pc>-</pc>
+                        <lb/><choice><orig>artificiall</orig><reg>artificial</reg></choice> dove or Automa of Archytas, where heavy things were lifted up
+                        <lb/>by light, that is, the wooden body of it <choice><orig>caryed</orig><reg>carried</reg></choice> into the <choice><orig>aire</orig><reg>air</reg></choice> by the <pc>-</pc>
+                        <lb/>Spirit included within: <milestone unit="section" n="e07-10" />In the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> subject the light things <choice><orig>doe</orig><reg>do</reg></choice>
+                        <lb/>first <choice><orig>prædominate</orig><reg>predominate</reg></choice> the heavy, as to plenty, but they are overcome by vir
+                        <lb break="no"/>tue of the heavy things, and in processe of time the Eagles wings are cut <pc>-</pc>
+                        <lb/><choice><orig>of</orig><reg>off</reg></choice>, and one very great bird (namely an Ostrich) is made of two, which
+                        <lb/>can consume iron, and which being impeded by weight <choice><orig>runns</orig><reg>runs</reg></choice> more upon
+                        <lb/>the earth, than <choice><orig>flyes</orig><reg>flys</reg></choice> in the <choice><orig>aire</orig><reg>air</reg></choice>, though it <choice><orig>hath</orig><reg>has</reg></choice> goodly wings: <milestone unit="section" n="e07-11" />Concerning
+                        <lb/>this or the like Hermes (as the Author of Aurora chapt. 5. affirms) writes thus:
+                        <lb/>I have considered a bird worthy to be had in estimation by the wise, which
+                        <lb/><choice><orig>flyes</orig><reg>flys</reg></choice> when it is in Aries, Cancer, Libra, or <choice><orig>Capricorne</orig><reg>Capricorn</reg></choice>, and you will never
+                        <lb/><choice><orig>fayle</orig><reg>fail</reg></choice> of it in pure <choice><orig>mynes</orig><reg>mines</reg></choice>, and rocky mountains: <milestone unit="section" n="e07-12" />Concerning the same Se
+                        <lb break="no"/>nior in Tabula, where two are seen, one volatile the other without wings,
+                        <lb/>whereof one holds the others <choice><orig>tayle</orig><reg>tail</reg></choice> by its <choice><orig>beake</orig><reg>beak</reg></choice>, that they cannot easily be
+                        <lb/>seperated: <milestone unit="section" n="e07-13" />For this is the device and machination of <choice><orig>universall</orig><reg>universal</reg></choice> nature,
+                        <lb/><choice><orig>allwayes</orig><reg>always</reg></choice> to <choice><orig>rayse</orig><reg>raise</reg></choice> heavy things by light, and likewise to <choice><orig>depresse</orig><reg>depress</reg></choice> light
+                        <lb/>things by heavy, as the Author of the perfect Magistery <choice><orig>declareth</orig><reg>declares</reg></choice>, who
+                        <lb/>constitutes seven <choice><orig>minerall</orig><reg>mineral</reg></choice> spirits, as it were <choice><orig>erraticke</orig><reg>erratic</reg></choice> <choice><orig>Starrs</orig><reg>Stars</reg></choice>, and <pc>-</pc>
+                        
+                        
+                        
+                        
+                        <pb n="28"/><fw rend="italics">Discourse 7.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <lb/><choice><orig>soe</orig><reg>so</reg></choice> many <choice><orig>metallicke</orig><reg>metallic</reg></choice> <choice><orig>bodyes</orig><reg>bodies</reg></choice>, as fixed <choice><orig>Starrs</orig><reg>Stars</reg></choice>, and <choice><orig>enjoyns</orig><reg>enjoins</reg></choice> these to be
+                        <lb/>wedded to those: <milestone unit="section" n="e07-14" />from thence <choice><orig>allso</orig><reg>also</reg></choice> <seg rend="underline" hand="2">Aristotle</seg> the <seg rend="underline" hand="2">Chymist</seg>, the Spirit, <choice><orig>sayth</orig><reg>says</reg></choice> <choice><orig>hee</orig><reg>he</reg></choice>,
+                        <lb/>having dissolved the body and <choice><orig>Soule</orig><reg>Soul</reg></choice>, <choice><orig>soe</orig><reg>so</reg></choice> as to exist in their <choice><orig>forme</orig><reg>form</reg></choice>, <choice><orig>doth</orig><reg>does</reg></choice> not
+                        <lb/><choice><orig>remaine</orig><reg>remain</reg></choice> a fixed thing, <choice><orig>unlesse</orig><reg>unless</reg></choice> you operate upon it: <milestone unit="section" n="e07-15" />now operation is to <choice><orig>joyne</orig><reg>join</reg></choice> <pc>-</pc>
+                        <lb/>it with the body, from which you <choice><orig>præpared</orig><reg>prepared</reg></choice> it at first: because the Spirit is <pc>-</pc>
+                        <lb/>thereby prevented from flight being mixed with the supersistences of the <pc>-</pc>
+                        <lb/>body: the light Elements, namely <choice><orig>aire</orig><reg>air</reg></choice> and fire, as a learned man declares,
+                        <lb/><milestone unit="section" n="e07-16" /><choice><orig>doe</orig><reg>do</reg></choice> in Camphore oversway the heavy; and therefore it is <choice><orig>sayd</orig><reg>said</reg></choice> <choice><orig>wholy</orig><reg>wholly</reg></choice> to ex
+                        <lb break="no"/>hale and evaporate into <choice><orig>aire</orig><reg>air</reg></choice>. <milestone unit="section" n="e07-17" />In Argent vive, the flowers of Sulphur, Anti
+                        <lb break="no"/>mony, the Salt of Harts blood, Sal Armoniacke, and such others, the earth <pc>-</pc>
+                        <lb/><choice><orig>flyes</orig><reg>flys</reg></choice> with the <choice><orig>aire</orig><reg>air</reg></choice> into the <choice><orig>Alembicke</orig><reg>Alembic</reg></choice>, and is not seperated from it. <milestone unit="section" n="e07-18" />In Gold,
+                        <lb/><choice><orig>glasse</orig><reg>glass</reg></choice>, Diamond, the Stone Smyris, Granats, and the like, the Elements <pc>-</pc>
+                        <lb/><choice><orig>doe</orig><reg>do</reg></choice> notwithstanding fire <choice><orig>remayne</orig><reg>remain</reg></choice> <choice><orig>along</orig><reg>a long</reg></choice> time <choice><orig>joyned</orig><reg>joined</reg></choice> without detriment, <pc>-</pc>
+                        <lb/>and the earth <choice><orig>retaines</orig><reg>retains</reg></choice> those things which are left in <choice><orig>itselfe</orig><reg>itself</reg></choice>. <milestone unit="section" n="e07-19" />In other com
+                        <lb break="no"/>bustibles division and separation of one thing from another is effected, <choice><orig>soe</orig><reg>so</reg></choice>
+                        <lb/>that the ashes are left in the <choice><orig>bottome</orig><reg>bottom</reg></choice>, the water, <choice><orig>aire</orig><reg>air</reg></choice>, and fire fly up
+                        <lb break="no"/>wards: <milestone unit="section" n="e07-20" /><choice><orig>wee</orig><reg>we</reg></choice> must not therefore have respect to the <choice><orig>unæquall</orig><reg>unequal</reg></choice> composition of
+                        <lb/>these last, being not <choice><orig>soe</orig><reg>so</reg></choice> strongly <choice><orig>mixd</orig><reg>mixed</reg></choice>, nor to the <choice><orig>coḿixtion</orig><reg>commixtion</reg></choice> of the first,
+                        <lb/>though more durable, yet volatile, but to the solidity, constancy, and fixity
+                        <lb/>of the <choice><orig>midle</orig><reg>middle</reg></choice>: for <choice><orig>soe</orig><reg>so</reg></choice> the bird without wings will <choice><orig>detaine</orig><reg>detain</reg></choice> that which <choice><orig>hath</orig><reg>has</reg></choice>, <pc>-</pc>
+                        <lb/>and the fixed substance will fix the volatile, which must necessarily be
+                        <lb/>done<pc>. . . . . . . . . .</pc>
+                    </ab>   
+                </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
+

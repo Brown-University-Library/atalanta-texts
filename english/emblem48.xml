@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="emblem" n="e48"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+                <pb n="149"/><!-- Change to page number of the actual manuscript -->
+                
+                
+                <div type="title" xml:lang="en">
+                    <head>
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 48. Of the Secrets of Nature.
+                        <lb/>The King falls <choice><orig>sicke</orig><reg>sick</reg></choice> by drinking water, and is restored to health
+                        <lb/>by <choice><orig>Physitians</orig><reg>Physicians</reg></choice>.</seg>
+                    </head>
+                </div>
+                
+                
+                <div type="epigram" xml:lang="en">
+                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 48.</head>
+                    <lg>
+                        <l>In wealth nor people <choice><orig>dos</orig><reg>does</reg></choice> the King delight,</l>
+                        <l><choice><orig>Soe</orig><reg>So</reg></choice> much as to have water brought in sight.</l>
+                        <l>Cup after cup <choice><orig>hee</orig><reg>he</reg></choice> drinks, <choice><orig>growes</orig><reg>grows</reg></choice> <choice><orig>swelld</orig><reg>swelled</reg></choice> and <choice><orig>wanne</orig><reg>wan</reg></choice></l>
+                        <l>Urging <choice><orig>releife</orig><reg>relief</reg></choice> from his <choice><orig>Physitian</orig><reg>Physician</reg></choice>,</l>
+                        <l>Where finding art by various means <choice><orig>essayd</orig><reg>essayed</reg></choice>,</l>
+                        <l>His health <choice><orig>restord</orig><reg>restored</reg></choice> and tumor was <choice><orig>allayd</orig><reg>allayed</reg></choice>.</l>
+                    </lg>
+                </div>
+                
+                
+                <pb n="150"/> <!-- Change to page number of the actual manuscript -->
+                <div type="discourse" xml:lang="en">
+                    <head rend="italics">Discourse 48.</head>
+                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+                        <lb/>Xerxes that most potent King of Persia leading his army through dry <pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>and rugged places in <choice><orig>hott</orig><reg>hot</reg></choice> weather, being thirsty, refused not a draught <pc>-</pc>
+                        <lb/>of muddy water offered by a <choice><orig>souldier</orig><reg>soldier</reg></choice>, but <choice><orig>dranke</orig><reg>drank</reg></choice> most freely, and rewarded
+                        <lb/>him that brought it very amply. And indeed if a man at this very time
+                        <lb/>(as some of the latest historians <choice><orig>affirme</orig><reg>affirm</reg></choice>) <choice><orig>travell</orig><reg>travel</reg></choice> through the borders of
+                        <lb/>Persia, it is <choice><orig>sayd</orig><reg>said</reg></choice> that fountains of sweet water are very rarely found,
+                        <lb/>standing waters being brackish, and the <choice><orig>Soyle</orig><reg>Soil</reg></choice> <choice><orig>itselfe</orig><reg>itself</reg></choice> in the surface <pc>-</pc>
+                        <lb/><choice><orig>yeilding</orig><reg>yielding</reg></choice> much <choice><orig>saltnesse</orig><reg>saltness</reg></choice>: After the same manner the King, which the
+                        <lb/>Philosophers have made mention of being perplexed with thirst, com
+                        <lb break="no"/>manded plenty of sweet water to be brought him, of which <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>dranke</orig><reg>drank</reg></choice>
+                        <lb/>his fill; as if manifest to any man by the Allegory of Merlinus. The
+                        <lb/>cure of the <choice><orig>sicke</orig><reg>sick</reg></choice> and <choice><orig>discoloured</orig><reg>discolored</reg></choice> King is undertaken by <choice><orig>severall</orig><reg>several</reg></choice> <choice><orig>Physi
+                        <lb break="no"/>tians</orig><reg>Physicians</reg></choice>: The <choice><orig>Ægyptians</orig><reg>Egyptians</reg></choice> <choice><orig>administring</orig><reg>administering</reg></choice> their medicines stirred the humors
+                        <lb/>being yet crude, which Hippocrates affirms ought to be purged being <pc>-</pc>
+                        <lb/>first concocted, <choice><orig>unlesse</orig><reg>unless</reg></choice> they be fluxible and <choice><orig>uncertaine</orig><reg>uncertain</reg></choice>: For then they
+                        <lb/>must be forthwith expelled, that they may not peradventure make an
+                        <lb/>assault upon the more noble parts or <choice><orig>bowells</orig><reg>bowels</reg></choice>. Hereupon dangerous Symp
+                        <lb break="no"/>toms, such as Hipothymy and Syncope happened to the King, but the <choice><orig>Phy
+                        <lb break="no"/>sitians</orig><reg>Physicians</reg></choice> of Alexandria coming last of all, and esteemed more <choice><orig>successfull</orig><reg>successful</reg></choice>
+                        <lb/>in a <choice><orig>chronicke</orig><reg>chronic</reg></choice> disease, restored the King to his former health. It is well <pc>-</pc>
+                        <lb/>worth while to cure <choice><orig>soe</orig><reg>so</reg></choice> great a King, who being made sound extends a
+                        <lb/><choice><orig>liberall</orig><reg>liberal</reg></choice> hand and a serene aspect to his <choice><orig>Physitian</orig><reg>Physician</reg></choice>. <choice><orig>Wee</orig><reg>We</reg></choice> have read that <pc>-</pc>
+                        <lb/>many mens cures have been very nobly rewarded by <choice><orig>severall</orig><reg>several</reg></choice> Kings, as <pc>-</pc>
+                        <lb/>that of Democides by Polycrates a tyrant of Samos with two talents, of
+                        <lb/>Erasistratus (who, as Pliny writes, was <choice><orig>Schollar</orig><reg>Scholar</reg></choice> of Chrysippus, begotten <pc>-</pc>
+                        <lb/>upon the daughter of Aristotle) for curing King Antiochus being <choice><orig>sicke</orig><reg>sick</reg></choice>
+                        <lb/>for the love of his Stepmother Stratonice, with a hundred talents by his
+                        <lb/><choice><orig>Sonne</orig><reg>Son</reg></choice> Ptolemy, of Jacob Cocterius, <choice><orig>Physitian</orig><reg>Physician</reg></choice> of <choice><orig>Lewis the 2d</orig><reg>Louis II</reg></choice> King of <pc>-</pc>
+                        <lb/>France, from <choice><orig>whome</orig><reg>whom</reg></choice> <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>receivd</orig><reg>received</reg></choice> four thousand Crowns every <choice><orig>moneth</orig><reg>month</reg></choice> as
+                        <lb/>a stipend, and other later <choice><orig>wee</orig><reg>we</reg></choice> make <choice><orig>noe</orig><reg>no</reg></choice> mention of; but the cure of
+                        <lb/>this King is recompensed with yet a <choice><orig>farre</orig><reg>far</reg></choice> greater gratuity or reward. For
+                        <lb/>thus say Hermes and Geber in the Rosary: <choice><orig>Hee</orig><reg>He</reg></choice> that <choice><orig>hath</orig><reg>has</reg></choice> once com
+                        <lb break="no"/>pleted this art, if <choice><orig>hee</orig><reg>he</reg></choice> should live ten hundred thousand years, and <pc>-</pc>
+                        <lb/>every day feed four thousand men, would not want. This Senior con
+                        <lb break="no"/>firms, saying: <choice><orig>Hee</orig><reg>He</reg></choice> that <choice><orig>hath</orig><reg>has</reg></choice> that stone, whereof the Elixir is made
+                        <lb/>is <choice><orig>soe</orig><reg>so</reg></choice> rich, as <choice><orig>hee</orig><reg>he</reg></choice> that <choice><orig>hath</orig><reg>has</reg></choice> fire, can give fire, to <choice><orig>whome</orig><reg>whom</reg></choice> <choice><orig>hee</orig><reg>he</reg></choice> will, and <pc>-</pc>
+                        <lb/>when <choice><orig>hee</orig><reg>he</reg></choice> will, and as much as <choice><orig>hee</orig><reg>he</reg></choice> will without his <choice><orig>owne</orig><reg>own</reg></choice> detriment or want.
+                        <lb/>The father of Democritus was <choice><orig>soe</orig><reg>so</reg></choice> rich, that <choice><orig>hee</orig><reg>he</reg></choice> gave a feast to the <pc>-</pc>
+                        <lb/>army of Xerxes, and Pythius a man <choice><orig>exceding</orig><reg>exceeding</reg></choice> wealthy offered to the <pc>-</pc>
+                        <lb/>same pay for his whole army, and <choice><orig>victuall</orig><reg>victual</reg></choice> for five <choice><orig>moneths</orig><reg>months</reg></choice>, provided <pc>-</pc>
+                        <lb/>that the youngest of his five <choice><orig>sonns</orig><reg>sons</reg></choice>, which was the comfort of his old <pc>-</pc>
+                        <lb/>age, might be permitted to stay at home, and not be <choice><orig>constraind</orig><reg>constrained</reg></choice> to <choice><orig>goe</orig><reg>go</reg></choice> <pc>-</pc>
+                        
+                        
+                        
+                        <pb n="151"/><fw rend="italics">Discourse 48.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <lb/>into the Kings army, but the barbarous King taking the petition of Pythius
+                        <lb/>most unworthily, <choice><orig>comanded</orig><reg>commanded</reg></choice> his younger <choice><orig>sonne</orig><reg>son</reg></choice> to be <choice><orig>cutt</orig><reg>cut</reg></choice> in two <choice><orig>peices</orig><reg>pieces</reg></choice>, <pc>-</pc>
+                        <lb/>and fastened to stakes on both sides the high way, by which his whole ar
+                        <lb break="no"/>my was to <choice><orig>passe</orig><reg>pass</reg></choice>, as Sabellicus observes in <choice><orig>booke</orig><reg>book</reg></choice> 2. Ennead 3. but the riches
+                        <lb/>of these men are nothing to the riches of our King, which are without <pc>-</pc>
+                        <lb/>dimension and number. Being cured and freed from the waters all the
+                        <lb/>Kings, and potentates of other regions did <choice><orig>honour</orig><reg>honor</reg></choice> and fear him: And when
+                        <lb/>they were willing to see any of his <choice><orig>wonderfull</orig><reg>wonderful</reg></choice> works, they <choice><orig>putt</orig><reg>put</reg></choice> one <pc>-</pc>
+                        <lb/>ounce of Mercury well <choice><orig>washd</orig><reg>washed</reg></choice> in a crucible, and cast thereupon (as it were
+                        <lb/>one <choice><orig>graine</orig><reg>grain</reg></choice> of Millet seed) of his <choice><orig>nayls</orig><reg>nails</reg></choice>, or of his <choice><orig>harre</orig><reg>hair</reg></choice> or blood, and <pc>-</pc>
+                        <lb/><choice><orig>blowd</orig><reg>blowed</reg></choice> gently with <choice><orig>coales</orig><reg>coals</reg></choice>, they let it <choice><orig>coole</orig><reg>cool</reg></choice> with them, and found such a
+                        <lb/>stone as I know. This is <choice><orig>hee</orig><reg>he</reg></choice>, <choice><orig>whome</orig><reg>whom</reg></choice> Count Bernhard <choice><orig>mentioneth</orig><reg>mentions</reg></choice>, that <pc>-</pc>
+                        <lb/>gives to his six courtiers <choice><orig>soe</orig><reg>so</reg></choice> much of his <choice><orig>kingdome</orig><reg>kingdom</reg></choice>, as <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>himselfe</orig><reg>himself</reg></choice> <choice><orig>possesseth</orig><reg>possesses</reg></choice>,
+                        <lb/>provided they <choice><orig>waite</orig><reg>wait</reg></choice>, till <choice><orig>hee</orig><reg>he</reg></choice> recover youth in the bath, and be adorned <pc>-</pc>
+                        <lb/>with various garments, namely, a <choice><orig>blacke</orig><reg>black</reg></choice> breast<pc rend="double-hyphen">-</pc>plate, a white shirt, and
+                        <lb/>purple blood; for then <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>promiseth</orig><reg>promises</reg></choice> to give some of his blood to every
+                        <lb/>one, and make them partakers of his riches<pc>. . . . . . . .</pc>
+                    </ab>   
+                </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

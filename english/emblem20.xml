@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="emblem" n="e20"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+                <pb n="65"/><!-- Change to page number of the actual manuscript -->
+                
+                
+                <div type="title" xml:lang="en">
+                    <head>
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 20. Of the Secrets of Nature.
+                        <lb/>Nature <choice><orig>teacheth</orig><reg>teaches</reg></choice> nature how to subdue fire.</seg>
+                    </head>
+                </div>
+                
+                
+                <div type="epigram" xml:lang="en">
+                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 20.</head>
+                    <lg>
+                        <l>Fire that insulting dragon is <choice><orig>præpard</orig><reg>prepared</reg></choice></l>
+                        <l>To scorch the virgins beauty Sans regard:</l>
+                        <l><subst><del><unclear reason="illegible">degree black</unclear></del><add><choice><orig>Distresed</orig><reg>Distressed</reg></choice> for help <choice><orig>shee</orig><reg>she</reg></choice></add></subst> <choice><orig>spyes</orig><reg>spies</reg></choice> a man of <choice><orig>warre</orig><reg>war</reg></choice></l>
+                        <l><choice><orig>Equippd</orig><reg>Equipped</reg></choice> all cap a pe, as such men are,</l>
+                        <l>who, <choice><orig>Sheilding</orig><reg>Shielding</reg></choice> her from <choice><orig>harme</orig><reg>harm</reg></choice>, assaults the flames,</l>
+                        <l>And by this <choice><orig>præsident</orig><reg>president</reg></choice> her fear <choice><orig>reclaimes</orig><reg>reclaims</reg></choice>.</l>
+                    </lg>
+                </div>
+                
+                
+                <pb n="66"/> <!-- Change to page number of the actual manuscript -->
+                <div type="discourse" xml:lang="en">
+                    <head rend="italics">Discourse 20.</head>
+                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+                        <lb/>The common token and <choice><orig>symboll</orig><reg>symbol</reg></choice>, by which the Philosophers know one another,<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>is, that nature is guided, taught, governed, subdued and overcome by nature, as
+                        <lb/>a young <choice><orig>Schollar</orig><reg>Scholar</reg></choice> by a <choice><orig>Mistresse</orig><reg>Mistress</reg></choice>, a waiting <choice><orig>mayd</orig><reg>maid</reg></choice> by her Lady, a subject by a
+                        <lb/>Queen, yea a daughter by the mother, and kinswoman by kinswoman: how <pc>-</pc>
+                        <lb/>true it is, appears by <choice><orig>dayly</orig><reg>daily</reg></choice> experience, in the education of youth amongst <pc>-</pc>
+                        <lb/>men, and other actions, as literary discipline or institution, government, and
+                        <lb/>the like. Pliny writes of the <choice><orig>Nightingalls</orig><reg>Nightingale</reg></choice>, that one <choice><orig>teacheth</orig><reg>teaches</reg></choice>, attends, observes, <pc>-</pc>
+                        <lb/>imitates, overcomes another in singing, or being overcome <choice><orig>greives</orig><reg>grieves</reg></choice>, and that <pc>-</pc>
+                        <lb/>sometimes being outdone and vanquished in the conflict, the throat being broken,
+                        <lb/>it <choice><orig>perisheth</orig><reg>perishes</reg></choice>, and in the <choice><orig>midle</orig><reg>middle</reg></choice> of singing falls <choice><orig>downe</orig><reg>down</reg></choice> dead: <choice><orig>Wee</orig><reg>We</reg></choice> see <choice><orig>allso</orig><reg>also</reg></choice> how
+                        <lb/>all sorts of birds <choice><orig>doe</orig><reg>do</reg></choice> begin to <choice><orig>accustome</orig><reg>accustom</reg></choice> and instruct their young being yet
+                        <lb/>unfeathered and tender for flying, that not <choice><orig>onely</orig><reg>only</reg></choice> nature, but <choice><orig>allso</orig><reg>also</reg></choice> art or <pc>-</pc>
+                        <lb/>use <choice><orig>hath</orig><reg>has</reg></choice> begotten in them the habit of flying, though nature alone gave <pc>-</pc>
+                        <lb/>power and organs to exercise that action, without which neither institution
+                        <lb/>or art can find foundation or place: <choice><orig>soe</orig><reg>so</reg></choice> colts are taught to <choice><orig>runne</orig><reg>run</reg></choice> by the <pc>-</pc>
+                        <lb/>mare, whelps to <choice><orig>barke</orig><reg>bark</reg></choice> by the bitch, and young foxes to craft by the
+                        <lb/>dam, nor is there any animated and sensitive nature or species of na
+                        <lb break="no"/>ture found, which guides, instructs, and governs not another nature, as its
+                        <lb/>minor, or suffers <choice><orig>itselfe</orig><reg>itself</reg></choice> to be overcome by another, as a Parent: <choice><orig>Wee</orig><reg>We</reg></choice> <choice><orig>doe</orig><reg>do</reg></choice> <pc>-</pc>
+                        <lb/>not perceive such discipline in vegetables, yet notwithstanding the use is
+                        <lb/>observed in them, and that mens hands are of much efficacy: for whilst <pc>-</pc>
+                        <lb/><choice><orig>corne</orig><reg>corn</reg></choice> is in the blade, it may be cleansed from incommodious thistles and
+                        <lb/>tares, whilst a tree is yet a twig it may be bent, and made to grow as <pc>-</pc>
+                        <lb/>you please: <choice><orig>Soe</orig><reg>So</reg></choice> in <choice><orig>metalls</orig><reg>metals</reg></choice> and <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> subjects one nature keeps,
+                        <lb/><choice><orig>præserves</orig><reg>preserves</reg></choice>, and defends another nature in fire, as is <choice><orig>knowne</orig><reg>known</reg></choice> to founders and
+                        <lb/>testers, but especially to the masters of <choice><orig>naturall</orig><reg>natural</reg></choice> things: Iron is very <choice><orig>helpfull</orig><reg>helpful</reg></choice>
+                        <lb/>and as a midwife to Silver and gold being yet very tender and <choice><orig>Spirituall</orig><reg>Spiritual</reg></choice>,
+                        <lb/>as they call it, <choice><orig>mixd</orig><reg>mixed</reg></choice> in its <choice><orig>mynes</orig><reg>mines</reg></choice> with Cadmia, <choice><orig>Arsenicke</orig><reg>Arsenic</reg></choice>, or Antimony
+                        <lb/>the <choice><orig>cheife</orig><reg>chief</reg></choice>, if it be cast into <choice><orig>mynes</orig><reg>mines</reg></choice> to be <choice><orig>burnd</orig><reg>burned</reg></choice> in a fire of furnaces: <pc>-</pc>
+                        <lb/>after the same manner iron <choice><orig>itselfe</orig><reg>itself</reg></choice>, if it be intended to be changed into
+                        <lb/><choice><orig>Steele</orig><reg>Steel</reg></choice>, is saved from burning by white stones found at the Sea <choice><orig>Shoares</orig><reg>Shores</reg></choice>;
+                        <lb/>Some <choice><orig>doe</orig><reg>do</reg></choice> cast the powders of <choice><orig>crystall</orig><reg>crystal</reg></choice> <choice><orig>glasse</orig><reg>glass</reg></choice>, or the gall of <choice><orig>glasse</orig><reg>glass</reg></choice> upon
+                        <lb/><choice><orig>metallicke</orig><reg>metallic</reg></choice> powders which are to be dissolved, that they may not pe
+                        <lb break="no"/>rish by over much fire: Instead of this gall of <choice><orig>glasse</orig><reg>glass</reg></choice> the Philosophers
+                        <lb/><choice><orig>doe</orig><reg>do</reg></choice> use their Eudica, which Morienus <choice><orig>sas</orig><reg>says</reg></choice> is <choice><orig>allso</orig><reg>also</reg></choice> the gall of <choice><orig>glasse</orig><reg>glass</reg></choice>, <pc>-</pc>
+                        <lb/>and to be had in <choice><orig>glasse</orig><reg>glass</reg></choice> <choice><orig>vessells</orig><reg>vessels</reg></choice>: for the heat of fire consumes the body
+                        <lb/>with hasty burning: but Eudica <choice><orig>applyed</orig><reg>applied</reg></choice> will free <choice><orig>bodyes</orig><reg>bodies</reg></choice> changed into
+                        <lb/>earth from any burning: For <choice><orig>bodyes</orig><reg>bodies</reg></choice>, when now they <choice><orig>doe</orig><reg>do</reg></choice> not <choice><orig>retaine</orig><reg>retain</reg></choice> <pc>-</pc>
+                        <lb/>their <choice><orig>soules</orig><reg>souls</reg></choice>, are soon burned: Eudica (the <choice><orig>fæx</orig><reg>feces</reg></choice> of <choice><orig>glasse</orig><reg>glass</reg></choice>) is indeed very
+                        <lb/><choice><orig>agreable</orig><reg>agreeable</reg></choice> to all <choice><orig>bodyes</orig><reg>bodies</reg></choice>, for it <choice><orig>vivifyes</orig><reg>vivifies</reg></choice> and <choice><orig>præpares</orig><reg>prepares</reg></choice> them, and defends
+                        <lb/>them from all burning: These are the sayings of Morienus the Roman:
+                        <lb/>This therefore is the nature, which <choice><orig>teacheth</orig><reg>teaches</reg></choice> another nature to resist <pc>-</pc>
+                        <lb/>fire, and be <choice><orig>enured</orig><reg>inured</reg></choice> to it, which is the <choice><orig>Mistresse</orig><reg>Mistress</reg></choice> instructing the <pc>-</pc>
+                        
+                        
+                        
+                        <pb n="67"/><fw rend="italics">Discourse 20.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <lb/>young <choice><orig>Schollar</orig><reg>Scholar</reg></choice>, and if you consider well, which is the Queen governing <pc>-</pc>
+                        <lb/>the subject, and which is the daughter nobilitating and dignifying the mother;
+                        <lb/>This is that red servant, which is <choice><orig>joynd</orig><reg>joined</reg></choice> in matrimony with his odoriferous
+                        <lb/>mother, and of her begets a progeny <choice><orig>farre</orig><reg>far</reg></choice> more noble than the parents <pc>-</pc>
+                        <lb/>thereof: This is Pyrrhus the <choice><orig>Sonne</orig><reg>Son</reg></choice> of Achilles, and the young man with
+                        <lb/>red <choice><orig>haire</orig><reg>hair</reg></choice>, golden vestment, <choice><orig>blacke</orig><reg>black</reg></choice> eyes, white feet: This is the knight <pc>-</pc>
+                        <lb/>with a collar or <choice><orig>chaine</orig><reg>chain</reg></choice> armed with sword and buckler against the Dra
+                        <lb break="no"/>gon, to rescue out of his <choice><orig>jawes</orig><reg>jaws</reg></choice> the pure and unviolated virgin Albifica, <pc>-</pc>
+                        <lb/><choice><orig>sirnamed</orig><reg>surnamed</reg></choice> Beja, or Blanca: This is the monster<pc rend="double-hyphen">-</pc>killing Hercules, who <pc>-</pc>
+                        <lb/>delivered from the monster Hesione the daughter of Laomedon being <pc>-</pc>
+                        <lb/>exposed to a <choice><orig>terible</orig><reg>terrible</reg></choice> and <choice><orig>cruell</orig><reg>cruel</reg></choice> Whale: This is that Perseus, who de
+                        <lb break="no"/>fended (released, and <choice><orig>marryed</orig><reg>married</reg></choice>) Andromeda, the daughter of Cassiope
+                        <lb/>and Cepheus King of <choice><orig>Æthiopia</orig><reg>Ethiopia</reg></choice>, from the Sea monster, <choice><orig>Shewing</orig><reg>Showing</reg></choice> the <pc>-</pc>
+                        <lb/>head of Medusa: This is <choice><orig>hee</orig><reg>he</reg></choice> that may be compared with those ancient Ro
+                        <lb break="no"/>mans the <choice><orig>præservers</orig><reg>preservers</reg></choice> and refiners of the people, Marcus Curtius, Lucius Scæ
+                        <lb break="no"/>vola, Horatius Cocles, Manlius Capitolinus, and the like, to rescue the
+                        <lb/><choice><orig>Citty</orig><reg>City</reg></choice>, as it were the mother, from dangers: For this is the way and <choice><orig>forme</orig><reg>form</reg></choice>
+                        <lb/>of nature tending to the perfection of any <choice><orig>worke</orig><reg>work</reg></choice>, to bring one thing out
+                        <lb/>of another, a thing more perfect out of a thing imperfect, and reduce
+                        <lb/>power into action, but not perfect all things in a moment, but one thing
+                        <lb/>after another: Nor this alone, but <choice><orig>shee</orig><reg>she</reg></choice> constitutes <choice><orig>allso</orig><reg>also</reg></choice> her deputy in the
+                        <lb/>first place, to which <choice><orig>Shee</orig><reg>She</reg></choice> leaves the power of life and death, that is, of
+                        <lb/>forming other things, as for example, in the generation of man <choice><orig>Shee</orig><reg>She</reg></choice> <pc>-</pc>
+                        <lb/><choice><orig>useth</orig><reg>uses</reg></choice> a long <choice><orig>processe</orig><reg>processes</reg></choice>, as of <choice><orig>tenne</orig><reg>ten</reg></choice> <choice><orig>moneths</orig><reg>months</reg></choice>, where first attending to the
+                        <lb/>opinion of Aristotle, <choice><orig>Shee</orig><reg>She</reg></choice> fabricates the heart, as the vicar, deputy, or
+                        <lb/><choice><orig>principall</orig><reg>principal</reg></choice> <choice><orig>bowell</orig><reg>bowel</reg></choice>, and then the heart delineates, <choice><orig>formes</orig><reg>forms</reg></choice>, and perfects
+                        <lb/>the other parts necessary to nutrition, the life, senses, and generative
+                        <lb/>power, and <choice><orig>coḿunicates</orig><reg>communicates</reg></choice> to them life and <choice><orig>vivificke</orig><reg>vivific</reg></choice> spirits by Systole <pc>-</pc>
+                        <lb/>and diastole, or dilatation and compression of the <choice><orig>arteryes</orig><reg>arteries</reg></choice>, <choice><orig>soe</orig><reg>so</reg></choice> long <pc>-</pc>
+                        <lb/>as it is not impeded by diseases and violence: And thus one nature <pc>-</pc>
+                        <lb/><choice><orig>teacheth</orig><reg>teaches</reg></choice> another, which you must observe and follow for an example
+                        <lb/>of the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> <choice><orig>worke</orig><reg>work</reg></choice>, as a thing most clear and evident<pc>. . .</pc>
+                    </ab>   
+                </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
+

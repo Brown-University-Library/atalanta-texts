@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="emblem" n="e39"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+                <pb n="122"/><!-- Change to page number of the actual manuscript -->
+                
+                
+                <div type="title" xml:lang="en">
+                    <head>
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 39. Of the Secrets of Nature.
+                        <lb/><choice><orig>Œdipus</orig><reg>Oedipus</reg></choice> having overcome <choice><orig>Sphynx</orig><reg>Sphinx</reg></choice>, and <choice><orig>Killd</orig><reg>Killed</reg></choice> his father <choice><orig>Lajus</orig><reg>Laius</reg></choice>,
+                        <lb/><choice><orig>marryed</orig><reg>married</reg></choice> his Mother Jocasta.</seg>
+                    </head>
+                </div>
+                
+                
+                <div type="epigram" xml:lang="en">
+                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 39.</head>
+                    <lg>
+                        <l><choice><orig>Sphynx</orig><reg>Sphinx</reg></choice> with her riddles did the Thebans dread,</l>
+                        <l>But <choice><orig>subtill</orig><reg>subtle</reg></choice> <choice><orig>Œdipus</orig><reg>Oedipus</reg></choice> her wiles <choice><orig>betrayd</orig><reg>betrayed</reg></choice>:</l>
+                        <l>The <choice><orig>quæstion</orig><reg>question</reg></choice> was, who in the morning might</l>
+                        <l>Have four feet, two at noon, and three at night.</l>
+                        <l><choice><orig>Unknowne</orig><reg>Unknown</reg></choice> his father <choice><orig>hee</orig><reg>he</reg></choice> deprives of life</l>
+                        <l>And his <choice><orig>owne</orig><reg>own</reg></choice> mother takes to be his wife</l>
+                    </lg>
+                </div>
+                
+                
+                <pb n="123"/> <!-- Change to page number of the actual manuscript -->
+                <div type="discourse" xml:lang="en">
+                    <head rend="italics">Discourse 39.</head>
+                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+                        <lb/>Bacasser a Philosopher in Turba <choice><orig>sayth</orig><reg>says</reg></choice>, that which you <choice><orig>seeke</orig><reg>seek</reg></choice> for is of <choice><orig>noe</orig><reg>no</reg></choice> small<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>value, for you <choice><orig>seeke</orig><reg>seek</reg></choice> the greatest treasure, and most excellent gift of God. <pc>-</pc>
+                        <lb/>And <choice><orig>learne</orig><reg>learn</reg></choice>, O yee students, that which the Philosophers have long since inti
+                        <lb break="no"/>mated, saying, The truth is not discerned but by <choice><orig>errour</orig><reg>error</reg></choice>, and nothing begets <pc>-</pc>
+                        <lb/>more <choice><orig>greife</orig><reg>grief</reg></choice> to the heart, than <choice><orig>errour</orig><reg>error</reg></choice> in this art and <choice><orig>worke</orig><reg>work</reg></choice>: For when a man
+                        <lb/>thinks <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>hath</orig><reg>has</reg></choice> done, <choice><orig>hath</orig><reg>has</reg></choice> a world, <choice><orig>hee</orig><reg>he</reg></choice> will find nothing in his <pc>-</pc>
+                        <lb/>hands. These same things the ancient Philosophers were <choice><orig>pleasd</orig><reg>pleased</reg></choice>
+                        <lb/>to signify, propounding a <choice><orig>Sphynx</orig><reg>Sphinx</reg></choice> as if <choice><orig>shee</orig><reg>she</reg></choice> denoted the obscu
+                        <lb break="no"/>rity and meanders of art. For this reason the <choice><orig>Ægyptians</orig><reg>Egyptians</reg></choice>, in their
+                        <lb/>sacred Isiaci, which were celebrated in <choice><orig>honour</orig><reg>honor</reg></choice> of Osiris, by mitred
+                        <lb/><choice><orig>Preists</orig><reg>Priests</reg></choice>, with heads shaven, and all parts of the body <choice><orig>cloathed</orig><reg>clothed</reg></choice> with
+                        <lb/>a white <choice><orig>linnen</orig><reg>linen</reg></choice> garment <choice><orig>downe</orig><reg>down</reg></choice> to the ankles, that they might not
+                        <lb/>be <choice><orig>knowne</orig><reg>known</reg></choice> or discovered to the <choice><orig>coḿon</orig><reg>common</reg></choice> people, erected a Statue of
+                        <lb/>Silence, which was called Sigalion, in the entrance of the altar, <pc>-</pc>
+                        <lb/>the assistants being <choice><orig>enjoyned</orig><reg>enjoined</reg></choice> to keep silence, and <choice><orig>turne</orig><reg>turn</reg></choice> their <pc>-</pc>
+                        <lb/>eyes to that image, and for the same cause they added the effi
+                        <lb break="no"/>gies of <choice><orig>Sphynxes</orig><reg>Sphinxes</reg></choice> at the corners of the altar, which did represent
+                        <lb/>the <choice><orig>mysticall</orig><reg>mystical</reg></choice> knowledge of sacred things; as <seg rend="underline" hand="2">Boissardus</seg> <choice><orig>doth</orig><reg>does</reg></choice> from<note place="margin" hand="2">Boissardus?</note>
+                        <lb/>ancient Authors demonstrate: For <choice><orig>Sphynx</orig><reg>Sphinx</reg></choice> is a <choice><orig>certaine</orig><reg>certain</reg></choice> kind of mon
+                        <lb break="no"/>ster most obscure to the Thebans, propounding riddles, nor <choice><orig>onely</orig><reg>only</reg></choice> to <pc>-</pc>
+                        <lb/>them, but as before to the <choice><orig>Ægyptians</orig><reg>Egyptians</reg></choice>, <choice><orig>soe</orig><reg>so</reg></choice> after all others to those that <pc>-</pc>
+                        <lb/>aspire to art, and <choice><orig>watcheth</orig><reg>watches</reg></choice> in the Philosophers books as before the gates of
+                        <lb/>Thebes; if any man can <choice><orig>passe</orig><reg>pass</reg></choice> by the monster, <choice><orig>hee</orig><reg>he</reg></choice> suffers <choice><orig>noe</orig><reg>no</reg></choice> <choice><orig>evill</orig><reg>evil</reg></choice> by
+                        <lb/>him, but <choice><orig>hee</orig><reg>he</reg></choice> that through <choice><orig>præsumption</orig><reg>presumption</reg></choice> of mind or <choice><orig>witt</orig><reg>wit</reg></choice> <choice><orig>endeavours</orig><reg>endeavors</reg></choice> to <pc>-</pc>
+                        <lb/>resolve his riddles, and cannot <choice><orig>performe</orig><reg>perform</reg></choice>, acquires his <choice><orig>owne</orig><reg>own</reg></choice> destruction, <pc>-</pc>
+                        <lb/>that is, <choice><orig>greife</orig><reg>grief</reg></choice> to the heart, and damage to his <choice><orig>affaires</orig><reg>affairs</reg></choice> by <choice><orig>errour</orig><reg>error</reg></choice> in this <pc>-</pc>
+                        <lb/><choice><orig>worke</orig><reg>work</reg></choice>. <choice><orig>Hee</orig><reg>He</reg></choice> that <choice><orig>referrs</orig><reg>refers</reg></choice> such <choice><orig>allegoryes</orig><reg>allegories</reg></choice> to history, <choice><orig>hath</orig><reg>has</reg></choice> a <choice><orig>mushrome</orig><reg>mushroom</reg></choice> for <pc>-</pc>
+                        <lb/>a head, and a <choice><orig>Millon</orig><reg>Melon</reg></choice> for a heart, as the <choice><orig>Comædian</orig><reg>Comedian</reg></choice> <choice><orig>sayth</orig><reg>says</reg></choice>, and <choice><orig>knowes</orig><reg>knows</reg></choice> <choice><orig>noe</orig><reg>no</reg></choice>
+                        <lb/>more than that <choice><orig>hee</orig><reg>he</reg></choice> deviates from the right way. Those things are too
+                        <lb/>childish, and <choice><orig>fitt</orig><reg>fit</reg></choice> for old wives, if they be taken literally, otherwise the
+                        <lb/>signs and tokens of profound learning. Monstrous wild beasts are indeed
+                        <lb/><choice><orig>sayd</orig><reg>said</reg></choice> to be in Africa by the name of <choice><orig>Sphynxes</orig><reg>Sphinxes</reg></choice>, but here <choice><orig>wee</orig><reg>we</reg></choice> discourse not
+                        <lb/>of them, though the <choice><orig>originall</orig><reg>original</reg></choice> and denomination of this fiction seems to <pc>-</pc>
+                        <lb/>be derived from them. The Philosophers <choice><orig>Sphynx</orig><reg>Sphinx</reg></choice> understands and <pc>-</pc>
+                        <lb/><choice><orig>useth</orig><reg>uses</reg></choice> <choice><orig>humane</orig><reg>human</reg></choice> speech, namely <choice><orig>Greeke</orig><reg>Greek</reg></choice>, as <choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>propoundes</orig><reg>propounds</reg></choice> <choice><orig>Subtill</orig><reg>Subtle</reg></choice> sen
+                        <lb break="no"/>tences and <choice><orig>æmigmaticall</orig><reg>enigmatical</reg></choice> <choice><orig>quæstions</orig><reg>questions</reg></choice>, in which appears a singular <choice><orig>Sharp
+                        <lb break="no"/>nesse</orig><reg>Sharpness</reg></choice> of understanding and learning, not <choice><orig>soe</orig><reg>so</reg></choice> obvious to all other men,
+                        <lb/>from which brutes are <choice><orig>exceding</orig><reg>exceeding</reg></choice> distant. <choice><orig>Hee</orig><reg>He</reg></choice> that is conversant in <pc>-</pc>
+                        <lb/>the Philosophers assertions will easily know them to be such: For <pc>-</pc>
+                        <lb/>where one thing is <choice><orig>sayd</orig><reg>said</reg></choice>, and another thing <choice><orig>signifyd</orig><reg>signified</reg></choice>, there <choice><orig>æqui
+                        <lb break="no"/>vocation</orig><reg>equivocation</reg></choice> <choice><orig>begetts</orig><reg>begets</reg></choice> <choice><orig>errour</orig><reg>error</reg></choice>, which is not <choice><orig>onely</orig><reg>only</reg></choice> permitted, but <choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>enjoyned</orig><reg>enjoined</reg></choice>
+                        
+                        
+                        
+                        <pb n="124"/><fw rend="italics">Discourse 39.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <lb/>to the Philosophers alone: The City of Thebes therefore being long <pc>-</pc>
+                        <lb/>perplexed with the riddles of <choice><orig>Sphynx</orig><reg>Sphinx</reg></choice> at length came one <choice><orig>Œdipus</orig><reg>Oedipus</reg></choice>, <pc>-</pc>
+                        <lb/>who gave such responses to the <choice><orig>quæstions</orig><reg>questions</reg></choice> offered, that <choice><orig>Sphynx</orig><reg>Sphinx</reg></choice> could
+                        <lb/>not forbear throwing <choice><orig>herselfe</orig><reg>herself</reg></choice> downe from a <choice><orig>rocke</orig><reg>rock</reg></choice>. But who is this <pc>-</pc>
+                        <lb/><choice><orig>Œdipus</orig><reg>Oedipus</reg></choice>? The <choice><orig>Sonne</orig><reg>Son</reg></choice> of the King of Thebes, who being <choice><orig>borne</orig><reg>born</reg></choice>, it be
+                        <lb break="no"/>ing <choice><orig>prædicted</orig><reg>predicted</reg></choice> to his father by an oracle, that <choice><orig>hee</orig><reg>he</reg></choice> should be <choice><orig>Slayne</orig><reg>Slain</reg></choice>
+                        <lb/>by his <choice><orig>Sonne</orig><reg>Son</reg></choice>, <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>coḿanded</orig><reg>commanded</reg></choice> <choice><orig>Œdipus</orig><reg>Oedipus</reg></choice> to be <choice><orig>killd</orig><reg>killed</reg></choice>, who being <choice><orig>hangd</orig><reg>hanged</reg></choice> <pc>-</pc>
+                        <lb/>upon a tree and left with a rope fastened <choice><orig>crosse</orig><reg>cross</reg></choice> his feet, was relea
+                        <lb break="no"/>sed by another country<pc rend="double-hyphen">-</pc>man, and brought up; <choice><orig>Hee</orig><reg>He</reg></choice> coming to mans
+                        <lb/>estate had indeed <choice><orig>swelld</orig><reg>swelled</reg></choice> feet, but sufficiently declared a <choice><orig>quicke</orig><reg>quick</reg></choice> <pc>-</pc>
+                        <lb/><choice><orig>witt</orig><reg>wit</reg></choice> above all men in unriddling this <choice><orig>ænigma</orig><reg>enigma</reg></choice> propounded by <choice><orig>Sphynx</orig><reg>Sphinx</reg></choice>.
+                        <lb/>But Sphinx is reported to have had many riddles, though this the <choice><orig>cheife</orig><reg>chief</reg></choice>,
+                        <lb/>offered to <choice><orig>Œdipus</orig><reg>Oedipus</reg></choice>. What is that which in the morning <choice><orig>goeth</orig><reg>goes</reg></choice> upon <choice><orig>foure</orig><reg>four</reg></choice>
+                        <lb/>feet, at <choice><orig>noone</orig><reg>noon</reg></choice> upon two, in the evening upon three? what was <choice><orig>answerd</orig><reg>answered</reg></choice>
+                        <lb/>by <choice><orig>Œdipus</orig><reg>Oedipus</reg></choice> is not <choice><orig>knowne</orig><reg>known</reg></choice>; but some interpret it to the age of man, who
+                        <lb/>are deceived: For a Quadrangle or the four Elements of all things are
+                        <lb/>first to be considered, from hence <choice><orig>wee</orig><reg>we</reg></choice> come to the hemisphere having
+                        <lb/>two lines one <choice><orig>streight</orig><reg>straight</reg></choice> the other crooked, that is, while Luna, from hence
+                        <lb/>to a Triangle, which consists of body, Spirit, and <choice><orig>Soule</orig><reg>Soul</reg></choice>, or Sol, Luna,
+                        <lb/>and Mercury: Hereupon <choice><orig>sayth</orig><reg>says</reg></choice> Rhasis in his Epistle. The Stone is a Tri
+                        <lb break="no"/>angle in being, a Quadrangle in quality. Hereto <choice><orig>allso</orig><reg>also</reg></choice> relates the one
+                        <lb/>and <choice><orig>twentyeth</orig><reg>twentieth</reg></choice> <choice><orig>embleme</orig><reg>emblem</reg></choice>, and the exposition thereof. <choice><orig>Œdipus</orig><reg>Oedipus</reg></choice> moreover
+                        <lb/>is notorious for parricide and incest, which are two the most detestable <pc>-</pc>
+                        <lb/>vices, as can ever be thought of, but <choice><orig>neverthelesse</orig><reg>nevertheless</reg></choice> they promoted him to a
+                        <lb/><choice><orig>kingdome</orig><reg>kingdom</reg></choice>, otherwise due to him, <choice><orig>hee</orig><reg>he</reg></choice> having unawares killed his father <pc>-</pc>
+                        <lb/>refusing to give way to him, and <choice><orig>marryed</orig><reg>married</reg></choice> the Queen, the wife of Laius,
+                        <lb/>his <choice><orig>owne</orig><reg>own</reg></choice> mother. But this written not to be imitated by any man as
+                        <lb/>history, or example, it being <choice><orig>onely</orig><reg>only</reg></choice> feigned and allegorically intro
+                        <lb break="no"/>duced by the Philosophers to discover the secrets of their doctrine. For
+                        <lb/>in this <choice><orig>worke</orig><reg>work</reg></choice> both happen; the first efficient, that is, the father, being
+                        <lb/><choice><orig>killd</orig><reg>killed</reg></choice> and destroyed by his effect, that is, the <choice><orig>Sonne</orig><reg>Son</reg></choice>, and afterwards <pc>-</pc>
+                        <lb/>the same effect <choice><orig>joynd</orig><reg>joined</reg></choice> the second efficient to <choice><orig>himselfe</orig><reg>himself</reg></choice>, till <choice><orig>shee</orig><reg>she</reg></choice> be
+                        <lb break="no"/>come one with him, and <choice><orig>soe</orig><reg>so</reg></choice> the <choice><orig>Sonne</orig><reg>Son</reg></choice> is coupled to his mother by <pc>-</pc>
+                        <lb/>matrimony, and <choice><orig>enjoyes</orig><reg>enjoins</reg></choice> his fathers <choice><orig>kingdome</orig><reg>kingdom</reg></choice>, as it were by a triple <pc>-</pc>
+                        <lb/>right, of <choice><orig>armes</orig><reg>arms</reg></choice>, <choice><orig>wedlocke</orig><reg>wedlock</reg></choice>, and succession. <choice><orig>Hee</orig><reg>He</reg></choice> <choice><orig>hath</orig><reg>has</reg></choice> <choice><orig>swelld</orig><reg>swelled</reg></choice> feet, because
+                        <lb/><choice><orig>hee</orig><reg>he</reg></choice> cannot <choice><orig>runne</orig><reg>run</reg></choice>, and is as a bear, as <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>containes</orig><reg>contains</reg></choice> the greatest se
+                        <lb break="no"/>cret, or a toad, going with a slow pace; because it is fixed fixing <pc>-</pc>
+                        <lb/>another, and not <choice><orig>avoyding</orig><reg>avoiding</reg></choice> or fearing fire, which though a medium
+                        <lb/>of mean repute the Philosophers can by <choice><orig>noe</orig><reg>no</reg></choice> means be without <pc>. .</pc>
+                    </ab>   
+                </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

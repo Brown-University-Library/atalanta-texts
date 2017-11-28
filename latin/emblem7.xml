@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+     <revisionDesc>
+        <change when="2017-04-06" who="SJD">Created</change>
+        <change when="2017-04-06" who="SJD">Completed draft</change>
+     </revisionDesc>
+  </teiHeader>
+   
+   
+  <text>
+      <body>
+         <div type="emblem" n="e7">
+            <pb n="36"/>
+            <head>
+               <lb n="1"/><fw type="pageNum" place="top-left">36</fw> FUGA VII. in 3. seu 10. supr<hi rend="grave">a</hi>.
+               <lb n="2"/>Der Bogel jung vom Neste fleugt <pc>/</pc> und fällt
+               <lb n="3"/>wider ins Nest.
+            </head>
+            
+            <div type="fugue">
+               <head>
+                  
+               </head>
+               
+            </div>
+            
+            <div type="epigram" xml:lang="de">
+               <head>VII. Epigrammatis Latini versio Germanica.</head>
+               <lg>
+                  <lb n="1"/><l>In einem holen Stein der Adler sein Nest gemachet hät <pc>/</pc></l>
+                  <lb n="2"/><l>Darein er verborgen sein Jungen ernehren thät <pc>/</pc></l>
+                  <lb n="3"/><l>Von diesen einer kont mit Federn leiecht sich erheben <pc>/</pc></l>
+                  <lb n="4"/><l>Uber der <expan><abbr>and</abbr><ex>e</ex><abbr>r</abbr><ex>e</ex></expan> federloß wolt solches nich nachgebem.</l>
+                  <lb n="5"/><l>Drumb der fliegende widerfallt in sein Nest<pc>/</pc> darauß er gangen <pc>/</pc></l>
+                  <lb n="6"/><l>Füg ihn das Haupt zum hindern <pc>/</pc> so wirstu es erlangen.</l>
+               </lg>
+            </div>
+            <fw type="catchword" place="bottom-right">Emblema</fw>
+            
+            
+            
+            <div type="image-caption">
+               <head>
+                  <lb n="1"/>Emblema VII.<hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.<!-- BC: how do we want to handle ligatures? --> <pb n="37"/> <fw type="pageNum" place="top-right">37</fw>
+                  <lb n="2"/>Fit pullus <hi rend="grave">a</hi> nido volans, qui iter<hi rend="grave">u</hi>m cadit in nidum.
+               </head>
+            </div>
+            
+            <figure><graphic url=""></graphic></figure>
+            
+            <div type="epigram" xml:lang="la">
+               <head>Epigramma VII.</head>
+               <lg>
+                  <lb n="1"/><l>Rupe cav<hi rend="circumflex">a</hi> nidum <persName>Jovis</persName> ales struxerat, in quo</l>
+                  <lb n="2"/><l>Delituit, pullos enutri<hi rend="acute">i</hi>tque suos:</l>
+                  <lb n="3"/><l>Horum unus levibus voluit se tollere pennis,</l>
+                  <lb n="4"/><l>At fuit implumi fratre retentus ave.</l>
+                  <lb n="5"/><l>Inde volans redit in nidum, quem liquerat, illis</l>
+                  <lb n="6"/><l>Junge caput caud<hi rend="ligature">ae</hi>, tum nec inanis eris.</l>
+               </lg>
+            </div>
+            
+           <fw type="gathering">E 3</fw> <fw type="catchword" place="bottom-right">Quod</fw>
+            
+            <div type="discourse">
+               <pb n="38"/>
+               <head><fw type="pageNum" place="top-left">38</fw> <hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="7">VII</num>.</head>
+                  <ab>
+                     <lb n="1"/><milestone unit="section" n="e07-01"/>Quod <persName ref="http://viaf.org/viaf/287984736">Hippocrates</persName>, medicorum antesignanus, de humoribus
+                     <lb n="2"/>asserit, eos esse diversos ac plures numero in homine, nec saltem
+                     <lb n="3"/>unum, alias morbos varios exoriri non posses, id nos de Elementis
+                     <lb n="4"/>mundi verum dici animadvertimus. <milestone unit="section" n="e07-02"/> Si <expan><abbr>n<am>.</am></abbr><ex>am</ex></expan> unum saltem elementum
+                     <lb n="5"/>esset, nulla mutatio ejus in aliud, nulla generatio nec corruptio <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>n</ex>
+                     <lb n="6" break="no"/><abbr>tingeret</abbr></expan>, im<hi rend="grave">o</hi> omnia essent unum immutabile, nec meteora, mi
+                     <lb n="7" break="no"/>neralia, plant<hi rend="ligature">ae</hi> ac animalia inde naturaliter producerentur. <milestone unit="section" n="e07-03"/> Hinc
+                     <lb n="8"/>Creator summus totum hoc mundi Systema ex diversis <g type="ampersand">et</g> contra
+                     <lb n="9" break="no"/>riis naturis concinnavit, nempe ex levibus <g type="ampersand">et</g> gravibus, calidis <g type="ampersand">et</g> fri
+                     <lb n="10" break="no"/>gidis, humidis <g type="amerpsand">et</g> siccis, ut una in aliam per affinitatem transiret, <g type="ampersand">et</g>
+                     <lb n="11"/>sic compositio fieret corporum, qu<hi rend="ligature">ae</hi> in essentia, qualitatibus, viri
+                     <lb n="12" break="no"/>bus <g type="ampersand">et</g> effectibus long<hi rend="grave">e</hi> inter se differrent: <milestone unit="section" n="e07-04"/> sunt enim imperfect<hi rend="grave">e</hi>
+                     <lb n="13"/>mistis Elementa levia ut ignis <g type="ampersand">et</g> aër, nec <expan><abbr>n<hi rend="tilde">o</hi></abbr><ex>n</ex></expan> gravia, ut terra <g type="ampersand">et</g> aequa,
+                     <lb n="14"/>qu<hi rend="ligature">ae</hi> <hi rend="ligature">ae</hi>quilibriis ita inter se temperantur, ut unum non aufugiat ab
+                     <lb n="15"/>alio, sed singula <hi rend="grave">a</hi> singulis, vicina <hi rend="grave">a</hi> vicinis facil<hi rend="grave">e</hi> se capi <g type="ampersand">et</g> detineri
+                     <lb n="16"/>patiantur: <milestone unit="section" n="e07-05"/> Terra <g type="ampersand">et</g> aër sibi invicem adversantur, sic ignis <g type="ampersand">et</g> aequa;
+                     <lb n="17"/>attamen ignis cum aëre per caliditatem utrique communem, cum
+                     <lb n="18"/>terra per siccitatem amicitiam fovet: sic aër cum aqua <g type="ampersand">et</g> h<hi rend="ligature">ae</hi> cum
+                     <lb n="19"/>terra: <milestone unit="section" n="e07-06"/> Unde omnia affinitatis aut potius consanguinitatis vinculis
+                     <lb n="20"/>connectuntur <g type="ampersand">et</g> manent simul in una <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>m</ex><abbr>positione</abbr></expan>, qu<hi rend="ligature">ae</hi> si abundet
+                     <lb n="21"/>levibus, elevat secum gravia, si gravibus, premit secum levia: <milestone unit="section" n="e07-07"/> Hoc
+                     <lb n="22"/>declaretur per duas Aquilas, pennatam <g type="ampersand">et</g> <expan><abbr>implum<hi rend="tilde">e</hi></abbr><ex>m</ex></expan>, ex quibus illa
+                     <lb n="23"/>volare conata ab hac retinetur: <milestone unit="section" n="e07-08"/> In Falconis <g type="ampersand">et</g> arde<hi rend="ligature">ae</hi> pugna exem
+                     <lb n="24" break="no"/>plum hujus rei evidens est: Ille enim celeri volatu <g type="ampersand">et</g> alis pernicibus
+                     <lb n="25"/>superior in aëre factus hanc unguibus prehendit <g type="ampersand">et</g> lacerat, cujus
+                     <lb n="26"/>pondere in terram uterque decidit: <milestone unit="section" n="e07-09"/> Contrarium in <persName ref="http://viaf.org/viaf/40191578">Archyt<hi rend="ligature">ae</hi></persName> co
+                     <lb n="27" break="no"/>lumba factitia seu Automate apparuit, ubi gravia <hi rend="grave">a</hi> levibus sublata
+                     <lb n="28"/>sunt, hoc est, <hi rend="grave">a</hi> spiritu interius incluso ligneum ejus corpus in aëra
+                     <lb n="29"/>raptum: <milestone unit="section" n="e07-10"/> In philosophico subiecto prim<hi rend="grave">o</hi> levia pr<hi rend="ligature">ae</hi>dominantur
+                     <lb n="30"/>gravibus, quo ad copiam, attamen <hi rend="grave">a</hi> virtute gravium vincuntur:
+                     <lb n="31"/>sucessu autem temporis al<hi rend="ligature">ae</hi> aquilin<hi rend="ligature">ae</hi> pr<hi rend="ligature">ae</hi>scinduntur <g type="ampersand">et</g> fit ex dua
+                     <lb n="32" break="no"/>bus una avis pr<hi rend="ligature">ae</hi>grandis (nempe Strutio camelus) qu<hi rend="ligature">ae</hi> ferrum con
+                     <lb n="33" break="no"/>sumere possit, qu<hi rend="ligature">ae</hi>que magis in terra sub pondere pr<hi rend="ligature">ae</hi>pedita cur
+                     <lb break="no"/>
+                  </ab>
+               <fw type="catchword" place="bottom-right">rat</fw>
+                  
+               <pb n="39"/>
+               <head><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="7">VII</num>. <fw type="pageNum" place="top-right">39</fw></head>
+                  <ab>
+                     <lb n="1"/>rat, qu<hi rend="grave">a</hi>m per aëra volet, lic<hi rend="grave">e</hi>t pennas speciosas habeat: <milestone unit="section" n="e07-11"/> De hac aut
+                     <lb n="2"/>simili <persName ref="http://viaf.org/viaf/24571510">Hermes</persName> (ut Author <title>Auror<hi rend="ligature">ae</hi></title> <expan><abbr>cap<am>.</am></abbr><ex>ite</ex></expan> <expan><abbr><am>5.</am><ex>quinto</ex></abbr></expan> testatur) ita scribit: <quote>consy
+                     <lb n="3" break="no"/>deravi avem sapientibus venerabilem, qu<hi rend="ligature">ae</hi> volate, dum est in Ariete,
+                     <lb n="4"/>Cancro, Libra aut capricorno</quote>: Et <quote>acquires eam tibi perennem
+                     <lb n="5"/>meris ex mineris <g type="ampersand">et</g> montanis petrosis</quote>: <milestone unit="section" n="e07-12"/> De e<hi rend="circumflex">a</hi>dem <persName ref="http://viaf.org/viaf/74280818">Senior</persName> in <title>Tabu
+                     <lb n="6" break="no"/>la</title>, ubi gemina visitur, volatilis <g type="ampersand">et</g> fine pennis, quorum una rostro al
+                     <lb n="7" break="no"/>terius Caudam invicem tenet, ne facil<hi rend="grave">e</hi> separari possint. <milestone unit="section" n="e07-13"/> H<hi rend="ligature">ae</hi>c enim
+                     <lb n="8"/>est natur<hi rend="ligature">ae</hi> Univers<hi rend="ligature">ae</hi> machinatio, ut gravia semper levibus attollat,
+                     <lb n="9"/><g type="ampersand">et</g> vicissim levia gravibus deprimat, ut <persName ref="http://viaf.org/viaf/100189814">Author</persName> <title>perfecti Magiste
+                     <lb n="10" break="no"/>rii</title> declarat: <quote>qui septem spiritus minerales, veluti stellas Erraticas
+                     <lb n="11"/><g type="ampersand">et</g> titudem corpora metallic, ceu stellas fixas, <expan><abbr>hasq<am>;</am></abbr><ex>ue</ex></expan> cum illis mari
+                     <lb n="12" break="no"/>tari debere statuit</quote>. <milestone unit="section" n="e07-14"/> Inde <g type="ampersand">et</g> <persName>Aristoteles Chymicus</persName>; <quote>c<hi rend="grave">u</hi>m Spiritus</quote>, in
+                     <lb n="13" break="no"/>quit, <quote>solverit corpus <g type="ampersand">et</g> animam, ut existant in forma sua, <expan><abbr>n<hi rend="tilde">o</hi></abbr><ex>n</ex></expan> perma
+                     <lb n="14" break="no"/>net fixum, nisi occupaveris ipsum</quote>: <milestone unit="section" n="e07-15"/> Occupatio ver<hi rend="grave">o</hi> est, ut conjun
+                     <lb n="15" break="no"/>gas ipsum cum corpore, de quo pr<hi rend="ligature">ae</hi>parasti in principio; Quoniam
+                     <lb n="16"/>in eo occupatur <hi rend="grave">a</hi> fuga spiritus ad supersistentia corporis. <milestone unit="section" n="e07-16"/> In cam
+                     <lb n="17" break="no"/>phora, ut <persName ref="http://viaf.org/viaf/79190181">Bonus</persName> commemorat, Elementia levia, nempe aër <g type="ampersand">et</g> i
+                     <lb n="18" break="no"/>gnis, pr<hi rend="ligature">ae</hi>valent gravibus; ide<hi rend="acute">o</hi>que dicitur tota exhalare <g type="ampersand">et</g> in aërem
+                     <lb n="19"/>abire. <milestone unit="section" n="e07-17"/> In argento vivo, floribus sulfuris, antimonii, sale sanguinis
+                     <lb n="20"/>cervini, armoniaco <g type="ampersand">et</g> ejusmodi aliis terra cum aëre volat in alembi
+                     <lb n="21" break="no"/>cum, nec separatur ab illo. <milestone unit="section" n="e07-18"/> In auro, vitro, adamante, lapide Smiri,
+                     <lb n="22"/>granatis, <g type="ampersand">et</g> similibus, Elementa diutissim<hi rend="grave">e</hi> ill<hi rend="ligature">ae</hi>sa permanent con
+                     <lb n="23" break="no"/>juncta, igne urgente <g type="ampersand">et</g> terra retinet reliqua apud se. <milestone unit="section" n="e07-19"/> In aliis com
+                     <lb n="24" break="no"/>bustibilibus fit divisio <g type="ampersand">et</g> separatio unius ab alio, ita ut cineres in
+                     <lb n="25"/>fundo <choice><corr>relinquantur</corr><orig>relinquanrur</orig></choice>, aqua, aër <g type="ampersand">et</g> ignis superiora petant. <milestone unit="section" n="e07-20"/> Non itaque
+                     <lb n="26"/>ad horum ultimorum compisitionem in<hi rend="ligature">ae</hi>qualem, haud ita forti
+                     <lb n="27" break="no"/>ter mixtam, respiciendum, nec ad primorum commistionem, licet
+                     <lb n="28"/>durabiliorem, tamen volatilium, sed ad mediorum soliditatem,
+                     <lb n="29"/>constantiam <g type="ampersand">et</g> fixitatem: sic enim implumis avis detinebit pluma
+                     <lb n="30" break="no"/>tam <g type="ampersand">et</g> fixa substantia figet volatilem, quod fieri oportet.
+                     <lb/>
+                  </ab> 
+                <fw type="catchword" place="bottom-right" xml:lang="de"><hi rend="gothic">Nim</hi></fw>
+                </div>
+            
+         </div>
+      </body>
+  </text>
+</TEI>

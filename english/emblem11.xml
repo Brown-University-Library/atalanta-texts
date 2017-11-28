@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="emblem" n="e11"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+                <pb n="38"/><!-- Change to page number of the actual manuscript -->
+                
+                
+                <div type="title" xml:lang="en">
+                    <head>
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 11. Of the Secrets of Nature.
+                        <lb/>Whiten Latona and tear your books.</seg>
+                    </head>
+                </div>
+                
+                
+                <div type="epigram" xml:lang="en">
+                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 11.</head>
+                    <lg>
+                        <l>Ancestors (of truth <choice><orig>noe</orig><reg>no</reg></choice> doubt) to us relate</l>
+                        <l>Latona's <choice><orig>twinns</orig><reg>twins</reg></choice> <choice><orig>producd</orig><reg>produced</reg></choice> from Jove the great.</l>
+                        <l>Some say <choice><orig>Shee's</orig><reg>She's</reg></choice> Sol with fair fair Diana <choice><orig>mixt</orig><reg>mixed</reg></choice>,</l>
+                        <l>Having a face most white, some <choice><orig>blacke</orig><reg>black</reg></choice> betwixt:</l>
+                        <l>Study my dear! to wash these spots away,</l>
+                        <l>Then <choice><orig>burne</orig><reg>burn</reg></choice> those books which led your thoughts astray.</l>
+                    </lg>
+                </div>
+                
+                
+                <pb n="39"/> <!-- Change to page number of the actual manuscript -->
+                <div type="discourse" xml:lang="en">
+                    <head rend="italics">Discourse 11.</head>
+                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+                        <lb/><milestone unit="section" n="e11-01" /><choice><orig>Soe</orig><reg>So</reg></choice> great is the diversity of Authors in writing, that the explorators of <pc>-</pc> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>truth <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>allmost</orig><reg>almost</reg></choice> <choice><orig>despaire</orig><reg>despair</reg></choice> of finding the end of art: <milestone unit="section" n="e11-02" />for <choice><orig>Allegoricall</orig><reg>Allegorical</reg></choice> speeches
+                        <lb/>being of themselves difficult to be understood, and the causes of many errors,
+                        <lb/>especially then, if the same words be <choice><orig>applyd</orig><reg>applied</reg></choice> to different things, and diffe
+                        <lb break="no"/>rent words to the same things: <milestone unit="section" n="e11-03" />out of which if a man would extricate <choice><orig>him
+                        <lb break="no"/>selfe</orig><reg>himself</reg></choice>, <choice><orig>hee</orig><reg>he</reg></choice> must either be of a divine genius, to perceive the truth invol
+                        <lb break="no"/>ved in <choice><orig>soe</orig><reg>so</reg></choice> great <choice><orig>darkenesse</orig><reg>darkness</reg></choice>, or of <choice><orig>endlesse</orig><reg>endless</reg></choice> pains and charge in proving what
+                        <lb/>is true, what not: <milestone unit="section" n="e11-04" />But the Philosophers say one is not sufficient  without the <pc>-</pc>
+                        <lb/>other, an acute genius without <choice><orig>hand<pc rend="double-hyphen">-</pc>labour</orig><reg>hand<pc rend="double-hyphen"></pc>labor</reg></choice>, or this without that, as neither
+                        <lb/>the theory without the practice, and contrarywise: <milestone unit="section" n="e11-05" />for <choice><orig>noe</orig><reg>no</reg></choice> man is of <choice><orig>soe</orig><reg>so</reg></choice> <pc>-</pc>
+                        <lb/>discreet an understanding as to <choice><orig>avoyd</orig><reg>avoid</reg></choice> a hundred thousand circumvagations,
+                        <lb/>errors, <choice><orig>falsityes</orig><reg>falsities</reg></choice> as to the word, digressions, and <choice><orig>ambiguityes</orig><reg>ambiguities</reg></choice>, and persist in the
+                        <lb/>true path of nature: wherefore say the Philosophers, <choice><orig>hee</orig><reg>he</reg></choice> that <choice><orig>hath</orig><reg>has</reg></choice> not as
+                        <lb/>yet erred, <choice><orig>hath</orig><reg>has</reg></choice> not yet begun, and that errors are the informers of those <pc>-</pc>
+                        <lb/>things which ought to be done or not. <milestone unit="section" n="e11-06" /><choice><orig>Soe</orig><reg>So</reg></choice> the same <choice><orig>doe</orig><reg>do</reg></choice> inculcate, that a <pc>-</pc>
+                        <lb/>man may spend his whole life, though <choice><orig>hee</orig><reg>he</reg></choice> Should live a thousand years, in
+                        <lb/>distilling and redistilling, before <choice><orig>hee</orig><reg>he</reg></choice> can <choice><orig>attaine</orig><reg>attain</reg></choice> to truth by experimentation
+                        <lb/>alone: <milestone unit="section" n="e11-07" />That little benefit can be had without study and reading of au
+                        <lb break="no"/>thors, the Corrector of fools <choice><orig>signifyes</orig><reg>signifies</reg></choice>, saying: Study <choice><orig>removeth</orig><reg>removes</reg></choice> ignorance, <pc>-</pc>
+                        <lb/>and <choice><orig>reduceth</orig><reg>reduces</reg></choice> a mans genius to true understanding, and the knowledge of
+                        <lb/>every thing: It is therefore principally necessary to acquire the knowledge of
+                        <lb/>this delectable <choice><orig>worke</orig><reg>work</reg></choice> by study, and to sharpen the <choice><orig>witt</orig><reg>wit</reg></choice> by <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> <pc>-</pc>
+                        <lb/>sayings, the knowledge of truth being <choice><orig>centred</orig><reg>centered</reg></choice> in them: <milestone unit="section" n="e11-08" />If therefore opera
+                        <lb break="no"/>tors despise not study, they will sweetly relish the fruit from thence <choice><orig>pro
+                        <lb break="no"/>ceding</orig><reg>proceeding</reg></choice>: <milestone unit="section" n="e11-09" />but they that <choice><orig>abhorre</orig><reg>abhor</reg></choice> study, and yet are willing to operate, let them
+                        <lb/>see whether that art be the imitation of nature <choice><orig>herselfe</orig><reg>herself</reg></choice>, which the art of
+                        <lb/>her desires to amend: because it is impossible for it to <choice><orig>præpare</orig><reg>prepare</reg></choice> the Philoso
+                        <lb break="no"/>phers secrets to a perfect end: <milestone unit="section" n="e11-10" />Of these men say the Sophi, that they <choice><orig>runne</orig><reg>run</reg></choice> to
+                        <lb/>practice as an <choice><orig>asse</orig><reg>ass</reg></choice> to hay, not knowing what to lay his nose to, <choice><orig>onely</orig><reg>only</reg></choice> <choice><orig>soe</orig><reg>so</reg></choice> far
+                        <lb/>as the outward senses <choice><orig>doe</orig><reg>do</reg></choice> without understanding lead him to food by sight
+                        <lb/>and <choice><orig>tast</orig><reg>taste</reg></choice>: these are his words. <milestone unit="section" n="e11-11" />But lest a man should macerate <choice><orig>himselfe</orig><reg>himself</reg></choice> with
+                        <lb/>overmuch study, which is an inexhaustible sea and of immense profundity
+                        <lb/>and <choice><orig>endeavour</orig><reg>endeavor</reg></choice> (though in <choice><orig>vaine</orig><reg>vain</reg></choice>) to bring every letter, agreeing <choice><orig>allso</orig><reg>also</reg></choice> with ma
+                        <lb break="no"/>ny other things, into act, in the <choice><orig>meane</orig><reg>mean</reg></choice> time consuming or diminishing his
+                        <lb/>strength, time, reputation, wealth and riches, the Philosophers <choice><orig>doe</orig><reg>do</reg></choice> use this
+                        <lb/><choice><orig>Emblematicall</orig><reg>Emblematical</reg></choice> speech, that Latona must be whitened, and those books
+                        <lb/><choice><orig>torne</orig><reg>torn</reg></choice>, lest their hearts be broken, <seg rend="underline" hand="2">for there are many books <choice><orig>soe</orig><reg>so</reg></choice> obscurely</seg> <pc>-</pc>
+                        <lb/>written, <seg rend="underline" hand="2">as to be understood by their <choice><orig>owne</orig><reg>own</reg></choice> Authors <choice><orig>onely</orig><reg>only</reg></choice>:</seg> <milestone unit="section" n="e11-12" />not a few left out<note place="margin" hand="2">!!</note>
+                        <lb/>of envy to seduce others, or rather to retard them, that they may not <choice><orig>attaine</orig><reg>attain</reg></choice>
+                        <lb/>to their end without difficulty, or to obscure those things written before by <pc>-</pc>
+                        <lb/>themselves: <milestone unit="section" n="e11-13" />But what is the meaning of whitening Latona? this is the <pc>-</pc>
+                        <lb/><choice><orig>worke</orig><reg>work</reg></choice> this the <choice><orig>labour</orig><reg>labor</reg></choice> to inquire: Clangor buccinæ affirms Latona to be an
+                        
+                        
+                        
+                        <pb n="40"/><fw rend="italics">Discourse 11.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <lb/>imperfect body compounded of Sol and Luna. <milestone unit="section" n="e11-14" />The most ancient Poets and
+                        <lb/>writers <choice><orig>affirme</orig><reg>affirm</reg></choice> Latona to be the mother of Sol and Luna, or Apollo and <pc>-</pc>
+                        <lb/>Diana, others the <choice><orig>Nurce</orig><reg>Nurse</reg></choice>; and that Diana was first <choice><orig>borne</orig><reg>born</reg></choice> (for Luna and <pc>-</pc>
+                        <lb/><choice><orig>whitenesse</orig><reg>whiteness</reg></choice> first appears) and did then <choice><orig>performe</orig><reg>perform</reg></choice> the office of a midwife <pc>-</pc>
+                        <lb/>the same day in bringing forth her brother Apollo. <milestone unit="section" n="e11-15" />Latona was indeed one
+                        <note place="margin" hand="2">!</note><lb/>of the <seg rend="underline" hand="2">twelve</seg> divine <choice><orig>Hieroglyphicks</orig><reg>Hieroglyphics</reg></choice> of the <choice><orig>Ægyptians</orig><reg>Egyptians</reg></choice>, by <choice><orig>whome</orig><reg>whom</reg></choice> these <pc>-</pc>
+                        <lb/>and other <choice><orig>Allegoryes</orig><reg>Allegories</reg></choice> were propagated amongst other nations, very few of <pc>-</pc>
+                        <lb/>the <choice><orig>Ægyptians</orig><reg>Egyptians</reg></choice> <choice><orig>Preists</orig><reg>Priests</reg></choice>, and those <choice><orig>onely</orig><reg>only</reg></choice> understanding the true meaning <pc>-</pc>
+                        <lb/>and sense of them, all the rest referring them to other subjects, which were <pc>-</pc>
+                        <lb/>not in the nature of things, namely various Gods, Goddesses, and the like: <pc>-</pc>
+                        <lb/><milestone unit="section" n="e11-16" />Hereupon Latona had there the most sumptuous temple next to Vulcan, cove
+                        <lb break="no"/>red and adorned with gold, as <choice><orig>Shee</orig><reg>She</reg></choice> that was the Mother of the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice>
+                        <lb/>Apollo and Diana: <milestone unit="section" n="e11-17" />but this Latona is <choice><orig>browne</orig><reg>brown</reg></choice> and blackish, and <choice><orig>hath</orig><reg>has</reg></choice> many
+                        <lb/>moles and blemishes in her face, which must be taken away by art, namely
+                        <lb/>by dealbation: <milestone unit="section" n="e11-18" />Some <choice><orig>doe</orig><reg>do</reg></choice> make dealbations of Ceruse, Mercury Sublimate,
+                        <lb/><choice><orig>Talke</orig><reg>Talc</reg></choice>, reduced into <choice><orig>oyle</orig><reg>oil</reg></choice>, and the like, with which they incrust, cover, and
+                        <lb/><choice><orig>soe</orig><reg>so</reg></choice> whiten the outside of the <choice><orig>Skinne</orig><reg>Skin</reg></choice>; but these whitening incrustations
+                        <lb/>fall <choice><orig>of</orig><reg>off</reg></choice> with every wind or liquor, because they <choice><orig>doe</orig><reg>do</reg></choice> not penetrate to the more
+                        <lb/>inward parts: <milestone unit="section" n="e11-19" />But the Philosophers care not for such colorations, which are <pc>-</pc>
+                        <lb/><choice><orig>usd</orig><reg>used</reg></choice> more to deceive the eyes, than to tinge the <choice><orig>internall</orig><reg>internal</reg></choice> substance of the
+                        <lb/>body: For they would have the face of Latona whitened thoroughly, and
+                        <lb/>the <choice><orig>Skinne</orig><reg>Skin</reg></choice> <choice><orig>itselfe</orig><reg>itself</reg></choice> altered, that is, <choice><orig>truely</orig><reg>truly</reg></choice>, and not superficially: <milestone unit="section" n="e11-20" />a <choice><orig>Quæstion</orig><reg>Question</reg></choice>
+                        <lb/>might be asked how it can be? I answer, Latona must be first sought out
+                        <lb/>and <choice><orig>knowne</orig><reg>known</reg></choice>, which though <choice><orig>Shee</orig><reg>She</reg></choice> be taken out of a vile place, must not
+                        <lb break="no"/>withstanding be sublimed to a more worthy, but if <choice><orig>Shee</orig><reg>She</reg></choice> be taken out
+                        <lb/>of a more worthy place, <choice><orig>Shee</orig><reg>She</reg></choice> must be <choice><orig>throwne</orig><reg>thrown</reg></choice> into a place more vile, <pc>-</pc>
+                        <lb/>namely into dung: for there will <choice><orig>Shee</orig><reg>She</reg></choice> become truely white, and be <pc>-</pc>
+                        <lb/>made white lead, which being had, there is <choice><orig>noe</orig><reg>no</reg></choice> need to doubt of <choice><orig>suc
+                        <lb break="no"/>cesse</orig><reg>success</reg></choice>, or red lead, which is the <choice><orig>begining</orig><reg>beginning</reg></choice> and end of the <choice><orig>worke</orig><reg>work</reg></choice> <pc>. . .</pc>
+                    </ab>   
+                </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
+

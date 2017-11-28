@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="emblem" n="e22"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+                <pb n="71"/><!-- Change to page number of the actual manuscript -->
+                
+                
+                <div type="title" xml:lang="en">
+                    <head>
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 22. Of the Secrets of Nature.
+                        <lb/>Having acquired white lead <choice><orig>doe</orig><reg>do</reg></choice> the <choice><orig>worke</orig><reg>work</reg></choice> of women, that is, <choice><orig>Boyle</orig><reg>Boil</reg></choice></seg>
+                    </head>
+                </div>
+                
+                
+                <div type="epigram" xml:lang="en">
+                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 22.</head>
+                    <lg>
+                        <l>If much with little pains you would effect,</l>
+                        <l>The livid Spots of Saturn's face correct,</l>
+                        <l>And make as white as Snow: when this is done,</l>
+                        <l>A woman may the rest <choice><orig>performe</orig><reg>perform</reg></choice> alone;</l>
+                        <l>Coct then, as <choice><orig>Shee</orig><reg>She</reg></choice>, placing her <choice><orig>potts</orig><reg>pots</reg></choice> on fire,</l>
+                        <l>But <choice><orig>th'</orig><reg>the</reg></choice> water must be such as things require.</l>
+                    </lg>
+                </div>
+                
+                
+                <pb n="72"/> <!-- Change to page number of the actual manuscript -->
+                <div type="discourse" xml:lang="en">
+                    <head rend="italics">Discourse 22.</head>
+                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+                        <lb/>As <choice><orig>Mercuriall</orig><reg>Mercurial</reg></choice> Statues are <choice><orig>coḿonly</orig><reg>commonly</reg></choice> placed in roads where three <choice><orig>wayes</orig><reg>ways</reg></choice> meet, to<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb break="no"/>gether with a title and inscription, to guide <choice><orig>doubtfull</orig><reg>doubtful</reg></choice> travellers into the right
+                        <lb/>way, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> are <choice><orig>certaine</orig><reg>certain</reg></choice> acute sentences inferred in many of their books
+                        <lb/>and <choice><orig>volums</orig><reg>volumes</reg></choice> of the Philosophers, here and there <choice><orig>allegoricall</orig><reg>allegorical</reg></choice> and dubious, that
+                        <lb/>the investigator of truth may thereby be admonished, and led as it were by
+                        <lb/>the hand into the right path: of these this <choice><orig>emblematicall</orig><reg>emblematical</reg></choice> inscription is one,
+                        <lb/>whereof this is accounted the meaning, that lead must be made of the <choice><orig>Phi
+                        <lb break="no"/>losophicall</orig><reg>Philosophical</reg></choice> <choice><orig>brasse</orig><reg>brass</reg></choice>, and <choice><orig>tinne</orig><reg>tin</reg></choice> of lead, which by Geber is called white lead,
+                        <lb/>who <choice><orig>teacheth</orig><reg>teaches</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice>, which way <choice><orig>Saturne</orig><reg>Saturn</reg></choice> may by washing with Mercury be
+                        <lb/>converted into Jupiter; wherefore this index, though the speech of Battus,
+                        <lb/>must be credited, if at any time <choice><orig>hee</orig><reg>he</reg></choice> discover the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> oxen, <pc>-</pc>
+                        <lb/>what place they frequent, saying, they were in the mountains, and were <pc>-</pc>
+                        <lb/>under those mountains: for many men, as Arnold in Novum lumen Chapt. 1.
+                        <lb/><choice><orig>affirmes</orig><reg>affirms</reg></choice>, <choice><orig>wandring</orig><reg>wandering</reg></choice> in the mountains <choice><orig>doe</orig><reg>do</reg></choice> not know these <choice><orig>animalls</orig><reg>animals</reg></choice>: but they
+                        <lb/>are sold openly at a very small price: In the Summer <choice><orig>allso</orig><reg>also</reg></choice> Snow is some
+                        <lb break="no"/>times observed on the highest <choice><orig>mountaines</orig><reg>mountains</reg></choice>, and clouds most <choice><orig>coḿonly</orig><reg>commonly</reg></choice>, by <pc>-</pc>
+                        <lb/>which as by a <choice><orig>vapour</orig><reg>vapor</reg></choice> and water lead being <choice><orig>blacke</orig><reg>black</reg></choice> is washed, and turned in
+                        <lb break="no"/>to <choice><orig>whitenesse</orig><reg>whiteness</reg></choice>: but their <choice><orig>crystalls</orig><reg>crystals</reg></choice> are found congealed and hardened by ice
+                        <lb/>in the lowest <choice><orig>vallyes</orig><reg>valleys</reg></choice> and <choice><orig>mynes</orig><reg>mines</reg></choice>, together with Lapis Specularis, and <choice><orig>Talke</orig><reg>Talc</reg></choice> <pc>-</pc>
+                        <lb/><choice><orig>coḿended</orig><reg>commended</reg></choice> for making the face white and <choice><orig>beautifull</orig><reg>beautiful</reg></choice>, if an <choice><orig>oyle</orig><reg>oil</reg></choice> be made <pc>-</pc>
+                        <lb/>thereof: But <choice><orig>cheifely</orig><reg>chiefly</reg></choice> clear and running Mercury, which being well <choice><orig>præpared</orig><reg>prepared</reg></choice>
+                        <lb/><choice><orig>rectifyes</orig><reg>rectifies</reg></choice> the blemishes of <choice><orig>Saturne</orig><reg>Saturn</reg></choice>, and <choice><orig>advanceth</orig><reg>advances</reg></choice> him into the throne of
+                        <lb/>Jupiter: but they ought not to be meant vulgar <choice><orig>Saturne</orig><reg>Saturn</reg></choice> and Jupiter, be
+                        <lb break="no"/>cause vulgar <choice><orig>metalls</orig><reg>metals</reg></choice> enter not into the <choice><orig>Physicall</orig><reg>Physical</reg></choice> <choice><orig>worke</orig><reg>work</reg></choice>, but as they are purged
+                        <lb/>and made <choice><orig>Physicall</orig><reg>Physical</reg></choice> by long <choice><orig>præparation</orig><reg>preparation</reg></choice>: <choice><orig>Saturne</orig><reg>Saturn</reg></choice> is the father of all the <pc>-</pc>
+                        <lb/>gentiles, or rather golden things, and the first gate of secrets: With this, <choice><orig>Sayth</orig><reg>Says</reg></choice>
+                        <lb/>Rhasis in his Epistle, are the gates of Sciences opened: His <choice><orig>Sonne</orig><reg>Son</reg></choice> Jupiter <pc>-</pc>
+                        <lb/>Succeeds him, who <choice><orig>expells</orig><reg>expels</reg></choice> his father out of his <choice><orig>kingdome</orig><reg>kingdom</reg></choice>, and <choice><orig>dismembred</orig><reg>dismembered</reg></choice> him,
+                        <lb/>that <choice><orig>hee</orig><reg>he</reg></choice> might not beget more <choice><orig>Sonns</orig><reg>Sons</reg></choice>; but Venus the most <choice><orig>beautifull</orig><reg>beautiful</reg></choice> of wo
+                        <lb break="no"/>men sprung from his testicles being cast into the Sea: From Jupiter, who is
+                        <lb/><choice><orig>hott</orig><reg>hot</reg></choice> lead <choice><orig>præpared</orig><reg>prepared</reg></choice>, are produced the other Planets, as Mars from Juno, Mer
+                        <lb break="no"/>cury from <choice><orig>Maja</orig><reg>Maia</reg></choice>, the daughter of Atlas as <choice><orig>mountaine</orig><reg>mountain</reg></choice> of Mauritania, <pc>-</pc>
+                        <lb/>Luna and Sol from Latona: which four are brought into the world by coc
+                        <lb break="no"/>tion alone or womens <choice><orig>worke</orig><reg>work</reg></choice>: but by coction, maturation and the dispersion
+                        <lb/>of the more crude parts is <choice><orig>signifyd</orig><reg>signified</reg></choice>, which is <choice><orig>performd</orig><reg>performed</reg></choice> by Vulcan in <choice><orig>Philo
+                        <lb break="no"/>sophicall</orig><reg>Philosophical</reg></choice> <choice><orig>vessells</orig><reg>vessels</reg></choice>: for its is not to be <choice><orig>supposd</orig><reg>supposed</reg></choice>, that it is vulgar coction, as to <pc>-</pc>
+                        <lb/>the way of operating, but it agrees with it as to the end: For as a woman ma
+                        <lb break="no"/>tures fish in water, that is, softens, <choice><orig>boyles</orig><reg>boils</reg></choice> and <choice><orig>seeths</orig><reg>sees</reg></choice> them, all the superfluous mois
+                        <lb break="no"/>ture being resolved from them into water and <choice><orig>aire</orig><reg>air</reg></choice>, <choice><orig>Soe</orig><reg>So</reg></choice> the Philosopher handles
+                        <lb/>his subject, macerating, melting, dissolving, coagulating and fixing it in a pecu
+                        <lb break="no"/>liar water, which is stronger than the sharpest vinegar, in the <choice><orig>vessell</orig><reg>vessel</reg></choice> of Her
+                        <lb break="no"/>mes, the <choice><orig>joynts</orig><reg>joints</reg></choice> of which are most exquisitely close, as is requisite, that the wa
+                        <lb break="no"/>ter may not exhale, and that, which is in the <choice><orig>vessell</orig><reg>vessel</reg></choice>, be burned: This is <pc>-</pc>
+                        
+                        
+                        
+                        <pb n="73"/><fw rend="italics">Discourse 22.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <lb/>that <choice><orig>vessell</orig><reg>vessel</reg></choice> above the <choice><orig>vessell</orig><reg>vessel</reg></choice>, and the Philosophers <choice><orig>pott</orig><reg>pot</reg></choice>, the Laconian bath,
+                        <lb/>in which the old man sweats: Some there are, who <choice><orig>boyle</orig><reg>boil</reg></choice> fish, Lobsters, Crabs,
+                        <lb/>or green Peas in a double, <choice><orig>soe</orig><reg>so</reg></choice> that the <choice><orig>sayd</orig><reg>said</reg></choice> things are in the upper <choice><orig>pott</orig><reg>pot</reg></choice>, and
+                        <lb/>water <choice><orig>onely</orig><reg>only</reg></choice> in the lower, and the <choice><orig>potts</orig><reg>pots</reg></choice> are placed one above the other with
+                        <lb/><choice><orig>orbes</orig><reg>orbs</reg></choice>, that the <choice><orig>vapour</orig><reg>vapor</reg></choice> may not <choice><orig>goe</orig><reg>go</reg></choice> forth: by which means the <choice><orig>vapour</orig><reg>vapor</reg></choice> of <pc>-</pc>
+                        <lb/>the water ascending <choice><orig>onely</orig><reg>only</reg></choice> penetrates and matures the things contained, <pc>-</pc>
+                        <lb/>and makes them much more tender and soft, than if they had <choice><orig>boyled</orig><reg>boiled</reg></choice> in <pc>-</pc>
+                        <lb/>water: This is the most laudable way of the Philosophers, whereby they
+                        <lb/>mollify that which is hard, dissolve that which is compact, and rarefy that
+                        <lb/>which is <choice><orig>thicke</orig><reg>thick</reg></choice>: For the <choice><orig>aire</orig><reg>air</reg></choice> or insensible <choice><orig>vapour</orig><reg>vapor</reg></choice> is that which matures, <pc>-</pc>
+                        <lb/>cocts, and perfects fruits in trees, not crude and cold water, as such: The <pc>-</pc>
+                        <lb/><choice><orig>aire</orig><reg>air</reg></choice> is <choice><orig>allso</orig><reg>also</reg></choice> that which <choice><orig>tingeth</orig><reg>tinges</reg></choice> and <choice><orig>coloureth</orig><reg>colors</reg></choice> the golden apples in the Or
+                        <lb break="no"/>chards of the Hesperides: For, if it <choice><orig>wee</orig><reg>we</reg></choice> well considered, the ebullition of
+                        <lb/>water, whereby raw flesh is cocted till it be <choice><orig>fitt</orig><reg>fit</reg></choice> to eat, is nothing <choice><orig>els</orig><reg>else</reg></choice>, but a ra
+                        <lb break="no"/>refaction and transmutation of the water into an airy <choice><orig>vapour</orig><reg>vapor</reg></choice>, the bubbles
+                        <lb/>being <choice><orig>aire</orig><reg>air</reg></choice> <choice><orig>containd</orig><reg>contained</reg></choice> within the water, which <choice><orig>doe</orig><reg>do</reg></choice> easily vanish away, the
+                        <lb/><choice><orig>aire</orig><reg>air</reg></choice> betaking <choice><orig>itselfe</orig><reg>itself</reg></choice> from the water to its <choice><orig>owne</orig><reg>own</reg></choice> Sphere, and the water <pc>-</pc>
+                        <lb/>settling to its <choice><orig>owne</orig><reg>own</reg></choice> center<pc>. . . . . . . . . .</pc> 
+                    </ab>   
+                </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="emblem" n="e12"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+                <pb n="41"/><!-- Change to page number of the actual manuscript -->
+                
+                
+                <div type="title" xml:lang="en">
+                    <head>
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 12. Of the Secrets of Nature.
+                        <lb/>The Stone, which <choice><orig>Saturne</orig><reg>Saturn</reg></choice> vomited up, being devoured instead
+                        <lb/>of his <choice><orig>Sonne</orig><reg>Son</reg></choice> jupiter, is placed in Helicon as a monument to men.</seg>
+                    </head>
+                </div>
+                
+                
+                <div type="epigram" xml:lang="en">
+                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 12.</head>
+                    <lg>
+                        <l>Know would you why the Poets <choice><orig>soe</orig><reg>so</reg></choice> recount</l>
+                        <l>The fame of Helicon, the Muses mount?</l>
+                        <l>That <choice><orig>monumentall</orig><reg>monumental</reg></choice> stone is <choice><orig>plac'd</orig><reg>placed</reg></choice> thereon,</l>
+                        <l>Which <choice><orig>Saturne</orig><reg>Saturn</reg></choice> <choice><orig>gorg'd</orig><reg>gorged</reg></choice> instead of Jove his <choice><orig>Sonne</orig><reg>Son</reg></choice>.</l>
+                        <l>Be wise, the sense agrees not with the Sound,</l>
+                        <l>For Saturn's Stone in Chymistry is found.</l>
+                    </lg>
+                </div>
+                
+                
+                <pb n="42"/> <!-- Change to page number of the actual manuscript -->
+                <div type="discourse" xml:lang="en">
+                    <head rend="italics">Discourse 12.</head>
+                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+                        <lb/>The Allegory of <choice><orig>Saturne</orig><reg>Saturn</reg></choice> <choice><orig>wee</orig><reg>we</reg></choice> find to be taken <choice><orig>divers</orig><reg>diverse</reg></choice> <choice><orig>wayes</orig><reg>ways</reg></choice>: for the Astro<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb break="no"/>nomers repute him the highest of the <choice><orig>Planetts</orig><reg>Planets</reg></choice> in order; the young students
+                        <lb/>of Chymistry the meanest of <choice><orig>metalls</orig><reg>metals</reg></choice>, namely lead: The heathen Poets: <choice><orig>con
+                        <lb break="no"/>ceivd</orig><reg>conceived</reg></choice> him to be the father of Jupiter, <choice><orig>Sonne</orig><reg>Son</reg></choice> of Cælum; the Mythologists time.
+                        <lb/>But though all these may seem to have thought aright in their sense, yet <pc>-</pc>
+                        <lb/>they will not declare those things which are <choice><orig>elswhere</orig><reg>elsewhere</reg></choice> spoken of <choice><orig>Saturne</orig><reg>Saturn</reg></choice>, <pc>-</pc>
+                        <lb/>why <choice><orig>hee</orig><reg>he</reg></choice> devoured and vomited up his <choice><orig>sonns</orig><reg>sons</reg></choice>, and a stone instead of Jupiter,
+                        <lb/>why <choice><orig>hee</orig><reg>he</reg></choice> is the discoverer of truth, why appearing with a <choice><orig>sieth</orig><reg>scythe</reg></choice>, a serpent, <pc>-</pc>
+                        <lb/><choice><orig>blacknesse</orig><reg>blackness</reg></choice>, morosity, and distorted feet? Herein the last <choice><orig>thinke</orig><reg>think</reg></choice> themselves to
+                        <lb/>interpret best, saying, that time <choice><orig>reveales</orig><reg>reveals</reg></choice> and manifests truth, slides away as a Ser
+                        <lb break="no"/>pent, cuts all things <choice><orig>downe</orig><reg>down</reg></choice> with death as by a <choice><orig>sieth</orig><reg>scythe</reg></choice>, <choice><orig>devoures</orig><reg>devours</reg></choice> its children, that is,
+                        <lb/>all those things which it <choice><orig>hath</orig><reg>has</reg></choice> generated, digests hard stones, or cannot consume
+                        <lb/>them, and therefore <choice><orig>dos</orig><reg>does</reg></choice> as it were vomit them up <choice><orig>againe</orig><reg>again</reg></choice>: These things <choice><orig>doe</orig><reg>do</reg></choice> indeed
+                        <lb/>agree in part, but are not consonant to the truth of the thing, and all circum
+                        <lb break="no"/>stances. But the exercises Philosophers <choice><orig>doe</orig><reg>do</reg></choice> say, that <choice><orig>Saturne</orig><reg>Saturn</reg></choice> is first in their
+                        <lb/><choice><orig>worke</orig><reg>work</reg></choice>, which if <choice><orig>hee</orig><reg>he</reg></choice> be really <choice><orig>præsent</orig><reg>present</reg></choice>, they cannot <choice><orig>erre</orig><reg>err</reg></choice>, truth is discovered in
+                        <lb/><choice><orig>darknesse</orig><reg>darkness</reg></choice>; but there is nothing besides <choice><orig>blacknesse</orig><reg>blackness</reg></choice>: wherefore they say in <pc>-</pc>
+                        <lb/>Turba Philosophorum, whatsoever <choice><orig>colour</orig><reg>color</reg></choice> comes after <choice><orig>blacknesse</orig><reg>blackness</reg></choice> is laudable:
+                        <lb/>and when you see your matter <choice><orig>blacke</orig><reg>black</reg></choice>, <choice><orig>rejoyce</orig><reg>rejoice</reg></choice>, because it is the <choice><orig>begining</orig><reg>beginning</reg></choice> of <pc>-</pc>
+                        <lb/>the <choice><orig>worke</orig><reg>work</reg></choice>: And, when it is first <choice><orig>blacke</orig><reg>black</reg></choice>, <choice><orig>wee</orig><reg>we</reg></choice> say it is the key of the <choice><orig>worke</orig><reg>work</reg></choice>, <pc>-</pc>
+                        <lb/>because it is not effected without <choice><orig>blacknesse</orig><reg>blackness</reg></choice>, as the Rosary <choice><orig>hath</orig><reg>has</reg></choice> it, with Arnold,
+                        <lb/>and the Speculum: when you are operating, <choice><orig>endeavour</orig><reg>endeavor</reg></choice> to <choice><orig>obtaine</orig><reg>obtain</reg></choice> first a <pc>-</pc>
+                        <lb/><choice><orig>blacke</orig><reg>black</reg></choice> <choice><orig>colour</orig><reg>color</reg></choice>, and then will you be <choice><orig>certaine</orig><reg>certain</reg></choice> that you putrefy, and proceed
+                        <lb/>the right way. And a little after: that <choice><orig>blacknesse</orig><reg>blackness</reg></choice> is called earth, which is made
+                        <lb/>by light decoction <choice><orig>soe</orig><reg>so</reg></choice> often repeated, till <choice><orig>blacknesse</orig><reg>blackness</reg></choice> be most eminent: For <pc>-</pc>
+                        <lb/>this reason say the same, that <choice><orig>Saturne</orig><reg>Saturn</reg></choice> <choice><orig>possesseth</orig><reg>possesses</reg></choice> the earth, Mercury water, <pc>-</pc>
+                        <lb/>Jupiter <choice><orig>aire</orig><reg>air</reg></choice>, Sol fire. <choice><orig>Saturne</orig><reg>Saturn</reg></choice> therefore is <choice><orig>blacknesse</orig><reg>blackness</reg></choice>, the discoverer of truth,
+                        <lb/>who <choice><orig>followes</orig><reg>follows</reg></choice> a stone instead of Jupiter. For <choice><orig>blacknesse</orig><reg>blackness</reg></choice>, that is, a <choice><orig>darke</orig><reg>dark</reg></choice> cloud
+                        <lb/>covers the stone as first, that is cannot be seen: Therefore <choice><orig>sayth</orig><reg>says</reg></choice> Morienes <pc>-</pc>
+                        <lb/>every body without a <choice><orig>soule</orig><reg>soul</reg></choice> is <choice><orig>darke</orig><reg>dark</reg></choice> and obscure: And Hermes: Take his head <pc>-</pc>
+                        <lb/>dissolve it with the Sharpest vinegar, or the urine of children, till it be made <pc>-</pc>
+                        <lb/><choice><orig>darke</orig><reg>dark</reg></choice>: This being performed <choice><orig>hee</orig><reg>he</reg></choice> lives in putrefaction, and the <choice><orig>darke</orig><reg>dark</reg></choice> clouds which
+                        <lb/>were upon him, and in his body, before <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>dyed</orig><reg>died</reg></choice>, are returned. This stone is <pc>-</pc>
+                        <lb/><choice><orig>againe</orig><reg>again</reg></choice> disgorged by <choice><orig>Saturne</orig><reg>Saturn</reg></choice>, when it becomes white, and then is it <choice><orig>sett</orig><reg>set</reg></choice> upon <pc>-</pc>
+                        <lb/>the top of Helicon for a monument to men, as Hesiod writes: for <choice><orig>whitenesse</orig><reg>whiteness</reg></choice> is
+                        <lb/>really comprehended under <choice><orig>blacknesse</orig><reg>blackness</reg></choice>, which is <choice><orig>drawne</orig><reg>drawn</reg></choice> out of its <choice><orig>bowells</orig><reg>bowels</reg></choice>, that
+                        <lb/>is, out of the <choice><orig>stomacke</orig><reg>stomach</reg></choice> of <choice><orig>Saturne</orig><reg>Saturn</reg></choice>. therefore <choice><orig>sayth</orig><reg>says</reg></choice> Democritus; putrify <choice><orig>Tinne</orig><reg>Tin</reg></choice>
+                        <lb/>with a peculiar ablution, draw its <choice><orig>blacknesse</orig><reg>blackness</reg></choice> and obscurity from it, and the
+                        <lb/><choice><orig>whitenesse</orig><reg>whiteness</reg></choice> of it will appear. And in Turba it is <choice><orig>sayd</orig><reg>said</reg></choice>: <choice><orig>Joyne</orig><reg>Join</reg></choice> the dry with
+                        <lb/>the moist, that is, the <choice><orig>blacke</orig><reg>black</reg></choice> earth with its water, and coct, till it be whitened.
+                        <lb/>This Arnold in Novum lumen chapt. 4. excellently declares, saying; That <pc>-</pc>
+                        <lb/>moisture therefore which caused <choice><orig>blacknesse</orig><reg>blackness</reg></choice> in decoction, <choice><orig>Shews</orig><reg>Shows</reg></choice> <choice><orig>itselfe</orig><reg>itself</reg></choice> to be <pc>-</pc>
+                        <lb/><choice><orig>dryed</orig><reg>dried</reg></choice>, when the white <choice><orig>colour</orig><reg>color</reg></choice> begins to appear. And a little after: And <pc>-</pc>
+                        <lb/>my Master <choice><orig>sayd</orig><reg>said</reg></choice> to <choice><orig>mee</orig><reg>me</reg></choice>, that that brunity ascended, because the <choice><orig>whitenesse</orig><reg>whiteness</reg></choice>
+                        
+                        
+                        <pb n="43"/><fw>Discourse 12.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <lb/>was <choice><orig>drawne</orig><reg>drawn</reg></choice> out of the belly of its <choice><orig>blacknesse</orig><reg>blackness</reg></choice>, as is <choice><orig>sayd</orig><reg>said</reg></choice> in Turba: For when <pc>-</pc>
+                        <lb/>you see it <choice><orig>blacke</orig><reg>black</reg></choice> know that the <choice><orig>whitenesse</orig><reg>whiteness</reg></choice> of it is hidden in the <choice><orig>bowells</orig><reg>bowels</reg></choice> of the
+                        <lb/><choice><orig>blacknesse</orig><reg>blackness</reg></choice> first appearing. As the Same <choice><orig>blacknesse</orig><reg>blackness</reg></choice> is called <choice><orig>Saturne</orig><reg>Saturn</reg></choice>, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> <pc>-</pc>
+                        <lb/>Lead: Thereupon <choice><orig>sayth</orig><reg>says</reg></choice> Agadimon in Turba: Coct your <choice><orig>brasse</orig><reg>brass</reg></choice>, till the <choice><orig>blacknesse</orig><reg>blackness</reg></choice> come forth,
+                        <lb/>which they call money, and mix the matters of your art, and you will find <choice><orig>blacknesse</orig><reg>blackness</reg></choice> <pc>-</pc>
+                        <lb/>presently, which is the Philosophers lead, of which they have treated much in their <pc>-</pc>
+                        <lb/>books: Hitherto relates the saying of Emiganus, that the Splendor of <choice><orig>Saturne</orig><reg>Saturn</reg></choice> ascending
+                        <lb/>into the <choice><orig>aire</orig><reg>air</reg></choice> appears <choice><orig>noe</orig><reg>no</reg></choice> otherwise than darkened. And of Plato in the Rosary; The
+                        <lb/>first way of governing <choice><orig>Saturne</orig><reg>Saturn</reg></choice> is to putrefy and put it upon Sol: by which it is evident <pc>-</pc>
+                        <lb/>that the sense of the Philosophers, speaking of <choice><orig>Saturne</orig><reg>Saturn</reg></choice>, is <choice><orig>farre</orig><reg>far</reg></choice> different from the
+                        <lb/><choice><orig>coḿon</orig><reg>common</reg></choice> acceptation. This <choice><orig>Saturne</orig><reg>Saturn</reg></choice> generates Jupiter, that is, an obscure <choice><orig>whitenesse</orig><reg>whiteness</reg></choice>, Jupiter
+                        <lb/>of Latona Diana, that is perfect <choice><orig>whitenesse</orig><reg>whiteness</reg></choice>, and Apollo, that is, <choice><orig>rednesse</orig><reg>redness</reg></choice>; and this is
+                        <lb/>the successive mutation of all perfect <choice><orig>colours</orig><reg>colors</reg></choice>: This Stone cast out by <choice><orig>Saturne</orig><reg>Saturn</reg></choice> is
+                        <lb/>reported to be placed at the top of the <choice><orig>mountaine</orig><reg>mountain</reg></choice> as a monument to men, which
+                        <lb/>is a thing most true<pc>. . . . . . . . . . . .</pc>
+                    </ab>   
+                </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
+

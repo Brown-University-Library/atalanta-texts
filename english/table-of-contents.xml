@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="contents">
+                <list type="contents">
+                <pb n="158"/><fw rend="italics">An index of the Emblems contained in this Volume.</fw>
+                    
+                    
+                        <lb/><item n="1"><rs>The Authors <choice><orig>epigramme</orig><reg>epigram</reg></choice><pc>.</pc></rs><ref type="pageNum">Page. 2</ref></item>
+                        <lb/><item n="2"><rs>The Authors epistle<pc>. . . . . . . .</pc></rs><ref type="pageNum">3</ref></item>
+                        <lb/><item n="3"><rs>The Authors <choice><orig>Præface</orig><reg>Preface</reg></choice> to the Reader<pc>. . . . . .</pc></rs><ref type="pageNum">4</ref></item>
+                        <lb/><item n="4"><ref type="emblem">Embleme 1.</ref><rs>Wind <choice><orig>carryd</orig><reg>carried</reg></choice> him to his belly<pc>. . . . . . . .</pc></rs><ref type="pageNum">8</ref></item>
+                        <lb/><item n="5"><ref type="emblem">2</ref><rs>The earth is his <choice><orig>Nource</orig><reg>Nurse</reg></choice><pc>. . . . . . . .</pc></rs><ref type="pageNum">11</ref></item>
+                        <lb/><item n="6"><ref type="emblem">3</ref><rs><choice><orig>Goe</orig><reg>Go</reg></choice> to the woman washing <choice><orig>cloaths</orig><reg>clothes</reg></choice>, and <choice><orig>doe</orig><reg>do</reg></choice> you after the same manner.</rs><ref type="pageNum">14</ref></item>
+                        <lb/><item n="7"><ref type="emblem">4</ref><rs><choice><orig>Joyne</orig><reg>Join</reg></choice> the brother with the sister and give them a cup of <choice><orig>loue</orig><reg>love</reg></choice><pc>. .</pc></rs><ref type="pageNum">17</ref></item>
+                        <lb/><item n="8"><ref type="emblem">5</ref><rs>Put a toad upon the womans breasts, that <choice><orig>shee</orig><reg>she</reg></choice> may give it <choice><orig>sucke</orig><reg>suck</reg></choice>,
+                        <lb/>and the woman <choice><orig>dye</orig><reg>die</reg></choice>, and the toad be <choice><orig>grosse</orig><reg>gross</reg></choice> with <choice><orig>milke</orig><reg>milk</reg></choice><pc>. . . .</pc></rs><ref type="pageNum">20</ref></item>
+                        <lb/><item n="9"><ref type="emblem">6</ref><rs>Sow your gold in the white foliated earth<pc>. . . . .</pc></rs><ref type="pageNum">23</ref></item>
+                        <lb/><item n="10"><ref type="emblem">7</ref><rs>A chicken is flying out of the nest, which falls <choice><orig>againe</orig><reg>again</reg></choice> into the nest.</rs><ref type="pageNum">26</ref></item>
+                        <lb/><item n="11"><ref type="emblem">8</ref><rs>Take an <choice><orig>egge</orig><reg>egg</reg></choice> and smite it with a fiery sword<pc>. . . .</pc></rs><ref type="pageNum">29</ref></item>
+                        <lb/><item n="12"><ref type="emblem">9</ref><rs><choice><orig>Shutt</orig><reg>Shut</reg></choice> up the tree with the old man in the house of dew, and<pc>-</pc>
+                        <lb/>eating of the fruit thereof <choice><orig>hee</orig><reg>he</reg></choice> will become young<pc>. . .</pc></rs><ref type="pageNum">32</ref></item>
+                        <lb/><item n="13"><ref type="emblem">10</ref><rs>Give fire to fire, Mercury to Mercury, and you have enough<pc>. .</pc></rs><ref type="pageNum">35</ref></item>
+                        <lb/><item n="14"><ref type="emblem">11</ref><rs>Whiten Latona, and tear your books<pc>. . . . .</pc></rs><ref type="pageNum">38</ref></item>
+                        <lb/><item n="15"><ref type="emblem">12</ref><rs>The stone, which <choice><orig>Saturne</orig><reg>Saturn</reg></choice> vomited up, being devoured instead
+                        <lb/>of his <choice><orig>Sonne</orig><reg>Son</reg></choice> Jupiter, is placed in Helicon as a monument to men.</rs><ref type="pageNum">41</ref></item>
+                        <lb/><item n="16"><ref type="emblem">13</ref><rs>The Philosophers <choice><orig>brasse</orig><reg>brass</reg></choice> is <choice><orig>hydropicall</orig><reg>hydropical</reg></choice>, and desires to be seven
+                        <lb/>times <choice><orig>washd</orig><reg>washed</reg></choice> in a river, as Naaman the leper in Jordan<pc>. . .</pc></rs><ref type="pageNum">44</ref></item>
+                        <lb/><item n="17"><ref type="emblem">14</ref><rs>This is the Dragon which <choice><orig>devoures</orig><reg>devours</reg></choice> his <choice><orig>tayle</orig><reg>tail</reg></choice><pc>. . . . .</pc></rs><ref type="pageNum">47</ref></item>
+                        <lb/><item n="18"><ref type="emblem">15</ref><rs>Let the <choice><orig>worke</orig><reg>work</reg></choice> of the Potter, consisting in siccity and moisture
+                        <lb/>instruct you<pc>. . . . . . . .</pc></rs><ref type="pageNum">50</ref></item>
+                        <lb/><item n="19"><ref type="emblem">16</ref><rs>One <choice><orig>Lyon</orig><reg>Lion</reg></choice> <choice><orig>hath</orig><reg>has</reg></choice> wings, the other none<pc>. . . . . .</pc></rs><ref type="pageNum">53</ref></item>
+                        <lb/><item n="20"><ref type="emblem">17</ref><rs><choice><orig>Foure</orig><reg>Four</reg></choice> <choice><orig>orbes</orig><reg>orbs</reg></choice> <choice><orig>governe</orig><reg>govern</reg></choice> this <choice><orig>worke</orig><reg>work</reg></choice> of fire<pc>. . . . .</pc></rs><ref type="pageNum">56</ref></item>
+                        <lb/><item n="21"><ref type="emblem">18</ref><rs>Fire loves to <choice><orig>burne</orig><reg>burn</reg></choice>, not to aurify, but gold<pc>. . .</pc></rs><ref type="pageNum">59</ref></item>
+                        <lb/><item n="22"><ref type="emblem">19</ref><rs>If you kill one of the four they will all suddenly <choice><orig>dye</orig><reg>die</reg></choice><pc>. . .</pc></rs><ref type="pageNum">62</ref></item>
+                        <lb/><item n="23"><ref type="emblem">20</ref><rs>Nature <choice><orig>teacheth</orig><reg>teaches</reg></choice> nature how to subdue fire<pc>. . . .</pc></rs><ref type="pageNum">65</ref></item>
+                        <lb/><item n="24"><ref type="emblem">21</ref><rs>Make of the man and the woman a circle, of that a quadrangle,
+                        <lb/>of this a triangle, of the same a circle, and you will have the Phil. Stone</rs><ref type="pageNum">68</ref></item>
+                        <lb/><item n="25"><ref type="emblem">22</ref><rs>Having acquired white lead <choice><orig>doe</orig><reg>do</reg></choice> the <choice><orig>worke</orig><reg>work</reg></choice> of women, that is, <choice><orig>boyle</orig><reg>boil</reg></choice><pc>. .</pc></rs><ref type="pageNum">71</ref></item>
+                        <lb/><item n="26"><ref type="emblem">23</ref><rs>When Pallas was <choice><orig>borne</orig><reg>born</reg></choice>, and Sol lay with Venue, it rained<pc>--</pc>
+                        <lb/>gold at Rhodes</rs><ref type="pageNum">74</ref></item>
+                        <lb/><item n="27"><ref type="emblem">24</ref><rs>A <choice><orig>wolfe</orig><reg>wolf</reg></choice> devoured the King, and being burned restored him
+                        <lb/>to life <choice><orig>againe</orig><reg>again</reg></choice>.<pc>. . . . . . .</pc></rs><ref type="pageNum">77</ref></item>
+                        <lb/><item n="28"><ref type="emblem">25</ref><rs>The dragon <choice><orig>dyes</orig><reg>dies</reg></choice> not except <choice><orig>hee</orig><reg>he</reg></choice> be <choice><orig>killd</orig><reg>killed</reg></choice> by his brother and
+                        <lb/>Sister, which are Sol and Luna<pc>. . . . . .</pc></rs><ref type="pageNum">80</ref></item>
+                    
+                    
+                <pb n="159"/><fw rend="italics">An index of the Emblems contained in this Volume.</fw>
+                        <lb/><item n="29"><ref type="emblem">26</ref><rs>The tree of life is the fruit of <choice><orig>humane</orig><reg>human</reg></choice> <choice><orig>wisedome</orig><reg>wisdom</reg></choice><pc>.</pc></rs><ref type="pageNum">Page. 83</ref></item>
+                        <lb/><item n="30"><ref type="emblem">27</ref><rs><choice><orig>Hee</orig><reg>He</reg></choice> that <choice><orig>endeavours</orig><reg>endeavors</reg></choice> to enter into the Philosophers rosary<pc>-</pc>
+                        <lb/>without a key, is like him that would <choice><orig>walke</orig><reg>walk</reg></choice> without feet<pc>.</pc></rs><ref type="pageNum">86</ref></item>
+                        <lb/><item n="31"><ref type="emblem">28</ref><rs>The King sitting in a bath is bathed, and freed from melan
+                        <lb break="no"/>choly by Pharut<pc>. . . . . . . .</pc></rs><ref type="pageNum">89</ref></item>
+                        <lb/><item n="32"><ref type="emblem">29</ref><rs>As the Salamander lives in fire, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> the stone<pc>. . . .</pc></rs><ref type="pageNum">92</ref></item>
+                        <lb/><item n="33"><ref type="emblem">30</ref><rs>Luna is as requisite to Sol as a <choice><orig>henne</orig><reg>hen</reg></choice> to a <choice><orig>cocke</orig><reg>cock</reg></choice><pc>. . . . .</pc></rs><ref type="pageNum">95</ref></item>
+                        <lb/><item n="34"><ref type="emblem">31</ref><rs>The King swimming in the Sea <choice><orig>cryes</orig><reg>cries</reg></choice> out with a loud <choice><orig>voyce</orig><reg>voice</reg></choice>, <choice><orig>hee</orig><reg>he</reg></choice>
+                        <lb/>that will deliver <choice><orig>mee</orig><reg>me</reg></choice> shall have great reward<pc>. . . .</pc></rs><ref type="pageNum">98</ref></item>
+                        <lb/><item n="35"><ref type="emblem">32</ref><rs>As <choice><orig>Corall</orig><reg>Coral</reg></choice> <choice><orig>growes</orig><reg>grows</reg></choice> under water, and is hardened by the <choice><orig>aire</orig><reg>air</reg></choice>, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice>
+                        <lb/>is the Stone<pc>. . . . . . . . . . .</pc></rs><ref type="pageNum">101</ref></item>
+                        <lb/><item n="36"><ref type="emblem">33</ref><rs>The Hermaphrodite lying like a dead man in <choice><orig>darknesse</orig><reg>darkness</reg></choice>, wants fire<pc>. . .</pc></rs><ref type="pageNum">104</ref></item>
+                        <lb/><item n="37"><ref type="emblem">34</ref><rs><choice><orig>Hee</orig><reg>He</reg></choice> is conceived in baths, and <choice><orig>borne</orig><reg>born</reg></choice> in the <choice><orig>aire</orig><reg>air</reg></choice>, and being made
+                        <lb/>red walks upon the waters<pc>. . . . . . .</pc></rs><ref type="pageNum">107</ref></item>
+                        <lb/><item n="38"><ref type="emblem">35</ref><rs>As Ceres accustomed Triptolemus, and Thetis Achilles to abide in
+                        <lb/>fire, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>doth</orig><reg>does</reg></choice> an Artist the stone<pc>. . . . . .</pc></rs><ref type="pageNum">110</ref></item>
+                        <lb/><item n="39"><ref type="emblem">36</ref><rs>The stone, that is, Mercury is cast upon the earth, and exacted on moun
+                        <lb break="no"/>tains, and resides in the <choice><orig>aire</orig><reg>air</reg></choice>, and is nourished in water<pc>. . . .</pc></rs><ref type="pageNum">113</ref></item>
+                        <lb/><item n="40"><ref type="emblem">37</ref><rs>Three things are sufficient for the Magistery, the white fume, that is, water,
+                            <lb/>the green <choice><orig>Lyon</orig><reg>Lion</reg></choice>, that is, the <choice><orig>brasse</orig><reg>brass</reg></choice> of Hermes, and Aqua <choice><orig>fœtida</orig><reg>fetida</reg></choice><pc>. . .</pc></rs><ref type="pageNum">116</ref></item>
+                        <lb/><item n="41"><ref type="emblem">38</ref><rs>Rebis is, as Hermaphroditus, produced from the two mountains of
+                        <lb/>Mercury and Venus<pc>. . . . . . . .</pc></rs><ref type="pageNum">119</ref></item>
+                        <lb/><item n="42"><ref type="emblem">39</ref><rs><choice><orig>Œdipus</orig><reg>Oedipus</reg></choice> having overcome <choice><orig>Sphynx</orig><reg>Sphinx</reg></choice> and <choice><orig>killd</orig><reg>killed</reg></choice> his father Laius, <choice><orig>marryed</orig><reg>married</reg></choice>
+                        <lb/>his mother Jocasta<pc>. . . . . . . .</pc></rs><ref type="pageNum">122</ref></item>
+                        <lb/><item n="43"><ref type="emblem">40</ref><rs>Of two waters make one, and that will be the water of sanctity<pc>. .</pc></rs><ref type="pageNum">125</ref></item>
+                        <lb/><item n="44"><ref type="emblem">41</ref><rs>Adonis is <choice><orig>killd</orig><reg>killed</reg></choice> by a boar, to whom Venus hasting, tinged the roses with her blood.</rs><ref type="pageNum">128</ref></item>
+                        <lb/><item n="45"><ref type="emblem">42</ref><rs>Nature, Reason, Experience, and Reading, must be the guide, <choice><orig>staffe</orig><reg>staff</reg></choice>,
+                        <lb/>Spectacles, and <choice><orig>lampe</orig><reg>lamp</reg></choice> to him that is <choice><orig>employd</orig><reg>employed</reg></choice> in <choice><orig>Chymicall</orig><reg>Chymical</reg></choice> affairs<pc>. .</pc></rs><ref type="pageNum">131</ref></item>
+                        <lb/><item n="46"><ref type="emblem">43</ref><rs>Give ear to the <choice><orig>Vulturs</orig><reg>Vultures</reg></choice> words which are no=wise false<pc>. . .</pc></rs><ref type="pageNum">134</ref></item>
+                        <lb/><item n="47"><ref type="emblem">44</ref><rs>Typhon kills <choice><orig>Osyris</orig><reg>Osiris</reg></choice> by <choice><orig>deceipt</orig><reg>deceit</reg></choice>, and <choice><orig>disperseth</orig><reg>disperses</reg></choice> the parts of his body on
+                        <lb/>all sides, but the famous Isis gathered them together<pc>. . . .</pc></rs><ref type="pageNum">137</ref></item>
+                        <lb/><item n="48"><ref type="emblem">45</ref><rs>The <choice><orig>worke</orig><reg>work</reg></choice> is perfected by Sol and his shade<pc>. . . .</pc></rs><ref type="pageNum">140</ref></item>
+                        <lb/><item n="49"><ref type="emblem">46</ref><rs>Two Eagles, come together, one from the East, the other from the West<pc>. .</pc></rs><ref type="pageNum">143</ref></item>
+                        <lb/><item n="50"><ref type="emblem">47</ref><rs>A <choice><orig>wolfe</orig><reg>wolf</reg></choice>coming from the East, and a <choice><orig>dogge</orig><reg>dog</reg></choice>from the West <choice><orig>werry'd</orig><reg>werried</reg></choice> one another<pc>. .</pc></rs><ref type="pageNum">146</ref></item>
+                        <lb/><item n="51"><ref type="emblem">48</ref><rs>The King falls <choice><orig>sicke</orig><reg>sick</reg></choice> by drinking water, and is <choice><orig>restord</orig><reg>restored</reg></choice> to<pc>-</pc>
+                        <lb/>health by <choice><orig>Physitians</orig><reg>Physicians</reg></choice><pc>. . . . . . . .</pc></rs><ref type="pageNum">149</ref></item>
+                        <lb/><item n="52"><ref type="emblem">49</ref><rs>The <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> infant is, as Orion, the <choice><orig>Sonne</orig><reg>Son</reg></choice> of three fathers<pc>.</pc></rs><ref type="pageNum">152</ref></item>
+                        <lb/><item n="53"><ref type="emblem">50</ref><rs>The Dragon kills the woman, and <choice><orig>shee</orig><reg>she</reg></choice> him, and are both<pc>.</pc>
+                        <lb/>bloody all over<pc>. . . . . . . . .</pc></rs><ref type="pageNum">155</ref></item>
+                        <lb/><item n="54" rend="indent">Finis<pc>. . .</pc></item>
+                </list>
+            </div>
+        </body>
+    </text>
+</TEI>

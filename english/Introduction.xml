@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="emblem" n="intro">
+                <pb n="01"/>
+                
+                
+                <div type="title" xml:lang="en">
+                    <head>
+                        <lb/><seg rend="italics">Atalanta running,
+                        <lb/>that is,</seg>
+                    </head>
+  
+                    <head>
+                        <lb/><seg rend="italics">New <choice><orig>Chymicall</orig><reg>Chymical</reg></choice> Emblems relating to the
+                        <lb/>Secrets of Nature,</seg>
+                    </head>
+  
+                    <head>
+                        <lb/><seg rend="italics"><choice><orig>Accomodated</orig><reg>Accommodated</reg></choice> partly to the eyes and understanding, with figures <choice><orig>cutt</orig><reg>cut</reg></choice>
+                        <lb/>in Copper, and Sentences, Epigrams, and notes added, partly to the
+                        <lb/>ears and recreation of the mind, with 50 <choice><orig>musicall</orig><reg>musical</reg></choice> flights of
+                        <lb/>three <choice><orig>voyces</orig><reg>voices</reg></choice>, whereof two may correspond to one single
+                        <!-- the next three lines are edited with a paper insert, cover paper lines are included first with original after -->
+                        <lb/>melody <choice><orig>Apropriated</orig><reg>Appropriated</reg></choice> to be Sung with distichs, not without <note type="GE">this line as well as the following two were edited with a paper note, the text here is from the edited version</note> 
+                        <lb/>Singlular delectation, to be seen, read, meditated,
+                        <lb/>Understood, distinguished, Sung and Heard;
+                        <note>
+                            <lb/>melody <hi rend="superscript">1</hi>appropriated <hi rend="superscript">5</hi>with <hi rend="superscript">6</hi>distichs <hi rend="superscript">2</hi>to <hi rend="superscript">3</hi>be <hi rend="superscript">4</hi>sung: <hi rend="superscript">11</hi>to <hi rend="superscript">12</hi>be <pc>-</pc>
+                            <lb/><hi rend="superscript">13</hi>seen, <hi rend="superscript">14</hi>read, <hi rend="superscript">15</hi>meditated, <hi rend="superscript">16</hi>understood, <hi rend="superscript">17</hi><subst><del>judged</del><add>distinguished</add></subst>, <hi rend="superscript">18</hi>sung,
+                            <lb/><hi rend="superscript">19</hi>and <hi rend="superscript">20</hi> heard <hi rend="superscript">7</hi>not <hi rend="superscript">8</hi>without <hi rend="superscript">9</hi>Singular <hi rend="superscript">10</hi>delectation.
+                            <lb/><pc>. . . . . . . .</pc>
+                        </note>
+                        <lb/>the Author.</seg>
+                    </head>
+
+                    <head>
+                        <lb/><seg rend="italics">Michael Majerus Count of the Imperiall Con
+                        <lb break="no"/>sistory. Doctor of <choice><orig>Physicke</orig><reg>Physic</reg></choice>. Knight of etc.
+                        <lb/><pc>. . . . .</pc></seg>
+                    </head>
+                    <head>
+                        <lb/><seg rend="italics">Oppenheim.</seg>
+                    </head>
+                    <head>
+                        <lb/><seg rend="italics">Printed by Hieronymus Gallerus, at the charge of
+                        <lb/>John Theodore de Bry.
+                        <lb/>1618.
+                        <lb/><pc>. . . .</pc></seg>
+                    </head>
+                </div>
+                
+                
+                <pb n="02"/>
+                <div type="epigram" xml:lang="en">
+                    <head rend="italics">the Author's <choice><orig>Epigramme</orig><reg>Epigram</reg></choice>.</head>
+                    <lg>
+                        <l>The Hesperian apples of the Cyprian dame</l>
+                        <l>Gave to the nimble youth a victors fame:</l>
+                        <l>Who close <choice><orig>pursu'd</orig><reg>pursued</reg></choice> by the Swift virgins Speed</l>
+                        <l>Throws one in view, that <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>hee</orig><reg>he</reg></choice> might proceed:</l>
+                        <l><choice><orig>Hee's</orig><reg>He's</reg></choice> gone, <choice><orig>Shee</orig><reg>She</reg></choice> after, fleet or more than wind</l>
+                        <l>Whilst with another lure <choice><orig>hee</orig><reg>he</reg></choice> affects her mind,</l>
+                        <l>Diverting once <choice><orig>againe</orig><reg>again</reg></choice> the <choice><orig>Damsells</orig><reg>Damsels</reg></choice> chase;</l>
+                        <l>But hold, they neither yet have lost the race:</l>
+                        <l>On on they <choice><orig>runne</orig><reg>run</reg></choice>, the youth a third lets fall,</l>
+                        <l>And then Atalanta <choice><orig>yeilds</orig><reg>yields</reg></choice> <choice><orig>herselfe</orig><reg>herself</reg></choice> and all.</l>
+                        <l>Hippomenes the Strength of Sulphur is,</l>
+                        <l><choice><orig>Shee</orig><reg>She</reg></choice> wife of Hermes is <choice><orig>o'recome</orig><reg>overcome</reg></choice> by his:</l>
+                        <l>Who mixing <choice><orig>loue</orig><reg>love</reg></choice> in Cybels sacred place,</l>
+                        <l><choice><orig>Mov'd</orig><reg>Moved</reg></choice> her <choice><orig>chast</orig><reg>chaste</reg></choice> <choice><orig>soule</orig><reg>soul</reg></choice> to wrath by that disgrace,</l>
+                        <l>Transmuting in revenge their <choice><orig>formall</orig><reg>formal</reg></choice> state</l>
+                        <l>Into a <choice><orig>Lyon</orig><reg>Lion</reg></choice> and a <choice><orig>Lyons</orig><reg>Lions</reg></choice> mate.</l>
+                        <l>This princely chase the better to <choice><orig>pourtray</orig><reg>portray</reg></choice>,</l>
+                        <l>My Muse describes it in a triple way,</l>
+                        <l>Depicting first the Speed retarding fruit,</l>
+                        <l>One <choice><orig>runne</orig><reg>run</reg></choice> before, the third in <choice><orig>hott</orig><reg>hot</reg></choice> pursuit:</l>
+                        <l>Your eyes with ease these Emblems may behold,</l>
+                        <l>But reason must the <choice><orig>mysteryes</orig><reg>mysteries</reg></choice> unfold:</l>
+                        <l>These things I've made familiar, that the mind</l>
+                        <l>The treasures here <choice><orig>inclosd</orig><reg>enclosed</reg></choice> may <choice><orig>seeke</orig><reg>seek</reg></choice> and find:</l>
+                        <l>What wealth <choice><orig>i'th</orig><reg>in the</reg></choice> world or health in medicine <choice><orig>lyes</orig><reg>lies</reg></choice></l>
+                        <l>These two united <choice><orig>Lyons</orig><reg>Lions</reg></choice> <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>comprize</orig><reg>comprise</reg></choice>.</l>
+                    </lg>
+                </div>   
+                        
+                
+                <pb n="03"/> 
+                <div type="title" xml:lang="en">
+                    <head>
+                        <lb/><seg rend="italics">Michael Majerus Doctor of <choice><orig>Physicke</orig><reg>Physic</reg></choice>, <choice><orig>Præsident</orig><reg>President</reg></choice> of
+                        <lb/>the <choice><orig>Imperiall</orig><reg>Imperial</reg></choice> Consistory, Knight etc. most humbly
+                        <lb/>offers, presents, and dedicates this testimony (such
+                        <lb/>as it is) of his good will and gratitude to the most
+                        <lb/>magnificent, famous, and most excellent Sena=
+                        <lb break="no"/>tory Order of the <choice><orig>Imperiall</orig><reg>Imperial</reg></choice> <choice><orig>Republicke</orig><reg>Republic</reg></choice> of <pc>--</pc>
+                        <lb/>Mülhause<add>n</add> in Thuringia, consisting of men
+                        <lb/>incomparable for virtue, learning, and <pc>--</pc>
+                        <lb/>true <choice><orig>noblenesse</orig><reg>nobleness</reg></choice> of mind;</seg>
+                    </head>
+                </div>
+                
+                
+                <div type="title" xml:lang="en">
+                    <head>
+                        <lb/><seg rend="italics">as <choice><orig>allso</orig><reg>also</reg></choice>
+                        <lb/>to the most vigilant <choice><orig>Syndicke</orig><reg>Syndic</reg></choice> thereof of Christopher
+                        <lb/>Reinart, a most eminent Doctor of both <choice><orig>lawes</orig><reg>laws</reg></choice>, etc.
+                        <lb/>being all his honored and much esteemed <pc>-</pc>
+                        <lb/><choice><orig>freinds</orig><reg>friends</reg></choice> and Masters</seg>
+                    </head>
+                </div>
+                
+                
+                <div type="discourse" xml:lang="en">
+                    <ab>
+                        <lb/>Most honorable and most prudent Senators!
+                        <lb rend="indent"/>As touching that Tripos <pc>-</pc>
+                        <lb/>given by Vulcan to Pelops the <choice><orig>Bridegroome</orig><reg>Bridegroom</reg></choice> when <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>marryed</orig><reg>married</reg></choice> Hippo
+                        <lb break="no"/>damia the daughter of Oënomaus King of Elis, they report, that, being of
+                        <lb/>singular artifice, it was <choice><orig>againe</orig><reg>again</reg></choice> presented by Pelops to Apollo Pythius at
+                        <lb/>Delphos, upon which oracles were by the inspiration of that God from <pc>-</pc>
+                        <lb/>thenceforth uttered by a Virgin: <choice><orig>Soe</orig><reg>So</reg></choice> this Tripes (curiously wrought by <pc>-</pc>
+                        <lb/>Vulcan) coming to my hand, moved by the example of Pelops, I resolved
+                        <lb/>to present and consecrate it to the most worthy place and order, and in
+                        <lb break="no"/>deed before all others, to your <choice><orig>Honours</orig><reg>Honors</reg></choice> and <choice><orig>Excellencyes</orig><reg>Excellencies</reg></choice>, yet not to the
+                        <lb/>end that Oracles should arise from thence (though they cannot be here ex
+                        <lb break="no"/>pected, but <choice><orig>Chymicall</orig><reg>Chymical</reg></choice> things) but to testify <choice><orig>publickly</orig><reg>publicly</reg></choice> the promptitude and
+                        <lb/>good will of my mind some way towards you, who in your most high <pc>-</pc>
+                        <lb/>and worthy state were some few years since <choice><orig>pleasd</orig><reg>pleased</reg></choice> to declare to <choice><orig>mee</orig><reg>me</reg></choice> <pc>-</pc><note place="margin"><lb/>of blessed me<lb break="no"/>mory<pc>. . .</pc></note>
+                        <lb/>then serving as <choice><orig>Physitian</orig><reg>Physician</reg></choice> to his <choice><orig>Cæsarean</orig><reg>Cesarean</reg></choice> Majesty Rudolph 2.<add>d</add> your opini
+                        <lb/>on thereto relating: after which time I have <choice><orig>allwayes</orig><reg>always</reg></choice>, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>farre</orig><reg>far</reg></choice> as my ability
+                        <lb/>could extend, advanced your virtues abroad not only by words, but have <pc>-</pc>
+                        <lb/><choice><orig>allso</orig><reg>also</reg></choice> been <choice><orig>carefull</orig><reg>careful</reg></choice> and studious how I might actually and more evidently
+                        <lb/>declare and more abundantly discharge my mind to the same, but ap
+                        <lb break="no"/>prehending it could not be done otherwise than by some present of <pc>-</pc>
+                        <lb/>literature, and having taken some pains in this running Atalanta, I was
+                        <lb/>desirous to dedicate it <choice><orig>wholy</orig><reg>wholly</reg></choice>, as it is, to your <choice><orig>Honours</orig><reg>Honors</reg></choice> and <choice><orig>Excellencyes</orig><reg>Excellencies</reg></choice>, <pc>-</pc>
+                        <lb/>herein imitating the writers both of our and former ages, who would <del>ne</del>
+                        <lb break="no"/>never appear in <choice><orig>publick</orig><reg>public</reg></choice> without the conduct of a Scipio, for if they
+                        <lb/>Should have fallen, who could have <choice><orig>help'd</orig><reg>helped</reg></choice> them? I entreat that I
+                        
+                <pb n="04"/>
+                        <lb/>may <choice><orig>terme</orig><reg>term</reg></choice> you the patrons of this little <choice><orig>worke</orig><reg>work</reg></choice>, not that you have exer
+                        <lb break="no"/>cised either hand or mind, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>farre</orig><reg>far</reg></choice> as I know, in this study (for neither <pc>-</pc>
+                        <lb/>have you <choice><orig>soe</orig><reg>so</reg></choice> much leisure from most weighty affairs) but because you <pc>-</pc>
+                        <lb/>seem to <choice><orig>mee</orig><reg>me</reg></choice> able to defend any branch of learning, and as the case stands
+                        <lb/>I have not <choice><orig>mett</orig><reg>met</reg></choice> with any matter more worthy, or more honest, abuse ex
+                        <lb break="no"/>cepted and excluded: let it be what it will, esteem of my <choice><orig>endeavours</orig><reg>endeavors</reg></choice>, not
+                        <lb/>according to the <choice><orig>meanesse</orig><reg>meanness</reg></choice> of the writing, but the candor of my mind, <pc>-</pc>
+                        <lb/>which I am <choice><orig>assurd</orig><reg>assured</reg></choice> of, and for the future receive and register <choice><orig>mee</orig><reg>me</reg></choice> <pc>-</pc>
+                        <lb/>amongst the most <choice><orig>dutifull</orig><reg>dutiful</reg></choice> of your <choice><orig>Honours</orig><reg>Honors</reg></choice> servants. Farewell.
+                        <lb/>
+                        <lb/>Frankfurt ad Mænum
+                        <lb/>1617. August<pc>. . . .</pc>
+                        <lb/>
+                        <lb/><seg rend="italics">The <choice><orig>Præface</orig><reg>Preface</reg></choice> to the Reader.</seg>
+                        <lb/>Candid Reader!
+                        <lb rend="indent"/>It is a truth <choice><orig>denyd</orig><reg>denied</reg></choice> by none that man in his composition
+                        <lb/><choice><orig>repræsents</orig><reg>represents</reg></choice> a compendium of the universe, and is destinated to <choice><orig>liue</orig><reg>live</reg></choice> three kinds
+                        <lb/>of life, namely a vegetable, in his mothers <choice><orig>wombe</orig><reg>womb</reg></choice>, where indeed <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>growes</orig><reg>grows</reg></choice> <pc>-</pc>
+                        <lb/>and is <choice><orig>encreased</orig><reg>increased</reg></choice> like a plant; a sensible, <choice><orig>towitt</orig><reg>to wit</reg></choice> in this world, where for the
+                        <lb/>most part <choice><orig>hee</orig><reg>he</reg></choice> is led by the Senses, as all other <choice><orig>animalls</orig><reg>animals</reg></choice>, from which <choice><orig>hee</orig><reg>he</reg></choice> <pc>-</pc>
+                        <lb/>differs, in beginning to exercise the understanding, though imperfectly; and
+                        <lb/>lastly an intelligible, in the other world with God, and the Intelligences,
+                        <lb/>or good <choice><orig>Angells</orig><reg>Angels</reg></choice> <choice><orig>assistent</orig><reg>assistant</reg></choice> to him; in this life, the nearer a man comes to the
+                        <lb/>divine nature, the more <choice><orig>doth</orig><reg>does</reg></choice> <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>rejoyce</orig><reg>rejoice</reg></choice> and is delighted in searching out <pc>-</pc>
+                        <lb/>things <choice><orig>subtill</orig><reg>subtle</reg></choice> <choice><orig>wonderfull</orig><reg>wonderful</reg></choice> and rare, by the understanding: and on the contrary,
+                        <lb/>the more a man declines and degenerates to a <choice><orig>bestiall</orig><reg>bestial</reg></choice> kind, the <choice><orig>lesse</orig><reg>less</reg></choice> is <choice><orig>hee</orig><reg>he</reg></choice> <pc>-</pc>
+                        <lb/>affected with them, and is bound to a more <choice><orig>corporeall</orig><reg>corporeal</reg></choice> sense.<note place="margin" n="X">
+                        <lb/>X <choice><orig>Wee</orig><reg>We</reg></choice> see examples of either, that some, namely the more learned
+                        <lb/>are adorned with those arts and sciences, but very many addicted to these,
+                        <lb/>that is to say the pleasures of the body, lust, gluttony, <choice><orig>externall</orig><reg>external</reg></choice> <choice><orig>pompe</orig><reg>pomp</reg></choice>,</note> Now to instruct <pc>-</pc>
+                        <lb/>and perfect the understanding God <choice><orig>hath</orig><reg>has</reg></choice> hidden infinite secrets in nature, <pc>-</pc>
+                        <lb/>which are <choice><orig>forc'd</orig><reg>forced</reg></choice> out <subst><del>of</del><add>by</add></subst> innumerable arts and Sciences, as fire out of a flint, <pc>-</pc>
+                        <lb/>and <choice><orig>transferrd</orig><reg>transferred</reg></choice> to use: amongst these <choice><orig>Chymicall</orig><reg>Chymical</reg></choice> secrets are not the mea
+                        <lb break="no"/>nest, but next to the indagation of divine things, the <choice><orig>principall</orig><reg>principal</reg></choice> and most <pc>-</pc>
+                        <lb/><choice><orig>pretious</orig><reg>precious</reg></choice> of all, not to be investigated by circumforaneous impostors, and <pc>-</pc>
+                        <lb/><choice><orig>pseudochymicall</orig><reg>pseudochymical</reg></choice> drones (who in these things are asini ad Lyram, because <pc>-</pc>
+                        <lb/><choice><orig>alltogether</orig><reg>altogether</reg></choice> strangers to all good learning and intention) but by more lofty
+                        <lb/><choice><orig>witts</orig><reg>wits</reg></choice>, generously educated, and <choice><orig>borne</orig><reg>born</reg></choice> to greater things, they being very <choice><orig>sub
+                        <lb break="no"/>till</orig><reg>subtle</reg></choice>, concise, sacred, rare, and abstruse, and therefore to be comprehended
+                        <lb/>by the understanding sooner than by sense, rather by profound contem
+                        
+                        <pb n="05"/><fw><seg rend="italics">the <choice><orig>præface</orig><reg>preface</reg></choice> to the Reader.</seg></fw>
+                        <lb break="no"/>plation upon the reading of authors, and comparing them together, and <pc>-</pc>
+                        <lb/>with the works of nature, than sensitive operation, or <choice><orig>manuall</orig><reg>manual</reg></choice> experi
+                        <lb break="no"/>mentation, which is blind without <choice><orig>prævious</orig><reg>previous</reg></choice> theory: next after such <choice><orig>intellec
+                        <lb break="no"/>tuall</orig><reg>intellectual</reg></choice> sciences as these are reckoned those which treat of a visible and au
+                        <lb break="no"/>dible object, as are <choice><orig>Opticks</orig><reg>Optics</reg></choice>, or perspectives, and Picture, which is by some
+                        <lb/>Poets called mute, as this on the contrary a speaking picture, as <choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>Mu
+                        <lb break="no"/>sicke</orig><reg>Music</reg></choice>, whether <choice><orig>vocall</orig><reg>vocal</reg></choice>, or <choice><orig>instrumentall</orig><reg>instrumental</reg></choice>: herein the ancient Philosophers <pc>-</pc>
+                        <lb/>did <choice><orig>soe</orig><reg>so</reg></choice> exercise themselves, that <choice><orig>hee</orig><reg>he</reg></choice> was reputed unlearned, and <choice><orig>forcd</orig><reg>forced</reg></choice>
+                        <lb/>to sing to the Myrtle, who refused the Harp in <choice><orig>festivalls</orig><reg>festivals</reg></choice>, as is declared of
+                        <lb/>Themistocles: in <choice><orig>Musicke</orig><reg>Music</reg></choice> was Socrates instructed, and Plato <choice><orig>himselfe</orig><reg>himself</reg></choice>, who
+                        <lb/>concluded him not harmoniously compounded, that delighted not in <choice><orig>Musicall</orig><reg>Musical</reg></choice>
+                        <lb/>harmony: Pythagoras was very famous in the same, who is <choice><orig>sayd</orig><reg>said</reg></choice> to have used
+                        <lb/>the symphony of <choice><orig>musicke</orig><reg>music</reg></choice> morning, and evening to compose the minds of
+                        <lb/>his disciples: for this is a peculiar virtue of <choice><orig>Musicke</orig><reg>Music</reg></choice>, to quicken or refresh the
+                        <lb/>affections by the different <choice><orig>musicall</orig><reg>musical</reg></choice> measures: <choice><orig>Soe</orig><reg>So</reg></choice> the Phrygian tune was <pc>-</pc>
+                        <lb/>by the <choice><orig>Græks</orig><reg>Greeks</reg></choice> termed <choice><orig>warrlike</orig><reg>warlike</reg></choice>, because it was sung in <choice><orig>warre</orig><reg>war</reg></choice>, and upon en
+                        <lb break="no"/>gagement, and had a singular virtue in stirring up the Spirits of the <pc>-</pc>
+                        <lb/>Soldiers; instead of which the <choice><orig>Jonicke</orig><reg>Ionic</reg></choice> is sometimes used for the same pur
+                        <lb break="no"/>pose, which was formerly esteemed amatory (as the Phrygian is <subst><del>sometimes</del><add>now</add></subst> re
+                        <lb break="no"/>puted) from which <choice><orig>wee</orig><reg>we</reg></choice> gather tunes <choice><orig>changd</orig><reg>changed</reg></choice> one with another: it is <choice><orig>sayd</orig><reg>said</reg></choice> that
+                        <lb/>Timothy Milese used the Phrygian to make Alexander the great more <pc>-</pc>
+                        <lb/><choice><orig>Spritefull</orig><reg>Spriteful</reg></choice> and <choice><orig>couragious</orig><reg>courageous</reg></choice> in warlike <choice><orig>affaires</orig><reg>affairs</reg></choice>, which Cicero takes notice of 2.
+                        <lb/>de legibus, but Terpander Lesbius of the <choice><orig>Jonicke</orig><reg>Ionic</reg></choice>; who being sent for by <pc>-</pc>
+                        <lb/>the <choice><orig>Lacedæmonians</orig><reg>Lacedamonians</reg></choice>, seditious then raging among them, did by the <choice><orig>sweet
+                        <lb break="no"/>nesse</orig><reg>sweetness</reg></choice> of singing <choice><orig>soe</orig><reg>so</reg></choice> titillate and affect their minds, that they returned <pc>-</pc>
+                        <lb/>into <choice><orig>freindship</orig><reg>friendship</reg></choice>, and desisted from sedition: upon which consideration the
+                        <lb/>Lesbian singers were <choice><orig>allwayes</orig><reg>always</reg></choice> <choice><orig>præferrd</orig><reg>preferred</reg></choice> in the judgment of the Spartans: <pc>-</pc>
+                        <lb/>Fabius <choice><orig>sayth</orig><reg>says</reg></choice> thus of <choice><orig>Musicke</orig><reg>Music</reg></choice>: <choice><orig>Musicke</orig><reg>Music</reg></choice> is an honest and pleasant recrea
+                        <lb break="no"/>tion most proper for generous <choice><orig>witts</orig><reg>wits</reg></choice>: that therefore <choice><orig>wee</orig><reg>we</reg></choice> might have these <pc>-</pc>
+                        <lb/>three objects of the more <choice><orig>spirituall</orig><reg>spiritual</reg></choice> senses, namely <choice><orig>seing</orig><reg>seeing</reg></choice> and hearing, as <pc>-</pc>
+                        <lb/><choice><orig>allso</orig><reg>also</reg></choice> the understanding <choice><orig>itselfe</orig><reg>itself</reg></choice>, as it were in one view and embrace, and
+                        <lb/>insinuate all at once into mens minds for the better understanding thereof,
+                        <lb/>behold <choice><orig>wee</orig><reg>we</reg></choice> have <choice><orig>joyned</orig><reg>joined</reg></choice> the <choice><orig>Opticke</orig><reg>Optic</reg></choice> together with <choice><orig>Musicke</orig><reg>Music</reg></choice>, and sense <pc>-</pc>
+                        <lb/>with the understanding, that is, things rare to be seen and heard of with
+                        <lb/><choice><orig>Chymicall</orig><reg>Chymical</reg></choice> emblems, which are peculiar to this Science: for all other arts,
+                        <lb/>if they represent emblems of manners, or other things, than of the secrets
+                        <lb/>of nature, this seems different from their scope and end, they being <pc>-</pc>
+                        <lb/>willing and requisite to be understood by all men; <choice><orig>Chymy</orig><reg>Chemia</reg></choice> not <choice><orig>soe</orig><reg>so</reg></choice>, <pc>-</pc>
+                        <lb/>which as a <choice><orig>chast</orig><reg>chaste</reg></choice> virgin ought to be seen through a <choice><orig>veile</orig><reg>veil</reg></choice>, and as Diana,
+                        <lb/>not without a garment of various <choice><orig>colours</orig><reg>colors</reg></choice>, for reasons <choice><orig>elswhere</orig><reg>elsewhere</reg></choice> expres
+                        <lb break="no"/>sed: I say, these <choice><orig>foure</orig><reg>four</reg></choice> <choice><orig>emblematicall</orig><reg>emblematical</reg></choice>, feigned, <choice><orig>poeticall</orig><reg>poetical</reg></choice> and <choice><orig>allegoricall</orig><reg>allegorical</reg></choice>, pic
+                        <lb break="no"/>ted notions, graved in Venus or Copper, not without Venus or elegancy; most
+                        <lb/>abstruse <choice><orig>Chymicall</orig><reg>Chymical</reg></choice> things, and lastly most rare <choice><orig>Musicall</orig><reg>Musical</reg></choice> things to be enu
+                        <lb break="no"/>cleated by the understanding, you have <choice><orig>alltogether</orig><reg>altogether</reg></choice> in one <choice><orig>booke</orig><reg>book</reg></choice>, and may
+                        <lb/>as designed apply them to your <choice><orig>owne</orig><reg>own</reg></choice> use, which if it be more <choice><orig>intel
+                        
+                        <pb n="06"/><fw><seg rend="italics">the <choice><orig>præface</orig><reg>preface</reg></choice> to the Reader.</seg></fw>
+                        <lb break="no"/>lectuall</orig><reg>intellectual</reg></choice>, than <choice><orig>sensuall</orig><reg>sensual</reg></choice>, the more profitable and <choice><orig>delightfull</orig><reg>delightful</reg></choice> will it be in time:
+                        <lb/>but if it be first in bondage to the sense, there is <choice><orig>noe</orig><reg>no</reg></choice> doubt but there will <pc>-</pc>
+                        <lb/>be a passage from the sense to the understanding as by a <choice><orig>doore</orig><reg>door</reg></choice>: for nothing is
+                        <lb/><choice><orig>sayd</orig><reg>said</reg></choice> to be in the understanding, which had not admission by some sense, <pc>-</pc>
+                        <lb/>the understanding of a man new <choice><orig>borne</orig><reg>born</reg></choice> being <choice><orig>supposd</orig><reg>supposed</reg></choice> as a smooth table, <pc>-</pc>
+                        <lb/>wherein nothing is as yet written, but any thing may be written by the <pc>-</pc>
+                        <lb/><choice><orig>helpe</orig><reg>help</reg></choice> of sense, as a Style: and it is <choice><orig>coḿonly</orig><reg>commonly</reg></choice> <choice><orig>sayd</orig><reg>said</reg></choice>, there is <choice><orig>noe</orig><reg>no</reg></choice> desire of a
+                        <lb/>thing <choice><orig>unknowne</orig><reg>unknown</reg></choice>, because the senses being inquisitors and messengers must
+                        <lb/>first convey, and as warders <add>the instruments of a <choice><orig>citty</orig><reg>city</reg></choice></add> watching at the gates <subst><del>(their organs) of <choice><orig>citty</orig><reg>city</reg></choice></del><add>thereof</add></subst>
+                        <lb/><choice><orig>informe</orig><reg>inform</reg></choice> and impart everything that is to be <choice><orig>knowne</orig><reg>known</reg></choice>, to the understanding,
+                        <lb/>as the dictator and arbiter. As to the reason of engraving these Emblems,
+                        <lb/>lest even they may seem monstrous and incongruous to you, I will add a few
+                        <lb/>things: Atalanta is renowned by the Poets for <add>speed in</add> running, in which exercise
+                        <lb/><choice><orig>shee</orig><reg>she</reg></choice> surpassed all her suitors, and therefore, the reward of victory being
+                        <lb/>propounded, death ensued to those <subst><del>being</del><add>that were</add></subst> <choice><orig>overrunne</orig><reg>overrun</reg></choice> by the Virgin, till <choice><orig>Shee</orig><reg>She</reg></choice>
+                        <lb/><choice><orig>herselfe</orig><reg>herself</reg></choice> was overcome by Hippomenes, a youth <subst><del>more</del><add>very</add></subst> hardy and circumspect,
+                        <lb/>casting three golden apples at <add>three</add> <choice><orig>severall</orig><reg>several</reg></choice> times in her way, which taking up,
+                        <lb/><choice><orig>Shee</orig><reg>She</reg></choice> was in the <choice><orig>meane</orig><reg>mean</reg></choice> time outgone by him, being now near and touching <pc>-</pc>
+                        <lb/>the <choice><orig>goale</orig><reg>goal</reg></choice>: as this Atalanta <choice><orig>runns</orig><reg>runs</reg></choice>, <choice><orig>soe</orig><reg>so</reg></choice> one <choice><orig>Musicall</orig><reg>Musical</reg></choice> note <choice><orig>allwayes</orig><reg>always</reg></choice> <choice><orig>runns</orig><reg>runs</reg></choice> before
+                        <lb/><hi rend="superscript">1</hi>another, <hi rend="superscript">6</hi>as <hi rend="superscript">7</hi>Hippomenes, <hi rend="superscript">2</hi>and <hi rend="superscript">3</hi>the <hi rend="superscript">4</hi>other <hi rend="superscript">5</hi><choice><orig>followes</orig><reg>follows</reg></choice>: <hi rend="superscript">8</hi>yet they are established and
+                        <lb/>confirmed in a third, which is single and of one vali<add>dity</add>, as a golden apple:
+                        <lb/>This same virgin is merely <choice><orig>Chymicall</orig><reg>Chymical</reg></choice>, namely <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> Mercury <pc>-</pc>
+                        <lb/>fixed in flight and restrained by the golden Sulphur, <note place="margin" n="x"> <note type="GE">symbol for alchemical Mercury</note> </note>which if a man <pc>-</pc>
+                        <lb/>know how to make stand, <choice><orig>hee</orig><reg>he</reg></choice> will have that Spouse which <choice><orig>hee</orig><reg>he</reg></choice> desires, if <pc>-</pc>
+                        <lb/>not, destruction and <choice><orig>ruine</orig><reg>ruin</reg></choice> of his <choice><orig>affaires</orig><reg>affairs</reg></choice>: From Hippomenes and Atalanta
+                        <lb/>lying together in the temple of the mother of the Gods, that is, a <choice><orig>vessell</orig><reg>vessel</reg></choice>, <pc>-</pc>
+                        <lb/>are <choice><orig>Lyons</orig><reg>Lions</reg></choice> produced, or they acquire a red <choice><orig>colour</orig><reg>color</reg></choice>: This virgin <choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>obtaind</orig><reg>obtained</reg></choice>
+                        <lb/>a victory before men, killing a <choice><orig>certaine</orig><reg>certain</reg></choice> boar of notable <choice><orig>bignesse</orig><reg>bigness</reg></choice>, for which
+                        <lb/><choice><orig>Shee</orig><reg>She</reg></choice> was rewarded by Meleager: Striking a <choice><orig>rocke</orig><reg>rock</reg></choice> at Stethæus the temple
+                        <lb/>of <choice><orig>Æsculapius</orig><reg>Aesculapius</reg></choice> <choice><orig>Shee</orig><reg>She</reg></choice> brought forth water, <subst><del>which</del><add>whereof</add></subst> being thirsty, <choice><orig>Shee</orig><reg>She</reg></choice> <choice><orig>dranke</orig><reg>drank</reg></choice>:
+                        <lb/>which things being <choice><orig>truely</orig><reg>truly</reg></choice> <choice><orig>allegoricall</orig><reg>allegorical</reg></choice> and <choice><orig>emblematicall</orig><reg>emblematical</reg></choice>, and <choice><orig>noe</orig><reg>no</reg></choice> way
+                        <lb/><choice><orig>historicall</orig><reg>historical</reg></choice>, I was willing that this intellectual <choice><orig>emblematicall</orig><reg>emblematical</reg></choice> treatise <pc>-</pc>
+                        <lb/>Should indigitate and take notice of them in commemoration of this noble
+                        <lb/><choice><orig>Heroesse</orig><reg>Heroine</reg></choice>, especially the apples cast before her being taken out of the <pc>-</pc>
+                        <lb/>Hesperian gardens, and <choice><orig>administred</orig><reg>administered</reg></choice> to Hippomenes by Venus, the <choice><orig>Goddesse</orig><reg>Goddess</reg></choice>
+                        <lb/>of <choice><orig>favour</orig><reg>favor</reg></choice> and <choice><orig>sweetnesse</orig><reg>sweetness</reg></choice>: in those <choice><orig>Musicall</orig><reg>Musical</reg></choice> measures or flights you see <pc>-</pc>
+                        <lb/>this observed, that every <choice><orig>disticke</orig><reg>distich</reg></choice> being conveniently adapted to those three
+                        <lb/><choice><orig>voyces</orig><reg>voices</reg></choice> may be <choice><orig>expressd</orig><reg>expressed</reg></choice> in singing, in which <choice><orig>soe</orig><reg>so</reg></choice> many <choice><orig>varietyes</orig><reg>varieties</reg></choice> of flights
+                        <lb/>being <choice><orig>accomodated</orig><reg>accommodated</reg></choice> to one single <choice><orig>voyce</orig><reg>voice</reg></choice>, every wise and intelligent man will
+                        <lb/><choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>thinke</orig><reg>think</reg></choice> well of this kind of <choice><orig>emblematicall</orig><reg>emblematical</reg></choice> figuration in them, as <pc>-</pc>
+                        <lb/><choice><orig>allso</orig><reg>also</reg></choice> the adaptation in the <choice><orig>disticks</orig><reg>distichs</reg></choice> to every <choice><orig>voyce</orig><reg>voice</reg></choice>: for if some Merchants
+                        <lb/><choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>esteeme</orig><reg>esteem</reg></choice> and buy an artifice of picture with a great <choice><orig>summe</orig><reg>sum</reg></choice> of money,
+                        <lb/>where the eyes alone are deceived, they judging it very near to nature, <pc>-</pc>
+                        <lb/>why should not the learned have these figures in good estimation <pc>-</pc>
+                    
+                        <pb n="07"/><fw><seg rend="italics">the <choice><orig>præface</orig><reg>preface</reg></choice> to the Reader.</seg></fw>
+                        <lb/>which are <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>usefull</orig><reg>useful</reg></choice> and serviceable both to the understanding and
+                        <lb/>many of the senses, that great utility besides delight and recreation <pc>-</pc>
+                        <lb/>may be expected from them? Farewell<pc>. . . . . . .</pc>
+                    </ab>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
+

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="emblem" n="e18"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+                <pb n="59"/><!-- Change to page number of the actual manuscript -->
+                
+                
+                <div type="title" xml:lang="en">
+                    <head>
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 18. Of the Secrets of Nature.
+                        <lb/>Fire loves to <choice><orig>burne</orig><reg>burn</reg></choice>, not to aurify, but gold.</seg>
+                    </head>
+                </div>
+                
+                
+                <div type="epigram" xml:lang="en">
+                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 18.</head>
+                    <lg>
+                        <l>All Natures agents <choice><orig>doe</orig><reg>do</reg></choice> their seed diffuse,</l>
+                        <l>That thus they may their species produce:</l>
+                        <l><choice><orig>Soe</orig><reg>So</reg></choice> fire makes all things fire, nor ever was</l>
+                        <l>A true effect without its proper cause:</l>
+                        <l>Gold generates <choice><orig>noe</orig><reg>no</reg></choice> fire, fire <choice><orig>noe</orig><reg>no</reg></choice> gold indeed;</l>
+                        <l>All things are propagated by their seed.</l>
+                    </lg>
+                </div>
+                
+                
+                <pb n="60"/> <!-- Change to page number of the actual manuscript -->
+                <div type="discourse" xml:lang="en">
+                    <head rend="italics">Discourse 18.</head>
+                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+                        <lb/>Natures way of operating in all <choice><orig>individualls</orig><reg>individuals</reg></choice> of the universe is to use one<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>single <choice><orig>processe</orig><reg>process</reg></choice> to complete and perfect one single motion, as appears in the
+                        <lb/>Anatomy of mans body, in which one muscle serves <choice><orig>onely</orig><reg>only</reg></choice> for one motion, <pc>-</pc>
+                        <lb/>that is, the attractive, but for the expansive another opposite to the first, <choice><orig>soe</orig><reg>so</reg></choice>
+                        <lb/>that if any part or member be to be brought into a circular <choice><orig>forme</orig><reg>form</reg></choice>, it must
+                        <lb/>be effected by various muscles placed circle<pc rend="double-hyphen">-</pc>wise: <choice><orig>soe</orig><reg>so</reg></choice> the operation of fire <pc>-</pc>
+                        <lb/>is one and single, that is to say, to heat and fire, yea assimilate to <choice><orig>itselfe</orig><reg>itself</reg></choice>, and
+                        <lb/><choice><orig>burne</orig><reg>burn</reg></choice> all things, to which it is <choice><orig>applyed</orig><reg>applied</reg></choice>, if they be combustible: Hereupon <pc>-</pc>
+                        <lb/><choice><orig>Sayth</orig><reg>Says</reg></choice> Avicenne in his <choice><orig>booke</orig><reg>book</reg></choice> of the congelation of stones: That which falls into <choice><orig>Salt
+                        <lb break="no"/>pitts</orig><reg>Saltpits</reg></choice>, becomes Salt, and that which into fire, becomes fire, but somethings sooner, <pc>-</pc>
+                        <lb/>some Slower, according to the power of <choice><orig>atives</orig><reg>actives</reg></choice>, and the <choice><orig>resistence</orig><reg>resistance</reg></choice> of passives: And <pc>-</pc>
+                        <lb/>there is a place in Arabia, which <choice><orig>coloureth</orig><reg>colors</reg></choice> all <choice><orig>bodyes</orig><reg>bodies</reg></choice> in it of its <choice><orig>owne</orig><reg>own</reg></choice> <choice><orig>colour</orig><reg>color</reg></choice>: <choice><orig>Soe</orig><reg>So</reg></choice>
+                        <lb/>every <choice><orig>naturall</orig><reg>natural</reg></choice> thing <choice><orig>possesseth</orig><reg>possesses</reg></choice> the virtue <choice><orig>infusd</orig><reg>infused</reg></choice> into it by nature, by which
+                        <lb/>it acts upon things <choice><orig>mixd</orig><reg>mixed</reg></choice> or <choice><orig>applyed</orig><reg>applied</reg></choice> to it, assimilating and altering their nature
+                        <lb/>and <choice><orig>forme</orig><reg>form</reg></choice>: That which is generation in vegetables and <choice><orig>animalls</orig><reg>animals</reg></choice> by the pro
+                        <lb break="no"/>pagation of seeds, is the infusion of virtue and assimilation in single <choice><orig>bodyes</orig><reg>bodies</reg></choice> <pc>-</pc>
+                        <lb/>or singly <choice><orig>mixd</orig><reg>mixed</reg></choice>: the <choice><orig>Sunne</orig><reg>Sun</reg></choice>, the light of heaven, projects its <choice><orig>rayes</orig><reg>rays</reg></choice> upon the
+                        <lb/>earth, which, being gathered together in concavous or burning glasses, <choice><orig>doe</orig><reg>do</reg></choice> demon
+                        <lb break="no"/>strate themselves to be produced from such a cause, as to appear to be the <pc>-</pc>
+                        <lb/>projectible <choice><orig>formes</orig><reg>forms</reg></choice> of the <choice><orig>Sunne</orig><reg>Sun</reg></choice>: Whereby it is manifest that the <choice><orig>rayes</orig><reg>rays</reg></choice> of the
+                        <lb/><choice><orig>Sunne</orig><reg>Sun</reg></choice> are nothing <choice><orig>els</orig><reg>else</reg></choice>, but a fiery flame extended and dispersed into an ample
+                        <lb/>latitude, which being dilated and <choice><orig>againe</orig><reg>again</reg></choice> contracted by concavous, diaphanous <pc>-</pc>
+                        <lb/>and circular or repercussive instruments, <choice><orig>doth</orig><reg>does</reg></choice> in concavous and <choice><orig>steele</orig><reg>steel</reg></choice> mirrors
+                        <lb/>Shine as a flame, and <choice><orig>burne</orig><reg>burn</reg></choice> things obvious to it: after the same manner, a <pc>-</pc>
+                        <lb/><choice><orig>certaine</orig><reg>certain</reg></choice> virtue is as a <choice><orig>vapour</orig><reg>vapor</reg></choice> dispersed in a <choice><orig>certaine</orig><reg>certain</reg></choice> elemented body, which,
+                        <lb/>if it be gathered together, and attracted into one, <choice><orig>turnes</orig><reg>turns</reg></choice> into water, and that
+                        <lb/>water into earth: For this reason <choice><orig>sayth</orig><reg>says</reg></choice> Avicenne in the <choice><orig>booke</orig><reg>book</reg></choice> before <choice><orig>alleadged</orig><reg>alleged</reg></choice>,
+                        <lb/>Earth is made of water, when the <choice><orig>qualityes</orig><reg>qualities</reg></choice> of earth overcome it, and <choice><orig>soe</orig><reg>so</reg></choice> on
+                        <lb/>the contrary: But there is a <choice><orig>certaine</orig><reg>certain</reg></choice> thing, which some ingenious men <choice><orig>doe</orig><reg>do</reg></choice>
+                        <lb/>use when they have a mind to coagulate a dry substance, which is com
+                        <lb break="no"/>pounded of two waters, and is called Lac virginis, which is the most <choice><orig>certaine</orig><reg>certain</reg></choice> <pc>-</pc>
+                        <lb/>effect of it: thus <choice><orig>Sayth</orig><reg>Says</reg></choice> <choice><orig>hee</orig><reg>he</reg></choice>: Some <del><unclear reason="illegible">are</unclear></del> there are that assure themselves <pc>-</pc>
+                        <lb/>able to increase or multiply virtues in the Load<pc rend="double-hyphen">-</pc>stone, as the like <choice><orig>wee</orig><reg>we</reg></choice> have
+                        <lb/>seen <choice><orig>sett</orig><reg>set</reg></choice> in Silver, which being scarce one pound weight attracted and held up an
+                        <lb/>iron anchor of 28 pounds, which would have been impossible, if the virtue <pc>-</pc>
+                        <lb/>had not been <choice><orig>increasd</orig><reg>increased</reg></choice> and made stronger in it, which without doubt was <pc>-</pc>
+                        <lb/>done by revocation of the dispersed virtues as it were into one point or pole, <pc>-</pc>
+                        <lb/>or by the attraction of the same out of a great body into a <choice><orig>lesse</orig><reg>less</reg></choice>: Others are
+                        <lb/>found, who say that a plumbifying Stone may be made by the Sulphurous
+                        <lb/>breath of <choice><orig>Saturne</orig><reg>Saturn</reg></choice>, infused and retained, till it be thereby converted into
+                        <lb/><choice><orig>coḿon</orig><reg>common</reg></choice> Mercury, which continually converts <choice><orig>coḿon</orig><reg>common</reg></choice> Mercury into lead. <pc>-</pc>
+                        <lb/>Some boast that they can by Antimony, or the stellated Regulus there
+                        <lb break="no"/>of make Copper from the fume of Copper, in that time wherein a <pc>-</pc>
+                        <lb/>man may eat an <choice><orig>egge</orig><reg>egg</reg></choice>, yea that they have made all <choice><orig>metalls</orig><reg>metals</reg></choice>: but
+                        <lb/>I will not detract from their reputation, though to <choice><orig>mee</orig><reg>me</reg></choice> it seems not
+                        
+                        
+                        
+                        <pb n="61"/><!-- changed from orig 6i --><fw rend="italics">Discourse 18.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <lb/>likely to be true: I know not whether they are more confident or <pc>-</pc>
+                        <lb/><choice><orig>successefull</orig><reg>successful</reg></choice>, who <choice><orig>endeavour</orig><reg>endeavor</reg></choice> to deduce gold from gold, according to the
+                        <lb/>saying of the golden <choice><orig>Poett</orig><reg>Poet</reg></choice>: <choice><orig>Hee</orig><reg>He</reg></choice> that desires barley <choice><orig>sowes</orig><reg>sows</reg></choice> <choice><orig>onely</orig><reg>only</reg></choice> barley,
+                        <lb/>in gold is the seed of gold: Every <choice><orig>naturall</orig><reg>natural</reg></choice> thing <choice><orig>hath</orig><reg>has</reg></choice> indeed a <choice><orig>certaine</orig><reg>certain</reg></choice>
+                        <lb/>virtue of multiplying <choice><orig>itselfe</orig><reg>itself</reg></choice>, but these things are brought into action
+                        <lb/>in Vegetables and <choice><orig>animalls</orig><reg>animals</reg></choice> <choice><orig>onely</orig><reg>only</reg></choice>, not at all in <choice><orig>Metalls</orig><reg>Metals</reg></choice>, <choice><orig>Mineralls</orig><reg>Minerals</reg></choice>, things
+                        <lb/><choice><orig>dugge</orig><reg>dug</reg></choice> out of the earth, or Meteors: Some plants sprung from a small
+                        <lb/><choice><orig>graine</orig><reg>grain</reg></choice> of seed <choice><orig>doe</orig><reg>do</reg></choice> oftentimes <choice><orig>yeild</orig><reg>yield</reg></choice> a thousand or more grains of seed,
+                        <lb/>and <choice><orig>soe</orig><reg>so</reg></choice> multiply and propagate themselves, and that yearly; <choice><orig>Ani
+                        <lb break="no"/>malls</orig><reg>Animals</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> have their Products of greater or <choice><orig>lesse</orig><reg>less</reg></choice> number, according <pc>-</pc>
+                        <lb/>to the nature of every one: But gold, Silver, lead, <choice><orig>tinne</orig><reg>tin</reg></choice>, iron, copper, or
+                        <lb/>Argent vive are never found to have <choice><orig>multiplyd</orig><reg>multiplied</reg></choice> themselves or their species <pc>-</pc>
+                        <lb/>after that manner, though one may be very often found commuted and
+                        <lb/>nobilitated into another: <choice><orig>Neverthelesse</orig><reg>Nevertheless</reg></choice> the Philosophers <choice><orig>affirme</orig><reg>affirm</reg></choice> that the
+                        <lb/>principle of ignifying is in fire, <choice><orig>soe</orig><reg>so</reg></choice> of aurifying in gold: but where is
+                        <lb/>the tincture, by which gold must be made? This must be sought in <pc>-</pc>
+                        <lb/>its owne principles and generations, not in things of another nature: For
+                        <lb/>if fire <choice><orig>produceth</orig><reg>produces</reg></choice> fire, a Pear a Pear, a horse a horse, then lead must
+                        <lb/>generate lead and not Silver, gold gold and not the tincture: Moreover
+                        <lb/>the Philosophers have a peculiar gold, which they <choice><orig>doe</orig><reg>do</reg></choice> not <choice><orig>onely</orig><reg>only</reg></choice> not <pc>-</pc>
+                        <lb/>deny that it ought (but <choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>affirme</orig><reg>affirm</reg></choice> it necessarily requisite) to be <pc>-</pc>
+                        <lb/>added to the <choice><orig>aurificke</orig><reg>aurific</reg></choice> Stone as a ferment as the end of the <choice><orig>worke</orig><reg>work</reg></choice>. The
+                        <lb/>ferment, converting the thing fermented into its <choice><orig>owne</orig><reg>own</reg></choice> nature, without
+                        <lb/>which the whole composition would never come to perfection<pc>. . . .</pc>
+                    </ab>   
+                </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
+

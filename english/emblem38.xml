@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="emblem" n="e38"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+                <pb n="119"/><!-- Change to page number of the actual manuscript -->
+                
+                
+                <div type="title" xml:lang="en">
+                    <head>
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 38. Of the Secrets of Nature.
+                        <lb/>Rebis is, as Hermaphroditus, produced from the two moun
+                        <lb break="no"/>tains of Mercury and Venus.</seg>
+                    </head>
+                </div>
+                
+                
+                <div type="epigram" xml:lang="en">
+                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 38.</head>
+                    <lg>
+                        <l>Rebis is by the Ancients calld a <choice><orig>Twinne</orig><reg>Twin</reg></choice>,</l>
+                        <l>Containing male and female sex therein:</l>
+                        <l>For Hermes and Venus their Hermaphrodite</l>
+                        <l>Is in two mountains <choice><orig>sayd</orig><reg>said</reg></choice> to have birthright.</l>
+                        <l>A double sex despite not, for a King</l>
+                        <l>Will from the <choice><orig>selfe</orig><reg>self</reg></choice> same man and woman spring.</l>
+                    </lg>
+                </div>
+                
+                
+                <pb n="120"/> <!-- Change to page number of the actual manuscript -->
+                <div type="discourse" xml:lang="en">
+                    <head rend="italics">Discourse 38.</head>
+                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+                        <lb/>Socrates being demanded what Country man <choice><orig>hee</orig><reg>he</reg></choice> was, answered a <pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>Citizen of the world: by which his intention was to signify, that though
+                        <lb/><choice><orig>hee</orig><reg>he</reg></choice> was <choice><orig>borne</orig><reg>born</reg></choice> at Athens as to person, yet in mind <choice><orig>hee</orig><reg>he</reg></choice> freely beheld <pc>-</pc>
+                        <lb/>the whole world, as his Country, and the things therein contained, <pc>-</pc>
+                        <lb/>the whole earth being a wise mans Country, where <choice><orig>hee</orig><reg>he</reg></choice> lives well: <pc>-</pc>
+                        <lb/><choice><orig>Soe</orig><reg>So</reg></choice> if any one <choice><orig>aske</orig><reg>ask</reg></choice> the Philosophers what Countryman their <pc>-</pc>
+                        <lb/>Hermaphrodite is, they answer, <choice><orig>hee</orig><reg>he</reg></choice> belongs to the world, or is in all <pc>-</pc>
+                        <lb/>corners of the world, where the Elements can be found, as the <choice><orig>Sonne</orig><reg>Son</reg></choice>
+                        <lb/>of the wise, who <choice><orig>hath</orig><reg>has</reg></choice> a country <choice><orig>coḿon</orig><reg>common</reg></choice> with them: But <choice><orig>seing</orig><reg>seeing</reg></choice> that
+                        <lb/>it happens not that any man is <choice><orig>borne</orig><reg>born</reg></choice> twice or oftener, nor first enters
+                        <lb/>this light in <choice><orig>severall</orig><reg>several</reg></choice> but in one place, as Socrates is owned to be an <pc>-</pc>
+                        <lb/>Athenian, <choice><orig>soe</orig><reg>so</reg></choice> is Rebis reputed an inhabiter of two mountains, that is,
+                        <lb/>Mercury and Venus, from whence <choice><orig>allso</orig><reg>also</reg></choice> the name of Hermaphrodite <pc>-</pc>
+                        <lb/>given him by both parents; a noble and large country is indeed <choice><orig>noe</orig><reg>no</reg></choice> <pc>-</pc>
+                        <lb/>small <choice><orig>helpe</orig><reg>help</reg></choice> to <choice><orig>doe</orig><reg>do</reg></choice> things excellently well, in which Citizens are <choice><orig>præ
+                        <lb break="no"/>ferrd</orig><reg>preferred</reg></choice> before <choice><orig>forreigners</orig><reg>foreigners</reg></choice>, and promoted to <choice><orig>publicke</orig><reg>public</reg></choice> offices, that they
+                        <lb/>may not <choice><orig>lye</orig><reg>lie</reg></choice> in obscurity (as it happens in a <choice><orig>meane</orig><reg>mean</reg></choice> place, and <choice><orig>soe</orig><reg>so</reg></choice>
+                        <lb/>something of light come to them from the country) but <choice><orig>Shew</orig><reg>Show</reg></choice> them
+                        <lb break="no"/>selves rather with their <choice><orig>owne</orig><reg>own</reg></choice> virtues, even in the small <choice><orig>affaires</orig><reg>affairs</reg></choice> of
+                        <lb/>a house, and give light themselves to their <choice><orig>owne</orig><reg>own</reg></choice> country: After this
+                        <lb/>manner these mountains <choice><orig>unknowne</orig><reg>unknown</reg></choice> to many men <choice><orig>doe</orig><reg>do</reg></choice> acquire fame
+                        <lb/>from the Hermaphrodite by reason of his illustrious actions, and name
+                        <lb/>famous throughout the whole world. For who though never <choice><orig>soe</orig><reg>so</reg></choice> <pc>-</pc>
+                        <lb/>little versed in the Philosophers <choice><orig>bookes</orig><reg>books</reg></choice> <choice><orig>hath</orig><reg>has</reg></choice> not <choice><orig>knowne</orig><reg>known</reg></choice> Rebis? <pc>-</pc>
+                        <lb/>Who <choice><orig>hath</orig><reg>has</reg></choice> not seen or beheld <choice><orig>Androgynus</orig><reg>Androgynous</reg></choice> with two heads? <choice><orig>Hee</orig><reg>He</reg></choice> verily
+                        <lb/>has been <choice><orig>knowne</orig><reg>known</reg></choice> to the <choice><orig>Indyes</orig><reg>Indies</reg></choice> themselves, and his fame <choice><orig>hath</orig><reg>has</reg></choice> been <pc>-</pc>
+                        <lb/>dispersed farther, than the fame even of King Alexander: Many <pc>-</pc>
+                        <lb/>men <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>travell</orig><reg>travel</reg></choice> out of <choice><orig>farre</orig><reg>far</reg></choice> <choice><orig>countryes</orig><reg>countries</reg></choice> to see and discourse some
+                        <lb/>learned man, or otherwise <choice><orig>remarkeable</orig><reg>remarkable</reg></choice> for singular military in
+                        <lb break="no"/>dustry, art or science, but many more will betake themselves to <pc>-</pc>
+                        <lb/>the <choice><orig>sayd</orig><reg>said</reg></choice> Mountains of Rebis, provided they can <choice><orig>learne</orig><reg>learn</reg></choice> where <pc>-</pc>
+                        <lb/>they may be found: With how great study and care did Morienus <pc>-</pc>
+                        <lb/>being departed from Rome <choice><orig>seeke</orig><reg>seek</reg></choice> and at length find Adferus Alexan
+                        <lb break="no"/>drinus, <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>himselfe</orig><reg>himself</reg></choice> declares in his <choice><orig>booke</orig><reg>book</reg></choice>, and therefore was to be <pc>-</pc>
+                        <lb/>esteemed more happy, and acceptable to God, in that <choice><orig>hee</orig><reg>he</reg></choice> had from a <pc>-</pc>
+                        <lb/>living teacher, and not from <choice><orig>dumbe</orig><reg>dumb</reg></choice> masters learnt, and beheld this
+                        <lb/>thing, that is, the native place of Rebis; <choice><orig>noe</orig><reg>no</reg></choice> <choice><orig>lesse</orig><reg>less</reg></choice> assiduity and <pc>-</pc>
+                        <lb/>diligence ought they to use, who <choice><orig>seeke</orig><reg>seek</reg></choice> the country of Rebis by <pc>-</pc>
+                        <lb/>themselves, being informed by reason, and the documents of books:
+                        <lb/>But though some books may sometimes seem to be clear and conspi
+                        
+                        
+                        
+                        <pb n="121"/><fw rend="italics">Discourse 38.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <lb break="no"/>cuous, yet they are <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>veild</orig><reg>veiled</reg></choice> and clouded with intricacy and ob
+                        <lb break="no"/>scurity, that by reason thereof it is very difficult to make distinction:
+                        <lb/>Wherefore <choice><orig>wee</orig><reg>we</reg></choice> must cautiously proceed with them, that they, which are
+                        <lb/><choice><orig>præpard</orig><reg>prepared</reg></choice> for remedy, may not be usd for <choice><orig>poyson</orig><reg>poison</reg></choice>: They are certainly <pc>-</pc>
+                        <lb/>a vast ocean, in which expert mariners <choice><orig>sayling</orig><reg>sailing</reg></choice> may by <choice><orig>Astronomi
+                        <lb break="no"/>call</orig><reg>Astronomical</reg></choice> instruments know the latitude, or elevation of the <choice><orig>Æquator</orig><reg>Equator</reg></choice> above
+                        <lb/>the Horizon, the Magnet <choice><orig>Shewing</orig><reg>Showing</reg></choice> the North pole, but by <choice><orig>noe</orig><reg>no</reg></choice> means
+                        <lb/>the longitude, or how great an <choice><orig>internall</orig><reg>internal</reg></choice> of degrees they are distant <pc>-</pc>
+                        <lb/>from the first Meridian, which is next to the fortunate Islands; <choice><orig>soe</orig><reg>so</reg></choice> <pc>-</pc>
+                        <lb/>that they are <choice><orig>uncertaine</orig><reg>uncertain</reg></choice> in what place they may be between west <pc>-</pc>
+                        <lb/>and east: What therefore is here to be done? That which the same <pc>-</pc>
+                        <lb/>Mariners use to <choice><orig>doe</orig><reg>do</reg></choice>, consult experience with reason, and thereby <pc>-</pc>
+                        <lb/><choice><orig>learne</orig><reg>learn</reg></choice> how to determine a long voyage by particular signs, <choice><orig>promon
+                        <lb break="no"/>toryes</orig><reg>promontories</reg></choice>, Islands, and other things, that they may not for want of consi
+                        <lb break="no"/>deration fall upon Sands and rocks: But here is <choice><orig>lesse</orig><reg>less</reg></choice> danger, if the
+                        <lb/>thing prosper not, but if <choice><orig>soe</orig><reg>so</reg></choice>, greater <choice><orig>gaine</orig><reg>gain</reg></choice>, than there, where goods <pc>-</pc>
+                        <lb/>and life are lost in an <choice><orig>houre</orig><reg>hour</reg></choice>: But the <choice><orig>mountaine</orig><reg>mountain</reg></choice> of the <choice><orig>Philoso
+                        <lb break="no"/>phicall</orig><reg>Philosophical</reg></choice> Mercury is not Nonacris, nor Atlas, where sometimes it is reported
+                        <lb/>to be brought forth, but Parnassus with two tops, in one of which <pc>-</pc>
+                        <lb/>Hermes, in the other Venus resides: Here <choice><orig>allso</orig><reg>also</reg></choice> is Apollo with the Mu
+                        <lb break="no"/>ses, and Hippocrene, the <choice><orig>fountaine</orig><reg>fountain</reg></choice> of Pegasus, with <choice><orig>laurell</orig><reg>laurel</reg></choice> <choice><orig>allwayes</orig><reg>always</reg></choice>
+                        <lb/>green: it is one <choice><orig>mountaine</orig><reg>mountain</reg></choice> by name, but really two, as Hermaphro
+                        <lb break="no"/>ditus is beheld with two heads, and two members in one body: But <pc>-</pc>
+                        <lb/>what man of a thousand persists in ascending to the top of this <pc>-</pc>
+                        <lb/><choice><orig>mountaine</orig><reg>mountain</reg></choice>? Who dos not begin to <choice><orig>hæsitate</orig><reg>hesitate</reg></choice> at the <choice><orig>bottome</orig><reg>bottom</reg></choice> being <pc>-</pc>
+                        <lb/>impeded by I know not what obstacles? Whoever<!-- he splits the word here. How to code? --> attaines to the <pc>-</pc>
+                        <lb/><choice><orig>midle</orig><reg>middle</reg></choice> of it? for <quote rend="indent"><lg xml:lang="lat"><l>Non levis ascensus, si quis petat ardua, sudor</l>
+                            <l>Plurimus hunc tollit, nocturnæ insomnis olivæ</l>
+                                <l>Immoritur, delet, quod mox laudaverat in se,</l>
+                                <l>Qui cupit æternæ donari frondis honore.</l>
+                            </lg>
+                        </quote>
+                        <lb/>Wherefore it is <choice><orig>noe</orig><reg>no</reg></choice> strange thing, if <choice><orig>onely</orig><reg>only</reg></choice> one of <choice><orig>tenne</orig><reg>ten</reg></choice> thousand un
+                        <lb break="no"/>dertake these Herculean <choice><orig>labours</orig><reg>labors</reg></choice>, <choice><orig>soe</orig><reg>so</reg></choice> as to <choice><orig>sett</orig><reg>set</reg></choice> foot on the top of the
+                        <lb/><choice><orig>mountaine</orig><reg>mountain</reg></choice>, and enjoy the <choice><orig>immortall</orig><reg>immortal</reg></choice> reward of a <choice><orig>laurell</orig><reg>laurel</reg></choice> garland,
+                        <lb/>which that all those that are upright, docible, and addicted to vir
+                        <lb break="no"/>tue and learning may receive with joy, but the <choice><orig>vaine</orig><reg>vain</reg></choice> and envi
+                        <lb break="no"/>ous <choice><orig>depriv'd</orig><reg>deprived</reg></choice> thereof, is much to be desired<pc>. . . . . . .</pc>
+                    </ab>   
+                </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

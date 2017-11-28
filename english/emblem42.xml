@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="emblem" n="e42"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+                <pb n="131"/><!-- Change to page number of the actual manuscript -->
+                
+                
+                <div type="title" xml:lang="en">
+                    <head>
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 42. Of the Secrets of Nature.
+                        <lb/>Nature, Reason, Experience, and reading must be the guide, <choice><orig>staffe</orig><reg>staff</reg></choice>,
+                        <lb/>Spectacles, and Lamp to him that is <choice><orig>employd</orig><reg>employed</reg></choice> in <choice><orig>Chymicall</orig><reg>Chymical</reg></choice> affairs.</seg>
+                    </head>
+                </div>
+                
+                
+                <div type="epigram" xml:lang="en">
+                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 42.</head>
+                    <lg>
+                        <l>Pursuing art, let Nature be your guide,</l>
+                        <l>Tracing her steps your feet will not back<pc rend="double-hyphen">-</pc>slide:</l>
+                        <l>Let reason be your <choice><orig>staffe</orig><reg>staff</reg></choice>, experience add</l>
+                        <l>Strength to your sight, discerning good from bad:</l>
+                        <l>In <choice><orig>darkenesse</orig><reg>darkness</reg></choice> reading will as light direct,</l>
+                        <l>That <choice><orig>ambiguityes</orig><reg>ambiguities</reg></choice> you may detect.</l>
+                    </lg>
+                </div>
+                
+                
+                <pb n="132"/> <!-- Change to page number of the actual manuscript -->
+                <div type="discourse" xml:lang="en">
+                    <head rend="italics">Discourse 42.</head>
+                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+                        <lb/><milestone unit="section" n="e42-01" />The chances, which may happen to <choice><orig>travellers</orig><reg>travelers</reg></choice>, are innumerable, es <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb break="no"/>pecially if they take a journey on foot by night through slippery <pc>-</pc>
+                        <lb/>and dangerous places; to which four things are requisite as <choice><orig>cheife
+                        <lb break="no"/>ly</orig><reg>chiefly</reg></choice> necessary, not to <choice><orig>speake</orig><reg>speak</reg></choice> of the victuals provided, and a strong <pc>-</pc>
+                        <lb/>body: <milestone unit="section" n="e42-02" />In the first place, a companion or guide not ignorant of the
+                        <lb/><choice><orig>wayes</orig><reg>ways</reg></choice>, through which <choice><orig>hee</orig><reg>he</reg></choice> must <choice><orig>passe</orig><reg>pass</reg></choice>: For if one ignorant man <pc>-</pc>
+                        <lb/>guide another, the same thing happens to them as to blind men, if
+                        <lb/>they <choice><orig>doe</orig><reg>do</reg></choice> not both fall headlong into a <choice><orig>dittch</orig><reg>ditch</reg></choice>, yet into <choice><orig>errours</orig><reg>errors</reg></choice> and <pc>-</pc>
+                        <lb/>mistakes: <milestone unit="section" n="e42-03" />Secondly, a <choice><orig>Staffe</orig><reg>Staff</reg></choice>, by which the <choice><orig>slipperinesse</orig><reg>slipperiness</reg></choice> and <choice><orig>perill</orig><reg>peril</reg></choice>
+                        <lb/>of the way, lest it be <choice><orig>detrimentall</orig><reg>detrimental</reg></choice> to a man, may be <choice><orig>avoyded</orig><reg>avoided</reg></choice>: <milestone unit="section" n="e42-04" />Third
+                        <lb break="no"/>ly, sound eyes, for such journeys are most dangerous to the blind or
+                        <lb/><choice><orig>dimme</orig><reg>dim</reg></choice> sighted: <milestone unit="section" n="e42-05" />Fourthly, a lamp or lighted torch, that the <choice><orig>diversitys</orig><reg>diversities</reg></choice>
+                        <lb/>and differences of the <choice><orig>wayes</orig><reg>ways</reg></choice> may be discerned. <milestone unit="section" n="e42-06" />After the same <pc>-</pc>
+                        <lb/>manner if a man expose <choice><orig>himselfe</orig><reg>himself</reg></choice> to a most difficult journey in
+                        <lb/>pursuit of the <choice><orig>Philosophicke</orig><reg>Philosophic</reg></choice> medicine, <choice><orig>hee</orig><reg>he</reg></choice> will, besides charge <pc>-</pc>
+                        <lb/>and strength of body, desire four things exactly <choice><orig>parallell</orig><reg>parallel</reg></choice> and cor
+                        <lb break="no"/>respondent to those <choice><orig>aforesayd</orig><reg>aforesaid</reg></choice>, to <choice><orig>witt</orig><reg>wit</reg></choice>, Nature, Reason, experience,
+                        <lb/>and reading: whereof if any one be wanting, the rest will <choice><orig>doe</orig><reg>do</reg></choice> <pc>-</pc>
+                        <lb/>little or <choice><orig>noe</orig><reg>no</reg></choice> good at all: <milestone unit="section" n="e42-07" />For by these, as by four <choice><orig>wheeles</orig><reg>wheels</reg></choice>, the <choice><orig>Philo
+                        <lb break="no"/>sophicke</orig><reg>Philosophic</reg></choice> chariot moves, to which one of the <choice><orig>wheeles</orig><reg>wheels</reg></choice> cannot be <pc>-</pc>
+                        <lb/>wanting, if it be left, it <choice><orig>avayls</orig><reg>avails</reg></choice> nothing. <milestone unit="section" n="e42-08" />Nature <choice><orig>præsupposeth</orig><reg>presupposes</reg></choice> <choice><orig>natu
+                        <lb break="no"/>rall</orig><reg>natural</reg></choice> <choice><orig>bodyes</orig><reg>bodies</reg></choice> and Spirits, as subjects first <choice><orig>ministred</orig><reg>ministered</reg></choice> by nature, upon
+                        <lb/>which art must afterwards act, <choice><orig>præparing</orig><reg>preparing</reg></choice>, purifying, and fitting it,
+                        <lb/>that thereof may be made that, which art <choice><orig>promiseth</orig><reg>promises</reg></choice> for the end:
+                        <lb/><milestone unit="section" n="e42-09" /><choice><orig>Soe</orig><reg>So</reg></choice> a Potter takes water and earth, a Glasse<pc rend="double-hyphen">-</pc>maker ashes and <pc>-</pc>
+                        <lb/>Sand, a Smith iron, copper, <choice><orig>tinne</orig><reg>tin</reg></choice>, lead, Silver or gold, a Tanner
+                        <lb/>raw hides, and <choice><orig>soe</orig><reg>so</reg></choice> other men other things: Such respect <choice><orig>allso</orig><reg>also</reg></choice> <pc>-</pc>
+                        <lb/><choice><orig>hath</orig><reg>has</reg></choice> the operator of Chymistry to his <choice><orig>materialls</orig><reg>materials</reg></choice>: <milestone unit="section" n="e42-10" />Their <choice><orig>materi
+                        <lb break="no"/>alls</orig><reg>materials</reg></choice> are to them very well <choice><orig>knowne</orig><reg>known</reg></choice> even the first day, <choice><orig>hee</orig><reg>he</reg></choice>, when
+                        <lb/><choice><orig>hee</orig><reg>he</reg></choice> begins, continues for the most part ignorant of his for many
+                        <lb/>years, I will not say, during his whole life. <milestone unit="section" n="e42-11" />Nature <choice><orig>doth</orig><reg>does</reg></choice> indeed <pc>-</pc>
+                        <lb/>point at the matters, but there are many things, which obscure the<pc>-</pc>
+                        <lb/>impression of nature, that it cannot be <choice><orig>knowne</orig><reg>known</reg></choice>. <milestone unit="section" n="e42-12" />The first intention <pc>-</pc>
+                        <lb/>therefore is, seriously to contemplate how nature proceeds in her ope
+                        <lb break="no"/>rations to the end that the <choice><orig>naturall</orig><reg>natural</reg></choice> subjects of Chymistry may <pc>-</pc>
+                        <lb/>without defect or superfluity be had: Wherefore Nature must be <pc>-</pc>
+                        <lb/>the guide and companion of <choice><orig>soe</orig><reg>so</reg></choice> great a journey, whose footsteps <pc>-</pc>
+                        <lb/>must be traced. <milestone unit="section" n="e42-13" />Secondly, reason must be as a <choice><orig>staffe</orig><reg>staff</reg></choice> to keep the <pc>-</pc>
+                        <lb/>steps and feet steady and <choice><orig>firme</orig><reg>firm</reg></choice>, that they may not slip or waver,
+                        <lb/>For without the exercise of reason a man will be apt to fall <pc>-</pc>
+                        
+                        
+                        
+                        <pb n="133"/><fw rend="italics">Discourse 42.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <lb/>into <choice><orig>errours</orig><reg>errors</reg></choice>, and therefore say the Philosophers; Whatsoever you hear,
+                        <lb/>consult with reason, whether it can be <choice><orig>soe</orig><reg>so</reg></choice>, or <choice><orig>noe</orig><reg>no</reg></choice>: <milestone unit="section" n="e42-14" />For <choice><orig>noe</orig><reg>no</reg></choice> man is
+                        <lb/>forced to <choice><orig>beleive</orig><reg>believe</reg></choice> or <choice><orig>performe</orig><reg>perform</reg></choice> things impossible, except <choice><orig>hee</orig><reg>he</reg></choice> be of <pc>-</pc>
+                        <lb/><choice><orig>weake</orig><reg>weak</reg></choice> memory, dull genius, and foolish imagination to impose upon
+                        <lb/><choice><orig>himselfe</orig><reg>himself</reg></choice> accepting things false for true, and rejecting true for false:
+                        <lb/><milestone unit="section" n="e42-15" />They say <choice><orig>allso</orig><reg>also</reg></choice> that they care not for words, whatsoever may be <pc>-</pc>
+                        <lb/>spoken, but <choice><orig>onely</orig><reg>only</reg></choice> for things, what may be understood; And that
+                        <lb/>words are for things, and not things for words: <milestone unit="section" n="e42-16" />As for example, Suppose
+                        <lb/>a man say that <choice><orig>glasse</orig><reg>glass</reg></choice> is made malleable by the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> <pc>-</pc>
+                        <lb/>tincture; Why Shall not I <choice><orig>beleive</orig><reg>believe</reg></choice> it, if provided reason dictates it? <pc>-</pc>
+                        <lb/><milestone unit="section" n="e42-17" />Thirdly, Experience will be as Spectacles, by which things may be <pc>-</pc>
+                        <lb/>seen at a distance; These are <choice><orig>opticke</orig><reg>optic</reg></choice> instruments, invented and made
+                        <lb/>by art, to <choice><orig>helpe</orig><reg>help</reg></choice> and amend the <choice><orig>weaknesse</orig><reg>weakness</reg></choice> of mens eyes. <milestone unit="section" n="e42-18" />Much like to
+                        <lb/>these are experiments about the <choice><orig>minerall</orig><reg>mineral</reg></choice> matter of every kind <choice><orig>tryed</orig><reg>tried</reg></choice>,
+                        <lb/>seen or <choice><orig>truely</orig><reg>truly</reg></choice> heard, which the more they are in memory, the more
+                        <lb/>will a man of reason draw from thence, and compare them among <pc>-</pc>
+                        <lb/>and with other things, that <choice><orig>hee</orig><reg>he</reg></choice> may perceive, what is true, what not. <pc>-</pc>
+                        <lb/><milestone unit="section" n="e42-19" />Fourthly, Reading <choice><orig>dos</orig><reg>does</reg></choice> as it were kindle a clear lamp in the understan
+                        <lb break="no"/>ding, without which there will be every where <choice><orig>darkenesse</orig><reg>darkness</reg></choice> and <choice><orig>thicke</orig><reg>thick</reg></choice>
+                        <lb/>clouds. <milestone unit="section" n="e42-20" />But the reading of good authors ought to be often repeated, <pc>-</pc>
+                        <lb/>otherwise it will not be at all <choice><orig>effectuall</orig><reg>effectual</reg></choice>. <milestone unit="section" n="e42-21" />Hereupon Bacasser in Turba
+                        <lb/><choice><orig>sayth</orig><reg>says</reg></choice>: <choice><orig>Hee</orig><reg>He</reg></choice> therefore, that is of an even temper, and <choice><orig>exerciseth</orig><reg>exercises</reg></choice> pati
+                        <lb break="no"/>ence without <choice><orig>regrett</orig><reg>regret</reg></choice>, will <choice><orig>attaine</orig><reg>attain</reg></choice> to this art as by a direct line, but
+                        <lb/><choice><orig>hee</orig><reg>he</reg></choice>, that thinks <choice><orig>himselfe</orig><reg>himself</reg></choice> able sooner to reap benefit from our books,
+                        <lb/>is deceived, and it had been better not to have <choice><orig>lookd</orig><reg>looked</reg></choice> therein, than <pc>-</pc>
+                        <lb/>ever to have <choice><orig>touchd</orig><reg>touched</reg></choice> them: And <choice><orig>soe</orig><reg>so</reg></choice> on<pc>. . . . . .</pc>
+                    </ab>   
+                </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

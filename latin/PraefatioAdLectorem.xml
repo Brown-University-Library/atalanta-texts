@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication information</p>        
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="page" n="6">
+            <fw type="pageNum" place="top-cent">6</fw>
+            <p>
+               <title><hi rend="large">Pr<hi rend="ligature">ae</hi>fatio ad Le<hi rend="ligature">ct</hi>orem.</hi></title>
+               <lb n="1"/><hi rend="large Lu">H</hi><hi rend="Lu">ominem</hi>, le<hi rend="ligature">ct</hi>orem candide, universi compendium
+               <lb n="2"/>sui compositione referre, in confesso e<hi rend="ligature">st</hi> omnium,
+               <lb n="3"/><g ref="ampersand">et</g> ternis vite generibus vivendis destinatum es
+               <lb n="4" break="no"/>se, nempe vegetabili in utero materno, ubi sal
+               <lb n="5" break="no"/>tem plant<hi rend="ligature">ae</hi> instar crescit <g ref="ampersand">et</g> augmentatur; sensi
+               <lb n="6" break="no"/>bili, nimirum in hoc mundo, ubi maxima ex parte sensibus ducitur,
+               <lb n="7"/>ceu reliqua animalia, <hi rend="grave">a</hi> quibus differt, quod intelle<hi rend="ligature">ct</hi>u incipiat
+               <lb n="8"/>uti, licet imperfe<hi rend="ligature">ct</hi><hi rend="grave">e</hi>; ac denique intelligibili, in altero mundo apud
+               <lb n="9"/>Deum, ei<hi rend="apex">q</hi>ue assistentes intelligentias seu Angelos bonos; In pr<hi rend="ligature">ae</hi>
+               <lb n="10" break="no"/>senti vit<hi rend="circumflex">a</hi>, qu<hi rend="grave">o</hi> quis magis ad divinam naturam accedit, e<hi rend="grave">o</hi> magis
+               <lb n="11"/>rebus intelle<hi rend="ligature">ct</hi>u indagandis, subtilibus, miris <g ref="ampersand">et</g> raris, gaudet <g ref="ampersand">et</g> 
+               <lb n="12"/>dele<hi rend="ligature">ct</hi>atur: Et econtr<hi rend="grave">a</hi>, qu<hi rend="grave">o</hi> quis ad <expan><abbr>pecuinu</abbr><ex>m</ex></expan> genus magis declinat,
+               <lb n="13"/>e<hi rend="grave">o</hi> min<hi rend="grave">us</hi> his capitur, <g ref="ampersand">et</g> sensui corporaliori astri<hi rend="ligature">ct</hi>us e<hi rend="ligature">st</hi>: Utro
+               <lb n="14" break="no"/>rumque videmus Exempla, quosdam illis, utpote do<hi rend="ligature">ct</hi>iores, artibus
+               <lb n="15"/><g ref="ampersand">et</g> scientiis politos esse deditos, qu<hi rend="grave">a</hi>mplurimos hisce, nempe volu
+               <lb n="16" break="no"/>ptatibus corporis, libidini, gul<hi rend="ligature">ae</hi>, pomp<hi rend="ligature">ae</hi> extern<hi rend="ligature">ae</hi>, <g ref="ampersand">et</g> his similibus.
+               <lb n="17"/>Ad excolendum autem intelle<hi rend="ligature">ct</hi>um Deus infinita arcana abdidit
+               <lb n="18"/>in natura, qu<hi rend="ligature">ae</hi> scientiis <g ref="ampersand">et</g> artibus innumeris, ut ignis ex silice ex
+               <lb n="19" break="no"/>tunduntur, <g ref="ampersand">et</g> in usum transferuntur: Inter h<hi rend="ligature">ae</hi>c sunt Chymica
+            </p>
+            <fw type="catch" place="bot-right">secret</fw>
+         </div>
+         <div type="page" n="7">
+            <fw type="title" place="top-cent">AD LECTOREM.</fw>
+            <fw type="pageNum" place="top-right">7</fw>
+            <p>
+               <lb n="1"/>secreta non po<hi rend="ligature">st</hi>rema, sed po<hi rend="ligature">st</hi> divinorum indagationem, omnium
+               <lb n="2"/>prima <g ref="ampersand">et</g> preciosissima, non circumforaneis deceptoribus <g ref="ampersand">et</g> fucis
+               <lb n="3"/>pseudo-chymicis (qui in his sunt asini ad lyram, quippe ad omni bo
+               <lb n="4" break="no"/>na do<hi rend="ligature">ct</hi>rina <g ref="ampersand">et</g> intentione alienissimi) sed ingeniis altioribus, libe
+               <lb n="5" break="no"/>raliter educatis, <g ref="ampersand">et</g> ad <choice><corr>majora natis</corr><sic>majoranatis</sic></choice> investiganda, c<hi rend="grave">u</hi>m sint val
+               <lb n="6" break="no"/>d<hi rend="grave">e</hi> subtilia, augu<hi rend="ligature">st</hi>a, sacra, rara <g ref="ampersand">et</g> ab<hi rend="ligature">st</hi>rusa, ideo<hi rend="apex">q</hi>ue intelle<hi rend="ligature">ct</hi>u
+               <lb n="7"/>comprehendenda pri<hi rend="grave">u</hi>s, qu<hi rend="grave">a</hi>m sensu, poti<hi rend="grave">u</hi>s per contemplationem
+               <lb n="8"/>profundam ex le<hi rend="ligature">ct</hi>ione authorum, eorum<hi rend="apex">q</hi>ue inter se <g ref="ampersand">et</g> cum natu
+               <lb n="9" break="no"/>r<hi rend="ligature">ae</hi> operibus comparationem, qu<hi rend="grave">a</hi>m operationem sensitivam, seu
+               <lb n="10"/>manualem experimentationem, qu<hi rend="ligature">ae</hi> c<hi rend="ligature">oe</hi>ca e<hi rend="ligature">st</hi> fine Theorica pr<hi rend="ligature">ae</hi>
+               <lb n="11" break="no"/>via: Po<hi rend="ligature">st</hi> scientias huiusmodi intelle<hi rend="ligature">ct</hi>uales proxim<hi rend="grave">e</hi> numerantur,
+               <lb n="12"/><expan><abbr>qu</abbr><ex>a</ex><abbr>e</abbr></expan> de visibili ac audibili obje<hi rend="ligature">ct</hi>o tra<hi rend="ligature">ct</hi>ant, ut sun Optica seu per
+               <lb n="13" break="no"/><hi rend="ligature">sp</hi>e<hi rend="ligature">ct</hi>iva, <g ref="ampersand">et</g> pi<hi rend="ligature">ct</hi>ura loquens, nec non Musica sive vocalis
+               <lb n="14"/>seu organica: In hac antiqui Philosophi ade<hi rend="grave">o</hi> se exercuerunt, ut in
+               <lb n="15" break="no"/>do<hi rend="ligature">ct</hi>us haberetur, <g ref="ampersand">et</g> ad <expan><abbr>myrtu</abbr><ex>m</ex></expan> canere cogeretur, qui <expan><abbr>lyra</abbr><ex>m</ex></expan> recusasset
+               <lb n="16"/>in conviviis, ut de <persName>Themistocle</persName> traditur: In Musica <persName>Socrates</persName>
+               <lb n="17"/>in<hi rend="ligature">st</hi>itutus <g ref="ampersand">et</g> ipse <persName>Plato</persName>, qui non harmonic<hi rend="grave">e</hi> <expan><abbr>compositu</abbr><ex>um</ex></expan> eum <hi rend="ligature">st></hi>atuit,
+               <lb n="18"/>qui harmonia Musicali non gaudeat: In e<hi rend="circumflex">a</hi>dem <persName>Pythagoras</persName> per
+               <lb n="19" break="no"/>celeris fuit, qui man<hi rend="grave">e</hi> <g ref="ampersand">et</g> ve<hi rend="ligature">sp</hi>eri music<hi rend="ligature">ae</hi> symphonia ad compo
+               <lb n="20" break="no"/>nendos suorum discipulorum animos usus dicitur: E<hi rend="ligature">st</hi> enim Mu
+               <lb n="21" break="no"/>sic<hi rend="ligature">ae</hi> h<hi rend="ligature">ae</hi>c peculiaris vis, ut affe<hi rend="ligature">ct</hi>us excitet vel mulceat, pro diver
+               <lb n="22" break="no"/>so Musical modo: Sic Phrygius Modus apud Gr<hi rend="ligature">ae</hi>cos diceba
+               <lb n="23" break="no"/>tur bellicosus propterea, quod in bello <g ref="ampersand">et</g> in pr<hi rend="ligature">ae</hi>lio ineundo accinere
+               <lb n="24" break="no"/>tur, <g ref="ampersand">et</g> singularem vim haberet ad animos militum concitandos;
+               <lb n="25"/>cuius vice ad eundem usum nunc adhibetur Ionicus, qui olim
+            </p>
+            <fw type="catch" place="bot-right">ama</fw>
+         </div>
+         <figure>
+            <graphic url="http://www.tei-c.org/logos/TEI-glow.png"/>
+         </figure>
+      </body>
+  </text>
+</TEI>

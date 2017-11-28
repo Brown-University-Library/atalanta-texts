@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="emblem" n="e19"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+                <pb n="62"/><!-- Change to page number of the actual manuscript -->
+                
+                
+                <div type="title" xml:lang="en">
+                    <head>
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 19. Of the Secrets of Nature.
+                        <lb/>If you kill one of the <choice><orig>fower</orig><reg>four</reg></choice>, they will all suddenly <choice><orig>dye</orig><reg>die</reg></choice>.</seg>
+                    </head>
+                </div>
+                
+                
+                <div type="epigram" xml:lang="en">
+                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 19.</head>
+                    <lg>
+                        <l>Behold! <choice><orig>foure</orig><reg>four</reg></choice> brethen here together stand,</l>
+                        <l>One having earth, water the next in hand,</l>
+                        <l>The third holds <choice><orig>aire</orig><reg>air</reg></choice>, and fire the fourth alone:</l>
+                        <l>If you would all destroy, kill <choice><orig>onely</orig><reg>only</reg></choice> one,</l>
+                        <l>And they will all forthwith <choice><orig>resigne</orig><reg>resign</reg></choice> to death,</l>
+                        <l>Their lives depending <choice><orig>joyntly</orig><reg>jointly</reg></choice> on one breath.</l>
+                    </lg>
+                </div>
+                
+                
+                <pb n="63"/> <!-- Change to page number of the actual manuscript -->
+                <div type="discourse" xml:lang="en">
+                    <head rend="italics">Discourse 19.</head>
+                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+                        <lb/>The <choice><orig>Poetts</orig><reg>Poets</reg></choice> <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>feigne</orig><reg>feign</reg></choice> Geryon King of <choice><orig>Spayne</orig><reg>Spain</reg></choice> to have been <choice><orig>tricorporeall</orig><reg>tricorporeal</reg></choice>, <pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>who had oxen of a purple <choice><orig>colour</orig><reg>color</reg></choice>, which a <choice><orig>dogge</orig><reg>dog</reg></choice> with two heads, and a Dragon
+                        <lb/>with seven were <choice><orig>chargd</orig><reg>charged</reg></choice> with as warders: and the same Geryon is reported to be
+                        <lb/>the <choice><orig>Sonne</orig><reg>Son</reg></choice> of Chrysaor sprung from the blood of Medusa, and that Dragon the <pc>-</pc>
+                        <lb/><choice><orig>Sonne</orig><reg>Son</reg></choice> of Typhon, and Echidna: which things <choice><orig>agreing</orig><reg>agreeing</reg></choice> with <choice><orig>noe</orig><reg>no</reg></choice> <choice><orig>hystory</orig><reg>history</reg></choice>, or truth
+                        <lb/>of the matter, as it sounds, and making a <choice><orig>noyse</orig><reg>noise</reg></choice> in all <choice><orig>Chymicall</orig><reg>Chymical</reg></choice> <choice><orig>Allegoryes</orig><reg>Allegories</reg></choice>, <pc>-</pc>
+                        <lb/>they are not without added hereto by us: But by the three <choice><orig>bodyes</orig><reg>bodies</reg></choice> of Geryon <choice><orig>wee</orig><reg>we</reg></choice>
+                        <lb/><choice><orig>meane</orig><reg>mean</reg></choice> three faces beheld in one father, according to the sense of Hermes, or as <pc>-</pc>
+                        <lb/>others would have it, <choice><orig>foure</orig><reg>four</reg></choice>, having regard to <choice><orig>soe</orig><reg>so</reg></choice> many Elements: For of a Qua
+                        <lb break="no"/>drangle ought a triangle to be made, as that made of a circle, <choice><orig>soe</orig><reg>so</reg></choice> this to <choice><orig>re
+                        <lb break="no"/>turne</orig><reg>return</reg></choice> into a circle: And the consanguinity and <choice><orig>naturall</orig><reg>natural</reg></choice> conjunction of the
+                        <lb/><choice><orig>bodyes</orig><reg>bodies</reg></choice> of Geryon, or the Elements is <choice><orig>soe</orig><reg>so</reg></choice> great, that one being overcome or <pc>-</pc>
+                        <lb/><choice><orig>killd</orig><reg>killed</reg></choice>, the rest <choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>dye</orig><reg>die</reg></choice> of themselves and putrefy, without the administration
+                        <lb/>of any <choice><orig>manuall</orig><reg>manual</reg></choice> force: As to things with two <choice><orig>bodyes</orig><reg>bodies</reg></choice> it is <choice><orig>knowne</orig><reg>known</reg></choice>, that one being
+                        <lb/>dead, the other <choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>wasts</orig><reg>wastes</reg></choice> and consumes: as in Italy <choice><orig>wee</orig><reg>we</reg></choice> have seen a boy <pc>-</pc>
+                        <lb/><choice><orig>foure</orig><reg>four</reg></choice> years of age with two <choice><orig>bodyes</orig><reg>bodies</reg></choice>, who absconded the head of his brother cleaving
+                        <lb/>to him, within his <choice><orig>owne</orig><reg>own</reg></choice> body, the other parts hung <choice><orig>downe</orig><reg>down</reg></choice> to the <choice><orig>navill</orig><reg>navel</reg></choice>, where
+                        <lb/>they were bound or <choice><orig>joynd</orig><reg>joined</reg></choice> together: But if <choice><orig>hee</orig><reg>he</reg></choice>, that hung <choice><orig>downe</orig><reg>down</reg></choice>, and being
+                        <lb/>much <choice><orig>lesse</orig><reg>less</reg></choice>, was <choice><orig>carryed</orig><reg>carried</reg></choice> by the other, Should be <choice><orig>touchd</orig><reg>touched</reg></choice> about the hands or <pc>-</pc>
+                        <lb/>feet too hard, the bigger did hereby <choice><orig>feele</orig><reg>feel</reg></choice> <choice><orig>paine</orig><reg>pain</reg></choice>, yea <choice><orig>allso</orig><reg>also</reg></choice> hunger, if the <choice><orig>lesse</orig><reg>less</reg></choice>
+                        <lb/>wanted food: And this is the combination and sympathy of nature, whereby
+                        <lb/>the members and parts of one body, or <choice><orig>joynd</orig><reg>joined</reg></choice> with another are mutually <pc>-</pc>
+                        <lb/>moved and affected together; whereof if one sound and unhurt, yet <pc>-</pc>
+                        <lb/>the other <choice><orig>doe</orig><reg>do</reg></choice> not thereby necessarily continue sound and unhurt, but if
+                        <lb/><choice><orig>greivously</orig><reg>grievously</reg></choice> hurt, the rest <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> sympathize, and perish by the same <pc>-</pc>
+                        <lb/>malady: <choice><orig>Soe</orig><reg>So</reg></choice> if a <choice><orig>neighbour</orig><reg>neighbor</reg></choice> gains much, <choice><orig>noe</orig><reg>no</reg></choice> profit thereby <choice><orig>accrews</orig><reg>accrues</reg></choice> to his <pc>-</pc>
+                        <lb/><choice><orig>neighbour</orig><reg>neighbor</reg></choice>, but if <choice><orig>hee</orig><reg>he</reg></choice> Suffers <choice><orig>losse</orig><reg>loss</reg></choice> by fire, his <choice><orig>neighbour</orig><reg>neighbor</reg></choice> receives much <pc>-</pc>
+                        <lb/>damage: for your <choice><orig>affaires</orig><reg>affairs</reg></choice> are in danger when your <choice><orig>neighbours</orig><reg>neighbors</reg></choice> house <choice><orig>hath</orig><reg>has</reg></choice> <pc>-</pc>
+                        <lb/>taken fire: It is not therefore a thing contradictory to truth, for the other
+                        <lb/>three to <choice><orig>dye</orig><reg>die</reg></choice>, by the destruction of one of these <choice><orig>foure</orig><reg>four</reg></choice> brethren, <choice><orig>seing</orig><reg>seeing</reg></choice> that
+                        <lb/>it may happen <choice><orig>divers</orig><reg>diverse</reg></choice> <choice><orig>wayes</orig><reg>ways</reg></choice>, either by finding the same ends as <choice><orig>beginings</orig><reg>beginnings</reg></choice>
+                        <lb/>of life being <choice><orig>borne</orig><reg>born</reg></choice> at one birth both by father and mother, as <choice><orig>wee</orig><reg>we</reg></choice> <pc>-</pc>
+                        <lb/>have read has happened to some, perhaps by the inclination of the
+                        <lb/><choice><orig>starrs</orig><reg>stars</reg></choice>, or by being <choice><orig>joyned</orig><reg>joined</reg></choice> together not <choice><orig>onely</orig><reg>only</reg></choice> in <choice><orig>soules</orig><reg>souls</reg></choice>, but <choice><orig>allso</orig><reg>also</reg></choice> ligaments
+                        <lb/>of the body, or by consternation of mind, by strong imagination in time
+                        <lb/>of pestilence, or by the vow of a league: A <choice><orig>certaine</orig><reg>certain</reg></choice> heathenish people
+                        <lb/><choice><orig>livd</orig><reg>lived</reg></choice> by the name of Pythagoreans in the <choice><orig>Indyes</orig><reg>Indies</reg></choice> under the govern
+                        <lb break="no"/>ment of the great <choice><orig>Mogull</orig><reg>Mogul</reg></choice> (who now reigns there the nineth of the <pc>-</pc>
+                        <lb/>Successors of Tamberlan) amongst <choice><orig>whome</orig><reg>whom</reg></choice> this ancient <choice><orig>custome</orig><reg>custom</reg></choice> is hither
+                        <lb break="no"/>to observed, that if the husband <choice><orig>dye</orig><reg>die</reg></choice>, his wife is <choice><orig>burnd</orig><reg>burned</reg></choice> with fire, or as <pc>-</pc>
+                        <lb/>now, lives perpetually in the highest infamy, deserted by all, and <choice><orig>es
+                        <lb break="no"/>teemd</orig><reg>esteemed</reg></choice> as a dead woman, which was therefore done, that the wives <pc>-</pc>
+                        <lb/>might not kill themselves by <choice><orig>poyson</orig><reg>poison</reg></choice> for their husbands, <choice><orig>unlesse</orig><reg>unless</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> <pc>-</pc>
+                        
+                        
+                        
+                        <pb n="64"/><fw rend="italics">Discourse 19.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <lb/>they were willing to <choice><orig>dye</orig><reg>die</reg></choice>: <choice><orig>Soe</orig><reg>So</reg></choice> in the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> <choice><orig>worke</orig><reg>work</reg></choice>, one of the bre
+                        <lb break="no"/>thren being dead, the other <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> perish by fire, not compulsively, but
+                        <lb/>voluntarily, that they may not survive in sorrow and infamy: or if one be
+                        <lb/>assaulted with a club, sword, or stone, <choice><orig>hee</orig><reg>he</reg></choice> will commence <choice><orig>civill</orig><reg>civil</reg></choice> <choice><orig>warre</orig><reg>war</reg></choice> with
+                        <lb/>his brethren, as appears in the <choice><orig>Gyants</orig><reg>Giants</reg></choice> sprung from the teeth of a dragon <pc>-</pc>
+                        <lb/>opposing Jason, and elswhere <choice><orig>allso</orig><reg>also</reg></choice> Cadmus, and <choice><orig>soe</orig><reg>so</reg></choice> they will all fall by <pc>-</pc>
+                        <lb/><choice><orig>mutuall</orig><reg>mutual</reg></choice> destruction: For touch or hurt him that <choice><orig>carryes</orig><reg>carries</reg></choice> <choice><orig>aire</orig><reg>air</reg></choice>, and <choice><orig>hee</orig><reg>he</reg></choice> will
+                        <lb/>insurge against those two together which are nearest to him, namely him
+                        <lb/>that <choice><orig>carryes</orig><reg>carries</reg></choice> water, and him that <choice><orig>carryes</orig><reg>carries</reg></choice> fire, and these will on both sides <pc>-</pc>
+                        <lb/>oppose themselves <choice><orig>agaynst</orig><reg>against</reg></choice> him that <choice><orig>carryes</orig><reg>carries</reg></choice> earth, and him that first promo
+                        <lb break="no"/>ted the <choice><orig>quarrell</orig><reg>quarrel</reg></choice>, till they have given and received <choice><orig>mutuall</orig><reg>mutual</reg></choice> wounds, of <pc>-</pc>
+                        <lb/>which they <choice><orig>dye</orig><reg>die</reg></choice>: For it is thus decreed amongst the brethren, that the more <pc>-</pc>
+                        <lb/>earnestly and vehemently they love one another, if once they begin to hate, <pc>-</pc>
+                        <lb/>they are not to be reconciled, but pursue one another to death, as the most <pc>-</pc>
+                        <lb/>bitter choler is generated from the sweetest honey in a <choice><orig>stomacke</orig><reg>stomach</reg></choice> too <choice><orig>hott</orig><reg>hot</reg></choice>, or the
+                        <lb/>Liver being corrupted. Kill therefore him that is alive, but <choice><orig>soe</orig><reg>so</reg></choice>, as being dead
+                        <lb/>to quicken him <choice><orig>againe</orig><reg>again</reg></choice>, otherwise the death of him <choice><orig>killd</orig><reg>killed</reg></choice> <choice><orig>avayles</orig><reg>avails</reg></choice> you nothing; <pc>-</pc>
+                        <lb/>for death will manifest him, that is to say, after resurrection, and death, <pc>-</pc>
+                        <lb/><choice><orig>darkenesse</orig><reg>darkness</reg></choice>, and the sea will fly from him, as Hermes asserts, and the Dragon <pc>-</pc>
+                        <lb/>which <choice><orig>observd</orig><reg>observed</reg></choice> the holes will <choice><orig>avoyd</orig><reg>avoid</reg></choice> the <choice><orig>rayes</orig><reg>rays</reg></choice> of the <choice><orig>Sunne</orig><reg>Sun</reg></choice>, and our dead <pc>-</pc>
+                        <lb/><choice><orig>Sonne</orig><reg>Son</reg></choice> <choice><orig>liveth</orig><reg>lives</reg></choice>, and the King <choice><orig>cometh</orig><reg>comes</reg></choice> by fire: Bellinus in his Metaphor in the<note place="margin">Chapt 3...</note>
+                        <lb/>Rosary <choice><orig>signifyes</orig><reg>signifies</reg></choice> the same thing, saying: And let this be done, when you <pc>-</pc>
+                        <lb/>have <choice><orig>drawne</orig><reg>drawn</reg></choice> <choice><orig>mee</orig><reg>me</reg></choice> partly from my nature, and my wife partly from her <pc>-</pc>
+                        <lb/>nature, you must then <choice><orig>allso</orig><reg>also</reg></choice> kill the natures, and <choice><orig>wee</orig><reg>we</reg></choice> are quickened by <pc>-</pc>
+                        <lb/>a new and <choice><orig>spirituall</orig><reg>spiritual</reg></choice> resurrection, <choice><orig>soe</orig><reg>so</reg></choice> that afterwards <choice><orig>wee</orig><reg>we</reg></choice> cannot <choice><orig>dye</orig><reg>die</reg></choice><pc>. .</pc>
+                    </ab>   
+                </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
+

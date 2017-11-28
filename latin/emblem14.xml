@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+     <revisionDesc>
+        <change when="2017-01-31" who="SJD">Added revision desc, added Latin transcription of discursus</change>
+        <change when="2017-02-14" who="SJD">Added line numbers for other divs, added xml langs where needed; added transcription of German epigram</change>
+     </revisionDesc>
+  </teiHeader>
+   
+   
+  <text>
+      <body>
+         <div type="emblem" n="e14">
+            <pb n="64"/>
+            <head>
+               <lb n="1"/>FUGA XIV. in 8. infrà.
+               <lb n="2"/>Diß ist der Drache<pc>/</pc><!-- BC: There's a back slash between "Drache" and "welcher" that is unclear for its intent -->welcher sein eigenen Schwanz 
+               <lb n="3"/>aufffrißt.
+            </head>
+            
+            <div type="fugue">
+               <head>
+                  
+               </head>
+               
+            </div>
+            
+            <div type="epigram" xml:lang="de">
+               <head>XIV. Epigrammatis Latini versio Germanica.</head>
+               <lg>
+                  <lb n="1"/><l>Der Hunger zwingt dem vielfüssi<hi rend="ligature">ge</hi>n<pc>/</pc> Fisch sein Füß zu verzehren</l>
+                  <lb n="2"/><l>Und daß Menschen mit Fleisch von Menschen offisich nehren<pc>/</pc></l>
+                  <lb n="3"/><l>Also dem Drachen sein Schwank zu beissen und schling<supplied reason="omitted">e</supplied>n nich verdries<pc>=</pc><hi rend="sling-below">s<pc>(</pc>set<pc>/</pc></hi></l>
+                  <lb n="4"/><l>Daß erein Theil seines Leibs für seine Speiß geniesset<pc>/</pc></l>
+                  <lb n="5"/><l>Der selbe zu zähmne ist durch Schwerdt<pc>/</pc> Hunger und gefänglich hasst<pc>/</pc></l>
+                  <lb n="6"/><l>Biß er sich ißt ganz und spent<pc></pc> sich tödt und das Lebenschafft.</l>
+               </lg>
+            </div>
+            <fw type="catchword">Emble-</fw>
+            
+            <pb n="65"/>
+            
+            <div type="image-caption">
+               <head>
+                  <lb n="1"/>Emblema XIV. De Secretis Natur<hi rend="ligature">ae</hi>.<!-- BC: how do we want to handle ligatures? -->
+                  <lb n="2"/>Hic est Draco caudam suam devorans
+               </head>
+               
+            </div>
+            
+            <figure><graphic url=""></graphic></figure>
+            
+            <div type="epigram" xml:lang="la">
+               <head>Epigramma XIV.</head>
+               <lg>
+                  <l>Dira fames Polypos docuit sua rodere crura,</l>
+                  <l>Humanáque homines se nutriisse dape.</l>
+                  <l>Dente Draco caudam dum mordet <g type="ampersand">et</g> ingerit alvo,</l>
+                  <l>Magnâ parte sui fit cibus ipse sibi.</l>
+                  <l>Ille domandus erit ferro fame, carcere, donec</l>
+                  <l>Se voret <g type="ampersand">et</g> revomat se necet <g type="ampersand">et</g> pariat.</l>
+               </lg>
+            </div>
+            
+            <fw type="catchword" place="bottom-right">Vete-</fw>
+            
+            <div type="discourse" xml:lang="la">
+               <pb n="66"/>
+               <head><fw type="pageNum">66</fw> <hi rend="italic">Disc</hi>u<hi rend="italic">rs</hi>u<hi rend="italic">s</hi>. <num value="14">XIV</num>.</head>
+                  <ab>
+                     <lb n="1"/><hi rend="tall">V</hi>eteres dix<hi rend="circumflex">e</hi>re, quod serpens, qui serpentem devorarit, fiat
+                     <lb n="2"/>draco: s<hi rend="ligature">ae</hi>vit enim in proprium genus ut latro <g type="ampersand">et</g> sicarius in su
+                     <lb n="3" break="no"/>um. Tales esse in <placeName>Africa</placeName>, tanta magnitudine <g type="ampersand">et</g> copia constat, ut
+                     <lb n="4"/>magnam partem <orgName>Alexandrini</orgName> exercitus deleverint. Apud <orgName>Asach<hi rend="ligature">ae</hi>
+                     <lb n="5" break="no"/>os</orgName> <orgName><hi rend="ligature">Ae</hi>thiopum</orgName> populos <expan><abbr>nascu</abbr><ex>n</ex><abbr>ntur</abbr></expan> maximi, qui cratium modo impli
+                     <lb n="6" break="no"/>citi erectis capitibus velisicant ad meliora pabula. Ferunt <orgName>Indorum</orgName> 
+                     <lb n="7"/>reges duos dracones aluisse, alternum octogen<hi rend="circumflex">u</hi>m, alterum ver<hi rend="grave">o</hi> no
+                     <lb n="8" break="no"/>nagen<hi rend="circumflex">um</hi> cubitorum magnitudine: Ex recentiorum quoque hoc
+                     <lb n="9"/>tempore observatione innotuit, tales adhuc prope <placeName>Angolam</placeName> inve
+                     <lb n="10" break="no"/>niri, ut malos ingentes navium ex<hi rend="ligature">ae</hi>quent. Sic in <placeName>Indi<hi rend="ligature">ae</hi></placeName> <g type="ampersand">et</g> <placeName>Afric<hi rend="ligature">ae</hi></placeName>
+                     <lb n="11"/>montibus, quibusdam referunt magnam esse auri vim, sed custodiri
+                     <lb n="12"/><hi rend="grave">a</hi> draconibus, ne quis e<hi rend="grave">o</hi> accedat <g type="ampersand">et</g> auferat: Ad fontes enim seu ri
+                     <lb n="13" break="no"/>vos, qui ex montibus decidunt, conveniunt dracones <g type="ampersand">et</g> sid peracci
+                     <lb n="14" break="no"/>dens apud aurum excubias agere dicuntur. Hinc <hi rend="grave">a</hi> Philosophis tot
+                     <lb n="15"/>dracones aut serpentes suis thesauris <choice><orig>asscribuntur</orig><corr>ascribuntur</corr></choice>, ut Velleri aureo,
+                     <lb n="16"/><placeName>Horto Hesperidum</placeName>, ali<hi rend="acute">i</hi>sque personis seu subiectis chymicis, <persName>Cad
+                     <lb n="17" break="no"/>mo</persName>, <persName>Saturno</persName>, <persName><hi rend="ligature">Ae</hi>sculapio</persName>, <persName>Mercurio</persName>, cuius caduceum gemini ser
+                     <lb n="18" break="no"/>pentes cingunt, mas <g type="ampersand">et</g> f<hi rend="ligature">oe</hi>mina: Per Dracones ver<hi rend="grave">o</hi> illi nihil aliud
+                     <lb n="19"/>intelligunt qu<hi rend="grave">a</hi>m subiecta chymica. Hinc dicunt, Dant Rebis mon
+                     <lb n="20" break="no"/>tes dracones terr<hi rend="acute">a</hi>que fontes, Et quod Draco caudam suam devo
+                     <lb n="21" break="no"/>ret, famem eius maximam denotantes Quod licet alii exponant
+                     <lb n="22"/>de anno in se redeunte <g type="ampersand">et</g> circulum referente, tamen primitus <hi rend="grave">a</hi> phi
+                     <lb n="23" break="no"/>losophis suis rebus accomodatum fuit, qui per hunc draconem
+                     <lb n="24"/><choice><orig>intelligi</orig><corr>intellegi</corr></choice> volunt serpentem, qui alium sui generis devoret <g type="ampersand">et</g> hic vo
+                     <lb n="25" break="no"/>catur propri<hi rend="grave">e</hi> sulphur; prout omnes innumeris locis testantur. <persName ref="http://viaf.org/viaf/120696927/">Lul
+                     <lb n="26" break="no"/>lius</persName> in codicillo <expan><abbr>cap</abbr><ex>ut</ex></expan> <num type="cardinal" value="31">31</num>. <quote>Hoc est,</quote> inquit, <quote>sulphur, fili, <g type="ampersand">et</g> hic coluber <g type="ampersand">et</g>
+                     <lb n="27"/>draco devorans caudam suam, Leo rugiens <g type="ampersand">et</g> gladius acutus, scin
+                     <lb n="28" break="no"/>dens omnia, mortificans <g type="ampersand">et</g> confringens.</quote> Et Rosarius. <quote>Draco non
+                     <lb n="29"/>moritur, nisi cum fratre <g type="ampersand">et</g> sorore sua interficiatur.</quote> Et mox. <quote>Draco
+                     <lb n="30"/>est argentum vivum extractum <hi rend="grave">a</hi> corporibus, habens in se corpus,
+                     <lb n="31"/>animam <g type="ampersand">et</g> spiritum:</quote> Haec aqua alio nomine ibidem dicitur f<hi rend="ligature">oe</hi>tida,
+                     <lb n="32"/>qu<hi rend="ligature">ae</hi> habetur post <expan><abbr>separatio</abbr><ex>n</ex><abbr>em</abbr></expan> <expan><abbr>Eleme</abbr><ex>n</ex><abbr>oru</abbr><ex>m</ex></expan>. Devorare autem draco
+                     <lb n="33"/>caudam suam traditur, c<hi rend="grave">u</hi>m partem volubilem, venenosam <g type="ampersand">et</g> hu
+                     <lb break="no"/>
+                  </ab>
+                  <fw type="catchword" place="bottom-right">midam</fw>
+               <pb n="67"/>
+               <head><hi rend="italic">Disc</hi>u<hi rend="italic">rs</hi>u<hi rend="italic">s</hi>. <num value="14">XIV</num>. <fw type="pageNum" place="top-right">67</fw></head>
+                  <ab>
+                     <lb n="1"/>midam absumat, ut post absque cauda videatur corpulentior <g type="ampersand">et</g> tar
+                     <lb n="2" break="no"/>ior, si quidem motus <g type="ampersand">et</g> volubilitas eius magna ex parte ratione
+                     <lb n="3"/>caud<hi rend="ligature">ae</hi> contigerit. C<hi rend="ligature">ae</hi>tera animalia innituntur pedibus, at draco
+                     <lb n="4" break="no"/>nes, serpentes <g type="ampersand">et</g> id genus vermes constrictione <g type="ampersand">et</g> explicatione cor
+                     <lb n="5" break="no"/>poris pro pedibus utuntur <g type="ampersand">et</g> veluti aqua effusa in vertos circuitus
+                     <lb n="6"/>definiunt, nunc huc, nunc illuc se flectendo, ut in fluviis fer<hi rend="grave">e</hi> omnibus
+                     <lb n="7"/>videre est, quomodo instar serpentum cursus suos inflectant <g type="ampersand">et</g> gyris
+                     <lb n="8"/>obliquent. Hinc argentum vivum serpentem non absque causa vo
+                     <lb n="9" break="no"/>c<hi rend="circumflex">a</hi>runt, <g type="ampersand">et</g> <persName>Mercurio</persName> serpentes adhibuerunt, c<hi rend="grave">u</hi>m <g type="ampersand">et</g> caudam quasi
+                     <lb n="10"/>trahat <g type="ampersand">et</g> <expan><abbr>nu</abbr><ex>n</ex><abbr>c</abbr></expan> huc, nunc illuc volubili <expan><abbr>po</abbr><ex>n</ex><abbr>dere</abbr></expan> procurrat: <expan><abbr>Serpe</abbr><ex>n</ex><abbr>s</abbr></expan> enim
+                     <lb n="11"/>ut serpit, sic <g type="ampersand">et</g> <persName>Mercurius</persName>, qui alas in <expan><abbr>pedib<am>.</am></abbr>us</expan> <g type="ampersand">et</g> capita propterea ha
+                     <lb n="12" break="no"/>bet. In <placeName>Africa</placeName> serpentes volatiles esse ferunt, qui depopularentur
+                     <lb n="13"/>omnia, nisi ab <persName>Ibide</persName> vastarentur. Unde <persName>Ibis</persName> inter <hi rend="ligature">Ae</hi>gyptias imagi
+                     <lb n="14" break="no"/>nes sacras statuitur tum propter manifestam <expan><abbr>utilitate</abbr><ex>m</ex></expan>, quam toti re
+                     <lb n="15" break="no"/>gioni pr<hi rend="ligature">ae</hi>stat, tum propter occultam rationem, quam pauciores
+                     <lb n="16"/>intellexerunt. Draco hic demorsa cauda, pelle veteri abiecta novam 
+                     <lb n="17"/>acquirere una cum iuventute dicitur, ut non <expan><abbr>solu</abbr><ex>m</ex></expan> cornicibus, corvis
+                     <lb n="18"/>aquilis <g type="ampersand">et</g> cervis natura vitam longiorem concesserit, sed etiam ser
+                     <lb n="19" break="no"/>pentino generi. Formica senescens terr<hi rend="ligature">ae</hi> mandatur, at ex terra redivivus <hi rend="ligature">ae</hi>
+                     <lb n="20" break="no"/>terna<hi rend="ligature">ae</hi> vit<hi rend="ligature">ae</hi> consecrabitur. Ex quo libet serpente combusto fit pul
+                     <lb n="21" break="no"/>vis, qui assumitur contra omnia venenea innoxi<hi rend="grave">e</hi> cum magno effectu.
+                     <lb n="22"/>Eiusmodi <persName>Alexipharmacum</persName> fieri quoque debet ex hoc dracone,
+                     <lb n="23"/>qui iam caudam suam (qu<hi rend="ligature">ae</hi> in viperis amputari solet) devoravit,
+                     <lb n="24"/>contra fortun<hi rend="ligature">ae</hi> <g type="ampersand">et</g> corporis mala pr<hi rend="ligature">ae</hi>sentissimum remedium.
+                     <lb/> <fw type="gathering">J ii</fw> <fw type="catchword" place="bottom-right" xml:lang="de">Der</fw>
+                  </ab>                  
+            </div>
+            
+         </div>
+      </body>
+  </text>
+</TEI>

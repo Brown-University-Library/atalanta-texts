@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="emblem" n="e23"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+                <pb n="74"/><!-- Change to page number of the actual manuscript -->
+                
+                
+                <div type="title" xml:lang="en">
+                    <head>
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 23. Of the Secrets of Nature.
+                        <lb/>When Pallas was <choice><orig>borne</orig><reg>born</reg></choice>, and Sol lay with Venus, it rained gold
+                        <lb/>at Rhodes.</seg>
+                    </head>
+                </div>
+                
+                
+                <div type="epigram" xml:lang="en">
+                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 23.</head>
+                    <lg>
+                        <l>This prodigy seems more than strange to us,</l>
+                        <l>Yet <choice><orig>Græce</orig><reg>Greece</reg></choice> for truth <choice><orig>hath</orig><reg>has</reg></choice> it affirmed thus:</l>
+                        <l>The clouds did twice at Rhodes their joy declare,</l>
+                        <l><choice><orig>Show'ring</orig><reg>Showering</reg></choice> <choice><orig>downe</orig><reg>down</reg></choice> gold through the receding <choice><orig>aire</orig><reg>air</reg></choice>;</l>
+                        <l>When Sol to Venus <choice><orig>payd</orig><reg>paid</reg></choice> the dues of love,</l>
+                        <l>And Pallas Sprung out of the <choice><orig>braine</orig><reg>brain</reg></choice> of Jove.</l><note place="margin" hand="3"><choice><orig>yeilding</orig><reg>yielding</reg></choice> air</note>
+                    </lg>
+                </div>
+                
+                
+                <pb n="75"/> <!-- Change to page number of the actual manuscript -->
+                <div type="discourse" xml:lang="en">
+                    <head rend="italics">Discourse 23.</head>
+                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+                        <lb/>It would be <choice><orig>madnesse</orig><reg>madness</reg></choice> to <choice><orig>affirme</orig><reg>affirm</reg></choice> that gold ever rained upon the earth, except<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>it was allegorically understood: for there are <choice><orig>noe</orig><reg>no</reg></choice> golden rivers, or <choice><orig>Mynes</orig><reg>Mines</reg></choice> of <pc>-</pc>
+                        <lb/>gold veins in the clouds, that it could be <choice><orig>sayd</orig><reg>said</reg></choice> to be there generated, nor is gold of
+                        <lb/><choice><orig>soe</orig><reg>so</reg></choice> little weight, as to be thought to be attracted with <choice><orig>vapours</orig><reg>vapors</reg></choice>: but a Trope <choice><orig>ad
+                        <lb/>mitts</orig><reg>admits</reg></choice> and <choice><orig>excuseth</orig><reg>excuses</reg></choice> all these things; for <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>truely</orig><reg>truly</reg></choice> as Pallas actually sprung
+                        <lb/>from Jupiters <choice><orig>braine</orig><reg>brain</reg></choice>, and Sol <choice><orig>coḿitted</orig><reg>committed</reg></choice> adultery with Venus, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>truely</orig><reg>truly</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice>
+                        <lb/>fell golden <choice><orig>raine</orig><reg>rain</reg></choice>; not as if <choice><orig>wee</orig><reg>we</reg></choice> doubt both those things to have happened, <pc>-</pc>
+                        <lb/>but to take away the vulgar and <choice><orig>literall</orig><reg>literal</reg></choice> sense from things allegorically
+                        <lb/>spoken: for if <choice><orig>wee</orig><reg>we</reg></choice> follow the bare words of this <choice><orig>Embleme</orig><reg>Emblem</reg></choice>, there is nothing
+                        <lb/>more absurd than them, if the meaning, nothing more true. Now Rhodes <pc>-</pc>
+                        <lb/>is an Island, first called Ophiusa by reason of the multitude of Serpents, <pc>-</pc>
+                        <lb/>after that Rhodes from the gardens of roses there flourishing, lastly <choice><orig>allso</orig><reg>also</reg></choice> <pc>-</pc>
+                        <lb/>Colossicula, from the Colosse of the <choice><orig>Sunne</orig><reg>Sun</reg></choice>, which being there was esteemd
+                        <lb/>among the seven miracles of the world: Hereupon the ancient Philoso
+                        <lb break="no"/>phers, their crude <choice><orig>Mercuriall</orig><reg>Mercurial</reg></choice> matter <choice><orig>Shewing</orig><reg>Showing</reg></choice> <choice><orig>itselfe</orig><reg>itself</reg></choice> like a Serpent, but
+                        <lb/>after <choice><orig>præparation</orig><reg>preparation</reg></choice> and coction assuming the purple <choice><orig>colour</orig><reg>color</reg></choice> of a rose, <pc>-</pc>
+                        <lb/><choice><orig>tooke</orig><reg>took</reg></choice> <choice><orig>certaine</orig><reg>certain</reg></choice> similitudes from the Island Rhodes: The same <choice><orig>allso</orig><reg>also</reg></choice> was
+                        <lb/>the cause, why they <choice><orig>ascribd</orig><reg>ascribed</reg></choice> a golden shower to it, Sol or Apollo having
+                        <lb/>coition with Venus: This thing first tropically spoken gave occasion to
+                        <lb/>the Rhodians (growing more proud, because <choice><orig>soe</orig><reg>so</reg></choice> great Gods had begotten
+                        <lb/>children among them) to erect as it were an <choice><orig>idoll</orig><reg>idol</reg></choice> of the <choice><orig>Sunne</orig><reg>Sun</reg></choice> of <pc>-</pc>
+                        <lb/><choice><orig>stupendious</orig><reg>stupendous</reg></choice> magnitude and charge: for that <choice><orig>Colosse</orig><reg>Colossus</reg></choice>, as <choice><orig>hystoryes</orig><reg>histories</reg></choice> re
+                        <lb break="no"/>late, was 70 cubits high, <choice><orig>soe</orig><reg>so</reg></choice> placed, that <choice><orig>Shipps</orig><reg>Ships</reg></choice> might <choice><orig>passe</orig><reg>pass</reg></choice> be
+                        <lb break="no"/>tween the <choice><orig>leggs</orig><reg>legs</reg></choice> of it with full <choice><orig>Sayle</orig><reg>Sail</reg></choice>: the fingers were as <choice><orig>bigge</orig><reg>big</reg></choice> as <pc>-</pc>
+                        <lb/>ordinary statues, and few men could <choice><orig>graspe</orig><reg>grasp</reg></choice> the thumb: the Artist
+                        <lb/>was Chares Lyndius the <choice><orig>Schollar</orig><reg>Scholar</reg></choice> of Lysippus, by <choice><orig>whome</orig><reg>whom</reg></choice> it was <pc>-</pc>
+                        <lb/>made in twelve years: after the fifty sixth year being overturned
+                        <lb/>by an earth<pc rend="double-hyphen">-</pc>quake, it was <choice><orig>allso</orig><reg>also</reg></choice> a miracle lying: The <choice><orig>Soldan</orig><reg>Sultan</reg></choice> of <pc>-</pc>
+                        <lb/><choice><orig>Ægypt</orig><reg>Egypt</reg></choice>, winning and possessing Rhodes, is reported to have laden <pc>-</pc>
+                        <lb/>900 <choice><orig>Camells</orig><reg>Camels</reg></choice> with the <choice><orig>brasse</orig><reg>brass</reg></choice> of this statue: That which Sol is <pc>-</pc>
+                        <lb/>among the Planets, <choice><orig>sayth</orig><reg>says</reg></choice> a Philosopher, that is gold amongst <choice><orig>metalls</orig><reg>metals</reg></choice>;
+                        <lb/>and this is <choice><orig>cheifely</orig><reg>chiefly</reg></choice> appropriated to the <choice><orig>Sunne</orig><reg>Sun</reg></choice> in respect of heat, <choice><orig>colour</orig><reg>color</reg></choice>,
+                        <lb/>virtue and essence: for this reason is a golden <choice><orig>rayne</orig><reg>rain</reg></choice> ascribed to the <pc>-</pc>
+                        <lb/>generation of Sol: when little <choice><orig>Sunns</orig><reg>Suns</reg></choice> are <choice><orig>conceivd</orig><reg>conceived</reg></choice> by Venus: For Ve
+                        <lb break="no"/>nus <choice><orig>hath</orig><reg>has</reg></choice> a rosy <choice><orig>colour</orig><reg>color</reg></choice> in her face, and if infused into the seed of <pc>-</pc>
+                        <lb/>Sol, the offspring from hence produced must really be a Rhodian: <pc>-</pc>
+                        <lb/><choice><orig>Hee</orig><reg>He</reg></choice> is <choice><orig>beautifull</orig><reg>beautiful</reg></choice>, like roses, the <choice><orig>Sonne</orig><reg>Son</reg></choice> of the Philosophers, who <pc>-</pc>
+                        <lb/><choice><orig>drawes</orig><reg>draws</reg></choice> and allures the eyes and minds of all men to him, and de
+                        <lb break="no"/>serves love, at whose birth it is <choice><orig>noe</orig><reg>no</reg></choice> strange thing if miracles hap
+                        <lb break="no"/>pen: for <choice><orig>hee</orig><reg>he</reg></choice> in all his actions will be miraclous, and excite a <pc>-</pc>
+                        <lb/>golden <choice><orig>rayne</orig><reg>rain</reg></choice>: This is the brother of Augius the <choice><orig>Sonne</orig><reg>Son</reg></choice> of Sol, <pc>-</pc>
+                        
+                        <pb n="76"/><fw rend="italics">Discourse 23.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <lb/>who had Oxen for a patrimony, the dung whereof Hercules purged away
+                        <lb/>in one day: <choice><orig>Hee</orig><reg>He</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> is the brother of Æeta, who possessed the golden
+                        <lb/>fleece obtained by Jason. Of Pallas <choice><orig>proceding</orig><reg>proceeding</reg></choice> from the <choice><orig>braine</orig><reg>brain</reg></choice> of Jupiter,
+                        <lb/>without a mother, they report, that <choice><orig>shee</orig><reg>she</reg></choice> was brought forth at the river
+                        <lb/>Triton, and therefore <choice><orig>calld</orig><reg>called</reg></choice> Tritonia: <choice><orig>Shee</orig><reg>She</reg></choice> is feigned to be the <choice><orig>goddesse</orig><reg>goddess</reg></choice>
+                        <lb/>of <choice><orig>wisedome</orig><reg>wisdom</reg></choice>, who springing from the <choice><orig>braine</orig><reg>brain</reg></choice>, the seat of <choice><orig>wisedome</orig><reg>wisdom</reg></choice>, is not
+                        <lb/>without reason <choice><orig>soe</orig><reg>so</reg></choice> called: a golden <choice><orig>raine</orig><reg>rain</reg></choice> did <choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>adorne</orig><reg>adorn</reg></choice> her nativity at
+                        <lb/>Rhodes, that after birth <choice><orig>shee</orig><reg>she</reg></choice> might <choice><orig>remaine</orig><reg>remain</reg></choice> in the memory of men. In
+                        <lb/><choice><orig>publicke</orig><reg>public</reg></choice> or <choice><orig>solemne</orig><reg>solemn</reg></choice> joy, as at the coronation of a King, or <choice><orig>allso</orig><reg>also</reg></choice> the birth
+                        <lb/>of the Kings <choice><orig>heire</orig><reg>heir</reg></choice> <choice><orig>peices</orig><reg>pieces</reg></choice> of gold are sometimes <choice><orig>throwne</orig><reg>thrown</reg></choice> amongst the <pc>-</pc>
+                        <lb/><choice><orig>coḿon</orig><reg>common</reg></choice> people, as golden <choice><orig>raine</orig><reg>rain</reg></choice>: <choice><orig>Soe</orig><reg>So</reg></choice> did the same happen at the birth of
+                        <lb/>Pallas: For Pallas is <choice><orig>wisedome</orig><reg>wisdom</reg></choice>, who <choice><orig>carryes</orig><reg>carries</reg></choice> health in her right hand, and
+                        <lb/>riches in the left, and provides for mens health and <choice><orig>wellfare</orig><reg>welfare</reg></choice>: To her <choice><orig>Per
+                        <lb break="no"/>sens</orig><reg>Persons</reg></choice> brought the saxifying head of Medusa, terrible with serpentine and vi
+                        <lb break="no"/>perous <choice><orig>haire</orig><reg>hair</reg></choice>, which <choice><orig>shee</orig><reg>she</reg></choice> used in a <choice><orig>sheild</orig><reg>shield</reg></choice> against her <choice><orig>enemyes</orig><reg>enemies</reg></choice>, a rude and bar
+                        <lb break="no"/>barous people, transmuting them into stones. And indeed <choice><orig>naturall</orig><reg>natural</reg></choice> <choice><orig>wisedome</orig><reg>wisdom</reg></choice> <pc>-</pc>
+                        <lb/>or Philosophy makes those incredulous and envious despisers stupid and
+                        <lb/><choice><orig>voyd</orig><reg>void</reg></choice> of sense and understanding by that very thing, (from which Chrysaor
+                        <lb/>was produced, who was the father of the <choice><orig>tricorporeall</orig><reg>tricorporeal</reg></choice> Geryon <choice><orig>aforesayd</orig><reg>aforesaid</reg></choice>), <pc>-</pc>
+                        <lb/>that is, the petrifying Gorgonian blood, which is nothing <choice><orig>els</orig><reg>else</reg></choice>, but the <pc>-</pc>
+                        <lb/>tincture of the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> stone<pc>. . . . . . . . .</pc>      
+                    </ab>   
+                </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

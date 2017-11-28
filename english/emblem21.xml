@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="emblem" n="e21"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+                <pb n="68"/><!-- Change to page number of the actual manuscript -->
+                
+                
+                <div type="title" xml:lang="en">
+                    <head>
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 21. Of the Secrets of Nature.
+                        <lb/>Make <del>o</del>f<add>or</add> the man and the woman a circle, of that a quadrangle, of this
+                        <lb/>a triangle, of the same a circle, and you will have the Philosoph. Stone.</seg>
+                    </head>
+                </div>
+                
+                
+                <div type="epigram" xml:lang="en">
+                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 21.</head>
+                    <lg>
+                        <l>A circle for the man and wife provide,</l>
+                        <l>Which make quadrangular with <choice><orig>æquall</orig><reg>equal</reg></choice> side,</l>
+                        <l>That <choice><orig>trigonall</orig><reg>trigonal</reg></choice>, resulting in a Sphere:</l>
+                        <l>And then the blessed Stone to <choice><orig>you'le</orig><reg>you will</reg></choice> appear.</l>
+                        <l>If this too high and too abstruse you find,</l>
+                        <l>Geometry will soon <choice><orig>informe</orig><reg>inform</reg></choice> your mind.</l>
+                    </lg>
+                </div>
+                
+                
+                <pb n="69"/> <!-- Change to page number of the actual manuscript -->
+                <div type="discourse" xml:lang="en">
+                    <head rend="italics">Discourse 21.</head>
+                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+                        <lb/>It is the doctrine of that <seg rend="underline" hand="2">most famous Philosopher Plato th</seg>at knowledge is as<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>it were actually engraven and imprinted in the mind of man, which is as the
+                        <lb/>foundation of all arts and Sciences, by the remembrance and repetition of <pc>-</pc>
+                        <lb/>which all learning may be <choice><orig>knowne</orig><reg>known</reg></choice> and apprehended by any man; which <pc>-</pc>
+                        <lb/>to prove, <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>introduceth</orig><reg>introduces</reg></choice> a youth yet very young, ignorant, and illiterate, <pc>-</pc>
+                        <lb/><choice><orig>whome</orig><reg>whom</reg></choice> <choice><orig>hee</orig><reg>he</reg></choice> instructed first in <choice><orig>geometricall</orig><reg>geometrical</reg></choice> interrogations <choice><orig>soe</orig><reg>so</reg></choice>, that the
+                        <lb/>youth was observed to answer directly to all <choice><orig>quæstions</orig><reg>questions</reg></choice>, and nolens volens, or
+                        <lb/>without consideration to have <choice><orig>attaind</orig><reg>attained</reg></choice> to the very marrow of <choice><orig>soe</orig><reg>so</reg></choice> intricate
+                        <lb/>a Science: From whence <choice><orig>hee</orig><reg>he</reg></choice> concludes that <choice><orig>noe</orig><reg>no</reg></choice> doctrine and discipline is <pc>-</pc>
+                        <lb/>learned or understood at the first, but <choice><orig>onely</orig><reg>only</reg></choice> by remembrance and repeti
+                        <lb break="no"/>tion recalled and revolved into the mind by children, alluding to his An
+                        <lb break="no"/>nus magnus, wherein before the solary of 48 thousand yeares the same
+                        <lb/>persons, things and actions were <choice><orig>sayd</orig><reg>said</reg></choice> by him to have been before the re
+                        <lb break="no"/>volution of the heaven, after the same manner, as now: But these things <pc>-</pc>
+                        <lb/>every man understands are like dreams without any foundation of truth:
+                        <lb/>That there are some <choice><orig>certaine</orig><reg>certain</reg></choice> sparks of knowledge naturally radicated in
+                        <lb/>us, and mere powers, to be reduced into action by use and instruction, <choice><orig>wee</orig><reg>we</reg></choice>
+                        <lb/><choice><orig>doe</orig><reg>do</reg></choice> not deny, but <choice><orig>wee</orig><reg>we</reg></choice> deny that they are <choice><orig>soe</orig><reg>so</reg></choice> great and of such quality,
+                        <lb/>as to be the <choice><orig>seminaryes</orig><reg>seminaries</reg></choice> of arts and sciences without any <choice><orig>præcedent</orig><reg>precedent</reg></choice> <pc>-</pc>
+                        <lb/><choice><orig>præparation</orig><reg>preparation</reg></choice>: From whence therefore came Sciences and arts, if men in
+                        <lb break="no"/>vented them not, others may <choice><orig>aske</orig><reg>ask</reg></choice> the <choice><orig>quæstion</orig><reg>question</reg></choice>, whether they were first
+                        <lb/>taught by heaven, or by the Gods of the heathen? I answer, it is one <pc>-</pc>
+                        <lb/>thing to say, that burning <choice><orig>coales</orig><reg>coals</reg></choice> are covered under ashes in <choice><orig>soe</orig><reg>so</reg></choice> great plenty,
+                        <lb/>that if they may <choice><orig>onely</orig><reg>only</reg></choice> appear by removing the ashes, they are sufficient
+                        <lb/>to <choice><orig>boyle</orig><reg>boil</reg></choice> meat, or <choice><orig>warme</orig><reg>warm</reg></choice> our cold limbs; it is another thing to <choice><orig>affirme</orig><reg>affirm</reg></choice>, that
+                        <lb/>small sparks <choice><orig>onely</orig><reg>only</reg></choice> <choice><orig>doe</orig><reg>do</reg></choice> there <choice><orig>lye</orig><reg>lie</reg></choice> hid, which, before they can be <choice><orig>usefull</orig><reg>useful</reg></choice> <pc>-</pc>
+                        <lb/>for <choice><orig>boyling</orig><reg>boiling</reg></choice> or warming, must by the industry, art, and care of man <choice><orig>be
+                        <lb/>stirrd</orig><reg>bestirred</reg></choice> up, quickened, and <choice><orig>nourishd</orig><reg>nourished</reg></choice> with <choice><orig>fuell</orig><reg>fuel</reg></choice>, otherwise they may easily
+                        <lb/>be extinguished, and <choice><orig>wholy</orig><reg>wholly</reg></choice> reduced into cold ashes: The last is the asser
+                        <lb break="no"/>tion of the Aristotelians, the first of the Platonists: With the last agrees
+                        <lb/>reason and experience, with the first <choice><orig>onely</orig><reg>only</reg></choice> <choice><orig>phantasy</orig><reg>fantasy</reg></choice> or imagination: Where
+                        <lb break="no"/>upon it might be demanded, why Plato wrote upon the <choice><orig>doore</orig><reg>door</reg></choice> of his <choice><orig>Schoole</orig><reg>School</reg></choice>,
+                        <lb/>that <choice><orig>hee</orig><reg>he</reg></choice> that was ignorant of Geometry Should not be admitted into it, <choice><orig>hee</orig><reg>he</reg></choice>
+                        <lb/><choice><orig>allso</orig><reg>also</reg></choice> having affirmed that children actually knew it? are men more unlear
+                        <lb break="no"/>ned than <choice><orig>boyes</orig><reg>boys</reg></choice>? or have those of full age forgotten those things which <pc>-</pc>
+                        <lb/><choice><orig>boyes</orig><reg>boys</reg></choice> know? that cannot be supposed: because <choice><orig>wee</orig><reg>we</reg></choice> see that a brute <choice><orig>doth</orig><reg>does</reg></choice>
+                        <lb/>by the instinct of nature <choice><orig>abhorre</orig><reg>abhor</reg></choice> and <choice><orig>avoyd</orig><reg>avoid</reg></choice> the dangers of fire, water,
+                        <lb/>sudden chance, and the like, though newly come into the world, yet that
+                        <lb/>an infant <choice><orig>knowes</orig><reg>knows</reg></choice> not or <choice><orig>shunns</orig><reg>shuns</reg></choice> such things, except hurt, or is finger being
+                        <lb/>a little burnt at the flame of a candle like a <choice><orig>Fire<pc rend="double-hyphen">-</pc>flye</orig><reg>Fire<pc rend="double-hyphen">-</pc>fly</reg></choice>, which <choice><orig>burnes</orig><reg>burns</reg></choice> its
+                        <lb/>wings and falls <choice><orig>downe</orig><reg>down</reg></choice>: why <choice><orig>doe</orig><reg>do</reg></choice> not the young bee, the <choice><orig>flye</orig><reg>fly</reg></choice> and <choice><orig>gnatt</orig><reg>gnat</reg></choice> <pc>-</pc>
+                        <lb/>fly directly into fire, they not knowing by experience the danger from <pc>-</pc>
+                        <lb/>thence arising? because nature <choice><orig>hath</orig><reg>has</reg></choice> taught them, but not a child new
+                        
+                        
+                        
+                        <pb n="70"/><fw rend="italics">Discourse 21.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <lb/><choice><orig>borne</orig><reg>born</reg></choice>. If Geometry be <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>naturall</orig><reg>natural</reg></choice> and easy to children, how comes it to <choice><orig>passe</orig><reg>pass</reg></choice>
+                        <lb/>that the Square of a circle was not <choice><orig>knowne</orig><reg>known</reg></choice> to Plato <choice><orig>himselfe</orig><reg>himself</reg></choice>, <choice><orig>Soe</orig><reg>So</reg></choice> that Aris
+                        <lb break="no"/>totle the <choice><orig>Schollar</orig><reg>Scholar</reg></choice> of Plato affirmed it possible to be <choice><orig>knowne</orig><reg>known</reg></choice>, but not as yet <pc>-</pc>
+                        <lb/><choice><orig>knowne</orig><reg>known</reg></choice>; but it is evident that it was not <choice><orig>unknowne</orig><reg>unknown</reg></choice> to the <choice><orig>naturall</orig><reg>natural</reg></choice> Philoso
+                        <lb break="no"/>phers, because they <choice><orig>coḿand</orig><reg>command</reg></choice> a circle to be converted into a quadrangle, and
+                        <lb/>this, by a triangle, <choice><orig>againe</orig><reg>again</reg></choice> into a circle: by which they <choice><orig>meane</orig><reg>mean</reg></choice> a most simple
+                        <lb/>body without angles, as by a quadrangle, the <choice><orig>foure</orig><reg>four</reg></choice> Elements, as if they <pc>-</pc>
+                        <lb/>Should say, the most simple <choice><orig>corporall</orig><reg>corporal</reg></choice> figure, that can be found, must be
+                        <lb/>taken, and that divided into four <choice><orig>elementall</orig><reg>elemental</reg></choice> <choice><orig>colours</orig><reg>colors</reg></choice>, and to be a quadrangle
+                        <lb/><choice><orig>æquilaterall</orig><reg>equilateral</reg></choice>. Now that this quadration is <choice><orig>Physicall</orig><reg>Physical</reg></choice> and <choice><orig>agreable</orig><reg>agreeable</reg></choice> to nature, <pc>-</pc>
+                        <lb/>every man understands; by which <choice><orig>farre</orig><reg>far</reg></choice> more utility <choice><orig>accrews</orig><reg>accrues</reg></choice> to a <choice><orig>Coḿonwealth</orig><reg>Commonwealth</reg></choice>
+                        <lb/>as <choice><orig>allso</orig><reg>also</reg></choice> more illustration to the mind of man, than by that <choice><orig>Mathematicall</orig><reg>Mathematical</reg></choice>
+                        <lb/>and merely <choice><orig>theoricall</orig><reg>theoretical</reg></choice> or from an abstracted matter: To <choice><orig>learne</orig><reg>learn</reg></choice> that perfect
+                        <lb break="no"/>ly, a Geometrician acting about solid <choice><orig>bodyes</orig><reg>bodies</reg></choice> must inquire what depth of <pc>-</pc>
+                        <lb/>Solid figures, for example, of Sphere and Cube can be <choice><orig>knowne</orig><reg>known</reg></choice>, and <choice><orig>transferrd</orig><reg>transferred</reg></choice>
+                        <lb/>to <choice><orig>manuall</orig><reg>manual</reg></choice> use or practice: If the capacity or circumference of a Sphere be
+                        <lb/>of 32 foot, how much one of the sides of the Cube will be to <choice><orig>æqualize</orig><reg>equalize</reg></choice> the <pc>-</pc>
+                        <lb/>capacity of this Sphere, on the contrary, if a Sphere <choice><orig>containe</orig><reg>contain</reg></choice> 32 measures
+                        <lb/>in <choice><orig>soe</orig><reg>so</reg></choice> great a circumference, how much will one side of the Cube be, to <pc>-</pc>
+                        <lb/><choice><orig>containe</orig><reg>contain</reg></choice> <choice><orig>soe</orig><reg>so</reg></choice> much, or by looking <choice><orig>backe</orig><reg>back</reg></choice> from the measures, which the Sphere
+                        <lb/>or Cube <choice><orig>containes</orig><reg>contains</reg></choice>, to the feet of every circumference: In like manner the
+                        <lb/>Philosophers would have the quadrangle reduced into a triangle, that is, into
+                        <lb/>body, Spirit, and <choice><orig>Soule</orig><reg>Soul</reg></choice>, which three <choice><orig>doe</orig><reg>do</reg></choice> appear in three <choice><orig>prævious</orig><reg>previous</reg></choice> <choice><orig>colours</orig><reg>colors</reg></choice> <pc>-</pc>
+                        <lb/>before <choice><orig>rednesse</orig><reg>redness</reg></choice>, for example, the body or earth in the <choice><orig>blacknesse</orig><reg>blackness</reg></choice> of Saturn,
+                        <lb/>the Spirit in a lunar <choice><orig>whitenesse</orig><reg>whiteness</reg></choice>, as water, the <choice><orig>Soule</orig><reg>Soul</reg></choice> or <choice><orig>aire</orig><reg>air</reg></choice> in a solar
+                        <lb/>citrinity: then will the triangle be perfect, but this likewise must be <pc>-</pc>
+                        <lb/>changed into a circle, that is, into an invariable <choice><orig>rednesse</orig><reg>redness</reg></choice>: By which ope
+                        <lb break="no"/>ration the woman is converted into the man, and made one with him,
+                        <lb/>and the senary the first number of the perfect completed by one, two,
+                        <lb/>having returned <choice><orig>againe</orig><reg>again</reg></choice> to an <choice><orig>unitt</orig><reg>unit</reg></choice>, in which is <choice><orig>æternall</orig><reg>eternal</reg></choice> rest and peace.
+                    </ab>   
+                </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
+

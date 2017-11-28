@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="emblem" n="e33"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+                <pb n="104"/><!-- Change to page number of the actual manuscript -->
+                
+                
+                <div type="title" xml:lang="en">
+                    <head>
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 33. of the Secrets of Nature.
+                        <lb/>The Hermaphrodite lying like a dead man in <choice><orig>darknesse</orig><reg>darkness</reg></choice>, wants fire.</seg>
+                    </head>
+                </div>
+                
+                
+                <div type="epigram" xml:lang="en">
+                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 33.</head>
+                    <lg>
+                        <l>See here the cold and dry Hermaphrodite,</l>
+                        <l>Appears as <choice><orig>dismall</orig><reg>dismal</reg></choice> as a ghost by night:</l>
+                        <l>Fire is the thing <choice><orig>hee</orig><reg>he</reg></choice> wants, if that you give,</l>
+                        <l>His Spirits feeling warmth will <choice><orig>soone</orig><reg>soon</reg></choice> revive.</l>
+                        <l>The Stone's whole virtue in God Vulcan <choice><orig>lyes</orig><reg>lies</reg></choice>,</l>
+                        <l>Sulphurs in Sol, in Luna <choice><orig>Mercurye's</orig><reg>Mercury's</reg></choice>.</l>
+                    </lg>
+                </div>
+                
+                
+                <pb n="105"/> <!-- Change to page number of the actual manuscript -->
+                <div type="discourse" xml:lang="en">
+                    <head rend="italics">Discourse 33.</head>
+                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+                        <lb/>It is one of the secrets of Nature, that in the cold winter <choice><orig>Froggs</orig><reg>Frogs</reg></choice> and <pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>Horse<pc rend="double-hyphen">-</pc>leeches <choice><orig>lye</orig><reg>lie</reg></choice> as it were dead under water, and in the Spring new <pc>-</pc>
+                        <lb/>heat of the <choice><orig>Sunne</orig><reg>Sun</reg></choice> operating recover sense and motion, or <choice><orig>performe</orig><reg>perform</reg></choice> <pc>-</pc>
+                        <lb/>the actions of a <choice><orig>sensitiue</orig><reg>sensitive</reg></choice> life: But if they be found in the waters <pc>-</pc>
+                        <lb/>in the winter time, and brought into the <choice><orig>aire</orig><reg>air</reg></choice> or a <choice><orig>warme</orig><reg>warm</reg></choice> house, they
+                        <lb/>presently begin to move themselves, as in the Summer: From whence
+                        <lb/>it appears, that they want nothing but <choice><orig>externall</orig><reg>external</reg></choice> heat, to excite the
+                        <lb/><choice><orig>naturall</orig><reg>natural</reg></choice> <choice><orig>internall</orig><reg>internal</reg></choice> heat, and bring it to action: After the same man
+                        <lb break="no"/>ner <choice><orig>doe</orig><reg>do</reg></choice> the Philosophers <choice><orig>speake</orig><reg>speak</reg></choice> of their Hermaphrodite, who, if <choice><orig>hee</orig><reg>he</reg></choice>
+                        <lb/>appears dead lying in <choice><orig>darkenesse</orig><reg>darkness</reg></choice>, requires the heat of fire: Now <choice><orig>hee</orig><reg>he</reg></choice> <pc>-</pc>
+                        <lb/>is <choice><orig>sayd</orig><reg>said</reg></choice> to <choice><orig>lye</orig><reg>lie</reg></choice> in <choice><orig>darkenesse</orig><reg>darkness</reg></choice>, being left in a <choice><orig>darke</orig><reg>dark</reg></choice> and most cold win
+                        <lb break="no"/>ters night, that is, remaining in <choice><orig>blacknesse</orig><reg>blackness</reg></choice>, which is a <choice><orig>signe</orig><reg>sign</reg></choice> of <choice><orig>coldnesse</orig><reg>coldness</reg></choice>,
+                        <lb/>from which <choice><orig>hee</orig><reg>he</reg></choice> ought to be brought to <choice><orig>whitenesse</orig><reg>whiteness</reg></choice> by a greater intension
+                        <lb/>of fire, and by yet a greater, to <choice><orig>rednesse</orig><reg>redness</reg></choice>: For, as Bodillus in Turba <choice><orig>sayth</orig><reg>says</reg></choice>,
+                        <lb/>nothing is generated without heat, and a bath of vehement heat <choice><orig>causeth</orig><reg>causes</reg></choice> <pc>-</pc>
+                        <lb/>a body to perish, if it be cold it drives it away, but if it be temperate, it
+                        <lb/>becomes <choice><orig>agreable</orig><reg>agreeable</reg></choice> and pleasant to the body. Bonellus in the same <choice><orig>sayth</orig><reg>says</reg></choice>,
+                        <lb/>All things that live <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> (God <choice><orig>soe</orig><reg>so</reg></choice> pleasing) <choice><orig>dye</orig><reg>die</reg></choice>: that nature there
+                        <lb break="no"/>fore, which is <choice><orig>depriv'd</orig><reg>deprived</reg></choice> of moisture, being <choice><orig>exposd</orig><reg>exposed</reg></choice> by night, seems like
+                        <lb/>a dead man, and then that nature requires fire, till the body and Spi
+                        <lb break="no"/>rit of it be turned into earth, and then it becomes dust like to a dead
+                        <lb/>man in his <choice><orig>tombe</orig><reg>tomb</reg></choice>: these things being accomplished God restores a Spirit
+                        <lb/>and <choice><orig>Soule</orig><reg>Soul</reg></choice> to it, and all infirmity being taken away our nature is com
+                        <lb break="no"/>forted and amended: It is therefore requisite to <choice><orig>burne</orig><reg>burn</reg></choice> that matter without
+                        <lb/>fear etc. Fire therefore, which <choice><orig>destroyes</orig><reg>destroys</reg></choice> all other things, <choice><orig>repaires</orig><reg>repairs</reg></choice> this, that
+                        <lb/>which <choice><orig>yeilds</orig><reg>yields</reg></choice> death to others gives life to this. One <choice><orig>onely</orig><reg>only</reg></choice> <choice><orig>Phœnix</orig><reg>Phoenix</reg></choice> there is,
+                        <lb/>which is restored by fire, which is renewed by flames, and revives out of
+                        <lb/>ashes, and this being <choice><orig>knowne</orig><reg>known</reg></choice> to the Philosophers <choice><orig>onely</orig><reg>only</reg></choice> is burnt and
+                        <lb/>restored to life, whatsoever other men <choice><orig>dreame</orig><reg>dream</reg></choice> of a bird, I know not <pc>-</pc>
+                        <lb/>what, that <choice><orig>flyeth</orig><reg>flies</reg></choice>, residing <choice><orig>noewhere</orig><reg>nowhere</reg></choice>, nor seen, but as a fable. The
+                        <lb/>Hermaphrodite, of which the Philosophers <choice><orig>speake</orig><reg>speak</reg></choice>, is of a <choice><orig>mixd</orig><reg>mixed</reg></choice> na
+                        <lb break="no"/>ture, male and female, whereof one <choice><orig>passeth</orig><reg>passes</reg></choice> into another by the <pc>-</pc>
+                        <lb/>operation of heat, for the female is converted into a male, which <pc>-</pc>
+                        <lb/>ought not to seem <choice><orig>soe</orig><reg>so</reg></choice> strange in the Philosophers <choice><orig>worke</orig><reg>work</reg></choice>, it being <pc>-</pc>
+                        <lb/>found, if <choice><orig>wee</orig><reg>we</reg></choice> may <choice><orig>beleive</orig><reg>believe</reg></choice> <choice><orig>historyes</orig><reg>histories</reg></choice>, that many men have <choice><orig>allso</orig><reg>also</reg></choice> <pc>-</pc>
+                        <lb/><choice><orig>changd</orig><reg>changed</reg></choice> their sex: The <choice><orig>Poetts</orig><reg>Poets</reg></choice> make mention of Ceneus, Iphis, and
+                        <lb/>Tiresias, as Pontanus in the <choice><orig>Starrs</orig><reg>Stars</reg></choice>.
+                        <quote rend="indent">
+                            <lg xml:lang="lat">
+                                <l>Pœniteat generis tamen et se Cenea malint,</l>
+                                <l>Aut in fœmineam penitùs transire figuram: And Ausonius:</l>
+                                <l>Mœret in antiquam Ceneus revocata figuram.</l>
+                            </lg>
+                        </quote>
+                        <lb/><choice><orig>Soe</orig><reg>So</reg></choice> in the Consulship of Licinius Crassus, and Caius Cassius Longinus
+                        
+                        
+                        
+                        <pb n="106"/><fw rend="italics">Discourse 33.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <lb/>at Cassinum a boy was made of a Virgin: And Licinius Mutianus in Pli
+                        <lb break="no"/>ny relates, that <choice><orig>hee</orig><reg>he</reg></choice> had seen one Aristontes at Argos, called <choice><orig>allso</orig><reg>also</reg></choice> by the <pc>-</pc>
+                        <lb/>name of Aristusa, who was <choice><orig>marryd</orig><reg>married</reg></choice>, and <choice><orig>soone</orig><reg>soon</reg></choice> after discovered a beard <pc>-</pc>
+                        <lb/>and virility, and <choice><orig>marryd</orig><reg>married</reg></choice> a wife: Pliny <choice><orig>himselfe</orig><reg>himself</reg></choice> <choice><orig>sayth</orig><reg>says</reg></choice> that in Africa
+                        <lb/><choice><orig>hee</orig><reg>he</reg></choice> saw Lucius Cossicius a Citizen of Tisdritane <choice><orig>chang'd</orig><reg>changed</reg></choice> into a woman
+                        <lb/>on the day of <choice><orig>mariage</orig><reg>marriage</reg></choice>: <choice><orig>certaine</orig><reg>certain</reg></choice> it is that these things are true, and <pc>-</pc>
+                        <lb/>might be proved by many other examples, if need were: but the <choice><orig>geni
+                        <lb break="no"/>tall</orig><reg>genital</reg></choice> or virile parts are thrust out of the body by the <choice><orig>encrease</orig><reg>increase</reg></choice> of heat:
+                        <lb/>For a woman being much colder than a man, and having inwardly <pc>-</pc>
+                        <lb/>those things absconded, which a man <choice><orig>hath</orig><reg>has</reg></choice> outwardly, as <choice><orig>Physitians</orig><reg>Physicians</reg></choice> <pc>-</pc>
+                        <lb/>say, hereupon Nature being dubious, whether <choice><orig>Shee</orig><reg>She</reg></choice> Should generate a <pc>-</pc>
+                        <lb/>man or a woman, <choice><orig>hath</orig><reg>has</reg></choice> <choice><orig>expressd</orig><reg>expressed</reg></choice> a woman outwardly, though inwardly <pc>-</pc>
+                        <lb/><choice><orig>shee</orig><reg>she</reg></choice> <choice><orig>conceivd</orig><reg>conceived</reg></choice> a man: for which reason heat and motion increasing <pc>-</pc>
+                        <lb/>through age the hidden parts broke forth, and <choice><orig>shewd</orig><reg>showed</reg></choice> themselves visibly
+                        <lb/>to all men: After the same manner with the Philosophers the woman is
+                        <lb/><choice><orig>turnd</orig><reg>turned</reg></choice> into a man heat being increased, that is, the Hermaphrodite <choice><orig>loo
+                        <lb break="no"/>seth</orig><reg>looses</reg></choice> the female sex, and becomes a man stout and grave, having <pc>-</pc>
+                        <lb/>nothing in him of effeminacy or levity. <choice><orig>Soe</orig><reg>So</reg></choice> <choice><orig>wee</orig><reg>we</reg></choice> some time since <pc>-</pc>
+                        <lb/>saw a noble youth an Hermaphrodite changed or rather promoted (by
+                        <lb/>the industry of the <choice><orig>Chirurgicall</orig><reg>Surgical</reg></choice> art <choice><orig>performd</orig><reg>performed</reg></choice> by that most famous
+                        <lb/><choice><orig>Physitian</orig><reg>Physician</reg></choice> Caspius Tagliacotius of Bononia) into a perfect man, fit (as
+                        <lb/>was desired) for the generating of an offspring, a new hole being made
+                        <lb/>through the yard, which was wanting there, and the lower as appertai
+                        <lb break="no"/>ning to the woman being <choice><orig>stopd</orig><reg>stopped</reg></choice> up. The Philosophers are not without
+                        <lb/>all these <choice><orig>manuall</orig><reg>manual</reg></choice> operations: for when the <choice><orig>coldnesse</orig><reg>coldness</reg></choice> and <choice><orig>moistnesse</orig><reg>moistness</reg></choice> of <pc>-</pc>
+                        <lb/>Luna appears, that they call the woman, when the heat and siccity of
+                        <lb/>Sol, the man; <add>when</add> all those four <choice><orig>qualityes</orig><reg>qualities</reg></choice> together, <del>being</del> their Rebis or Her
+                        <lb break="no"/>maphrodite; And thus conversion of the woman may easily be made,
+                        <lb/>that is, the mutation of <choice><orig>coldnesse</orig><reg>coldness</reg></choice> and <choice><orig>moistnesse</orig><reg>moistness</reg></choice>, into the man, which is
+                        <lb/>done by the sole heat of fire, as <choice><orig>hath</orig><reg>has</reg></choice> been <choice><orig>sayd</orig><reg>said</reg></choice>; for heat sequesters, <pc>-</pc>
+                        <lb/>and separates the <choice><orig>superfluityes</orig><reg>superfluities</reg></choice> of moistures, and will establish the <pc>-</pc>
+                        <lb/>idea of <choice><orig>itselfe</orig><reg>itself</reg></choice> in the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> subject, which is the tincture<pc>. .</pc>
+                    </ab>   
+                </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

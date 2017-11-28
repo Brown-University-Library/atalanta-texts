@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="emblem" n="e15"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+                <pb n="50"/><!-- Change to page number of the actual manuscript -->
+                
+                
+                <div type="title" xml:lang="en">
+                    <head>
+                        <lb/><seg rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 15. Of the Secrets of Nature.
+                        <lb/>Let the <choice><orig>worke</orig><reg>work</reg></choice> of the Potter, consisting in siccity and moisture,
+                        <lb/>instruct you.</seg>
+                    </head>
+                </div>
+                
+                
+                <div type="epigram" xml:lang="en">
+                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 15.</head>
+                    <lg>
+                        <l>Water the Potter mixing with his clay,</l>
+                        <l>Makes <choice><orig>vessells</orig><reg>vessels</reg></choice> <choice><orig>Shapd</orig><reg>Shaped</reg></choice> by <choice><orig>wheele</orig><reg>wheel</reg></choice> without delay:</l>
+                        <l>This <choice><orig>cheifely</orig><reg>chiefly</reg></choice> <choice><orig>dos</orig><reg>does</reg></choice> his <choice><orig>aime</orig><reg>aim</reg></choice> and art <choice><orig>expresse</orig><reg>express</reg></choice>,</l>
+                        <l>The thirsty earth with liquor to refresh:</l>
+                        <l>His road is safe, proceed, and <choice><orig>doe</orig><reg>do</reg></choice> not <choice><orig>turne</orig><reg>turn</reg></choice></l>
+                        <l><choice><orig>Drowne</orig><reg>Drowne</reg></choice> not your earth, nor suffer it to <choice><orig>burne</orig><reg>burn</reg></choice>.</l>
+                    </lg>
+                </div>
+                
+                
+                <pb n="51"/> <!-- Change to page number of the actual manuscript -->
+                <div type="discourse" xml:lang="en">
+                    <head rend="italics">Discourse 15.</head>
+                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+                        <lb/>As this <choice><orig>orbe</orig><reg>orb</reg></choice> is by the <choice><orig>connexion</orig><reg>connection</reg></choice> of earth and water conglobated into one<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>round body, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> the Potters <choice><orig>worke</orig><reg>work</reg></choice> seems to be compounded of the
+                        <lb/>same Elements particularly, namely of siccity and moisture, that one
+                        <lb/>may regulate the other: for if the earth should be without water, nei
+                        <lb break="no"/>ther the Ocean, sea, lakes, rivers, or fountains would be near the earth,
+                        <lb/>it could bear nothing of <choice><orig>itselfe</orig><reg>itself</reg></choice>, but <choice><orig>remaine</orig><reg>remain</reg></choice> barren: <choice><orig>Soe</orig><reg>So</reg></choice> if water should
+                        <lb/>not be received into the <choice><orig>cavityes</orig><reg>cavities</reg></choice> of the earth, but stand about, it would
+                        <lb/>easily cover the whole earth, and <choice><orig>soe</orig><reg>so</reg></choice> the same <choice><orig>remayne</orig><reg>remain</reg></choice> inhabitable:
+                        <lb/>but one <choice><orig>entring</orig><reg>entering</reg></choice> amicably into the other, and water moderating the <pc>-</pc>
+                        <lb/>siccity of the earth, the earth the moisture of that, by their <choice><orig>mutuall</orig><reg>mutual</reg></choice>
+                        <lb/><choice><orig>coḿixtion</orig><reg>commixtion</reg></choice>, hereby is the fertility and utility of both Elements conspi
+                        <lb break="no"/>cuous: In like manner the Potter <choice><orig>mixeth</orig><reg>mixes</reg></choice> clay with water, to make <pc>-</pc>
+                        <lb/>thereof a tractable <choice><orig>masse</orig><reg>mass</reg></choice>, which <choice><orig>hee</orig><reg>he</reg></choice> Shapes by his <choice><orig>wheele</orig><reg>wheel</reg></choice>, and <choice><orig>setts</orig><reg>sets</reg></choice> in
+                        <lb/>the warme <choice><orig>aire</orig><reg>air</reg></choice>, that it may be gradually <choice><orig>dryed</orig><reg>dried</reg></choice>; then adds violence of <pc>-</pc>
+                        <lb/>fire, that his <choice><orig>vessells</orig><reg>vessels</reg></choice> may be well hardened, and condensed into a durable
+                        <lb/>stone, which can resist both water and fire: <choice><orig>Soe</orig><reg>So</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> must <choice><orig>wee</orig><reg>we</reg></choice> proceed
+                        <lb/>in the <choice><orig>naturall</orig><reg>natural</reg></choice> <choice><orig>worke</orig><reg>work</reg></choice> as the Philosophers attest, and therefore <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>affirme</orig><reg>affirm</reg></choice>
+                        <lb/>that example ought to be taken from the Potters. For as to siccity and <pc>-</pc>
+                        <lb/>moisture, that is, earth and water, <choice><orig>wee</orig><reg>we</reg></choice> doubt not that there is much <pc>-</pc>
+                        <lb/>affinity in both, but much difference in the way of coction, and in the
+                        <lb/>matter and <choice><orig>forme</orig><reg>form</reg></choice> of compounding the Elements: For Potters <choice><orig>vessells</orig><reg>vessels</reg></choice> have
+                        <lb/>an <choice><orig>artificiall</orig><reg>artificial</reg></choice> <choice><orig>forme</orig><reg>form</reg></choice>, the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> tincture a <choice><orig>forme</orig><reg>form</reg></choice> <choice><orig>alltogether</orig><reg>altogether</reg></choice> <choice><orig>natu
+                        <lb break="no"/>rall</orig><reg>natural</reg></choice>, and <choice><orig>soe</orig><reg>so</reg></choice> much more noble than they, by how much the more excel
+                        <lb break="no"/>lent the matter of this is than theirs: either is indeed a <choice><orig>worke</orig><reg>work</reg></choice> of earth, but
+                        <lb/>in the <choice><orig>Philosophicall</orig><reg>Philsophical</reg></choice> there is nothing <choice><orig>sayd</orig><reg>said</reg></choice> to be, which <choice><orig>hath</orig><reg>has</reg></choice> not ascended
+                        <lb/>and attained to the heaven of <choice><orig>aire</orig><reg>air</reg></choice>, in that a <choice><orig>thicke</orig><reg>thick</reg></choice> and <choice><orig>fæculent</orig><reg>feculent</reg></choice> earth is
+                        <lb/><choice><orig>prædominant</orig><reg>predominant</reg></choice>: The effect of both is a stone, there a <choice><orig>coḿon</orig><reg>common</reg></choice>, here a <choice><orig>Philo
+                        <lb break="no"/>sophicall</orig><reg>Philosophical</reg></choice>: by which name a <choice><orig>certaine</orig><reg>certain</reg></choice> person being seduced put a great <pc>-</pc>
+                        <lb/>number of <choice><orig>artificiall</orig><reg>artificial</reg></choice> stones or <choice><orig>tyles</orig><reg>tiles</reg></choice> into one chest, and the whiter sort
+                        <lb/>of flints into another, using <choice><orig>Diabolicall</orig><reg>Diabolical</reg></choice> conjurations from above, by
+                        <lb/>which the last were at a <choice><orig>certaine</orig><reg>certain</reg></choice> time to be converted into silver, the
+                        <lb/>first into pure gold: but they being supposed to be the Philosophers
+                        <lb/>Stones, and therefore a great <choice><orig>summe</orig><reg>sum</reg></choice> of <choice><orig>mony</orig><reg>money</reg></choice> <choice><orig>accrewing</orig><reg>accruing</reg></choice> to purchase <choice><orig>se
+                        <lb/>verall</orig><reg>several</reg></choice> things, when the new gold and Silver might be expected, at a
+                        <lb/><choice><orig>certaine</orig><reg>certain</reg></choice> time, in which it not appearing, nor the stones converted into
+                        <lb/>gold, as was desired, death put an end to the folly and Shame: For gold
+                        <lb/>or Silver ought not to be expected from that thing, in which it is not na
+                        <lb break="no"/>turally, <choice><orig>diabolicall</orig><reg>diabolical</reg></choice> <choice><orig>Magicke</orig><reg>Magic</reg></choice> having <choice><orig>noe</orig><reg>no</reg></choice> place in these divine works, but
+                        <lb/>is as <choice><orig>farre</orig><reg>far</reg></choice> different from them, as the author of it from a devout and <pc>-</pc>
+                        <lb/>pious man, hell from heaven: <choice><orig>Soe</orig><reg>So</reg></choice> though it may be esteemed the true
+                        <lb/><choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> stone, yet let not any man <choice><orig>perswade</orig><reg>persuade</reg></choice> <choice><orig>himselfe</orig><reg>himself</reg></choice>, that im
+                        <lb break="no"/>possible things can performed by it, us <choice><orig>Isaack</orig><reg>Isaac</reg></choice> <choice><orig>admonisheth</orig><reg>admonishes</reg></choice>: <choice><orig>noe</orig><reg>no</reg></choice> man
+                        <lb/>being bound either by the <choice><orig>lawes</orig><reg>laws</reg></choice> of nature, or polity to things im
+                        
+                        
+                        
+                        <pb n="52"/><fw rend="italics">Discourse 15.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <lb break="no"/>possible: as for the transmutation of <choice><orig>gemms</orig><reg>gems</reg></choice> by it, and performing the <pc>-</pc>
+                        <lb/>malleability of <choice><orig>glasse</orig><reg>glass</reg></choice> any man thereby perceive, whether these
+                        <lb/>things are possible, and <choice><orig>congrous</orig><reg>congruous</reg></choice> to this nature, or <choice><orig>noe</orig><reg>no</reg></choice>: Geber affirms <pc>-</pc>
+                        <lb/>that the Philosophers <choice><orig>speake</orig><reg>speak</reg></choice> many things allegorically, as <choice><orig>allso</orig><reg>also</reg></choice> of <choice><orig>him
+                        <lb break="no"/>selfe</orig><reg>himself</reg></choice>, that where <choice><orig>hee</orig><reg>he</reg></choice> Spoke clearly and plainly, <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>sayd</orig><reg>said</reg></choice> nothing, but <pc>-</pc>
+                        <lb/>where figuratively, there <choice><orig>hee</orig><reg>he</reg></choice> absconded the truth, as wheat under <pc>-</pc>
+                        <lb/><choice><orig>chaffe</orig><reg>chaff</reg></choice>: Those things which a man <choice><orig>sowes</orig><reg>sows</reg></choice>, the same <choice><orig>allso</orig><reg>also</reg></choice> will <choice><orig>hee</orig><reg>he</reg></choice> reap, which takes
+                        <lb/>place in vegetables and <choice><orig>animalls</orig><reg>animals</reg></choice>, though different Species may sometimes proceed
+                        <lb/>from the things sowed: whether these ought to be <choice><orig>applyed</orig><reg>applied</reg></choice> to <choice><orig>metalls</orig><reg>metals</reg></choice>, <pc>-</pc>
+                        <lb/>which are not propagated by seed, as those, must be considered: In these the
+                        <lb/>parts <choice><orig>onely</orig><reg>only</reg></choice> are homogeneous, Sulphur, and Argent vive, in those they are hete
+                        <lb break="no"/>rogeneous or <choice><orig>organicke</orig><reg>organic</reg></choice>: In these are <choice><orig>noe</orig><reg>no</reg></choice> receptacles of seed, but in those: <pc>-</pc>
+                        <lb/>In these there is not found any nutrition, augmentation, or extension in all
+                        <lb/>dimensions, in those very much: yea these are elemented weights admitting
+                        <lb/>mixtion alone, those <choice><orig>allso</orig><reg>also</reg></choice> besides mixtion have either a vegetive or sensitive
+                        <lb/><choice><orig>soule</orig><reg>soul</reg></choice>: <choice><orig>Neverthelesse</orig><reg>Nevertheless</reg></choice> it is without doubt true that there is something in places
+                        <lb/>under the earth, which is not gold now, but will after a thousand years be <pc>-</pc>
+                        <lb/>gold by nature: Who will deny this to be the <choice><orig>analogicall</orig><reg>analogical</reg></choice> seed of gold? both <pc>-</pc>
+                        <lb/>gold and the <choice><orig>aurificke</orig><reg>aurific</reg></choice> nature being of one <choice><orig>originall</orig><reg>original</reg></choice> and radix, though <pc>-</pc>
+                        <lb/>this of the more noble <choice><orig>forme</orig><reg>form</reg></choice>, and therefore the seed of gold being <choice><orig>knowne</orig><reg>known</reg></choice>, <pc>-</pc>
+                        <lb/>this <choice><orig>allso</orig><reg>also</reg></choice> will be manifested: The Philosophers <choice><orig>affirme</orig><reg>affirm</reg></choice> siccity and mois
+                        <lb break="no"/>ture or Sulphur and Argent vive to be that, which being most pure must
+                        <lb/>be extracted out of two mountains<pc>. . . . . . . . . . .</pc>
+                    </ab>   
+                </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
+

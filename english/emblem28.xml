@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="emblem" n="e28"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+                <pb n="89"/><!-- Change to page number of the actual manuscript -->
+                
+                
+                <div type="title" xml:lang="en">
+                    <head>
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 28. Of the Secrets of Nature.
+                        <lb/>The King sitting in a vaporous bath is bathed, and freed from
+                        <lb/>melancholy by Pharut.</seg>
+                    </head>
+                </div>
+                
+                
+                <div type="epigram" xml:lang="en">
+                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 28.</head>
+                    <lg>
+                        <l>Prince Duenech, armed with the <choice><orig>Lyons</orig><reg>Lions</reg></choice> strength,</l>
+                        <l>Grew <choice><orig>melancholicke</orig><reg>melancholic</reg></choice> and morose at length:</l>
+                        <l>Pharut is sent for to contrive a cure,</l>
+                        <l>Who by a vaporous bath <choice><orig>doth</orig><reg>does</reg></choice> health assure;</l>
+                        <l>Which means by frequent use wrought good effect,</l>
+                        <l>And his distempers <choice><orig>wholy</orig><reg>wholly</reg></choice> did correct.</l>
+                    </lg>
+                </div>
+                
+                
+                <pb n="90"/> <!-- Change to page number of the actual manuscript -->
+                <div type="discourse" xml:lang="en">
+                    <head rend="italics">Discourse 3.</head>
+                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+                        <lb/>As there are three concoctions in man, the first in the <choice><orig>Stomacke</orig><reg>Stomach</reg></choice>, the second<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>in the Liver, the third in the veins, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>soe</orig><reg>so</reg></choice> many are the <choice><orig>universall</orig><reg>universal</reg></choice> <pc>-</pc>
+                        <lb/>evacuations of the excrements, which are correspondent to them, and daily
+                        <lb/>carry <choice><orig>of</orig><reg>off</reg></choice> their <choice><orig>superfluityes</orig><reg>superfluities</reg></choice>, namely the first by <choice><orig>Stoole</orig><reg>Stool</reg></choice>, which is proper to
+                        <lb/>the first concoction, the second by urine, which <choice><orig>appertaines</orig><reg>appertains</reg></choice> to the second,
+                        <lb/>the third by expiration through the pores of the whole body, or by <pc>-</pc>
+                        <lb/>sweat, which is peculiar to the third: In the first the Chyle, in the next the <pc>-</pc>
+                        <lb/>Chyme, in the last a dew or dewy substance is elaborated, and <choice><orig>applyed</orig><reg>applied</reg></choice> to <pc>-</pc>
+                        <lb/>every part of the body: The recrements or <choice><orig>fæces</orig><reg>feces</reg></choice> of the first are <choice><orig>thicke</orig><reg>thick</reg></choice>,
+                        <lb/>bilious, and <choice><orig>fatt</orig><reg>fat</reg></choice>, which are <choice><orig>carryed</orig><reg>carried</reg></choice> through the <choice><orig>bowells</orig><reg>bowels</reg></choice> to the <choice><orig>backe</orig><reg>back</reg></choice> <choice><orig>doore</orig><reg>door</reg></choice>,
+                        <lb/>and if they be at any time obstructed, they are moderately or strongly
+                        <lb/>expelled by gentle purgatives; the excrements of the second are liquid, <pc>-</pc>
+                        <lb/>more <choice><orig>thinne</orig><reg>thin</reg></choice>, bilious and saltish, which are brought out of the veins by
+                        <lb/>the <choice><orig>kidnyes</orig><reg>kidneys</reg></choice> and bladder, as conduits, and the sediment of these is the <choice><orig>signe</orig><reg>sign</reg></choice>
+                        <lb/>or touchstone of urine: The <choice><orig>superfluityes</orig><reg>superfluities</reg></choice> of the third are yet more <pc>-</pc>
+                        <lb/><choice><orig>thinne</orig><reg>thin</reg></choice>, and therefore <choice><orig>doe</orig><reg>do</reg></choice> for the most part expire of themselves <pc>-</pc>
+                        <lb/>through the smallest pores, or are <choice><orig>carryed</orig><reg>carried</reg></choice> out together with the serum of
+                        <lb/>the humors, as sweat: These are <choice><orig>helpd</orig><reg>helped</reg></choice> by <choice><orig>sudorificks</orig><reg>sudorifics</reg></choice>, as <add>the</add> antecedent by <pc>-</pc>
+                        <lb/><choice><orig>diureticks</orig><reg>diuretics</reg></choice>: To evacuate these last <choice><orig>fæces</orig><reg>feces</reg></choice> the ancient Greeks and Romans <pc>-</pc>
+                        <lb/>were very solicitous: For to this end were <choice><orig>soe</orig><reg>so</reg></choice> many sports and exercises used
+                        <lb/>by them, as chafing of all the parts in the morning, <choice><orig>anoynting</orig><reg>anointing</reg></choice> with <choice><orig>oyle</orig><reg>oil</reg></choice>, <pc>-</pc>
+                        <lb/>and <choice><orig>wrastling</orig><reg>wrestling</reg></choice>, fencing, the exercise of running, of hand<pc rend="double-hyphen">-</pc>ball, <choice><orig>tennice</orig><reg>tennis</reg></choice>, dai
+                        <lb break="no"/>ly washing and bathing in rivers or <choice><orig>artificiall</orig><reg>artificial</reg></choice> baths, for the conveniency
+                        <lb/>of which were <choice><orig>soe</orig><reg>so</reg></choice> many magnificent structures built at Rome, that <choice><orig>wee</orig><reg>we</reg></choice>
+                        <lb/>can rather admire than imitate them: As for example the baths of Dio
+                        <lb break="no"/>clesian, which for the most part are yet remaining, and (if I be not <pc>-</pc>
+                        <lb/>mistaken) <choice><orig>pourtrayed</orig><reg>portrayed</reg></choice> with <choice><orig>Archangells</orig><reg>Archangels</reg></choice>, <choice><orig>soe</orig><reg>so</reg></choice> high, sumptuous, and splendid
+                        <lb/>were the <choice><orig>workes</orig><reg>works</reg></choice>: The sorts of concoctions in the elaboration of <choice><orig>metalls</orig><reg>metals</reg></choice> are <pc>-</pc>
+                        <lb/><choice><orig>allmost</orig><reg>almost</reg></choice> the saine, as those <choice><orig>aforesayd</orig><reg>aforesaid</reg></choice>: for the first is in its way effected <pc>-</pc>
+                        <lb/>in annus magnus, that is, the revolution of the highest Sphere, the se
+                        <lb break="no"/>cond in the revolution of the lowest, the third in the revolution of the
+                        <lb break="no"/><choice><orig>midle</orig><reg>middle</reg></choice> Sphere: But the Philosophers to draw forth this <choice><orig>masse</orig><reg>mass</reg></choice> of excrementitious
+                        <lb/><choice><orig>superfluityes</orig><reg>superfluities</reg></choice> more <choice><orig>coḿodiously</orig><reg>commodiously</reg></choice> by the ministery of art, <choice><orig>doe</orig><reg>do</reg></choice> invent <choice><orig>allso</orig><reg>also</reg></choice> <pc>-</pc>
+                        <lb/><choice><orig>severall</orig><reg>several</reg></choice> <choice><orig>wayes</orig><reg>ways</reg></choice>, as ablutions, purgations, balneations and <choice><orig>laconicks</orig><reg>laconics</reg></choice>, by which
+                        <lb/>they have <choice><orig>performd</orig><reg>performed</reg></choice> that in the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> <choice><orig>worke</orig><reg>work</reg></choice>, which <choice><orig>Physitians</orig><reg>Physicians</reg></choice>
+                        <lb/>have in mans body: Duenech therefore is introduced into the bath by <pc>-</pc>
+                        <lb/>Pharut, there to sweat, and evacuate the <choice><orig>fæces</orig><reg>feces</reg></choice> of the third concoction <pc>-</pc>
+                        <lb/>through the pores: Now this Kings distemper is <choice><orig>melancholicke</orig><reg>melancholic</reg></choice> or atrabilary, <pc>-</pc>
+                        <lb/>whereby <choice><orig>hee</orig><reg>he</reg></choice> is of <choice><orig>lesse</orig><reg>less</reg></choice> authority and <choice><orig>esteeme</orig><reg>esteem</reg></choice> than all other princes, being
+                        <lb/>taxed with the morosity of <choice><orig>Saturne</orig><reg>Saturn</reg></choice>, and the choler or passion of Mars: <pc>-</pc>
+                        <lb/><choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>hath</orig><reg>has</reg></choice> therefore a desire either to <choice><orig>dye</orig><reg>die</reg></choice> or be cured, if it be possible: <pc>-</pc>
+                        <lb/>Amongst many <choice><orig>Physitians</orig><reg>Physicians</reg></choice> one being found, who <choice><orig>undertooke</orig><reg>undertook</reg></choice> this charge
+                        
+                        
+                        
+                        <pb n="9i"/><fw rend="italics">Discourse 28.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <lb/>upon <choice><orig>himselfe</orig><reg>himself</reg></choice>, <choice><orig>hee</orig><reg>he</reg></choice> was brought with <choice><orig>entreatyes</orig><reg>entreaties</reg></choice> and rewards: And this Allegory
+                        <lb/>is very frequent in the writings of the Philosophers, as of Bernard, Alanus, in the
+                        <lb/>treatise of Duenech, and innumerable others; <choice><orig>wee</orig><reg>we</reg></choice> therefore add <choice><orig>noe</orig><reg>no</reg></choice> other cir
+                        <lb break="no"/>cumstances which might be derived from them: it is sufficient here to have ob
+                        <lb break="no"/>served, the excrement of which coction may be evacuated by balneation: for
+                        <lb/>herein consists the substance of the whole matter: Heat included in the body
+                        <lb/>is <choice><orig>coḿonly</orig><reg>commonly</reg></choice> reduced to the superficies of the <choice><orig>skinne</orig><reg>skin</reg></choice> together with the blood in
+                        <lb/><choice><orig>hott</orig><reg>hot</reg></choice> stoves or baths, whereby a <choice><orig>beautifull</orig><reg>beautiful</reg></choice> complexion is acquired to the face <pc>-</pc>
+                        <lb/>and whole body; which if it appear, will be a <choice><orig>signe</orig><reg>sign</reg></choice>, that the <choice><orig>melancholicke</orig><reg>melancholic</reg></choice>
+                        <lb/><choice><orig>blacknesse</orig><reg>blackness</reg></choice>, which infects the <choice><orig>skinne</orig><reg>skin</reg></choice>, may by degrees be evacuated, and all
+                        <lb/>the humors corrected, that pure and rosy blood may afterwards be genera
+                        <lb break="no"/>ted: The whole temperament of his body must necessarily be amended, <pc>-</pc>
+                        <lb/>because it resists good blood, and is cold and dry, that on the contrary being
+                        <lb/><choice><orig>hott</orig><reg>hot</reg></choice> and moist, which whether it can be done or <choice><orig>noe</orig><reg>no</reg></choice>, it is convenient for
+                        <lb/>a <choice><orig>Physitian</orig><reg>Physician</reg></choice> to foreknow and foretell by <choice><orig>prognosticks</orig><reg>prognostics</reg></choice>: Some men are found
+                        <lb/>who have taken Cerdon for the great Prince or Kings <choice><orig>Sonne</orig><reg>Son</reg></choice>, but they have <pc>-</pc>
+                        <lb/>at length by <choice><orig>certaine</orig><reg>certain</reg></choice> signs perceived what <choice><orig>hee</orig><reg>he</reg></choice> was in descent and educa
+                        <lb break="no"/>tion: lest this should happen, the artist must be <choice><orig>carefull</orig><reg>careful</reg></choice> in the first place
+                        <lb/>to choose the true offspring of the King, which though <choice><orig>hee</orig><reg>he</reg></choice> be not in splen
+                        <lb break="no"/>did and golden attire, but in despicable and <choice><orig>meane</orig><reg>mean</reg></choice> <choice><orig>cloathing</orig><reg>clothing</reg></choice>, as <choice><orig>allso</orig><reg>also</reg></choice> of a <pc>-</pc>
+                        <lb/>livid and <choice><orig>melancholicke</orig><reg>melancholic</reg></choice> complexion, let him not therefore reject him, or <pc>-</pc>
+                        <lb/>take another in his <choice><orig>roome</orig><reg>room</reg></choice>; for if <choice><orig>hee</orig><reg>he</reg></choice> be very well <choice><orig>washd</orig><reg>washed</reg></choice>, his <choice><orig>royall</orig><reg>royal</reg></choice> ge
+                        <lb break="no"/>nius will <choice><orig>soone</orig><reg>soon</reg></choice> appear, as in Cyrus, Paris, Romulus, who were educated <pc>-</pc>
+                        <lb/>amongst <choice><orig>rusticks</orig><reg>rustics</reg></choice>: But by way of observation the bath must be a <choice><orig>Laconicke</orig><reg>Laconics</reg></choice>, <pc>-</pc>
+                        <lb/>that is, vaporous and <choice><orig>sudorificke</orig><reg>sudorific</reg></choice>, that the water may not <choice><orig>burne</orig><reg>burn</reg></choice> his tender flesh, or
+                        <lb/>obstruct the pores, whereby more damage than utility would ensue, and his malady
+                        <lb/>not be cured: As for the Kings garments to be put on after bathing let <choice><orig>noe</orig><reg>no</reg></choice> man
+                        <lb/>be solicitous; for as the daughter of King Alcinous did in times past contribute <pc>-</pc>
+                        <lb/><choice><orig>cloaths</orig><reg>clothes</reg></choice> to Ulysses being <choice><orig>shipwreckd</orig><reg>shipwrecked</reg></choice> and naked, <choice><orig>soe</orig><reg>so</reg></choice> will there be one that will <pc>-</pc>
+                        <lb/>send him most <choice><orig>pretious</orig><reg>precious</reg></choice> robes, that <choice><orig>hee</orig><reg>he</reg></choice> may deservedly be acknowledged the <pc>-</pc>
+                        <lb/><choice><orig>Sonne</orig><reg>Son</reg></choice> of Sol<pc>. . . . . . . . . . . . .</pc>
+                        
+                    </ab>   
+                </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

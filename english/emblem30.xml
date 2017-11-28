@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="emblem" n="e30"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+                <pb n="95"/><!-- Change to page number of the actual manuscript -->
+                
+                
+                <div type="title" xml:lang="en">
+                    <head>
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 30. Of the Secrets of Nature.
+                        <lb/>Luna is as requisite to Sol as a <choice><orig>henne</orig><reg>hen</reg></choice> to a <choice><orig>cocke</orig><reg>cock</reg></choice>.</seg>
+                    </head>
+                </div>
+                
+                
+                <div type="epigram" xml:lang="en">
+                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 30.</head>
+                    <lg>
+                        <l>What can you <choice><orig>doe</orig><reg>do</reg></choice> dear Sol! alone, if I</l>
+                        <l><choice><orig>Joyne</orig><reg>Join</reg></choice> not as <choice><orig>henne</orig><reg>hen</reg></choice> with <choice><orig>cocke</orig><reg>cock</reg></choice> to multiply?</l>
+                        <l>Or can I Luna Natures <choice><orig>guifts</orig><reg>gifts</reg></choice> <choice><orig>expresse</orig><reg>express</reg></choice></l>
+                        <l>Without your <choice><orig>ayde</orig><reg>aid</reg></choice>? <choice><orig>noe</orig><reg>no</reg></choice>, grant <choice><orig>mee</orig><reg>me</reg></choice> some <choice><orig>redresse</orig><reg>redress</reg></choice>.</l>
+                        <l><choice><orig>Hee's</orig><reg>He's</reg></choice> but a <choice><orig>foole</orig><reg>fool</reg></choice> those to confine apart</l>
+                        <l><choice><orig>Whome</orig><reg>Whom</reg></choice> Nature would have <choice><orig>joynd</orig><reg>joined</reg></choice> in mind and heart.</l>
+                    </lg>
+                </div>
+                
+                
+                <pb n="96"/> <!-- Change to page number of the actual manuscript -->
+                <div type="discourse" xml:lang="en">
+                    <head rend="italics">Discourse 30.</head>
+                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+                        <lb/>Avicenne in his <choice><orig>booke</orig><reg>book</reg></choice> of the <choice><orig>Soule</orig><reg>Soul</reg></choice> <choice><orig>divers</orig><reg>diverse</reg></choice> times <choice><orig>admonisheth</orig><reg>admonishes</reg></choice>, that <choice><orig>noe</orig><reg>no</reg></choice> <pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb/>eggs are to be taken for art, but <choice><orig>onely</orig><reg>only</reg></choice> of those <choice><orig>henns</orig><reg>hens</reg></choice>, which had a cock:
+                        <lb/>that is, the <choice><orig>fæminine</orig><reg>feminine</reg></choice> subject <choice><orig>avayles</orig><reg>avails</reg></choice> nothing without the masculine <pc>-</pc>
+                        <lb/>virtue, and on the contrary, nor a <choice><orig>cocke</orig><reg>cock</reg></choice> profitable without a <choice><orig>henne</orig><reg>hen</reg></choice>:
+                        <lb/>for both these sexes must be <choice><orig>joynd</orig><reg>joined</reg></choice> together in the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> <choice><orig>coupe</orig><reg>coop</reg></choice>,
+                        <lb/>that multiplication may be made: The Philosophers <choice><orig>doe</orig><reg>do</reg></choice> indeed use
+                        <lb/>the similitude taken from a <choice><orig>cocke</orig><reg>cock</reg></choice>, because in the first place <choice><orig>hee</orig><reg>he</reg></choice> is <pc>-</pc>
+                        <lb/>more correspondent to the power of Sulphur, than any other male of
+                        <lb/>birds, one being able to serve many <choice><orig>henns</orig><reg>hens</reg></choice>, and not easily suffering a
+                        <lb/><choice><orig>rivall</orig><reg>rival</reg></choice> in the same dunghill, thinking <choice><orig>himselfe</orig><reg>himself</reg></choice> convenient and suffi
+                        <lb break="no"/>cient for everyone. <choice><orig>Hee</orig><reg>He</reg></choice> is the bird of Mars, <choice><orig>transformd</orig><reg>transformed</reg></choice>, as the Poets
+                        <lb/>fable, from the youth Gallus, who was entrusted to observe Sol, that <pc>-</pc>
+                        <lb/><choice><orig>hee</orig><reg>he</reg></choice> might not discover the adultery of Mars with Venus, and very
+                        <lb/><choice><orig>Martiall</orig><reg>Martial</reg></choice> in fight, contending with his adversary even to death: In <pc>-</pc>
+                        <lb/>the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> <choice><orig>worke</orig><reg>work</reg></choice> <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>repræsents</orig><reg>represents</reg></choice> Sol, as the <choice><orig>henne</orig><reg>hen</reg></choice> <choice><orig>doth</orig><reg>does</reg></choice> Luna:
+                        <lb/>there is therefore the same necessity of <choice><orig>joyning</orig><reg>joining</reg></choice> Sol with Luna, as a <pc>-</pc>
+                        <lb/><choice><orig>cocke</orig><reg>cock</reg></choice> with a <choice><orig>henne</orig><reg>hen</reg></choice>: The <choice><orig>cocke</orig><reg>cock</reg></choice> is <choice><orig>allso</orig><reg>also</reg></choice> consecrated to Sol, at whose <pc>-</pc>
+                        <lb/>approach <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>riseth</orig><reg>rises</reg></choice>, and goes to sleep with him: <choice><orig>hee</orig><reg>he</reg></choice> often looks up to <pc>-</pc>
+                        <lb/>heaven, and erects his hooked <choice><orig>tayle</orig><reg>tail</reg></choice> upright: <choice><orig>hee</orig><reg>he</reg></choice> fights against Serpents in
+                        <lb/><choice><orig>defence</orig><reg>defense</reg></choice> of his <choice><orig>henns</orig><reg>hens</reg></choice>: <choice><orig>hee</orig><reg>he</reg></choice> is an acceptable messenger of light and Latona <pc>-</pc>
+                        <lb/>being <choice><orig>præsent</orig><reg>present</reg></choice> at her <choice><orig>labour</orig><reg>labor</reg></choice>: Latona indeed brought forth Sol and Luna,
+                        <lb/>and therefore <choice><orig>hee</orig><reg>he</reg></choice> is appropriated to the mother and <choice><orig>Sonne</orig><reg>Son</reg></choice>: But Sol, <pc>-</pc>
+                        <lb/>Luna, and Latona <choice><orig>doe</orig><reg>do</reg></choice> in <choice><orig>Chymicall</orig><reg>Chymical</reg></choice> subjects agree, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> the <choice><orig>cocke</orig><reg>cock</reg></choice>
+                        <lb/>and <choice><orig>henne</orig><reg>hen</reg></choice>: but these <choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>proceded</orig><reg>proceeded</reg></choice> from an <choice><orig>egge</orig><reg>egg</reg></choice>, and <choice><orig>againe</orig><reg>again</reg></choice> <choice><orig>doe</orig><reg>do</reg></choice> <pc>-</pc>
+                        <lb/>lay eggs for the production of young chickens; <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>doe</orig><reg>do</reg></choice> the Philoso
+                        <lb break="no"/>phers eggs <choice><orig>turne</orig><reg>turn</reg></choice> into birds of the same kind, provided they be kept <pc>-</pc>
+                        <lb/><choice><orig>warme</orig><reg>warm</reg></choice> with temperate heat, as is the heat of a brooding <choice><orig>henne</orig><reg>hen</reg></choice>, which
+                        <lb/>endures continually: For whereas amongst other birds the male <choice><orig>allso</orig><reg>also</reg></choice>
+                        <lb/><choice><orig>sitts</orig><reg>sits</reg></choice> upon the eggs, the <choice><orig>cocke</orig><reg>cock</reg></choice> alone <choice><orig>shews</orig><reg>shows</reg></choice> <choice><orig>himselfe</orig><reg>himself</reg></choice> free from this
+                        <lb/>office or <choice><orig>burthen</orig><reg>burden</reg></choice>; and therefore all the care and pains of hatching the
+                        <lb/>eggs, and producing chickens <choice><orig>lyes</orig><reg>lies</reg></choice> upon the <choice><orig>henne</orig><reg>hen</reg></choice>; where her sedulity
+                        <lb/>and diligence may be observed, how hastily <choice><orig>Shee</orig><reg>She</reg></choice> eats and drinks, and
+                        <lb/>unloads her belly, and presently <choice><orig>runns</orig><reg>runs</reg></choice> <choice><orig>backe</orig><reg>back</reg></choice> to her eggs, before they be <pc>-</pc>
+                        <lb/>cold: Then with what force and violence <choice><orig>Shee</orig><reg>She</reg></choice> defends her chickens,
+                        <lb/>with what <choice><orig>tendernesse</orig><reg>tenderness</reg></choice> <choice><orig>Shee</orig><reg>She</reg></choice> receives and covers them being naked under
+                        <lb/>her wings, with what a <choice><orig>voyce</orig><reg>voice</reg></choice>, as with a bell, <choice><orig>Shee</orig><reg>She</reg></choice> calls and keeps them <pc>-</pc>
+                        <lb/>together, with what study <choice><orig>Shee</orig><reg>She</reg></choice> breaks the harder <choice><orig>crums</orig><reg>crumbs</reg></choice> or seeds for <pc>-</pc>
+                        <lb/>them, and <choice><orig>præsents</orig><reg>presents</reg></choice> them with her <choice><orig>beake</orig><reg>beak</reg></choice>, as on a knife, this <choice><orig>worke</orig><reg>work</reg></choice> of <pc>-</pc>
+                        <lb/>nature is worthy of admiration. And all these things are, that man
+                        <lb/>may neither want eggs nor chickens for aliment: After the same man
+                        <lb break="no"/>ner the Philosopher or artist <choice><orig>doth</orig><reg>does</reg></choice> most diligently and providently <pc>-</pc>
+                        
+                        
+                        
+                        <pb n="97"/><fw rend="italics">Discourse 30.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <lb/>proceed in all his operations; For <choice><orig>hee</orig><reg>he</reg></choice> picks up eggs there where a <choice><orig>cocke</orig><reg>cock</reg></choice> <pc>-</pc>
+                        <lb/><choice><orig>hath</orig><reg>has</reg></choice> been, trying them whether they be adle, after that <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>cleanseth</orig><reg>cleanses</reg></choice> <pc>-</pc>
+                        <lb/><choice><orig>præpares</orig><reg>prepares</reg></choice>, and <choice><orig>disposeth</orig><reg>disposses</reg></choice> them in his <choice><orig>vessells</orig><reg>vessels</reg></choice>, as nests, and administers due
+                        <lb/>heat, whereby the subjects <choice><orig>mixd</orig><reg>mixed</reg></choice> together daily act and suffer one by <pc>-</pc>
+                        <lb/>another, till after a long time passing through various <choice><orig>colours</orig><reg>colors</reg></choice> they come
+                        <lb/>to one <choice><orig>colour</orig><reg>color</reg></choice> and <choice><orig>essence</orig><reg>essense</reg></choice>: In which operation Solution, coagulation,
+                        <lb/>Sublimation, ascension, descension, distillation, calcination and fixion
+                        <lb/>as intermediate are perfected: for a hard and compact thing cannot <pc>-</pc>
+                        <lb/>be altered, therefore Solution is <choice><orig>præmised</orig><reg>premised</reg></choice>, that is may be made liquid
+                        <lb/>and soft: and where a thing is dissolved, it is convenient <choice><orig>allso</orig><reg>also</reg></choice> to be <pc>-</pc>
+                        <lb/>coagulated, not to its former <choice><orig>hardnesse</orig><reg>hardness</reg></choice> but a <choice><orig>honyish</orig><reg>honeyish</reg></choice> tractability; <pc>-</pc>
+                        <lb/>Sublimation separates the pure from the impure, and makes a thing
+                        <lb/>vile more worthy, the <choice><orig>inferiour</orig><reg>inferior</reg></choice> <choice><orig>superiour</orig><reg>superior</reg></choice>; and therefore this nei
+                        <lb break="no"/>ther ought to be wanting, for it is as the <choice><orig>mistresse</orig><reg>mistress</reg></choice> and <choice><orig>directresse</orig><reg>directness</reg></choice> <pc>-</pc>
+                        <lb/>of all: when sublimation is made, some parts ascend higher, which
+                        <lb/>is ascension, and others <choice><orig>againe</orig><reg>again</reg></choice> descend, and <choice><orig>soe</orig><reg>so</reg></choice> descension is made:
+                        <lb/>Distillation <choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>clarifyes</orig><reg>clarifies</reg></choice> the whole being often interposed, and that
+                        <lb/>which <choice><orig>remaynes</orig><reg>remains</reg></choice> in the <choice><orig>bottome</orig><reg>bottom</reg></choice> is calcined: then both are fixed, and
+                        <lb/><choice><orig>soe</orig><reg>so</reg></choice> the <choice><orig>worke</orig><reg>work</reg></choice> is completed. But if a man gather all these parti
+                        <lb break="no"/>cular operations under a <choice><orig>generall</orig><reg>general</reg></choice>, which is Coction, <choice><orig>hee</orig><reg>he</reg></choice> will not <pc>-</pc>
+                        <lb/><choice><orig>erre</orig><reg>err</reg></choice> much from the purpose: for as <choice><orig>soe</orig><reg>so</reg></choice> many chickens as there are,
+                        <lb/>which <choice><orig>runne</orig><reg>run</reg></choice> here and there dispersedly, <choice><orig>doe</orig><reg>do</reg></choice> resort to one mother or
+                        <lb/><choice><orig>nurce</orig><reg>nurse</reg></choice> the <choice><orig>henne</orig><reg>hen</reg></choice>, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>soe</orig><reg>so</reg></choice> many <choice><orig>severall</orig><reg>several</reg></choice> <choice><orig>wayes</orig><reg>ways</reg></choice> of operating <choice><orig>con
+                        <lb break="no"/>curre</orig><reg>concur</reg></choice> to the womans <choice><orig>worke</orig><reg>work</reg></choice>, that is, coction alone: It is Luna, which <pc>-</pc>
+                        <lb/>comes to be exalted to the sublimity of Sol, for whose sake all these
+                        <lb/>things are done, that is, durable matrimony is intended between Sol <pc>-</pc>
+                        <lb/>and Luna, which if effected, all legations, desponsations, copulations,
+                        <lb/>dubitatious, etc. will cease, and the bed and flesh of both will be one,
+                        <lb/><choice><orig>mutuall</orig><reg>mutual</reg></choice> and constant love, <choice><orig>æternall</orig><reg>eternal</reg></choice> peace, and an indissoluble alli
+                        <lb break="no"/>ance: Sol without Luna is of <choice><orig>noe</orig><reg>no</reg></choice> great <choice><orig>esteeme</orig><reg>esteem</reg></choice>, and Luna without
+                        <lb/>Sol of <choice><orig>meane</orig><reg>mean</reg></choice> and sordid condition: But <choice><orig>Shee</orig><reg>She</reg></choice> receives <choice><orig>splendour</orig><reg>splendor</reg></choice>, and
+                        <lb/>dignity, with strength or constancy of mind and body from Sol her <pc>-</pc>
+                        <lb/>husband, and Sol from Luna multiplication of offspring, and pro
+                        <lb break="no"/>pagation of kind: hereupon <choice><orig>Sayth</orig><reg>Says</reg></choice> the Rosary: If <choice><orig>onely</orig><reg>only</reg></choice> one of them <pc>-</pc>
+                        <lb/>Should be in our stone, the medicine would never flow easily, nor, <pc>-</pc>
+                        <lb/><choice><orig>yeild</orig><reg>yield</reg></choice> the tincture, and if it should <choice><orig>yeild</orig><reg>yield</reg></choice>, it would not tinge, <choice><orig>unlesse</orig><reg>unless</reg></choice>
+                        <lb/>for <choice><orig>soe</orig><reg>so</reg></choice> much as <choice><orig>allso</orig><reg>also</reg></choice> the remainder would be, and the Mercury would
+                        <lb/>evaporate in fume, because the receptacle of the tincture would not
+                        <lb/>be in it: And Geber in his <choice><orig>booke</orig><reg>book</reg></choice> of examinations proves, that if Sol <pc>-</pc>
+                        <lb/>and Luna be incorporated together with art, they are not easily <pc>-</pc>
+                        <lb/>separated<pc>. . . . . . . . . . . .</pc>
+                    </ab>   
+                </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

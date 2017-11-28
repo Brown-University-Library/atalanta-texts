@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="emblem" n="e14"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
+                <pb n="47"/><!-- Change to page number of the actual manuscript -->
+                
+                
+                <div type="title" xml:lang="en">
+                    <head>
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 14. Of the Secrets of Nature.
+                        <lb/>This is the Dragon which devours his <choice><orig>tayle</orig><reg>tail</reg></choice>.</seg>
+                    </head>
+                </div>
+                
+                
+                <div type="epigram" xml:lang="en">
+                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 14.</head>
+                    <lg>
+                        <l>Hunger taught Polypus his flesh to eat,</l>
+                        <l>And man with man his appetite to treat:</l>
+                        <l>The hungry Dragon feeding on his <choice><orig>tayle</orig><reg>tail</reg></choice>,</l>
+                        <l>His fainting <choice><orig>soule</orig><reg>soul</reg></choice> <choice><orig>releives</orig><reg>relieves</reg></choice>, which <choice><orig>els</orig><reg>else</reg></choice> would <choice><orig>fayle</orig><reg>fail</reg></choice>;</l>
+                        <l>Hold him to hard meat, till <choice><orig>himselfe</orig><reg>himself</reg></choice> <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>doe</orig><reg>do</reg></choice></l>
+                        <l>Eat and <choice><orig>devoure</orig><reg>devour</reg></choice>, kill and revive anew.</l>
+                    </lg>
+                </div>
+                
+                
+                <pb n="48"/> <!-- Change to page number of the actual manuscript -->
+                <div type="discourse" xml:lang="en">
+                    <head rend="italics">Discourse 14.</head>
+                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+                        <lb/>It is a saying of the Ancients, that a Serpent, which <choice><orig>hath</orig><reg>has</reg></choice> <choice><orig>devourd</orig><reg>devoured</reg></choice> a Serpent, be<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                        <lb break="no"/>comes a Dragon: for it is <choice><orig>cruell</orig><reg>cruel</reg></choice> to its kind, as a <choice><orig>theife</orig><reg>thief</reg></choice> and Murderer to his: It is <pc>-</pc>
+                        <lb/>evident that such are in Africa, of <choice><orig>soe</orig><reg>so</reg></choice> great <choice><orig>bignesse</orig><reg>bigness</reg></choice> and plenty, that they <pc>-</pc>
+                        <lb/>destroyed a great part of <choice><orig>Alexanders</orig><reg>Alexander's</reg></choice> army: Amongst the Asachæi a people <pc>-</pc>
+                        <lb/>of <choice><orig>Æthiopia</orig><reg>Ethiopia</reg></choice> are very great produced, which being <choice><orig>wrapd</orig><reg>wrapped</reg></choice> together after <pc>-</pc>
+                        <lb/>the manner of hurdles <choice><orig>doe</orig><reg>do</reg></choice> with their heads lifted up make way to better <pc>-</pc>
+                        <lb/>pasture. They report that the Kings of India <choice><orig>maintaind</orig><reg>maintained</reg></choice> two Dragons, one
+                        <lb/>of eighty, and the other of ninety cubits in <choice><orig>bignesse</orig><reg>bigness</reg></choice>: by the observation of
+                        <lb/>later writers and <choice><orig>now adayes</orig><reg>nowadays</reg></choice> it is <choice><orig>knowne</orig><reg>known</reg></choice>, that near Angola are found such
+                        <lb/>as are <choice><orig>æquall</orig><reg>equal</reg></choice> to the great masts of ships: <choice><orig>Soe</orig><reg>So</reg></choice> they report that in some <choice><orig>cer
+                        <lb break="no"/>taine</orig><reg>certain</reg></choice> mountains of India and Africa there is great store of gold, but kept by
+                        <lb/>dragons, lest any one come thither and take it away: For dragons <choice><orig>doe</orig><reg>do</reg></choice> resort <pc>-</pc>
+                        <lb/>to fountains or rivers, which fall from the mountains, and <choice><orig>soe</orig><reg>so</reg></choice> are <choice><orig>sayd</orig><reg>said</reg></choice> to watch
+                        <lb/>the gold by accident: for this reason <choice><orig>doe</orig><reg>do</reg></choice> the Philosophers ascribe <choice><orig>soe</orig><reg>so</reg></choice> many <pc>-</pc>
+                        <lb/>dragons or serpents to their treasures, as to the golden Fleece, the garden of the <pc>-</pc>
+                        <lb/>Hesperides, and to other persons or <choice><orig>Chymicall</orig><reg>Chymical</reg></choice> subjects, to Cadmus, Saturne, <choice><orig>Æscu
+                        <lb break="no"/>lapius</orig><reg>Aesculapius</reg></choice>, Mercury, whose wand is begirt with two Serpents, male and female: but
+                        <lb/><choice><orig>doe</orig><reg>do</reg></choice> they <choice><orig>meane</orig><reg>mean</reg></choice> nothing <choice><orig>els</orig><reg>else</reg></choice> by Dragons, but <choice><orig>Chymicall</orig><reg>Chymical</reg></choice> subjects? Hereupon <pc>-</pc>
+                        <lb/>say they, the Dragons <choice><orig>yeild</orig><reg>yield</reg></choice> mountains, and the earth fountains to Rebis, <pc>-</pc>
+                        <lb/>and denoting the extreme hunger of the dragon in devouring his <choice><orig>tayle</orig><reg>tail</reg></choice>: which
+                        <lb/>though others may interpret of the year returning into <choice><orig>itselfe</orig><reg>itself</reg></choice>, and resembling
+                        <lb/>a circle, yet it was <choice><orig>accomodated</orig><reg>accommodated</reg></choice> by the Philosophers to their things, who <pc>-</pc>
+                        <lb/>by this dragon would have a Serpent understood, which <choice><orig>devoures</orig><reg>devours</reg></choice> another of
+                        <lb/>its <choice><orig>owne</orig><reg>own</reg></choice> kind, and this is properly called Sulphur, as they all attest in innume
+                        <lb break="no"/>rable places: Lully in his little <choice><orig>booke</orig><reg>book</reg></choice> chapt. 31. This is, <choice><orig>sayth</orig><reg>says</reg></choice> <choice><orig>hee</orig><reg>he</reg></choice>, Sulphur,
+                        <lb/>my <choice><orig>Sonne</orig><reg>Son</reg></choice>! and this the Serpent and dragon devouring his <choice><orig>tayle</orig><reg>tail</reg></choice>, the roar
+                        <lb break="no"/>ing <choice><orig>lyon</orig><reg>lion</reg></choice>, and sharp sword, cutting, mortifying, and tearing all things. And
+                        <lb/>the Rosary: The Dragon <choice><orig>dyes</orig><reg>dies</reg></choice> not, <choice><orig>unlesse</orig><reg>unless</reg></choice> <choice><orig>hee</orig><reg>he</reg></choice> be <choice><orig>killd</orig><reg>killed</reg></choice> with his brother <pc>-</pc>
+                        <lb/>and Sister. And a little after: The Dragon is Argent vive extracted from
+                        <lb/><choice><orig>bodyes</orig><reg>bodies</reg></choice>, having in it a body, <choice><orig>Soule</orig><reg>Soul</reg></choice>, and spirit: This is in the same place
+                        <lb/>called by another name <choice><orig>Fætid</orig><reg>Fetid</reg></choice> water, which is produced after the separation
+                        <lb/>of the Elements: Now the Dragon is <choice><orig>sayd</orig><reg>said</reg></choice> to devour his <choice><orig>tayle</orig><reg>tail</reg></choice>, in consuming
+                        <lb/>the voluble, venomous, and moist part, that after without a <choice><orig>tayle</orig><reg>tail</reg></choice> <choice><orig>hee</orig><reg>he</reg></choice> <pc>-</pc>
+                        <lb/>may seem more corpulent and of <choice><orig>lesse</orig><reg>less</reg></choice> Speed, for the motion and volu
+                        <lb break="no"/>bility of him consisted <choice><orig>cheifely</orig><reg>chiefly</reg></choice> in his <choice><orig>tayle</orig><reg>tail</reg></choice>: Other <choice><orig>animalls</orig><reg>animals</reg></choice> depend upon
+                        <lb/>feet, but dragons, Serpents, and <choice><orig>wormes</orig><reg>worms</reg></choice> of that kind <choice><orig>doe</orig><reg>do</reg></choice> use constriction and
+                        <lb/>explication of body instead of feet, and as it were water poured out <choice><orig>doe</orig><reg>do</reg></choice> di
+                        <lb break="no"/>vide into <choice><orig>certaine</orig><reg>certain</reg></choice> courses, inclining themselves sometimes this way some
+                        <lb break="no"/>times that, as you may see in <choice><orig>allmost</orig><reg>almost</reg></choice> all rivers, how they <choice><orig>turne</orig><reg>turn</reg></choice> their <pc>-</pc>
+                        <lb/>courses like Serpents, and <choice><orig>runne</orig><reg>run</reg></choice> obliquely in circuits: they did not there
+                        <lb break="no"/>fore without reason call Argent vive a Serpent, and and add serpents to Mer
+                        <lb break="no"/>cury, it <choice><orig>allso</orig><reg>also</reg></choice> drawing as it were a <choice><orig>tayle</orig><reg>tail</reg></choice>, and running sometimes this <pc>-</pc>
+                        <lb/>sometimes that way with a voluble <choice><orig>poize</orig><reg>poise</reg></choice>: For as a Serpent creeps <choice><orig>soe</orig><reg>so</reg></choice>
+                        <lb/><choice><orig>allso</orig><reg>also</reg></choice> Mercury, who <choice><orig>hath</orig><reg>has</reg></choice> therefore wings upon his feet and head. <pc>-</pc>
+                        
+                        
+                        
+                        <pb n="49"/><fw rend="italics">Discourse 14.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <lb/>In <choice><orig>Affrica</orig><reg>Africa</reg></choice> they say are flying Serpents, which would waste and depopu
+                        <lb break="no"/>late all things, if they were not <choice><orig>destroyd</orig><reg>destroyed</reg></choice> by the bird calld Ibis: For which
+                        <lb/>cause Ibis is erected amongst the sacred <choice><orig>Ægyptian</orig><reg>Egyptian</reg></choice> images, both for the mani
+                        <lb break="no"/>fest utility, which it <choice><orig>performes</orig><reg>performs</reg></choice> to the whole country, and for an occult <pc>-</pc>
+                        <lb/>reason, which very few men have understood. This dragon biting of his <pc>-</pc>
+                        <lb/><choice><orig>tayle</orig><reg>tail</reg></choice>, and casting his old <choice><orig>skinne</orig><reg>skin</reg></choice> is <choice><orig>sayd</orig><reg>said</reg></choice> to acquire a new one together with
+                        <lb/>youth, as nature <choice><orig>hath</orig><reg>has</reg></choice> granted longer life not <choice><orig>onely</orig><reg>only</reg></choice> to Crows, Ravens, Eagles,
+                        <lb/>and Harts, but <choice><orig>allso</orig><reg>also</reg></choice> to the Serpentine kind: The Ant growing old <choice><orig>acquireth</orig><reg>acquires</reg></choice> <pc>-</pc>
+                        <lb/>wings, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> many <choice><orig>wormes</orig><reg>worms</reg></choice>: Man growing old is put into the earth, but
+                        <lb/>being revived from the earth will be consecrated to <choice><orig>æternall</orig><reg>eternal</reg></choice> life. Of every <pc>-</pc>
+                        <lb/>Serpent burned is made a powder, which is taken safely against all <choice><orig>poy
+                        <lb break="no"/>sons</orig><reg>poisons</reg></choice> with great effect: Such an Alexipharmacum ought <choice><orig>allso</orig><reg>also</reg></choice> to be made <pc>-</pc>
+                        <lb/>of this dragon (who <choice><orig>hath</orig><reg>has</reg></choice> <choice><orig>allready</orig><reg>already</reg></choice> devoured his <choice><orig>tayle</orig><reg>tail</reg></choice>, which is usually <choice><orig>cutt</orig><reg>cut</reg></choice>
+                        <lb/><choice><orig>of</orig><reg>off</reg></choice> in Vipers) a most <choice><orig>effectuall</orig><reg>effectual</reg></choice> remedy against the <choice><orig>adversityes</orig><reg>adversities</reg></choice> of for
+                        <lb break="no"/>tune and body<pc>. . . . . . . . . . . .</pc>                       
+                    </ab>   
+                </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
+
