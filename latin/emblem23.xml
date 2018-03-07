@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+     <revisionDesc>
+        <change when="2018-01-27" who="SJD">Start encoding</change>
+     </revisionDesc>
+  </teiHeader>
+   
+   
+  <text>
+      <body>
+         <div type="emblem" n="e23">
+            <pb n="100"/>
+            <head>
+               <lb n="1"/><fw type="pageNum" place="top-left">100</fw> FUGA XXIII. in 5. seu 12. suprà.
+               <lb n="2"/>Es regnet Gold <pc>/</pc> die weil <persName><hi rend="latin">Pallas</hi></persName> wirt geboren <pc>/</pc> zu <placeName>Rhodijs</placeName> <pc>/</pc>
+               <lb n="3"/>und die Sonn beij <persName><hi rend="latin">Venere</hi></persName> ligt.
+            </head>
+            
+            <div type="fugue">
+               <head>
+                  
+               </head>
+               
+            </div>
+            
+            <div type="epigram" xml:lang="de">
+               <head>XXIII. Epigrammatis Latini versio Germanica.</head>
+               <lg>
+                  <lb n="1"/><l>Ein Wundersach ists <pc>/</pc> so die <orgName>Griechen</orgName> uns lehren für Warheit <pc>/</pc></l>
+                  <lb n="2"/><l>Welch zu <placeName>Rhodijs</placeName> gewesen berühmet in alter Zeit <pc>/</pc></l>
+                  <lb n="3"/><l>Sie zeugen <pc>/</pc> daß von Gold gefalln sen ein fructbar Regen <pc>/</pc></l>
+                  <lb n="4"/><l>Wie di Sonn beij <persName><hi rend="latin">Venere</hi></persName> in Liebes Brunst gelegen <pc>/</pc></l>
+                  <lb n="5"/><l>Auch auß <persName><hi rend="latin">Jovis</hi></persName> Gehirn <pc>/</pc> wie <persName><hi rend="latin">Pallas</hi></persName> thäte auß steigen <pc>/</pc></l>
+                  <lb n="6"/><l>So muß auch in <expan><abbr>dein<am>'</am></abbr><ex>e</ex><abbr>m</abbr></expan> Geschirr <pc>/</pc> wie Regen <pc>/</pc> Gold sich zeigen.</l>
+               </lg>
+            </div>
+            <fw type="catchword">Emble-</fw>
+            
+            <pb n="101"/>
+            
+            <div type="image-caption">
+               <head>
+                  <lb n="1"/>Emblema XXIII. De Secretis Natur<hi rend="ligature">ae</hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">101</fw>
+                  <lb n="2"/>Aurum pluit, dum nascitur <persName>Pallas</persName> <placeName>Rhodi</placeName>, <g type="ampersand">et</g> <persName>Sol</persName> concumbit <persName>Veneri</persName>.
+               </head>
+               
+            </div>
+            
+            <figure><graphic url=""></graphic></figure>
+            
+            <div type="epigram" xml:lang="la">
+               <head>Epigramma XXIII.</head>
+               <lg>
+                  <lb n="1"/><l>Res est mira, fidem fecit, sed <placeName>Gr<hi rend="ligature">ae</hi>cia</placeName> nobis</l>
+                  <lb n="2"/><l>Ejus, apud <orgName>Rhodios</orgName> qu<hi rend="ligature">ae</hi> celebrate fuit.</l>
+                  <lb n="3"/><l>Nubibus Aureolus, referunt, qu<hi rend="grave">o</hi>d decidit imber,</l>
+                  <lb n="4"/><l><persName>Sol</persName> erat <persName>Cypri<hi rend="ligature">ae</hi></persName> junctus amore De<hi rend="ligature">ae</hi>:</l>
+                  <lb n="5"/><l>Tum quoque, c<hi rend="grave">u</hi>m <persName>Pallas</persName> cerebro <persName>Jovis</persName> excidit, aurum</l>
+                  <lb n="6"/><l>Vase suo pluvi<hi rend="ligature">ae</hi> sic cadat instar aqu<hi rend="ligature">ae</hi>.</l>
+               </lg>
+            </div>
+            
+            <fw type="gathering" place="bottom-right">N</fw> <fw type="catchword" place="bottom-right">Quem-</fw>
+            
+            <div type="discourse" xml:lang="la">
+               <pb n="102"/>
+               <head><fw type="pageNum" place="top-left">102</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="23">XXIII</num>.</head>
+                  <ab>
+                     <lb n="1"/><milestone unit="section" n="e23-01"/>Aurum aliquando in terras pluisse, nisi allegoric<hi rend="grave">e</hi> intelligere
+                     <lb n="2" break="no"/>tur, insania esset, affirmare: Non enim sunt fluvii auriferi aut
+                     <lb n="3"/>fodin<hi rend="ligature">ae</hi> minerarum aurearum in nubibus, ut ibi generatum dici
+                     <lb n="4"/>posset, nectam exigui ponderis est aurum, ut cum vaporibus attra
+                     <lb n="5" break="no"/>ctum <hi rend="ligature">ae</hi>stimetur. <milestone unit="section" n="e23-02"/>Sed tropus h<hi rend="ligature">ae</hi>c omnia admittit <g type="ampersand">et</g> excusat. Qu<hi rend="grave">a</hi>m
+                     <lb n="6"/>ver<hi rend="grave">e</hi> enim actu <persName>Pallas</persName> ex cerebro <persName>Jovis</persName> nata est <g type="ampersand">et</g> <persName>Sol</persName> adulterio <persName>Ve
+                     <lb n="7" break="no"/>neris</persName> conjuncta, tam ver<hi rend="grave">e</hi> <g type="ampersand">et</g> aurea pluvia cecidit; non quasi dubi
+                     <lb n="8" break="no"/>temus, id utrumque accidisse, sed ut vulgarem <g type="ampersand">et</g> literalem sensum
+                     <lb n="9"/>allegoric<hi rend="grave">e</hi> dictis tollamus. <milestone unit="section" n="e23-03"/>Si enim verba sequamur nuda hujus
+                     <lb n="10"/>Emblematis, nihil iis absurdius, si mentem, nil verius existit. <milestone unit="section" n="e24-04"/>Est
+                     <lb n="11"/>autem <placeName>Rhodos</placeName> insula prim<hi rend="grave">o</hi> <placeName>Ophiusa</placeName> dicta ob serpentum multitu
+                     <lb n="12" break="no"/>dinem, post <placeName>Rhodos</placeName> <hi rend="grave">a</hi> rosetis ibidem florentibus, <expan><abbr>deniq<am>;</am></abbr><ex>ue</ex></expan> <g type="ampersand">et</g> <persName>Colossi
+                     <lb n="13" break="no"/>cola</persName> <hi rend="grave">a</hi> Colosso solis, qui ibidem existens inter <num value="7" type="cardinal">7</num>. orbis miracula nu
+                     <lb n="14" break="no"/>meratus fuit. <milestone unit="section" n="e23-05"/>Hinc antiqui Philosophi, c<hi rend="grave">u</hi>m eorum materia mercu
+                     <lb n="15" break="no"/>rialis cruda instar serpentis se habeat, postea ver<hi rend="grave">o</hi> pr<hi rend="ligature">ae</hi>parata <g type="ampersand">et</g>
+                     <lb n="16"/>cocta Ros<hi rend="ligature">ae</hi> purpureum assumat colorem, <hi rend="grave">a</hi> <placeName>Rhodo</placeName> insula quas
+                     <lb n="17" break="no"/>dam similitudines sumpserunt: Eadem quoque causa est, cur ei <expan><abbr>au
+                     <lb n="18" break="no"/>re<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> imbrem <choice><sic>asscripserinr</sic><corr>ascripserint</corr></choice>, c<hi rend="grave">u</hi>m <persName>Sol</persName> sue <persName>Apollo</persName> <persName>Veneri</persName> concumbe
+                     <lb n="19" break="no"/>ret: <milestone unit="section" n="e23-06"/>Hoc primitus tropic<hi rend="grave">e</hi> dictum ansam pr<hi rend="ligature">ae</hi>buit, cur <orgName>Rhodii</orgName> su
+                     <lb n="20" break="no"/>perbiores facti, quia tanti D<hi rend="grave">i</hi>i apud ipsos liberis operam dederint,
+                     <lb n="21"/><persName>Solis</persName> quasi idolum stupenda magnitudine <g type="ampersand">et</g> sumptu erexerint. <milestone unit="section" n="e23-07"/>Fuit
+                     <lb n="22"/>enim, ut tradunt histori<hi rend="ligature">ae</hi>, ille colossus <num value="70" type="cardinal">70</num>. cubitorum altitudinis ita
+                     <lb n="23"/>positus, ut naves expansis velis inter crura ejus tendere possent:
+                     <lb n="24"/><milestone unit="section" n="e23-08"/>Digiti <hi rend="ligature">ae</hi>quabant vulgares statuas <g type="ampersand">et</g> pauci pollicem amplecti potu
+                     <lb n="25" break="no"/>erunt: <milestone unit="section" n="e23-09"/>Artifex fuit <persName ref="https://viaf.org/viaf/96594267">Chares Lyndius</persName> <persName ref="https://viaf.org/viaf/297421082">Lysippi</persName> discipulus, <hi rend="grave">a</hi> quo factus
+                     <lb n="26"/>est annis duodecim: <milestone unit="section" n="e23-10"/>Post quinquagesimum sextum annum terr<hi rend="ligature">ae</hi>
+                     <lb n="27" break="no"/>motu prostratus, etiam jacens fuit miraculo: <milestone unit="section" n="e23-11"/>Soldanus <orgName><hi rend="ligature">Ae</hi>gypti</orgName>,
+                     <lb n="28"/>c<hi rend="grave">u</hi>m <placeName>Rhodum</placeName> occuparet, ex <hi rend="ligature">ae</hi>re hujus statu<hi rend="ligature">ae</hi> <num value="900" type="cardinal">900</num>. camelos oneras
+                     <lb n="29" break="no"/>se fertur. <milestone unit="section" n="e23-12"/>Quod Sol est inter planetas, inquit Philosophus, id aurum
+                     <lb n="30"/>est inter metalla; atque hoc soli inprimis appropriatur ab calorem,
+                     <lb n="31"/>colorem, virtutem <g type="ampersand">et</g> essentiam: <milestone unit="section" n="e23-13"/>Hinc aurea pluvia debetur solis
+                     <lb n="32"/>generationi: c<hi rend="grave">u</hi>m parvi soles <hi rend="grave">a</hi> <persName>Venere</persName> concipiuntur: Habet enim
+                     <lb n="33"/><persName>Venus</persName> roseum in facie colorem, qiu si semini <persName>Solis</persName> infundatur, sobo
+                     <lb break="no"/>
+                  </ab>
+                  <fw type="catchword" place="bottom-right">lem</fw>
+               <pb n="103"/>
+               <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="23">XXIII</num>. <fw type="pageNum" place="top-right">103</fw></head>
+                  <ab>
+                     <lb n="1"/>lem hinc natam <placeName>Rhodum</placeName> revera esse oportet: <milestone unit="section" n="e23-14"/>Hic est formosus, ro
+                     <lb n="2" break="no"/>sis similis, Philosophorum filius, qui omnium oculos <g type="ampersand">et</g> mentem ad
+                     <lb n="3"/>se illici <g type="ampersand">et</g> trahit, amor<hi rend="acute">e</hi>mque meretur, quo nato non mirum est si
+                     <lb n="4"/>miracula contingant: Ipse enim in omnibus suis factis miraculosus
+                     <lb n="5"/>futurus est <g type="ampersand">et</g> auream pluviam excitaturus: <milestone unit="section" n="e23-15"/>Hic est frater <persName>Augi<hi rend="ligature">ae</hi></persName> <persName>So
+                     <lb n="6" break="no"/>lis</persName> filii, qui boves ex patrimonio habuit, quorum fimetum <persName>Hercules</persName>
+                     <lb n="7"/>uno die expurgavit: Est <g type="ampersand">et</g> <persName><hi rend="ligature">Ae</hi>et<hi rend="ligature">ae</hi></persName> frater, qui vellus auream possedit
+                     <lb n="8"/>ab <persName>Jasone</persName> <expan><abbr>occupat<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>: <milestone unit="section" n="e23-16"/>De <persName>Pallade</persName> ex <persName>Jovis</persName> cerebro prodeunte, absque
+                     <lb n="9"/>matre, referunt, <expan><abbr><hi rend="stroke">q</hi></abbr><ex>uod</ex></expan> apud <placeName><expan><abbr>Triton<hi rend="tilde">e</hi></abbr><ex>m</ex></expan></placeName> <expan><abbr>amn<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> edita sit, <expan><abbr>ide<hi rend="acute">o</hi>q<am>;</am></abbr><ex>ue</ex></expan> <persName>Tritonia</persName> di
+                     <lb n="10" break="no"/>cta: <milestone unit="section" n="e23-17"/><expan><abbr>Sapi<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>ti<hi rend="ligature">ae</hi></abbr></expan> pr<hi rend="ligature">ae</hi>fecta Dea fingitur, qu<hi rend="ligature">ae</hi> ex cerebro nata, ubi <expan><abbr>sapi<hi rend="tilde">e</hi></abbr><ex>n</ex>
+                     <lb n="11" break="no"/>ti<hi rend="ligature">ae</hi></expan> sedes, <expan><abbr>n<hi rend="tilde">o</hi></abbr><ex>n</ex></expan> immerito dicitur: <milestone unit="section" n="e23-18"/>Hujus <expan><abbr>quoq<am>;</am></abbr><ex>ue</ex></expan> <expan><abbr>natal<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> aurea pluvia de
+                     <lb n="12" break="no"/>coravit <placeName>Rhodi</placeName>, ut in memoria <expan><abbr>homin<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> remaneret, <expan><abbr>qu<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>do</abbr></expan> in <expan><abbr>h<hi rend="tilde">a></hi></abbr><ex>n</ex><abbr>c</abbr></expan> <expan><abbr>lu
+                     <lb n="13" break="no"/>c<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> venerit. <milestone unit="section" n="e23-19"/>In publico gaudio seu festo, utpote, Regis coronatione
+                     <lb n="14"/>vel <expan><abbr>eti<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> regi<hi rend="ligature">ae</hi> h<hi rend="ligature">ae</hi>redis nativitate aurei <expan><abbr>n<hi rend="tilde">u</hi></abbr><ex>m</ex><abbr>mi</abbr></expan> <expan><abbr>aliqu<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>o</abbr></expan> <expan><abbr>projici<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>tur</abbr></expan> in
+                     <lb n="15"/>vulgum tanquam aurea pluvia: Sic in <persName>Palladis</persName> exortu eadem con
+                     <lb n="16" break="no"/>tigit: Est enim <persName>Pallas</persName>, sapientia seu sophia, qu<hi rend="ligature">ae</hi> sanitatem in dextra
+                     <lb n="17"/><g type="ampersand">et</g> divitias in sinistra gestat, homin<hi rend="acute">u</hi>mque saluti <g type="ampersand">et</g> commodis pro
+                     <lb n="18"/>spicit: <milestone unit="section" n="e23-20"/>Huic <persName>Perseus</persName> caput <persName>Medus<hi rend="ligature">ae</hi></persName> saxificum, serpentinis <g type="ampersand">et</g> vipe
+                     <lb n="19" break="no"/>reis capillis horrendum attulit, quo ipsa usa est in clypeo adversus
+                     <lb n="20"/>hostes suos, incultos <g type="ampersand">et</g> rudes populos, eos in saxa commutando. <milestone unit="section" n="e23-21"/>Et
+                     <lb n="21"/>revera sapientia seu Philosophia naturalis incredulos illos osores <g type="ampersand">et</g>
+                     <lb n="22"/>invidos reddit stupidos <g type="ampersand">et</g> sensus intellect<hi rend="acute">u</hi>sque vacuos per illud
+                     <lb n="23"/>ipsum, ex quo <persName>Chrysaor</persName> natus est, qui <persName>Geryonis</persName> ante dicti <persName>Tricorpo
+                     <lb n="24" break="no"/>ris</persName> pater fuit, hoc est, sanguinem Gorgoneum lapidificantem, qui ni
+                     <lb n="25" break="no"/>hil aliud est, qu<hi rend="grave">a</hi>m Tinctura lapidis philosophici.
+                  </ab>
+               <fw type="catchword" place="bottom-right" xml:lang="de">Der</fw>                  
+            </div>
+            
+         </div>
+      </body>
+  </text>
+</TEI>

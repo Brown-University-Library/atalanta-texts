@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+     <revisionDesc>
+        <change when="2018-01-15" who="SJD">Start encoding</change>
+     </revisionDesc>
+  </teiHeader>
+   
+   
+  <text>
+      <body>
+         <div type="emblem" n="e20">
+            <pb n="88"/>
+            <head>
+               <lb n="1"/><fw type="pageNum" place="top-left">88</fw> FUGA XX. in 3. infrà.
+               <lb n="2"/>Die Natur lehret die Natur deß Feiurs zuüberwinden
+               <lb n="3"/>bald werden sie sterben all.
+            </head>
+            
+            <div type="fugue">
+               <head>
+                  
+               </head>
+               
+            </div>
+            
+            <div type="epigram" xml:lang="de">
+               <head>XX. Epigrammatis Latini versio Germanica.</head>
+               <lg>
+                  <lb n="1"/><l>Die Flamm <pc>/</pc> so alles frißt <pc>/</pc> gleich einem Drachen thät begehren</l>
+                  <lb n="2"/><l>Ein Jungfräwliches Bild mit Gewalt zuverzehren <pc>/</pc></l>
+                  <lb n="3"/><l>Drumb sie von Thränen naß gesehen ist von einem Mann <pc>/</pc></l>
+                  <lb n="4"/><l>Welcher ihr zuhelffen mit Raht und That zeiget an <pc>/</pc></l>
+                  <lb n="5"/><l>Also bald er sie bedeckend unterm Schildt <pc>/</pc> den Feind thut erwachten <pc>/</pc></l>
+                  <lb n="6"/><l>Und lehrer sie sein dräwen ganz hernach zuverachten.</l>
+               </lg>
+            </div>
+            <fw type="catchword">Emble-</fw>
+            
+            <pb n="89"/>
+            
+            <div type="image-caption">
+               <head>
+                  <lb n="1"/>Emblema XX. De Secretis Natur<hi rend="ligature">ae</hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">89</fw>
+                  <lb n="2"/>Naturam natura docet, debellet ut ignem.
+               </head>
+               
+            </div>
+            
+            <figure><graphic url=""></graphic></figure>
+            
+            <div type="epigram" xml:lang="la">
+               <head>Epigramma XX.</head>
+               <lg>
+                  <lb n="1"/><l>Flamma vorat qu<hi rend="ligature">ae</hi> cuncta, velut Draco, gnaviter ursit</l>
+                  <lb n="2"/><l>Virginis eximium vi superare decus:</l>
+                  <lb n="3"/><l>Hinc lachrymis suffusa viro dum fort<hi rend="grave">e</hi> videtur,</l>
+                  <lb n="4"/><l>Ille fuit miser<hi rend="ligature">ae</hi> ferre paratus opem.</l>
+                  <lb n="5"/><l>Protinus hanc clypeo velans contendi in hostem,</l>
+                  <lb n="6"/><l>Et docuit tantas spernere mente minas.</l>
+               </lg>
+            </div>
+            
+            <fw type="gathering" place="bottom-right">M</fw> <fw type="catchword" place="bottom-right">Com-</fw>
+            
+            <div type="discourse" xml:lang="la">
+               <pb n="90"/>
+               <head><fw type="pageNum" place="top-left">92</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="20">XX</num>.</head>
+                  <ab>
+                     <lb n="1"/><milestone unit="section" n="e20-01"/>Commune Philosophorum cymbolum est, quo se mutuo agno
+                     <lb n="2" break="no"/>scant, naturam <hi rend="grave">a</hi> natura duci, doceri, regi, superari, nempe disci
+                     <lb n="3" break="no"/>pulam <hi rend="grave">a</hi> magistra, pedissequam <hi rend="grave">a</hi> domina, subjectam <hi rend="grave">a</hi> regina, im<hi rend="grave">o</hi>
+                     <lb n="4"/>filiam <hi rend="grave">a</hi> matre <g type="ampersand">et</g> affinem ab affini: <milestone unit="section" n="e20-02"/>Id qu<hi rend="grave">a</hi>m <expan><abbr>ver<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> sit <hi rend="grave">a</hi> quotidiana pa
+                     <lb n="5" break="no"/>tet experientia in educatione sobolis apud homines, ali<hi rend="acute">i</hi>sque actio
+                     <lb n="6" break="no"/>nibus, ut literaria institutione, dominatione <g type="ampersand">et</g> <expan><abbr>similib</abbr><ex>us</ex></expan>. <milestone unit="section" n="e20-03"/>De lusciniis
+                     <lb n="7"/>scribit <persName ref="https://viaf.org/viaf/100219162">Plinius</persName>, quod una aliam in canendo erudiat, attendat, obser
+                     <lb n="8" break="no"/>vet, imitetur, vincat aut se victam doleat, qu<hi rend="acute">o</hi>dque in certamine ali
+                     <lb n="9" break="no"/>quando superata gutture rupto, pereat <g type="ampersand">et</g> in medio cantu exanimis
+                     <lb n="10"/>cadat: <milestone unit="section" n="e20-04"/>Videmus <expan><abbr>quoq<am>;</am></abbr><ex>ue</ex></expan> quomodo omnia avium genera suos pullos
+                     <lb n="11"/>adhuc implumes ac teneros ad volatum incipiant assuefacere <g type="ampersand">et</g> in
+                     <lb n="12" break="no"/>stituere, ut non sol<hi rend="grave">u</hi>m in illis natura, sed quoque ars aut usus volandi
+                     <lb n="13"/>habitum compar<hi rend="circumflex">a</hi>rit, quamvis potentiam <g type="ampersand">et</g> organa ad eam <expan><abbr>action<hi rend="tilde">e</hi></abbr><ex>m</ex></expan>
+                     <lb n="14"/>exercendam sola natura dederit, sine quibus nec institutio seu ars
+                     <lb n="15"/>fundamentum aut locum inveniat: <milestone unit="section" n="e20-05"/>Ita hinni ad cursum ab equa, ca
+                     <lb n="16" break="no"/>tuli ad latratum <hi rend="grave">a</hi> cane <g type="ampersand">et</g> vulpecul<hi rend="ligature">ae</hi> ad dolos instruuntur, nec ulla
+                     <lb n="17"/>natura seu natur<hi rend="ligature">ae</hi> species animata <g type="ampersand">et</g> sensitiva invenitur, qu<hi rend="ligature">ae</hi> non a
+                     <lb n="18" break="no"/>liam naturam, nempe suam sobolem ducat, doceat <g type="ampersand">et</g> regat, vel ab
+                     <lb n="19"/>alia, nempe parente, se superari patiatur. <milestone unit="section" n="e20-06"/>In <expan><abbr>vegetabilib<am>.</am></abbr><ex>us</ex></expan> disciplinam
+                     <lb n="20"/>ejusmodi non animadvertimus, <expan><abbr>attam<hi rend="tilde">e</hi></abbr><ex>n</ex></expan> usus in illis <expan><abbr>homin<hi rend="acute">u</hi>mq<am>;</am></abbr><ex>ue</ex></expan> ma
+                     <lb n="21" break="no"/>nus plurimum valere observatur; Nam dum messis in herba est, ex
+                     <lb n="22" break="no"/>purgari ab inutilibus carduis, <expan><abbr>loli<hi rend="acute">o</hi>q<am>;</am></abbr><ex>ue</ex></expan> potest, dum arbor adhuc virga
+                     <lb n="23"/>existit, incurvari <g type="ampersand">et</g> ad placitum ut crescat, cogi potest; <milestone unit="section" n="e20-07"/>Sic in metallis
+                     <lb n="24"/><g type="ampersand">et</g> <expan><abbr>Philos<am>.</am></abbr><ex>ophicis</ex></expan> subjectis una natura aliam in igne tenet, conservat <g type="ampersand">et</g> tuta
+                     <lb n="25" break="no"/>tur; prout notum est <expan><abbr>fusorib<am>.</am></abbr><ex>us</ex></expan> <g type="ampersand">et</g> docimastis, inprimis ver<hi rend="grave">o</hi> rerum na
+                     <lb n="26" break="no"/>turalium magistris: <milestone unit="section" n="e20-08"/>Ferrum argento <g type="ampersand">et</g> auro adhuc tenello <g type="ampersand">et</g> spiri
+                     <lb n="27" break="no"/>tuali, ut vocant, in mineris suis cum Cadmia, arsenico, antimoni<hi rend="acute">o</hi>ve
+                     <lb n="28"/>pr<hi rend="ligature">ae</hi>datore commixto, plurimum subvenit <g type="ampersand">et</g> obstetricem manum
+                     <lb n="29"/>pr<hi rend="ligature">ae</hi>bet, si in igne furnorum in mineras exurendas conjiciatur; <milestone unit="section" n="e20-09"/><expan><abbr>Eod<hi rend="tilde">e</hi></abbr><ex>m</ex></expan>
+                     <lb n="30"/>modo ipsum ferrum, si in <expan><abbr>chalyb<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> mutari debeat, ne comburatur,
+                     <lb n="31"/>salvatur <expan><abbr>lapidib<am>.</am></abbr><ex>us</ex></expan> albis ad littora maris inventis: <milestone unit="section" n="e20-10"/>Nonnulli pulveribus
+                     <lb n="32"/>metallicis liquefaciendis ne pereant nimio igne, super injiciunt vi
+                     <lb n="33" break="no"/>tri cristallini pulveres, aut fel vitri: <milestone unit="section" n="e20-11"/>Hujus vice <expan><abbr>Philos<am>.</am></abbr><ex>ophi</ex></expan> sua Eudica u
+                     <lb break="no"/>
+                  </ab>
+                  <fw type="catchword" place="bottom-right">tuntur</fw>
+               <pb n="91"/>
+               <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="20">XX</num>. <fw type="pageNum" place="top-right">91</fw></head>
+                  <ab>
+                     <lb n="1"/><expan><abbr>t<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>tur</abbr></expan>, qu<hi rend="grave">a</hi>m <persName ref="https://viaf.org/viaf/12734759">Morienus</persName> dicit esse <expan><abbr>quoq<am>;</am></abbr><ex>ue</ex></expan> fel vitri <g type="ampersand">et</g> in vitreis vasis <expan><abbr>qu</abbr><ex>a</ex><abbr><hi rend="hook">e</hi>
+                     <lb n="2"/>r<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>d<hi rend="tilde">a</hi></abbr><ex>m</ex></expan>: Calor <expan><ex>e</ex><abbr>n<am>.</am></abbr><ex>im</ex></expan> ignis corpus ipsum festina <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>m</ex><abbr>bustione</abbr></expan> <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>n</ex><abbr>sumit</abbr></expan>: <milestone unit="section" n="e20-12"/>At Eu
+                     <lb n="3" break="no"/>dica ei apponitur, ipsa corpora in <expan><abbr>terr<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> mutata ab omni <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>m</ex><abbr>bustione</abbr></expan>
+                     <lb n="4"/>curabit: <expan><abbr>N<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> corpora <expan><abbr>postqu<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> suas jam <expan><abbr>n<hi rend="tilde">o</hi></abbr><ex>n</ex></expan> <expan><abbr>retin<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>t</abbr></expan> animas, cit<hi rend="grave">o</hi> <expan><abbr>com
+                     <lb n="5" break="no"/>bur<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>tur</abbr></expan>: <milestone unit="section" n="e20-13"/>Eudica (f<hi rend="ligature">oe</hi>x vitri) <expan><abbr>quid<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> bene <expan><abbr>omnib<am>.</am></abbr><ex>us</ex></expan> <expan><abbr>corporib<am>.</am></abbr><ex>us</ex></expan> <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>n</ex><abbr>venit</abbr></expan>: <expan><abbr>n<hi rend="tilde">a</hi></abbr><ex>m</ex></expan>
+                     <lb n="6"/>ea vivificat <g type="ampersand">et</g> aptat, <g type="ampersand">et</g> ab omni <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>m</ex><abbr>bustione</abbr></expan> defendit: H<hi rend="ligature">ae></hi>c <persName ref="https://viaf.org/viaf/12734759">Morie
+                     <lb n="7" break="no"/>enus Romanus:</persName> <milestone unit="section" n="e20-14"/>H<hi rend="ligature">ae</hi>c <expan><abbr>itaq<am>;</am></abbr><ex>ue</ex></expan> est natura, qu<hi rend="ligature">ae</hi> docet <expan><abbr>ali<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> <expan><abbr>natur<hi rend="tilde">a></hi></abbr><ex>m</ex></expan> contra <expan><abbr>i
+                     <lb n="8" break="no"/>gn<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> pugnare, <expan><abbr>e<hi rend="acute">i</hi>q<am>;</am></abbr><ex>ue</ex></expan> assuefieri, qu<hi rend="ligature">ae</hi> est magistra <expan><abbr>institu<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>s</abbr></expan> <expan><abbr>discipul<hi rend="tilde">a</hi></abbr><ex>m</ex></expan>, <g type="ampersand">et</g> si
+                     <lb n="9"/>bene respicias, qu<hi rend="ligature">ae</hi> est regina <expan><abbr>reg<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>s</abbr></expan> <expan><abbr>subject<hi rend="tilde">a</hi></abbr><ex>m</ex></expan>, <g type="ampersand">et</g> qu<hi rend="ligature">ae</hi> est filia <expan><abbr>nobili
+                     <lb n="10" break="no"/>t<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>s</abbr></expan> <expan><abbr>matr<hi rend="tilde">e</hi></abbr><ex>m</ex></expan>; <milestone unit="section" n="e20-15"/>Hic est servus ille <expan><abbr>rub<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>s</abbr></expan>, <expan><abbr><hi rend="stroke">q</hi></abbr><ex>ui</ex></expan> matri su<hi rend="ligature">ae</hi> odorifer<hi rend="ligature">ae</hi> matrimo
+                     <lb n="11" break="no"/>nio <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>n</ex><abbr>j<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>gitur</abbr></expan>, <g type="ampersand">et</g> ex illa generat <expan><abbr>par<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>tib<am>.</am></abbr><ex>us</ex></expan> suis long<hi rend="grave">e</hi> <expan><abbr>nobilior<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> <expan><abbr>proge
+                     <lb n="12" break="no"/>ni<hi rend="tilde">e</hi></abbr><ex>m</ex></expan>: <milestone unit="section" n="e20-16"/> Hic est <persName>Pyrrhus</persName> <persName>Achillis</persName> filius <g type="ampersand">et</g> juvenis rubrica capillitii, aurei <expan><abbr>ve
+                     <lb n="13" break="no"/>stim<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>ti</abbr></expan>, oculis nigris, pedibis albis: <milestone unit="section" n="e20-17"/>Hic est eques torquatus gladio <g type="ampersand">et</g>
+                     <lb n="14"/>scuto <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>n</ex><abbr>tra</abbr></expan> <expan><abbr>dracon<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> armatus, ut ex <expan><abbr>faucib<am>.</am></abbr><ex>us</ex></expan> ejus eripiat <expan><abbr>virgin<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> <expan><abbr>invio
+                     <lb n="15" break="no"/>lat<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> <persName><expan><abbr>Albific<hi rend="tilde">a</hi></abbr><ex>m</ex></expan></persName>, <persName><expan><abbr>Bej<hi rend="tilde">a</hi></abbr><ex>m</ex></expan></persName> seu <persName><expan><abbr>Bl<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>c<hi rend="tilde">a</hi></abbr><ex>m</ex></expan></persName> cognomine: <milestone unit="section" n="e20-18"/>Hic est <persName>Hercules</persName> <expan><abbr>m<hi rend="tilde">o</hi></abbr><ex>n</ex><abbr>strici
+                     <lb n="16" break="no"/>da</abbr></expan>, qui <persName><expan><abbr>Hesion<hi rend="tilde">e</hi></abbr><ex>n</ex></expan></persName> <persName><expan><abbr>Laomed<hi rend="tilde">o</hi></abbr><ex>n</ex><abbr>tis</abbr></expan></persName> <expan><abbr>fili<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> <persName>Ceto</persName> immani <expan><abbr>exposit<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> liberavit <hi rend="grave">a</hi>
+                     <lb n="17"/><expan><abbr>m<hi rend="tilde">o</hi></abbr><ex>n</ex><abbr>stro</abbr></expan>: <milestone unit="section" n="e20-19"/>Hic est <persName>Perseus</persName> ille, qui <persName><expan><abbr>Andromed<hi rend="tilde">a</hi></abbr><ex>m</ex></expan></persName>, <persName>Cassiopes</persName> <g type="ampersand">et</g> <persName>Cephei</persName>,
+                     <lb n="18"/><orgName><expan><abbr><hi rend="ligature">Ae</hi>thiop<hi rend="tilde">u</hi></abbr><ex>m</ex></expan></orgName> regis <expan><abbr>fili<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> <hi rend="grave">a</hi> <expan><abbr>m<hi rend="tilde">o</hi></abbr><ex>n</ex><abbr>stro</abbr></expan> marino, <expan><abbr>ost<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>so</abbr></expan> capite <persName>Medus<hi rend="ligature">ae</hi></persName> <expan><abbr>def<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>dit</abbr></expan>,
+                     <lb n="19"/><g type="ampersand">et</g> <hi rend="grave">a</hi> vinculis <expan><abbr>erept<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> in <expan><abbr>uxor<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> duxit: <milestone unit="section" n="e20-20"/>Hic est, qui <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>m</ex><abbr>parari</abbr></expan> potest <expan><abbr>c<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> an
+                     <lb n="20" break="no"/>tiquis <orgName>Romanis</orgName> illis <expan><abbr>liberatorib<am>.</am></abbr><ex>us</ex></expan> <g type="ampersand">et</g> purgatoribus <persName><hi rend="italic"><name type="praenomen"><expan><abbr>M<am>.</am></abbr><ex>arco</ex></expan></name> <name type="gentilicium">Curtio</name></hi></persName>, <persName><hi rend="italic"><name type="praenomen"><expan><abbr>L<am>.</am></abbr><ex>ucio</ex></expan></name> <name type="gentilicium">Sc<hi rend="ligature">ae</hi>vo
+                     <lb n="21" break="no"/>la</name></hi></persName>, <persName><hi rend="italic"><name type="gentilicium">Horatio</name> <name type="cognomen">Coclite</name></hi></persName>, <persName><hi rend="italic"><name type="gentilicium">Manlio</name> <name type="cognomen">Capitolino</name></hi></persName>, <g type="ampersand">et</g> his <expan><abbr>similib<am>.</am></abbr><ex>us</ex></expan> ut <expan><abbr>urb<hi rend="tilde">e</hi></abbr><ex>m</ex></expan>, veluti <expan><abbr>ma
+                     <lb n="22" break="no"/>tr<hi rend="tilde">e</hi></abbr><ex>m</ex></expan>, periculis eripiat. <milestone unit="section" n="e20-21"/>Est <expan><ex>e</ex><abbr>n<am>.</am></abbr><ex>im</ex></expan> h<hi rend="ligature">ae</hi>c natur<hi rend="ligature">ae</hi> ad <expan><abbr>perfection<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> alicujus operis
+                     <lb n="23"/><expan><abbr>t<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>d<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>tis</abbr></expan> ratio <g type="ampersand">et</g> via, ut ex uno aliud, ex <expan><abbr>im<hi rend="stroke">p</hi></abbr><ex>er</ex><abbr>fecto</abbr></expan> <expan><abbr><hi rend="stroke">p</hi></abbr><ex>er</ex><abbr>fectius</abbr></expan> deducat <g type="ampersand">et</g>
+                     <lb n="24"/>ex <expan><abbr>pot<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>tia</abbr></expan> <expan><abbr>act<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> faciat, nec omnia in <expan><abbr>mom<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>to</abbr></expan>, sed <expan><abbr>un<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> post aliud, ab
+                     <lb n="25" break="no"/>solvat: <milestone unit="section" n="e20-22"/>Nec hoc <expan><abbr>sol<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>, sed <expan><abbr>Vicari<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <expan><abbr>quoq<am>;</am></abbr><ex>ue</ex></expan> sui imprimis statuit, cui relin
+                     <lb n="26" break="no"/>quit <expan><abbr>potestat<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> <expan><abbr>vit</abbr><ex>a</ex><abbr><hi rend="hook">e</hi></abbr></expan> <g type="ampersand">et</g> necis, hoc est, <expan><abbr>form<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>di</abbr></expan> alia, <expan><abbr>Ex<hi rend="tilde">e</hi></abbr><ex>m</ex><abbr>li</abbr></expan> grati<hi rend="circumflex">a</hi>, in ge
+                     <lb n="27" break="no"/>neratione hominis longo utpote <expan><abbr>dec<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> <expan><abbr>m<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>si<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> processu utitur, ubi pri
+                     <lb n="28" break="no"/>m<hi rend="grave">o</hi> cor juxta <persName ref="https://viaf.org/viaf/7524651">Aristotelis</persName> <expan><abbr>m<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>t<hi rend="tilde">e</hi></abbr><ex>m</ex></expan>, fabricat, <expan><abbr>t<hi rend="tilde">a</hi></abbr><ex>m</ex><abbr>qu<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> <expan><abbr>vicari<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <g type="ampersand">et</g> <expan><abbr>pr</abbr><ex>a</ex><abbr><hi rend="hook">e</hi>cipu<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> vi
+                     <lb n="29" break="no"/>scus, cor ver<hi rend="grave">o</hi> reliqua deinde <expan><abbr>m<hi rend="tilde">e</hi></abbr><ex>m</ex><abbr>bra</abbr></expan> ad <expan><abbr>nutrition<hi rend="tilde">e</hi></abbr><ex>m</ex></expan>, <expan><abbr>vit<hi rend="tilde">a</hi></abbr><ex>m</ex></expan>, sensus <g type="ampersand">et</g> <expan><abbr>ge
+                     <lb n="30" break="no"/>nerativ<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> <expan><abbr>pot<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>ti<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> necessaria, delineat, efformat <g type="ampersand">et</g> perficit, <expan><abbr>i<hi rend="acute">i</hi>sq<am>;</am></abbr><ex>ue</ex></expan> <expan><abbr>vit<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> <g type="ampersand">et</g>
+                     <lb n="31"/>spiritus vivificos <expan><abbr>im<hi rend="stroke">p</hi></abbr><ex>er</ex><abbr>tit</abbr></expan> <expan><abbr><hi rend="stroke">p</hi></abbr><ex>er</ex></expan> <expan><abbr>systol<hi rend="tilde">e</hi></abbr><ex>n</ex></expan> <g type="ampersand">et</g> <expan><abbr>diastol<hi rend="tilde">e</hi></abbr><ex>n</ex></expan> sive <expan><abbr>dilation<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> <g type="ampersand">et</g> <expan><abbr>com
+                     <lb n="32" break="no"/>pression<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> <expan><abbr>arteriar<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>, <expan><abbr>qu<hi rend="tilde">a</hi></abbr><ex>m</ex><abbr>diu</abbr></expan> <hi rend="grave">a</hi> morbis <g type="ampersand">et</g> <expan><abbr>viol<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>tia</abbr></expan> <expan><abbr>n<hi rend="tilde">o</hi></abbr><ex>n</ex></expan> impediatur: <milestone unit="section" n="e20-22"/><expan><abbr>Atq<am>;</am></abbr><ex>ue</ex></expan>
+                     <lb n="33"/>sic una natura aliam docet, <expan><abbr><hi rend="stroke">q</hi></abbr><ex>uod</ex></expan> pro exemplo operis <expan><abbr>Philos<am>.</am></abbr><ex>pohici</ex></expan> ceu <expan><abbr>clarissi
+                     <lb n="34" break="no"/>m<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>, annotabis <g type="ampersand">et</g> sequ<hi rend="circumflex">e</hi>ris.                     
+                  </ab>
+               <fw type="gathering" place="bottom-right">M ii</fw><fw type="catchword" place="bottom-right" xml:lang="de">Mache</fw>                  
+            </div>
+            
+         </div>
+      </body>
+  </text>
+</TEI>

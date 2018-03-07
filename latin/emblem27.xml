@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+     <revisionDesc>
+        <change when="2018-02-06" who="SJD">Start encoding</change>
+     </revisionDesc>
+  </teiHeader>
+   
+   
+  <text>
+      <body>
+         <div type="emblem" n="e27">
+            <pb n="116"/>
+            <head>
+               <lb n="1"/><fw type="pageNum" place="top-left">116</fw> FUGA <num value="27" type="cardinal">XXVII</num>. in <num value="8">8</num>. suprà.
+               <lb n="2"/>Welcher n der Philosophen Rosen Garten wil gehen ohne
+               <lb n="3"/>den Schlüssel <pc>/</pc> ist gleich einem Manne <pc>/</pc> der gehen wil
+               <lb n="4"/>ohne Füssen.
+            </head>
+            
+            <div type="fugue">
+               <head>
+                  
+               </head>
+               
+            </div>
+            
+            <div type="epigram" xml:lang="de">
+               <head><num value="27" type="cardinal">XXVII</num>. Epigrammatis Latini versio Germanica.</head>
+               <lg>
+                  <lb n="1"/><l>Mit Rosen vielerleij Art ist geziert der Garte der Weißheit <pc>/</pc></l>
+                  <lb n="2"/><l>Aber sein Thür steht fest mit Schlossen versichen allzeit <pc>/</pc></l>
+                  <lb n="3"/><l>Ein gering Ding <pc>/</pc> so schleußt ihm auff <pc>/</pc> in der Welt gefunden werd <pc></pc></l>
+                  <lb n="4"/><l>Ohn welches du wandlest gleich ohen Fässe auff Erd <pc>/</pc></l>
+                  <lb n="5"/><l>Umbsonst du auff den hohen Berg <placeName><hi rend="latin">Parnassum</hi></placeName> trachtest zu gehn <pc>/</pc></l>
+                  <lb n="6"/><l>Der du auff ebenem Weg kaum auff <expan><abbr>ein<am>'</am></abbr><ex>e</ex><abbr>m</abbr></expan> Schenckel kanst stehn.</l>
+               </lg>
+            </div>
+            <fw type="catchword">Emble-</fw>
+            
+            <pb n="117"/>
+            
+            <div type="image-caption">
+               <head>
+                  <lb n="1"/>Emblema <num value="27" type="cardinal">XXVII</num>. De Secretis Natur<hi rend="ligature">ae</hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">117</fw>
+                  <lb n="2"/>Qui Rosarium intrare conatur Philosophicum absque clave,
+                  <lb n="3"/>assimilatur homini ambulare volenti <expan><abbr>absq<am>;</am></abbr><ex>ue</ex></expan> pedibus:
+               </head>
+               
+            </div>
+            
+            <figure><graphic url=""></graphic></figure>
+            
+            <div type="epigram" xml:lang="la">
+               <head>Epigramma <num value="27" type="cardinal">XXVII</num>.</head>
+               <lg>
+                  <lb n="1"/><l>Luxuriat Sophi<hi rend="ligature">ae</hi> diverso flore <hi rend="caps">Rosetum</hi>,</l>
+                  <lb n="2"/><l>Semper at est firmis janua clausa seris:</l>
+                  <lb n="3"/><l>Unica cui clavis res vilis habetur in orbe,</l>
+                  <lb n="4"/><l>Hac sine, tu carpes, cruribus absque viam.</l>
+                  <lb n="5"/><l><placeName>Parnassi</placeName> in vanum conaris ad ardua, qui vix</l>
+                  <lb n="6"/><l>In plano valeas te stabilire solo.</l> 
+               </lg>
+            </div>
+            
+            <fw type="gathering" place="bottom-right">P 3</fw> <fw type="catchword" place="bottom-right">De</fw>
+            
+            <div type="discourse" xml:lang="la">
+               <pb n="118"/>
+               <head><fw type="pageNum" place="top-left"><supplied reason="omitted">1</supplied>18</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="27">XXVII</num>.</head>
+                  <ab>
+                     <lb n="1"/><milestone unit="section" n="e27-01"/>De <persName>Erichthonio</persName> <expan><abbr>scrib<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>t</abbr></expan>, eum ex semine <persName>Vulcani</persName> cum <persName>Pallade</persName> sa
+                     <lb n="2" break="no"/>pienti<hi rend="ligature">ae</hi> Dea luctatnis in terram emisso natum serpentis <g type="ampersand">et</g>
+                     <lb n="3"/><expan><abbr>absq<am>;</am></abbr><ex>ue</ex></expan> humanis fuisse pedibus: <milestone unit="section" n="e27-02"/> Huic persimiles, absque sapientia
+                     <lb n="4"/><persName>Palladis</persName>, solius <persName>Vulcani</persName> oper<hi rend="circumflex">a</hi> freti, gignunt f<hi rend="ligature">oe</hi>tus, videlicet <expan><abbr>m<hi rend="tilde">o</hi></abbr><ex>n</ex><abbr>stro
+                        <lb n="5" break="no"/>sos</abbr></expan>, Apodas <g type="ampersand">et</g> abortivos, qui nec se sustentare, nex aliis prodesse pos
+                     <lb n="6" break="no"/>sunt: <milestone unit="section" n="e27-03"/>Miserum est <expan><abbr>homin<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> incedere quadrupedem, hoc est <expan><abbr>manib<am>.</am></abbr><ex>us</ex></expan>
+                     <lb n="7"/><expan><abbr>pedib<hi rend="acute">u</hi>sq<am>;</am></abbr><ex>ue</ex></expan> simul: at long<hi rend="grave">e</hi> miserius <expan><abbr>pedib<am>.</am></abbr><ex>us</ex></expan> omnin<hi rend="grave">o</hi> <expan><abbr>destitut<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> esse <expan><abbr>eo
+                     <lb n="8" break="no"/>r<hi rend="acute">u</hi>mq<am>;</am></abbr><ex>ue</ex></expan> vice brachiis uti: Ad vermium enim naturam degenerasse vi
+                     <lb n="9" break="no"/>dentur, qui <expan><abbr>vermi<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <expan><abbr>serpenti<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> more incedunt: <milestone unit="section" n="e27-04"/>Sunt autem gemina
+                     <lb n="10"/>crura membra organica in homine, sine quibus ambulation vera fieri
+                     <lb n="11"/>nequit, ut nec absque oculis visio, aut absque <expan><abbr>manib<am>.</am></abbr><ex>us</ex></expan> apprehensio
+                     <lb n="12"/>tangibilium: <milestone unit="section" n="e27-05"/>Ad eundem modum Medicina, <g type="ampersand">et</g> qu<hi rend="ligature">ae</hi>libet ars ope
+                     <lb n="13" break="no"/>rativa duo crura, quibus insistat, nempe Experientiam <g type="ampersand">et</g> rationem
+                     <lb n="14"/>habere traditur, sine quorum alterutro ars ea mutila <g type="ampersand">et</g> manca, nec
+                     <lb n="15"/>perfecta sit in suis traditionibus <g type="ampersand">et</g> <surplus>|</surplus>pr<hi rend="ligature">ae</hi>ceptis, nec finem propositum
+                     <lb n="16"/>adipiscatur: <milestone unit="section" n="e27-06"/>In primis ver<hi rend="grave">o</hi> Chymia duplici gaudet subjecto (uti
+                     <lb n="17"/>cruribus) quorum unum clavis est, alterum pessuli lorum; <milestone unit="section" n="e27-07"/>His Rose
+                     <lb n="18" break="no"/>tum Philosophicum <expan><abbr>undiquaq<am>;</am></abbr><ex>ue</ex></expan> seratum aperitur, inque id aditus
+                     <lb n="19"/>datur legitim<hi rend="grave">e</hi> intrantibus: Quid si unum deficiat in hoc intraturo
+                     <lb n="20"/>idem erit, tanquam loripes leporem fug<hi rend="circumflex">a</hi> antevertere conetur.
+                     <lb n="21"/><milestone unit="section" n="e27-08"/>Qui absque clave in hortium intrat ab omni parte conclusum aut
+                     <lb n="22"/>septum, furem imitatur, qui tenebrosa nocte veniens nil discernet
+                     <lb n="23"/>quid in roseto crescit, nec furtivis frui poterit: <milestone unit="section" n="e27-09"/>Est autem clavis res
+                     <lb n="24"/>vilissima, qu<hi rend="ligature">ae</hi> propri<hi rend="grave">e</hi> vocatur lapis in capitulis notus <g type="ampersand">et</g> est radix
+                     <lb n="25"/>Rhodi sine qua germen non protruditur, nec gemma protuberat,
+                     <lb n="26"/>nec Rose vernat aut folia millecupla explicat. <milestone unit="section" n="e27-10"/>At qu<hi rend="ligature">ae</hi>ri posset, ubi
+                     <lb n="27"/>qu<hi rend="ligature">ae</hi>renda sit h<hi rend="ligature">ae</hi>c clavis? Respondeo cum oraculo, quod ibi investi
+                     <lb n="28" break="no"/>ganda fuerit, ubi <persName>Orestis</persName> ossa inventa dicuntur, nempe, <quote rend="caps">ubi ven
+                     <lb n="29" break="no"/>ti, percutiens, repercussus et hominum perni
+                     <lb n="30" break="no"/>cies</quote><!-- This is a reference to Hdt. 1.67 --> simul reperiantur, hoc est, ut <persName>Lychas</persName> interpretatus est, in
+                     <lb n="31"/>officina fabri <hi rend="ligature">ae</hi>rarii: <milestone unit="section" n="e27-11"/>Nam per ventos folles; per percutientem, mal
+                     <lb n="32" break="no"/>leum; per repercussum, incudem; per hominum pernitiem ferrum
+                     <lb n="33"/>oraculum intelligi voluit: <milestone unit="section" n="e27-12"/>Hanc clavem in hemisph<hi rend="ligature">ae</hi>rio Zodiaci se
+                     <lb break="no"/>
+                  </ab>
+                  <fw type="catchword" place="bottom-right">pten</fw>
+               <pb n="119"/>
+               <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="27">XXVII</num>. <fw type="pageNum" place="top-right">119</fw></head>
+                  <ab>
+                     <lb n="1"/>ptentrionali rever<hi rend="grave">a</hi> inveniet si signa bene numerare <g type="ampersand">et</g> discernere
+                     <lb n="2"/>sciat, <g type="ampersand">et</g> lorum pessuli in meridionali: Quibus occupatis, facil<hi rend="grave">e</hi> erit
+                     <lb n="3"/>aperire ostium <g type="ampersand">et</g> intrare. <milestone unit="section" n="e27-13"/>In ipso ver<hi rend="grave">o</hi> introitu <persName>Venerem</persName> cum suo
+                     <lb n="4"/>amasio <persName>Adonide</persName> videbit; Illa enim sanguine suo albas rosas tinxit
+                     <lb n="5"/>purpureas: Ibidem <g type="ampersand">et</g> draco animadvertitur, quemadmodum in
+                     <lb n="6"/>hortis Hesperiis, qui rosis <expan><abbr>custodi<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>dis</abbr></expan> invigilat. <milestone unit="section" n="e27-14"/>Rosarum odor alliis
+                     <lb n="7"/>applantatis intendi dicitur, <expan><abbr>id<hi rend="acute">q</hi><am>;</am></abbr><ex>ue</ex></expan> propter gradum caliditatis excel
+                     <lb n="8" break="no"/>lentem, qui alliis adest, unde venenis frigidis resistit: Egent enim ro
+                     <lb n="9" break="no"/>sae calore solis <g type="ampersand">et</g> terr<hi rend="ligature">ae</hi>, antequam colorem <g type="ampersand">et</g> odorem gratissimum
+                     <lb n="10"/>oculis <g type="ampersand">et</g> naribus acquirant: <milestone unit="section" n="e27-15"/>Ad h<hi rend="ligature">ae</hi>c rosas rubras fumus sulphuris
+                     <lb n="11"/>communis, qu<hi rend="circumflex">a</hi> parte attingit, albefacit, <hi rend="grave">e</hi>contr<hi rend="grave">a</hi> spiritus vitrioli seu
+                     <lb n="12"/>aqua fortis colore rubeo saturato reficit, qui perdurat. <milestone unit="section" n="e27-16"/>Sulphur e
+                     <lb n="13" break="no"/>nim commune sulphuri philosophico adversatur, quamvis illud
+                     <lb n="14"/>destruere nequeat, aqua ver<hi rend="grave">o</hi> solutiva amicatur <g type="ampersand">et</g> colorem illi <expan><abbr>c<hi rend="tilde"></hi></abbr><ex>n</ex>
+                     <lb n="15" break="no"/><abbr>servat</abbr></expan>: <milestone unit="section" n="e27-17"/>Rosa <persName>Veneri</persName> dicata est ob venustatem, qu<hi rend="circumflex">a</hi> c<hi rend="ligature">ae</hi>teros flosculos
+                     <lb n="16"/>antecellit: Ipsa enim virgo est, quam natura armavit, ne absque
+                     <lb n="17"/>vindicta violaretur impun<hi rend="grave">e</hi>: <milestone unit="section" n="e27-18"/>Viol<hi rend="ligature">ae</hi> inermes sunt <g type="ampersand">et</g> pedibus obte
+                     <lb n="18" break="no"/>runtur; Ros<hi rend="ligature">ae</hi> intra spinas abdit<hi rend="ligature">ae</hi> capillos flavos habent interi<hi rend="grave">u</hi>s <g type="ampersand">et</g>
+                     <lb n="19"/>vestem viridem exteri<hi rend="grave">u</hi>s: <milestone unit="section" n="e27-19"/>Nemo has nisi sapiens carpet <g type="ampersand">et</g> <hi rend="grave">a</hi> spinis se
+                     <lb n="20" break="no"/>parabit, si secus, aculeum sentiet in digitis: <milestone unit="section" n="e27-20"/>Sic nullus nisi cautissi
+                     <lb n="21" break="no"/>mus Philosophorum flores decerpet, nisi apiculas <g type="ampersand">et</g> aciculas in al
+                     <lb n="22" break="no"/>veariis; <g type="ampersand">et</g> fel in melle experiri velit. <milestone unit="section" n="e27-21"/>Plurimi Rosarium manibus
+                     <lb n="23"/>pr<hi rend="ligature">ae</hi>datoriis clam ingressi sunt, sed nil pr<hi rend="ligature">ae</hi>ter dolorem inde retule
+                     <lb n="24" break="no"/>runt, hoc est, oleum <g type="ampersand">et</g> operam perdiderunt. <milestone unit="section" n="e27-22"/>Hinc <persName><hi rend="italic">Bacusser</hi></persName> in <title>turba</title>;
+                     <lb n="25"/><quote rend="italic">Libri enim nostri</quote>, inquit, <quote rend="italic">magnam injuriam videntur inferre his, qui so
+                     <lb n="26" break="no"/>mmodo semel bis vel ter scripta nostra legunt, cum intellectu, omnique eo
+                        <lb n="27" break="no"/>rum studio frustrati etiam (quod pessimum est) opes, labores <g type="ampersand">et</g> tempus, si
+                     <lb n="28"/>quod in hace arte insumpserunt, amittunt.</quote> <milestone unit="section" n="e27-23"/>Et paulo post, <quote rend="italic">Dum enim quis
+                     <lb n="29"/>putat se feciße, mundum habere, nihil in manibus suis inveniet.</quote>
+                  </ab>
+               <fw type="catchword" place="bottom-right" xml:lang="de">Der</fw>                  
+            </div>
+            
+         </div>
+      </body>
+  </text>
+</TEI>

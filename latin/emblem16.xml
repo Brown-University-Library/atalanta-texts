@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+     <revisionDesc>
+        <change when="2017-12-22" who="SJD">Start encoding</change>
+        <change when="2018-01-04" who="SJD">Finish draft</change>
+     </revisionDesc>
+  </teiHeader>
+   
+   
+  <text>
+      <body>
+         <div type="emblem" n="e16">
+            <pb n="72"/>
+            <head>
+               <lb n="1"/><fw type="pageNum" place="top-left">72</fw> FUGA XVI. in 5. suprà.
+               <lb n="2"/>Dieser Löw keine Federn <pc>/</pc>aber jener hat.
+            </head>
+            
+            <div type="fugue">
+               <head>
+                  
+               </head>
+               
+            </div>
+            
+            <div type="epigram" xml:lang="de">
+               <head>XVI. Epigrammatis Latini versio Germanica.</head>
+               <lg>
+                  <lb n="1"/><l>Der Löw <pc>/</pc> so uberwindt die Thier mit Stärcke und Klawen <pc>/</pc></l>
+                  <lb n="2"/><l>Streitt ohn all Forcht <pc>/</pc> und läßt seine Flucht nicht schawen <pc>/</pc></l>
+                  <lb n="3"/><l>Setz du ihm zu ein Löwin <pc>/</pc> so geflügelt sen <pc>/</pc> welch ihn erheben <pc>/</pc></l>
+                  <lb n="4"/><l>Sich untersteh <pc>/</pc> daß sie bend möchten in Lüfften leben <pc>/</pc></l>
+                  <lb n="5"/><l>Uber er bleibt ganz fest stehn <pc>/</pc> und auff der Erden sich haltet <pc>/</pc></l>
+                  <lb n="6"/><l>Diß Bild der Natur <pc>/</pc> dir schawt den Weg <pc>/</pc> dadurch sie waltet.</l>
+               </lg>
+            </div>
+            <fw type="catchword">Emble-</fw>
+            
+            <pb n="73"/>
+            
+            <div type="image-caption">
+               <head>
+                  <lb n="1"/>Emblema XVI. De Secretis Natur<hi rend="ligature">ae</hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">73</fw>
+                  <lb n="2"/>Hic leo, quas plumas non habet, alter habet.
+               </head>
+               
+            </div>
+            
+            <figure><graphic url=""></graphic></figure>
+            
+            <div type="epigram" xml:lang="la">
+               <head>Epigramma XVI.</head>
+               <lg>
+                  <lb n="1"/><l>Victor quadrupedum Leo pectore fortis <g type="ampersand">et</g> ungue</l>
+                  <lb n="2"/><l>Absque metu pugnat, dissimul<hi rend="acute">a</hi>tque fugam:</l>
+                  <lb n="3"/><l>Aligeram cui tu pedibus conjuge Le<hi rend="ligature">ae</hi>nam,</l>
+                  <lb n="4"/><l>Qu<hi rend="ligature">ae</hi> volat <g type="ampersand">et</g> secum vult relevare marem:</l>
+                  <lb n="5"/><l>Ille sed immotus stat humo, retin<hi rend="acute">e</hi>tque volantem;</l>
+                  <lb n="6"/><l>H<hi rend="ligature">ae</hi>c tibi natur<hi rend="ligature">ae</hi> monstret imago viam.</l>
+               </lg>
+            </div>
+            
+            <fw type="gathering" place="bottom-right">K</fw> <fw type="catchword" place="bottom-right">Leo-</fw>
+            
+            <div type="discourse" xml:lang="la">
+               <pb n="74"/>
+               <head><fw type="pageNum" place="top-left">74</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="16">XVI</num>.</head>
+                  <ab>
+                     <lb n="1"/><milestone unit="section" n="e16-01"/>Leonem non tam magnitudine <g type="ampersand">et</g> robore corporis qu<hi rend="grave">a</hi>m gene
+                     <lb n="2" break="no"/>rositate c<hi rend="ligature">ae</hi>teris pr<hi rend="ligature">ae</hi>valere animalibus, ab <expan><abbr>experi<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>tia</abbr></expan> notum est.
+                     <lb n="3"/><milestone unit="section" n="e16-02"/>Si in venatu videatur erubescens dare terga, sese paulatim recipit, si
+                     <lb n="4"/>multitudine opprimatur: Remotus ab aspectu venantium, fugam
+                     <lb n="5"/>proper<hi rend="grave">e</hi> molitur, turpitudinem absconsione purgari <expan><abbr>existim<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>s</abbr></expan>: <milestone unit="section" n="e16-03"/>Sal
+                     <lb n="6" break="no"/>tu care in fuga, quo utitur dum quid insectatur. <milestone unit="section" n="e16-04"/>Eius ossa solida
+                     <lb n="7"/>sunt minim<hi rend="acute">e</hi>que vacua, qu<hi rend="ligature">ae</hi> ade<hi rend="grave">o</hi> dura dicuntur, ut inter se concus
+                     <lb n="8" break="no"/>sa ignem velut ex chalybe <g type="ampersand">et</g> silice reddant. <milestone unit="section" n="e16-05"/> Omnium maxim<hi rend="grave">e</hi> ignes
+                     <lb n="9"/>reformidant. Videtur ex natura solis substantiam deducere. Nam
+                     <lb n="10"/>impetu <g type="ampersand">et</g> calore c<hi rend="ligature">ae</hi>tera pr<hi rend="ligature">ae</hi>stat animalia, uti sol sydera. <milestone unit="section" n="e16-06"/> pr<hi rend="ligature">ae</hi>terea
+                     <lb n="11"/>oculis semper igneis <g type="ampersand">et</g> patentibus cernitur, ut sol patenti igne<hi rend="acute">o</hi>que
+                     <lb n="12"/>oculo terram conspicit. <milestone unit="section" n="e16-07"/> Le<hi rend="ligature">ae</hi>na pro catulis dimicans oculos in ter
+                     <lb n="13" break="no"/>ram defigit, ne venabula expavescat. Leo ubi Pardi coitum sentit,
+                     <lb n="14"/>in adultera le<hi rend="ligature">ae</hi>na supplicium sumit, <g type="ampersand">et</g> tota vi consurgit in p<hi rend="ligature">oe</hi>nam.
+                     <lb n="15"/><milestone unit="section" n="e16-08"/>Propterea le<hi rend="ligature">ae</hi>na culpam <g type="ampersand">et</g> odorem flumine abluit, aut conscia
+                     <lb n="16"/>sceleris <g type="ampersand">et</g> masculi metu fugientem adulterum comitatur. <milestone unit="section" n="e16-09"/>Quam
+                     <lb n="17"/>miram hujus belv<hi rend="ligature">ae</hi> naturam dum Philosophi comtemplantur, de
+                     <lb n="18"/>Leone varias allegorias, quasi hieroglyphicas scripturas de suo arca
+                     <lb n="19" break="no"/>no opere attestantes, produxerunt. Leonem esse animal constans,
+                     <lb n="20"/>firmum, dolis carens <g type="ampersand">et</g> suspicione animadvertentes potiorem su<hi rend="ligature">ae</hi>
+                     <lb n="21"/>compositionis Philosophic<hi rend="ligature">ae</hi> partem huic assimilarunt. <milestone unit="section" n="e16-10"/> Ut enim i
+                     <lb n="22" break="no"/>pse <expan><abbr>n<hi rend="tilde">o</hi></abbr><ex>n</ex></expan> fugit, sic nec h<hi rend="ligature">ae</hi>c: ille solidis <expan><abbr>ossib<am>.</am></abbr><ex>us</ex></expan> ita h<hi rend="ligature">ae</hi>c fixa <g type="ampersand">et</g> vinci nescia.
+                     <lb n="23"/><milestone unit="section" n="e16-11"/>Le<hi rend="ligature">ae</hi>na ver<hi rend="grave">o</hi> ab adulterio uti non est semper libera aut immunis, ita
+                     <lb n="24"/>nec Luna seu Mercurius omni macula caret, sed ab ignaris nunc
+                     <lb n="25"/>huic, mox illi materi<hi rend="ligature">ae</hi> adjungitur, unde potius adultera conjunctio
+                     <lb n="26"/>rerum in natura discrepantium, qu<hi rend="grave">a</hi>m verum <expan><abbr>matrimoni<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> commit
+                     <lb n="27" break="no"/>titur: <milestone unit="section" n="e16-12"/>Ex pardo enim <g type="ampersand">et</g> le<hi rend="ligature">ae</hi>na geniti, non habent speciosas circa
+                     <lb n="28"/>colla, <g type="ampersand">et</g> armos jubas; Quo insigni ornantur sol<hi rend="grave">u</hi>m concepti ex Le
+                     <lb n="29" break="no"/>one. <milestone unit="section" n="e16-13"/>Le<hi rend="ligature">ae</hi>na itaque philosophica suo propro mari conjungatur, <g type="ampersand">et</g>
+                     <lb n="30"/>genuinus generosus<hi rend="acute">q</hi>ue inde nascetur leunculus, qui ex ungue fa
+                     <lb n="31" break="no"/>cil<hi rend="grave">e</hi> agnosci poterit. <milestone unit="section" n="e16-14"/>Oportet ver<hi rend="grave">o</hi> le<hi rend="ligature">ae</hi>nam esse non quamvis, sed a
+                     <lb n="32" break="no"/>latam, qu<hi rend="ligature">ae</hi> cum leone pugnas inire possit, freta suarum plumarum
+                     <lb n="33"/>pernicitate; ne scilicet illius nimia iracundia supprimatur, sed si
+                  </ab>
+                  <fw type="catchword" place="bottom-right">quando</fw>
+               <pb n="75"/>
+               <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="16">XVI</num>. <fw type="pageNum" place="top-right">75</fw></head>
+                  <ab>
+                     <lb n="1"/>quando absque causa in furorem incidat, fugam meditari. <milestone unit="section" n="e16-15"/>Ipse
+                     <lb n="2"/>enim dum fugituram moratur, majori erga eam amore incita
+                     <lb n="3" break="no"/>tur, post lite fact<hi rend="circumflex">a</hi> amiciti<hi rend="circumflex">a</hi>. <milestone unit="section" n="e16-16"/>Ver<hi rend="grave">u</hi>m quis inquam, dices, vidit <expan><abbr>le<hi rend="ligature">ae</hi>
+                     <lb n="4" break="no"/>n<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> alatam, aut plum<hi rend="ligature">ae</hi> le<hi rend="ligature">ae</hi>n<hi rend="ligature">ae</hi> quid profuerint? Prope <placeName>Cyth<hi rend="ligature">ae</hi>ronem</placeName>
+                     <lb n="5"/>montem, vallis est profunda, in qua non nisi le<hi rend="ligature">ae</hi>n<hi rend="ligature">ae</hi> volatiles visun
+                     <lb n="6" break="no"/>tur: In ipso ver<hi rend="grave">o</hi> montis ejusdem vertice Leo rubens versatur ex eo
+                     <lb n="7"/>genere, quod <persName>Hercules</persName> trucidavit. <milestone unit="section" n="e16-17"/>Captandus itaque leo est, <g type="ampersand">et</g> in
+                     <lb n="8"/>vallem ducendus, <g type="ampersand">et</g> mox le<hi rend="ligature">ae</hi>n<hi rend="ligature">ae</hi> alat<hi rend="ligature">ae</hi> copulabitur: Illa quoque fa
+                     <lb n="9" break="no"/>cil<hi rend="grave">e</hi> se superari patietur, nempe par <hi rend="grave">a</hi> pari. <milestone unit="section" n="e16-18"/>Post ex valle dicta in mon
+                     <lb n="10" break="no"/>tis cacumen uterque sublimandus erit <g type="ampersand">et</g> ab hinc nunquam <hi rend="grave">a</hi> se in
+                     <lb n="11" break="no"/>vicem fugient, at semper inviolato f<hi rend="ligature">oe</hi>dere commanebunt. <milestone unit="section" n="e16-19"/><expan><abbr>Leon<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>
+                     <lb n="12"/>captura, fateor, non est facilis, sed multis periculis obnoxia, nihi
+                     <lb n="13" break="no"/>lominus instituenda erit. <milestone unit="section" n="e16-20"/> Leo non pascitur cum le<hi rend="ligature">ae</hi>na, sed separa
+                     <lb n="14" break="no"/>tim errat, ut tradunt. Hinc cujusque indagatio <g type="ampersand">et</g> venatio seorsim
+                     <lb n="15"/>fieri debet: <milestone unit="section" n="e16-21"/>Quod si ver<hi rend="grave">o</hi> utrique <hi rend="grave">a</hi> primis unguiculis, c<hi rend="grave">u</hi>m prim<hi rend="grave">o</hi> in
+                     <lb n="16" break="no"/>cedere incipiant, quod fit post secundum <hi rend="grave">a</hi> partus mensem, pulli le
+                     <lb n="17" break="no"/>onini conquirantur, <g type="ampersand">et</g> adultiores facti, ut dictum, conjungantur,
+                     <lb n="18"/>res carebit omni periculo. <milestone unit="section" n="e16-22"/>Nascuntur autem verno tempore, quod
+                     <lb n="19"/>observandum, apertis oculis. C<hi rend="grave">u</hi>m ver<hi rend="grave">o</hi> post partum Leones obli
+                     <lb n="20" break="no"/>quo ingrediantur itinere, ne cubile deprehendatur, ide<hi rend="grave">o</hi> summ<hi rend="circumflex">a</hi> di
+                     <lb n="21" break="no"/>ligenti<hi rend="circumflex">a</hi> <g type="ampersand">et</g> cur<hi rend="circumflex">a</hi> inquirendi, eorum<hi rend="acute">q</hi>ue pulli auferendi erunt.
+                     <lb/> <fw type="gathering" place="bottom-right">K ii</fw> <fw type="catchword" place="bottom-right" xml:lang="de"> Ein</fw>
+                  </ab>                  
+            </div>
+            
+         </div>
+      </body>
+  </text>
+</TEI>

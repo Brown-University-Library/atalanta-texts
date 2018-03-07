@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+     <revisionDesc>
+        <change when="2018-01-30" who="SJD">Start encoding</change>
+     </revisionDesc>
+  </teiHeader>
+   
+   
+  <text>
+      <body>
+         <div type="emblem" n="e24">
+            <pb n="104"/>
+            <head>
+               <lb n="1"/><fw type="pageNum" place="top-left">104</fw> FUGA XXIV. in 5. seu 12. infrà.
+               <lb n="2"/>Der Wolff den König gefressen hat <pc>/</pc> und wie er
+               <lb n="3"/>verbrant <pc>/</pc> wider gegeben.
+            </head>
+            
+            <div type="fugue">
+               <head>
+                  
+               </head>
+               
+            </div>
+            
+            <div type="epigram" xml:lang="de">
+               <head>XXIV. Epigrammatis Latini versio Germanica.</head>
+               <lg>
+                  <lb n="1"/><l>Den geizigen Wolff zufangen <pc>/</pc> laß dir befohlen senn <pc>/</pc></l>
+                  <lb n="2"/><l>Und würff ihm für Königs Leib <pc>/</pc> daß er ihn schlinge ein <pc>/</pc></l>
+                  <lb n="3"/><l>Leg ihn auffs Holz <pc>/</pc> und laß <persName><hi rend="latin">Vulcanum</hi></persName> zünden an das Feiur <pc>/</pc></l>
+                  <lb n="4"/><l>Damit verbrennen mög dasselbe Thier ungeheiur <pc>/</pc></l>
+                  <lb n="5"/><l>Diß thu össter <pc>/</pc> so wirt der Königs vom Todt wider auffstehn <pc>/</pc></l>
+                  <lb n="6"/><l>Und mit einem Löwen Herz stolz und frech hereiner gehn.</l>
+               </lg>
+            </div>
+            <fw type="catchword">Emble-</fw>
+            
+            <pb n="105"/>
+            
+            <div type="image-caption">
+               <head>
+                  <lb n="1"/>Emblema XXIV. De Secretis Natur<hi rend="ligature">ae</hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">105</fw>
+                  <lb n="2"/>Regem lupus voravit <g type="ampersand">et</g> vit<hi rend="ligature">ae</hi> crematus reddidit.
+               </head>
+               
+            </div>
+            
+            <figure><graphic url=""></graphic></figure>
+            
+            <div type="epigram" xml:lang="la">
+               <head>Epigramma XXIV.</head>
+               <lg>
+                  <lb n="1"/><l>Multivorum captare lupum tibi cura sit, illi</l>
+                  <lb n="2"/><l>Projiciens Regis corpus, ut ingluviem</l>
+                  <lb n="3"/><l>Hoc domet, hunc disponere rogo, <persName>Vulcanus</persName> ubi ignem</l>
+                  <lb n="4"/><l>Exicet, in cineres belua quo redeat.</l>
+                  <lb n="5"/><l>Illud agas inter<hi rend="grave">u</hi>m sit morte surget</l>
+                  <lb n="6"/><l><expan><abbr>Rex<hi rend="acute tail">q</hi></abbr><ex>ue</ex></expan> Leonino corde superbus erit.</l> 
+               </lg>
+            </div>
+            
+            <fw type="gathering" place="bottom-right">O</fw> <fw type="catchword" place="bottom-right">Quanta</fw>
+            
+            <div type="discourse" xml:lang="la">
+               <pb n="106"/>
+               <head><fw type="pageNum" place="top-left">106</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="24">XXIV</num>.</head>
+                  <ab>
+                     <lb n="1"/><milestone unit="section" n="e24-01"/>Quanta sit lupi fames <g type="ampersand">et</g> voracitas, vulgo notum est: ubi enim
+                     <lb n="2"/>alimenta desint, in summa fame vescitur terr<hi rend="circumflex">a</hi>; qu<hi rend="circumflex">a</hi> <expan><abbr>quoq<am>;</am></abbr><ex>ue</ex></expan> ven
+                     <lb n="3" break="no"/>trem explere traditur, si magna armenta aggressurus sit, ut ill<hi rend="circumflex">a</hi> quasi
+                     <lb n="4"/>sarcin<hi rend="circumflex">a</hi> factus onerosior, non tam facil<hi rend="grave">e</hi> excutiatur, sed resistant for
+                     <lb n="5" break="no"/>ti<hi rend="grave">u</hi>s. <milestone unit="section" n="e24-02"/>C<hi rend="grave">u</hi>m caulas intraverit, non sol<hi rend="grave">u</hi>m interficit, quod satis est ad <expan><abbr>v<hi rend="tilde">e</hi></abbr><ex>n</ex>
+                        <lb n="6" break="no"/><abbr>trem</abbr></expan>, sed <g type="ampersand">et</g> totum gregem passim jugulat pr<hi rend="ligature">ae</hi> aviditate. <milestone unit="section" n="e24-03"/>Sacer est
+                     <lb n="7"/><persName>Apollini</persName> <g type="ampersand">et</g> <persName>Laton<hi rend="ligature">ae</hi></persName>, <expan><abbr><hi rend="stroke">q</hi></abbr><ex>uod</ex></expan> ei parienti astiterit: Nec <expan><ex>e</ex><abbr>n<am>.</am></abbr><ex>im</ex></expan> <expan><abbr>absq<am>;</am></abbr><ex>ue</ex></expan> lupi pr<hi rend="ligature">ae</hi>sem
+                     <lb n="8" break="no"/>tia <persName>Latona</persName> parere potuisset. Unde non immerit<hi rend="grave">o</hi> <persName>Apollini</persName>, cujus
+                     <lb n="9"/>natalicium celebravit, lupus acceptus creditur: Ad h<hi rend="ligature">ae</hi>c quia oculi
+                     <lb n="10"/>ei noctu splendent <g type="ampersand">et</g> lucem jaculantur. <milestone unit="section" n="e24-04"/>Huic igitur ingenti fame
+                     <lb n="11"/>obsesso Regium corpus exanime projicitur, non ide<hi rend="grave">o</hi>, ut totum <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>n</ex>
+                        <lb n="12" break="no"/><abbr>sumat</abbr></expan> <g type="ampersand">et</g> in nihilum redigat, sed ut vitam <g type="ampersand">et</g> vires ei restituat propria
+                     <lb n="13"/>sua morte. <milestone unit="section" n="e24-05"/>Est enim nescio quid virtutis amatori<hi rend="ligature">ae</hi> in lupi cauda, <expan><abbr><hi rend="stroke">q</hi></abbr><ex>uod</ex></expan>
+                     <lb n="14"/>regi semimortuo infunditur, unde omnibus pergratus est <expan><abbr>hominib<am>.</am></abbr><ex>us</ex></expan>
+                     <lb n="15"/>sanitatem <g type="ampersand">et</g> formam pristinam recuperans: <milestone unit="section" n="e24-06"/><orgName>Hyrcani</orgName> non ad alium
+                     <lb n="16"/>usum nutriebant canes, qu<hi rend="grave">a</hi>m ut iis vit<hi rend="circumflex">a</hi> functos objicerent voran
+                     <lb n="17" break="no"/>dos, ut <persName ref="https://viaf.org/viaf/78769600">Cicero</persName> tradit: Sic <g type="ampersand">et</g> <orgName>Massaget<hi rend="ligature">ae</hi></orgName> ex morbo mortuos <expan><abbr>canib<am>.</am></abbr><ex>us</ex></expan>
+                     <lb n="18"/>dant in pr<hi rend="ligature">ae</hi>dam: <milestone unit="section" n="e24-07"/>Philosophi ver<hi rend="grave">o</hi> Regem lupo: Nec ver<hi rend="grave">o</hi> <orgName><expan><abbr>Sab<hi rend="ligature">ae</hi>or<hi rend="tilde">u</hi></abbr><ex>m</ex></expan></orgName>
+                     <lb n="19"/>mos placuit, defunctorum corpora, eodem modo, quo stercus du
+                     <lb n="20" break="no"/>cere, qui <g type="ampersand">et</g> reges <expan><abbr>rejicieb<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>t</abbr></expan> inter sterquilinia, nec <orgName>Troglodytarum</orgName>,
+                     <lb n="21"/>qui mortui cervicem <expan><abbr>pedib<am>.</am></abbr><ex>us</ex></expan> alligabant <g type="ampersand">et</g> raptim cum jocis <g type="ampersand">et</g> risu
+                     <lb n="22"/>efferebant, <expan><abbr>null<hi rend="circumflex">a</hi>q<am>;</am></abbr><ex>ue</ex></expan> loci ratione habit<hi rend="circumflex">a</hi>, terr<hi rend="ligature">ae</hi> mandabant: <milestone unit="section" n="e24-08"/>At <orgName>Ma
+                     <lb n="23" break="no"/>gorum</orgName> institutumsequi in hoc maluerunt, qui non humabant cor
+                     <lb n="24" break="no"/>pora suorum, nisi pri<hi rend="grave">u</hi>s <hi rend="grave">a</hi> feris laniata: <milestone unit="section" n="e24-09"/>Aut <orgName>Indorum</orgName>, qui se vivos cre
+                     <lb n="25" break="no"/>mari jusserunt, coronatos deorum laudes concinentes, ne senectus
+                     <lb n="26"/>pr<hi rend="ligature">ae</hi>veniret: <milestone unit="section" n="e24-10"/>Ver<hi rend="grave">u</hi>m <expan><abbr>omnib<am>.</am></abbr><ex>us</ex></expan> illis ultimum fatum hunc morem impo
+                     <lb n="27" break="no"/>suit absque ulla resurrectionis spe aut vit<hi rend="ligature">ae</hi> innovatione: <milestone unit="section" n="e24-10"/><expan><abbr>L<hi rend="tilde">o</hi></abbr><ex>n</ex><abbr>g<hi rend="grave">e</hi></abbr></expan> aliter
+                     <lb n="28"/>apud <expan><abbr>Philos<am>.</am></abbr><ex>ophos</ex></expan> dispositum est: Illi enim certissim<hi rend="grave">e</hi> noverunt, ex rege 
+                     <lb n="29"/>mortuo <hi rend="grave">a</hi> lupo devorato, vivum, fortem <g type="ampersand">et</g> juvenem appariturum,
+                     <lb n="30"/><expan><abbr>lup<hi rend="acute">u</hi>mq<am>;</am></abbr><ex>ue</ex></expan> ejus vice igne crematurum iri: <milestone unit="section" n="e24-11"/>Est namque lupus facil<hi rend="grave">e</hi> in
+                     <lb n="31" break="no"/>terimendus, si ventrem ita oner<hi rend="circumflex">a</hi>rit, Rex ver<hi rend="grave">o</hi> licet mortuus, tamen
+                     <lb n="32"/>Martiali vel Cygnea vi pollet, ut vulnerari nec absumi possit. <milestone unit="section" n="e24-12"/>At ubi
+                     <lb n="33"/>venandus erit hic lupus, <g type="ampersand">et</g> unde Rex accipiendus? Respondent
+                  </ab>
+                  <fw type="catchword" place="bottom-right">Philos.</fw>
+               <pb n="107"/>
+               <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="24">XXIV</num>. <fw type="pageNum" place="top-right">107</fw></head>
+                  <ab>
+                     <lb n="1"/><expan><abbr>Philos<am>.</am></abbr><ex>ophi</ex></expan> quod in montibus <g type="ampersand">et</g> vallibus passim lupus erret, ut pr<hi rend="ligature">ae</hi>dam
+                     <lb n="2"/>captet, qui ex antris suis extrahendus <g type="ampersand">et</g> ad usum servandus erit: <milestone unit="section" n="e24-13"/>Rex
+                     <lb n="3"/>ver<hi rend="grave">o</hi> ab oriente veniens diuturni itineris fastidio fatigatus tandem
+                     <lb n="4"/>occumbit: cui m<hi rend="ligature">oe</hi>ror quoque mortem accelerat, quia videat <expan><abbr><hi rend="stroke">q</hi></abbr><ex>uod</ex></expan>
+                     <lb n="5"/>apud exteros in nullo sit honore, <expan><abbr>parv<hi rend="acute">i</hi>q<am>;</am></abbr><ex>ue</ex></expan> <hi rend="ligature">ae</hi>stimetur, ita ut propter
+                     <lb n="6"/>paucos aureos in servitutem v<hi rend="ligature">ae</hi>neat: <milestone unit="section" n="e24-14"/>Oportet autem, ut lupus ex
+                     <lb n="7"/>frigidiori regione accipiatur: Nam s<hi rend="ligature">ae</hi>viores sunt, qui frigid<hi rend="circumflex">a</hi> nascun
+                     <lb n="8" break="no"/>tur plag<hi rend="circumflex">a</hi>, qu<hi rend="grave">a</hi>m in <placeName>Africa</placeName> aut <placeName><hi rend="ligature">Ae</hi>gypto</placeName>, propter majorem famem <hi rend="grave">a</hi>
+                     <lb n="9"/>frigore externo subortam: <milestone unit="section" n="e24-15"/>Rex hinc devoratus leonino revivit pe
+                     <lb n="10" break="no"/>ctore; qui deinde omnes feras domare potest: Et quamvis sit aspe
+                     <lb n="11" break="no"/>ctu vilissimus inter sex suos fratres, ut pote omnium junior, tamen
+                     <lb n="12"/>post multas tribulationes <g type="ampersand">et</g> miserias ad regnum potentissimum
+                     <lb n="13"/>tandem perveniet: <milestone unit="section" n="e24-16"/>Inde <persName>Gratianus</persName> apud <title ref="http://viaf.org/viaf/191597728">Rosarium</title>; <quote rend="italic">In Alchuymia</quote>
+                     <lb n="14"/>inquit, <quote rend="italic">est quoddam corpus nobile, quod movetur de domino ad dominum, in
+                     <lb n="15"/>cujus principio erit miseria cum aceto, sed in fine gaudium cum l<hi rend="ligature">ae</hi>titia.</quote> <milestone unit="section" n="e24-17"/><hi rend="italic">Et <persName>A
+                        <lb n="16" break="no"/>lanus</persName></hi> ibidem: <quote rend="italic">Una res ex omnibus eligenda, qu<hi rend="ligature">ae</hi> est lividi coloris, habens
+                           <lb n="17"/>speciem metallicam lympidam <g type="ampersand">et</g> liquidam <g type="ampersand">et</g> est res calida <g type="ampersand">et</g> humida a
+                           <lb n="18" break="no"/>quosa <g type="ampersand">et</g> adustiva, <g type="ampersand">et</g> est oleum vivum <g type="ampersand">et</g> tinctura viva, lapis mineralis <g type="ampersand">et</g>
+                        <lb n="19"/>aqua vit<hi rend="ligature">ae</hi> mir<hi rend="ligature">ae</hi> efficicaci<hi rend="ligature">ae</hi>.</quote> <milestone unit="section" n="e24-18"/><expan><abbr>Regib<am>.</am></abbr><ex>us</ex></expan> extra suorum regnorum fines pere
+                     <lb n="20" break="no"/>grinari, non semper tutum est; si enim agnoscatur, latere cupient
+                     <lb n="21" break="no"/>tes, ab adversariis pro proditoribus habentur <g type="ampersand">et</g> incarcerantur; si
+                     <lb n="22"/>agniti procedant <expan><abbr>absq<am>;</am></abbr><ex>ue</ex></expan> exercitu eodem modo periclitantur: Ita <g type="ampersand">et</g>
+                     <lb n="23"/>huic regi Indico accidit, aut non morte pr<hi rend="ligature">ae</hi>vento accidisset. <milestone unit="section" n="e24-19"/>H<hi rend="ligature">ae</hi>c
+                     <lb n="24"/>est prima sublimatio, lotio, <g type="ampersand">et</g> nobilitatio, qu<hi rend="circumflex">a</hi> <expan><abbr>Philos<am>.</am></abbr><ex>ophi</ex></expan> utuntur, ut se
+                     <lb n="25" break="no"/>cunda <g type="ampersand">et</g> tertia e<hi rend="grave">o</hi> f<hi rend="ligature">oe</hi>lici<hi rend="grave">us</hi> fiant: Nec enim ill<hi rend="ligature">ae</hi> <expan><abbr>absq<am>;</am></abbr><ex>ue</ex></expan> hac ullius sun 
+                     <lb n="26"/>momenti, rege pusillanimo, somnolento <g type="ampersand">et</g> <hi rend="ligature">ae</hi>gro adhuc existente.
+                     <lb n="27"/><milestone unit="section" n="e24-20"/>Nam oportet eum <hi rend="grave">a</hi> sibi subjectis censum <g type="ampersand">et</g> tributum exigere pri
+                     <lb n="28" break="no"/>m<hi rend="grave">o</hi>, unde sibi vestes <g type="ampersand">et</g> alia necessaria comparet, <g type="ampersand">et</g> post sat dives e
+                     <lb n="29" break="no"/>rit, ut omnibus subditis nova vestimenta, quoties voluerit, imparti
+                     <lb n="30" break="no"/>ri possit: <milestone unit="section" n="e24-21"/>Magna enim plerumque ex parvis initiis orta deinde par
+                     <lb n="31" break="no"/>va subvehere possunt, vel etiam magna supprimere, si velint. <milestone unit="section" n="e24-22"/>Exem
+                     <lb n="32" break="no"/>plo sint civitates ab initio parv<hi rend="ligature">ae</hi>, qu<hi rend="ligature">ae</hi> post magnis regibus imper<hi rend="circumflex">a</hi>
+                     <lb n="33" break="no"/>runt <g type="ampersand">et</g> ex pagis oppida spaciosa populosa<hi rend="acute">q</hi>ue fecerunt.
+                  </ab>
+               <fw type="gathering" place="bottom-right">N ii</fw> <fw type="catchword" place="bottom-right" xml:lang="de">Der</fw>                  
+            </div>
+            
+         </div>
+      </body>
+  </text>
+</TEI>

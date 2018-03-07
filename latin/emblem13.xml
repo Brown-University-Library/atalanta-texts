@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+     <revisionDesc>
+        <change when="2017-07-26" who="SJD">Created</change>
+        <change when="2017-07-26" who="SJD">Completed draft</change>
+     </revisionDesc>
+  </teiHeader>
+   
+   
+  <text>
+      <body>
+         <div type="emblem" n="e14">
+            <pb n="64"/>
+            <head>
+               <lb n="1"/><fw type="pageNum" place="top-left">64</fw> FUGA XIV. in 8. infr<hi rend="grave">a</hi>.
+               <lb n="2"/>Der Stein <pc>/</pc> welchen <persName><hi rend="roman">Saturnus</hi></persName> vor <persName><hi rend="roman">Jovem</hi></persName> seine Sohn
+               <lb n="3"/>gefressen <pc>/</pc> außgespeijet <pc>/</pc> ist den zur Menschen Gedächtnuß
+               <lb n="4"/>auff den Berg <placeName><hi rend="roman">Heliconem</hi></placeName> gesetzet.
+            </head>
+            
+            <div type="fugue">
+               <head>
+                  
+               </head>
+               
+            </div>
+            
+            <div type="epigram" xml:lang="de">
+               <head>XII. Epigrammatis Latini versio Germanica.</head>
+               <lg>
+                  <lb n="1"/><l>So du woltst wissen <pc>/</pc> warumb die Poeten offt thun gedencken <pc>/</pc></l>
+                  <lb n="2"/><l>Daß mannach dem Helicon all sein Beierg sol lencken <pc>/</pc></l>
+                  <lb n="3"/><l>Es ist der Stein zum Gedächnüß da berühmet weit<pc>/</pc></l>
+                  <lb n="4"/><l>Welchen <persName><hi rend="roman">Saturnus</hi></persName> fraß vor <persName><hi rend="roman">Jove</hi></persName> und widerspent <pc>/</pc></l>
+                  <lb n="5"/><l>Ob du wirst sehen nur auff der Wortern gethön <pc>/</pc> bistu nicht flug<pc>/</pc></l>
+                  <lb n="6"/><l>Dann daß der Stein Chymisch sen gewesen <pc>/</pc> ist klar genug.</l>
+               </lg>
+            </div>
+            <fw type="catchword" place="bottom-right">Emble-</fw>
+            
+            <pb n="57"/> 
+            
+            <div type="image-caption">
+               <head>
+                  <lb n="1"/>Emblema XII. <hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">57</fw>
+                  <lb n="2"/>Lapis, quem <persName>Saturnus</persName>, pro <persName>Jove</persName> filio devoratum, evomuit,
+                  <lb n="3"/>Pro monumento in <placeName>Helicone</placeName> mortalibus est positus.
+               </head>
+            </div>
+            
+            <figure><graphic url=""></graphic></figure>
+            
+            <div type="epigram" xml:lang="la">
+               <head>Epigramma XII.</head>
+               <lg>
+                  <lb n="1"/><l>Nosse cupis causam, tot cur <placeName><hi rend="capital">Helicona</hi></placeName> poët<hi rend="ligature">ae</hi></l>
+                  <lb n="2"/><l>Dicant, qu<hi rend="acute">o</hi>dque ejus cuique petendus apex?</l>
+                  <lb n="3"/><l>Est <hi rend="capital">lapis</hi> in summo, <hi rend="capital">monumentum</hi>, vertice postus,</l>
+                  <lb n="4"/><l>Pro <persName>Jove</persName> deglutiit quem vomu<hi rend="acute">i</hi>tque pater.</l>
+                  <lb n="5"/><l>Si ceu verba sonant rem captas, mens tibi l<hi rend="ligature">ae</hi>va est,</l>
+                  <lb n="6"/><l>Namque est <persName>Saturni</persName> <hi rend="capital">Chemicus</hi> ille <hi rend="capital">lapis</hi>.</l>
+               </lg>
+            </div>
+            
+           <fw type="gathering">H </fw> <fw type="catchword" place="bottom-right">Saturni</fw>
+            
+            <div type="discourse">
+               <pb n="58"/>
+               <head><fw type="pageNum" place="top-left">58</fw> <hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="12">XII</num>.</head>
+                  <ab>
+                     <lb n="1"/><milestone unit="section" n="e12-01"/> <persName>Saturni</persName> allegoriam diversimod<hi rend="grave">e</hi> acceptam esse invenimus.
+                     <lb n="2"/>Astronomi enim ad planetarum in ordine summum; Chymi<hi rend="ligature">ae</hi>
+                     <lb n="3"/>tyrones ad <expan><abbr>metallor<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> infimum, nempe plumbum retulerunt. <expan><abbr>Poët</abbr><ex>a</ex><abbr><hi rend="hook">e</hi></abbr></expan>
+                     <lb n="4"/>Ethnici pro <persName>Jovis</persName> patre, <persName>C<hi rend="ligature">oe</hi>li</persName> filio. Mythologi pro <expan><abbr>t<hi rend="tilde">e</hi></abbr><ex>m</ex><abbr>mpore</abbr></expan> <expan><abbr>habuer<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>t</abbr></expan>.
+                     <lb n="5"/><milestone unit="section" n="e12-02"/> Ver<hi rend="grave">u</hi>m hi omnes lic<hi rend="grave">e</hi>t sup respectu rect<hi rend="grave">e</hi> sensisse ration<hi rend="acute">e</hi>mque su<hi rend="ligature">ae</hi>
+                     <lb n="6"/>opinionis probabilem habuisse videantur, tamen qu<hi rend="ligature">ae</hi> de <persName>Saturno></persName>
+                     <lb n="7"/>ali<hi rend="grave">a</hi>s dicuntur, non explicabunt, cur filios <g type="ampersand">et</g> lapidem pro <persName>Jove</persName> de
+                     <lb n="8" break="no"/>vorarit <g type="ampersand">et</g> evomuerit, cur veritatis inventor, cur falce, serpente, ni
+                     <lb n="9" break="no"/>gredine, morositate conspicuus <g type="ampersand">et</g> loripes existat? <milestone unit="section" n="e12-03"/> Hoc ultimi opti
+                     <lb n="10" break="no"/>m<hi rend="grave">e</hi> interpretari se putant, dum tempus veritatem aperire <g type="ampersand">et</g> eruere
+                     <lb n="11"/><hi rend="grave">e</hi> tenebris dicunt, ut serpentem volvendo elabi, velut falce omnia
+                     <lb n="12"/>morete prosternere, devorare filios, id est, omnes res, quas gener<hi rend="circumflex">a</hi>rit,
+                     <lb n="13"/>lapides duros concoquere vel absumere non posse, <expan><abbr>ide<hi rend="acute">o</hi>q<am>;</am></abbr><ex>ue</ex></expan> eos quasi
+                     <lb n="14"/>revomere. <milestone unit="section" n="e12-04"/> At h<hi rend="ligature">ae</hi>c conveniunt <expan><abbr>quid<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> ex parte, sed rei veritati <g type="ampersand">et</g> cir
+                     <lb n="15" break="no"/>cumstantiis <expan><abbr>omnib<am>.</am></abbr><ex>us</ex></expan> non quadrant. <milestone unit="section" n="e12-05"/> <expan><abbr>Philos<am>.</am></abbr><ex>ophi</ex></expan> ver<hi rend="grave">o</hi> exercitati dicunt, in
+                     <lb n="16"/>suo opere <persName>Saturnum</persName> prim<hi rend="grave">o</hi> adesse, qui si revera pr<hi rend="ligature">ae</hi>sens sit, errari
+                     <lb n="17"/>non posse, veritatem in tenebris inventam esse; Nil ver<hi rend="grave">o</hi> existere
+                     <lb n="18"/>pr<hi rend="ligature">ae</hi>ter nigredinem: Unde dicunt: <expan><abbr>Quicunq<am>;</am></abbr><ex>ue</ex></expan> color post nigredinem
+                     <lb n="19"/>advenerit, laudabilis est in turba <expan><abbr>philos</abbr><ex>ophorum</ex></expan>. <milestone unit="section" n="e12-06"/> Et c<hi rend="grave">u</hi>m videris materiam
+                     <lb n="20"/>tuam denigrari, gaude; quia principium est operis. Et, c<hi rend="grave">u</hi>m primum
+                     <lb n="21"/>denigratur, clavem operis dicimus esse, quoniam non fit <expan><abbr>ab<unclear>s</unclear>q<am>;</am></abbr><ex>ue</ex></expan> ni
+                     <lb n="22" break="no"/>gredine, ut <title ref="http://viaf.org/viaf/191597728">Rosarius</title> habet ex <persName ref="http://viaf.org/viaf/100189814">Arnoldo</persName>. <milestone unit="section" n="e12-07"/> Et ex <title>speculo</title>; c<hi rend="grave">u</hi>m in ope
+                     <lb n="23" break="no"/>re fueris, fac ut principio habeas colorem nigrum <g type="ampersand">et</g> tunc certus eris
+                     <lb n="24"/>quod putrefacis <g type="ampersand">et</g> viam rectam procedis. <milestone unit="section" n="e12-07"/> Et mox: Ista nigredo
+                     <lb n="25"/>nuncupatur Terra, qu<hi rend="ligature">ae</hi> fit levi decoctione toties reiterata, donec
+                     <lb n="26"/>nigredo super emineat. <milestone unit="section" n="e12-08"/> Hinc iidem dicunt, quod <persName>Saturnus</persName> teneat
+                     <lb n="27"/>terram, <persName>Mercurius</persName> aquam, <persName>Jupiter</persName> aërem, <persName>Sol</persName> ignem. Nigredo <expan><abbr>itaq<am>,</am></abbr><ex>ue</ex></expan>
+                     <lb n="28"/><persName>Saturnus</persName> est, veritatis index, qui lapidem pro <persName>Jove</persName> devorat. Nigredo
+                     <lb n="29"/>enim, hoc est, fusca nubes lapidem tegit prim<hi rend="grave">o</hi>, ne videri possit. <milestone unit="section" n="e12-09"/> Inde
+                     <lb n="30"/><persName ref="http://viaf.org/viaf/12734759">Morienes</persName>, omne corpus, inquit, c<hi rend="grave">u</hi>m anima caruerit, tenebrosum
+                     <lb n="31"/><g type="ampersand">et</g> obscurum invenitur. <milestone unit="section" n="e12-10"/> Et <persName ref="http://viaf.org/viaf/24571510">Hermes</persName>: accipe cerebrum ejus, aceto a
+                     <lb n="32" break="no"/>cerrimo tere, vel urin<hi rend="circumflex">a</hi> puerorum, quousque obscuretur. <milestone unit="section" n="e12-11"/> Hoc pera
+                     <lb n="33" break="no"/>cto vivit in putrefactione <g type="ampersand">et</g> fusc<hi rend="ligature">ae</hi> nubes, qu<hi rend="ligature">ae</hi> super ipsum fuerant
+                     <lb/>
+                  </ab>
+               <fw type="catchword" place="bottom-right"><g type="ampersand">et</g></fw>
+                  
+               <pb n="59"/>
+               <head><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="12">XII</num>. <fw type="pageNum" place="top-right">59</fw></head>
+                  <ab>
+                     <lb n="1"/><g type="ampersand">et</g> in suor corpore, antequam moreretur, revertuntur. <milestone unit="section" n="e12-11"/> Hic lapis ite
+                     <lb n="2" break="no"/>r<hi rend="grave">u</hi>m evomitur <hi rend="grave">a</hi> <persName>Saturno</persName> c<hi rend="grave">u</hi>m albescit, <expan><abbr>atq<am>;</am></abbr><ex>ue</ex></expan> tunc in <placeName>Heliconis</placeName> apice
+                     <lb n="3"/>statuitur pro monumento <expan><abbr>mortalib<am>.</am></abbr><ex>us</ex></expan> ut <persName ref="http://viaf.org/viaf/122220717">Hesiodus</persName> scribit: sub nigre
+                     <lb n="4" break="no"/>dine enim albedo revera latet, qu<hi rend="ligature">ae</hi> ex <expan><abbr>v<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>tre</abbr></expan> ejus extrahitur, hoc est,
+                     <lb n="5"/>ex <persName>Saturni</persName> ventriculo. <milestone unit="section" n="e12-12"/> Hinc <persName ref="http://viaf.org/viaf/228724785">Democritus</persName>, <q rend="italic">Mundifica <expan><abbr>st<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>n<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> cum pr<hi rend="ligature">ae</hi>cipua
+                     <lb n="6"/>ablutione, extrahe ab eo nigredinem ejus <g type="ampersand">et</g> obscuritatem <g type="ampersand">et</g> apparebit can
+                     <lb n="7" break="no"/>dor ejus.</q> <milestone unit="section" n="e12-13"/> Et in <title ref="http://viaf.org/viaf/317093189">turba</title> dicitur: <q rend="italic">Jungite siccum humido, id est, terram nigram
+                     <lb n="8"/>cum aqua sua, <g type="ampersand">et</g> coquite, donec dealbetur.</q> <milestone unit="section" n="e12-14"/> Id <persName ref="http://viaf.org/viaf/100189814">Arnoldus</persName> in <title>novo lumine</title>
+                     <lb n="9"/><expan><abbr>cap<am>.</am></abbr><ex>ite</ex></expan> <num value="4" type="ordinal">4<am>.</am></num> optim<hi rend="grave">e</hi> declarat c<hi rend="grave">u</hi>m inquit: <q rend="italic">Humiditas ergo qu<hi rend="ligature">ae</hi> curabat in de
+                     <lb n="10" break="no"/>coctione nigredinem, se desiccatam ostendit, dum color albus incipit appare
+                     <lb n="11" break="no"/>re:</q> Et paulo post. <q rend="italic"> Et dixit mihi magister meus, quod ista brunitas ascende
+                     <lb n="12" break="no"/>bat, quod albedo extrahebatur <hi rend="grave">a</hi> nigredinis ejus ventre, sicut in turba dicitur.
+                     <lb n="13"/>C<hi rend="grave">u</hi>m enim videris ipsum nigrum, scito quod albedo ipsius in ventre nigredi
+                     <lb n="14" break="no"/>nis primo apparentis occulta est.</q> <milestone unit="section" n="e12-14"/> <expan><abbr>Ead<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> nigredo ut <persName>Saturnus</persName> dicitur, sic <g type="ampersand">et</g>
+                     <lb n="15"/>plumbum: Inde <persName><hi rend="italic">Agadimo</hi></persName> in <title ref="http://viaf.org/viaf/317093189">turba</title>: <q rend="italic">Coquite <hi rend="ligature">ae></hi>s donec exeat nigredo,
+                     <lb n="16"/>quam nummum vocant, <g type="ampersand">et</g> res artis nostr<hi rend="ligature">ae</hi> bene miscete <g type="ampersand">et</g> invenietis nigre
+                     <lb n="17" break="no"/>dinem statimm, qu<hi rend="ligature">ae</hi> est plumbum sapientum, de quo sapientes in suis libris mul
+                     <lb n="18" break="no"/>ta tracavere:</q> <milestone unit="section" n="e12-15"/> Huc <persName><hi rend="italic">Emigani</hi></persName> dictum spectat, <q rend="italic"> quod Saturni splendor dum
+                     <lb n="19"/>scandit in aëra, non apparet, nisi tenebratus.</q> Et <persName><hi rend="italic">Platonis</hi></persName> in <title ref="http://viaf.org/viaf/191597728">rosario</title>; <q rend="italic">Primum
+                     <lb n="20"/>regimen Saturni est putrefacere <g type="ampersand">et</g> soli imponere</q>: Ex <expan><abbr>quib<am>.</am></abbr><ex>us</ex></expan> constat long<hi rend="grave">e</hi>
+                     <lb n="21"/>aliam esse mentem Philosophorum: c<hi rend="grave">u</hi>m de Saturno quid dicant,
+                     <lb n="22"/>qu<hi rend="grave">a</hi>m <hi rend="grave">a</hi> vulgo accipiatur. <milestone unit="section" n="e12-16"/> Hic <persName>Saturnus</persName> generat <persName><expan><abbr>Jov<hi rend="tilde">e</hi></abbr><ex>m</ex></expan></persName>, id est, fuscam
+                     <lb n="23"/>albedimem, <persName>Jupiter</persName> ex <persName>Latona</persName>, <persName>Dianam</persName>, id est, perfectam albedinem,
+                     <lb n="24"/><g type="ampersand">et</g> <persName>Apollinem</persName>, id est, rubedinem; Et <hi rend="ligature">ae</hi>c est colorum omnium per
+                     <lb n="25" break="no"/>fectorum successiva permutatio: <milestone unit="section" n="e12-17"/> Hic lapis <hi rend="grave">a</hi> <persName>Saturno</persName> ejectus pro
+                     <lb n="26"/>monumento positus dicitur mortalibus in montis cacumine, quod
+                     <lb n="27"/>verissimum est.
+                     <lb/> 
+                  </ab> 
+                <fw type="gathering" place="bottom-right"><hi rend="gothic">H ii</hi></fw> <fw type="catchword" place="bottom-right" xml:lang="de"><hi rend="gothic">Das</hi></fw>
+                </div>
+            
+         </div>
+      </body>
+  </text>
+</TEI>

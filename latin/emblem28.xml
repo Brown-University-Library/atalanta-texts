@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+     <revisionDesc>
+        <change when="2018-02-12" who="SJD">Start encoding</change>
+        <change when="2018-02-12" who="SJD">Finish draft</change>
+     </revisionDesc>
+  </teiHeader>
+   
+   
+  <text>
+      <body>
+         <div type="emblem" n="e28">
+            <pb n="120"/>
+            <head>
+               <lb n="1"/><fw type="pageNum" place="top-left">120</fw> FUGA <num value="28" type="cardinal">XXVIII</num>. in <num value="9">9</num> seu <num value="12">12</num>. suprà.
+               <lb n="2"/>Der König badet im lüfftigen Bade <pc>/</pc> und wirt der
+               <lb n="3"/>schwarzen Gallen entlediget durch <persName>Pharut</persName>.
+            </head>
+            
+            <div type="fugue">
+               <head>
+                  
+               </head>
+               
+            </div>
+            
+            <div type="epigram" xml:lang="de">
+               <head><num value="28" type="cardinal">XXVIII</num>. Epigrammatis Latini versio Germanica.</head>
+               <lg>
+                  <lb n="1"/><l>Der König <persName>Duenech</persName> (der ein grünen Löwen führet in seinm Schildt)</l>
+                  <lb n="2"/><l>Durch der Gallen Uberfluß von Sitten scheinte ganz wildt <pc>/</pc></l>
+                  <lb n="3"/><l>Drumb fordert er zusich den Arzten <persName>Pharut</persName> <pc></pc> der zusagt</l>
+                  <lb n="4"/><l>Ihm zuhelffen <pc>/</pc> und bald ein lüfftig Wasserbad macht.</l>
+                  <lb n="5"/><l>Hierinn er badet sehr offt mit gläserm Gewölbe umbgeben <pc>/</pc></l>
+                  <lb n="6"/><l>Biß er vom Thaw benezt <pc>/</pc> von der Gallen freij thät leben.</l>
+               </lg>
+            </div>
+            <fw type="catchword">Emble-</fw>
+            
+            <pb n="121"/>
+            
+            <div type="image-caption">
+               <head>
+                  <lb n="1"/>Emblema <num value="28" type="cardinal">XXVIII</num>. De Secretis Natur<hi rend="ligature">ae</hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">121</fw>
+                  <lb n="2"/>Rex balneatur in Laconico sedens,
+                  <lb n="3"/>Atr<hi rend="circumflex">a</hi>que bile liberatur <hi rend="grave">a</hi> <persName>Pharut</persName>.
+               </head>
+               
+            </div>
+            
+            <figure><graphic url=""></graphic></figure>
+            
+            <div type="epigram" xml:lang="la">
+               <head>Epigramma <num value="28" type="cardinal">XXVIII</num>.</head>
+               <lg>
+                  <lb n="1"/><l>Rex <persName>Duenech</persName> (viridis cui fulgent arma Leonis)</l>
+                  <lb n="2"/><l>Bile tumens rigidis moribus usus erat.</l>
+                  <lb n="3"/><l>Hinc <persName>Pharut</persName> ad sese medicum vocat, ille salutem</l>
+                  <lb n="4"/><l>Spondet <g type="ampersand">et</g> aërias fonte ministrat aquas:</l>
+                  <lb n="5"/><l>His lavat <g type="ampersand">et</g> relavat, vitreo sub fornice, donec</l>
+                  <lb n="6"/><l>Rore madenti omnis bilis abacta fuit.</l> 
+               </lg>
+            </div>
+            
+            <fw type="gathering" place="bottom-right">Q</fw> <fw type="catchword" place="bottom-right">Ut</fw>
+            
+            <div type="discourse" xml:lang="la">
+               <pb n="122"/>
+               <head><fw type="pageNum" place="top-left">122</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="28">XXVIII</num>.</head>
+                  <ab>
+                     <lb n="1"/><milestone unit="section" n="e28-01"/>Ut tres sunt in homine concoctiones, prima in ventriculo, <expan><abbr>sec<hi rend="tilde">u</hi></abbr><ex>n</ex>
+                        <lb n="2" break="no"/><abbr>da</abbr></expan> in epate, teria in venis, ita <g type="ampersand">et</g> totidem sunt universales excre
+                     <lb n="3" break="no"/>mentorum evacuationes, qu<hi rend="ligature">ae</hi> illis correspondeant, <expan><abbr>ear<hi rend="acute">u</hi>mq<am>;</am></abbr><ex>ue</ex></expan> super
+                     <lb n="4" break="no"/>fluitates quotidie evehant, nempe prima per alvum, qu<hi rend="ligature">ae</hi> prim<hi rend="ligature">ae</hi> <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>n</ex>
+                     <lb n="5" break="no"/><abbr>cotioni</abbr></expan> propria est, altera per urinam, qu<hi rend="ligature">ae</hi> secund<hi rend="ligature">ae</hi>, tertia per ex
+                     <lb n="6" break="no"/>pirationem ex poris totius corporis, seu per sudorem, qu<hi rend="ligature">ae</hi> terti<hi rend="ligature">ae</hi> <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>n</ex>
+                     <lb n="7" break="no"/><abbr>venit</abbr></expan>: <milestone unit="section" n="e28-02"/>In priori chylus, insequenti chymus, in ultima ros seu rorida
+                     <lb n="8"/>substantia elaboratur, <g type="ampersand">et</g> singulis <expan><abbr>partib<am>.</am></abbr><ex>us</ex></expan> corporis apponitur: <milestone unit="section" n="e28-03"/>Prim<hi rend="ligature">ae</hi>
+                     <lb n="9"/>excreta seu f<hi rend="ligature">oe</hi>ces sunt crass<hi rend="ligature">ae</hi>, bilios<hi rend="ligature">ae</hi> <g type="ampersand">et</g> pingues, qu<hi rend="ligature">ae</hi> per intestina in
+                     <lb n="10"/>posticam evehuntur, <g type="ampersand">et</g> si quando sistantur, per prugantia seu <expan><abbr>alv<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>
+                     <lb n="11"/>ducentia leniter, mediocriter aut fortiter ejiciuntur; <milestone unit="section" n="e28-04"/>Secund<hi rend="ligature">ae</hi> ex
+                     <lb n="12" break="no"/>crementa sunt liquida, tenuiora, biliosa <g type="ampersand">et</g> salsa, qu<hi rend="ligature">ae</hi> ex cenis per re
+                     <lb n="13" break="no"/>nes <g type="ampersand">et</g> vesicam, tanquam aqu<hi rend="ligature">ae</hi> ductus, educuntur, <g type="ampersand">et</g> horum hypo
+                     <lb n="14" break="no"/>stasis urin<hi rend="ligature">ae</hi> index est: <milestone unit="section" n="e28-05"/>Terti<hi rend="ligature">ae</hi> superfluitates sunt adhuc magis te
+                     <lb n="15" break="no"/>nues, <expan><abbr>ide<hi rend="acute">o</hi>q<am>;</am></abbr><ex>ue</ex></expan> ex tenuissimis poris per se expirant <expan><abbr>plerumq<am>;</am></abbr><ex>ue</ex></expan> aut un<hi rend="grave">a</hi>
+                     <lb n="16"/>cum sero humorum evehuntur, ut sudor: H<hi rend="ligature">ae</hi> sudorificis, ut antece
+                     <lb n="17" break="no"/>dentes diureticis, adjuvantur: <milestone unit="section" n="e28-06"/>Ad ultimas hasce f<hi rend="ligature">oe</hi>ces evacuandas
+                     <lb n="18"/>antiqui <orgName>Gr<hi rend="ligature">ae</hi>ci</orgName> <g type="ampersand">et</g> <orgName>Romani</orgName> fu<hi rend="circumflex">e</hi>re vald<hi rend="grave">e</hi> solliciti: Hinc <expan><ex>e</ex><abbr>n<am>.</am></abbr><ex>im</ex></expan> tot ludorum
+                     <lb n="19"/><g type="ampersand">et</g> exercitiorum genera ipsis usurpata sunt, utpote frictio omnium
+                     <lb n="20"/><expan><abbr>membror<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> matutina, inunctio cum oleo, <g type="ampersand">et</g> lucta, pugilum ars, cur
+                     <lb n="21" break="no"/>sus certamen, pil<hi rend="ligature">ae</hi> palmaris, reticularis <g type="ampersand">et</g> magn<hi rend="ligature">ae</hi> lusus, quotidiana
+                     <lb n="22"/>lotio <g type="ampersand">et</g> balneatio in fluviis vel balnesi artificiosis, ad quorum com
+                     <lb n="23" break="no"/>moditatem tot magnifica <hi rend="ligature">ae</hi>dificia <placeName>Rom<hi rend="ligature">ae</hi></placeName> extructa <expan><abbr>fuer<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>t</abbr></expan>, ut nobis
+                     <lb n="24"/>ea magis admirari, qu<hi rend="grave">a</hi>m imitari sit possibile: <milestone unit="section" n="e28-07"/>Exemplo sint therm<hi rend="ligature">ae</hi>
+                     <lb n="25"/><persName ref="https://viaf.org/viaf/70259756">Diocletiani</persName>, qu<hi rend="ligature">ae</hi> magna ex parte adhuc sunt reliqu<hi rend="ligature">ae</hi> <g type="ampersand">et</g> <orgName><expan><abbr>Arch<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>gelis</abbr></expan></orgName>,
+                     <lb n="26"/>nisi fallor, inscript<hi rend="ligature">ae</hi>, qu<hi rend="grave">a</hi>m alta, superba <g type="ampersand">et</g> splendida sint opera. <milestone unit="section" n="e28-09"/>E<hi rend="ligature">ae</hi>
+                     <lb n="27" break="no"/>dem fer<hi rend="grave">e</hi>, qu<hi rend="ligature">ae</hi> antea dict<hi rend="ligature">ae</hi>, sunt concotionum species in metallur
+                     <lb n="28" break="no"/>gia: Prima <expan><ex>e</ex><abbr>n<am>.</am></abbr><ex>im</ex></expan> suo modo fit in magno anno, hoc est, revolutione supre
+                     <lb n="29" break="no"/>m<hi rend="ligature">ae</hi> sph<hi rend="ligature">ae</hi>r<hi rend="ligature">ae</hi>, secunda in revolutione infim<hi rend="ligature">ae</hi> sph<hi rend="ligature">ae</hi>r<hi rend="ligature">ae></hi>, tertia in medi<hi rend="ligature">ae</hi>:
+                     <lb n="30"/><milestone unit="section" n="e28-10"/>Ver<hi rend="grave">u</hi>m <expan><abbr>Philos<am>.</am></abbr><ex>ophi</ex></expan> ut has exrementitiarum <expan><abbr>su<hi rend="stroke">p</hi></abbr><ex>er</ex><abbr>fluitatum</abbr></expan> saburras <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>m</ex>
+                        <lb n="31" break="no"/><abbr>modi<hi rend="grave">u</hi>s</abbr></expan> <expan><abbr><hi rend="stroke">p</hi></abbr><ex>er</ex></expan> artis ministerium educant, inveniunt <expan><abbr>quoq<am>;</am></abbr><ex>ue</ex></expan> varias vias, ut 
+                     <lb n="32"/>ablutiones, purgationes, balneationes <g type="ampersand">et</g> laconica, quibus id pr<hi rend="ligature">ae</hi>sti
+                     <lb n="33" break="no"/>terunt in <expan><abbr>Philos<am>.</am></abbr><ex>ophico</ex></expan> opere, quod medici in humano corpore: <milestone unit="section" n="e28-11"/><persName>Duenech</persName>
+                  </ab>
+                  <fw type="catchword" place="bottom-right">itaque</fw>
+               <pb n="123"/>
+               <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="28">XXVIII</num>. <fw type="pageNum" place="top-right">123</fw></head>
+                  <ab>
+                     <lb n="1"/><expan><abbr>itaq<am>;</am></abbr><ex>ue</ex></expan> <hi rend="grave">a</hi> <persName>Pharut></persName> in Laconicum introducitur, ut ibi sudet, <g type="ampersand">et</g> terti<hi rend="ligature">ae</hi> <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>n</ex>
+                     <lb n="2" break="no"/><abbr>coctionis</abbr></expan> f<hi rend="ligature">oe</hi>ces per poros excernat: Est autem hujus regis affectus
+                     <lb n="3"/><expan><abbr>mel<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>cholicus</abbr></expan> seu atrabilarius, unde <expan><abbr>omnib<am>.</am></abbr><ex>us</ex></expan> aliis <expan><abbr>principib<am>.</am></abbr><ex>us</ex></expan> in minori
+                     <lb n="4"/>authoritate <g type="ampersand">et</g> precio est habitus, dum <persName>Saturni</persName> morositate <g type="ampersand">et</g> <persName>Martis</persName>
+                     <lb n="5"/>cholera seu iracundia fuerit taxatus: Ipse igitur aut mori aut cu
+                     <lb n="6" break="no"/>rari voluit, si id possibile: <milestone unit="section" n="e28-12"/>Unus ex medicis inventus, qui <expan><abbr>h<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>c</abbr></expan> sibi
+                     <lb n="7"/>provinciam <expan><abbr>imposit<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> suscepit, <expan><abbr>precib<am>.</am></abbr><ex>us</ex></expan> <expan><abbr>pr</abbr><ex>a</ex><abbr><hi rend="hook">e</hi>mi<hi rend="acute">i</hi>sq<am>;</am></abbr><ex>ue</ex></expan> adductus: <expan><abbr>Estq<am>;</am></abbr><ex>ue</ex></expan> h<hi rend="ligature">ae</hi>c
+                     <lb n="8"/>allegoria <expan><abbr><hi rend="stroke">p</hi></abbr><ex>er</ex></expan> <expan><abbr>frequ<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>s</abbr></expan> in scriptis <expan><abbr>Philos<am>.</am></abbr><ex>ophicis</ex></annr></expan> utpote <persName ref="https://viaf.org/viaf/93170968">Bernhardi</persName>, <persName ref="https://viaf.org/viaf/72187470">Alani</persName>, tracta
+                     <lb n="9"/>tulo de <persName>Duenect</persName> <g type="ampersand">et</g> innumeris aliis, ide<hi rend="grave">o</hi> <expan><abbr>circ<hi rend="tilde">u</hi></abbr><ex>m</ex><abbr>stantias</abbr></expan> alias ex iis pe
+                     <lb n="10" break="no"/>tendas non adjicimus: <milestone unit="section" n="e28-13"/>Satis sit hic observ<hi rend="circumflex">a</hi>sse, cujus coctionis exre
+                     <lb n="11" break="no"/>tur: Solet autem in thermis seu balneis calidis calor in corpore con
+                     <lb n="12" break="no"/>clusus ad cutis superficiem un<hi rend="grave">a</hi> cum sanguine revocari, unde color
+                     <lb n="13"/>venustus faciei <g type="ampersand">et</g> toti corpori conciliatur; <milestone unit="section" n="e28-14"/>qui si adfuerit, signum e
+                     <lb n="14" break="no"/>rit, <expan><abbr><hi rend="stroke">q</hi></abbr><ex>uod</ex></expan> bono sanguini reclamat, <expan><abbr>est<hi rend="acute">q</hi></abbr><ex>ue</ex></expan> <expan><abbr>frigid<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <g type="ampersand">et</g> siccum, c<hi rend="grave">u</hi>m
+                     <lb n="15"/>ille <hi rend="grave">e</hi>contr<hi rend="grave">a</hi> sit calidus <g type="ampersand">et</g> humidus, <expan><abbr><hi rend="stroke">q</hi></abbr><ex>uod</ex></expan> an fieri possit, medico progno
+                     <lb n="16" break="no"/>sticis, pr<hi rend="ligature">ae</hi>scire <g type="ampersand">et</g> pr<hi rend="ligature">ae</hi>dicere convenit. <milestone unit="section" n="e28-15"/>Sunt aliquanda inventi, qui
+                     <lb n="17"/>Cerdonem pro magno principe aut regis filio acceperunt, at <expan><abbr>tand<hi rend="tilde">e</hi></abbr><ex>m</ex></expan>
+                     <lb n="18"/>qualis foret origine <g type="ampersand">et</g> educatione ex certis signis perceperunt: <milestone unit="section" n="e28-16"/>Hoc
+                     <lb n="19"/>ne contingat artifici cavendum, nempe ut vera regis <expan><abbr>sobol<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> inpri
+                     <lb n="20" break="no"/>mis eligat, qu<hi rend="ligature">ae</hi> etiamsi aureo ornatu <expan><abbr>n<hi rend="tilde">o</hi></abbr><ex>n</ex></expan> sit splendidus, at amictu de
+                     <lb n="21" break="no"/>specto <g type="ampersand">et</g> vili, nec non colore livido <g type="ampersand">et</g> melancholico, ne propterea
+                     <lb n="22"/>eam rejiciat, aut alium ejus vice captet; Si <expan><ex>e</ex><abbr>n<am>.</am></abbr><ex>im</ex></expan> optim<hi rend="grave">e</hi> lavetur, mox re
+                     <lb n="23" break="no"/>gia ejus indoles apparebit, veluti in <persName ref="https://viaf.org/viaf/311113679">Cyro</persName>, <persName>Paride</persName>, <persName>Romulo</persName>, apud ru
+                     <lb n="24" break="no"/>ricolas educatis: <milestone unit="section" n="e28-17"/>Animadvertendum ver<hi rend="grave">o</hi> est, ut balneum sit Laco
+                     <lb n="25" break="no"/>nicum, hoc est, vaporosum <g type="ampersand">et</g> sudoriferum, ne aqua ejus carnem <expan><abbr>te
+                     <lb n="26" break="no"/>ner<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> adurat, aut poros obstruat, unde plus nocumenti, qu<hi rend="grave">a</hi>m emuolu
+                     <lb n="27" break="no"/>menti contingeret, nec effectus ejus curaretur: <milestone unit="section" n="e28-18"/>De <expan><abbr>vestib<am>.</am></abbr><ex>us</ex></expan> regiis post
+                     <lb n="28"/><expan><abbr>balneation<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> illi induendis nemo sit sollicitus; Filia <expan><ex>e</ex><abbr>n<am>.</am></abbr><ex>im</ex></expan> regis <persName>Alcinoi</persName> ut
+                     <lb n="29"/>olim <persName>Ulyssi</persName> naufrago <g type="ampersand">et</g> nudo vestes pr<hi rend="ligature">ae</hi>buit, sic erit qui ipsi precio
+                     <lb n="30" break="no"/>sissimas mittet, ut filis <persName>Solis</persName> merit<hi rend="grave">o</hi> agnosci possit.
+                  </ab>
+               <fw type="gathering" place="bottom-right">Q ii</fw> <fw type="catchword" place="bottom-right" xml:lang="de">Wie</fw>                  
+            </div>
+            
+         </div>
+      </body>
+  </text>
+</TEI>

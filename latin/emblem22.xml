@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+     <revisionDesc>
+        <change when="2018-01-27" who="SJD">Start encoding</change>
+     </revisionDesc>
+  </teiHeader>
+   
+   
+  <text>
+      <body>
+         <div type="emblem" n="e22">
+            <pb n="96"/>
+            <head>
+               <lb n="1"/><fw type="pageNum" place="top-left">96</fw> FUGA XXII. in 7. suprà.
+               <lb n="2"/>Wenn du hast das weisse Bleij <pc>/</pc> so mache der Weiberwerck <pc>/</pc>
+               <lb n="3"/>das ist <pc>/</pc> koche.
+            </head>
+            
+            <div type="fugue">
+               <head>
+                  
+               </head>
+               
+            </div>
+            
+            <div type="epigram" xml:lang="de">
+               <head>XXII. Epigrammatis Latini versio Germanica.</head>
+               <lg>
+                  <lb n="1"/><l>Der du begehrst mit weniger Mühe viel zu vollenbringen<pc>/</pc></l>
+                  <lb n="2"/><l>Solst in <hi rend="latin">Saturni</hi> Gesicht (so schwarz) ein Theil Schneefschiwin<pc>=</pc><add place="above-line">(gen <pc>/</pc></add></l>
+                  <lb n="3"/><l>Und es wirt dir werden ein Bleij mit sehr weisser Klarheit <pc>/</pc></l>
+                  <lb n="4"/><l>Nach welchem nichts uberig ist <pc>/</pc> als nur Weibliche Arbeit <pc>/</pc></l>
+                  <lb n="5"/><l>Den koche <pc>/</pc> wie thut ein Weib <pc>/</pc> soldßt ihr Häfen am Feiur stehn <pc>/</pc></l>
+                  <lb n="6"/><l>Aber laß du die Trawt in ihrem Wasser zergehn.</l>
+               </lg>
+            </div>
+            <fw type="catchword">Emble-</fw>
+            
+            <pb n="97"/>
+            
+            <div type="image-caption">
+               <head>
+                  <lb n="1"/>Emblema XXII. De Secretis Natur<hi rend="ligature">ae</hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">97</fw>
+                  <lb n="2"/>Plumbo habito candido fac opus mulierum, hoc est, <hi rend="caps">coque</hi>:
+               </head>
+               
+            </div>
+            
+            <figure><graphic url=""></graphic></figure>
+            
+            <div type="epigram" xml:lang="la">
+               <head>Epigramma XXII.</head>
+               <lg>
+                  <lb n="1"/><l>Quisquis amas facili multum pr<hi rend="ligature">ae</hi>stare labore,</l>
+                  <lb n="2"/><l>Saturni in faciem (qu<hi rend="ligature">ae</hi> nigra) sparge nives:</l>
+                  <lb n="3"/><l>Et dabitur tibi materies albissima plumbi,</l>
+                  <lb n="4"/><l>Post quod, f<hi rend="ligature">oe</hi>mineum nil nisi restat opus.</l>
+                  <lb n="5"/><l>Tum <hi rend="caps">Coque</hi>, ceu mulier, qu<hi rend="ligature">ae</hi> collocat ignibus ollas,</l>
+                  <lb n="6"/><l>Fac sed ut in propriis <hi rend="caps">Truta</hi> liquescat aquis.</l>
+               </lg>
+            </div>
+            
+            <fw type="gathering" place="bottom-right">N</fw> <fw type="catchword" place="bottom-right">Quem-</fw>
+            
+            <div type="discourse" xml:lang="la">
+               <pb n="98"/>
+               <head><fw type="pageNum" place="top-left">98</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="22">XXII</num>.</head>
+                  <ab>
+                     <lb n="1"/><milestone unit="section" n="e22-01"/>Quemadmodum in triviis statu<hi rend="ligature">ae</hi> Mercuriales un<hi rend="grave">a</hi> cum indice
+                     <lb n="2"/><g type="ampersand">et</g> inscriptione poni solent ad deducendum ancipites viatores
+                     <lb n="3"/>in viam rectam, sic quoque <hi rend="grave">a</hi> Philosophis sententi<hi rend="ligature">ae</hi> qu<hi rend="ligature">ae</hi>dam acut<hi rend="ligature">ae</hi>
+                     <lb n="4"/>hinc inde in eorum libris <g type="ampersand">et</g> voluminibus allegoricis <g type="ampersand">et</g> dubiis spar
+                     <lb n="5" break="no"/>sim statuuntur, ut investigator veritatis iis admoneri possit, <g type="ampersand">et</g> in se
+                     <lb n="6" break="no"/>mitam veram quasi manu duci: <milestone unit="section" n="e22-02"/>Ex hisce h<hi rend="ligature">ae</hi>c emblematica inscri
+                     <lb n="7" break="no"/>ptio una est: Cujus h<hi rend="ligature">ae</hi>c mens habetur, quod ex <hi rend="ligature">ae</hi>re Philosophico fa
+                     <lb n="8" break="no"/>ciendum sit plumbum, ex plumbo stannum, quod <hi rend="grave">a</hi> <persName ref="https://viaf.org/viaf/11036">Gebro</persName> vocatur
+                     <lb n="9"/>plumbum album, qui docet quoque, qua ratione Saturnus per lo
+                     <lb n="10" break="no"/>tionem cum Mercurio migrent in Jovem; <milestone unit="section" n="e22-03"/>Quapropter huic indici,
+                     <lb n="11"/><expan><abbr>qu<hi rend="tilde">a</hi></abbr><ex>m</ex><abbr>vis</abbr></expan> Battologo, fides adhibenda est, si quando boves Philosophi
+                     <lb n="12" break="no"/>cas prodat, quo loco versentu dum montibus, inquit, erant, <g type="ampersand">et</g> <expan><abbr>er<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>t</abbr></expan>
+                     <lb n="13"/>sub montibus illis: <milestone unit="section" n="e22-04"/>Mulit enim, ut <persName ref="http://viaf.org/viaf/100189814">Arnoldus</persName> in <title>novo <expan><abbr>lumin<am>.</am></abbr><ex>e</ex></expan></title> <expan><abbr>c<am>.</am></abbr><ex>pite</ex></expan> <num value="1" type="ordinal">1</num>. te
+                     <lb n="14" break="no"/>statur, in montibus errantes h<hi rend="ligature">ae</hi>c animalia non cognoscunt: Ven
+                     <lb n="15" break="no"/>duntur autem pal<hi rend="grave">a</hi>m minimo precio: <milestone unit="section" n="e22-05"/>In summis montibus etiam <hi rend="ligature">ae</hi>
+                     <lb n="16" break="no"/>state nonnumquam, nives obs<hi rend="tilde">e</hi>rvantur, ac nubes s<hi rend="ligature">ae</hi>pissim<hi rend="grave">e</hi>, quibus
+                     <lb n="17"/>tanquam vapore <g type="ampersand">et</g> aqua plumbum nigrum abluitur <g type="ampersand">et</g> in cando
+                     <lb n="18" break="no"/>rem vertitur: <milestone unit="section" n="e22-06"/>In imis ver<hi rend="grave">o</hi> vallibus <g type="ampersand">et</g> fodinis illorum cristalli ex gla
+                     <lb n="19" break="no"/>cie congelati<g type="ampersand">et</g> indurati inveniuntur un<hi rend="grave">a</hi> cum lapide speculari <g type="ampersand">et</g>
+                     <lb n="20"/><surplus><g type="ampersand">et</g></surplus> talco ad albedinem <g type="ampersand">et</g> venustatem faciei commendato, si oleum
+                     <lb n="21"/>inde fiat: <milestone unit="section" n="e22-07"/>Inprimis ver<hi rend="grave">o</hi> <persName>Mercurius</persName> clarus <g type="ampersand">et</g> currens, qui ben<hi rend="grave">e</hi> pr<hi rend="ligature">ae</hi>
+                     <lb n="22" break="no"/>paratus <persName>Saturni</persName> n<hi rend="ligature">ae</hi>vos emendat, e<hi rend="acute">u</hi>mque in solium <persName>Jovis</persName> evehit:
+                     <lb n="23"/><milestone unit="section" n="e22-08"/>non autem <persName>Saturnus</persName> <g type="ampersand">et</g> <persName>Jupiter</persName> de vulgaribus intelligi debent, quia
+                     <lb n="24"/>vulgaria metalla non intrant in opus physicum, se de longa pr<hi rend="ligature">ae</hi>pa
+                     <lb n="25" break="no"/>paratione purgatis <g type="ampersand">et</g> physicis factis: <persName>Saturnus</persName> omnium gentilium aut
+                     <lb n="26"/>potius aureolorum pater est, <g type="ampersand">et</g> prima porta arcanorum: <milestone unit="section" n="e22-09"/>Cum hoc,
+                     <lb n="27"/>inquit <persName ref="https://viaf.org/viaf/95154093">Rhasis</persName> in <title><expan><abbr>epist<am>.</am></abbr><ex>ula</ex></expan></title> aperiuntur portae scientiarum: Huic succedit
+                     <lb n="28"/>filius <persName>Jupiter</persName>, qui patrem de regno deturbavit <g type="ampersand">et</g> eviravit, ne scilicet
+                     <lb n="29"/>plures generaret filios; <milestone unit="section" n="e22-10"/>Ex membro ver<hi rend="grave">o</hi> virili in mare projecto nata
+                     <lb n="30"/>est <persName>Venus</persName> f<hi rend="ligature">oe</hi>minarum pulcherrima: Ex <persName>Jove</persName>, qui est plumbum <expan><abbr>c<hi rend="tilde">a</hi></abbr><ex>n</ex>
+                     <lb n="31" break="no"/><abbr>didum</abbr></expan> pr<hi rend="ligature">ae</hi>paratum, nati sunt planet<hi rend="ligature">ae</hi> reliqui, ut <persName>Mars</persName> ex <persName>Junone</persName>.
+                     <lb n="32"/><milestone unit="section" n="e22-11"/><persName>Mercurius</persName> ex <persName>Maja</persName>, <persName>Atlantis</persName> montis <placeName>Mauritani<hi rend="ligature">ae</hi></placeName> filia, <persName>Luna</persName> <g type="ampersand">et</g> <persName>Sol</persName> ex
+                     <lb n="33"/><persName>Latona</persName>: qui quatuor sol<hi rend="circumflex">a</hi> coctione seu opere mulierum, in lucem
+                  </ab>
+                  <fw type="catchword" place="bottom-right">pro-</fw>
+               <pb n="99"/>
+               <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="22">XXII</num>. <fw type="pageNum" place="top-right">99</fw></head>
+                  <ab>
+                     <lb n="1"/>prodeunt. <milestone unit="section" n="e22-12"/>Per coctionem ver<hi rend="grave">o</hi> maturatio, <g type="ampersand">et</g> crudiorum partium
+                     <lb n="2"/>dispersio intelligitur, qu<hi rend="ligature">ae</hi> fit per <persName><expan><abbr>Vulcan<hi rend="tilde">u</hi></abbr><ex>m</ex></expan></persName> in Philosophi<hi rend="ligature">ae</hi> vasis: Non
+                     <lb n="3"/>enim arbitrandum est, quod vulgaris sit coctio, quantum ad ope
+                     <lb n="4" break="no"/>randi <expan><abbr>mod<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>, sed quoad finem cum ea convenit: <milestone unit="section" n="e22-13"/>Ut enim mulier pi
+                     <lb n="5"/>sces in aquis maturat, hoc est, omni superflue humiditate ad illis in
+                     <lb n="6"/>aquas <g type="ampersand">et</g> <expan><abbr>aër<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> resolut<hi rend="circumflex">a</hi> mollit, bullit <g type="ampersand">et</g> coquit, sic Philosophus suum
+                     <lb n="7"/>subjectum tractat, id in aqua propria, qu<hi rend="ligature">ae</hi> aceto acerrimo fortior
+                     <lb n="8"/>est macerando, colliquefaciendo, solvendo, coagulando <g type="ampersand">et</g> fixando
+                     <lb n="9"/>in <persName>Hermetis</persName> vase, cujus junctur<hi rend="ligature">ae</hi> sint strictissim<hi rend="grave">e</hi> claus<hi rend="ligature">ae</hi>, ut dece, ne
+                     <lb n="10"/>aqua exhalet, <g type="ampersand">et</g> id, <expan><abbr><hi rend="strok">q</hi></abbr><ex>uod</ex></expan>in vase est, <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>m</ex><abbr>buratur</abbr></expan>: <milestone unit="section" n="e22-14"/>Hoc est vas supra vas <g type="ampersand">et</g>
+                     <lb n="11"/>olla <expan><abbr>Philos<am>.</am></abbr><ex>ophica</ex></expan> balneum laconicum, in quo senex sudat: <milestone unit="section" n="e22-15"/>Sunt, qui pisces,
+                     <lb n="12"/>carabos, cancros vel pisa recentia bulliant in duplici olla, ita quod
+                     <lb n="13"/>jam dicta sint in olla superiori, <g type="ampersand">et</g> aqua sola in inferiori, <expan><abbr>sint<hi rend="acute">q</hi><am>;</am></abbr><ex>ue</ex></expan> <expan><abbr>oll</abbr><ex>a</ex><abbr><hi rend="hook">e</hi></abbr></expan> una
+                     <lb n="14"/>supra aliam disposit<hi rend="ligature">ae</hi> cum orbibus, ne vapor exeat: qua ratione so
+                     <lb n="15" break="no"/>lus vapor aqu<hi rend="ligature">ae</hi> ascendens penetrat contenta <g type="ampersand">et</g> maturat, fac<hi rend="acute">i</hi>tque
+                     <lb n="16"/>ea tenera <g type="ampersand">et</g> mollia long<hi rend="grave">e</hi> perfecti<hi rend="grave">u</hi>s, qu<hi rend="grave">a</hi>m si in aqua bulliissent. <milestone unit="section" n="e22-16"/>Hic
+                     <lb n="17"/>est Philosophorum modus laudatissimus, quo id, quod durum est, e
+                     <lb n="18" break="no"/>molliant, quod compactum, dissolvant, quod densum rarefaciant:
+                     <lb n="19"/>Aër enim est seu vapor insensibilis, qui fructus in aboribus maturat,
+                     <lb n="20"/>coquit <g type="ampersand">et</g> perficit, non aqua cruda <g type="ampersand">et</g> frigida, quatenus talis: <milestone unit="section" n="e22-17"/>Aër
+                     <lb n="21"/>quoque est, qui poma aurea in <persName>Hesperidum</persName> hortis tingit <g type="ampersand">et</g> colorat:
+                     <lb n="22"/>Nam, si bene confideretur, ebullitio aqu<hi rend="ligature">ae</hi>, qu<hi rend="circumflex">a</hi> carnes crud<hi rend="ligature">ae</hi> co
+                     <lb n="23" break="no"/>quuntur quoad sint esui utiles, nihil aliud est, qu<hi rend="grave">a</hi>m aqu<hi rend="ligature">ae</hi> rarefactio
+                     <lb n="24"/><g type="ampersand">et</g> in aërium vaporem transmutatio, c<hi rend="grave">u</hi>m bull<hi rend="ligature">ae</hi> sine aër intra aquam
+                     <lb n="25"/>contentus, qu<hi rend="ligature">ae</hi> facil<hi rend="grave">e</hi> evanescunt, aëre ex aquis in suam sph<hi rend="ligature">ae</hi>ram
+                     <lb n="26"/>se conferente, <g type="ampersand">et</g> aqua in centrum suum subsidente.
+                  </ab>
+               <fw type="gathering" place="bottom-right">N ii</fw><fw type="catchword" place="bottom-right" xml:lang="de">Es</fw>                  
+            </div>
+            
+         </div>
+      </body>
+  </text>
+</TEI>
