@@ -19,8 +19,8 @@
     
     <text>
         <body>
-            <div type="emblem" n="e23"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="74"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e23">
+                <pb n="74"/>
                 
                 
                 <div type="title" xml:lang="en">
@@ -40,20 +40,20 @@
                         <l>The clouds did twice at Rhodes their joy declare,</l>
                         <l><choice><orig>Show'ring</orig><reg>Showering</reg></choice> <choice><orig>downe</orig><reg>down</reg></choice> gold through the receding <choice><orig>aire</orig><reg>air</reg></choice>;</l>
                         <l>When Sol to Venus <choice><orig>payd</orig><reg>paid</reg></choice> the dues of love,</l>
-                        <l>And Pallas Sprung out of the <choice><orig>braine</orig><reg>brain</reg></choice> of Jove.</l><note place="margin" hand="3"><choice><orig>yeilding</orig><reg>yielding</reg></choice> air</note>
+                        <l>And Pallas Sprung out of the <choice><orig>braine</orig><reg>brain</reg></choice> of Jove.</l>
                     </lg>
                 </div>
+                <note place="bottom" hand="3"  anchored="false"><choice><orig>yeilding</orig><reg>yielding</reg></choice> air</note>
                 
-                
-                <pb n="75"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="75"/> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 23.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>It would be <choice><orig>madnesse</orig><reg>madness</reg></choice> to <choice><orig>affirme</orig><reg>affirm</reg></choice> that gold ever rained upon the earth, except<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                    <ab> 
+                        <lb/>It would be <choice><orig>madnesse</orig><reg>madness</reg></choice> to <choice><orig>affirme</orig><reg>affirm</reg></choice> that gold ever rained upon the earth, except<milestone unit="section" n="e03-01" /> 
                         <lb/>it was allegorically understood: for there are <choice><orig>noe</orig><reg>no</reg></choice> golden rivers, or <choice><orig>Mynes</orig><reg>Mines</reg></choice> of <pc>-</pc>
                         <lb/>gold veins in the clouds, that it could be <choice><orig>sayd</orig><reg>said</reg></choice> to be there generated, nor is gold of
                         <lb/><choice><orig>soe</orig><reg>so</reg></choice> little weight, as to be thought to be attracted with <choice><orig>vapours</orig><reg>vapors</reg></choice>: but a Trope <choice><orig>ad
-                        <lb/>mitts</orig><reg>admits</reg></choice> and <choice><orig>excuseth</orig><reg>excuses</reg></choice> all these things; for <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>truely</orig><reg>truly</reg></choice> as Pallas actually sprung
+                        <lb break="no"/>mitts</orig><reg>admits</reg></choice> and <choice><orig>excuseth</orig><reg>excuses</reg></choice> all these things; for <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>truely</orig><reg>truly</reg></choice> as Pallas actually sprung
                         <lb/>from Jupiters <choice><orig>braine</orig><reg>brain</reg></choice>, and Sol <choice><orig>coḿitted</orig><reg>committed</reg></choice> adultery with Venus, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>truely</orig><reg>truly</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice>
                         <lb/>fell golden <choice><orig>raine</orig><reg>rain</reg></choice>; not as if <choice><orig>wee</orig><reg>we</reg></choice> doubt both those things to have happened, <pc>-</pc>
                         <lb/>but to take away the vulgar and <choice><orig>literall</orig><reg>literal</reg></choice> sense from things allegorically
@@ -91,7 +91,7 @@
                         <lb break="no"/>pen: for <choice><orig>hee</orig><reg>he</reg></choice> in all his actions will be miraclous, and excite a <pc>-</pc>
                         <lb/>golden <choice><orig>rayne</orig><reg>rain</reg></choice>: This is the brother of Augius the <choice><orig>Sonne</orig><reg>Son</reg></choice> of Sol, <pc>-</pc>
                         
-                        <pb n="76"/><fw rend="italics">Discourse 23.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="76"/><fw rend="italics">Discourse 23.</fw>
                         <lb/>who had Oxen for a patrimony, the dung whereof Hercules purged away
                         <lb/>in one day: <choice><orig>Hee</orig><reg>He</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> is the brother of Æeta, who possessed the golden
                         <lb/>fleece obtained by Jason. Of Pallas <choice><orig>proceding</orig><reg>proceeding</reg></choice> from the <choice><orig>braine</orig><reg>brain</reg></choice> of Jupiter,
@@ -112,7 +112,7 @@
                         <lb/><choice><orig>voyd</orig><reg>void</reg></choice> of sense and understanding by that very thing, (from which Chrysaor
                         <lb/>was produced, who was the father of the <choice><orig>tricorporeall</orig><reg>tricorporeal</reg></choice> Geryon <choice><orig>aforesayd</orig><reg>aforesaid</reg></choice>), <pc>-</pc>
                         <lb/>that is, the petrifying Gorgonian blood, which is nothing <choice><orig>els</orig><reg>else</reg></choice>, but the <pc>-</pc>
-                        <lb/>tincture of the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> stone<pc>. . . . . . . . .</pc>      
+                        <lb/>tincture of the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> stone <pc>. . . . . . . . .</pc>      
                     </ab>   
                 </div>
                 

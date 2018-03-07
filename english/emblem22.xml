@@ -19,8 +19,8 @@
     
     <text>
         <body>
-            <div type="emblem" n="e22"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="71"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e22">
+                <pb n="71"/>
                 
                 
                 <div type="title" xml:lang="en">
@@ -44,11 +44,11 @@
                 </div>
                 
                 
-                <pb n="72"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="72"/> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 22.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>As <choice><orig>Mercuriall</orig><reg>Mercurial</reg></choice> Statues are <choice><orig>coḿonly</orig><reg>commonly</reg></choice> placed in roads where three <choice><orig>wayes</orig><reg>ways</reg></choice> meet, to<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                    <ab> 
+                        <lb/>As <choice><orig>Mercuriall</orig><reg>Mercurial</reg></choice> Statues are <choice><orig>coḿonly</orig><reg>commonly</reg></choice> placed in roads where three <choice><orig>wayes</orig><reg>ways</reg></choice> meet, to<milestone unit="section" n="e03-01" /> 
                         <lb break="no"/>gether with a title and inscription, to guide <choice><orig>doubtfull</orig><reg>doubtful</reg></choice> travellers into the right
                         <lb/>way, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> are <choice><orig>certaine</orig><reg>certain</reg></choice> acute sentences inferred in many of their books
                         <lb/>and <choice><orig>volums</orig><reg>volumes</reg></choice> of the Philosophers, here and there <choice><orig>allegoricall</orig><reg>allegorical</reg></choice> and dubious, that
@@ -94,7 +94,7 @@
                         
                         
                         
-                        <pb n="73"/><fw rend="italics">Discourse 22.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="73"/><fw rend="italics">Discourse 22.</fw>
                         <lb/>that <choice><orig>vessell</orig><reg>vessel</reg></choice> above the <choice><orig>vessell</orig><reg>vessel</reg></choice>, and the Philosophers <choice><orig>pott</orig><reg>pot</reg></choice>, the Laconian bath,
                         <lb/>in which the old man sweats: Some there are, who <choice><orig>boyle</orig><reg>boil</reg></choice> fish, Lobsters, Crabs,
                         <lb/>or green Peas in a double, <choice><orig>soe</orig><reg>so</reg></choice> that the <choice><orig>sayd</orig><reg>said</reg></choice> things are in the upper <choice><orig>pott</orig><reg>pot</reg></choice>, and
@@ -112,7 +112,7 @@
                         <lb break="no"/>refaction and transmutation of the water into an airy <choice><orig>vapour</orig><reg>vapor</reg></choice>, the bubbles
                         <lb/>being <choice><orig>aire</orig><reg>air</reg></choice> <choice><orig>containd</orig><reg>contained</reg></choice> within the water, which <choice><orig>doe</orig><reg>do</reg></choice> easily vanish away, the
                         <lb/><choice><orig>aire</orig><reg>air</reg></choice> betaking <choice><orig>itselfe</orig><reg>itself</reg></choice> from the water to its <choice><orig>owne</orig><reg>own</reg></choice> Sphere, and the water <pc>-</pc>
-                        <lb/>settling to its <choice><orig>owne</orig><reg>own</reg></choice> center<pc>. . . . . . . . . .</pc> 
+                        <lb/>settling to its <choice><orig>owne</orig><reg>own</reg></choice> center <pc>. . . . . . . . . .</pc> 
                     </ab>   
                 </div>
                 

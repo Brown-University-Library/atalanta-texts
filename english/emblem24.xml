@@ -19,8 +19,8 @@
     
     <text>
         <body>
-            <div type="emblem" n="e24"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="77"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e24">
+                <pb n="77"/>
                 
                 
                 <div type="title" xml:lang="en">
@@ -44,12 +44,12 @@
                 </div>
                 
                 
-                <pb n="78"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="78"/> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 24.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>It is a thing <choice><orig>coḿonly</orig><reg>commonly</reg></choice> <choice><orig>knowne</orig><reg>known</reg></choice>, how great the hunger and voracity of a <choice><orig>wolfe</orig><reg>wolf</reg></choice> is:<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
-                        <note place="margin" hand="2"><unclear reason="illegible">match the Rx of, <pc>. . .</pc><lb/>are so extreme hungry</unclear></note><lb/>for when <choice><orig>hee</orig><reg>he</reg></choice> wants food, <seg rend="underline" hand="2">in extreme hunger</seg> <seg rend="underline" hand="2"><choice><orig>hee</orig><reg>he</reg></choice> feeds upon the earth:</seg> which
+                    <ab> 
+                        <lb/>It is a thing <choice><orig>coḿonly</orig><reg>commonly</reg></choice> <choice><orig>knowne</orig><reg>known</reg></choice>, how great the hunger and voracity of a <choice><orig>wolfe</orig><reg>wolf</reg></choice> is:<milestone unit="section" n="e03-01" /> 
+                        <note place="margin" hand="2">neither the <g>℞</g> of <g>♁</g>, <pc>. . .</pc><lb/>nor<lb/><g>♂</g> are so extreme hungry</note><lb/>for when <choice><orig>hee</orig><reg>he</reg></choice> wants food, <seg rend="underline" hand="2">in extreme hunger</seg> <seg rend="underline" hand="2"><choice><orig>hee</orig><reg>he</reg></choice> feeds upon the earth:</seg> which
                         <lb/><choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>hee</orig><reg>he</reg></choice> is <choice><orig>sayd</orig><reg>said</reg></choice> to disgorge, if <choice><orig>hee</orig><reg>he</reg></choice> come amongst great heards of beasts, that
                         <lb/>being made more heavy with that <choice><orig>packe</orig><reg>pack</reg></choice> as it were, <choice><orig>hee</orig><reg>he</reg></choice> cannot be <choice><orig>soe</orig><reg>so</reg></choice> easily
                         <lb/><choice><orig>Shak'd</orig><reg>Shaked</reg></choice> off, but resists more strongly and furiously. Having <choice><orig>entred</orig><reg>entered</reg></choice> into the
@@ -94,7 +94,7 @@
                         
                         
                         
-                        <pb n="79"/><fw rend="italics">Discourse 24.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="79"/><fw rend="italics">Discourse 24.</fw>
                         <lb break="no"/>tude for a little <choice><orig>mony</orig><reg>money</reg></choice>: But the <seg rend="underline" hand="2"><choice><orig>wolfe</orig><reg>wolf</reg></choice> </seg>must be had out <seg rend="underline" hand="2">of a colder region,</seg> for
                         <lb/>those that are bred in a cold climate are more fierce, than in Africa or <choice><orig>Ægypt</orig><reg>Egypt</reg></choice>,
                         <lb/>by reason of greater hunger <seg rend="underline" hand="2"><choice><orig>proceding</orig><reg>proceeding</reg></choice> from <choice><orig>externall</orig><reg>external</reg></choice> col</seg>d: th<seg rend="underline" hand="2">e devoured King</seg> <pc>-</pc>
@@ -125,7 +125,7 @@
                         <lb/><choice><orig>proceding</orig><reg>proceeding</reg></choice> from small <choice><orig>beginings</orig><reg>beginnings</reg></choice> may then advance small things, or <pc>-</pc>
                         <lb/><choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>suppresse</orig><reg>suppress</reg></choice> great things, if they will: as for example, Small <choice><orig>Cityes</orig><reg>Cities</reg></choice>
                         <lb/>at the <choice><orig>begining</orig><reg>beginning</reg></choice>, which have afterwards governed great Kings, and <pc>-</pc>
-                        <lb/>of villages have made <choice><orig>spatious</orig><reg>spacious</reg></choice> and populous towns<pc>. . . . . . .</pc>  
+                        <lb/>of villages have made <choice><orig>spatious</orig><reg>spacious</reg></choice> and populous towns <pc>. . . . . . .</pc>  
                     </ab>   
                 </div>
                 

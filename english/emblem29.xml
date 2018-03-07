@@ -19,8 +19,8 @@
     
     <text>
         <body>
-            <div type="emblem" n="e29"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="92"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e29">
+                <pb n="92"/>
                 
                 
                 <div type="title" xml:lang="en">
@@ -44,11 +44,11 @@
                 </div>
                 
                 
-                <pb n="93"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="93"/> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 29.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>Two Elements there are, in which <choice><orig>animalls</orig><reg>animals</reg></choice> live, water and <choice><orig>aire</orig><reg>air</reg></choice>, and as ma<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                    <ab> 
+                        <lb/>Two Elements there are, in which <choice><orig>animalls</orig><reg>animals</reg></choice> live, water and <choice><orig>aire</orig><reg>air</reg></choice>, and as ma<milestone unit="section" n="e03-01" /> 
                         <lb break="no"/>ny in which <choice><orig>noe</orig><reg>no</reg></choice> animated thing can live, earth and fire: For as those are
                         <lb/>of a <choice><orig>midle</orig><reg>middle</reg></choice> and temperate complexion in the first and second <choice><orig>qualityes</orig><reg>qualities</reg></choice>, <choice><orig>soe</orig><reg>so</reg></choice>
                         <lb/>these are extreme; <choice><orig>bodyes</orig><reg>bodies</reg></choice> either too <choice><orig>thicke</orig><reg>thick</reg></choice> or too <choice><orig>subtill</orig><reg>subtle</reg></choice>, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>thicke</orig><reg>thick</reg></choice> as not
@@ -92,7 +92,7 @@
                         
                         
                         
-                        <pb n="94"/><fw rend="italics">Discourse 29.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="94"/><fw rend="italics">Discourse 29.</fw>
                         <lb/>judges, and Salamanders are above his violence, which they <choice><orig>doe</orig><reg>do</reg></choice> not fear: <pc>-</pc>
                         <lb/>Avicenne in Porta reckons up the various temperaments of <choice><orig>bodyes</orig><reg>bodies</reg></choice>, which are
                         <lb/>all <choice><orig>unæquall</orig><reg>unequal</reg></choice>, and therefore corruptible by fire and other <choice><orig>injuryes</orig><reg>injuries</reg></choice>: but one
@@ -133,7 +133,7 @@
                         <lb/>supposed of <choice><orig>watry</orig><reg>watery</reg></choice> and volatile Mercury, which in its <choice><orig>owne</orig><reg>own</reg></choice> nature
                         <lb/>cannot be fixed, except by <choice><orig>mariage</orig><reg>marriage</reg></choice> and coition with Sulphur, <pc>-</pc>
                         <lb/>which is the Philosophers tincture, and <choice><orig>fixeth</orig><reg>fixes</reg></choice> all volatile Spi
-                        <lb/>rits<pc>. . . . . . . . . . . . . . . .</pc>   
+                        <lb break="no"/>rits <pc>. . . . . . . . . . . . . . . .</pc>   
                     </ab>   
                 </div>
                 

@@ -19,14 +19,14 @@
     
     <text>
         <body>
-            <div type="emblem" n="e41"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="128"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e41">
+                <pb n="128"/>
                 
                 
                 <div type="title" xml:lang="en">
                     <head>
                         <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 41. Of the Secrets of Nature.
-                        <lb/>Adonis is <choice><orig>killd</orig><reg>killed</reg></choice> by a Boar, to <choice><orig>whome</orig><reg>whom</reg></choice> Venus <choice><orig>hasting</orig><reg>having</reg></choice> tinged the
+                        <lb/>Adonis is <choice><orig>killd</orig><reg>killed</reg></choice> by a Boar, to <choice><orig>whome</orig><reg>whom</reg></choice> Venus hasting tinged the
                         <lb/>Roses with her blood.</seg>
                     </head>
                 </div>
@@ -45,11 +45,11 @@
                 </div>
                 
                 
-                <pb n="129"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="129"/> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 4i.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>How improperly some of the Mythologists resolve the Allegory of <pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                    <ab> 
+                        <lb/>How improperly some of the Mythologists resolve the Allegory of <pc>-</pc><milestone unit="section" n="e03-01" /> 
                         <lb/>Adonis, and ascribe him sometimes to the <choice><orig>Sunne</orig><reg>Sun</reg></choice>, the <choice><orig>Boare</orig><reg>Boar</reg></choice>, by which
                         <lb/><choice><orig>hee</orig><reg>he</reg></choice> was <choice><orig>slayne</orig><reg>slain</reg></choice>, to a hard winter, sometimes to the seed of wheat, <pc>-</pc>
                         <lb/>which is six <choice><orig>moneths</orig><reg>months</reg></choice> with Proserpina under the earth, and as many
@@ -58,9 +58,9 @@
                         <lb/><choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> <choice><orig>Sunne</orig><reg>Sun</reg></choice> to be meant by Adonis: From whence the Versicle:
                         <quote rend="indent">
                             <lg xml:lang="lat">
-                                <l>Omnia sunt idem, Dionysus, Sol, et Adonis:</l>
-                                <l>And Orpheus:<pc>------</pc>Qui vario lætaris nomine Adoni,</l>
-                                <l>Germinum et idem author, pariter puer atq puella.</l>
+                                <l>Omnia sunt idem, Dionysus, Sol, et Adonis:</l></lg>
+                            And Orpheus:<pc>------</pc><lg xml:lang="lat"><l>Qui vario lætaris nomine Adoni,</l>
+                                <l>Germinum et idem author, pariter puer atꝗ puella.</l>
                             </lg>
                         </quote>
                         <lb/>All which are by <choice><orig>noe</orig><reg>no</reg></choice> means to be understood of the <choice><orig>cælestiall</orig><reg>celestial</reg></choice>, but <pc>-</pc>
@@ -96,7 +96,7 @@
                         
                         
                         
-                        <pb n="130"/><fw rend="italics">Discourse 4i.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="130"/><fw rend="italics">Discourse 4i.</fw>
                         <lb/>speaks thus of Adonis, that is, of <choice><orig>himselfe</orig><reg>himself</reg></choice>: Know yee, that my father Sol
                         <lb/><choice><orig>hath</orig><reg>has</reg></choice> given <choice><orig>mee</orig><reg>me</reg></choice> power above all power, and <choice><orig>cloathed</orig><reg>clothed</reg></choice> <choice><orig>mee</orig><reg>me</reg></choice> with the gar
                         <lb break="no"/>ment of glory: And a little after: For I am his <choice><orig>onely</orig><reg>only</reg></choice> <choice><orig>Sonne</orig><reg>Son</reg></choice> and more
@@ -117,7 +117,7 @@
                         <lb break="no"/>sons: For those things which are true, though shaded under the <choice><orig>veyle</orig><reg>veil</reg></choice>
                         <lb/>of an allegory, <choice><orig>doe</orig><reg>do</reg></choice> consent in <choice><orig>wonderfull</orig><reg>wonderful</reg></choice> harmony one with another, <pc>-</pc>
                         <lb/>but those things which are false are repugnant, and inconsistent with
-                        <lb/>themselves, and others<pc>. . . . . . . . .</pc>
+                        <lb/>themselves, and others <pc>. . . . . . . . .</pc>
                     </ab>   
                 </div>
                 

@@ -19,8 +19,8 @@
     
     <text>
         <body>
-            <div type="emblem" n="e27"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="86"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e27">
+                <pb n="86"/>
                 
                 
                 <div type="title" xml:lang="en">
@@ -45,11 +45,11 @@
                 </div>
                 
                 
-                <pb n="87"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="87"/> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 27.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>Concerning Erichthonius they write, that <choice><orig>hee</orig><reg>he</reg></choice> sprung from the seed of Vulcan <pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                    <ab> 
+                        <lb/>Concerning Erichthonius they write, that <choice><orig>hee</orig><reg>he</reg></choice> sprung from the seed of Vulcan <pc>-</pc><milestone unit="section" n="e03-01" /> 
                         <lb/>cast upon the earth striving with Pallas the <choice><orig>Goddesse</orig><reg>Goddess</reg></choice> of <choice><orig>wisedome</orig><reg>wisdom</reg></choice>, with ser
                         <lb break="no"/>pentine and without <choice><orig>humane</orig><reg>human</reg></choice> feet. Very like him are those, who, depending upon
                         <lb/>the means of Vulcan alone, without the <choice><orig>wisedome</orig><reg>wisdom</reg></choice> of Pallas, <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>begett</orig><reg>beget</reg></choice> monstrous
@@ -72,7 +72,7 @@
                         <lb/>enters into the garden, which is every way enclosed or fenced, without a Key,
                         <lb/>imitates a <choice><orig>theife</orig><reg>thief</reg></choice>, who coming in a <choice><orig>darke</orig><reg>dark</reg></choice> night can <choice><orig>discerne</orig><reg>discern</reg></choice> nothing that <pc>-</pc>
                         <lb/><choice><orig>growes</orig><reg>grows</reg></choice> in the garden, nor enjoy the things stolen away: But the key is a thing
-                        <lb/>of very little <choice><orig>esteeme</orig><reg>esteem</reg></choice> or value, which is properly called a stone <choice><orig>knowne</orig><reg>known</reg></choice> in the
+                        <lb/><note anchored="false"><seg rend="italic">[marginal decoration]</seg></note>of very little <choice><orig>esteeme</orig><reg>esteem</reg></choice> or value, which is properly called a stone <choice><orig>knowne</orig><reg>known</reg></choice> in the
                         <lb/>chapters, and is the root of Rhodes, without which a twig is not put forth, nor <pc>-</pc>
                         <lb/><choice><orig>doth</orig><reg>does</reg></choice> the bud swell, nor the Rose become green, or discover multitude of <pc>-</pc>
                         <lb/>leaves: But a <choice><orig>quæstion</orig><reg>question</reg></choice> might be <choice><orig>askd</orig><reg>asked</reg></choice>, where must this key be sought for?
@@ -93,7 +93,7 @@
                         <lb/>in <choice><orig>garlicke</orig><reg>garlic</reg></choice>, in which respect it is a remedy against cold <choice><orig>poysons</orig><reg>poisons</reg></choice>: for Roses <pc>-</pc>
                         
                         
-                        <pb n="88"/><fw rend="italics">Discourse 27.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="88"/><fw rend="italics">Discourse 27.</fw>
                         <lb/>require the heat of the <choice><orig>Sunne</orig><reg>Sun</reg></choice> and earth, before they can <choice><orig>attaine</orig><reg>attain</reg></choice> to <choice><orig>colour</orig><reg>color</reg></choice> and
                         <lb/>scent most <choice><orig>gratefull</orig><reg>grateful</reg></choice> to the eyes and nose: Moreover the fume of <choice><orig>coḿon</orig><reg>common</reg></choice> Sulphur
                         <lb/>makes red roses white, where it <choice><orig>toucheth</orig><reg>touches</reg></choice>, on the contrary the spirit of <choice><orig>Vitrioll</orig><reg>Vitriol</reg></choice>
@@ -105,16 +105,16 @@
                         <lb break="no"/>out revenge and <choice><orig>punnishment</orig><reg>punishment</reg></choice>: Violets are <choice><orig>voyd</orig><reg>void</reg></choice> of weapons, and trodden under
                         <lb/>foot; Roses being comprised within prickles have yellow <choice><orig>haire</orig><reg>hair</reg></choice> inwardly; and
                         <lb/>outwardly a green garment: <choice><orig>Noe</orig><reg>No</reg></choice> man can <choice><orig>plucke</orig><reg>pluck</reg></choice>, and separate them from <pc>-</pc>
-                        <lb/>the prickles but <choice><orig>hee</orig><reg>he</reg></choice> that is wife, if otherwise, <choice><orig>hee</orig><reg>he</reg></choice> will <choice><orig>feele</orig><reg>feel</reg></choice> a sting in his <pc>-</pc>
+                        <lb/>the prickles but <choice><orig>hee</orig><reg>he</reg></choice> that is wife [sic], if otherwise, <choice><orig>hee</orig><reg>he</reg></choice> will <choice><orig>feele</orig><reg>feel</reg></choice> a sting in his <pc>-</pc>
                         <lb/>fingers: <choice><orig>Soe</orig><reg>So</reg></choice> none but a most wary Philosopher will <choice><orig>plucke</orig><reg>pluck</reg></choice> the flowers, ex
-                        <lb break="no"/>cept <choice><orig>hee</orig><reg>he</reg></choice> would find bees and stings in the hives, and gull with honey. Many <pc>-</pc>
+                        <lb break="no"/>cept <choice><orig>hee</orig><reg>he</reg></choice> would find bees and stings in the hives, and gall with honey. Many <pc>-</pc>
                         <lb/>men have secretly and feloniously <choice><orig>entred</orig><reg>entered</reg></choice> into the Rosary, but reaped nothing <pc>-</pc>
                         <lb/>from thence but misery; that is, lost their <choice><orig>labour</orig><reg>labor</reg></choice>. Hereupon <choice><orig>Sayth</orig><reg>Says</reg></choice> Bacusser in <pc>-</pc>
                         <lb/>Turba; Our <choice><orig>bookes</orig><reg>books</reg></choice> <choice><orig>seeme</orig><reg>seem</reg></choice> to be very injurious to those, who read our writings
                         <lb/><choice><orig>onely</orig><reg>only</reg></choice> once, twice, or thrice, whereas being frustrated in their understanding and <pc>-</pc>
                         <lb/>whose study, they <choice><orig>allso</orig><reg>also</reg></choice> (which is worst) <choice><orig>loose</orig><reg>lose</reg></choice> their <choice><orig>mony</orig><reg>money</reg></choice>, <choice><orig>paines</orig><reg>pains</reg></choice>, and time, if
                         <lb/>they have spent any in this art. And a little after, For when a man thinks <choice><orig>hee</orig><reg>he</reg></choice>
-                        <lb/><choice><orig>hath</orig><reg>has</reg></choice> done, <choice><orig>hath</orig><reg>has</reg></choice> the world, <choice><orig>hee</orig><reg>he</reg></choice> will find nothing his hands<pc>. . . . .</pc>    
+                        <lb/><choice><orig>hath</orig><reg>has</reg></choice> done, <choice><orig>hath</orig><reg>has</reg></choice> the world, <choice><orig>hee</orig><reg>he</reg></choice> will find nothing his hands <pc>. . . . .</pc>    
                     </ab>   
                 </div>
                 

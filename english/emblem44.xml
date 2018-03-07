@@ -19,8 +19,8 @@
     
     <text>
         <body>
-            <div type="emblem" n="e44"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="137"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e44">
+                <pb n="137"/>
                 
                 
                 <div type="title" xml:lang="en">
@@ -45,11 +45,11 @@
                 </div>
                 
                 
-                <pb n="138"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="138"/> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 44.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>The allegory of <choice><orig>Osyris</orig><reg>Osiris</reg></choice> <choice><orig>wee</orig><reg>we</reg></choice> have <choice><orig>elswhere</orig><reg>elsewhere</reg></choice> (namely in the first<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                    <ab> 
+                        <lb/>The allegory of <choice><orig>Osyris</orig><reg>Osiris</reg></choice> <choice><orig>wee</orig><reg>we</reg></choice> have <choice><orig>elswhere</orig><reg>elsewhere</reg></choice> (namely in the first<milestone unit="section" n="e03-01" /> 
                         <lb/><choice><orig>booke</orig><reg>book</reg></choice> of <choice><orig>Hieroglyphicks</orig><reg>Hieroglyphics</reg></choice>) reduced to its true <choice><orig>originall</orig><reg>original</reg></choice>, which is
                         <lb/><choice><orig>Chymicall</orig><reg>Chymical</reg></choice>, and fully <choice><orig>explaind</orig><reg>explained</reg></choice> it: Wherefore here to repeat the
                         <lb/>same things (though the same things ought to be spoken of the <pc>-</pc>
@@ -86,7 +86,7 @@
                         <lb/>without which nothing is effected, the second, as the matter and <choice><orig>forme</orig><reg>form</reg></choice>,
                         <lb/>the third, as the efficient. Sol takes his sister Luna to wife: Jupiter Juno,
                         <lb/>as <choice><orig>Saturne</orig><reg>Saturn</reg></choice> Rhea, and <choice><orig>Osyris</orig><reg>Osiris</reg></choice> Isis: Dionysus is <choice><orig>rippd</orig><reg>ripped</reg></choice> out of his mother Se
-                        <lb break="no"/>mele being burnt by the lightening of Jove to be matured in the <pc>-</pc>
+                        <lb break="no"/>mele being burnt by the <choice><orig>lightening</orig><reg>lightning</reg></choice> of Jove to be matured in the <pc>-</pc>
                         <lb/>thigh of Jupiter his father, <choice><orig>Æsculapius</orig><reg>Aesculapius</reg></choice> out of Coronis his Mother: Dio
                         <lb break="no"/>nysus coming to maturity <choice><orig>shews</orig><reg>shows</reg></choice> men a new way of drinking wine, un
                         <lb break="no"/>dertaking an expedition even to the <choice><orig>Indyes</orig><reg>Indies</reg></choice>; <choice><orig>Osyris</orig><reg>Osiris</reg></choice> and Triptolemus,
@@ -94,7 +94,7 @@
                         
                         
                         
-                        <pb n="139"/><fw rend="italics">Discourse 44.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="139"/><fw rend="italics">Discourse 44.</fw>
                         <lb break="no"/>dicine: Dionysus <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>calld</orig><reg>called</reg></choice> by the Greeks, is Bacchus with the Romans, <pc>-</pc>
                         <lb/>with the <choice><orig>Ægyptians</orig><reg>Egyptians</reg></choice> <choice><orig>Osyris</orig><reg>Osiris</reg></choice>, with the Syrians Adonis. <choice><orig>Œdipus</orig><reg>Oedipus</reg></choice> <choice><orig>killd</orig><reg>killed</reg></choice> his father
                         <lb/>and <choice><orig>marryd</orig><reg>married</reg></choice> his mother; Perseus slew his Grand<pc rend="double-hyphen">-</pc>father, Typhon his bro
@@ -105,7 +105,7 @@
                         <lb/>sister, and wife. The child Pelops was <choice><orig>boyld</orig><reg>boiled</reg></choice> and <choice><orig>dressd</orig><reg>dressed</reg></choice>, and his shoulder
                         <lb/>eaten by Ceres, and <choice><orig>againe</orig><reg>again</reg></choice> <choice><orig>restord</orig><reg>restored</reg></choice> to life, an ivory shoulder being added:
                         <lb/>Achilles and Triptolemus were put under coals of fire by night, and in
-                        <lb/>the day time nourished with <choice><orig>milke</orig><reg>milk</reg></choice>, <subst><del>Achilles</del><add hand="2"><unclear reason="illegible">Triptolemus</unclear></add></subst> by Ceres his <choice><orig>Nurce</orig><reg>Nurse</reg></choice>, <subst><del>Tripto
+                        <lb/>the day time nourished with <choice><orig>milke</orig><reg>milk</reg></choice>, <subst><del>Achilles</del><add hand="2">Triptolemus</add></subst> by Ceres his <choice><orig>Nurce</orig><reg>Nurse</reg></choice>, <subst><del>Tripto
                         <lb break="no"/>lemus</del><add hand="2">Achilles</add></subst> by his mother Thetis: Achilles and Helena were the causes of the
                         <lb/><choice><orig>Trojane</orig><reg>Trojan</reg></choice> <choice><orig>warre</orig><reg>war</reg></choice>, <hi rend="superscript">1</hi>Achilles, <hi rend="superscript">5</hi>as <hi rend="superscript">6</hi>impulsive, <hi rend="superscript">4</hi>Helena, <hi rend="superscript">2</hi>as <hi rend="superscript">3</hi>efficient; Helena was
                         <lb/><choice><orig>hatchd</orig><reg>hatched</reg></choice> of an <choice><orig>egge</orig><reg>egg</reg></choice>, and at the <choice><orig>nuptialls</orig><reg>nuptials</reg></choice> of Peleus and Thetis, from whom
@@ -124,9 +124,9 @@
                         <lb/>with flying Dragons: When Pallas was <choice><orig>borne</orig><reg>born</reg></choice> of Jupiters <choice><orig>braine</orig><reg>brain</reg></choice>,
                         <lb/>as <choice><orig>allso</orig><reg>also</reg></choice> when Sol lay with Venus it rained gold at Rhodes; <pc>-</pc>
                         <lb/>And Jupiter in the <choice><orig>forme</orig><reg>form</reg></choice> of a golden shower had coition with
-                        <lb/>Danaë, as a <choice><orig>Swanne</orig><reg>Swan</reg></choice> compressed Leda, as a <choice><orig>Cuckow</orig><reg>Cuckoo</reg></choice> his Sister <pc>-</pc>
+                        <lb/>Danae, as a <choice><orig>Swanne</orig><reg>Swan</reg></choice> compressed Leda, as a <choice><orig>Cuckow</orig><reg>Cuckoo</reg></choice> his Sister <pc>-</pc>
                         <lb/>Juno, as a Bull Europa, as a <choice><orig>Satyre</orig><reg>Satyr</reg></choice> Antiope, and <choice><orig>soe</orig><reg>so</reg></choice> there
-                        <lb/>is <choice><orig>cohærence</orig><reg>coherence</reg></choice> in all<pc>. . . . . . . . . .</pc>
+                        <lb/>is <choice><orig>cohærence</orig><reg>coherence</reg></choice> in all <pc>. . . . . . . . . .</pc>
                     </ab>   
                 </div>
                 

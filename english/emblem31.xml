@@ -19,8 +19,8 @@
     
     <text>
         <body>
-            <div type="emblem" n="e31"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="98"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e31">
+                <pb n="98"/>
                 
                 
                 <div type="title" xml:lang="en">
@@ -45,11 +45,11 @@
                 </div>
                 
                 
-                <pb n="99"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="99"/> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 31.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>The first rudiments of all discipline were anciently the knowledge of <pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                    <ab> 
+                        <lb/>The first rudiments of all discipline were anciently the knowledge of <pc>-</pc><milestone unit="section" n="e03-01" /> 
                         <lb/>swimming, and instruction in learning: hereupon because the proverb of an
                         <lb/>ignorant and <choice><orig>unpolishd</orig><reg>unpolished</reg></choice> man, that <choice><orig>hee</orig><reg>he</reg></choice> could neither <choice><orig>swimme</orig><reg>swim</reg></choice> nor read:
                         <lb/>For the Ancients <choice><orig>considerd</orig><reg>considered</reg></choice> swimming as a means often times to save and <pc>-</pc>
@@ -94,7 +94,7 @@
                         
                         
                         
-                        <pb n="100"/><fw rend="italics">Discourse 31.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="100"/><fw rend="italics">Discourse 31.</fw>
                         <lb/><choice><orig>kingdome</orig><reg>kingdom</reg></choice>: But what are those good things, which this <choice><orig>royall</orig><reg>royal</reg></choice> <choice><orig>Sonne</orig><reg>Son</reg></choice> is able or
                         <lb/>willing to <choice><orig>conferre</orig><reg>confer</reg></choice> on him, by <choice><orig>whome</orig><reg>whom</reg></choice> <choice><orig>hee</orig><reg>he</reg></choice> Should be restored to his <choice><orig>owne</orig><reg>own</reg></choice> <choice><orig>king
                         <lb break="no"/>dome</orig><reg>kingdom</reg></choice>? certainly not such, as <choice><orig>Ptolomy</orig><reg>Ptolemy</reg></choice> the last King of <choice><orig>Ægypt</orig><reg>Egypt</reg></choice> <choice><orig>bestowd</orig><reg>bestowed</reg></choice> on
@@ -122,7 +122,7 @@
                         <lb/>all men, most <choice><orig>beautifull</orig><reg>beautiful</reg></choice> and most <choice><orig>fruitfull</orig><reg>fruitful</reg></choice>, who will <choice><orig>excell</orig><reg>excel</reg></choice> all his An
                         <lb break="no"/>cestors in power, kingdoms, dominions, people, wealth and riches, and will
                         <lb/>subject his <choice><orig>enemyes</orig><reg>enemies</reg></choice> to <choice><orig>himselfe</orig><reg>himself</reg></choice>, not by <choice><orig>warre</orig><reg>war</reg></choice>, but humanity, not by
-                        <lb/>tyranny, but clemency, which is genuine and peculiar to him<pc>. . .</pc>
+                        <lb/>tyranny, but clemency, which is genuine and peculiar to him <pc>. . .</pc>
                     </ab>   
                 </div>
                 

@@ -19,8 +19,8 @@
     
     <text>
         <body>
-            <div type="emblem" n="e32"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="i0i"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e32">
+                <pb n="i0i"/>
                 
                 
                 <div type="title" xml:lang="en">
@@ -45,11 +45,11 @@
                 </div>
                 
                 
-                <pb n="102"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="102"/> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 32.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>The Philosophers call their Stone vegetable, because it vegetates, <choice><orig>growes</orig><reg>grows</reg></choice>, <pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                    <ab> 
+                        <lb/>The Philosophers call their Stone vegetable, because it vegetates, <choice><orig>growes</orig><reg>grows</reg></choice>, <pc>-</pc><milestone unit="section" n="e03-01" /> 
                         <lb/>is <choice><orig>increasd</orig><reg>increased</reg></choice> and <choice><orig>multiplyd</orig><reg>multiplied</reg></choice> as a plant: which indeed to the ignorant seems
                         <lb/>strange and contrary to truth; it being manifest that stones <choice><orig>doe</orig><reg>do</reg></choice> neither
                         <lb/>vegetate, nor grow after this manner, nor any thing at all relate to <pc>-</pc>
@@ -58,7 +58,7 @@
                         <lb/>the immensity of the universe by their capacity: For who could ever
                         <lb/>have <choice><orig>beleived</orig><reg>believed</reg></choice> that a stone should grow under water, or a plant there ge
                         <lb break="no"/>nerated become a stone, if experience together with the credible <choice><orig>testimo
-                        <lb break="no"/>nyes</orig><reg>testimonies</reg></choice> of writes had not <choice><orig>confirmd</orig><reg>confirmed</reg></choice> it? where is that <choice><orig>petrefying</orig><reg>petrifying</reg></choice>, where <pc>-</pc>
+                        <lb break="no"/>nyes</orig><reg>testimonies</reg></choice> of writers had not <choice><orig>confirmd</orig><reg>confirmed</reg></choice> it? where is that <choice><orig>petrefying</orig><reg>petrifying</reg></choice>, where <pc>-</pc>
                         <lb/>that tinging virtue, which <choice><orig>hardeneth</orig><reg>hardens</reg></choice> and <choice><orig>tingeth</orig><reg>tinges</reg></choice> <choice><orig>Corall</orig><reg>Coral</reg></choice>, whether in the
                         <lb/>water, or in the <choice><orig>aire</orig><reg>air</reg></choice>, or in the earth? <choice><orig>wee</orig><reg>we</reg></choice> may reasonably <choice><orig>beleive</orig><reg>believe</reg></choice> it
                         <lb/>to be, as they <choice><orig>affirme</orig><reg>affirm</reg></choice>, a soft and <seg rend="underline" hand="2">flexible</seg> plant, whilst it is under wa
@@ -94,7 +94,7 @@
                         
                         
                         
-                        <pb n="103"/><fw rend="italics">Discourse 32.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="103"/><fw rend="italics">Discourse 32.</fw>
                         <lb/>therefore ascribe both sorts of <choice><orig>Ambar</orig><reg>Amber</reg></choice> to subterranean veins or stones, as
                         <lb/>Pearls to Zoophytes (that is, a <choice><orig>midle</orig><reg>middle</reg></choice> nature between <choice><orig>animall</orig><reg>animal</reg></choice> and plant) <pc>-</pc>
                         <lb/>and <choice><orig>Corall</orig><reg>Coral</reg></choice> to vegetables. The Philosophers stone is indeed like to these stones
@@ -107,7 +107,7 @@
                         <lb break="no"/>lation of it, and appears like the reddest <choice><orig>Corall</orig><reg>Coral</reg></choice>, which is the tincture: <pc>-</pc>
                         <lb/>but as <choice><orig>Corall</orig><reg>Coral</reg></choice> becomes hard by cold and siccity, <choice><orig>soe</orig><reg>so</reg></choice> that by heat and sicci
                         <lb break="no"/>ty, which being augmented it likewise dissolves, contrary to the nature of
-                        <lb/>other stones, which <choice><orig>doe</orig><reg>do</reg></choice> indeed dissolve, but <choice><orig>turne</orig><reg>turn</reg></choice> into <choice><orig>glasse</orig><reg>glass</reg></choice>, which thing
+                        <lb/>other stones, which <choice><orig>doe</orig><reg>do</reg></choice> indeed <pc rend="italics">dissolve</pc>, but <choice><orig>turne</orig><reg>turn</reg></choice> into <choice><orig>glasse</orig><reg>glass</reg></choice>, which thing
                         <lb/>is <choice><orig>noewise</orig><reg>nowise</reg></choice> <choice><orig>agreable</orig><reg>agreeable</reg></choice> to this: And as <choice><orig>Corall</orig><reg>Coral</reg></choice> is <choice><orig>præpared</orig><reg>prepared</reg></choice> into <choice><orig>severall</orig><reg>several</reg></choice> medi
                         <lb break="no"/>cines of great virtue, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>hath</orig><reg>has</reg></choice> the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> <choice><orig>Corall</orig><reg>Coral</reg></choice> <choice><orig>transferrd</orig><reg>transferred</reg></choice> <pc>-</pc>
                         <lb/>the virtues of all herbs into <choice><orig>itselfe</orig><reg>itself</reg></choice>, <choice><orig>soe</orig><reg>so</reg></choice> that is alone is able to <choice><orig>performe</orig><reg>perform</reg></choice>
@@ -122,13 +122,13 @@
                         <lb/>herein consists all the difficulty of taking <choice><orig>corall</orig><reg>coral</reg></choice>, besides which there is <pc>-</pc>
                         <lb/>scarce any: The superfluous moisture. I <choice><orig>meane</orig><reg>mean</reg></choice>, which kills the stone,
                         <lb/><choice><orig>unlesse</orig><reg>unless</reg></choice> it be separated, which suffers not the <choice><orig>coralline</orig><reg>coraline</reg></choice> <choice><orig>rednesse</orig><reg>redness</reg></choice> to <pc>-</pc>
-                        <lb/>appear, which <choice><orig>admitts</orig><reg>admits</reg></choice> not coagulation, whilst it is therein<pc>. . . . .</pc>
-                        <note><!-- note inserted on folded piece of paper, much more modern hand? -->
-                            <lb/>Avoid all disputes as much as poss
+                        <lb/>appear, which <choice><orig>admitts</orig><reg>admits</reg></choice> not coagulation, whilst it is therein <pc>. . . . .</pc>
+                        <add rend="hilight">
+                            <lb/>Avoid all disputes as much as poss<note anchored="false" type="editorial">Text in a later hand on a flap glued onto the page below the text. </note>
                             <lb/>Beware of all unruly passions
                             <lb/>Crave the divine protection
-                            <lb/>Demonstrate your care by improven
-                        </note>
+                            <lb/>Demonstrate your care by improvem
+                        </add>
                     </ab>   
                 </div>
                 

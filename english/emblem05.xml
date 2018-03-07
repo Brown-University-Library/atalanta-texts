@@ -19,8 +19,8 @@
     
     <text>
         <body>
-            <div type="emblem" n="e05"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="20"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e05">
+                <pb n="20"/>
                 
                 
                 <div type="title" xml:lang="en">
@@ -46,11 +46,11 @@
                 </div>
                 
                 
-                <pb n="21"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="21"/> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 5.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/><milestone unit="section" n="e05-01" />The whole troop of <del>the</del> Philosophers <choice><orig>doe</orig><reg>do</reg></choice> herein consent, that their <choice><orig>worke</orig><reg>work</reg></choice> is <pc>-</pc> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                    <ab> 
+                        <lb/><milestone unit="section" n="e05-01" />The whole troop of <del>the</del> Philosophers <choice><orig>doe</orig><reg>do</reg></choice> herein consent, that their <choice><orig>worke</orig><reg>work</reg></choice> is <pc>-</pc> 
                         <lb/>nothing <choice><orig>els</orig><reg>else</reg></choice>, but man and wife: the mans part is indeed to generate, and <choice><orig>governe</orig><reg>govern</reg></choice> <pc>-</pc>
                         <lb/>the wife, hers to conceive, be <choice><orig>imprægnated</orig><reg>impregnated</reg></choice>, bring forth, give <choice><orig>sucke</orig><reg>suck</reg></choice>, and educate
                         <lb/>the offspring, and be subject to the mans <choice><orig>coḿand</orig><reg>command</reg></choice>: <milestone unit="section" n="e05-02" />for as <choice><orig>Shee</orig><reg>She</reg></choice> <choice><orig>sustaines</orig><reg>sustains</reg></choice> and <pc>-</pc>
@@ -84,7 +84,7 @@
                         <lb/><choice><orig>increaseth</orig><reg>increases</reg></choice> <choice><orig>soe</orig><reg>so</reg></choice> as to be of great magnitude and strength, <milestone unit="section" n="e05-13" />but the woman consumes <pc>-</pc>
                         <lb/>and <choice><orig>dyes</orig><reg>dies</reg></choice> her spirits being taken away: for <choice><orig>poyson</orig><reg>poison</reg></choice> is easily <choice><orig>coḿunicated</orig><reg>communicated</reg></choice> by the <choice><orig>pec
                         <lb break="no"/>torall</orig><reg>pectoral</reg></choice> veins to the heart, and corrupts and <choice><orig>destroyes</orig><reg>destroys</reg></choice> it, as it is evident in the case of
-                        <lb/>Cleopatra, who <choice><orig>applyed</orig><reg>applied</reg></choice> Vipers to her breasts, being willing to be <choice><orig>prævented</orig><reg>prevented</reg></choice> by vo<note place="margin">Theophilus in<lb/>Turba makes men<lb break="no"/>tion of a Dragon<lb/><choice><orig>joynd</orig><reg>joined</reg></choice> to a woman</note>
+                        <lb/>Cleopatra, who <choice><orig>applyed</orig><reg>applied</reg></choice> Vipers to her breasts, being willing to be <choice><orig>prævented</orig><reg>prevented</reg></choice> by vo<note place="margin">Theophilus in<lb/>Turba makes men<lb break="no"/>tion of a Dragon<lb/><choice><orig>joynd</orig><reg>joined</reg></choice> to a woman.-</note>
                         <lb break="no"/>luntary death from being led alive into the hands and triumphs of the <choice><orig>con
                         <lb break="no"/>querours</orig><reg>conquerors</reg></choice>: <milestone unit="section" n="e05-14" />But lest any man should <choice><orig>thinke</orig><reg>think</reg></choice> the Philosophers <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>cruell</orig><reg>cruel</reg></choice>, as to <choice><orig>en
                         <lb break="no"/>joyne</orig><reg>enjoin</reg></choice> a venomous reptile to be put to a woman, <choice><orig>hee</orig><reg>he</reg></choice> must know that this Toad
@@ -97,9 +97,9 @@
                         
                         
                         
-                        <pb n="22"/><fw rend="italics">Discourse 5.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="22"/><fw rend="italics">Discourse 5.</fw>
                         <lb/>Guilielmus Novobrigensis, an English writer, in his <choice><orig>coḿentaryes</orig><reg>commentaries</reg></choice> <choice><orig>sayth</orig><reg>says</reg></choice> (how <pc>-</pc>
-                        <lb/><choice><orig>truely</orig><reg>truly</reg></choice> let others judge) that in a <choice><orig>certaine</orig><reg>certain</reg></choice> Stone=quarry in the Diocesse of the <pc>-</pc>
+                        <lb/><choice><orig>truely</orig><reg>truly</reg></choice> let others judge) that in a <choice><orig>certaine</orig><reg>certain</reg></choice> Stone<pc rend="double-hyphen">-</pc>quarry in the Diocesse of the <pc>-</pc>
                         <lb/>Bishop of Winchester, a great stone being divided, there was within found a living
                         <lb/>Toad with a golden <choice><orig>chaine</orig><reg>chain</reg></choice>, and it was by the Bishops <choice><orig>coḿand</orig><reg>command</reg></choice> hidden in the <pc>-</pc>
                         <lb/>same place, and <choice><orig>buryd</orig><reg>buried</reg></choice> in <choice><orig>perpetuall</orig><reg>perpetual</reg></choice> <choice><orig>darknesse</orig><reg>darkness</reg></choice>, lest it might bear an ill omen <pc>-</pc>
@@ -112,14 +112,14 @@
                         <lb/>it be <choice><orig>pickd</orig><reg>picked</reg></choice> out of subterranean trenches, as <choice><orig>coḿonly</orig><reg>commonly</reg></choice> it is, the Stone taken up <pc>-</pc>
                         <lb/>may be made neat in the <choice><orig>forme</orig><reg>form</reg></choice> of it, and used instead thereof with the best
                         <lb/><choice><orig>mineralls</orig><reg>minerals</reg></choice>, <choice><orig>releiving</orig><reg>relieving</reg></choice> and comforting the heart: <milestone unit="section" n="e05-20" />for <add>here</add> in <del>these</del><add>is</add> the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice>
-                        <lb/>Toad <subst><del>is indeed</del><add>really</add></subst> found, not in a Stone=quarry (as that fabler affirms) and <choice><orig>hath</orig><reg>has</reg></choice>
+                        <lb/>Toad <subst><del>is indeed</del><add>really</add></subst> found, not in a Stone<pc rend="double-hyphen">-</pc>quarry (as that fabler affirms) and <choice><orig>hath</orig><reg>has</reg></choice>
                         <lb/>gold in him, not outwardly for <choice><orig>pompe</orig><reg>pomp</reg></choice>: for to what end should a Toad <choice><orig>adorne</orig><reg>adorn</reg></choice>
                         <lb/><choice><orig>himselfe</orig><reg>himself</reg></choice>, lurking in <choice><orig>darkenesse</orig><reg>darkness</reg></choice> and secret places?  <milestone unit="section" n="e05-21" />that <choice><orig>hee</orig><reg>he</reg></choice> might perhaps <pc>-</pc>
                         <lb/>be magnificently saluted by a Beetle, if it <choice><orig>mett</orig><reg>met</reg></choice> him in the <choice><orig>twylight</orig><reg>twilight</reg></choice>? <milestone unit="section" n="e05-22" />what
                         <lb/>subterranean Goldsmith should make him a golden <choice><orig>chayne</orig><reg>chain</reg></choice>? the father <pc>-</pc>
                         <lb/>perhaps of the green <choice><orig>boyes</orig><reg>boys</reg></choice>, which came out of the land of St Martin, yea <pc>-</pc>
                         <lb/>out of the earth <choice><orig>itselfe</orig><reg>itself</reg></choice>, as <choice><orig>allso</orig><reg>also</reg></choice> two <choice><orig>doggs</orig><reg>dogs</reg></choice> out of the Stone<pc rend="double-hyphen">-</pc>quarry, asserted
-                        <lb/>by the same Author?<pc>. . . . . . . . . . .</pc>
+                        <lb/>by the same Author? <pc>. . . . . . . . . . .</pc>
                     </ab>   
                 </div>
                 

@@ -19,8 +19,8 @@
     
     <text>
         <body>
-            <div type="emblem" n="e09"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="32"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e09">
+                <pb n="32"/>
                 
                 
                 <div type="title" xml:lang="en">
@@ -45,11 +45,11 @@
                 </div>
                 
                 
-                <pb n="33"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="33"/> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 9.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/><milestone unit="section" n="e09-01" />All things whatsoever <choice><orig>doe</orig><reg>do</reg></choice> grow in length, breadth, and depth, that is, are <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                    <ab> 
+                        <lb/><milestone unit="section" n="e09-01" />All things whatsoever <choice><orig>doe</orig><reg>do</reg></choice> grow in length, breadth, and depth, that is, are 
                         <lb/>propagated, nourished, and augmented to maturity, the same things <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>all
                         <lb break="no"/>so</orig><reg>also</reg></choice> decrease, that is, are diminished in <choice><orig>facultyes</orig><reg>faculties</reg></choice>, <choice><orig>dye</orig><reg>die</reg></choice>, and are wholly demo
                         <lb break="no"/>lished, as is manifestly evident in all vegetables and <choice><orig>animalls</orig><reg>animals</reg></choice>: <milestone unit="section" n="e09-02" />wherefore man
@@ -93,7 +93,7 @@
                         
                         
                         
-                        <pb n="34"/><fw rend="italics">Discourse 9.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="34"/><fw rend="italics">Discourse 9.</fw>
                         <lb/>more rigid than old age, and scarce to be used by one of a thousand, <pc>-</pc>
                         <lb/>though they Should not be without <choice><orig>certaine</orig><reg>certain</reg></choice> effect: It is written by Para
                         <lb break="no"/>celsus in his <choice><orig>booke</orig><reg>book</reg></choice> of long life, that a <choice><orig>sicke</orig><reg>sick</reg></choice> man may attract to <choice><orig>him
@@ -128,10 +128,10 @@
                         <lb break="no"/>ration mollifying, filling up, and restoring his wrinkled and dry <choice><orig>Skinne</orig><reg>Skin</reg></choice>
                         <lb/>with temperate heat and moisture: <milestone unit="section" n="e09-23" />for <choice><orig>Physitians</orig><reg>Physicians</reg></choice> <choice><orig>doe</orig><reg>do</reg></choice> advisedly and with
                         <lb/>great utility <choice><orig>enjoyne</orig><reg>enjoin</reg></choice> and <choice><orig>præscribe</orig><reg>prescribe</reg></choice> <choice><orig>warme</orig><reg>warm</reg></choice> baths in the marasme and <pc>-</pc>
-                        <lb/>aged consumption: <milestone unit="section" n="e09-24" /><seg rend="underline" hand="2">but if</seg> the thing be well considered that tree is the <pc>-</pc>
-                        <lb/>daughter of the old man, which as Daphne is transmuted into a vegetable
-                        <lb/>of the like sort, and therefore the old man <choice><orig>doth</orig><reg>does</reg></choice> not without reason expect
-                        <lb/>youth from it, which caused it to be effected<pc>. . . . . . .</pc>  
+                        <lb/><note place="left margin">-</note>aged consumption: <milestone unit="section" n="e09-24" /><seg rend="underline" hand="2">but if</seg> the thing be well considered that tree is the <pc>-</pc>
+                        <lb/><note place="left margin">-</note>daughter of the old man, which as Daphne is transmuted into a vegetable
+                        <lb/><note place="left margin">-</note>of the like sort, and therefore the old man <choice><orig>doth</orig><reg>does</reg></choice> not without reason expect
+                        <lb/><note place="left margin">-</note>youth from it, which caused it to be effected <pc>. . . . . . .</pc>  
                     </ab>   
                 </div>
                 

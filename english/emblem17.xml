@@ -19,8 +19,8 @@
     
     <text>
         <body>
-            <div type="emblem" n="e17"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="56"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e17">
+                <pb n="56"/>
                 
                 
                 <div type="title" xml:lang="en">
@@ -38,17 +38,17 @@
                         <l>Excited with a soft <choice><orig>internall</orig><reg>internal</reg></choice> fire:</l>
                         <l>The first and lowest Vulcan <choice><orig>doth</orig><reg>does</reg></choice> declare,</l>
                         <l>Hermes the next, the third is Luna's Sphere,</l>
-                        <l><choice><orig>Phæbus</orig><reg>Phebus</reg></choice> the fourth is <choice><orig>thine</orig><reg>yours</reg></choice> and Natures fire.</l>
+                        <l><choice><orig>Phœbus</orig><reg>Phebus</reg></choice> the fourth is <choice><orig>thine</orig><reg>yours</reg></choice> and Natures fire.</l>
                         <l>By these young Students may to truth aspire.</l>
                     </lg>
                 </div>
                 
                 
-                <pb n="57"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="57"/> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 17.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>The Philosophers have in many places made mention of four sorts of fire<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                    <ab> 
+                        <lb/>The Philosophers have in many places made mention of four sorts of fire<milestone unit="section" n="e03-01" /> 
                         <lb/>necessary to the <choice><orig>naturall</orig><reg>natural</reg></choice> <choice><orig>worke</orig><reg>work</reg></choice>, namely Lully, the Author of Scala, Ripley,
                         <lb/>and many others: and to this end Raymund speaking of fires (<choice><orig>Sayth</orig><reg>Says</reg></choice> Scala).
                         <lb/>You must note, that here are contrary operations: because as the fire <pc>-</pc>
@@ -93,7 +93,7 @@
                         
                         
                         
-                        <pb n="58"/><fw rend="italics">Discourse 17.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="58"/><fw rend="italics">Discourse 17.</fw>
                         <lb/>Menstruums, the vegetable, and <choice><orig>minerall</orig><reg>mineral</reg></choice>, Ripley in his <choice><orig>Præface</orig><reg>Preface</reg></choice> of the gates <choice><orig>hath</orig><reg>has</reg></choice>
                         <lb/>three, which are really one and <choice><orig>doe</orig><reg>do</reg></choice> agree: for the generation of the infant
                         <lb/>is made of them <choice><orig>alltogether</orig><reg>altogether</reg></choice>, and a white water <choice><orig>præceeds</orig><reg>preceeds</reg></choice> the birth of it, which
@@ -125,7 +125,7 @@
                         <lb/>particular center, from which or to which their motion tends, but <choice><orig>neverthelesse</orig><reg>nevertheless</reg></choice>
                         <lb/>they are kept <choice><orig>soe</orig><reg>so</reg></choice> bound together partly by nature, partly by art, that one
                         <lb/>can operate little or nothing without another, yea the action of one is the
-                        <lb/>passion of another, and on the contrary<pc>. . . . . . .</pc>
+                        <lb/>passion of another, and on the contrary <pc>. . . . . . .</pc>
                     </ab>   
                 </div>
                 

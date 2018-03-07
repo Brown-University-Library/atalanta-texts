@@ -19,8 +19,8 @@
     
     <text>
         <body>
-            <div type="emblem" n="e30"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="95"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e30">
+                <pb n="95"/>
                 
                 
                 <div type="title" xml:lang="en">
@@ -44,11 +44,11 @@
                 </div>
                 
                 
-                <pb n="96"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="96"/> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 30.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>Avicenne in his <choice><orig>booke</orig><reg>book</reg></choice> of the <choice><orig>Soule</orig><reg>Soul</reg></choice> <choice><orig>divers</orig><reg>diverse</reg></choice> times <choice><orig>admonisheth</orig><reg>admonishes</reg></choice>, that <choice><orig>noe</orig><reg>no</reg></choice> <pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                    <ab> 
+                        <lb/>Avicenne in his <choice><orig>booke</orig><reg>book</reg></choice> of the <choice><orig>Soule</orig><reg>Soul</reg></choice> <choice><orig>divers</orig><reg>diverse</reg></choice> times <choice><orig>admonisheth</orig><reg>admonishes</reg></choice>, that <choice><orig>noe</orig><reg>no</reg></choice> <pc>-</pc><milestone unit="section" n="e03-01" /> 
                         <lb/>eggs are to be taken for art, but <choice><orig>onely</orig><reg>only</reg></choice> of those <choice><orig>henns</orig><reg>hens</reg></choice>, which had a cock:
                         <lb/>that is, the <choice><orig>fæminine</orig><reg>feminine</reg></choice> subject <choice><orig>avayles</orig><reg>avails</reg></choice> nothing without the masculine <pc>-</pc>
                         <lb/>virtue, and on the contrary, nor a <choice><orig>cocke</orig><reg>cock</reg></choice> profitable without a <choice><orig>henne</orig><reg>hen</reg></choice>:
@@ -92,7 +92,7 @@
                         
                         
                         
-                        <pb n="97"/><fw rend="italics">Discourse 30.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="97"/><fw rend="italics">Discourse 30.</fw>
                         <lb/>proceed in all his operations; For <choice><orig>hee</orig><reg>he</reg></choice> picks up eggs there where a <choice><orig>cocke</orig><reg>cock</reg></choice> <pc>-</pc>
                         <lb/><choice><orig>hath</orig><reg>has</reg></choice> been, trying them whether they be adle, after that <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>cleanseth</orig><reg>cleanses</reg></choice> <pc>-</pc>
                         <lb/><choice><orig>præpares</orig><reg>prepares</reg></choice>, and <choice><orig>disposeth</orig><reg>disposses</reg></choice> them in his <choice><orig>vessells</orig><reg>vessels</reg></choice>, as nests, and administers due
@@ -133,7 +133,7 @@
                         <lb/>evaporate in fume, because the receptacle of the tincture would not
                         <lb/>be in it: And Geber in his <choice><orig>booke</orig><reg>book</reg></choice> of examinations proves, that if Sol <pc>-</pc>
                         <lb/>and Luna be incorporated together with art, they are not easily <pc>-</pc>
-                        <lb/>separated<pc>. . . . . . . . . . . .</pc>
+                        <lb/>separated <pc>. . . . . . . . . . . .</pc>
                     </ab>   
                 </div>
                 

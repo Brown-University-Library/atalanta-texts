@@ -19,8 +19,8 @@
     
     <text>
         <body>
-            <div type="emblem" n="e16"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="53"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e16">
+                <pb n="53"/>
                 
                 
                 <div type="title" xml:lang="en">
@@ -44,11 +44,11 @@
                 </div>
                 
                 
-                <pb n="54"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="54"/> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 16.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>It is a thing <choice><orig>knowne</orig><reg>known</reg></choice> by experience that a <choice><orig>Lyon</orig><reg>Lion</reg></choice> <choice><orig>excells</orig><reg>excels</reg></choice> other <choice><orig>animalls</orig><reg>animals</reg></choice> not<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                    <ab> 
+                        <lb/>It is a thing <choice><orig>knowne</orig><reg>known</reg></choice> by experience that a <choice><orig>Lyon</orig><reg>Lion</reg></choice> <choice><orig>excells</orig><reg>excels</reg></choice> other <choice><orig>animalls</orig><reg>animals</reg></choice> not<milestone unit="section" n="e03-01" /> 
                         <lb/><choice><orig>soe</orig><reg>so</reg></choice> much in <choice><orig>bignesse</orig><reg>bigness</reg></choice> and strength of body, as generosity: if <choice><orig>hee</orig><reg>he</reg></choice> be seen in <pc>-</pc>
                         <lb/>hunting, being <choice><orig>ashamd</orig><reg>ashamed</reg></choice> to <choice><orig>runne</orig><reg>run</reg></choice> away, <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>releaseth</orig><reg>releases</reg></choice> <choice><orig>himselfe</orig><reg>himself</reg></choice> by degrees,
                         <lb/>if <choice><orig>hee</orig><reg>he</reg></choice> be <choice><orig>oppressd</orig><reg>oppressed</reg></choice> by a multitude: being removed from the view of the <pc>-</pc>
@@ -92,7 +92,7 @@
                         
                         
                         
-                        <pb n="55"/><fw rend="italics">Discourse 16.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="55"/><fw rend="italics">Discourse 16.</fw>
                         <lb/>is incited with greater love towards her, <choice><orig>freindship</orig><reg>friendship</reg></choice> being made after discord. <pc>-</pc>
                         <lb/>But you will say who ever saw a <choice><orig>Lionesse</orig><reg>Lioness</reg></choice> with wings, or what can the plumes
                         <lb/>of a <choice><orig>Lionesse</orig><reg>Lioness</reg></choice> <choice><orig>avayle</orig><reg>avail</reg></choice>? There is a deep valley near the <choice><orig>mountaine</orig><reg>mountain</reg></choice> <choice><orig>Cythæron</orig><reg>Cithaeron</reg></choice>,
@@ -112,7 +112,7 @@
                         <lb/>any danger. Moreover <seg rend="underline" hand="2">they breed in the Spring time, which must be well
                         <lb/>observed: b</seg>ut <choice><orig>Lyons</orig><reg>Lions</reg></choice> after whelping using <choice><orig>crosse</orig><reg>cross</reg></choice> and winding <choice><orig>wayes</orig><reg>ways</reg></choice>, to
                         <lb/><choice><orig>prævent</orig><reg>prevent</reg></choice> the discovery of their <choice><orig>denne</orig><reg>den</reg></choice>, therefore must they be sought and
-                        <lb/>their whelps taken away with very great diligence and care<pc>. . . .</pc>
+                        <lb/>their whelps taken away with very great diligence and care <pc>. . . .</pc>
                     </ab>   
                 </div>
                 

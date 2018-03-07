@@ -19,8 +19,8 @@
    
    <text>
       <body>
-         <div type="emblem" n="e04"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-            <pb n="17"/><!-- Page number of the actual manuscript -->
+         <div type="emblem" n="e04">
+            <pb n="17"/>
             
             
             <div type="title" xml:lang="en">
@@ -44,23 +44,23 @@
             </div>
             
             
-            <pb n="18"/> <!-- Page number of the actual manuscript -->
+            <pb n="18"/>
             <div type="discourse" xml:lang="en">
                <head rend="italics">Discourse 4.</head>
-               <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                  <lb/><milestone unit="section" n="e04-01" />The divine and <choice><orig>politicall</orig><reg>political</reg></choice> <choice><orig>lawes</orig><reg>laws</reg></choice> <choice><orig>doe</orig><reg>do</reg></choice> both forbid those people to marry, who are by <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
-                  <lb/>nature <choice><orig>joyned</orig><reg>joined</reg></choice> in too near a degree of consanguinity, such namely as <add>directly</add>ascend and des
+               <ab> 
+                  <lb/><milestone unit="section" n="e04-01" />The divine and <choice><orig>politicall</orig><reg>political</reg></choice> <choice><orig>lawes</orig><reg>laws</reg></choice> <choice><orig>doe</orig><reg>do</reg></choice> both forbid those people to marry, who are by 
+                  <lb/>nature <choice><orig>joyned</orig><reg>joined</reg></choice> in too near a degree of consanguinity, such namely as <add>directly</add> ascend and des
                   <lb break="no"/>cend in a <choice><orig>genealogicall</orig><reg>genealogical</reg></choice> line, and that for very good considerations; <milestone unit="section" n="e04-02" />but when the <pc>-</pc>
                   <lb/>Philosophers <choice><orig>speake</orig><reg>speak</reg></choice> of the mother to be <choice><orig>joynd</orig><reg>joined</reg></choice> with the <choice><orig>Sonne</orig><reg>Son</reg></choice>, or father with the
                   <lb/>daughter, or of the brother with the Sister, they neither say or <choice><orig>doe</orig><reg>do</reg></choice> anything contrary
                   <lb/>to the <choice><orig>sayd</orig><reg>said</reg></choice> laws: because subjects distinguish attributes and causes effects; <milestone unit="section" n="e04-03" />for the
                   <lb/>persons of Philosophers are <add>as</add> free from those differences as <del>well as</del> the <choice><orig>Sonns</orig><reg>Sons</reg></choice> and daugh
                   <lb break="no"/>ters of Adam, who <choice><orig>marryed</orig><reg>married</reg></choice> one with another without the imputation of any <pc>-</pc>
-                  <lb/>crime: <milestone unit="section" n="e04-04" />but the <choice><orig>principall</orig><reg>principal</reg></choice> reason seems to be, that man=kind might be more <pc>-</pc>
+                  <lb/>crime: <milestone unit="section" n="e04-04" />but the <choice><orig>principall</orig><reg>principal</reg></choice> reason seems to be, that man<pc rend="double-hyphen">-</pc>kind might be more <pc>-</pc>
                   <lb/>firmly united and linked in affinity and <choice><orig>freindship</orig><reg>friendship</reg></choice>, and not <del>be</del> divided into <pc>-</pc>
                   <lb/><choice><orig>inimicall</orig><reg>inimical</reg></choice> and <choice><orig>hæreditary</orig><reg>hereditary</reg></choice> factions of <choice><orig>familyes</orig><reg>families</reg></choice>: <milestone unit="section" n="e04-05" />the same reason remaining <pc>-</pc>
                   <lb/><choice><orig>firme</orig><reg>firm</reg></choice> and entire in the first <choice><orig>Sonns</orig><reg>Sons</reg></choice> and daughters of Adam, did not as all <choice><orig>de
-                  <lb break="no"/>barre</orig><reg>debar</reg></choice> them from the <subst><del>rights</del><add>rites</add></subst> of matrimony: <milestone unit="section" n="e04-06" />for man=kind did then exist in<note place="margin">rites</note><!-- It looks like the author was unsure of which spelling to use -->
+                  <lb break="no"/>barre</orig><reg>debar</reg></choice> them from the <subst><del>rights</del><add>rites</add></subst> of matrimony: <milestone unit="section" n="e04-06" />for man<pc rend="double-hyphen">-</pc>kind did then exist in<note place="margin">rites</note><!-- It looks like the author was unsure of which spelling to use -->
                   <lb/>them alone, and <choice><orig>noe</orig><reg>no</reg></choice> others were living besides them, and their parents, and <pc>-</pc>
                   <lb/>therefore as <choice><orig>ally'd</orig><reg>allied</reg></choice> in blood, <choice><orig>soe</orig><reg>so</reg></choice> necessarily were they <choice><orig>joyned</orig><reg>joined</reg></choice> in affinity: but
                   <lb/>a multitude of men increasing, and being distributed into innumerable <choice><orig>fa
@@ -93,7 +93,7 @@
                   
                   
        
-                  <pb n="19"/><fw rend="italics">Discourse 4.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                  <pb n="19"/><fw rend="italics">Discourse 4.</fw>
                   <lb/>nature, which notwithstanding as it <choice><orig>hath</orig><reg>has</reg></choice> of all things the greatest <pc>-</pc>
                   <lb/>similitude and homogeneity of substance, <choice><orig>doth</orig><reg>does</reg></choice> <choice><orig>soe</orig><reg>so</reg></choice> require, where it
                   <lb/>desires a thing to be <choice><orig>joyned</orig><reg>joined</reg></choice> with it: <milestone unit="section" n="e04-14" />But brother and Sister being <choice><orig>joynd</orig><reg>joined</reg></choice>
@@ -105,7 +105,7 @@
                   <lb break="no"/>kind is very much obliged to medicine, because many thousands of men <pc>-</pc>
                   <lb/>are now in the world, which would not have been, if their fathers or fore
                   <lb break="no"/>fathers had not by the means and benefit thereof been freed and delivered
-                  <lb/>from the defect of sterility, or their mothers <add><choice><orig>præserved</orig><reg>preserved</reg></choice></add>from abortion, by removing <pc>-</pc>
+                  <lb/>from the defect of sterility, or their mothers <add><choice><orig>præserved</orig><reg>preserved</reg></choice></add> from abortion, by removing <pc>-</pc>
                   <lb/>and taking away the cause, or the nearest, and remote impediment? <milestone unit="section" n="e04-16" />This
                   <lb/>cup of love is therfore given to this new <choice><orig>marryd</orig><reg>married</reg></choice> couple for the same reasons,
                   <lb/>which any man may hereby plainly understand are three, that is to say, <pc>-</pc>

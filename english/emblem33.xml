@@ -19,8 +19,8 @@
     
     <text>
         <body>
-            <div type="emblem" n="e33"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="104"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e33">
+                <pb n="104"/>
                 
                 
                 <div type="title" xml:lang="en">
@@ -44,11 +44,11 @@
                 </div>
                 
                 
-                <pb n="105"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="105"/> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 33.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>It is one of the secrets of Nature, that in the cold winter <choice><orig>Froggs</orig><reg>Frogs</reg></choice> and <pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                    <ab> 
+                        <lb/>It is one of the secrets of Nature, that in the cold winter <choice><orig>Froggs</orig><reg>Frogs</reg></choice> and <pc>-</pc><milestone unit="section" n="e03-01" /> 
                         <lb/>Horse<pc rend="double-hyphen">-</pc>leeches <choice><orig>lye</orig><reg>lie</reg></choice> as it were dead under water, and in the Spring new <pc>-</pc>
                         <lb/>heat of the <choice><orig>Sunne</orig><reg>Sun</reg></choice> operating recover sense and motion, or <choice><orig>performe</orig><reg>perform</reg></choice> <pc>-</pc>
                         <lb/>the actions of a <choice><orig>sensitiue</orig><reg>sensitive</reg></choice> life: But if they be found in the waters <pc>-</pc>
@@ -96,7 +96,7 @@
                         
                         
                         
-                        <pb n="106"/><fw rend="italics">Discourse 33.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="106"/><fw rend="italics">Discourse 33.</fw>
                         <lb/>at Cassinum a boy was made of a Virgin: And Licinius Mutianus in Pli
                         <lb break="no"/>ny relates, that <choice><orig>hee</orig><reg>he</reg></choice> had seen one Aristontes at Argos, called <choice><orig>allso</orig><reg>also</reg></choice> by the <pc>-</pc>
                         <lb/>name of Aristusa, who was <choice><orig>marryd</orig><reg>married</reg></choice>, and <choice><orig>soone</orig><reg>soon</reg></choice> after discovered a beard <pc>-</pc>
@@ -123,12 +123,12 @@
                         <lb break="no"/>ning to the woman being <choice><orig>stopd</orig><reg>stopped</reg></choice> up. The Philosophers are not without
                         <lb/>all these <choice><orig>manuall</orig><reg>manual</reg></choice> operations: for when the <choice><orig>coldnesse</orig><reg>coldness</reg></choice> and <choice><orig>moistnesse</orig><reg>moistness</reg></choice> of <pc>-</pc>
                         <lb/>Luna appears, that they call the woman, when the heat and siccity of
-                        <lb/>Sol, the man; <add>when</add> all those four <choice><orig>qualityes</orig><reg>qualities</reg></choice> together, <del>being</del> their Rebis or Her
+                        <lb/>Sol, the man; <add>when</add> all those four <choice><orig>qualityes</orig><reg>qualities</reg></choice> together, <del><unclear reason="illegible">being</unclear></del> their Rebis or Her
                         <lb break="no"/>maphrodite; And thus conversion of the woman may easily be made,
                         <lb/>that is, the mutation of <choice><orig>coldnesse</orig><reg>coldness</reg></choice> and <choice><orig>moistnesse</orig><reg>moistness</reg></choice>, into the man, which is
                         <lb/>done by the sole heat of fire, as <choice><orig>hath</orig><reg>has</reg></choice> been <choice><orig>sayd</orig><reg>said</reg></choice>; for heat sequesters, <pc>-</pc>
                         <lb/>and separates the <choice><orig>superfluityes</orig><reg>superfluities</reg></choice> of moistures, and will establish the <pc>-</pc>
-                        <lb/>idea of <choice><orig>itselfe</orig><reg>itself</reg></choice> in the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> subject, which is the tincture<pc>. .</pc>
+                        <lb/>idea of <choice><orig>itselfe</orig><reg>itself</reg></choice> in the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> subject, which is the tincture <pc>. .</pc>
                     </ab>   
                 </div>
                 

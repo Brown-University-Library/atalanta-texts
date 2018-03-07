@@ -19,8 +19,8 @@
    
    <text>
       <body>
-         <div type="emblem" n="e06"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-            <pb n="23"/><!-- Page number of the actual manuscript -->
+         <div type="emblem" n="e06">
+            <pb n="23"/>
             
             
             <div type="title" xml:lang="en">
@@ -45,10 +45,10 @@
             </div>
             
             
-            <pb n="24"/> <!-- Page number of the actual manuscript -->
+            <pb n="24"/>
             <div type="discourse" xml:lang="en">
                <head rend="italics">Discourse 6.</head>
-               <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
+               <ab> 
                   <lb/><milestone unit="section" n="e06-01" />A City <choice><orig>sayth</orig><reg>says</reg></choice> Plato subsists not by <choice><orig>Physitian</orig><reg>Physician</reg></choice> and <choice><orig>Physitian</orig><reg>Physician</reg></choice>, but by <choice><orig>Physitian</orig><reg>Physician</reg></choice> and
                   <lb/>husbandman, that is, men of <choice><orig>divers</orig><reg>diverse</reg></choice> functions, but <choice><orig>hee</orig><reg>he</reg></choice> mentions the Husbandman
                   <lb/>and <choice><orig>Physitian</orig><reg>Physician</reg></choice> first, because their works are very conspicuous in the imitation, <pc>-</pc>
@@ -70,8 +70,8 @@
                   <lb/>a <choice><orig>veyne</orig><reg>vein</reg></choice>, being wanting restores it by <choice><orig>apointing</orig><reg>appointing</reg></choice> good order of <choice><orig>dyet</orig><reg>diet</reg></choice>, evacua
                   <lb break="no"/>ates noxious humors by purgation, and <choice><orig>soe</orig><reg>so</reg></choice> imitates, <choice><orig>supplyes</orig><reg>supplies</reg></choice>, and amends
                   <lb/>nature a thousand ways by the works of the understanding and art; which
-                  <lb/>being notorious, <choice><orig>Chymicall</orig><reg>Chymical</reg></choice> things are rather to be considered by us: <milestone unit="section" n="e06-07" />for <choice><orig>Chy
-                  <lb break="no"/>mistry</orig><reg>Chemistry</reg></choice> <choice><orig>doth</orig><reg>does</reg></choice> first declare the operations of agriculture by its secret bounds <pc>-</pc>
+                  <lb/>being notorious, <choice><orig>Chymicall</orig><reg>Chymical</reg></choice> things are rather to be considered by us: <milestone unit="section" n="e06-07" />for Chy
+                  <lb break="no"/>mistry <choice><orig>doth</orig><reg>does</reg></choice> first declare the operations of agriculture by its secret bounds <pc>-</pc>
                   <lb/>and <choice><orig>wayes</orig><reg>ways</reg></choice> of operating: <milestone unit="section" n="e06-08" />Husbandmen have land, wherein to sow seed, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice>
                   <lb/>the Chymists: They have dung wherewith to manure their ground, <choice><orig>soe</orig><reg>so</reg></choice> <pc>-</pc>
                   <lb/><choice><orig>allso</orig><reg>also</reg></choice> these, without which nothing could be done, nor any successe expected:
@@ -83,12 +83,12 @@
                   <lb/><seg rend="underline" hand="2">their <choice><orig>worke</orig><reg>work</reg></choice></seg>, <seg rend="underline" hand="2">and <choice><orig>raine</orig><reg>rain</reg></choice></seg>: I need say <choice><orig>noe</orig><reg>no</reg></choice> more: <milestone unit="section" n="e06-11" /><note place="margin" n="X">X Chymistry is exactly parallell to agriculture, and its deputy,
                   <lb/>which in all things <choice><orig>expresseth</orig><reg>expresses</reg></choice> its offices, but under a most absolute alle
                   <lb break="no"/>gory<pc>------------</pc></note><milestone unit="section" n="e06-12" />From hence the Ancients pro
-                  <lb break="no"/>duces Ceres, Triptolemus, Osiris, Dionysus, the golden Gods, as relating to <choice><orig>Chy
-                  <lb break="no"/>mistry</orig><reg>Chemistry</reg></choice>, teaching as it were men how to cast the seeds of fruits into their <pc>-</pc>
+                  <lb break="no"/>duced Ceres, Triptolemus, Osiris, Dionysus, the golden Gods, as relating to Chy
+                  <lb break="no"/>mistry, teaching as it were men how to cast the seeds of fruits into their <pc>-</pc>
                   <lb/>earth, <choice><orig>shewing</orig><reg>showing</reg></choice> tillage, with the propagation of vines, and use of wine, <pc>-</pc>
                   <lb/>all which things the ignorant have interpreted to <choice><orig>rusticall</orig><reg>rustical</reg></choice> operations, but
                   <lb/>erroneously: <milestone unit="section" n="e06-13" />for those things, which are absconded from the vulgar, and <pc>-</pc>
-                  <lb/>declares to the Learned under these veils of agriculture, are most abstruse <pc>-</pc>
+                  <lb/>declared to the Learned under these veils of agriculture, are most abstruse <pc>-</pc>
                   <lb/><choice><orig>mysteryes</orig><reg>mysteries</reg></choice> of nature: <milestone unit="section" n="e06-14" />To this end say the Philosophers that their gold must <pc>-</pc>
                   <lb/>be sowed upon white foliated earth, as if they meant that the Sowing of <choice><orig>corne</orig><reg>corn</reg></choice>
                   <lb/>Should be observed and imitated for example, <seg rend="underline" hand="2">which the author of the trea
@@ -97,10 +97,10 @@
                   <lb/>agriculture in the producing of <choice><orig>corne</orig><reg>corn</reg></choice> to the semination of gold, or generation of
                   
        
-                  <pb n="25"/><fw rend="italics">Discourse 6.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                  <pb n="25"/><fw rend="italics">Discourse 6.</fw>
                   <lb/>the tincture: <milestone unit="section" n="e06-15" />White earth, because sandy, <choice><orig>yeilds</orig><reg>yields</reg></choice> little fruit to the countrymen, by
                   <lb/><choice><orig>whome</orig><reg>whom</reg></choice> that which is <choice><orig>blacke</orig><reg>black</reg></choice> and <choice><orig>fatt</orig><reg>fat</reg></choice> is more desired, <milestone unit="section" n="e06-16" />but the white principally
-                  <lb/><choice><orig>conduceth</orig><reg>conduces</reg></choice> to the Philosophers, if it be foliated, that is well præpared, because <pc>-</pc>
+                  <lb/><choice><orig>conduceth</orig><reg>conduces</reg></choice> to the Philosophers, if it be foliated, that is well <choice><orig>præpared</orig><reg>prepared</reg></choice>, because <pc>-</pc>
                   <lb/>they know how to enrich it with their dung, the other not at all: Now sowing is
                   <lb/>the propagation of the world, whereby that, which cannot long endure in an
                   <lb/><choice><orig>individuall</orig><reg>individual</reg></choice>, is caused to persist in the Species: <milestone unit="section" n="e06-17" />This is in man, <choice><orig>animalls</orig><reg>animals</reg></choice>, and
@@ -123,7 +123,7 @@
                   <lb/>sacred scriptures attest<supplied>)</supplied>, the heavens sing, as Pythagoras <choice><orig>affirmes</orig><reg>affirms</reg></choice>, and, as the <pc>-</pc>
                   <lb/>Psalmist <choice><orig>sayth</orig><reg>says</reg></choice>, declare the glory of God, the Muses and Apollo sing, as <pc>-</pc>
                   <lb/>the <choice><orig>Poetts</orig><reg>Poets</reg></choice>, men even infants sing, birds sing, Sheep and geese sing in <pc>-</pc>
-                  <lb/><choice><orig>musicall</orig><reg>musical</reg></choice> instruments, if therefore <choice><orig>wee</orig><reg>we</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> sing, there is reason for it<pc>. . .</pc>
+                  <lb/><choice><orig>musicall</orig><reg>musical</reg></choice> instruments, if therefore <choice><orig>wee</orig><reg>we</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> sing, there is reason for it <pc>. . .</pc>
                </ab>   
             </div>
             

@@ -19,8 +19,8 @@
     
     <text>
         <body>
-            <div type="emblem" n="e18"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="59"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e18">
+                <pb n="59"/>
                 
                 
                 <div type="title" xml:lang="en">
@@ -44,11 +44,11 @@
                 </div>
                 
                 
-                <pb n="60"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="60"/> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 18.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>Natures way of operating in all <choice><orig>individualls</orig><reg>individuals</reg></choice> of the universe is to use one<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                    <ab> 
+                        <lb/>Natures way of operating in all <choice><orig>individualls</orig><reg>individuals</reg></choice> of the universe is to use one<milestone unit="section" n="e03-01" /> 
                         <lb/>single <choice><orig>processe</orig><reg>process</reg></choice> to complete and perfect one single motion, as appears in the
                         <lb/>Anatomy of mans body, in which one muscle serves <choice><orig>onely</orig><reg>only</reg></choice> for one motion, <pc>-</pc>
                         <lb/>that is, the attractive, but for the expansive another opposite to the first, <choice><orig>soe</orig><reg>so</reg></choice>
@@ -79,7 +79,7 @@
                         <lb/>the contrary: But there is a <choice><orig>certaine</orig><reg>certain</reg></choice> thing, which some ingenious men <choice><orig>doe</orig><reg>do</reg></choice>
                         <lb/>use when they have a mind to coagulate a dry substance, which is com
                         <lb break="no"/>pounded of two waters, and is called Lac virginis, which is the most <choice><orig>certaine</orig><reg>certain</reg></choice> <pc>-</pc>
-                        <lb/>effect of it: thus <choice><orig>Sayth</orig><reg>Says</reg></choice> <choice><orig>hee</orig><reg>he</reg></choice>: Some <del><unclear reason="illegible">are</unclear></del> there are that assure themselves <pc>-</pc>
+                        <lb/>effect of it: thus <choice><orig>Sayth</orig><reg>Says</reg></choice> <choice><orig>hee</orig><reg>he</reg></choice>: Some <del>are</del> there are that assure themselves <pc>-</pc>
                         <lb/>able to increase or multiply virtues in the Load<pc rend="double-hyphen">-</pc>stone, as the like <choice><orig>wee</orig><reg>we</reg></choice> have
                         <lb/>seen <choice><orig>sett</orig><reg>set</reg></choice> in Silver, which being scarce one pound weight attracted and held up an
                         <lb/>iron anchor of 28 pounds, which would have been impossible, if the virtue <pc>-</pc>
@@ -96,7 +96,7 @@
                         
                         
                         
-                        <pb n="61"/><!-- changed from orig 6i --><fw rend="italics">Discourse 18.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="6i"/><fw rend="italics">Discourse 18.</fw>
                         <lb/>likely to be true: I know not whether they are more confident or <pc>-</pc>
                         <lb/><choice><orig>successefull</orig><reg>successful</reg></choice>, who <choice><orig>endeavour</orig><reg>endeavor</reg></choice> to deduce gold from gold, according to the
                         <lb/>saying of the golden <choice><orig>Poett</orig><reg>Poet</reg></choice>: <choice><orig>Hee</orig><reg>He</reg></choice> that desires barley <choice><orig>sowes</orig><reg>sows</reg></choice> <choice><orig>onely</orig><reg>only</reg></choice> barley,
@@ -120,7 +120,7 @@
                         <lb/>deny that it ought (but <choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>affirme</orig><reg>affirm</reg></choice> it necessarily requisite) to be <pc>-</pc>
                         <lb/>added to the <choice><orig>aurificke</orig><reg>aurific</reg></choice> Stone as a ferment as the end of the <choice><orig>worke</orig><reg>work</reg></choice>. The
                         <lb/>ferment, converting the thing fermented into its <choice><orig>owne</orig><reg>own</reg></choice> nature, without
-                        <lb/>which the whole composition would never come to perfection<pc>. . . .</pc>
+                        <lb/>which the whole composition would never come to perfection <pc>. . . .</pc>
                     </ab>   
                 </div>
                 

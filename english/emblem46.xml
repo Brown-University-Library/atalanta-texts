@@ -19,8 +19,8 @@
     
     <text>
         <body>
-            <div type="emblem" n="e46"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="143"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e46">
+                <pb n="143"/>
                 
                 
                 <div type="title" xml:lang="en">
@@ -44,11 +44,11 @@
                 </div>
                 
                 
-                <pb n="144"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="144"/> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 46.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>Cicero in his <choice><orig>booke</orig><reg>book</reg></choice> of the nature of the Gods declares the most ancient <pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                    <ab> 
+                        <lb/>Cicero in his <choice><orig>booke</orig><reg>book</reg></choice> of the nature of the Gods declares the most ancient <pc>-</pc><milestone unit="section" n="e03-01" /> 
                         <lb/>Apollo to be the <choice><orig>Sonne</orig><reg>Son</reg></choice> of Vulcan, and keeper of Athens: Which opinion,
                         <lb/>if it be, as it ought, <choice><orig>transferrd</orig><reg>transferred</reg></choice> to an Allegory, is indeed most true; because
                         <lb/>Vulcan <choice><orig>produceth</orig><reg>produces</reg></choice> the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> Sol, which is Apollo. But it <choice><orig>hath</orig><reg>has</reg></choice> <pc>-</pc>
@@ -60,7 +60,7 @@
                         <lb/>by a <choice><orig>Shipp</orig><reg>Ship</reg></choice> to the Island Ortygia, to her sister Asteries, who therein
                         <lb/>reigned: And that Island, being <choice><orig>allmost</orig><reg>almost</reg></choice> all overflowed with the Sea,
                         <lb/>gave place to Latona being in <choice><orig>travell</orig><reg>travail</reg></choice>, whereupon it was called Delos, <pc>-</pc>
-                        <lb/>which before was <hi rend="superscript">11</hi>Aδηλος: There therefore being in <choice><orig>labour</orig><reg>labor</reg></choice>, first came forth
+                        <lb/>which before was Ἂδηλος: There therefore being in <choice><orig>labour</orig><reg>labor</reg></choice>, first came forth
                         <lb/>Diana, and <choice><orig>shee</orig><reg>she</reg></choice> did the office of a midwife to her mother <choice><orig>labouring</orig><reg>laboring</reg></choice> <pc>-</pc>
                         <lb/>to bring forth her brother Apollo; From whence it came to <choice><orig>passe</orig><reg>pass</reg></choice> <pc>-</pc>
                         <lb/>that women going with Child did in the time of their <choice><orig>labour</orig><reg>labor</reg></choice>
@@ -68,8 +68,8 @@
                         <lb break="no"/>cause <choice><orig>shee</orig><reg>she</reg></choice> <choice><orig>shewd</orig><reg>showed</reg></choice> light to infants <choice><orig>borne</orig><reg>born</reg></choice> their eyes being opened:
                         <lb/>Apollo therefore being <choice><orig>borne</orig><reg>born</reg></choice> and <choice><orig>growne</orig><reg>grown</reg></choice> up slew Python the tor
                         <lb break="no"/>menter of his mother with arrows, and <choice><orig>killd</orig><reg>killed</reg></choice> the Cyclopes because <pc>-</pc>
-                        <lb/>they made lightening for Jupiter to destroy his <choice><orig>Sonne</orig><reg>Son</reg></choice> <choice><orig>Æsculapius</orig><reg>Aesculapius</reg></choice>,
-                        <lb/><choice><orig>whome</orig><reg>whom</reg></choice> Jupiter condemned to hell blasted with lightening, because
+                        <lb/>they made <choice><orig>lightening</orig><reg>lightning</reg></choice> for Jupiter to destroy his <choice><orig>Sonne</orig><reg>Son</reg></choice> <choice><orig>Æsculapius</orig><reg>Aesculapius</reg></choice>,
+                        <lb/><choice><orig>whome</orig><reg>whom</reg></choice> Jupiter condemned to hell blasted with <choice><orig>lightening</orig><reg>lightning</reg></choice>, because
                         <lb/><choice><orig>hee</orig><reg>he</reg></choice> had <choice><orig>restord</orig><reg>restored</reg></choice> Hippolytus to life being <choice><orig>torne</orig><reg>torn</reg></choice> in <choice><orig>peices</orig><reg>pieces</reg></choice> by horses.
                         <lb/><choice><orig>Wee</orig><reg>We</reg></choice> have in many places demonstrated these things to be merely
                         <lb/><choice><orig>Chymicall</orig><reg>Chymical</reg></choice>: For Latona, Cynthia, Apollo, and Python are requisites of
@@ -92,12 +92,12 @@
                         
                         
                         
-                        <pb n="145"/><fw rend="italics">Discourse 46.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="145"/><fw rend="italics">Discourse 46.</fw>
                         <lb/><choice><orig>receiv'd</orig><reg>received</reg></choice> the inspiration of the <choice><orig>Devill</orig><reg>Devil</reg></choice> gaping with a wide mouth, and then <pc>-</pc>
                         <lb/><choice><orig>prophesyd</orig><reg>prophesied</reg></choice>, and gave responses to those that <choice><orig>desird</orig><reg>desired</reg></choice> to know the events of things
                         <lb/>to come: Delphos was indeed in <choice><orig>Bœotica</orig><reg>Boeotica</reg></choice> seated about the foot of Parnassus. <pc>-</pc>
                         <lb/>Near to the temple was the divining <choice><orig>fountaine</orig><reg>fountain</reg></choice>, named Cassiotis, which, if bur
-                        <lb break="no"/>ning torches was brought to it did extinguish them: if they were removed
+                        <lb break="no"/>ning torches was brought to it, did extinguish them: if they were removed
                         <lb/><choice><orig>farre</orig><reg>far</reg></choice> <choice><orig>of</orig><reg>off</reg></choice>, they were suddenly kindled, and <choice><orig>tooke</orig><reg>took</reg></choice> fire; and the water of <pc>-</pc>
                         <lb/>that <choice><orig>fountaine</orig><reg>fountain</reg></choice> being <choice><orig>dranke</orig><reg>drank</reg></choice> <choice><orig>yeilded</orig><reg>yielded</reg></choice> the virtue of divining, but not
                         <lb break="no"/>withstanding the drinkers of that water were made of shorter life. Con
@@ -120,12 +120,12 @@
                         <lb/>crooked that it cannot receive food: Which having cast off it <choice><orig>plungeth</orig><reg>plunges</reg></choice> <choice><orig>it
                         <lb break="no"/>selfe</orig><reg>itself</reg></choice> three times in a <choice><orig>fountaine</orig><reg>fountain</reg></choice>, and <choice><orig>soe</orig><reg>so</reg></choice> is <choice><orig>sayd</orig><reg>said</reg></choice> to <choice><orig>returne</orig><reg>return</reg></choice> to youth. <pc>-</pc>
                         <lb/>Hereupon <choice><orig>sayth</orig><reg>says</reg></choice> the Psalmist: Your youth shall be renewed as the <pc>-</pc>
-                        <lb/>youth of an Eagle: This of all birds is never affected with Lightening:
+                        <lb/>youth of an Eagle: This of all birds is never affected with <choice><orig>Lightening</orig><reg>Lightning</reg></choice>:
                         <lb/>It <choice><orig>warrs</orig><reg>wars</reg></choice> with the dragon, which hunts after its eggs for the sake of <pc>-</pc>
                         <lb/>them: All the endowments of whose nature have <choice><orig>affoarded</orig><reg>afforded</reg></choice> the Philo
                         <lb break="no"/>sophers reason to <choice><orig>prædicate</orig><reg>predicate</reg></choice> the Eagle in their art, and assimilate the
                         <lb/>stone to it, whereof innumerable examples being obvious in their <pc>-</pc>
-                        <lb/>books, <choice><orig>wee</orig><reg>we</reg></choice> will not here <choice><orig>alleadge</orig><reg>alleged</reg></choice> more<pc>. . . . . . . . . .</pc>
+                        <lb/>books, <choice><orig>wee</orig><reg>we</reg></choice> will not here <choice><orig>alleadge</orig><reg>alleged</reg></choice> more <pc>. . . . . . . . . .</pc>
                     </ab>   
                 </div>
                 

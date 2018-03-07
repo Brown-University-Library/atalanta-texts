@@ -19,8 +19,8 @@
     
     <text>
         <body>
-            <div type="emblem" n="e35"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="110"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e35">
+                <pb n="110"/>
                 
                 
                 <div type="title" xml:lang="en">
@@ -45,11 +45,11 @@
                 </div>
                 
                 
-                <pb n="111"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="111"/> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 35.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>Lycurgus that Law<pc rend="double-hyphen">-</pc>maker of the Spartans <choice><orig>Shewed</orig><reg>Showed</reg></choice> to the people in <pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                    <ab> 
+                        <lb/>Lycurgus that Law<pc rend="double-hyphen">-</pc>maker of the Spartans <choice><orig>Shewed</orig><reg>Showed</reg></choice> to the people in <pc>-</pc><milestone unit="section" n="e03-01" /> 
                         <lb/>an assembly in the Theater by an ocular example, how <choice><orig>farre</orig><reg>far</reg></choice> <choice><orig>custome</orig><reg>custom</reg></choice>
                         <lb/>and use whether good or <choice><orig>evill</orig><reg>evil</reg></choice> may <choice><orig>prævayle</orig><reg>prevail</reg></choice>, <choice><orig>hee</orig><reg>he</reg></choice> bringing in two whelps
                         <lb/>produced at one litter, and between both setting a <choice><orig>pott</orig><reg>pot</reg></choice> full of meat, <pc>-</pc>
@@ -93,7 +93,7 @@
                         
                         
                         
-                        <pb n="112"/><fw rend="italics">Discourse 35.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="112"/><fw rend="italics">Discourse 35.</fw>
                         <lb/>Philosophers seeds are to be cast into their earth. These same things
                         <lb/>are ascribed to Osiris, who to that end <choice><orig>tooke</orig><reg>took</reg></choice> a view of the whole world,
                         <lb/>as <choice><orig>wee</orig><reg>we</reg></choice> have <choice><orig>elswhere</orig><reg>elsewhere</reg></choice> demonstrated, and to Dionysius, who travelled <pc>-</pc>
@@ -126,7 +126,7 @@
                         <lb/>which Mary <choice><orig>sayth</orig><reg>says</reg></choice>, is not <choice><orig>negromanticall</orig><reg>negromantical</reg></choice>, but the regiment of your
                         <lb/>fire, without which you will effect nothing: I have revealed to you <pc>-</pc>
                         <lb/>the truth, which by incredible pains I acquired from the monuments
-                        <lb/>of the Ancients, not without the expense of many years<pc>. . . .</pc>
+                        <lb/>of the Ancients, not without the expense of many years <pc>. . . .</pc>
                     </ab>   
                 </div>
                 

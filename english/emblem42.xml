@@ -19,8 +19,8 @@
     
     <text>
         <body>
-            <div type="emblem" n="e42"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="131"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e42">
+                <pb n="131"/>
                 
                 
                 <div type="title" xml:lang="en">
@@ -45,11 +45,11 @@
                 </div>
                 
                 
-                <pb n="132"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="132"/> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 42.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/><milestone unit="section" n="e42-01" />The chances, which may happen to <choice><orig>travellers</orig><reg>travelers</reg></choice>, are innumerable, es <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                    <ab> 
+                        <lb/><milestone unit="section" n="e42-01" />The chances, which may happen to <choice><orig>travellers</orig><reg>travelers</reg></choice>, are innumerable, es 
                         <lb break="no"/>pecially if they take a journey on foot by night through slippery <pc>-</pc>
                         <lb/>and dangerous places; to which four things are requisite as <choice><orig>cheife
                         <lb break="no"/>ly</orig><reg>chiefly</reg></choice> necessary, not to <choice><orig>speake</orig><reg>speak</reg></choice> of the victuals provided, and a strong <pc>-</pc>
@@ -80,7 +80,7 @@
                         <lb break="no"/>alls</orig><reg>materials</reg></choice> are to them very well <choice><orig>knowne</orig><reg>known</reg></choice> even the first day, <choice><orig>hee</orig><reg>he</reg></choice>, when
                         <lb/><choice><orig>hee</orig><reg>he</reg></choice> begins, continues for the most part ignorant of his for many
                         <lb/>years, I will not say, during his whole life. <milestone unit="section" n="e42-11" />Nature <choice><orig>doth</orig><reg>does</reg></choice> indeed <pc>-</pc>
-                        <lb/>point at the matters, but there are many things, which obscure the<pc>-</pc>
+                        <lb/>point at the matters, but there are many things, which obscure the <pc>-</pc>
                         <lb/>impression of nature, that it cannot be <choice><orig>knowne</orig><reg>known</reg></choice>. <milestone unit="section" n="e42-12" />The first intention <pc>-</pc>
                         <lb/>therefore is, seriously to contemplate how nature proceeds in her ope
                         <lb break="no"/>rations to the end that the <choice><orig>naturall</orig><reg>natural</reg></choice> subjects of Chymistry may <pc>-</pc>
@@ -92,7 +92,7 @@
                         
                         
                         
-                        <pb n="133"/><fw rend="italics">Discourse 42.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="133"/><fw rend="italics">Discourse 42.</fw>
                         <lb/>into <choice><orig>errours</orig><reg>errors</reg></choice>, and therefore say the Philosophers; Whatsoever you hear,
                         <lb/>consult with reason, whether it can be <choice><orig>soe</orig><reg>so</reg></choice>, or <choice><orig>noe</orig><reg>no</reg></choice>: <milestone unit="section" n="e42-14" />For <choice><orig>noe</orig><reg>no</reg></choice> man is
                         <lb/>forced to <choice><orig>beleive</orig><reg>believe</reg></choice> or <choice><orig>performe</orig><reg>perform</reg></choice> things impossible, except <choice><orig>hee</orig><reg>he</reg></choice> be of <pc>-</pc>
@@ -118,7 +118,7 @@
                         <lb break="no"/>ence without <choice><orig>regrett</orig><reg>regret</reg></choice>, will <choice><orig>attaine</orig><reg>attain</reg></choice> to this art as by a direct line, but
                         <lb/><choice><orig>hee</orig><reg>he</reg></choice>, that thinks <choice><orig>himselfe</orig><reg>himself</reg></choice> able sooner to reap benefit from our books,
                         <lb/>is deceived, and it had been better not to have <choice><orig>lookd</orig><reg>looked</reg></choice> therein, than <pc>-</pc>
-                        <lb/>ever to have <choice><orig>touchd</orig><reg>touched</reg></choice> them: And <choice><orig>soe</orig><reg>so</reg></choice> on<pc>. . . . . .</pc>
+                        <lb/>ever to have <choice><orig>touchd</orig><reg>touched</reg></choice> them: And <choice><orig>soe</orig><reg>so</reg></choice> on <pc>. . . . . .</pc>
                     </ab>   
                 </div>
                 

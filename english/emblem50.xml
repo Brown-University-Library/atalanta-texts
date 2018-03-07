@@ -19,8 +19,8 @@
     
     <text>
         <body>
-            <div type="emblem" n="e50"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="155"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e50">
+                <pb n="155"/>
                 
                 
                 <div type="title" xml:lang="en">
@@ -45,11 +45,11 @@
                 </div>
                 
                 
-                <pb n="156"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="156"/> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 50.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/><milestone unit="section" n="e50-01" />The mansion of Dragons is in caverns of the earth, but the residence <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                    <ab> 
+                        <lb/><milestone unit="section" n="e50-01" />The mansion of Dragons is in caverns of the earth, but the residence 
                         <lb/>of men above the earth in the <choice><orig>iḿediate</orig><reg>immediate</reg></choice> <choice><orig>aire</orig><reg>air</reg></choice>; which two Elements
                         <lb/>are contrary, and appointed by the Philosophers to be <choice><orig>joynd</orig><reg>joined</reg></choice> together,
                         <lb/>that one may act upon the other: <milestone unit="section" n="e50-02" />But by the woman others <choice><orig>meane</orig><reg>mean</reg></choice>, as
@@ -62,11 +62,12 @@
                         <lb/>blast, and draw a volatile fiery spirit out of the cold dragon, which
                         <lb/>with its great heat will <choice><orig>burne</orig><reg>burn</reg></choice> the Eagles feathers, and excite such a
                         <lb/><choice><orig>sudorificke</orig><reg>sudorific</reg></choice> bath, as to melt the Snow at the top of the mountains, <pc>-</pc>
+			 lb/>and turn it into water; from which a miserable bath may be well <pc>-</pc>
                         <lb/><choice><orig>præpared</orig><reg>prepared</reg></choice>, contributing fortune and health to the King. <milestone unit="section" n="e50-04" />Admirable in
-                        <lb break="no"/>deed it is, that a cold dragon should <choice><orig>yeild</orig><reg>yield</reg></choice> a fiery Spirit; yet experience<pc>-</pc>
+                        <lb break="no"/>deed it is, that a cold dragon should <choice><orig>yeild</orig><reg>yield</reg></choice> a fiery Spirit; yet experience <pc>-</pc>
                         <lb/>declares it to be true in burned serpents, which <choice><orig>doe</orig><reg>do</reg></choice> send forth a venomous <pc>-</pc>
                         <lb/>flame <choice><orig>poysoning</orig><reg>poisoning</reg></choice> the standers by: <milestone unit="section" n="e50-05" />Nor in <choice><orig>vayne</orig><reg>vain</reg></choice> are the keepers of the <choice><orig>Chy
-                        <lb break="no"/>micall</orig><reg>Chemical</reg></choice> treasures called flammivomous dragons, as the keepers of the golden
+                        <lb break="no"/>micall</orig><reg>Chymical</reg></choice> treasures called flammivomous dragons, as the keepers of the golden
                         <lb/>fleece, the Hesperian gardens, Cadmus, and the like. <milestone unit="section" n="e50-06" />But this dragon lives
                         <lb/>in <choice><orig>streight</orig><reg>straight</reg></choice> places of subterranean rocks, which you must there take, and
                         <lb/><choice><orig>joyne</orig><reg>join</reg></choice> to the Eagle or woman, to her, in the grave, to the other, if you <pc>-</pc>
@@ -80,7 +81,7 @@
                         <lb break="no"/>rishing, <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>sayth</orig><reg>says</reg></choice> that the keeper of the <choice><orig>mountaine</orig><reg>mountain</reg></choice> <choice><orig>searcheth</orig><reg>searchs</reg></choice> for them
                         <lb/>every where, and brings them to the <choice><orig>mountaine</orig><reg>mountain</reg></choice>. <milestone unit="section" n="e50-09" />Merlin in his vision (if it
                         <lb/>be not suppositious) makes mention of a white and red dragon; These
-                        <lb/>Dragons, whatsoever they be, whether one be a woman, or a female<pc>-</pc>
+                        <lb/>Dragons, whatsoever they be, whether one be a woman, or a female <pc>-</pc>
                         <lb/>dragon, <choice><orig>doe</orig><reg>do</reg></choice> act one with the other, till they both <choice><orig>dye</orig><reg>die</reg></choice>, and <choice><orig>emitt</orig><reg>emit</reg></choice> blood
                         <lb/>from their wounds, wherewith they are <choice><orig>embrued</orig><reg>imbrued</reg></choice>. But here the element
                         <lb/>of earth and fire is understood by the dragon, and by the woman the
@@ -91,7 +92,7 @@
                         
                         
                         
-                        <pb n="157"/><fw rend="italics">Discourse 50.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="157"/><fw rend="italics">Discourse 50.</fw>
                         <lb/>spirit, and <choice><orig>vivifyes</orig><reg>vivifies</reg></choice> a dead thing, and makes matrimony between man and wo
                         <lb break="no"/>man: For it <choice><orig>conferrs</orig><reg>confers</reg></choice> the whole <choice><orig>benefitt</orig><reg>benefit</reg></choice> of the art: <milestone unit="section" n="e50-12" />Of the earth <choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>hee</orig><reg>he</reg></choice> thus
                         <lb/>speaks. And moreover understand, that the particular earth, which <choice><orig>wee</orig><reg>we</reg></choice> tread
@@ -116,7 +117,7 @@
                         <lb/>to be dissolved: <milestone unit="section" n="e50-18" />This therefore being apprehended, the eagle and woman, as
                         <lb/><choice><orig>allso</orig><reg>also</reg></choice> the Dragon with the secrets of <choice><orig>allmost</orig><reg>almost</reg></choice> the whole art are understood, <pc>-</pc>
                         <lb/>which perhaps <choice><orig>wee</orig><reg>we</reg></choice> have thus <choice><orig>farre</orig><reg>far</reg></choice> too openly explained and declared to
-                        <lb/>the <choice><orig>Sonns</orig><reg>Sons</reg></choice> of learning, that God may hereby be <choice><orig>glorifyed</orig><reg>glorified</reg></choice><pc>. . . . .</pc>
+                        <lb/>the <choice><orig>Sonns</orig><reg>Sons</reg></choice> of learning, that God may hereby be <choice><orig>glorifyed</orig><reg>glorified</reg></choice> <pc>. . . . .</pc>
                     </ab>   
                 </div>
                 

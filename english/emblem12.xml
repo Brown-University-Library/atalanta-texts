@@ -19,8 +19,8 @@
     
     <text>
         <body>
-            <div type="emblem" n="e12"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="41"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e12">
+                <pb n="41"/>
                 
                 
                 <div type="title" xml:lang="en">
@@ -45,11 +45,11 @@
                 </div>
                 
                 
-                <pb n="42"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="42"/> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 12.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>The Allegory of <choice><orig>Saturne</orig><reg>Saturn</reg></choice> <choice><orig>wee</orig><reg>we</reg></choice> find to be taken <choice><orig>divers</orig><reg>diverse</reg></choice> <choice><orig>wayes</orig><reg>ways</reg></choice>: for the Astro<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                    <ab> 
+                        <lb/>The Allegory of <choice><orig>Saturne</orig><reg>Saturn</reg></choice> <choice><orig>wee</orig><reg>we</reg></choice> find to be taken <choice><orig>divers</orig><reg>diverse</reg></choice> <choice><orig>wayes</orig><reg>ways</reg></choice>: for the Astro<milestone unit="section" n="e03-01" /> 
                         <lb break="no"/>nomers repute him the highest of the <choice><orig>Planetts</orig><reg>Planets</reg></choice> in order; the young students
                         <lb/>of Chymistry the meanest of <choice><orig>metalls</orig><reg>metals</reg></choice>, namely lead: The heathen Poets: <choice><orig>con
                         <lb break="no"/>ceivd</orig><reg>conceived</reg></choice> him to be the father of Jupiter, <choice><orig>Sonne</orig><reg>Son</reg></choice> of Cælum; the Mythologists time.
@@ -77,7 +77,7 @@
                         <lb/>this reason say the same, that <choice><orig>Saturne</orig><reg>Saturn</reg></choice> <choice><orig>possesseth</orig><reg>possesses</reg></choice> the earth, Mercury water, <pc>-</pc>
                         <lb/>Jupiter <choice><orig>aire</orig><reg>air</reg></choice>, Sol fire. <choice><orig>Saturne</orig><reg>Saturn</reg></choice> therefore is <choice><orig>blacknesse</orig><reg>blackness</reg></choice>, the discoverer of truth,
                         <lb/>who <choice><orig>followes</orig><reg>follows</reg></choice> a stone instead of Jupiter. For <choice><orig>blacknesse</orig><reg>blackness</reg></choice>, that is, a <choice><orig>darke</orig><reg>dark</reg></choice> cloud
-                        <lb/>covers the stone as first, that is cannot be seen: Therefore <choice><orig>sayth</orig><reg>says</reg></choice> Morienes <pc>-</pc>
+                        <lb/>covers the stone as first, that it cannot be seen: Therefore <choice><orig>sayth</orig><reg>says</reg></choice> Morienes <pc>-</pc>
                         <lb/>every body without a <choice><orig>soule</orig><reg>soul</reg></choice> is <choice><orig>darke</orig><reg>dark</reg></choice> and obscure: And Hermes: Take his head <pc>-</pc>
                         <lb/>dissolve it with the Sharpest vinegar, or the urine of children, till it be made <pc>-</pc>
                         <lb/><choice><orig>darke</orig><reg>dark</reg></choice>: This being performed <choice><orig>hee</orig><reg>he</reg></choice> lives in putrefaction, and the <choice><orig>darke</orig><reg>dark</reg></choice> clouds which
@@ -95,7 +95,7 @@
                         <lb/>my Master <choice><orig>sayd</orig><reg>said</reg></choice> to <choice><orig>mee</orig><reg>me</reg></choice>, that that brunity ascended, because the <choice><orig>whitenesse</orig><reg>whiteness</reg></choice>
                         
                         
-                        <pb n="43"/><fw>Discourse 12.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="43"/><fw>Discourse 12.</fw>
                         <lb/>was <choice><orig>drawne</orig><reg>drawn</reg></choice> out of the belly of its <choice><orig>blacknesse</orig><reg>blackness</reg></choice>, as is <choice><orig>sayd</orig><reg>said</reg></choice> in Turba: For when <pc>-</pc>
                         <lb/>you see it <choice><orig>blacke</orig><reg>black</reg></choice> know that the <choice><orig>whitenesse</orig><reg>whiteness</reg></choice> of it is hidden in the <choice><orig>bowells</orig><reg>bowels</reg></choice> of the
                         <lb/><choice><orig>blacknesse</orig><reg>blackness</reg></choice> first appearing. As the Same <choice><orig>blacknesse</orig><reg>blackness</reg></choice> is called <choice><orig>Saturne</orig><reg>Saturn</reg></choice>, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> <pc>-</pc>
@@ -110,7 +110,7 @@
                         <lb/>of Latona Diana, that is perfect <choice><orig>whitenesse</orig><reg>whiteness</reg></choice>, and Apollo, that is, <choice><orig>rednesse</orig><reg>redness</reg></choice>; and this is
                         <lb/>the successive mutation of all perfect <choice><orig>colours</orig><reg>colors</reg></choice>: This Stone cast out by <choice><orig>Saturne</orig><reg>Saturn</reg></choice> is
                         <lb/>reported to be placed at the top of the <choice><orig>mountaine</orig><reg>mountain</reg></choice> as a monument to men, which
-                        <lb/>is a thing most true<pc>. . . . . . . . . . . .</pc>
+                        <lb/>is a thing most true <pc>. . . . . . . . . . . .</pc>
                     </ab>   
                 </div>
                 

@@ -19,8 +19,8 @@
     
     <text>
         <body>
-            <div type="emblem" n="e07"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="26"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e07">
+                <pb n="26"/>
                 
                 
                 <div type="title" xml:lang="en">
@@ -45,11 +45,11 @@
                 </div>
                 
                 
-                <pb n="27"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="27"/> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 7.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/><milestone unit="section" n="e07-01" />What Hippocrates, the defender and propugnator of <choice><orig>Physitians</orig><reg>Physicians</reg></choice>, affirms of hu <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                    <ab> 
+                        <lb/><milestone unit="section" n="e07-01" />What Hippocrates, the defender and propugnator of <choice><orig>Physitians</orig><reg>Physicians</reg></choice>, affirms of hu 
                         <lb break="no"/>mors, that they are different and many in man, and not one <choice><orig>onely</orig><reg>only</reg></choice>, otherwise
                         <lb/>various diseases, could not arise, that <choice><orig>wee</orig><reg>we</reg></choice> perceive to be true of the elements
                         <lb/>of the world: <milestone unit="section" n="e07-02" />for if there was but one <choice><orig>onely</orig><reg>only</reg></choice> element, there could be <choice><orig>noe</orig><reg>no</reg></choice> <pc>-</pc>
@@ -97,7 +97,7 @@
                         
                         
                         
-                        <pb n="28"/><fw rend="italics">Discourse 7.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="28"/><fw rend="italics">Discourse 7.</fw>
                         <lb/><choice><orig>soe</orig><reg>so</reg></choice> many <choice><orig>metallicke</orig><reg>metallic</reg></choice> <choice><orig>bodyes</orig><reg>bodies</reg></choice>, as fixed <choice><orig>Starrs</orig><reg>Stars</reg></choice>, and <choice><orig>enjoyns</orig><reg>enjoins</reg></choice> these to be
                         <lb/>wedded to those: <milestone unit="section" n="e07-14" />from thence <choice><orig>allso</orig><reg>also</reg></choice> <seg rend="underline" hand="2">Aristotle</seg> the <seg rend="underline" hand="2">Chymist</seg>, the Spirit, <choice><orig>sayth</orig><reg>says</reg></choice> <choice><orig>hee</orig><reg>he</reg></choice>,
                         <lb/>having dissolved the body and <choice><orig>Soule</orig><reg>Soul</reg></choice>, <choice><orig>soe</orig><reg>so</reg></choice> as to exist in their <choice><orig>forme</orig><reg>form</reg></choice>, <choice><orig>doth</orig><reg>does</reg></choice> not
@@ -119,7 +119,7 @@
                         <lb/>though more durable, yet volatile, but to the solidity, constancy, and fixity
                         <lb/>of the <choice><orig>midle</orig><reg>middle</reg></choice>: for <choice><orig>soe</orig><reg>so</reg></choice> the bird without wings will <choice><orig>detaine</orig><reg>detain</reg></choice> that which <choice><orig>hath</orig><reg>has</reg></choice>, <pc>-</pc>
                         <lb/>and the fixed substance will fix the volatile, which must necessarily be
-                        <lb/>done<pc>. . . . . . . . . .</pc>
+                        <lb/>done <pc>. . . . . . . . . .</pc>
                     </ab>   
                 </div>
                 

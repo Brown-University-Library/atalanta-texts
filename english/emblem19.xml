@@ -19,8 +19,8 @@
     
     <text>
         <body>
-            <div type="emblem" n="e19"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="62"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e19">
+                <pb n="62"/>
                 
                 
                 <div type="title" xml:lang="en">
@@ -44,11 +44,11 @@
                 </div>
                 
                 
-                <pb n="63"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="63"/> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 19.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>The <choice><orig>Poetts</orig><reg>Poets</reg></choice> <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>feigne</orig><reg>feign</reg></choice> Geryon King of <choice><orig>Spayne</orig><reg>Spain</reg></choice> to have been <choice><orig>tricorporeall</orig><reg>tricorporeal</reg></choice>, <pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                    <ab> 
+                        <lb/>The <choice><orig>Poetts</orig><reg>Poets</reg></choice> <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>feigne</orig><reg>feign</reg></choice> Geryon King of <choice><orig>Spayne</orig><reg>Spain</reg></choice> to have been <choice><orig>tricorporeall</orig><reg>tricorporeal</reg></choice>, <pc>-</pc><milestone unit="section" n="e03-01" /> 
                         <lb/>who had oxen of a purple <choice><orig>colour</orig><reg>color</reg></choice>, which a <choice><orig>dogge</orig><reg>dog</reg></choice> with two heads, and a Dragon
                         <lb/>with seven were <choice><orig>chargd</orig><reg>charged</reg></choice> with as warders: and the same Geryon is reported to be
                         <lb/>the <choice><orig>Sonne</orig><reg>Son</reg></choice> of Chrysaor sprung from the blood of Medusa, and that Dragon the <pc>-</pc>
@@ -94,7 +94,7 @@
                         
                         
                         
-                        <pb n="64"/><fw rend="italics">Discourse 19.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="64"/><fw rend="italics">Discourse 19.</fw>
                         <lb/>they were willing to <choice><orig>dye</orig><reg>die</reg></choice>: <choice><orig>Soe</orig><reg>So</reg></choice> in the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> <choice><orig>worke</orig><reg>work</reg></choice>, one of the bre
                         <lb break="no"/>thren being dead, the other <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> perish by fire, not compulsively, but
                         <lb/>voluntarily, that they may not survive in sorrow and infamy: or if one be

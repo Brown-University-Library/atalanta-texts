@@ -19,8 +19,8 @@
     
     <text>
         <body>
-            <div type="emblem" n="e28"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="89"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e28">
+                <pb n="89"/>
                 
                 
                 <div type="title" xml:lang="en">
@@ -45,11 +45,11 @@
                 </div>
                 
                 
-                <pb n="90"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="90"/> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 3.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>As there are three concoctions in man, the first in the <choice><orig>Stomacke</orig><reg>Stomach</reg></choice>, the second<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                    <ab> 
+                        <lb/>As there are three concoctions in man, the first in the <choice><orig>Stomacke</orig><reg>Stomach</reg></choice>, the second<milestone unit="section" n="e03-01" /> 
                         <lb/>in the Liver, the third in the veins, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>soe</orig><reg>so</reg></choice> many are the <choice><orig>universall</orig><reg>universal</reg></choice> <pc>-</pc>
                         <lb/>evacuations of the excrements, which are correspondent to them, and daily
                         <lb/>carry <choice><orig>of</orig><reg>off</reg></choice> their <choice><orig>superfluityes</orig><reg>superfluities</reg></choice>, namely the first by <choice><orig>Stoole</orig><reg>Stool</reg></choice>, which is proper to
@@ -82,7 +82,7 @@
                         <lb break="no"/>cond in the revolution of the lowest, the third in the revolution of the
                         <lb break="no"/><choice><orig>midle</orig><reg>middle</reg></choice> Sphere: But the Philosophers to draw forth this <choice><orig>masse</orig><reg>mass</reg></choice> of excrementitious
                         <lb/><choice><orig>superfluityes</orig><reg>superfluities</reg></choice> more <choice><orig>coḿodiously</orig><reg>commodiously</reg></choice> by the ministery of art, <choice><orig>doe</orig><reg>do</reg></choice> invent <choice><orig>allso</orig><reg>also</reg></choice> <pc>-</pc>
-                        <lb/><choice><orig>severall</orig><reg>several</reg></choice> <choice><orig>wayes</orig><reg>ways</reg></choice>, as ablutions, purgations, balneations and <choice><orig>laconicks</orig><reg>laconics</reg></choice>, by which
+                        <lb/><choice><orig>severall</orig><reg>several</reg></choice> <choice><orig>wayes</orig><reg>ways</reg></choice>, as ablutions, purgations, balneations and <choice><orig>laconicks</orig><reg>laconica</reg></choice>, by which
                         <lb/>they have <choice><orig>performd</orig><reg>performed</reg></choice> that in the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> <choice><orig>worke</orig><reg>work</reg></choice>, which <choice><orig>Physitians</orig><reg>Physicians</reg></choice>
                         <lb/>have in mans body: Duenech therefore is introduced into the bath by <pc>-</pc>
                         <lb/>Pharut, there to sweat, and evacuate the <choice><orig>fæces</orig><reg>feces</reg></choice> of the third concoction <pc>-</pc>
@@ -94,7 +94,7 @@
                         
                         
                         
-                        <pb n="9i"/><fw rend="italics">Discourse 28.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="9i"/><fw rend="italics">Discourse 28.</fw>
                         <lb/>upon <choice><orig>himselfe</orig><reg>himself</reg></choice>, <choice><orig>hee</orig><reg>he</reg></choice> was brought with <choice><orig>entreatyes</orig><reg>entreaties</reg></choice> and rewards: And this Allegory
                         <lb/>is very frequent in the writings of the Philosophers, as of Bernard, Alanus, in the
                         <lb/>treatise of Duenech, and innumerable others; <choice><orig>wee</orig><reg>we</reg></choice> therefore add <choice><orig>noe</orig><reg>no</reg></choice> other cir
@@ -118,14 +118,14 @@
                         <lb/>livid and <choice><orig>melancholicke</orig><reg>melancholic</reg></choice> complexion, let him not therefore reject him, or <pc>-</pc>
                         <lb/>take another in his <choice><orig>roome</orig><reg>room</reg></choice>; for if <choice><orig>hee</orig><reg>he</reg></choice> be very well <choice><orig>washd</orig><reg>washed</reg></choice>, his <choice><orig>royall</orig><reg>royal</reg></choice> ge
                         <lb break="no"/>nius will <choice><orig>soone</orig><reg>soon</reg></choice> appear, as in Cyrus, Paris, Romulus, who were educated <pc>-</pc>
-                        <lb/>amongst <choice><orig>rusticks</orig><reg>rustics</reg></choice>: But by way of observation the bath must be a <choice><orig>Laconicke</orig><reg>Laconics</reg></choice>, <pc>-</pc>
+                        <lb/>amongst <choice><orig>rusticks</orig><reg>rustics</reg></choice>: But by way of observation the bath must be a <choice><orig>Laconicke</orig><reg>Laconicum</reg></choice>, <pc>-</pc>
                         <lb/>that is, vaporous and <choice><orig>sudorificke</orig><reg>sudorific</reg></choice>, that the water may not <choice><orig>burne</orig><reg>burn</reg></choice> his tender flesh, or
                         <lb/>obstruct the pores, whereby more damage than utility would ensue, and his malady
                         <lb/>not be cured: As for the Kings garments to be put on after bathing let <choice><orig>noe</orig><reg>no</reg></choice> man
                         <lb/>be solicitous; for as the daughter of King Alcinous did in times past contribute <pc>-</pc>
                         <lb/><choice><orig>cloaths</orig><reg>clothes</reg></choice> to Ulysses being <choice><orig>shipwreckd</orig><reg>shipwrecked</reg></choice> and naked, <choice><orig>soe</orig><reg>so</reg></choice> will there be one that will <pc>-</pc>
                         <lb/>send him most <choice><orig>pretious</orig><reg>precious</reg></choice> robes, that <choice><orig>hee</orig><reg>he</reg></choice> may deservedly be acknowledged the <pc>-</pc>
-                        <lb/><choice><orig>Sonne</orig><reg>Son</reg></choice> of Sol<pc>. . . . . . . . . . . . .</pc>
+                        <lb/><choice><orig>Sonne</orig><reg>Son</reg></choice> of Sol <pc>. . . . . . . . . . . . .</pc>
                         
                     </ab>   
                 </div>

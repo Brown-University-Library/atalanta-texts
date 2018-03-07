@@ -19,8 +19,8 @@
     
     <text>
         <body>
-            <div type="emblem" n="e20"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="65"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e20">
+                <pb n="65"/>
                 
                 
                 <div type="title" xml:lang="en">
@@ -36,7 +36,7 @@
                     <lg>
                         <l>Fire that insulting dragon is <choice><orig>præpard</orig><reg>prepared</reg></choice></l>
                         <l>To scorch the virgins beauty Sans regard:</l>
-                        <l><subst><del><unclear reason="illegible">degree black</unclear></del><add><choice><orig>Distresed</orig><reg>Distressed</reg></choice> for help <choice><orig>shee</orig><reg>she</reg></choice></add></subst> <choice><orig>spyes</orig><reg>spies</reg></choice> a man of <choice><orig>warre</orig><reg>war</reg></choice></l>
+                        <l><subst><del><unclear reason="illegible">unclear phrase</unclear></del><add><choice><orig>Distresed</orig><reg>Distressed</reg></choice> for help <choice><orig>shee</orig><reg>she</reg></choice></add></subst> <choice><orig>spyes</orig><reg>spies</reg></choice> a man of <choice><orig>warre</orig><reg>war</reg></choice></l>
                         <l><choice><orig>Equippd</orig><reg>Equipped</reg></choice> all cap a pe, as such men are,</l>
                         <l>who, <choice><orig>Sheilding</orig><reg>Shielding</reg></choice> her from <choice><orig>harme</orig><reg>harm</reg></choice>, assaults the flames,</l>
                         <l>And by this <choice><orig>præsident</orig><reg>president</reg></choice> her fear <choice><orig>reclaimes</orig><reg>reclaims</reg></choice>.</l>
@@ -44,11 +44,11 @@
                 </div>
                 
                 
-                <pb n="66"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="66"/> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 20.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>The common token and <choice><orig>symboll</orig><reg>symbol</reg></choice>, by which the Philosophers know one another,<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                    <ab> 
+                        <lb/>The common token and <choice><orig>symboll</orig><reg>symbol</reg></choice>, by which the Philosophers know one another,<milestone unit="section" n="e03-01" /> 
                         <lb/>is, that nature is guided, taught, governed, subdued and overcome by nature, as
                         <lb/>a young <choice><orig>Schollar</orig><reg>Scholar</reg></choice> by a <choice><orig>Mistresse</orig><reg>Mistress</reg></choice>, a waiting <choice><orig>mayd</orig><reg>maid</reg></choice> by her Lady, a subject by a
                         <lb/>Queen, yea a daughter by the mother, and kinswoman by kinswoman: how <pc>-</pc>
@@ -94,7 +94,7 @@
                         
                         
                         
-                        <pb n="67"/><fw rend="italics">Discourse 20.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="67"/><fw rend="italics">Discourse 20.</fw>
                         <lb/>young <choice><orig>Schollar</orig><reg>Scholar</reg></choice>, and if you consider well, which is the Queen governing <pc>-</pc>
                         <lb/>the subject, and which is the daughter nobilitating and dignifying the mother;
                         <lb/>This is that red servant, which is <choice><orig>joynd</orig><reg>joined</reg></choice> in matrimony with his odoriferous
@@ -126,7 +126,7 @@
                         <lb/>and diastole, or dilatation and compression of the <choice><orig>arteryes</orig><reg>arteries</reg></choice>, <choice><orig>soe</orig><reg>so</reg></choice> long <pc>-</pc>
                         <lb/>as it is not impeded by diseases and violence: And thus one nature <pc>-</pc>
                         <lb/><choice><orig>teacheth</orig><reg>teaches</reg></choice> another, which you must observe and follow for an example
-                        <lb/>of the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> <choice><orig>worke</orig><reg>work</reg></choice>, as a thing most clear and evident<pc>. . .</pc>
+                        <lb/>of the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> <choice><orig>worke</orig><reg>work</reg></choice>, as a thing most clear and evident <pc>. . .</pc>
                     </ab>   
                 </div>
                 

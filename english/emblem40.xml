@@ -19,8 +19,8 @@
     
     <text>
         <body>
-            <div type="emblem" n="e40"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="125"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e40">
+                <pb n="125"/>
                 
                 
                 <div type="title" xml:lang="en">
@@ -44,11 +44,11 @@
                 </div>
                 
                 
-                <pb n="126"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="126"/> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 40.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>The miracles of waters are <choice><orig>soe</orig><reg>so</reg></choice> many and <choice><orig>soe</orig><reg>so</reg></choice> great, as scarce to be <pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                    <ab> 
+                        <lb/>The miracles of waters are <choice><orig>soe</orig><reg>so</reg></choice> many and <choice><orig>soe</orig><reg>so</reg></choice> great, as scarce to be <pc>-</pc><milestone unit="section" n="e03-01" /> 
                         <lb/>comprehended in a large volume, concerning which <choice><orig>severall</orig><reg>several</reg></choice> authors <pc>-</pc>
                         <lb/>have here and there treated: But above all the two <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> wa
                         <lb break="no"/>ters are celebrated with that name, because they <choice><orig>doe</orig><reg>do</reg></choice> as it were not <choice><orig>one
@@ -76,7 +76,7 @@
                         <lb/>For the Stone is called water, because fusible, and on the contrary,
                         <lb/>water stone, because frangible: But these waters are <choice><orig>drawne</orig><reg>drawn</reg></choice> out of <pc>-</pc>
                         <lb/>different places, sometimes in a long tract, as may be seen at Rome <pc>-</pc>
-                        <lb/>about Aqua Virginis, and other <choice><orig>artificiall</orig><reg>artificial</reg></choice> fountains, and then they <pc>-</pc>
+           s             <lb/>about Aqua Virginis, and other <choice><orig>artificiall</orig><reg>artificial</reg></choice> fountains, and then they <pc>-</pc>
                         <lb/>must be mixed by conflux, that one may be made of two. For if
                         <lb/>one be of a <choice><orig>hott</orig><reg>hot</reg></choice> and the other of a cold virtue, being mixed together
                         <lb/>they will acquire <choice><orig>mixd</orig><reg>mixed</reg></choice> virtues, and after a <choice><orig>wonderfull</orig><reg>wonderful</reg></choice> manner re
@@ -94,7 +94,7 @@
                         
                         
                         
-                        <pb n="127"/><fw rend="italics">Discourse 40.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="127"/><fw rend="italics">Discourse 40.</fw>
                         <lb/>which can never be effected by art: A mixtion and confusion is indeed cau
                         <lb break="no"/>sed by art, without the <choice><orig>helpe</orig><reg>help</reg></choice> of nature <choice><orig>noe</orig><reg>no</reg></choice> true and <choice><orig>naturall</orig><reg>natural</reg></choice> union, <pc>-</pc>
                         <lb/>which is made by nature alone: There is an <choice><orig>artificiall</orig><reg>artificial</reg></choice> mixtion of various <pc>-</pc>
@@ -105,7 +105,7 @@
                         <lb/>into the other in the least parts, though they cannot <choice><orig>againe</orig><reg>again</reg></choice> be divided
                         <lb/>and separated one from the other by the industry of man. But as to
                         <lb/>the mixtion of all <choice><orig>qualityes</orig><reg>qualities</reg></choice> <choice><orig>wee</orig><reg>we</reg></choice> must enquire, whether the first Tri
-                        <lb break="no"/>acles of all Simples may be reduced not one Quintessence, <del>and whol</del>
+                        <lb break="no"/>acles of all Simples may be reduced not one Quintessence, <del><unclear reason="illegible">three words</unclear></del>
                         <lb/>or yet in their powders or substances be, as before, as accidents in a subject,
                         <lb/>or <choice><orig>colour</orig><reg>color</reg></choice> in a wall; and then what is to be <choice><orig>sayd</orig><reg>said</reg></choice> of the second, third, and
                         <lb/>fourth <choice><orig>qualityes</orig><reg>qualities</reg></choice>? Probable it is that all the <choice><orig>qualityes</orig><reg>qualities</reg></choice> are yet <choice><orig>inhærent</orig><reg>inherent</reg></choice>
@@ -123,7 +123,7 @@
                         <lb/>water different and contrary virtues, because nature <choice><orig>hath</orig><reg>has</reg></choice> by the <pc>-</pc>
                         <lb/><choice><orig>helpe</orig><reg>help</reg></choice> of art mixed it with things contrary into one indivisible <pc>-</pc>
                         <lb/>substance, which is nothing <choice><orig>els</orig><reg>else</reg></choice> but a Quintessence, in respect of <pc>-</pc>
-                        <lb/>other things to be mixed with it<pc>. . . . . . .</pc>
+                        <lb/>other things to be mixed with it <pc>. . . . . . . .</pc>
                     </ab>   
                 </div>
                 

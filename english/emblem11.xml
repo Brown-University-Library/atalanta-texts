@@ -19,8 +19,8 @@
     
     <text>
         <body>
-            <div type="emblem" n="e11"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="38"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e11">
+                <pb n="38"/>
                 
                 
                 <div type="title" xml:lang="en">
@@ -44,11 +44,11 @@
                 </div>
                 
                 
-                <pb n="39"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="39"/> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 11.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/><milestone unit="section" n="e11-01" /><choice><orig>Soe</orig><reg>So</reg></choice> great is the diversity of Authors in writing, that the explorators of <pc>-</pc> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                    <ab> 
+                        <lb/><milestone unit="section" n="e11-01" /><choice><orig>Soe</orig><reg>So</reg></choice> great is the diversity of Authors in writing, that the explorators of <pc>-</pc> 
                         <lb/>truth <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>allmost</orig><reg>almost</reg></choice> <choice><orig>despaire</orig><reg>despair</reg></choice> of finding the end of art: <milestone unit="section" n="e11-02" />for <choice><orig>Allegoricall</orig><reg>Allegorical</reg></choice> speeches
                         <lb/>being of themselves difficult to be understood, and the causes of many errors,
                         <lb/>especially then, if the same words be <choice><orig>applyd</orig><reg>applied</reg></choice> to different things, and diffe
@@ -93,7 +93,7 @@
                         
                         
                         
-                        <pb n="40"/><fw rend="italics">Discourse 11.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="40"/><fw rend="italics">Discourse 11.</fw>
                         <lb/>imperfect body compounded of Sol and Luna. <milestone unit="section" n="e11-14" />The most ancient Poets and
                         <lb/>writers <choice><orig>affirme</orig><reg>affirm</reg></choice> Latona to be the mother of Sol and Luna, or Apollo and <pc>-</pc>
                         <lb/>Diana, others the <choice><orig>Nurce</orig><reg>Nurse</reg></choice>; and that Diana was first <choice><orig>borne</orig><reg>born</reg></choice> (for Luna and <pc>-</pc>

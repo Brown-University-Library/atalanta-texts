@@ -19,8 +19,8 @@
     
     <text>
         <body>
-            <div type="emblem" n="e48"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="149"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e48">
+                <pb n="149"/>
                 
                 
                 <div type="title" xml:lang="en">
@@ -45,11 +45,11 @@
                 </div>
                 
                 
-                <pb n="150"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="150"/> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 48.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>Xerxes that most potent King of Persia leading his army through dry <pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                    <ab> 
+                        <lb/>Xerxes that most potent King of Persia leading his army through dry <pc>-</pc><milestone unit="section" n="e03-01" /> 
                         <lb/>and rugged places in <choice><orig>hott</orig><reg>hot</reg></choice> weather, being thirsty, refused not a draught <pc>-</pc>
                         <lb/>of muddy water offered by a <choice><orig>souldier</orig><reg>soldier</reg></choice>, but <choice><orig>dranke</orig><reg>drank</reg></choice> most freely, and rewarded
                         <lb/>him that brought it very amply. And indeed if a man at this very time
@@ -94,7 +94,7 @@
                         
                         
                         
-                        <pb n="151"/><fw rend="italics">Discourse 48.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="151"/><fw rend="italics">Discourse 48.</fw>
                         <lb/>into the Kings army, but the barbarous King taking the petition of Pythius
                         <lb/>most unworthily, <choice><orig>comanded</orig><reg>commanded</reg></choice> his younger <choice><orig>sonne</orig><reg>son</reg></choice> to be <choice><orig>cutt</orig><reg>cut</reg></choice> in two <choice><orig>peices</orig><reg>pieces</reg></choice>, <pc>-</pc>
                         <lb/>and fastened to stakes on both sides the high way, by which his whole ar
@@ -111,7 +111,7 @@
                         <lb/>provided they <choice><orig>waite</orig><reg>wait</reg></choice>, till <choice><orig>hee</orig><reg>he</reg></choice> recover youth in the bath, and be adorned <pc>-</pc>
                         <lb/>with various garments, namely, a <choice><orig>blacke</orig><reg>black</reg></choice> breast<pc rend="double-hyphen">-</pc>plate, a white shirt, and
                         <lb/>purple blood; for then <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>promiseth</orig><reg>promises</reg></choice> to give some of his blood to every
-                        <lb/>one, and make them partakers of his riches<pc>. . . . . . . .</pc>
+                        <lb/>one, and make them partakers of his riches <pc>. . . . . . . .</pc>
                     </ab>   
                 </div>
                 

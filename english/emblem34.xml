@@ -19,8 +19,8 @@
     
     <text>
         <body>
-            <div type="emblem" n="e34"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="107"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e34">
+                <pb n="107"/>
                 
                 
                 <div type="title" xml:lang="en">
@@ -45,11 +45,11 @@
                 </div>
                 
                 
-                <pb n="108"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="108"/> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 34.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>The opinion or flattery of men attributes <choice><orig>wonderfull</orig><reg>wonderful</reg></choice> births to some <pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                    <ab> 
+                        <lb/>The opinion or flattery of men attributes <choice><orig>wonderfull</orig><reg>wonderful</reg></choice> births to some <pc>-</pc><milestone unit="section" n="e03-01" /> 
                         <lb/>persons above others, but certainly fabulous, as to Alexander the great,
                         <lb/>begotten not by Philip King of Macedonia, but Jupiter Hammon; to <pc>-</pc>
                         <lb/>Romulus and Remus, by Mars; to Plato, <choice><orig>borne</orig><reg>born</reg></choice> of the virgin Perictione
@@ -94,7 +94,7 @@
                         
                         
                         
-                        <pb n="109"/><fw rend="italics">Discourse 34.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="109"/><fw rend="italics">Discourse 34.</fw>
                         <lb/>of mountains, that is, in the <choice><orig>aire</orig><reg>air</reg></choice> or <choice><orig>Alembicke</orig><reg>Alembic</reg></choice>; which is by Rosinus to
                         <lb/>Euthicia thus explained: The wise man <choice><orig>sayd</orig><reg>said</reg></choice>. Take things out of their
                         <lb/><choice><orig>mynes</orig><reg>mines</reg></choice>, and exalt them to higher places, and send them from the top
@@ -126,7 +126,7 @@
                         <lb/>bear his chariots, in which ships <choice><orig>sayld</orig><reg>sailed</reg></choice> before: <choice><orig>Hee</orig><reg>He</reg></choice> makes mountains
                         <lb/><choice><orig>æquall</orig><reg>equal</reg></choice> with <choice><orig>vallyes</orig><reg>valleys</reg></choice>, and fears not the flames of fire, and therefore
                         <lb/>goes freely wheresoever <choice><orig>hee</orig><reg>he</reg></choice> please, from the pillars of Hercules in
-                        <lb/>the farthest parts of India, to the pillars of Dionysius<pc>. . . .</pc>
+                        <lb/>the farthest parts of India, to the pillars of Dionysius <pc>. . . .</pc>
                     </ab>   
                 </div>
                 

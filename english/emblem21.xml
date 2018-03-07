@@ -19,8 +19,8 @@
     
     <text>
         <body>
-            <div type="emblem" n="e21"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="68"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e21">
+                <pb n="68"/>
                 
                 
                 <div type="title" xml:lang="en">
@@ -45,11 +45,11 @@
                 </div>
                 
                 
-                <pb n="69"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="69"/> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 21.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>It is the doctrine of that <seg rend="underline" hand="2">most famous Philosopher Plato th</seg>at knowledge is as<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                    <ab> 
+                        <lb/>It is the doctrine of that <seg rend="underline" hand="2">most famous Philosopher Plato th</seg>at knowledge is as<milestone unit="section" n="e03-01" /> 
                         <lb/>it were actually engraven and imprinted in the mind of man, which is as the
                         <lb/>foundation of all arts and Sciences, by the remembrance and repetition of <pc>-</pc>
                         <lb/>which all learning may be <choice><orig>knowne</orig><reg>known</reg></choice> and apprehended by any man; which <pc>-</pc>
@@ -87,7 +87,7 @@
                         <lb/><choice><orig>boyes</orig><reg>boys</reg></choice> know? that cannot be supposed: because <choice><orig>wee</orig><reg>we</reg></choice> see that a brute <choice><orig>doth</orig><reg>does</reg></choice>
                         <lb/>by the instinct of nature <choice><orig>abhorre</orig><reg>abhor</reg></choice> and <choice><orig>avoyd</orig><reg>avoid</reg></choice> the dangers of fire, water,
                         <lb/>sudden chance, and the like, though newly come into the world, yet that
-                        <lb/>an infant <choice><orig>knowes</orig><reg>knows</reg></choice> not or <choice><orig>shunns</orig><reg>shuns</reg></choice> such things, except hurt, or is finger being
+                        <lb/>an infant <choice><orig>knowes</orig><reg>knows</reg></choice> not or <choice><orig>shunns</orig><reg>shuns</reg></choice> such things, except hurt, or his finger being
                         <lb/>a little burnt at the flame of a candle like a <choice><orig>Fire<pc rend="double-hyphen">-</pc>flye</orig><reg>Fire<pc rend="double-hyphen">-</pc>fly</reg></choice>, which <choice><orig>burnes</orig><reg>burns</reg></choice> its
                         <lb/>wings and falls <choice><orig>downe</orig><reg>down</reg></choice>: why <choice><orig>doe</orig><reg>do</reg></choice> not the young bee, the <choice><orig>flye</orig><reg>fly</reg></choice> and <choice><orig>gnatt</orig><reg>gnat</reg></choice> <pc>-</pc>
                         <lb/>fly directly into fire, they not knowing by experience the danger from <pc>-</pc>
@@ -95,7 +95,7 @@
                         
                         
                         
-                        <pb n="70"/><fw rend="italics">Discourse 21.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="70"/><fw rend="italics">Discourse 21.</fw>
                         <lb/><choice><orig>borne</orig><reg>born</reg></choice>. If Geometry be <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>naturall</orig><reg>natural</reg></choice> and easy to children, how comes it to <choice><orig>passe</orig><reg>pass</reg></choice>
                         <lb/>that the Square of a circle was not <choice><orig>knowne</orig><reg>known</reg></choice> to Plato <choice><orig>himselfe</orig><reg>himself</reg></choice>, <choice><orig>Soe</orig><reg>So</reg></choice> that Aris
                         <lb break="no"/>totle the <choice><orig>Schollar</orig><reg>Scholar</reg></choice> of Plato affirmed it possible to be <choice><orig>knowne</orig><reg>known</reg></choice>, but not as yet <pc>-</pc>

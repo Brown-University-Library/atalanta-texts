@@ -19,8 +19,8 @@
     
     <text>
         <body>
-            <div type="emblem" n="e43"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="134"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e43">
+                <pb n="134"/>
                 
                 
                 <div type="title" xml:lang="en">
@@ -44,11 +44,11 @@
                 </div>
                 
                 
-                <pb n="135"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="135"/> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 43.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/><choice><orig>Wee</orig><reg>We</reg></choice> daily in many places hear birds prattling or imitating the <choice><orig>voyce</orig><reg>voice</reg></choice><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                    <ab> 
+                        <lb/><choice><orig>Wee</orig><reg>We</reg></choice> daily in many places hear birds prattling or imitating the <choice><orig>voyce</orig><reg>voice</reg></choice><milestone unit="section" n="e03-01" /> 
                         <lb/>of man, such as <choice><orig>Parrotts</orig><reg>Parrots</reg></choice>, Ravens, Dawes, and <choice><orig>Pyes</orig><reg>Pies</reg></choice>. <choice><orig>Soe</orig><reg>So</reg></choice> Pliny writes <pc>-</pc>
                         <lb/>that, at the time wherein <choice><orig>hee</orig><reg>he</reg></choice> published his history, Agrippina the <pc>-</pc>
                         <lb/>wife of Claudius <choice><orig>Cæsar</orig><reg>Caesar</reg></choice> had a thrush, imitating the speech of men. <pc>-</pc>
@@ -87,12 +87,12 @@
                         <lb/>without the seed of the males, and generates without coition, and
                         <lb/>that their offspring <choice><orig>doe</orig><reg>do</reg></choice> arrive to a great age even to a hundred <pc>-</pc>
                         <lb/>years. Their nests they build in high rocks, <choice><orig>noe</orig><reg>no</reg></choice> man <choice><orig>hath</orig><reg>has</reg></choice> attained
-                        <lb/>to them. Two chickens are for the most part seen: They are <choice><orig>helpe</orig><reg>help</reg></choice>
-                        <lb break="no"/>full and commodious <choice><orig>agaynst</orig><reg>against</reg></choice> Serpents. They are offended and <pc>-</pc>
+                        <lb/>to them. Two chickens are for the most part seen: They are <choice><orig>helpe
+                        <lb break="no"/>full</orig><reg>helpful</reg></choice> and commodious <choice><orig>agaynst</orig><reg>against</reg></choice> Serpents. They are offended and <pc>-</pc>
                         
                         
                         
-                        <pb n="136"/><fw rend="italics">Discourse 43.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="136"/><fw rend="italics">Discourse 43.</fw>
                         <lb/>perplexed with the East wind. When they begin to lay eggs, they <pc>-</pc>
                         <lb/>bring a thing out of the <choice><orig>Indyes</orig><reg>Indies</reg></choice>, which is as a <choice><orig>nutt</orig><reg>nut</reg></choice>, having within a <pc>-</pc>
                         <lb/>thing that may be moved, and forthwith <choice><orig>yeilds</orig><reg>yields</reg></choice> a sound, which when

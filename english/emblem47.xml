@@ -19,8 +19,8 @@
     
     <text>
         <body>
-            <div type="emblem" n="e47"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="146"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e47">
+                <pb n="146"/>
                 
                 
                 <div type="title" xml:lang="en">
@@ -45,11 +45,11 @@
                 </div>
                 
                 
-                <pb n="147"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="147"/> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 47.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>The Philosophers have in many places made mention of two stones given to us<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                    <ab> 
+                        <lb/>The Philosophers have in many places made mention of two stones given to us<milestone unit="section" n="e03-01" /> 
                         <lb/>gratis, as <choice><orig>Isaack</orig><reg>Isaac</reg></choice>, Arnold, and others, amongst <choice><orig>whome</orig><reg>whom</reg></choice> Avicenne <choice><orig>sayth</orig><reg>says</reg></choice> they <choice><orig>lye</orig><reg>lie</reg></choice> in <pc>-</pc>
                         <lb/>dung neglected and rejected by the vulgar, which, if they be <choice><orig>joynd</orig><reg>joined</reg></choice> together, are
                         <lb/>able to complete the Magistery: Some men <choice><orig>extoll</orig><reg>extol</reg></choice> the <choice><orig>occidentall</orig><reg>occidental</reg></choice> Mercury, which
@@ -71,7 +71,7 @@
                         <lb/>most fierce <choice><orig>wolfe</orig><reg>wolf</reg></choice>, the west a <choice><orig>dogge</orig><reg>dog</reg></choice> familiar to men, that is, Sulphur
                         <lb/>comes from the East, Mercury from the Western tract, whereof this is
                         <lb/>gentle and tractable, that <choice><orig>cholericke</orig><reg>choleric</reg></choice> and angry; which two, when
-                        <lb/>first the find one another, <choice><orig>doe</orig><reg>do</reg></choice> fall together by the ears: and <pc>-</pc>
+                        <lb/>first they find one another, <choice><orig>doe</orig><reg>do</reg></choice> fall together by the ears: and <pc>-</pc>
                         <lb/>the <choice><orig>dogge</orig><reg>dog</reg></choice> being of notable <choice><orig>bignesse</orig><reg>bigness</reg></choice> obtains the first victory, <pc>-</pc>
                         <lb/>prostrating the <choice><orig>wolfe</orig><reg>wolf</reg></choice>, and bringing him to deaths <choice><orig>doore</orig><reg>door</reg></choice>: But the
                         <lb/><choice><orig>wolfe</orig><reg>wolf</reg></choice> recovering strength afterwards <choice><orig>overthrowes</orig><reg>overthrows</reg></choice> the <choice><orig>dogge</orig><reg>dog</reg></choice>, and be
@@ -94,7 +94,7 @@
                         
                         
                         
-                        <pb n="148"/><fw rend="italics">Discourse 47.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="148"/><fw rend="italics">Discourse 47.</fw>
                         <lb/>perforated it, in like manner the tincture of the <choice><orig>Soule</orig><reg>Soul</reg></choice> <choice><orig>hath</orig><reg>has</reg></choice> both perforated
                         <lb/>and is mixed with the body, and the body <choice><orig>hath</orig><reg>has</reg></choice> contained the <choice><orig>soule</orig><reg>soul</reg></choice>, and
                         <lb/>restrained the <choice><orig>naturall</orig><reg>natural</reg></choice> part from flying. And then to one demanding which
@@ -103,7 +103,7 @@
                         <lb/>which strengthened its companions by its fortitude. The <choice><orig>Orientall</orig><reg>Oriental</reg></choice> <choice><orig>wolfe</orig><reg>wolf</reg></choice> is
                         <lb/>therefore stronger than the <choice><orig>Occidentall</orig><reg>Occidental</reg></choice> <choice><orig>dogge</orig><reg>dog</reg></choice>, though <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>obtaine</orig><reg>obtain</reg></choice> not the
                         <lb/>victory effectually, but <choice><orig>perisheth</orig><reg>perishes</reg></choice> together with the enemy: but the tinging
-                        <lb/><choice><orig>poyson</orig><reg>poison</reg></choice> is <choice><orig>producd</orig><reg>produced</reg></choice> from both: The <choice><orig>differente</orig><reg>different</reg></choice> between a <choice><orig>wolfe</orig><reg>wolf</reg></choice> and <choice><orig>dogge</orig><reg>dog</reg></choice> is
+                        <lb/><choice><orig>poyson</orig><reg>poison</reg></choice> is <choice><orig>producd</orig><reg>produced</reg></choice> from both: The difference between a <choice><orig>wolfe</orig><reg>wolf</reg></choice> and <choice><orig>dogge</orig><reg>dog</reg></choice> is
                         <lb/>small, a <choice><orig>Mastive</orig><reg>Mastiff</reg></choice> or great <choice><orig>dogge</orig><reg>dog</reg></choice> representing the <choice><orig>forme</orig><reg>form</reg></choice> and shape of a
                         <lb/><choice><orig>wolfe</orig><reg>wolf</reg></choice>, <choice><orig>soe</orig><reg>so</reg></choice> as to <choice><orig>seeme</orig><reg>seem</reg></choice> a <choice><orig>wolfe</orig><reg>wolf</reg></choice> originally, but made tame by long progene
                         <lb break="no"/>ration: After the same manner Sulphur and Mercury <choice><orig>doe</orig><reg>do</reg></choice> little differ one
@@ -124,7 +124,7 @@
                         <lb/>happens, that they that <choice><orig>undergoe</orig><reg>undergo</reg></choice> the greater slaughter <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>winne</orig><reg>win</reg></choice> the
                         <lb/><choice><orig>feild</orig><reg>field</reg></choice> and victory; <choice><orig>Soe</orig><reg>So</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> though the <choice><orig>dogge</orig><reg>dog</reg></choice> lay prostrate, yet was not <pc>-</pc>
                         <lb/><choice><orig>alltogether</orig><reg>altogether</reg></choice> overcome, <choice><orig>hee</orig><reg>he</reg></choice> holding his enemy <choice><orig>soe</orig><reg>so</reg></choice> fast, that <choice><orig>hee</orig><reg>he</reg></choice> could not
-                        <lb/>live without him, nor <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>dye</orig><reg>die</reg></choice> without the other<pc>. . . . . . .</pc>
+                        <lb/>live without him, nor <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>dye</orig><reg>die</reg></choice> without the other <pc>. . . . . . .</pc>
                     </ab>   
                 </div>
                 

@@ -19,8 +19,8 @@
     
     <text>
         <body>
-            <div type="emblem" n="e45"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="140"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e45">
+                <pb n="140"/>
                 
                 
                 <div type="title" xml:lang="en">
@@ -44,11 +44,11 @@
                 </div>
                 
                 
-                <pb n="141"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="141"/> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 45.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>As in a round or <choice><orig>Sphericall</orig><reg>Spherical</reg></choice> Palace, a fire kindled in one place illustrates<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                    <ab> 
+                        <lb/>As in a round or <choice><orig>Sphericall</orig><reg>Spherical</reg></choice> Palace, a fire kindled in one place illustrates<milestone unit="section" n="e03-01" /> 
                         <lb/>the parts above and below round about all the walls, except those, where
                         <lb/>a table or the like standing in the <choice><orig>midle</orig><reg>middle</reg></choice> may by its objection and inter
                         <lb break="no"/>position impede, and <choice><orig>admitt</orig><reg>admit</reg></choice> a <choice><orig>darke</orig><reg>dark</reg></choice> shadow; <choice><orig>Soe</orig><reg>So</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> the <choice><orig>Sunne</orig><reg>Sun</reg></choice> being <pc>-</pc>
@@ -94,7 +94,7 @@
                         
                         
                         
-                        <pb n="142"/><fw rend="italics">Discourse 45.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="142"/><fw rend="italics">Discourse 45.</fw>
                         <lb/>Golden table at the <choice><orig>begining</orig><reg>beginning</reg></choice>, must be extinguished and consumed by a fiery
                         <lb/>medicine. The utility of shadows in <choice><orig>Astronomicall</orig><reg>Astronomical</reg></choice> affairs is <choice><orig>soe</orig><reg>so</reg></choice> great, that <pc>-</pc>
                         <lb/>without them that Science can scarce be perfected; Chymists <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> ascribe
@@ -122,7 +122,7 @@
                         <lb/><choice><orig>againe</orig><reg>again</reg></choice> to the top of our head, in <choice><orig>Capricorne</orig><reg>Capricorn</reg></choice>; and the first operation will <pc>-</pc>
                         <lb/>be even finished at Aries, then begins the womens <choice><orig>worke</orig><reg>work</reg></choice>, even to Leo; <pc>-</pc>
                         <lb/>and afterwards <choice><orig>labour</orig><reg>labor</reg></choice> proceeds from <choice><orig>labour</orig><reg>labor</reg></choice>, till the year take the <choice><orig>tayle</orig><reg>tail</reg></choice>
-                        <lb/>with the head, as a Snake, that is to say, is completed<pc>. . . . . . .</pc>
+                        <lb/>with the head, as a Snake, that is to say, is completed <pc>. . . . . . .</pc>
                     </ab>   
                 </div>
                 

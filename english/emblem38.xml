@@ -19,8 +19,8 @@
     
     <text>
         <body>
-            <div type="emblem" n="e38"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="119"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e38">
+                <pb n="119"/>
                 
                 
                 <div type="title" xml:lang="en">
@@ -45,11 +45,11 @@
                 </div>
                 
                 
-                <pb n="120"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="120"/> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 38.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>Socrates being demanded what Country man <choice><orig>hee</orig><reg>he</reg></choice> was, answered a <pc>-</pc><milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                    <ab> 
+                        <lb/>Socrates being demanded what Country man <choice><orig>hee</orig><reg>he</reg></choice> was, answered a <pc>-</pc><milestone unit="section" n="e03-01" /> 
                         <lb/>Citizen of the world: by which his intention was to signify, that though
                         <lb/><choice><orig>hee</orig><reg>he</reg></choice> was <choice><orig>borne</orig><reg>born</reg></choice> at Athens as to person, yet in mind <choice><orig>hee</orig><reg>he</reg></choice> freely beheld <pc>-</pc>
                         <lb/>the whole world, as his Country, and the things therein contained, <pc>-</pc>
@@ -92,7 +92,7 @@
                         
                         
                         
-                        <pb n="121"/><fw rend="italics">Discourse 38.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="121"/><fw rend="italics">Discourse 38.</fw>
                         <lb break="no"/>cuous, yet they are <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>veild</orig><reg>veiled</reg></choice> and clouded with intricacy and ob
                         <lb break="no"/>scurity, that by reason thereof it is very difficult to make distinction:
                         <lb/>Wherefore <choice><orig>wee</orig><reg>we</reg></choice> must cautiously proceed with them, that they, which are
@@ -119,18 +119,20 @@
                         <lb/>what man of a thousand persists in ascending to the top of this <pc>-</pc>
                         <lb/><choice><orig>mountaine</orig><reg>mountain</reg></choice>? Who dos not begin to <choice><orig>hæsitate</orig><reg>hesitate</reg></choice> at the <choice><orig>bottome</orig><reg>bottom</reg></choice> being <pc>-</pc>
                         <lb/>impeded by I know not what obstacles? Whoever<!-- he splits the word here. How to code? --> attaines to the <pc>-</pc>
-                        <lb/><choice><orig>midle</orig><reg>middle</reg></choice> of it? for <quote rend="indent"><lg xml:lang="lat"><l>Non levis ascensus, si quis petat ardua, sudor</l>
-                            <l>Plurimus hunc tollit, nocturnæ insomnis olivæ</l>
-                                <l>Immoritur, delet, quod mox laudaverat in se,</l>
-                                <l>Qui cupit æternæ donari frondis honore.</l>
-                            </lg>
-                        </quote>
+                        <lb/><choice><orig>midle</orig><reg>middle</reg></choice> of it? for
+                            <quote>
+                                <lg xml:lang="lat" rend="run-on"><l>Non levis ascensus, si quis petat ardua, sudor</l>
+                                    <l>Plurimus hunc tollit, nocturnæ insomnis olivæ</l>
+                                    <l>Immoritur, delet, quod mox laudaverat in se,</l>
+                                    <l>Qui cupit æternæ donari frondis honore.</l>
+                                </lg>
+                            </quote>
                         <lb/>Wherefore it is <choice><orig>noe</orig><reg>no</reg></choice> strange thing, if <choice><orig>onely</orig><reg>only</reg></choice> one of <choice><orig>tenne</orig><reg>ten</reg></choice> thousand un
                         <lb break="no"/>dertake these Herculean <choice><orig>labours</orig><reg>labors</reg></choice>, <choice><orig>soe</orig><reg>so</reg></choice> as to <choice><orig>sett</orig><reg>set</reg></choice> foot on the top of the
                         <lb/><choice><orig>mountaine</orig><reg>mountain</reg></choice>, and enjoy the <choice><orig>immortall</orig><reg>immortal</reg></choice> reward of a <choice><orig>laurell</orig><reg>laurel</reg></choice> garland,
                         <lb/>which that all those that are upright, docible, and addicted to vir
                         <lb break="no"/>tue and learning may receive with joy, but the <choice><orig>vaine</orig><reg>vain</reg></choice> and envi
-                        <lb break="no"/>ous <choice><orig>depriv'd</orig><reg>deprived</reg></choice> thereof, is much to be desired<pc>. . . . . . .</pc>
+                        <lb break="no"/>ous <choice><orig>depriv'd</orig><reg>deprived</reg></choice> thereof, is much to be desired <pc>. . . . . . .</pc>
                     </ab>   
                 </div>
                 

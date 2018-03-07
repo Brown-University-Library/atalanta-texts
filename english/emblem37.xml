@@ -19,8 +19,8 @@
     
     <text>
         <body>
-            <div type="emblem" n="e37"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="116"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e37">
+                <pb n="116"/>
                 
                 
                 <div type="title" xml:lang="en">
@@ -46,11 +46,11 @@
                 </div>
                 
                 
-                <pb n="117"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="117"/> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 37.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>As three <choice><orig>essentiall</orig><reg>essential</reg></choice> things, which are the foundation, walls, and <choice><orig>roofe</orig><reg>roof</reg></choice>, are<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                    <ab> 
+                        <lb/>As three <choice><orig>essentiall</orig><reg>essential</reg></choice> things, which are the foundation, walls, and <choice><orig>roofe</orig><reg>roof</reg></choice>, are<milestone unit="section" n="e03-01" /> 
                         <lb/>required to the building of every <choice><orig>ædifice</orig><reg>edifice</reg></choice>, whereof one being absent, there
                         <lb/>can be <choice><orig>noe</orig><reg>no</reg></choice> perfection of it, <choice><orig>soe</orig><reg>so</reg></choice> are <choice><orig>soe</orig><reg>so</reg></choice> many desired in order to <pc>-</pc>
                         <lb/>complete the Philosophers compound, which are here named by their
@@ -85,7 +85,7 @@
                         <quote rend="indent">
                             <lg xml:lang="lat">
                                 <l>At non ille quidem sensit, quæ dicere prima</l>
-                                <l>Est facie visus, neq tum stillantia vina</l>
+                                <l>Est facie visus, neꝗ tum stillantia vina</l>
                                 <l>Miscebat, etc.</l>
                             </lg>
                             <lg xml:lang="eng">
@@ -100,7 +100,7 @@
                         
                         
                         
-                        <pb n="118"/><fw rend="italics">Discourse 37.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="118"/><fw rend="italics">Discourse 37.</fw>
                         <lb/>alone, which is in it: because that <choice><orig>greenesse</orig><reg>greenness</reg></choice> is by our Magistery suddenly
                         <lb/>turned into our most true gold, and this <choice><orig>wee</orig><reg>we</reg></choice> have had experience of:
                         <lb/>yet you can <choice><orig>noe</orig><reg>no</reg></choice> way <choice><orig>præpare</orig><reg>prepare</reg></choice> the Stone without Duenech green and
@@ -131,7 +131,7 @@
                         <lb/>thing of <choice><orig>noe</orig><reg>no</reg></choice> little difficulty, because it shines not, but of much
                         <lb/>greater to apply rightly to the <choice><orig>worke</orig><reg>work</reg></choice>; the circumstances and <pc>-</pc>
                         <lb/><choice><orig>propertyes</orig><reg>properties</reg></choice> of which <choice><orig>wee</orig><reg>we</reg></choice> have sufficiently in <choice><orig>severall</orig><reg>several</reg></choice> places de
-                        <lb break="no"/>scribed<pc>. . . . . . . . . . . . . .</pc>
+                        <lb break="no"/>scribed <pc>. . . . . . . . . . . . . .</pc>
                     </ab>   
                 </div>
                 

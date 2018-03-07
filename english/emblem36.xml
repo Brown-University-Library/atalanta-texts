@@ -19,8 +19,8 @@
     
     <text>
         <body>
-            <div type="emblem" n="e36"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="113"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e36">
+                <pb n="113"/>
                 
                 
                 <div type="title" xml:lang="en">
@@ -45,12 +45,12 @@
                 </div>
                 
                 
-                <pb n="114"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="114"/> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 36.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>All men, that have but once heard the name and power of the Stone,<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
-                        <lb/><choice><orig>unlesse</orig><reg>unless</reg></choice>, they be such as are <choice><orig>alltogther</orig><reg>altogether</reg></choice> incredulous, <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>coḿonly</orig><reg>commonly</reg></choice> <choice><orig>aske</orig><reg>ask</reg></choice> <pc>-</pc>
+                    <ab> 
+                        <lb/>All men, that have but once heard the name and power of the Stone,<milestone unit="section" n="e03-01" /> 
+                        <lb/><choice><orig>unlesse</orig><reg>unless</reg></choice> they be such as are <choice><orig>alltogther</orig><reg>altogether</reg></choice> incredulous, <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>coḿonly</orig><reg>commonly</reg></choice> <choice><orig>aske</orig><reg>ask</reg></choice> <pc>-</pc>
                         <lb/>where it is to be found, that they may <choice><orig>runne</orig><reg>run</reg></choice> as it were by a straight line
                         <lb/>to it? The Philosophers answer in two places: first, that Adam brought it
                         <lb/>with him out of Paradise, that it is in you, in <choice><orig>mee</orig><reg>me</reg></choice>, and in every man, <pc>-</pc>
@@ -92,7 +92,7 @@
                         <lb break="no"/>meth</orig><reg>sublimes</reg></choice> the Stone, and <choice><orig>rayseth</orig><reg>raises</reg></choice> it to the highest dignity. As in
                         
                         
-                        <pb n="115"/><fw rend="italics">Discourse 36.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="115"/><fw rend="italics">Discourse 36.</fw>
                         <lb/>mountains it <choice><orig>growes</orig><reg>grows</reg></choice> in a rude <choice><orig>forme</orig><reg>form</reg></choice> out of Sulphur and Argent vive, <choice><orig>soe</orig><reg>so</reg></choice>
                         <lb/>is it matured and perfected at the top of the mountains, where <choice><orig>allso</orig><reg>also</reg></choice> <pc>-</pc>
                         <lb/>is an <choice><orig>herbe</orig><reg>herb</reg></choice> produced, without which fire cannot be regulated, because
@@ -122,7 +122,7 @@
                         <lb/>whether his <choice><orig>harbour</orig><reg>harbor</reg></choice> be in the <choice><orig>aire</orig><reg>air</reg></choice>, fire, water, or earth. For <choice><orig>hee</orig><reg>he</reg></choice> is in
                         <lb/><choice><orig>perpetuall</orig><reg>perpetual</reg></choice> motion, running sometimes here sometimes there for the <pc>-</pc>
                         <lb/>service of the <choice><orig>Chymicall</orig><reg>Chymical</reg></choice> Gods, as their foot<pc rend="double-hyphen">-</pc>man, which his office is de
-                        <lb break="no"/>noted, some men ascribing to him a daughter named Angelia<pc>. . .</pc>
+                        <lb break="no"/>noted, some men ascribing to him a daughter named Angelia <pc>. . .</pc>
                     </ab>   
                 </div>
                 

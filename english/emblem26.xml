@@ -19,8 +19,8 @@
     
     <text>
         <body>
-            <div type="emblem" n="e26"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="83"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e26">
+                <pb n="83"/>
                 
                 
                 <div type="title" xml:lang="en">
@@ -44,11 +44,11 @@
                 </div>
                 
                 
-                <pb n="84"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="84"/> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 26.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/><milestone unit="section" n="e26-01" />Tully <choice><orig>hath</orig><reg>has</reg></choice> excellently described the <choice><orig>essentiall</orig><reg>essential</reg></choice> difference of man, whereby <choice><orig>hee</orig><reg>he</reg></choice> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                    <ab> 
+                        <lb/><milestone unit="section" n="e26-01" />Tully <choice><orig>hath</orig><reg>has</reg></choice> excellently described the <choice><orig>essentiall</orig><reg>essential</reg></choice> difference of man, whereby <choice><orig>hee</orig><reg>he</reg></choice> 
                         <lb/>differs from all other <choice><orig>animalls</orig><reg>animals</reg></choice>, after this manner: As a bird is intended by nature
                         <lb/>for flying, a horse for <subst><del>reasoning</del><add>running</add></subst>, <choice><orig>soe</orig><reg>so</reg></choice> man for reasoning: <milestone unit="section" n="e26-02" />For as <choice><orig>Lyons</orig><reg>Lions</reg></choice>, bears, <pc>-</pc>
                         <lb/>and <choice><orig>Tygers</orig><reg>Tigers</reg></choice> <choice><orig>doe</orig><reg>do</reg></choice> exercise and delight themselves in <choice><orig>fiercenesse</orig><reg>fierceness</reg></choice>, Elephants and
@@ -94,10 +94,10 @@
                         
                         
                         
-                        <pb n="85"/><fw rend="italics">Discourse 26.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="85"/><fw rend="italics">Discourse 26.</fw>
                         <lb/>is secret advice in the knowledge of God: <choice><orig>wisedome</orig><reg>wisdom</reg></choice> <choice><orig>conferrs</orig><reg>confers</reg></choice> all things, and infinite<note place="margin">Wis:. 7.11.</note>
                         <lb/>riches are <choice><orig>produc'd</orig><reg>produced</reg></choice> from the <choice><orig>labour</orig><reg>labor</reg></choice> of the hands: yea all good things proceed from
-                        <lb/>her, and great riches and wealth are in her hands, and <choice><orig>hee</orig><reg>he</reg></choice> that <choice><orig>converseth</orig><reg>converes</reg></choice> with<note place="margin">Sir.1.v.25.</note>
+                        <lb/>her, and great riches and wealth are in her hands, and <choice><orig>hee</orig><reg>he</reg></choice> that <choice><orig>converseth</orig><reg>converses</reg></choice> with<note place="margin">Sir.1.v.25.</note>
                         <lb/>her is <choice><orig>raysed</orig><reg>raised</reg></choice> to <choice><orig>honour</orig><reg>honor</reg></choice> by her: <milestone unit="section" n="e26-14" />and Sirach Chapt 1.v.25. In the treasures of <choice><orig>wise
                         <lb break="no"/>dome</orig><reg>wisdom</reg></choice> is understanding and holy knowledge, and <choice><orig>elswhere</orig><reg>elsewhere</reg></choice> <choice><orig>hee</orig><reg>he</reg></choice> calls it the discipline of
                         <lb/>sense, or doctrine of the understanding: <milestone unit="section" n="e26-15" />Concerning this <choice><orig>sayth</orig><reg>says</reg></choice> Morienus the Phi
@@ -119,7 +119,7 @@
                         <lb/>as are health, the good things of fortune and mind: for without these a <pc>-</pc>
                         <lb/>man even living is dead, and not much unlike to a brute, though out
                         <lb break="no"/>wardly <choice><orig>hee</orig><reg>he</reg></choice> represent him that <choice><orig>hee</orig><reg>he</reg></choice> ought to be, and is not in his better <pc>-</pc>
-                        <lb/><choice><orig>parte</orig><reg>part</reg></choice><pc>. . . . . . . . . . . . .</pc>            
+                        <lb/><choice><orig>parte</orig><reg>part</reg></choice> <pc>. . . . . . . . . . . . .</pc>            
                     </ab>   
                 </div>
                 

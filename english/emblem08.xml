@@ -19,8 +19,8 @@
     
     <text>
         <body>
-            <div type="emblem" n="e08"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="29"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e08">
+                <pb n="29"/>
                 
                 
                 <div type="title" xml:lang="en">
@@ -45,11 +45,11 @@
                 </div>
                 
                 
-                <pb n="30"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="30"/> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 8.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/><milestone unit="section" n="e08-01"/>Many and <choice><orig>severall</orig><reg>several</reg></choice> sorts of birds there are, which as they are indefinite in number, <choice><orig>soe</orig><reg>so</reg></choice> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                    <ab> 
+                        <lb/><milestone unit="section" n="e08-01"/>Many and <choice><orig>severall</orig><reg>several</reg></choice> sorts of birds there are, which as they are indefinite in number, <choice><orig>soe</orig><reg>so</reg></choice> 
                         <lb/>are they <choice><orig>unknowne</orig><reg>unknown</reg></choice> to us by names: <milestone unit="section" n="e08-02"/>Story tells us of a very great bird appearing at a <pc>-</pc>
                         <lb/><choice><orig>certaine</orig><reg>certain</reg></choice> time of the year in a small Isle of the Sea called Ruc, because it can lift
                         <lb/>up an Elephant with it into the <choice><orig>aire</orig><reg>air</reg></choice>. India and America <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>yeild</orig><reg>yield</reg></choice> <choice><orig>Parrotts</orig><reg>Parrots</reg></choice> of va
@@ -95,7 +95,7 @@
                         
                         
                         
-                        <pb n="31"/><fw rend="italics">Discourse 8.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="31"/><fw rend="italics">Discourse 8.</fw>
                         <lb/>place of heat: upon which consideration that, wherewith the Philosophers <choice><orig>egge</orig><reg>egg</reg></choice> <pc>-</pc>
                         <lb/>ought to be pieced and smitten, may not undeservedly be called a fiery sword:
                         <lb/><milestone unit="section" n="e08-18"/>but the Philosophers had rather have it understood of a temperate heat, where
@@ -107,7 +107,7 @@
                         <lb break="no"/>cus in the same place; now I Say, <choice><orig>sayth</orig><reg>says</reg></choice> <choice><orig>hee</orig><reg>he</reg></choice>, that <choice><orig>noe</orig><reg>no</reg></choice> instruments are <pc>-</pc>
                         <lb/>made, except of our white, starry, splendid powder, and of the white <pc>-</pc>
                         <lb/>stone, of which powder are made <choice><orig>fitt</orig><reg>fit</reg></choice> instruments for the <choice><orig>egge</orig><reg>egg</reg></choice>; yet they
-                        <lb/>have not named the <choice><orig>egge</orig><reg>egg</reg></choice>, nor what birds the <choice><orig>egge</orig><reg>egg</reg></choice> was<pc>. . . . .</pc>
+                        <lb/>have not named the <choice><orig>egge</orig><reg>egg</reg></choice>, nor what birds the <choice><orig>egge</orig><reg>egg</reg></choice> was <pc>. . . . .</pc>
                     </ab>   
                 </div>
                 

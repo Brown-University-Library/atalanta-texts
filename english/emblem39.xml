@@ -19,8 +19,8 @@
     
     <text>
         <body>
-            <div type="emblem" n="e39"><!-- Change the value of n to "e" followed by the number of the emblem. Use two digits for all numbers. -->
-                <pb n="122"/><!-- Change to page number of the actual manuscript -->
+            <div type="emblem" n="e39">
+                <pb n="122"/>
                 
                 
                 <div type="title" xml:lang="en">
@@ -45,11 +45,11 @@
                 </div>
                 
                 
-                <pb n="123"/> <!-- Change to page number of the actual manuscript -->
+                <pb n="123"/> 
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 39.</head>
-                    <ab><!--Our convention will be that if we have break = "no" then it means that the word is broken across the line with a dash--> 
-                        <lb/>Bacasser a Philosopher in Turba <choice><orig>sayth</orig><reg>says</reg></choice>, that which you <choice><orig>seeke</orig><reg>seek</reg></choice> for is of <choice><orig>noe</orig><reg>no</reg></choice> small<milestone unit="section" n="e03-01" /> <!-- Change the value of n to "e" plus the number of the emblem (in two digits), followed by a hyphen and then a two-digit count of sentence -->
+                    <ab> 
+                        <lb/>Bacasser a Philosopher in Turba <choice><orig>sayth</orig><reg>says</reg></choice>, that which you <choice><orig>seeke</orig><reg>seek</reg></choice> for is of <choice><orig>noe</orig><reg>no</reg></choice> small<milestone unit="section" n="e03-01" /> 
                         <lb/>value, for you <choice><orig>seeke</orig><reg>seek</reg></choice> the greatest treasure, and most excellent gift of God. <pc>-</pc>
                         <lb/>And <choice><orig>learne</orig><reg>learn</reg></choice>, O yee students, that which the Philosophers have long since inti
                         <lb break="no"/>mated, saying, The truth is not discerned but by <choice><orig>errour</orig><reg>error</reg></choice>, and nothing begets <pc>-</pc>
@@ -93,7 +93,7 @@
                         
                         
                         
-                        <pb n="124"/><fw rend="italics">Discourse 39.</fw><!-- Page number of the actual manuscript, followed by the header on the page. -->
+                        <pb n="124"/><fw rend="italics">Discourse 39.</fw>
                         <lb/>to the Philosophers alone: The City of Thebes therefore being long <pc>-</pc>
                         <lb/>perplexed with the riddles of <choice><orig>Sphynx</orig><reg>Sphinx</reg></choice> at length came one <choice><orig>Œdipus</orig><reg>Oedipus</reg></choice>, <pc>-</pc>
                         <lb/>who gave such responses to the <choice><orig>quæstions</orig><reg>questions</reg></choice> offered, that <choice><orig>Sphynx</orig><reg>Sphinx</reg></choice> could
@@ -111,7 +111,7 @@
                         <lb/>by <choice><orig>Œdipus</orig><reg>Oedipus</reg></choice> is not <choice><orig>knowne</orig><reg>known</reg></choice>; but some interpret it to the age of man, who
                         <lb/>are deceived: For a Quadrangle or the four Elements of all things are
                         <lb/>first to be considered, from hence <choice><orig>wee</orig><reg>we</reg></choice> come to the hemisphere having
-                        <lb/>two lines one <choice><orig>streight</orig><reg>straight</reg></choice> the other crooked, that is, while Luna, from hence
+                        <lb/>two lines one <choice><orig>streight</orig><reg>straight</reg></choice> the other crooked, that is, white Luna, from hence
                         <lb/>to a Triangle, which consists of body, Spirit, and <choice><orig>Soule</orig><reg>Soul</reg></choice>, or Sol, Luna,
                         <lb/>and Mercury: Hereupon <choice><orig>sayth</orig><reg>says</reg></choice> Rhasis in his Epistle. The Stone is a Tri
                         <lb break="no"/>angle in being, a Quadrangle in quality. Hereto <choice><orig>allso</orig><reg>also</reg></choice> relates the one
