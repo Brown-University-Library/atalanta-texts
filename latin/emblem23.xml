@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.1" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -17,6 +14,7 @@
       </fileDesc>
      <revisionDesc>
         <change when="2018-01-27" who="SJD">Start encoding</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
      </revisionDesc>
   </teiHeader>
    
@@ -24,17 +22,15 @@
   <text>
       <body>
          <div type="emblem" n="e23">
-            <pb n="100"/>
-            <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">100</fw> FUGA XXIII. in 5. seu 12. suprà.
+            <pb n="100" edRef="Maier1618"/>
+            <fw type="pageNum" place="top-left">100</fw><fw type="header" place="top-center">FUGA XXIII. in 5. seu 12. suprà.</fw>
+            
+            <div type="fugue" xml:lang="de">
+               <head>
+
                <lb n="2"/>Es regnet Gold <pc>/</pc> die weil <persName><hi rend="latin">Pallas</hi></persName> wirt geboren <pc>/</pc> zu <placeName>Rhodijs</placeName> <pc>/</pc>
                <lb n="3"/>und die Sonn beij <persName><hi rend="latin">Venere</hi></persName> ligt.
             </head>
-            
-            <div type="fugue">
-               <head>
-                  
-               </head>
                
             </div>
             
@@ -51,18 +47,9 @@
             </div>
             <fw type="catchword">Emble-</fw>
             
-            <pb n="101"/>
+            <pb n="101" edRef="Maier1618"/>
             
-            <div type="image-caption">
-               <head>
-                  <lb n="1"/>Emblema XXIII. De Secretis Natur<hi rend="ligature">ae</hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">101</fw>
-                  <lb n="2"/>Aurum pluit, dum nascitur <persName>Pallas</persName> <placeName>Rhodi</placeName>, <g type="ampersand">et</g> <persName>Sol</persName> concumbit <persName>Veneri</persName>.
-               </head>
-               
-            </div>
-            
-            <figure><graphic url=""></graphic></figure>
-            
+            <fw type="header" place="top-center">Emblema XXIII. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">101</fw><div type="image" xml:lang="la"><head/></div>            
             <div type="epigram" xml:lang="la">
                <head>Epigramma XXIII.</head>
                <lg>
@@ -78,9 +65,9 @@
             <fw type="gathering" place="bottom-right">N</fw> <fw type="catchword" place="bottom-right">Quem-</fw>
             
             <div type="discourse" xml:lang="la">
-               <pb n="102"/>
-               <head><fw type="pageNum" place="top-left">102</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="23">XXIII</num>.</head>
-                  <ab>
+               <pb n="102" edRef="Maier1618"/>
+               <fw type="pageNum" place="top-left">102</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="23">XXIII</num>.</fw>
+                  <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e23-01"/>Aurum aliquando in terras pluisse, nisi allegoric<hi rend="grave">e</hi> intelligere
                      <lb n="2" break="no"/>tur, insania esset, affirmare: Non enim sunt fluvii auriferi aut
                      <lb n="3"/>fodin<hi rend="ligature">ae</hi> minerarum aurearum in nubibus, ut ibi generatum dici
@@ -115,11 +102,11 @@
                      <lb n="32"/>generationi: c<hi rend="grave">u</hi>m parvi soles <hi rend="grave">a</hi> <persName>Venere</persName> concipiuntur: Habet enim
                      <lb n="33"/><persName>Venus</persName> roseum in facie colorem, qiu si semini <persName>Solis</persName> infundatur, sobo
                      <lb break="no"/>
-                  </ab>
+                  </ab></div>
                   <fw type="catchword" place="bottom-right">lem</fw>
-               <pb n="103"/>
-               <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="23">XXIII</num>. <fw type="pageNum" place="top-right">103</fw></head>
-                  <ab>
+               <pb n="103" edRef="Maier1618"/>
+               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="23">XXIII</num>.</fw> <fw type="pageNum" place="top-right">103</fw>
+                  <div type="discourse-p2"><ab>
                      <lb n="1"/>lem hinc natam <placeName>Rhodum</placeName> revera esse oportet: <milestone unit="section" n="e23-14"/>Hic est formosus, ro
                      <lb n="2" break="no"/>sis similis, Philosophorum filius, qui omnium oculos <g type="ampersand">et</g> mentem ad
                      <lb n="3"/>se illici <g type="ampersand">et</g> trahit, amor<hi rend="acute">e</hi>mque meretur, quo nato non mirum est si
@@ -131,7 +118,7 @@
                      <lb n="9"/>matre, referunt, <expan><abbr><hi rend="stroke">q</hi></abbr><ex>uod</ex></expan> apud <placeName><expan><abbr>Triton<hi rend="tilde">e</hi></abbr><ex>m</ex></expan></placeName> <expan><abbr>amn<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> edita sit, <expan><abbr>ide<hi rend="acute">o</hi>q<am>;</am></abbr><ex>ue</ex></expan> <persName>Tritonia</persName> di
                      <lb n="10" break="no"/>cta: <milestone unit="section" n="e23-17"/><expan><abbr>Sapi<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>ti<hi rend="ligature">ae</hi></abbr></expan> pr<hi rend="ligature">ae</hi>fecta Dea fingitur, qu<hi rend="ligature">ae</hi> ex cerebro nata, ubi <expan><abbr>sapi<hi rend="tilde">e</hi></abbr><ex>n</ex>
                      <lb n="11" break="no"/>ti<hi rend="ligature">ae</hi></expan> sedes, <expan><abbr>n<hi rend="tilde">o</hi></abbr><ex>n</ex></expan> immerito dicitur: <milestone unit="section" n="e23-18"/>Hujus <expan><abbr>quoq<am>;</am></abbr><ex>ue</ex></expan> <expan><abbr>natal<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> aurea pluvia de
-                     <lb n="12" break="no"/>coravit <placeName>Rhodi</placeName>, ut in memoria <expan><abbr>homin<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> remaneret, <expan><abbr>qu<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>do</abbr></expan> in <expan><abbr>h<hi rend="tilde">a></hi></abbr><ex>n</ex><abbr>c</abbr></expan> <expan><abbr>lu
+                     <lb n="12" break="no"/>coravit <placeName>Rhodi</placeName>, ut in memoria <expan><abbr>homin<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> remaneret, <expan><abbr>qu<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>do</abbr></expan> in <expan><abbr>h<hi rend="tilde">a&gt;</hi></abbr><ex>n</ex><abbr>c</abbr></expan> <expan><abbr>lu
                      <lb n="13" break="no"/>c<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> venerit. <milestone unit="section" n="e23-19"/>In publico gaudio seu festo, utpote, Regis coronatione
                      <lb n="14"/>vel <expan><abbr>eti<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> regi<hi rend="ligature">ae</hi> h<hi rend="ligature">ae</hi>redis nativitate aurei <expan><abbr>n<hi rend="tilde">u</hi></abbr><ex>m</ex><abbr>mi</abbr></expan> <expan><abbr>aliqu<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>o</abbr></expan> <expan><abbr>projici<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>tur</abbr></expan> in
                      <lb n="15"/>vulgum tanquam aurea pluvia: Sic in <persName>Palladis</persName> exortu eadem con
@@ -145,7 +132,7 @@
                      <lb n="23"/>ipsum, ex quo <persName>Chrysaor</persName> natus est, qui <persName>Geryonis</persName> ante dicti <persName>Tricorpo
                      <lb n="24" break="no"/>ris</persName> pater fuit, hoc est, sanguinem Gorgoneum lapidificantem, qui ni
                      <lb n="25" break="no"/>hil aliud est, qu<hi rend="grave">a</hi>m Tinctura lapidis philosophici.
-                  </ab>
+                  </ab></div>
                <fw type="catchword" place="bottom-right" xml:lang="de">Der</fw>                  
             </div>
             

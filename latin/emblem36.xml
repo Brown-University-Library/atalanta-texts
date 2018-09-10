@@ -1,0 +1,148 @@
+<?xml version="1.1" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+     <revisionDesc>
+        <change when="2018-03-14" who="SJD">Start encoding</change>
+        <change when="2018-03-14" who="SJD">Finish draft</change>
+        <change when="2018-03-15" who="SJD">Capitalization corrections</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
+     </revisionDesc>
+  </teiHeader>
+   
+   
+  <text>
+      <body>
+         <div type="emblem" n="e36">
+            <pb n="152" edRef="Maier1618"/>
+            <fw type="pageNum" place="top-left">152</fw><fw type="header" place="top-center">FUGA <num value="36" type="cardinal">XXXVI</num>. in <num value="7">7</num> infrà.</fw>
+            
+            <div type="fugue" xml:lang="de">
+               <head>
+
+               <lb n="2"/>Dieser Stein ist verworffen auff der Erden <pc>/</pc> und erhoben auff
+               <lb n="3"/>Bergen <pc>/</pc> wohnet in der Lufft <pc>/</pc> und wirt ernehret in Flüssen <pc>/</pc>
+               <lb n="4"/>das ist der <persName type="divinity"><hi rend="latin">Mercurius</hi></persName>.
+            </head>
+               
+            </div>
+            
+            <div type="epigram" xml:lang="de">
+               <head><num value="36" type="cardinal">XXXVI</num>. Epigrammatis Latini versio Germanica.</head>
+               <lg>
+                  <lb n="1"/><l>Man sagt <pc>/</pc> daß der Stein seij ein verworssen Ding und schlecht <pc>/</pc></l>
+                  <lb n="2"/><l>So ligt am Weg <pc>/</pc> daß ihn Reich und Arm könn haben mit Recht <pc>/</pc></l>
+                  <lb n="3"/><l>Es sagen andre <pc>/</pc> daß er seij in hohen Bergen zuschawen <pc>/</pc></l>
+                  <lb n="4"/><l>Oder im Lufft <pc>/</pc> andre <pc>/</pc> daß ersich ernehr in Awen <pc>/</pc></l>
+                  <lb n="5"/><l>Alles ist wahr <pc>/</pc> nach seinem Verstand <pc>/</pc> Ich wil <pc>/</pc> daß du warnemmst</l>
+                  <lb n="6"/><l>Solch Gabe auff Bergen <pc>/</pc> wo er zufinden bequemst.</l>
+               </lg>
+            </div>
+            <fw type="catchword">Emble-</fw>
+            
+            <pb n="153" edRef="Maier1618"/>
+            
+            <fw type="header" place="top-center">Emblema <num value="36" type="cardinal">XXXVI</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">153</fw><div type="image" xml:lang="la"><head/></div>            
+            <div type="epigram" xml:lang="la">
+               <head>Epigramma <num value="36" type="cardinal">XXXVI</num>.</head>
+               <lg>
+                  <lb n="1"/><l>Vile recrementum fertur <hi rend="caps">Lapis</hi> atque jacere</l>
+                  <lb n="2"/><l>Fort<hi rend="grave">e</hi> viis, sibi ut hinc dives in<hi rend="acute">o</hi>psque parent.</l>
+                  <lb n="3"/><l>Montibus in summis alii statu<hi rend="circumflex">e</hi>re, per auras</l>
+                  <lb n="4"/><l>Aëris, at pasci per fluvios alii.</l>
+                  <lb n="5"/><l>Omnia vera suo sunt sensu, postulo sed te</l>
+                  <lb n="6"/><l>Munera montanis qu<hi rend="ligature">ae</hi>rere tanta locis.</l> 
+               </lg>
+            </div>
+            
+            <fw type="gathering" place="bottom-right">V</fw> <fw type="catchword" place="bottom-right">Ab</fw>
+            
+            <div type="discourse" xml:lang="la">
+               <pb n="154" edRef="Maier1618"/>
+               <fw type="pageNum" place="top-left">154</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="36">XXXVI</num>.</fw>
+                  <div type="discourse-p1"><ab>
+                     <lb n="1"/><milestone unit="section" n="e36-01"/>Ab omnibus, qui lapidis nomen <g type="ampersand">et</g> potentiam vel semel audive
+                     <lb n="2" break="no"/>runt, nisi sint ex penit<hi rend="grave">u</hi>s incredulis, qu<hi rend="ligature">ae</hi>ri solet, ubi inveniendus
+                     <lb n="3"/>sit, ut rect<hi rend="circumflex">a</hi> quasi vi<hi rend="circumflex">a</hi> ad eam currant? <milestone unit="section" n="e36-02"/>Respondent Philosophic dupli
+                     <lb n="4" break="no"/>ci modi: Prim<hi rend="grave">o</hi> quod <persName>Adam</persName> eum secum ex Paradiso attulerit, quod
+                     <lb n="5"/>sit in te, in me, in<hi rend="acute">q</hi>ue omni homine, quod volantes eum secum pro
+                     <lb n="6" break="no"/>tent ex longinquis locis. <milestone unit="section" n="e36-03"/>Secund<hi rend="grave">o</hi>, quod in terris, montibus, aëre <g type="ampersand">et</g>
+                     <lb n="7"/>flumine reperiatur. <milestone unit="section" n="e36-04"/>Utri igitur vi<hi rend="ligature">ae</hi> insistendum, an huic, an illi? U
+                     <lb n="8" break="no"/>trique, ut opinor, sed suo respectu; lic<hi rend="grave">e</hi>t h<hi rend="ligature">ae</hi>c nobis magis arrideat <g type="ampersand">et</g>
+                     <lb n="9"/>securior videatur. <milestone unit="section" n="e36-05"/>In terras projectus dicitur, quia elementum terr<hi rend="ligature">ae</hi>
+                     <lb n="10"/>prim<hi rend="grave">o</hi> apparet in obscuro <g type="ampersand">et</g> nigro corpore. Deinde, quia vilis, parvi
+                     <lb n="11"/>precii res sit, qu<hi rend="ligature">ae</hi> in viis peregrinantium <g type="ampersand">et</g> in ipso fim calcatur.
+                     <lb n="12"/><milestone unit="section" n="e36-06"/>Unde <title ref="http://viaf.org/viaf/191597728">Rosarius</title>, <g type="ampersand">et</g> si vero, inquit, nomine nuncuparem, insipientes
+                     <lb n="13"/>eum esse non crederent. <milestone unit="section" n="e36-07"/>Et <persName ref="https://viaf.org/viaf/12734759">Morienus</persName> <persName>Calidi</persName> qu<hi rend="ligature">ae</hi>renti, an mult<hi rend="grave">u</hi>m
+                     <lb n="14"/>de eo inveniatur, respondet: <quote>Non est hoc nisi, sicut sapiens dicit, ad
+                        <lb n="15"/>divitem scilicet <g type="ampersand">et</g> pauperem, <g type="ampersand">et</g> ad largum <g type="ampersand">et</g> ad avarum, euntem
+                        <lb n="16"/>quoque <g type="ampersand">et</g> sedentem. Nam hoc in viis projicitur, <g type="ampersand">et</g> in sterquiliniis
+                        <lb n="17"/>suis calcatur, <g type="ampersand">et</g> multi jam in sterquiliniis foderunt, ut hoc ab eis ex
+                        <lb n="18" break="no"/>traherent, <g type="ampersand">et</g> in hoc decepti sunt.</quote> <milestone unit="section" n="e36-08"/><persName>Mundus</persName> quoque in <title ref="http://viaf.org/viaf/317093189">turba</title> inquit, <quote>si
+                        <lb n="19"/>venditores cognoscerent eam, non venderent eam tam vili precio.</quote>
+                     <lb n="20"/><milestone unit="section" n="e36-09"/>Et <persName ref="http://viaf.org/viaf/100189814">Arnoldus</persName> asserit, quod lapis gratis haberi possit, in tanta copia,
+                     <lb n="21"/>qua quis velit, nec interrogandus quispiam sit eam ob causam. <milestone unit="section" n="36-10"/>Qu<hi rend="ligature">ae</hi>
+                     <lb n="22"/>omnia vera sunt. Quis enim, nisi inhumanus, petenti aquam <g type="ampersand">et</g> <expan><abbr>terr<hi rend="tilde">a</hi></abbr><ex>m</ex></expan>
+                     <lb n="23"/>denegabit? <milestone unit="section" n="e36-11"/><orgName>Cymbri</orgName> antiquissimi <hi rend="grave">a</hi> <orgName>Romanis</orgName> c<hi rend="grave">u</hi>m eadem munera
+                     <lb n="24"/>petiissent, nec obtinere possent, effusis copiis <placeName>Italiam</placeName> ingressi multa
+                     <lb n="25"/>milia <orgName>Romanorum</orgName> cum Consulibus sui trucid<hi rend="circumflex">a</hi>runt, ut <expan><abbr>histori</abbr><ex>a</ex><abbr><hi rend="hook">e</hi></abbr></expan> te
+                     <lb n="26" break="no"/>stantur. <milestone unit="section" n="e36-12"/>Terra enim, ut mater omnium preciosissima est, ut materia
+                     <lb n="27"/><expan><abbr>putrefactor<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> ultima, vilissima; Nil vilius luto aut c<hi rend="ligature">oe</hi>no, quod tamen
+                     <lb n="28"/>nihil aliud est, qu<hi rend="grave">a</hi>m terra aqu<hi rend="ligature">ae</hi> mixta. Quid gleba terr<hi rend="ligature">ae</hi> commu
+                     <lb n="29" break="no"/>nis? <milestone unit="section" n="e36-13"/>Attamen <persName>Euripylus</persName> <persName type="divinity">Neptuni</persName> filius eam Heroibus Argonautis
+                     <lb n="30"/>pro xenio obtulit, ex qu<hi rend="circumflex">a</hi> non recusat<hi rend="circumflex">a</hi>, sed grato animo accept<hi rend="circumflex">a</hi>, post
+                     <lb n="31"/>dissoluta in aqua <persName>Medea</persName> multa vaticinata est. Oportet enim <expan><abbr>terr<hi rend="circumflex">a</hi></abbr><ex>m</ex></expan>
+                     <lb n="32"/>in aqua dissolvi, ali<hi rend="grave">a</hi>s nec h<hi rend="ligature">ae</hi>c, nec illa quicquam valet: <milestone unit="section" n="e36-14"/>Hoc modo
+                     <lb n="33"/>lapis projicitur in terras, in quibus tamen abjectus non permanet,
+                  </ab></div>
+                  <fw type="catchword" place="bottom-right">sed</fw>
+               <pb n="155" edRef="Maier1618"/>
+               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="36">XXXVI</num>.</fw> <fw type="pageNum" place="top-right">155</fw>
+                  <div type="discourse-p2"><ab>
+                     <lb n="1"/>sed exaltatur ad montes, utpote <placeName>Athum</placeName>, <placeName>Vesuvius</placeName>, <placeName><hi rend="ligature">Ae</hi>thnam</placeName>, <g type="ampersand">et</g>
+                     <lb n="2"/>his similes flammivomos, quales in diversis orbis partibus permulti
+                     <lb n="3"/>visuntur. <milestone unit="section" n="e36-15"/>In his enim ignis perpetuus ardet, qui lapidem sublimat, <g type="ampersand">et</g>
+                     <lb n="4"/>ad summam dignitatem evehit. In montibus, ut crescit, in rudi for
+                     <lb n="5" break="no"/>ma ex sulfure <g type="ampersand">et</g> argento vivo, sic in montium vertice maturatur <g type="ampersand">et</g>
+                     <lb n="6"/>perficitur, ubi <g type="ampersand">et</g> provenit herba, sine qua ignis temperari nequit;
+                     <lb n="7"/>quia hac frigid<hi rend="circumflex">a</hi> <g type="ampersand">et</g> humid<hi rend="circumflex">a</hi> in ignem conject<hi rend="circumflex">a</hi> ejus vehementia re
+                     <lb n="8" break="no"/>tunditur per sui contrarium: <milestone unit="section" n="e36-16"/>A montibus ad aërem transit, ubi ha
+                     <lb n="9" break="no"/>bitationem invenit. Aër enim ipsi domus fit, qu<hi rend="circumflex">a</hi> circumdatur, quod
+                     <lb n="10"/>nihil aliud est, qu<hi rend="grave">a</hi>m quod portetur in ventre venti, nascatur in aëre,
+                     <lb n="11"/>de quibus terminis antea dictum est. <milestone unit="section" n="e36-17"/>Tandem in fluviis pascitur, hoc
+                     <lb n="12"/>est, in aquis, <persName type="divinity">Mercurius</persName>: Inde in ejus honorem <orgName>Athenienses</orgName> hydro
+                     <lb n="13" break="no"/>phoria agebant, quia materia Philosophorum lapidis est aqua, ut
+                     <lb n="14"/><title ref="http://viaf.org/viaf/191597728">Rosarius</title> inquit, <g type="ampersand">et</g> intelligitur de aqua illorum trium. <milestone unit="section" n="e36-18"/>Quam ob cau
+                     <lb n="15" break="no"/>sam <persName type="divinity">Mercurius</persName> triceps quoque dicebatur, utpote marinus, c<hi rend="ligature">oe</hi>lestis
+                     <lb n="16"/><g type="ampersand">et</g> terrestris, quia aqu<hi rend="ligature">ae</hi>, terr<hi rend="ligature">ae</hi> <g type="ampersand">et</g> aëri adesset. <milestone unit="section" n="e36-19"/>A <persName type="divinity">Vulcano</persName> educatus
+                     <lb n="17"/>traditur, furacitate insignis, quia <persName type="divinity">Mercurius</persName> igni assuefieri docetur,
+                     <lb n="18"/>qui volatilis est, <g type="ampersand">et</g> secum aufert id, cui miscetur. <milestone unit="section" n="e36-20"/><orgName><hi rend="ligature">Ae</hi>gyptiis</orgName> leges <g type="ampersand">et</g>
+                     <lb n="19"/>disciplinam, im<hi rend="grave">o</hi> <orgName>Thebanis</orgName> quoque sacerdotibus <g type="ampersand">et</g> magn<hi rend="ligature">ae</hi> mundi
+                     <lb n="20"/>parti, antiquitus, religionem dictavit, quia <hi rend="grave">a</hi> chymicis institutis <orgName><hi rend="ligature">Ae</hi>
+                     <lb n="21" break="no"/>gyptii</orgName> politiam, <g type="ampersand">et</g> res sacras habuerunt, ab his <orgName>Gr<hi rend="ligature">ae</hi>ci</orgName>, ab his <orgName>Roma
+                     <lb n="22" break="no"/>ni</orgName>, ab illis qu<hi rend="grave">a</hi>mplurim<hi rend="ligature">ae</hi> ali<hi rend="ligature">ae</hi> gentes, ut lati<hi rend="grave">u</hi>s alibi demonstratum
+                     <lb n="23"/>est. <milestone unit="section" n="e36-21"/><persName>Argum</persName> saxo occ<hi rend="circumflex">i</hi>dit, seu lapide <g type="ampersand">et</g> <persName>Battum</persName> in lapidem indicem
+                     <lb n="24"/>convertit. Quid multis? Chymicorum volumina omnia nil nisi
+                     <lb n="25"/><persName type="divinity">Mercurium</persName> inculcant, uno<hi rend="acute">q</hi>ue hoc versiculo ejus potentiam satis
+                     <lb n="26"/>confirmant; Es in <persName type="divinity">Mercurio</persName> quicquid qu<hi rend="ligature">ae</hi>runt sapientes. <milestone unit="section" n="e36-22"/>Hic <expan><abbr>itaq<am>;</am></abbr><ex>ue</ex></expan>
+                     <lb n="27"/>qu<hi rend="ligature">ae</hi>rendus erit, donec inveniatur, sive in aëre, igne, aquis aut terra
+                     <lb n="28"/>moretur. Vagus enim est <g type="ampersand">et</g> nunc huc, nunc illuc currens pro Deo
+                     <lb n="29" break="no"/>rum chymicorum ministerio, tanquam illis <hi rend="grave">a</hi> pedibus, quod offi
+                     <lb n="30" break="no"/>cium ejus indicatur, dum Angeliam ipsi filiam nonnulli asscribant.
+                  </ab></div>
+               <fw type="gathering" place="bottom-right">U ii</fw> <fw type="catchword" place="bottom-right" xml:lang="de">Dreij</fw>                  
+            </div>            
+         </div>
+      </body>
+  </text>
+</TEI>

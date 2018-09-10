@@ -24,6 +24,7 @@
                 
                 
                 <div type="title" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="041"/>
                     <head>
                         <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 8. Of the Secrets of Nature.
                         <lb/>Take an <choice><orig>egge</orig><reg>egg</reg></choice> and smite it with a fiery sword.</seg>
@@ -47,6 +48,7 @@
                 
                 <pb n="30"/> 
                 <div type="discourse" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="042"/>
                     <head rend="italics">Discourse 8.</head>
                     <ab> 
                         <lb/><milestone unit="section" n="e08-01"/>Many and <choice><orig>severall</orig><reg>several</reg></choice> sorts of birds there are, which as they are indefinite in number, <choice><orig>soe</orig><reg>so</reg></choice> 
@@ -82,7 +84,7 @@
                         <lb/>alone <choice><orig>hee</orig><reg>he</reg></choice> enjoyed in his mothers <choice><orig>wombe</orig><reg>womb</reg></choice>, another more perfect is obtained by
                         <lb/>coming into the light of this world, as by nativity: <milestone unit="section" n="e08-14"/>yea <choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>wee</orig><reg>we</reg></choice> being de
                         <lb break="no"/>prived of this present life, which <choice><orig>wee</orig><reg>we</reg></choice> lead, another most perfect and <choice><orig>æter
-                        <lb break="no"/>nall</orig><reg>eternal</reg></choice> is at hand: Thus Lully <choice><orig>doth</orig><reg>does</reg></choice> in many places call this fiery sword a <pc>-</pc>
+                            <lb break="no"/>nall</orig><reg>eternal</reg></choice> is at hand: <milestone unit="page" ed="Meier" n="043"/>Thus Lully <choice><orig>doth</orig><reg>does</reg></choice> in many places call this fiery sword a <pc>-</pc>
                         <lb/>Sharp Spear; <milestone unit="section" n="e08-15"/>because fire <choice><orig>doth</orig><reg>does</reg></choice> as a Sharp Spear or sword perforate <choice><orig>bodyes</orig><reg>bodies</reg></choice>, <pc>-</pc>
                         <lb/>and make them porous and pervious, that water can penetrate to dissolve
                         <lb/>and reduce them from <choice><orig>hardnesse</orig><reg>hardness</reg></choice> to <choice><orig>softnesse</orig><reg>softness</reg></choice> and tractability. <milestone unit="section" n="e08-16"/>In the

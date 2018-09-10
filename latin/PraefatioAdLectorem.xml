@@ -20,61 +20,155 @@
       <body>
          <div type="page" n="6">
             <fw type="pageNum" place="top-cent">6</fw>
-            <p>
-               <title><hi rend="large">Pr<hi rend="ligature">ae</hi>fatio ad Le<hi rend="ligature">ct</hi>orem.</hi></title>
-               <lb n="1"/><hi rend="large Lu">H</hi><hi rend="Lu">ominem</hi>, le<hi rend="ligature">ct</hi>orem candide, universi compendium
-               <lb n="2"/>sui compositione referre, in confesso e<hi rend="ligature">st</hi> omnium,
+            <ab>
+               <title><hi rend="large">Pr<hi rend="ligature">ae</hi>fatio ad Lectorem.</hi></title>
+               <lb n="1"/><milestone unit="section" n="pr-01"/><hi rend="caps">H</hi><hi rend="caps">ominem</hi>, lectorem candide, universi compendium
+               <lb n="2"/>sui compositione referre, in confesso est omnium,
                <lb n="3"/><g ref="ampersand">et</g> ternis vite generibus vivendis destinatum es
                <lb n="4" break="no"/>se, nempe vegetabili in utero materno, ubi sal
                <lb n="5" break="no"/>tem plant<hi rend="ligature">ae</hi> instar crescit <g ref="ampersand">et</g> augmentatur; sensi
                <lb n="6" break="no"/>bili, nimirum in hoc mundo, ubi maxima ex parte sensibus ducitur,
-               <lb n="7"/>ceu reliqua animalia, <hi rend="grave">a</hi> quibus differt, quod intelle<hi rend="ligature">ct</hi>u incipiat
-               <lb n="8"/>uti, licet imperfe<hi rend="ligature">ct</hi><hi rend="grave">e</hi>; ac denique intelligibili, in altero mundo apud
-               <lb n="9"/>Deum, ei<hi rend="apex">q</hi>ue assistentes intelligentias seu Angelos bonos; In pr<hi rend="ligature">ae</hi>
+               <lb n="7"/>ceu reliqua animalia, <hi rend="grave">a</hi> quibus differt, quod intellectu incipiat
+               <lb n="8"/>uti, licet imperfect<hi rend="grave">e</hi>; ac denique intelligibili, in altero mundo apud
+               <lb n="9"/>Deum, ei<hi rend="apex">q</hi>ue assistentes intelligentias seu Angelos bonos; <milestone unit="section" n="pr-02"/>/>In pr<hi rend="ligature">ae</hi>
                <lb n="10" break="no"/>senti vit<hi rend="circumflex">a</hi>, qu<hi rend="grave">o</hi> quis magis ad divinam naturam accedit, e<hi rend="grave">o</hi> magis
-               <lb n="11"/>rebus intelle<hi rend="ligature">ct</hi>u indagandis, subtilibus, miris <g ref="ampersand">et</g> raris, gaudet <g ref="ampersand">et</g> 
-               <lb n="12"/>dele<hi rend="ligature">ct</hi>atur: Et econtr<hi rend="grave">a</hi>, qu<hi rend="grave">o</hi> quis ad <expan><abbr>pecuinu</abbr><ex>m</ex></expan> genus magis declinat,
-               <lb n="13"/>e<hi rend="grave">o</hi> min<hi rend="grave">us</hi> his capitur, <g ref="ampersand">et</g> sensui corporaliori astri<hi rend="ligature">ct</hi>us e<hi rend="ligature">st</hi>: Utro
-               <lb n="14" break="no"/>rumque videmus Exempla, quosdam illis, utpote do<hi rend="ligature">ct</hi>iores, artibus
+               <lb n="11"/>rebus intellectu indagandis, subtilibus, miris <g ref="ampersand">et</g> raris, gaudet <g ref="ampersand">et</g> 
+               <lb n="12"/>delectatur: Et econtr<hi rend="grave">a</hi>, qu<hi rend="grave">o</hi> quis ad <expan><abbr>pecuin<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> genus magis declinat,
+               <lb n="13"/>e<hi rend="grave">o</hi> min<hi rend="grave">us</hi> his capitur, <g ref="ampersand">et</g> sensui corporaliori astrictus est: <milestone unit="section" n="pr-03"/>Utro
+               <lb n="14" break="no"/>rumque videmus Exempla, quosdam illis, utpote doctiores, artibus
                <lb n="15"/><g ref="ampersand">et</g> scientiis politos esse deditos, qu<hi rend="grave">a</hi>mplurimos hisce, nempe volu
                <lb n="16" break="no"/>ptatibus corporis, libidini, gul<hi rend="ligature">ae</hi>, pomp<hi rend="ligature">ae</hi> extern<hi rend="ligature">ae</hi>, <g ref="ampersand">et</g> his similibus.
-               <lb n="17"/>Ad excolendum autem intelle<hi rend="ligature">ct</hi>um Deus infinita arcana abdidit
+               <lb n="17"/><milestone unit="section" n="pr-04"/>Ad excolendum autem intellectum Deus infinita arcana abdidit
                <lb n="18"/>in natura, qu<hi rend="ligature">ae</hi> scientiis <g ref="ampersand">et</g> artibus innumeris, ut ignis ex silice ex
-               <lb n="19" break="no"/>tunduntur, <g ref="ampersand">et</g> in usum transferuntur: Inter h<hi rend="ligature">ae</hi>c sunt Chymica
-            </p>
-            <fw type="catch" place="bot-right">secret</fw>
+               <lb n="19" break="no"/>tunduntur, <g ref="ampersand">et</g> in usum transferuntur: <milestone unit="section" n="pr-05"/>/>Inter h<hi rend="ligature">ae</hi>c sunt Chymica
+            </ab>
+            <fw type="catchword" place="bottom-right">secre-</fw>
          </div>
          <div type="page" n="7">
             <fw type="title" place="top-cent">AD LECTOREM.</fw>
             <fw type="pageNum" place="top-right">7</fw>
-            <p>
-               <lb n="1"/>secreta non po<hi rend="ligature">st</hi>rema, sed po<hi rend="ligature">st</hi> divinorum indagationem, omnium
+            <ab>
+               <lb n="1"/>secreta non postrema, sed post divinorum indagationem, omnium
                <lb n="2"/>prima <g ref="ampersand">et</g> preciosissima, non circumforaneis deceptoribus <g ref="ampersand">et</g> fucis
                <lb n="3"/>pseudo-chymicis (qui in his sunt asini ad lyram, quippe ad omni bo
-               <lb n="4" break="no"/>na do<hi rend="ligature">ct</hi>rina <g ref="ampersand">et</g> intentione alienissimi) sed ingeniis altioribus, libe
+               <lb n="4" break="no"/>na doctrina <g ref="ampersand">et</g> intentione alienissimi) sed ingeniis altioribus, libe
                <lb n="5" break="no"/>raliter educatis, <g ref="ampersand">et</g> ad <choice><corr>majora natis</corr><sic>majoranatis</sic></choice> investiganda, c<hi rend="grave">u</hi>m sint val
-               <lb n="6" break="no"/>d<hi rend="grave">e</hi> subtilia, augu<hi rend="ligature">st</hi>a, sacra, rara <g ref="ampersand">et</g> ab<hi rend="ligature">st</hi>rusa, ideo<hi rend="apex">q</hi>ue intelle<hi rend="ligature">ct</hi>u
+               <lb n="6" break="no"/>d<hi rend="grave">e</hi> subtilia, augusta, sacra, rara <g ref="ampersand">et</g> abstrusa, ideo<hi rend="apex">q</hi>ue intellectu
                <lb n="7"/>comprehendenda pri<hi rend="grave">u</hi>s, qu<hi rend="grave">a</hi>m sensu, poti<hi rend="grave">u</hi>s per contemplationem
-               <lb n="8"/>profundam ex le<hi rend="ligature">ct</hi>ione authorum, eorum<hi rend="apex">q</hi>ue inter se <g ref="ampersand">et</g> cum natu
+               <lb n="8"/>profundam ex lectione authorum, eorum<hi rend="apex">q</hi>ue inter se <g ref="ampersand">et</g> cum natu
                <lb n="9" break="no"/>r<hi rend="ligature">ae</hi> operibus comparationem, qu<hi rend="grave">a</hi>m operationem sensitivam, seu
-               <lb n="10"/>manualem experimentationem, qu<hi rend="ligature">ae</hi> c<hi rend="ligature">oe</hi>ca e<hi rend="ligature">st</hi> fine Theorica pr<hi rend="ligature">ae</hi>
-               <lb n="11" break="no"/>via: Po<hi rend="ligature">st</hi> scientias huiusmodi intelle<hi rend="ligature">ct</hi>uales proxim<hi rend="grave">e</hi> numerantur,
-               <lb n="12"/><expan><abbr>qu</abbr><ex>a</ex><abbr>e</abbr></expan> de visibili ac audibili obje<hi rend="ligature">ct</hi>o tra<hi rend="ligature">ct</hi>ant, ut sun Optica seu per
-               <lb n="13" break="no"/><hi rend="ligature">sp</hi>e<hi rend="ligature">ct</hi>iva, <g ref="ampersand">et</g> pi<hi rend="ligature">ct</hi>ura loquens, nec non Musica sive vocalis
-               <lb n="14"/>seu organica: In hac antiqui Philosophi ade<hi rend="grave">o</hi> se exercuerunt, ut in
-               <lb n="15" break="no"/>do<hi rend="ligature">ct</hi>us haberetur, <g ref="ampersand">et</g> ad <expan><abbr>myrtu</abbr><ex>m</ex></expan> canere cogeretur, qui <expan><abbr>lyra</abbr><ex>m</ex></expan> recusasset
-               <lb n="16"/>in conviviis, ut de <persName>Themistocle</persName> traditur: In Musica <persName>Socrates</persName>
-               <lb n="17"/>in<hi rend="ligature">st</hi>itutus <g ref="ampersand">et</g> ipse <persName>Plato</persName>, qui non harmonic<hi rend="grave">e</hi> <expan><abbr>compositu</abbr><ex>um</ex></expan> eum <hi rend="ligature">st></hi>atuit,
-               <lb n="18"/>qui harmonia Musicali non gaudeat: In e<hi rend="circumflex">a</hi>dem <persName>Pythagoras</persName> per
-               <lb n="19" break="no"/>celeris fuit, qui man<hi rend="grave">e</hi> <g ref="ampersand">et</g> ve<hi rend="ligature">sp</hi>eri music<hi rend="ligature">ae</hi> symphonia ad compo
-               <lb n="20" break="no"/>nendos suorum discipulorum animos usus dicitur: E<hi rend="ligature">st</hi> enim Mu
-               <lb n="21" break="no"/>sic<hi rend="ligature">ae</hi> h<hi rend="ligature">ae</hi>c peculiaris vis, ut affe<hi rend="ligature">ct</hi>us excitet vel mulceat, pro diver
-               <lb n="22" break="no"/>so Musical modo: Sic Phrygius Modus apud Gr<hi rend="ligature">ae</hi>cos diceba
+               <lb n="10"/>manualem experimentationem, qu<hi rend="ligature">ae</hi> c<hi rend="ligature">oe</hi>ca est fine Theorica pr<hi rend="ligature">ae</hi>
+               <lb n="11" break="no"/>via: <milestone unit="section" n="pr-06"/>Post scientias huiusmodi intellectuales proxim<hi rend="grave">e</hi> numerantur,
+               <lb n="12"/><expan><abbr>qu</abbr><ex>a</ex><abbr>e</abbr></expan> de visibili ac audibili objecto tractant, ut sun Optica seu per
+               <lb n="13" break="no"/><hi rend="ligature">sp</hi>ectiva, <g ref="ampersand">et</g> pictura loquens, nec non Musica sive vocalis
+               <lb n="14"/>seu organica: <milestone unit="section" n="pr-07"/>In hac antiqui Philosophi ade<hi rend="grave">o</hi> se exercuerunt, ut in
+               <lb n="15" break="no"/>doctus haberetur, <g ref="ampersand">et</g> ad <expan><abbr>myrtu</abbr><ex>m</ex></expan> canere cogeretur, qui <expan><abbr>lyra</abbr><ex>m</ex></expan> recusasset
+               <lb n="16"/>in conviviis, ut de <persName ref="http://viaf.org/viaf/8180547"><hi rend="latin">Themistocle</hi></persName> traditur: <milestone unit="section" n="pr-08"/>In Musica <persName ref="http://viaf.org/viaf/88039167"><hi rend="latin">Socrates</hi></persName>
+               <lb n="17"/>institutus <g ref="ampersand">et</g> ipse <persName ref="http://viaf.org/viaf/108159964"><hi rend="latin">Plato</hi></persName>, qui non harmonic<hi rend="grave">e</hi> <expan><abbr>composit<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> eum statuit,
+               <lb n="18"/>qui harmonia Musicali non gaudeat: <milestone unit="section" n="pr-09"/>In e<hi rend="circumflex">a</hi>dem <persName ref="http://viaf.org/viaf/162237897"><hi rend="latin">Pythagoras</hi></persName> per
+               <lb n="19" break="no"/>celebris fuit, qui man<hi rend="grave">e</hi> <g ref="ampersand">et</g> vesperi music<hi rend="ligature">ae</hi> symphonia ad compo
+               <lb n="20" break="no"/>nendos suorum discipulorum animos usus dicitur: <milestone unit="section" n="pr-10"/>Est enim Mu
+               <lb n="21" break="no"/>sic<hi rend="ligature">ae</hi> h<hi rend="ligature">ae</hi>c peculiaris vis, ut affectus excitet vel mulceat, pro diver
+               <lb n="22" break="no"/>so Musicali modo: <milestone unit="section" n="pr-11"/>Sic <orgName><hi rend="latin">Phrygius</hi></orgName> Modus apud <orgName><hi rend="latin">Gr<hi rend="ligature">ae</hi>cos</hi></orgName> diceba
                <lb n="23" break="no"/>tur bellicosus propterea, quod in bello <g ref="ampersand">et</g> in pr<hi rend="ligature">ae</hi>lio ineundo accinere
                <lb n="24" break="no"/>tur, <g ref="ampersand">et</g> singularem vim haberet ad animos militum concitandos;
-               <lb n="25"/>cuius vice ad eundem usum nunc adhibetur Ionicus, qui olim
-            </p>
-            <fw type="catch" place="bot-right">ama</fw>
+               <lb n="25"/>cuius vice ad eundem usum nunc adhibetur <orgName><hi rend="latin">Ionicus</hi></orgName>, qui olim
+            </ab>
+            <fw type="catchword" place="bottom-right">ama-</fw>            
+         </div>
+         <div type="page" n="8">
+            <fw type="title" place="top-cent">PR<hi rend="ligature">AE</hi>FATIO</fw>
+            <fw type="pageNum" place="top-left">8</fw>
+            <ab>
+               <lb n="1"/>amatorius <hi rend="ligature">ae</hi>stimatus fuit (qualis nunc habetur <orgName><hi rend="latin">Phrygius</hi></orgName>) unde
+               <lb n="2"/>modos inter se mutatos conjicimus: <milestone unit="section" n="pr-12"/><orgName><hi rend="latin">Phrygio</hi></orgName> <persName ref="http://viaf.org/viaf/262405895"><hi rend="latin">Timotheum</hi>
+                  <lb n="3"/><orgName><hi rend="latin">Milesium</hi></orgName></persName> usum tradunt ad <persName ref="http://viaf.org/viaf/101353608">Alexandrum Magnum</persName> in rebus bel
+               <lb n="4" break="no"/>licis alacriorem <g ref="ampersand">et</g> animosiorem reddendum, cujus <persName ref="http://viaf.org/viaf/78769600">Cicero</persName> meminit
+               <lb n="5"/><num value="2" type="ordinal">2</num>. <title ref="http://viaf.org/viaf/239620679">de <expan><abbr>legib</abbr><ex>us</ex></expan></title>. <milestone unit="section" n="pr-13"/><persName ref="http://viaf.org/viaf/281232934"><hi rend="latin">Terpandrum</hi></persName> ver<hi rend="grave">o</hi> <hi rend="latin">Lesbium</hi> <hi rend="latin">Ionico</hi>; qui accersi
+               <lb n="6" break="no"/>tus <hi rend="grave">a</hi> <orgName>Laced<hi rend="ligature">ae</hi>moniis</orgName>, seditionibus inter se tumultuantibus suavi
+               <lb n="7" break="no"/>tate cantus eorum animos ade<hi rend="grave">o</hi> delinivit, ut redirent in amici
+               <lb n="8" break="no"/>citiam <g ref="ampersand">et</g> <hi rend="grave">a</hi> seditione desisterent: Unde <hi rend="latin">Lesbii</hi> cantores primas
+               <lb n="9"/>semper meruerunt <orgName>Spartanorum</orgName> judicio: <milestone unit="section" n="pr-14"/>De Musica sic <persName>Fabius</persName><!-- Bathbiss?-->,
+               <lb n="10"/><quote>Musica</quote>, inquit, <quote>est honestum <g ref="ampersand">et</g> jucundum oblectamentum libe
+               <lb n="11" break="no"/>ralibus ingeniis maxim<hi rend="grave">e</hi> dignum:</quote> <milestone unit="section" n="pr-15"/>H<hi rend="ligature">ae</hi>c tria itaque sensuum magis
+               <lb n="12"/>spiritualium, nempe visus <g ref="ampersand">et</g> auditus, nec non intellectus ipsius
+               <lb n="13"/>objecta, ut in uno quasi conspectu <g ref="ampersand">et</g> complexu haberemus, <g ref="ampersand">et</g> ma
+               <lb n="14" break="no"/>gis <expan><abbr>intelligend<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> animis simul <g ref="ampersand">et</g> semel insinuaremus, En conju
+               <lb n="15" break="no"/>ximus Opticam cum Musica <g ref="ampersand">et</g> sensum cum intellectu, hoc est, ra
+               <lb n="16" break="no"/>ra visu <g ref="ampersand">et</g> auditu cum chymicis emblematibus, qu<hi rend="ligature">ae</hi> huic scienti<hi rend="ligature">ae</hi>
+               <lb n="17"/>sunt propria. <milestone unit="section" n="pr-16"/>C<hi rend="ligature">ae</hi>ter<hi rend="ligature">ae</hi> enim artes, si emblemata edant de moribus,
+               <lb n="18"/>aur rebus aliis, qu<hi rend="grave">a</hi>m de natur<hi rend="ligature">ae</hi> arcanis, alienum hoc videtur ab
+               <lb n="19"/>eorum scopo <g ref="ampersand">et</g> fine, c<hi rend="grave">u</hi>m intelligi omnibus velint <g ref="ampersand">et</g> debeant;
+               <lb n="20"/><milestone unit="section" n="pr-17"/>Chemia <expan><abbr>n<hi rend="tilde">o</hi></abbr><ex>n</ex></expan> <expan><abbr>it<hi rend="tilde">e</hi></abbr><ex>m</ex></expan>, qu<hi rend="ligature">ae</hi> ut casta virgo per transennam, <g ref="ampersand">et</g> veluti <persName>Dia
+               <lb n="21" break="no"/>na</persName>, non <expan><abbr>absq<am>;</am></abbr><ex>ue</ex></expan> veste variati coloris visenda est, propter causas alibi
+               <lb n="22"/>expressas: <milestone unit="section" n="pr-18"/>Quatuor, inquam, h<hi rend="ligature">ae</hi>c, ficta, poëtica <g ref="ampersand">et</g> allegorica, picta,
+               <lb n="23"/>Emblematica, Veneri sive cupro, non sine Venere sue gratia, incisa,
+               <lb n="24"/>Chymica secretissima, intellectu indaganda <g ref="ampersand">et</g> denique Musicalia
+               <lb n="25"/>rariora, simul <g ref="ampersand">et</g> semel uno libro suscipias in<hi rend="acute">q</hi>ue tuum usum dicata
+               <lb n="26"/>adhibeas, qui si poti<hi rend="grave">u</hi>s intellectualis fuerit, qu<hi rend="grave">a</hi>m sensualis, e<hi rend="grave">o</hi> uti
+               <lb break="no"/>
+            </ab>
+            <fw type="catchword" place="bottom-right">lior</fw>            
+         </div>
+         <div type="page" n="9">
+            <fw type="title" place="top-cent">AD LECTOREM.</fw>
+            <fw type="pageNum" place="top-right">9</fw>
+            <ab>
+               <lb n="1"/>lior <g ref="ampersand">et</g> jucundior olim futurus est: <milestone unit="section" n="pr-19"/>quod si ver<hi rend="grave">o</hi> primum sensui man
+               <lb n="2" break="no"/>cipatus, nullum est dubium quin <hi rend="grave">a</hi> sensu ad intellectum transitus
+               <lb n="3"/>fiet, tanquam per ostium: <milestone unit="section" n="pr-20"/>Nihil enim in intellectu esse dicitur, quod
+               <lb n="4"/>non per sensum aliquem introiverit, c<hi rend="grave">u</hi>m hominis recens nati in
+               <lb n="5" break="no"/>tellectus instar tabul<hi rend="ligature">ae</hi> ras<hi rend="ligature">ae</hi> habeatur, in qua nihil adhuc scriptum,
+               <lb n="6"/>sed quod libet sensu mediante, tanquam stylo, scribi possit: <milestone unit="section" n="pr-21"/>Et vulgo
+               <lb n="7"/>dicitur; Ignoti nulla cupido, quia oportet, ut intellectui, veluti dicta
+               <lb n="8" break="no"/>tori <g ref="ampersand">et</g> arbitro, sensus indagatores <g ref="ampersand">et</g> nuncii, omne scibile primitus
+               <lb n="9"/>apportent <g ref="ampersand">et</g> innotescere faciant, <expan><abbr>tanqu<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> Excubitores ad (sua or
+               <lb n="10" break="no"/>gana) civitatis alicujus portas <expan><abbr>invigil<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>tes</abbr></expan>. <milestone unit="section" n="pr-22"/>De ratione inscriptionis
+               <lb n="11"/>horum <expan><abbr>emblemat<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>, ne <g ref="ampersand">et</g> h<hi rend="ligature">ae</hi>c tibi monstrosa videatur <g ref="ampersand">et</g> absona,
+               <lb n="12"/>pauca adjiciam: <milestone unit="section" n="pr-23"/><persName><hi rend="latin">Atalanta</hi></persName> Poëtis celebrata est propter fugam,
+               <lb n="13"/>qu<hi rend="circumflex">a</hi> omnes procos in certamine antevertit, ide<hi rend="acute">o</hi>que ipsis victis pro
+               <lb n="14"/>virgine, pr<hi rend="ligature">ae</hi>mio victori<hi rend="ligature">ae</hi> proposito, mors obtigit, donec ab <persName><hi rend="latin">Hippo
+                  <lb n="15" break="no"/>mene</hi></persName>, juvene audaciore <g ref="ampersand">et</g> provido, superata <g ref="ampersand">et</g> obtenta sit trium
+               <lb n="16"/>malorum aureorum per vices inter currendum objectu, qu<hi rend="ligature">ae</hi> dum
+               <lb n="17"/>illa tolleret, pr<hi rend="ligature">ae</hi>venta est ab eo, metam jam attingente: <milestone unit="section" n="pr-24"/>H<hi rend="ligature">ae</hi>c <persName><hi rend="latin">Ata
+                  <lb n="18" break="no"/>lanta</hi></persName> ut fugit, sic una vox Musicalis semper fugit ante aliam <g ref="ampersand">et</g>
+               <lb n="19"/>altera insequitur, ut <persName><hi rend="latin">Hippomenes</hi></persName>: <milestone unit="section" n="pr-25"/>In tertia tamen stabiliun
+               <lb n="20" break="no"/>tur <g ref="ampersand">et</g> firmantur, qu<hi rend="ligature">ae</hi> simplex est <g ref="ampersand">et</g> unius valoris, tanquam
+               <lb n="21"/>malo aureo: <milestone unit="section" n="pr-26"/>H<hi rend="ligature">ae</hi>c eadem virgo mer<hi rend="grave">e</hi> Chymica est, nempe Mercu
+               <lb n="22" break="no"/>rius Philosophicus <hi rend="grave">a</hi> sulfure aureo in fuga fixatus <g ref="ampersand">et</g> retentus,
+               <lb n="23"/>quem si quis sistere noverit, sponsam, quam ambit, habebit, sin mi
+               <lb n="24" break="no"/>nus, perditionem suarum rerum <g ref="ampersand">et</g> interitum: <milestone unit="section" n="pr-27"/>Ex <persName><hi rend="latin">Hippome
+                  <lb n="25" break="no"/>ne</hi></persName> <g ref="ampersand">et</g> <persName><hi rend="latin">Atalanta</hi></persName> coëuntibus in templo Matris De<hi rend="circumflex">u</hi>m, hoc est, va
+               <lb n="26" break="no"/>se, fiunt leones, sive rubeum acquirunt colorem. <milestone unit="section" n="pr-28"/>Obtinuit quoque
+            </ab>
+            <fw type="gathering" place="bottom-right">B</fw> <fw type="catchword" place="bottom-right">h<hi rend="ligature">ae</hi>c</fw>            
+         </div>
+         <div type="page" n="10">
+            <fw type="title" place="top-cent">PR<hi rend="ligature">AE</hi>FATIO</fw>
+            <fw type="pageNum" place="top-left">10</fw>
+            <ab>
+               <lb n="1"/>h<hi rend="ligature">ae</hi>c virgo victoriam pr<hi rend="ligature">ae</hi> viris, apro quodam insignis magnitudinis
+               <lb n="2"/>occiso, unde pr<hi rend="ligature">ae</hi>mio <hi rend="grave">a</hi> <persName><hi rend="latin">Meleagro</hi></persName> donata est: <milestone unit="section" n="pr-29"/>Apud <placeName>Steth<hi rend="ligature">ae</hi>um</placeName>
+               <lb n="3"/><persName type="divinity"><hi rend="ligature">Ae</hi>sculapii</persName> fanum <hi rend="grave">e</hi> saxo percusso aquam elicuit, quam sitibunda
+               <lb n="4"/>bibit: <milestone unit="section" n="pr-30"/>Qu<hi rend="ligature">ae</hi> c<hi rend="grave">u</hi>m allegorica <g ref="ampersand">et</g> Emblematica revera sint <g ref="ampersand">et</g> nullo
+               <lb n="5"/>modo historica, volui in hujus Heroin<hi rend="ligature">ae</hi> commemorationem intell
+               <lb n="6" break="no"/>lectualem hunc tractatum Emblematicum indigetare, pr<hi rend="ligature">ae</hi>sertim
+               <lb n="7"/>c<hi rend="grave">u</hi>m poma ei projecta ex hortis <persName>Hesperiis</persName> <hi rend="grave">a</hi> <persName type="divinity">Venere</persName>, suavitatis
+               <lb n="8"/>Dea, <persName><hi rend="latin">Hippomeni</hi></persName> fuerint ministrata: <milestone unit="section" n="pr-30"/>In modulis illis seu fugis
+               <lb n="9"/>Musicis hoc observatum videtis, quod singula disticha ad tres il
+               <lb n="10" break="no"/>las voces adaptata convenienter canendo exprimi possint, in qui
+               <lb n="11" break="no"/>bus c<hi rend="grave">u</hi>m uni simplici voci tot varietates fugarum sint accommo
+               <lb n="12" break="no"/>dat<hi rend="ligature">ae</hi>, omnis cordatus <g ref="ampersand">et</g> intelligens hanc quoque Emblematicam
+               <lb n="13"/>quasi figurationem, in his, ut <g ref="ampersand">et</g> in distichis <expan><abbr>adaptation<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> ad singu
+               <lb n="14" break="no"/>las voculas, boni consulet <g ref="ampersand">et</g> pro nonnihilo reputabit: <milestone unit="section" n="pr-31"/>Si enim
+               <lb n="15"/>mercatores nonnulli pro magna pecuni<hi rend="ligature">ae</hi> summa artificium pictur<hi rend="ligature">ae</hi>
+               <lb n="16"/>aliquod <hi rend="ligature">ae</hi>stimant <g ref="ampersand">et</g> emunt, ubi soli oculi falluntur, c<hi rend="grave">u</hi>m natur<hi rend="ligature">ae</hi>
+               <lb n="17"/>propinquissimum judicent, quid ni literati has figuras, qu<hi rend="ligature">ae</hi> <g ref="ampersand">et</g> in
+               <lb n="18" break="no"/>tellecctui <g ref="ampersand">et</g> sensibus pluribus inserviunt ita, ut magna inde spe
+               <lb n="19" break="no"/>randa sit utilitas pr<hi rend="ligature">ae</hi>ter oblectationem, in precio habeant <g ref="ampersand">et</g> ma
+               <lb n="20" break="no"/>gni censeant? Vale.
+            </ab>
+            <fw type="catchword" place="bottom-right">EPI-</fw>            
          </div>
          <figure>
             <graphic url="http://www.tei-c.org/logos/TEI-glow.png"/>

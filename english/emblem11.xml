@@ -24,6 +24,7 @@
                 
                 
                 <div type="title" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="053"/>
                     <head>
                         <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 11. Of the Secrets of Nature.
                         <lb/>Whiten Latona and tear your books.</seg>
@@ -46,6 +47,7 @@
                 
                 <pb n="39"/> 
                 <div type="discourse" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="054"/>
                     <head rend="italics">Discourse 11.</head>
                     <ab> 
                         <lb/><milestone unit="section" n="e11-01" /><choice><orig>Soe</orig><reg>So</reg></choice> great is the diversity of Authors in writing, that the explorators of <pc>-</pc> 
@@ -80,7 +82,7 @@
                         <lb/>as the outward senses <choice><orig>doe</orig><reg>do</reg></choice> without understanding lead him to food by sight
                         <lb/>and <choice><orig>tast</orig><reg>taste</reg></choice>: these are his words. <milestone unit="section" n="e11-11" />But lest a man should macerate <choice><orig>himselfe</orig><reg>himself</reg></choice> with
                         <lb/>overmuch study, which is an inexhaustible sea and of immense profundity
-                        <lb/>and <choice><orig>endeavour</orig><reg>endeavor</reg></choice> (though in <choice><orig>vaine</orig><reg>vain</reg></choice>) to bring every letter, agreeing <choice><orig>allso</orig><reg>also</reg></choice> with ma
+                        <lb/>and <choice><orig>endeavour</orig><reg>endeavor</reg></choice> <milestone unit="page" ed="Meier" n="055"/>(though in <choice><orig>vaine</orig><reg>vain</reg></choice>) to bring every letter, agreeing <choice><orig>allso</orig><reg>also</reg></choice> with ma
                         <lb break="no"/>ny other things, into act, in the <choice><orig>meane</orig><reg>mean</reg></choice> time consuming or diminishing his
                         <lb/>strength, time, reputation, wealth and riches, the Philosophers <choice><orig>doe</orig><reg>do</reg></choice> use this
                         <lb/><choice><orig>Emblematicall</orig><reg>Emblematical</reg></choice> speech, that Latona must be whitened, and those books

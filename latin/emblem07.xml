@@ -18,6 +18,7 @@
      <revisionDesc>
         <change when="2017-04-06" who="SJD">Created</change>
         <change when="2017-04-06" who="SJD">Completed draft</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
      </revisionDesc>
   </teiHeader>
    
@@ -25,16 +26,14 @@
   <text>
       <body>
          <div type="emblem" n="e7">
-            <pb n="36"/>
-            <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">36</fw> FUGA VII. in 3. seu 10. supr<hi rend="grave">a</hi>.
-               <lb n="2"/>Der Bogel jung vom Neste fleugt <pc>/</pc> und fällt
-               <lb n="3"/>wider ins Nest.
-            </head>
             
-            <div type="fugue">
+            <pb n="36" edRef="Maier1618"/>
+            <fw type="pageNum" place="top-left">36</fw> <fw type="header" place="top-center">FUGA VII. in 3. seu 10. supr<hi rend="grave">a</hi>.</fw>
+            
+            <div type="fugue" xml:lang="de">
                <head>
-                  
+                  <lb n="1"/>Der Bogel jung vom Neste fleugt <pc>/</pc> und fällt
+                  <lb n="2"/>wider ins Nest.
                </head>
                
             </div>
@@ -50,18 +49,17 @@
                   <lb n="6"/><l>Füg ihn das Haupt zum hindern <pc>/</pc> so wirstu es erlangen.</l>
                </lg>
             </div>
+            
             <fw type="catchword" place="bottom-right">Emblema</fw>
+            <pb n="37" edRef="Maier1618"/> 
+            <fw type="header" place="top-center">Emblema VII.<hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.</fw> <fw type="pageNum" place="top-right">37</fw>
             
-            
-            
-            <div type="image-caption">
+            <div type="image" xml:lang="la">
                <head>
-                  <lb n="1"/>Emblema VII.<hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.<!-- BC: how do we want to handle ligatures? --> <pb n="37"/> <fw type="pageNum" place="top-right">37</fw>
-                  <lb n="2"/>Fit pullus <hi rend="grave">a</hi> nido volans, qui iter<hi rend="grave">u</hi>m cadit in nidum.
+                   <lb n="1"/>Fit pullus <hi rend="grave">a</hi> nido volans, qui iter<hi rend="grave">u</hi>m cadit in nidum.
                </head>
+               <figure><graphic url=""></graphic></figure>
             </div>
-            
-            <figure><graphic url=""></graphic></figure>
             
             <div type="epigram" xml:lang="la">
                <head>Epigramma VII.</head>
@@ -76,11 +74,11 @@
             </div>
             
            <fw type="gathering">E 3</fw> <fw type="catchword" place="bottom-right">Quod</fw>
+            <pb n="38" edRef="Maier1618"/>
+            <fw type="pageNum" place="top-left">38</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="7">VII</num>.</fw>
             
-            <div type="discourse">
-               <pb n="38"/>
-               <head><fw type="pageNum" place="top-left">38</fw> <hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="7">VII</num>.</head>
-                  <ab>
+            <div type="discourse" xml:lang="la">
+                  <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e07-01"/>Quod <persName ref="http://viaf.org/viaf/287984736">Hippocrates</persName>, medicorum antesignanus, de humoribus
                      <lb n="2"/>asserit, eos esse diversos ac plures numero in homine, nec saltem
                      <lb n="3"/>unum, alias morbos varios exoriri non posses, id nos de Elementis
@@ -90,7 +88,7 @@
                      <lb n="7" break="no"/>neralia, plant<hi rend="ligature">ae</hi> ac animalia inde naturaliter producerentur. <milestone unit="section" n="e07-03"/> Hinc
                      <lb n="8"/>Creator summus totum hoc mundi Systema ex diversis <g type="ampersand">et</g> contra
                      <lb n="9" break="no"/>riis naturis concinnavit, nempe ex levibus <g type="ampersand">et</g> gravibus, calidis <g type="ampersand">et</g> fri
-                     <lb n="10" break="no"/>gidis, humidis <g type="amerpsand">et</g> siccis, ut una in aliam per affinitatem transiret, <g type="ampersand">et</g>
+                     <lb n="10" break="no"/>gidis, humidis <g type="ampersand">et</g> siccis, ut una in aliam per affinitatem transiret, <g type="ampersand">et</g>
                      <lb n="11"/>sic compositio fieret corporum, qu<hi rend="ligature">ae</hi> in essentia, qualitatibus, viri
                      <lb n="12" break="no"/>bus <g type="ampersand">et</g> effectibus long<hi rend="grave">e</hi> inter se differrent: <milestone unit="section" n="e07-04"/> sunt enim imperfect<hi rend="grave">e</hi>
                      <lb n="13"/>mistis Elementa levia ut ignis <g type="ampersand">et</g> aër, nec <expan><abbr>n<hi rend="tilde">o</hi></abbr><ex>n</ex></expan> gravia, ut terra <g type="ampersand">et</g> aequa,
@@ -115,12 +113,14 @@
                      <lb n="32" break="no"/>bus una avis pr<hi rend="ligature">ae</hi>grandis (nempe Strutio camelus) qu<hi rend="ligature">ae</hi> ferrum con
                      <lb n="33" break="no"/>sumere possit, qu<hi rend="ligature">ae</hi>que magis in terra sub pondere pr<hi rend="ligature">ae</hi>pedita cur
                      <lb break="no"/>
-                  </ab>
+                  </ab></div>
+               
                <fw type="catchword" place="bottom-right">rat</fw>
-                  
-               <pb n="39"/>
-               <head><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="7">VII</num>. <fw type="pageNum" place="top-right">39</fw></head>
-                  <ab>
+               <pb n="39" edRef="Maier1618"/>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="7">VII</num>.</fw> <fw type="pageNum" place="top-right">39</fw>
+ 
+              <div type="discourse-p2">
+                 <ab>
                      <lb n="1"/>rat, qu<hi rend="grave">a</hi>m per aëra volet, lic<hi rend="grave">e</hi>t pennas speciosas habeat: <milestone unit="section" n="e07-11"/> De hac aut
                      <lb n="2"/>simili <persName ref="http://viaf.org/viaf/24571510">Hermes</persName> (ut Author <title>Auror<hi rend="ligature">ae</hi></title> <expan><abbr>cap<am>.</am></abbr><ex>ite</ex></expan> <expan><abbr><am>5.</am><ex>quinto</ex></abbr></expan> testatur) ita scribit: <quote>consy
                      <lb n="3" break="no"/>deravi avem sapientibus venerabilem, qu<hi rend="ligature">ae</hi> volate, dum est in Ariete,
@@ -151,8 +151,7 @@
                      <lb n="28"/>durabiliorem, tamen volatilium, sed ad mediorum soliditatem,
                      <lb n="29"/>constantiam <g type="ampersand">et</g> fixitatem: sic enim implumis avis detinebit pluma
                      <lb n="30" break="no"/>tam <g type="ampersand">et</g> fixa substantia figet volatilem, quod fieri oportet.
-                     <lb/>
-                  </ab> 
+                  </ab></div> 
                 <fw type="catchword" place="bottom-right" xml:lang="de"><hi rend="gothic">Nim</hi></fw>
                 </div>
             

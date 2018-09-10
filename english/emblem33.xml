@@ -24,6 +24,7 @@
                 
                 
                 <div type="title" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="141"/>
                     <head>
                         <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 33. of the Secrets of Nature.
                         <lb/>The Hermaphrodite lying like a dead man in <choice><orig>darknesse</orig><reg>darkness</reg></choice>, wants fire.</seg>
@@ -46,6 +47,7 @@
                 
                 <pb n="105"/> 
                 <div type="discourse" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="142"/>
                     <head rend="italics">Discourse 33.</head>
                     <ab> 
                         <lb/>It is one of the secrets of Nature, that in the cold winter <choice><orig>Froggs</orig><reg>Frogs</reg></choice> and <pc>-</pc><milestone unit="section" n="e03-01" /> 
@@ -85,7 +87,8 @@
                         <lb/>found, if <choice><orig>wee</orig><reg>we</reg></choice> may <choice><orig>beleive</orig><reg>believe</reg></choice> <choice><orig>historyes</orig><reg>histories</reg></choice>, that many men have <choice><orig>allso</orig><reg>also</reg></choice> <pc>-</pc>
                         <lb/><choice><orig>changd</orig><reg>changed</reg></choice> their sex: The <choice><orig>Poetts</orig><reg>Poets</reg></choice> make mention of Ceneus, Iphis, and
                         <lb/>Tiresias, as Pontanus in the <choice><orig>Starrs</orig><reg>Stars</reg></choice>.
-                        <quote rend="indent">
+                        <milestone unit="page" ed="Meier" n="143"/>
+                        <quote>
                             <lg xml:lang="lat">
                                 <l>Pœniteat generis tamen et se Cenea malint,</l>
                                 <l>Aut in fœmineam penitùs transire figuram: And Ausonius:</l>

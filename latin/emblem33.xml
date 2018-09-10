@@ -1,0 +1,150 @@
+<?xml version="1.1" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+     <revisionDesc>
+        <change when="2018-03-12" who="SJD">Start encoding</change>
+        <change when="2018-03-12" who="SJD">Finish draft</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
+     </revisionDesc>
+  </teiHeader>
+   
+   
+  <text>
+      <body>
+         <div type="emblem" n="e33">
+            <pb n="140" edRef="Maier1618"/>
+            <fw type="pageNum" place="top-left">140</fw><fw type="header" place="top-center">FUGA <num value="33" type="cardinal">XXXIII</num>. in <num value="5">5</num> infrà.</fw>
+            
+            <div type="fugue" xml:lang="de">
+               <head>
+
+               <lb n="2"/>Der <persName><hi rend="latin">Hermaphrodit</hi></persName> einem Todten gleich <pc>/</pc> im finstern
+               <lb n="3"/>ligende <pc>/</pc> bedarff deß Feiurs.
+            </head>
+               
+            </div>
+            
+            <div type="epigram" xml:lang="de">
+               <head><num value="33" type="cardinal">XXXIII</num>. Epigrammatis Latini versio Germanica.</head>
+               <lg>
+                  <lb n="1"/><l>Der zweiköpffig <persName><hi rend="latin">Hermaphrodit</hi></persName> gleicht einem Menschen der ist <add place="line-below">(Todt <pc>/</pc></add></l>
+                  <lb n="2"/><l>Wann er wegen geraubter Feuchtigkeit leijdet groß Noht <pc>/</pc></l>
+                  <lb n="3"/><l>So er in finster Nacht sich decket <pc>/</pc> mustu ihm mehr Feiur geben <pc>/</pc></l>
+                  <lb n="4"/><l>Welches <pc>/</pc> so bald du thust <pc>/</pc> kompt ihm wider das Leben <pc>/</pc></l>
+                  <lb n="5"/><l>All Krafft deß Steins im Feiur <pc>/</pc> all rohter Schwebel im Goldt steht <pc>/</pc></l>
+                  <lb n="6"/><l>Und der weiß <persName><hi rend="latin">Mercurius</hi></persName> allein auß Silber hergeht.</l>
+               </lg>
+            </div>
+            <fw type="catchword">Emble-</fw>
+            
+            <pb n="141" edRef="Maier1618"/>
+            
+            <fw type="header" place="top-center">Emblema <num value="33" type="cardinal">XXXIII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi> </fw><fw type="pageNum" place="top-right">141</fw><div type="image" xml:lang="la"><head/></div>            
+            <div type="epigram" xml:lang="la">
+               <head>Epigramma <num value="33" type="cardinal">XXXIII</num>.</head>
+               <lg>
+                  <lb n="1"/><l>Ille biceps gemini sexus, en funeris instar</l>
+                  <lb n="2"/><l>Apparet, postquam est humiditatis inops:</l>
+                  <lb n="3"/><l>Nocte tenebros<hi rend="circumflex">a</hi> si conditur, indiget igne,</l>
+                  <lb n="4"/><l>Hunc illi praestes, <g type="ampersand">et</g> mod<hi rend="grave">o</hi> vita redit.</l>
+                  <lb n="5"/><l>Omnis in igne latet lapidis vis, omnis in auro</l>
+                  <lb n="6"/><l>Sulfuris, argento Mercurii vigor est.</l> 
+               </lg>
+            </div>
+            
+            <fw type="gathering" place="bottom-right">S 3</fw> <fw type="catchword" place="bottom-right">Ex</fw>
+            
+            <div type="discourse" xml:lang="la">
+               <pb n="142" edRef="Maier1618"/>
+               <fw type="pageNum" place="top-left">142</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="33">XXXIII</num>.</fw>
+                  <div type="discourse-p1"><ab>
+                     <lb n="1"/><milestone unit="section" n="e33-01"/>Ex arcanis natur<hi rend="ligature">ae</hi> est, qu<hi rend="grave">o</hi>d, ingruente hyeme, ran<hi rend="ligature">ae</hi> <g type="ampersand">et</g> hirundi
+                     <lb n="2" break="no"/>nes, aquis submers<hi rend="ligature">ae</hi>, veluti mortu<hi rend="ligature">ae</hi> jaceant, <g type="ampersand">et</g> vere novo calore
+                     <lb n="3"/>Solis operante recuperent sensum <g type="ampersand">et</g> motum seu vit<hi rend="ligature">ae</hi> sensitiv<hi rend="ligature">ae</hi> a
+                     <lb n="4" break="no"/>ctionis peragant: <milestone unit="section" n="e33-02"/>Quod si ver<hi rend="grave">o</hi> ipso Brumali tempore in aquis reper
+                     <lb n="5" break="no"/>t<hi rend="ligature">ae</hi> in aërem seu hypocaustum calidum adferantur, mox sese move
+                     <lb n="6" break="no"/>re, ut in <hi rend="ligature">ae</hi>state, incipiunt: <milestone unit="section" n="e33-03"/>Unde apparet, quod illis nil nisi calor defi
+                     <lb n="7" break="no"/>ciat externus, qui calorem naturalem internum conclusum excitet
+                     <lb n="8"/><g type="ampersand">et</g> in actum deducat: <milestone unit="section" n="e33-04"/>Eodem modo Philosophi de suo <persName>Hermaphro
+                     <lb n="9" break="no"/>dito</persName> loquuntur, qui si in tenebris jacens appareat mortuus, ignis ca
+                     <lb n="10" break="no"/>lore indigeat: <milestone unit="section" n="33-05"/>In tenebris ver<hi rend="grave">o</hi> jacere dicitur, dum per noctem hye
+                     <lb n="11" break="no"/>mis opacam <g type="ampersand">et</g> frigidissimam dimittitur, hoc est, in nigredine, qu<hi rend="ligature">ae</hi>
+                     <lb n="12"/>frigiditatis signum est, manet, <hi rend="grave">a</hi> qu<hi rend="circumflex">a</hi> ad albedinem per majorem
+                     <lb n="13"/>ignis intensionem adduci debet, <g type="ampersand">et</g> adhuc per majorem, ad rubedi
+                     <lb n="14" break="no"/>nem: <milestone unit="section" n="e33-06"/>Absque calore enim, ut <persName>Bodillus</persName> in <title>turba</title> ait, nihil generatur,
+                     <lb n="15"/><g type="ampersand">et</g> balneum intensi caloris perire facit, si ver<hi rend="grave">o</hi> frigidum sit, fugat, si
+                     <lb n="16"/>autem temperatum sit, corpori conveniens <g type="ampersand">et</g> suave fit. <milestone unit="section" n="e33-07"/>Ibidem <quote rend="italic">Bo
+                     <lb n="17" break="no"/>nellus, cuncta,</quote> inquit, <quote rend="italic">qu<hi rend="ligature">ae</hi> vivunt, Deo sic volente, etiam moriuntur: Pro
+                     <lb n="18" break="no"/>pterea illa natura cui humiditas <expan><abbr>ad<hi rend="tilde">e</hi></abbr><ex>m</ex><abbr>pta</abbr></expan> est, c<hi rend="grave">u</hi>m per noctes dimittitur, mor
+                     <lb n="19" break="no"/>tuo similis videtur <g type="ampersand">et</g> tum illa natura igne indiget quousque corpus <g type="ampersand">et</g> illius
+                     <lb n="20"/>spiritus in terram vertatur, <g type="ampersand">et</g> tunc fit pulvis mortuo similis in suo tumulo:
+                     <lb n="21"/>His peractis reddit ei Deus spiritum <g type="ampersand">et</g> animam, <g type="ampersand">et</g> omni infirmitate ablat<hi rend="circumflex">a</hi>
+                     <lb n="22"/>confortata est natura nostra <g type="ampersand">et</g> emendata: Oportet igitur illam rem combu
+                     <lb n="23" break="no"/>rere absque timore, <expan><abbr><g type="ampersand">et</g>c<am>.</am></abbr><ex>aetera</ex></expan>.</quote> <milestone unit="section" n="e33-08"/>Ignis itaque, qui omnes alias res destruit, hanc
+                     <lb n="24"/>construit, qu<hi rend="ligature">ae</hi> reliquis mortem, huic vitam pr<hi rend="ligature">ae</hi>bet. <milestone unit="section" n="e33-09"/>Unicus est <hi rend="italic">Ph<hi rend="ligature">oe</hi>
+                        <lb n="25" break="no"/>nix</hi>, qui reparatur igne, qui innovatur flammis <g type="ampersand">et</g> ex cinere emergit
+                     <lb n="26"/>redivivus, atque hic Philosophis solis notus, crematur <g type="ampersand">et</g> in vitam,
+                     <lb n="27"/>revocatur, quicquid alii somnient de ave, nescio qu<hi rend="circumflex">a</hi>, volatili, nus
+                     <lb n="28" break="no"/>quam existente, nec vi<unclear>s</unclear><hi rend="circumflex">a</hi>, nisi fabulos<hi rend="grave">e</hi>: <milestone unit="section" n="e33-10"/>Est autem <persName><hi rend="italic">Hermaphroditus</hi></persName>, de
+                     <lb n="29"/>quo Philosophi loquuntur, mixt<hi rend="ligature">ae</hi> natur<hi rend="ligature">ae</hi>, mascule<hi rend="ligature">ae</hi> <g type="ampersand">et</g> f<hi rend="ligature">oe</hi>mine<hi rend="ligature">ae</hi>,
+                     <lb n="30"/>quarum una transit in alteram calore operante; Ex f<hi rend="ligature">oe</hi>mina enim fit
+                     <lb n="31"/>masculus, quod non ade<hi rend="grave">o</hi> mirum in Philosophorum opere videri
+                     <lb n="32"/>debet, c<hi rend="grave">u</hi>m <g type="ampersand">et</g> sexum mutasse quamplurimos, si historiis fides <expan><abbr>hab<hi rend="tilde">e</hi></abbr><ex>n</ex>
+                        <lb n="33" break="no"/><abbr>da</abbr></expan> est, repertum sit: <milestone unit="section" n="e33-11"/>Poët<hi rend="ligature">ae</hi> <persName><hi rend="italic">Cenea</hi></persName>, <persName><hi rend="italic">Iphin</hi></persName> <hi rend="italic"><g type="ampersand">et</g></hi> <persName><hi rend="italic">Tiresiam</hi></persName> commemorant,
+                     <lb n="34"/>ut <persName ref="https://viaf.org/viaf/9919481"><hi rend="italic">Pontanus</hi></persName> in <title>stellis</title>:
+                  </ab></div>
+                  <fw type="catchword" place="bottom-right">P<hi rend="ligature">oe</hi>niteat</fw>
+               <pb n="143" edRef="Maier1618"/>
+               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="33">XXXIII</num>.</fw> <fw type="pageNum" place="top-right"><choice><sic>133</sic><corr>143</corr></choice></fw>
+                  <div type="discourse-p2"><ab>
+                     <lb n="1"/><quote rend="indent" ana="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2011.01.0513">P<hi rend="ligature">oe</hi>niteat generis tamen <g type="ampersand">et</g> se <persName><hi rend="italic">Cenea</hi></persName> malint,
+                     <lb n="2" rend="indent"/>Aut in f<hi rend="ligature">oe</hi>mineam penit<hi rend="grave">u</hi>, transire figuram</quote>: Et <persName ref="https://viaf.org/viaf/109786483">Ausonius</persName>:
+                     <lb n="3"/><quote rend="indent" ana="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2008.01.0607%3Asection%3D1">M<hi rend="ligature">oe</hi>ret in antiquam <persName>Ceneus</persName> revocata figuram.</quote>
+                     <lb n="4"/><milestone unit="section" n="e33-12"/>Ita <date type="consular" when="-0171"><hi rend="italic"><persName><name type="gentilicium">Licinio</name> <name type="cognomen">Crasso</name></persName> <g type="ampersand">et</g> <persName><name type="praenomen"><expan><abbr>C<am>.</am></abbr><ex>aio</ex></expan></name> <name type="getilicium">Cassio</name> <name type="cognomen">Longino</name></persName></hi> <expan><abbr>Co</abbr><ex>n</ex><abbr>s<am>s.</am></abbr><ex>ulibus</ex></expan></date> <hi rend="italic">Cassini</hi> puer factus est ex
+                     <lb n="5"/>virgine: Et <persName><hi rend="italic"><name type="gentilicium">Licinius</name> <name type="cognomen">Mutianus</name></hi></persName> apud <persName ref="https://viaf.org/viaf/100219162"><name type="gentilicium">Plinium</name></persName> prodit, visum <hi rend="grave">a</hi> se <placeName>Argis</placeName>
+                     <lb n="6"/><persName>Aristontem</persName>, cui nomen <persName>Aristus<hi rend="ligature">ae</hi></persName> fuisset; nupsisse etiam, mox <expan><abbr>barb<hi rend="tilde">a</hi></abbr><ex>m</ex></expan>
+                     <lb n="7"/><g type="ampersand">et</g> virilitatem provenisse, uxor<hi rend="acute">e</hi>mque duxisse: <persName ref="https://viaf.org/viaf/100219162"><name type="gentilicium"><hi rend="italic">Plinius</hi></name></persName> ipse ai se vidis
+                     <lb n="8" break="no"/>se in <placeName>Africa</placeName> mutatum in marem die nuptiarum <persName><name type="praenomen"><expan><abbr>L<am>.</am></abbr><ex>ucium</ex></expan></name> <name type="cognomen">Cossicium</name></persName> civem
+                     <lb n="9"/><orgName><hi rend="italic">Tisdritanum</hi></orgName>: <milestone unit="section" n="e33-13"/>H<hi rend="ligature">ae</hi>c vera esse <g type="ampersand">et</g> multis aliis comprobari posset, si opus
+                     <lb n="10"/>foret: Ex calore ver<hi rend="grave">o</hi> auctiore reddito genitalia membra seu virilia
+                     <lb n="11"/>ex corpore protrusa certum est. C<hi rend="grave">u</hi>m enim f<hi rend="ligature">oe</hi>mina sit long<hi rend="grave">e</hi> mare
+                     <lb n="12"/>frigidior, interius<hi rend="acute">q</hi>ue abscondita habeat, qu<hi rend="ligature">ae</hi> mas foris, ut medici
+                     <lb n="13"/>dicunt, hinc natura dubia, num marem an f<hi rend="ligature">oe</hi>minam generaret, f<hi rend="ligature">oe</hi>
+                     <lb n="14" break="no"/>minam expressit exteri<hi rend="grave">u</hi>s, licet marem interi<hi rend="grave">u</hi>s meditata sit. <milestone unit="section" n="e33-14"/>Hinc
+                     <lb n="15"/>calore per <hi rend="ligature">ae</hi>tatem crescente <g type="ampersand">et</g> motu accedente recondita mem
+                     <lb n="16" break="no"/>bra eruperunt se<hi rend="acute">q</hi>ue omnibus visenda monstr<hi rend="circumflex">a</hi>runt: <milestone unit="section" n="e33-15"/>Eodem modo
+                     <lb n="17"/>apud Philosophos f<hi rend="ligature">oe</hi>mina calore aucto fit masculus, hoc est, <persName>Her
+                        <lb n="18" break="no"/>maphroditus</persName> f<hi rend="ligature">oe</hi>mineum sexum amittit, <g type="ampersand">et</g> fit mas fortis <g type="ampersand">et</g> severeus,
+                     <lb n="19"/>qui nihil muliebris in se habeat mollitiei aut levitatis. <milestone unit="section" n="e33-16"/>Ita <hi rend="grave">a</hi> celeber
+                     <lb n="20" break="no"/>rimo illo <persName ref="https://viaf.org/viaf/59436362"><hi rend="italic"><expan><abbr>Casp<am>.</am></abbr><ex>are</ex></expan> Taligacotio</hi></persName> <orgName><hi rend="italic">Bononiensi</hi></orgName> medico vidimus aliquando artis
+                     <lb n="21"/>chirugic<hi rend="ligature">ae</hi> industri<hi rend="circumflex">a</hi> nobilem puerum Hermaphroditum in perfe
+                     <lb n="22" break="no"/>ctum marem, generand<hi rend="ligature">ae</hi> soboli (ut spes erat) aptum, mutatum vel
+                     <lb n="23"/>poti<hi rend="grave">u</hi>s promotum esse, facto per mentulam (quod deerat ibi) fora
+                     <lb n="24" break="no"/>mine novo <g type="ampersand">et</g> occluso inferiori quasi muliebri. <milestone unit="section" n="e33-17"/>Philosophi hisce o
+                     <lb n="25" break="no"/>mnibus manuariis operationibus non egent. C<hi rend="grave">u</hi>m enim frigiditas
+                     <lb n="26"/><g type="ampersand">et</g> humiditas lun<hi rend="ligature">ae</hi> adfuerit, f<hi rend="ligature">oe</hi>minam vocant, c<hi rend="grave">u</hi>m caliditas <g type="ampersand">et</g> sic
+                     <lb n="27" break="no"/>citas Solis, masculum; <milestone unit="section" n="e33-18"/>C<hi rend="grave">u</hi>m omnes ill<hi rend="ligature">ae</hi> quatuor qualitates simul,
+                     <lb n="28"/>Rebis vel Hermaphroditum; Et sic facil<hi rend="grave">e</hi> conversio fieri poterit f<hi rend="ligature">oe</hi>
+                     <lb n="29" break="no"/>min<hi rend="ligature">ae</hi>, hoc est, frigiditatis <g type="ampersand">et</g> humiditatis, in marem mutatio, qu<hi rend="ligature">ae</hi> fit
+                     <lb n="30"/>solo ignis calore, ut dictum; <milestone unit="section" n="e33-19"/>Calor enim sequestrat <g type="ampersand">et</g> separat super
+                     <lb n="31" break="no"/>fluitates humiditatum <g type="ampersand">et</g> sui ideam in subjecto Philosophico sta
+                     <lb n="32" break="no"/>tuet, qu<hi rend="ligature">ae</hi> est tinctura.
+                  </ab></div>
+                <fw type="catchword" place="bottom-right" xml:lang="de">Im</fw>                  
+            </div>
+            
+         </div>
+      </body>
+  </text>
+</TEI>

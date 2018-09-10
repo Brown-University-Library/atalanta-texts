@@ -1,0 +1,139 @@
+<?xml version="1.1" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+     <revisionDesc>
+        <change when="2018-03-17" who="SJD">Start encoding</change>
+        <change when="2018-03-17" who="SJD">Finish draft</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
+     </revisionDesc>
+  </teiHeader>
+   
+   
+  <text>
+      <body>
+         <div type="emblem" n="e41">
+            <pb n="172" edRef="Maier1618"/>
+            <fw type="pageNum" place="top-left">172</fw><fw type="header" place="top-center">FUGA <num value="41" type="cardinal">XLI</num>. in <num value="3">3</num>. infrà. retrograda existente simplici seu Basi.</fw>
+            
+            <div type="fugue" xml:lang="de">
+               <head>
+
+               <lb n="2"/><persName><hi rend="latin">Adonis</hi></persName> wit von einer wilden Saw erlegt <pc>/</pc> welchem wie die
+               <lb n="3"/><persName type="divinity"><hi rend="latin">Venus</hi></persName> wolt Hülffe thun <pc>/</pc> hat sie mit Blut die Rosen
+               <lb n="4"/>roht gefärbet.
+            </head>
+               
+            </div>
+            
+            <div type="epigram" xml:lang="de">
+               <head><num value="41" type="cardinal">XLI</num>. Epigrammatis Latini versio Germanica.</head>
+               <lg>
+                  <lb n="1"/><l>Von ihrem eijgnen Vatter hat die <persName><hi rend="latin">Myrrha</hi></persName> <persName><hi rend="latin">Adonim</hi></persName> gebohren <pc>/</pc></l>
+                  <lb n="2"/><l>Welchen die <persName type="divinity"><hi rend="latin">Venus</hi></persName> sehr liebt <pc>/</pc> ein wild Saw tödt im Zoren <pc>/</pc></l>
+                  <lb n="3"/><l><persName type="divinity"><hi rend="latin">Venus</hi></persName> lausst zu <pc>/</pc> und in dem verlezt am Rosen strauch ihr Bein <pc>/</pc></l>
+                  <lb n="4"/><l>Daher von ihrem Blut die weissen Rosen roht seijn.</l>
+                  <lb n="5"/><l>Die Göttin weijnt (die <orgName>Syrer</orgName> weijnen jederman darumb leijdt trägt <pc>/</pc>)</l>
+                  <lb n="6"/><l>Und hat ihn bald unter die weiche Lattich gelegt.</l>
+               </lg>
+            </div>
+            <fw type="catchword">Emble-</fw>
+            
+            <pb n="173" edRef="Maier1618"/>
+            
+            <fw type="header" place="top-center">Emblema <num value="41" type="cardinal">XLI</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">173</fw><div type="image" xml:lang="la"><head/></div>            
+            <div type="epigram" xml:lang="la">
+               <head>Epigramma <num value="41" type="cardinal">XLI</num>.</head>
+               <lg>
+                  <lb n="1"/><l>Ex patre, <persName>Myrrha</persName> suo pulchrum suscepit <persName>Adonim</persName>,</l>
+                  <lb n="2"/><l>Delitias <persName type="divinity">Cypri<hi rend="ligature">ae</hi></persName>, quem nece stravit aper.</l>
+                  <lb n="3"/><l>Accurrit <persName type="divinity">Venus</persName> <g type="ampersand">et</g> pede l<hi rend="ligature">ae</hi>sa cruore ruborem</l>
+                  <lb n="4"/><l>Contulit ipsa ros<hi rend="ligature">ae</hi>, qu<hi rend="ligature">ae</hi> prius alba fuit.</l>
+                  <lb n="5"/><l>Flet Dea (flent <orgName>Syri</orgName>, luctus communis in orbe est)</l>
+                  <lb n="6"/><l>Illum lactucis mollibus <g type="ampersand">et</g> posuit.</l> 
+               </lg>
+            </div>
+            
+            <fw type="gathering" place="bottom-right">Y 3</fw> <fw type="catchword" place="bottom-right">Ado-</fw>
+            
+            <div type="discourse" xml:lang="la">
+               <pb n="174" edRef="Maier1618"/>
+               <fw type="pageNum" place="top-left">174</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="41">XLI</num>.</fw>
+                  <div type="discourse-p1"><ab>
+                     <lb n="1"/><milestone unit="section" n="e41-01"/><persName><hi rend="caps">Adonidis</hi></persName> allegoriam qu<hi rend="grave">a</hi>m impropri<hi rend="grave">e</hi> quidam ex mythologis
+                     <lb n="2"/>explicent, <g type="ampersand">et</g> eum nunc ad Solem, aprum, <hi rend="grave">a</hi> quo occisus est, ad
+                     <lb n="3"/>Brumam hirsutam, nunc ad semina frumentorum, qu<hi rend="ligature">ae</hi> <num value="6" type="cardinal">6</num>. mensibus
+                     <lb n="4"/>apud <persName type="divinity">Proserpinam</persName> subtus terram, <g type="ampersand">et</g> totidem supra terram apud
+                     <lb n="5"/><persName type="divinity">Venerem</persName> sunt, referant, alibi satis expositum <g type="ampersand">et</g> refutatum est <hi rend="grave">a</hi> no
+                     <lb n="6" break="no"/>is. <milestone unit="section" n="e41-02"/>Hic Solem esse Philosophicum sub <persName>Adonide</persName> intellectum cum
+                     <lb n="7"/>concordantia omnium pronunciamus: Unde Versiculus: 
+                     <lb n="8"/><quote rend="italic indent">Omnia sunt idem, <persName type="divinity">Dionysus</persName>, <persName type="divinity">Sol</persName> <g type="ampersand">et</g> <persName>Adonis</persName>:</quote>
+                     <lb n="9"/><milestone unit="section" n="e41-03"/>Et <persName>Orpheus</persName>: qui vario l<hi rend="ligature">ae</hi>taris nomine <persName>Adoni</persName>,
+                     <lb n="10"/><quote rend="italic indent">Germinum <g type="ampersand">et</g> idem author, pariter puer atque puella.</quote>
+                     <lb n="11"/><milestone unit="section" n="e41-04"/>Qu<hi rend="ligature">ae</hi> omnia de Sole c<hi rend="ligature">oe</hi>li nullo modo intelligenda sunt, sed de Phi
+                     <lb n="12" break="no"/>losophico; Hic enim utrumque sexum exprimit, ille non item: Sic <g type="ampersand">et</g>
+                     <lb n="13"/><persName type="divinity">Dionyso</persName> <g type="ampersand">et</g> <persName type="divinity">Soli</persName> ipsum tribuunt, quod <persName>Adonidi</persName>, <g type="ampersand">et</g> <hi rend="grave">e</hi>contra, quem
+                     <lb n="14" break="no"/>admodum <g type="ampersand">et</g> <persName type="divinity">Osiridi</persName>. <milestone unit="section" n="e41-05"/><persName>Adonis</persName> ver<hi rend="grave">o</hi> ab Apro interimitur, hoc est, ab
+                     <lb n="15"/>aceto acerrimo seu aqua slutiva, cui aprungi <g type="ampersand">et</g> fulminei sunt den
+                     <lb n="16" break="no"/>tes, quibus <persName>Adonidem</persName> stringit; quia Sol Philosophicus ab eo apro le
+                     <lb n="17" break="no"/>haliter vulneratur, in membris solvitur <g type="ampersand">et</g> discinditur; <milestone unit="section" n="e41-06"/>At <persName type="divinity">Venus</persName> a
+                     <lb n="18" break="no"/>masio suo opem ferre conatur, qui c<hi rend="grave">u</hi>m esset mortuus, inter lactu
+                     <lb n="19" break="no"/>cas eum posuit <g type="ampersand">et</g> custodivit. <milestone unit="section" n="e41-07"/>Eundem ad modum <persName type="divinity">Osiris</persName> <hi rend="grave">a</hi> <persName type="divinity">Typhone</persName>
+                     <lb n="20"/>occiditur, <g type="ampersand">et</g> in varias partes dissecatur, quas <persName type="divinity">Isis</persName>, <persName type="divinity">Osiridis</persName> conjunx,
+                     <lb n="21"/>recollegit <g type="ampersand">et</g> conjunctas sepultur<hi rend="ligature">ae</hi> tradidit. <milestone unit="section" n="e41-08"/>Idem luctus, qui <expan><abbr>mort<hi rend="tilde">e</hi></abbr><ex>m</ex></expan>
+                     <lb n="22"/><persName type="divinity">Osiridis</persName> in <placeName><hi rend="ligature">Ae</hi>gypto</placeName> quotannis secutus, <g type="ampersand">et</g> <persName>Adonidis</persName> in <placeName>Syria</placeName> <g type="ampersand">et</g> vi
+                     <lb n="23" break="no"/>cinis regnis sequebatur; ubi per aliquot dies planctus <g type="ampersand">et</g> ejulatus au
+                     <lb n="24" break="no"/>ditus, post data sunt l<hi rend="ligature">ae</hi>titi<hi rend="ligature">ae</hi> signa <g type="ampersand">et</g> tripudia, quasi ille, qui mortuus
+                     <lb n="25"/>fuisset, jam denu<hi rend="grave">o</hi> viveret illatus c<hi rend="ligature">oe</hi>lo: <milestone unit="section" n="e41-09"/>Unde vanitas eorum religio
+                     <lb n="26" break="no"/>nis seu superstitionis Ethnic<hi rend="ligature">ae</hi> oborta est, qu<hi rend="ligature">ae</hi> crevit in immensum,
+                     <lb n="27"/>Diabolo pr<hi rend="ligature">ae</hi>bente occasionem, fals<hi rend="acute">a</hi>que miracula procurante. <milestone unit="section" n="e41-10"/>Na
+                     <lb n="28" break="no"/>tus fuit <persName>Adonis</persName> ex <persName>Cinyra</persName> (ut fingunt) <placeName>Cypri</placeName> rege, ejus<hi rend="acute">q</hi>ue filia <persName>Myr
+                     <lb n="29" break="no"/>rha</persName>, natus dicitur inc<hi rend="ligature">oe</hi>stu, si historia spectetur, ne fario, si allegoria,
+                     <lb n="30"/>non illicito, sed inprimis necessario. <milestone unit="section" n="e41-11"/>Nisi enim ex matre <g type="ampersand">et</g> filio, vel
+                     <lb n="31"/>ex patre <g type="ampersand">et</g> filia, fiat conjunctio, inde<hi rend="acute">q</hi>ue nascatur, nihil in hac arte
+                     <lb n="32"/>perficitur. <milestone unit="section" n="e41-12"/>Hic enim, quo conjuges sint sibi invicem sanguine pro
+                     <lb n="33" break="no"/>pinquiores, in primo gradu consanguinitatis, vel secundo, e<hi rend="grave">o</hi> sunt
+                  </ab></div>
+                  <fw type="catchword" place="bottom-right">f<hi rend="ligature">oe</hi>cun-</fw>
+               <pb n="175" edRef="Maier1618"/>
+               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="41">XLI</num>.</fw> <fw type="pageNum" place="top-right">175</fw>
+                  <div type="discourse-p2"><ab>
+                     <lb n="1"/>f<hi rend="ligature">oe</hi>cundiores <g type="ampersand">et</g> <hi rend="grave">e</hi>converso, quo remotiores, e<hi rend="grave">o</hi> in f<hi rend="ligature">oe</hi>cundiores, quod
+                     <lb n="2"/>in hominum matrimonio tolerabile non est. <milestone unit="section" n="e41-13"/>Hinc <persName>Oedypus</persName> pro
+                     <lb n="3" break="no"/>priam matrem ducit, <persName type="divinity">Jupiter</persName> sororem, sic <g type="ampersand">et</g> <persName type="divinity">Osyris</persName>, <persName type="divinity">Saturnus</persName>, <persName type="divinity">Sol</persName>,
+                     <lb n="4"/>servus rubeus, <persName>Gabritius</persName>; <milestone unit="section" n="e41-14"/>De <persName>Adonide</persName> <persName type="divinity">Sol</persName> (in metaphora <persName>Belini</persName> a
+                     <lb n="5" break="no"/>pud <title ref="http://viaf.org/viaf/191597728">Rosarium</title>) hoc est, de seipso ita loquitur: <quote rend="italic">Scitote, quod pater
+                        <lb n="6"/>meus <persName type="divinity">Sol</persName> dedit mihi potestatem super omnem potentiam, <g type="ampersand">et</g> induit me vesti
+                        <lb n="7" break="no"/>mento glori<hi rend="ligature">ae</hi>: <milestone unit="section" n="e41-15"/>Et mox: Ego enim unicus sum <g type="ampersand">et</g> assimilior patri meo, <expan><abbr><g type="ampersand">et</g>c<am>.</am></abbr><ex>aetera</ex></expan> ser
+                     <lb n="8" break="no"/>servos meos extraho de potentia <g type="ampersand">et</g> natura eorum, <g type="ampersand">et</g> induo eos de splendore <g type="ampersand">et</g>
+                     <lb n="9"/>lumine meo pulchro quem dedit mihi pater meus, in omnibus operibus eo
+                        <lb n="10" break="no"/>rum: <milestone unit="section" n="e41-16"/>Ego enim sum excellens, qui exalto <g type="ampersand">et</g> deprimo cuncta, <g type="ampersand">et</g> nullus servo
+                        <lb n="11" break="no"/>rum meorum potest super me, nisi unus, cui datum est, quod contrarius est mi
+                        <lb n="12" break="no"/>hi. Et ipse destruit me, non tamen destruit naturam meam. <milestone unit="section" n="e41-17"/>Et ipse est <persName type="divinity">Satur
+                        <lb n="13" break="no"/>nus</persName>, qui separat omnia mea membra: Postea vado ad matrem meam, qu<hi rend="ligature">ae</hi> con
+                        <lb n="14" break="no"/>gregat omnia membra divisa <g type="ampersand">et</g> separata: <milestone unit="section" n="e41-18"/>Ego sum illuminans omnia
+                        <lb n="15"/>mea, <g type="ampersand">et</g> facio lumen apparere patenter in itinere de patre meo <persName type="divinity">Saturno</persName>, <g type="ampersand">et</g> et
+                        <lb n="16" break="no"/>iam de matre mea qu<hi rend="ligature">ae</hi> mihi inimicatur.</quote> <milestone unit="section" n="e41-19"/>Hactenus dicta ade<hi rend="grave">o</hi> clara sunt,
+                     <lb n="17"/>ut vel mediocriter in lectione authorum versato tenebras <hi rend="grave">a</hi> mentis
+                     <lb n="18"/>oculis discutiant, <g type="ampersand">et</g> lucem solarem patefaciant, qu<hi rend="ligature">ae</hi> in concordan
+                     <lb n="19" break="no"/>tiis adductis rerum <g type="ampersand">et</g> personarum abund<hi rend="grave">e</hi> perspicitur. <milestone unit="section" n="e41-20"/>Nam
+                     <lb n="20"/>qu<hi rend="ligature">ae</hi> vera sunt, etiamsi sub velo allegori<hi rend="ligature">ae</hi> tecta, miro inter se suffra
+                     <lb n="21" break="no"/>gio consentiunt, qu<hi rend="ligature">ae</hi> falsa, secum cum<hi rend="acute">q</hi>ue aliis pugnant,<g type="ampersand">et</g> in diver
+                     <lb n="22" break="no"/>sa abeunt.
+                  </ab></div>
+            <fw type="catchword" place="bottom-right" xml:lang="de">Dem</fw>                  
+            </div>            
+         </div>
+      </body>
+  </text>
+</TEI>

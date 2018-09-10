@@ -24,6 +24,7 @@
                 
                 
                 <div type="title" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="177"/>
                     <head>
                         <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 42. Of the Secrets of Nature.
                         <lb/>Nature, Reason, Experience, and reading must be the guide, <choice><orig>staffe</orig><reg>staff</reg></choice>,
@@ -47,6 +48,7 @@
                 
                 <pb n="132"/> 
                 <div type="discourse" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="178"/>
                     <head rend="italics">Discourse 42.</head>
                     <ab> 
                         <lb/><milestone unit="section" n="e42-01" />The chances, which may happen to <choice><orig>travellers</orig><reg>travelers</reg></choice>, are innumerable, es 
@@ -88,7 +90,7 @@
                         <lb/>the guide and companion of <choice><orig>soe</orig><reg>so</reg></choice> great a journey, whose footsteps <pc>-</pc>
                         <lb/>must be traced. <milestone unit="section" n="e42-13" />Secondly, reason must be as a <choice><orig>staffe</orig><reg>staff</reg></choice> to keep the <pc>-</pc>
                         <lb/>steps and feet steady and <choice><orig>firme</orig><reg>firm</reg></choice>, that they may not slip or waver,
-                        <lb/>For without the exercise of reason a man will be apt to fall <pc>-</pc>
+                        <lb/>For without the exercise of reason <milestone unit="page" ed="Meier" n="179"/>a man will be apt to fall <pc>-</pc>
                         
                         
                         

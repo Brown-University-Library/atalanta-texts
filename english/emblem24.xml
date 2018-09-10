@@ -24,6 +24,7 @@
                 
                 
                 <div type="title" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="105"/>
                     <head>
                         <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 24. Of the Secrets of Nature.
                         <lb/>A <choice><orig>wolfe</orig><reg>wolf</reg></choice> devoured the King, and being burned restored him to life <choice><orig>againe</orig><reg>again</reg></choice>.</seg>
@@ -46,6 +47,7 @@
                 
                 <pb n="78"/> 
                 <div type="discourse" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="106"/>
                     <head rend="italics">Discourse 24.</head>
                     <ab> 
                         <lb/>It is a thing <choice><orig>coḿonly</orig><reg>commonly</reg></choice> <choice><orig>knowne</orig><reg>known</reg></choice>, how great the hunger and voracity of a <choice><orig>wolfe</orig><reg>wolf</reg></choice> is:<milestone unit="section" n="e03-01" /> 
@@ -85,7 +87,7 @@
                         <lb/>if <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>hath</orig><reg>has</reg></choice> <choice><orig>soe</orig><reg>so</reg></choice> gorged his belly, <seg rend="underline" hand="2">but the King, though dead, <choice><orig>hath</orig><reg>has</reg></choice> notwit</seg>h
                         <lb break="no"/><seg rend="underline" hand="2">standing a <choice><orig>Martiall</orig><reg>Martial</reg></choice> or Swan<pc rend="double-hyphen">-</pc>like virtue <choice><orig>soe</orig><reg>so</reg></choice> as not to be wounded nor con</seg>
                         <lb break="no"/><seg rend="underline" hand="2">sumed: B</seg>ut <seg rend="underline" hand="2">where must this <choice><orig>wolfe</orig><reg>wolf</reg></choice> be sought fo</seg>r, and <seg rend="underline" hand="2">from whence must</seg>
-                        <lb/><seg rend="underline" hand="2">the King be had?</seg> The Philosophers answer, t<seg rend="underline" hand="2">hat the <choice><orig>wolfe</orig><reg>wolf</reg></choice> wanders every</seg>
+                        <lb/><seg rend="underline" hand="2">the King be had?</seg> The Philosophers answer, <milestone unit="page" ed="Meier" n="107"/>t<seg rend="underline" hand="2">hat the <choice><orig>wolfe</orig><reg>wolf</reg></choice> wanders every</seg>
                         <lb/><seg rend="underline" hand="2">where in mountains and <choice><orig>vallyes</orig><reg>valleys</reg></choice>, to take his prey,</seg> who must be <choice><orig>drawne</orig><reg>drawn</reg></choice> out
                         <lb/><seg rend="underline" hand="2">of his harbou</seg>rs, a<seg rend="underline" hand="2">nd<choice><orig>præservd</orig><reg>preserved</reg></choice> for use:</seg> <seg rend="underline" hand="2">The King <choice><orig>allso</orig><reg>also</reg></choice> coming from the</seg> <pc>-</pc>
                         <lb/><seg rend="underline" hand="2">East <choice><orig>wearyed</orig><reg>wearied</reg></choice> with a long and <choice><orig>tædious</orig><reg>tedious</reg></choice> journey at length falls <choice><orig>downe</orig><reg>down</reg></choice>, w</seg>hose

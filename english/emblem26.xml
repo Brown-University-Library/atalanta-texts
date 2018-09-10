@@ -24,6 +24,7 @@
                 
                 
                 <div type="title" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="115"/>
                     <head>
                         <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 26. Of the Secrets of Nature.
                         <lb/>The tree of life is the fruit of <choice><orig>humane</orig><reg>human</reg></choice> <choice><orig>wisedome</orig><reg>wisdom</reg></choice>.</seg>
@@ -46,6 +47,7 @@
                 
                 <pb n="84"/> 
                 <div type="discourse" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="114"/>
                     <head rend="italics">Discourse 26.</head>
                     <ab> 
                         <lb/><milestone unit="section" n="e26-01" />Tully <choice><orig>hath</orig><reg>has</reg></choice> excellently described the <choice><orig>essentiall</orig><reg>essential</reg></choice> difference of man, whereby <choice><orig>hee</orig><reg>he</reg></choice> 
@@ -80,7 +82,7 @@
                         <lb break="no"/>dome</orig><reg>wisdom</reg></choice> have <choice><orig>æternall</orig><reg>eternal</reg></choice> perseverance, and they that are her <choice><orig>freinds</orig><reg>friends</reg></choice> <choice><orig>syncere</orig><reg>sincere</reg></choice> pleasure,<note place="margin">Wis: c. 8.16.</note>
                         <lb/>and <choice><orig>hee</orig><reg>he</reg></choice> that diligently <choice><orig>enquireth</orig><reg>enquires</reg></choice> after her, Shall receive much joy, for there is<note place="margin">Sir. c. 4.20.</note>
                         <lb/><choice><orig>noe</orig><reg>no</reg></choice> <choice><orig>unpleasantnesse</orig><reg>unpleasantness</reg></choice> in her conversation, but mirth and joy, <milestone unit="section" n="e26-09" />and though wine
-                        <lb/>and <choice><orig>musicke</orig><reg>music</reg></choice> <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>chear</orig><reg>cheer</reg></choice> the heart of man, yet <choice><orig>wisedome</orig><reg>wisdom</reg></choice> is more pleasant <pc>-</pc>
+                        <lb/>and <choice><orig>musicke</orig><reg>music</reg></choice> <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>chear</orig><reg>cheer</reg></choice> the heart of man, yet <choice><orig>wisedome</orig><reg>wisdom</reg></choice> <milestone unit="page" ed="Meier" n="115"/>is more pleasant <pc>-</pc>
                         <lb/>than them: for <choice><orig>Shee</orig><reg>She</reg></choice> is a tree of life to them that lay hold on her, and blessed are<note place="margin">Wis:.c. 10.10.</note>
                         <lb/>they that <choice><orig>retaine</orig><reg>retain</reg></choice> her: Lactantius calls her the aliment of the <choice><orig>soule</orig><reg>soul</reg></choice>: <milestone unit="section" n="e26-10" />The wise<note place="margin">Prov.c. 3.18.<lb/>Lac. b. 3.13.</note>
                         <lb/>Shall inherit glory, and <choice><orig>hee</orig><reg>he</reg></choice> that esteems <choice><orig>wisedome</orig><reg>wisdom</reg></choice> Shall be exalted and <choice><orig>honoured</orig><reg>honored</reg></choice><note place="margin">Prov. 3.35.</note>

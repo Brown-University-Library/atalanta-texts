@@ -24,6 +24,7 @@
                 
                 
                 <div type="title" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="109"/>
                     <head>
                         <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 25. Of the Secrets of Nature.
                         <lb/>The Dragon <choice><orig>dyes</orig><reg>dies</reg></choice> not, except <choice><orig>hee</orig><reg>he</reg></choice> be <choice><orig>killd</orig><reg>killed</reg></choice> by his brother and Sister,
@@ -47,6 +48,7 @@
                 
                 <pb n="81"/><!-- regularized from 8i --> 
                 <div type="discourse" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="110"/>
                     <head rend="italics">Discourse 25.</head>
                     <ab> 
                         <lb/>In acquiring the golden fleece the Dragon was first of all to be killed, because <pc>-</pc><milestone unit="section" n="e03-01" /> 
@@ -84,7 +86,7 @@
                         <lb/>or volatile, <choice><orig>allwayes</orig><reg>always</reg></choice> denotes Mercury: for this reason Mercury is to be seen with
                         <lb/>two serpents twisted about his wand (the Dragon being a great Serpent) and <choice><orig>Sa
                         <lb break="no"/>turne</orig><reg>Saturn</reg></choice> with one, which <choice><orig>devoures</orig><reg>devours</reg></choice> his <choice><orig>tayle</orig><reg>tail</reg></choice>, as <choice><orig>allso</orig><reg>also</reg></choice> Janus: A Serpent is conse
-                        <lb break="no"/>crated to <choice><orig>Æsculapius</orig><reg>Asculapius</reg></choice> the <choice><orig>Sonne</orig><reg>Son</reg></choice> of Apollo, the <choice><orig>inventer</orig><reg>inventor</reg></choice> of medicine (<choice><orig>Philo
+                        <lb break="no"/>crated to <milestone unit="page" ed="Meier" n="111"/><choice><orig>Æsculapius</orig><reg>Asculapius</reg></choice> the <choice><orig>Sonne</orig><reg>Son</reg></choice> of Apollo, the <choice><orig>inventer</orig><reg>inventor</reg></choice> of medicine (<choice><orig>Philo
                         <lb break="no"/>sophicall</orig><reg>Philosophical</reg></choice> medicine) in which <choice><orig>forme</orig><reg>form</reg></choice> <choice><orig>hee</orig><reg>he</reg></choice> is reported to be brought from Epi
                         <lb break="no"/>daurus to Rome, and there <choice><orig>allwayes</orig><reg>always</reg></choice> <choice><orig>worshipped</orig><reg>worshiped</reg></choice> for the cessation of the <pc>-</pc>
                         <lb/>pestilence caused by him, as was supposed: But the Philosophers dragon is

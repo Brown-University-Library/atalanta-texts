@@ -18,6 +18,7 @@
      <revisionDesc>
         <change when="2017-06-21" who="SJD">Created</change>
         <change when="2017-06-21" who="SJD">Completed draft</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
      </revisionDesc>
   </teiHeader>
    
@@ -25,18 +26,15 @@
   <text>
       <body>
          <div type="emblem" n="e10">
-            <pb n="48"/>
-            <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">48</fw> FUGA X. in 2. infr<hi rend="grave">a</hi>.
-               <lb n="2"/>Gib Feiuer zum Feiuer <pc>/</pc> Mercurium zum Mercurio,
-               <lb n="3"/>und es ist dir genug.
-            </head>
             
-            <div type="fugue">
+            <pb n="48" edRef="Maier1618"/>
+            <fw type="pageNum" place="top-left">48</fw> <fw type="header" place="top-center">FUGA X. in 2. infr<hi rend="grave">a</hi>.</fw>
+                       
+            <div type="fugue" xml:lang="de">
                <head>
-                  
-               </head>
-               
+                  <lb n="1"/>Gib Feiuer zum Feiuer <pc>/</pc> Mercurium zum Mercurio,
+                  <lb n="2"/>und es ist dir genug.
+               </head> 
             </div>
             
             <div type="epigram" xml:lang="de">
@@ -50,19 +48,18 @@
                   <lb n="6"/><l>Cynthiam, so sich rächet an dich <pc>/</pc> Apollo, geschwindt.</l>
                </lg>
             </div>
+            
             <fw type="catchword" place="bottom-right">Emble-</fw>
+            <pb n="49" edRef="Maier1618"/> 
+            <fw type="header" place="top-center">Emblema X. <hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.</fw> <fw type="pageNum" place="top-right">49</fw>
             
-            <pb n="49"/> 
-            
-            <div type="image-caption">
+            <div type="image" xml:lang="la">
                <head>
-                  <lb n="1"/>Emblema X. <hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">49</fw>
-                  <lb n="2"/>Da ignem igni, Mercurium Mercurio, <g type="ampersand">et</g> sufficit tibi.
+                   <lb n="1"/>Da ignem igni, Mercurium Mercurio, <g type="ampersand">et</g> sufficit tibi.
                </head>
-            </div>
-            
-            <figure><graphic url=""></graphic></figure>
-            
+               <figure><graphic url=""></graphic></figure>
+
+            </div>            
             <div type="epigram" xml:lang="la">
                <head>Epigramma X.</head>
                <lg>
@@ -76,16 +73,16 @@
             </div>
             
            <fw type="gathering">G</fw> <fw type="catchword" place="bottom-right">H<hi rend="ligature">ae</hi>c</fw>
+            <pb n="50" edRef="Maier1618"/>
+            <fw type="pageNum" place="top-left">50</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="10">X</num>.</fw>
             
-            <div type="discourse">
-               <pb n="50"/>
-               <head><fw type="pageNum" place="top-left">50</fw> <hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="10">X</num>.</head>
-                  <ab>
+            <div type="discourse" xml:lang="la">
+                  <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e10-01"/> H<hi rend="ligature">ae</hi>c sententia, si, ut sonat, accipitur, <expan><abbr>quantitat<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> ignis <g type="ampersand">et</g> <persName>Mercurii</persName>
                      <lb n="2"/>saltem auget, nec <expan><abbr>aliqu<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> <expan><abbr>nov<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> qualitatem subjecto inducit: O
                      <lb n="3" break="no"/>mnem <expan><abbr>n<am>.</am></abbr><ex>m</ex></expan> simile suo simili additum, magis fit tale: <milestone unit="section" n="e10-02"/> Hinc medici <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>n</ex><abbr>traria</abbr></expan>
                      <lb n="4"/><expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>n</ex><abbr>trariis</abbr></expan> mederi, <g type="ampersand">et</g> <expan><abbr>h</abbr><ex>a</ex><abbr><hi rend="hook">e</hi>c</abbr></expan> ab illis toli <expan><abbr>asser<hi rend="tilde">u></hi></abbr><ex>n</ex><abbr>t</abbr></expan>, ita <expan><abbr>ign<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> ab aqua extingui,
-                     <lb n="5"/>ab igne addito foveri videmus: <milestone unit="section" n="e10-03"/> Idem <persName ref="http://viaf.org/viaf/88342447">Poëta</persName> sentit, c<hi rend="grave">u</hi>m sentit, c<hi rend="grave">u</hi>m dicit: <quote ref="https://viaf.org/viaf/179209665/">Et <persName>Ve
+                     <lb n="5"/>ab igne addito foveri videmus: <milestone unit="section" n="e10-03"/> Idem <persName ref="http://viaf.org/viaf/88342447">Poëta</persName> sentit, c<hi rend="grave">u</hi>m sentit, c<hi rend="grave">u</hi>m dicit: <quote source="https://viaf.org/viaf/179209665/">Et <persName>Ve
                      <lb n="6" break="no"/>nus</persName> in vinis, ignis in igne furit</quote>: <milestone unit="section" n="e10-04"/> Ver<hi rend="grave">u</hi>m <expan><abbr>resp<hi rend="tilde">o</hi></abbr><ex>n</ex><abbr>dendum</abbr></expan>, <expan><abbr><hi rend="stroke">q></hi></abbr><ex>uod</ex></expan> ignis <g type="ampersand">et</g> ignis,
                      <lb n="7"/>Mercurius <g type="ampersand">et</g> Mercurius long<hi rend="grave">e</hi> inter se differant: Multa <expan><ex>e</ex><abbr>n<am>.</am></abbr><ex>im</ex></expan> sunt <expan><abbr>igni<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>
                      <lb n="8"/>genera apud <expan><abbr>Philos<am>.</am></abbr><ex>ophos</ex></expan> multa <expan><abbr>quoq<am>;</am></abbr><ex>ue</ex></expan> Mercurii. <milestone unit="section" n="e10-05"/> Ad h<hi rend="ligature">ae</hi>c idem calor <g type="ampersand">et</g> fri
@@ -108,7 +105,7 @@
                      <lb n="25" break="no"/>tur ignis externus interno <g type="ampersand">et</g> ejusmodi Mercurius Mercurio, ut artis
                      <lb n="26"/><expan><abbr>int<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>tio</abbr></expan> fiat: Ad omne <expan><abbr>dur<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> aut <expan><abbr>crud<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> coctione <expan><abbr>emolli<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>dum</abbr></expan> vel <expan><abbr>matu
                      <lb n="27" break="no"/>r<hi rend="tilde">a</hi>nd<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>, igne <g type="ampersand">et</g> aqua utimur: <milestone unit="section" n="e10-10"/> Aqua <expan><ex>e</ex><abbr>n<am>.</am></abbr><ex>im</ex></expan> <expan><abbr>duriti<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> solvit <g type="ampersand">et</g> in partes <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>m</ex><abbr>pa</abbr>
-                     <lb n="28" break="no"/>ctas</expan> penetratm calore vires ei addente <g type="ampersand">et</g> <expan><abbr>mot<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>, ut apparet. <expan><abbr>E<am>.</am></abbr><ex>xempli</ex></expan> <expan><abbr>g<am>.</am>></abbr><ex>ratia</ex></expan> in co
+                     <lb n="28" break="no"/>ctas</expan> penetratm calore vires ei addente <g type="ampersand">et</g> <expan><abbr>mot<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>, ut apparet. <expan><abbr>E<am>.</am></abbr><ex>xempli</ex></expan> <expan><abbr>g<am>.</am></abbr><ex>ratia</ex></expan> in co
                      <lb n="29" break="no"/>ctione <expan><abbr>pisor<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>, qu<hi rend="ligature">ae</hi> per se sunt integra <g type="ampersand">et</g> dura, ver<hi rend="grave">u</hi>m ab aqua <expan><abbr>intu
                      <lb n="30" break="no"/>umesc<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>t</abbr></expan>, <expan><abbr>frang<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>tur</abbr></expan> <g type="ampersand">et</g> in <expan><abbr>pult<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> <expan><abbr>redig<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>tur</abbr></expan>, calore ignis per <expan><abbr>ebullition<hi rend="tilde">e</hi></abbr><ex>m</ex></expan>
                      <lb n="31"/><expan><abbr>aqu<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> <expan><abbr>rarefaci<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>te</abbr></expan>, <g type="ampersand">et</g> tenu<hi rend="acute">i</hi>oris seu fer<hi rend="grave">e</hi> aëri<hi rend="ligature">ae</hi> <expan><abbr>subst<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>ti<hi rend="ligature">ae</hi></abbr></expan> <expan><abbr>redd<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>te</abbr></expan>: Sic i
@@ -116,11 +113,12 @@
                      <lb n="33"/>in <expan><abbr>aër<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> evanescere facit: <milestone unit="section" n="e10-11"/> Eodem modo ignis <g type="ampersand">et</g> Mercurius hic sunt i
                      <lb n="34" break="no"/>gnis <g type="ampersand">et</g> aqua, ac iidem, ignis <g type="ampersand">et</g> Mercurius sunt partes matur<hi rend="ligature">ae</hi> <g type="ampersand">et</g> cru
                      <lb break="no"/>
-                  </ab>
+                  </ab></div>
                <fw type="catchword" place="bottom-right">d<hi rend="ligature">ae</hi></fw>
                   
-               <pb n="51"/>
-               <head><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="10">X</num>. <fw type="pageNum" place="top-right">51</fw></head>
+               <pb n="51" edRef="Maier1618"/>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="10">X</num>.</fw> <fw type="pageNum" place="top-right">51</fw>
+               <div type="discourse-p2">
                   <ab>
                      <lb n="1"/>d<hi rend="ligature">ae</hi>, ex <expan><abbr>quib<am>.</am></abbr><ex>us</ex></expan> crud<hi rend="ligature">ae</hi> per <expan><abbr>coction<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> <expan><abbr>matur<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>d<hi rend="ligature">ae></hi></abbr></expan> sunt, aut matur<hi rend="ligature">ae</hi> <hi rend="grave">a</hi> super
                      <lb n="2"/><expan><abbr>fluitatib<am>.</am></abbr><ex>us</ex></expan> <expan><abbr>purg<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>d</abbr><ex>a</ex><abbr><hi rend="hook">e</hi></abbr></expan> ignis <g type="ampersand">et</g> aqu<hi rend="ligature">ae></hi> ministerio: <milestone unit="section" n="e10-12"/> Esse <expan><abbr>aut<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> hos duos ignes,
@@ -139,7 +137,7 @@
                      <lb n="15" break="no"/>ve<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>t</abbr></expan> <expan><abbr>solv<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>do</abbr></expan>, <expan><abbr>coagul<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>do</abbr></expan>, <expan><abbr>alter<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>do</abbr></expan>, <expan><abbr>color<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>do</abbr></expan> <g type="ampersand">et</g> <expan><abbr>perfici<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>do</abbr></expan>, opus fuit
                      <lb n="16"/>externis adminiculis, <expan><abbr>tanqu<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> instrumentis, sine <expan><abbr>quib<am>.</am></abbr><ex>us</ex></expan> <expan><abbr>n<hi rend="tilde">o</hi></abbr><ex>n</ex></expan> effectus se
                      <lb n="17" break="no"/>queretur. Ut <expan><abbr>n<am>.</am></abbr><ex>on</ex></expan> faber <expan><abbr>absq<am>;</am></abbr><ex>ue</ex></expan> mallo <g type="ampersand">et</g> igne nihil efficit, sic nec <expan><abbr>Philos<am>.</am></abbr><ex>ophus</ex></expan>
-                     <lb n="18"/><expan><abbr>absq<am>;</am></abbr><ex>ue</ex></expan> suis <expan><abbr>instrum<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>tis</abbr></expan>, qu<hi rend="ligature">ae</hi> sunt aqua <g type="ampersand">et</g> ignis: <milestone unit="section" n="e10-17"/> <expan><abbr>Atq<am>;</am></abbr><ex>ue</ex></expan> h<hi rend="ligaure">ae</hi>c aqua dicitur
+                     <lb n="18"/><expan><abbr>absq<am>;</am></abbr><ex>ue</ex></expan> suis <expan><abbr>instrum<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>tis</abbr></expan>, qu<hi rend="ligature">ae</hi> sunt aqua <g type="ampersand">et</g> ignis: <milestone unit="section" n="e10-17"/> <expan><abbr>Atq<am>;</am></abbr><ex>ue</ex></expan> h<hi rend="ligature">ae</hi>c aqua dicitur
                      <lb n="19"/><hi rend="grave">a</hi> <expan><abbr>quibusd<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> <expan><abbr>nubi<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>, ut ignis hic occasionatus: Aqua <expan><abbr>nubi<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <expan><abbr>absq<am>;</am></abbr><ex>ue</ex></expan> dubio
                      <lb n="20"/>vocatur, quia distillata est, vel utros Maji, <expan><abbr>tenuissimar<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <expan><abbr>parti<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>: Ut <expan><ex>e</ex><abbr>n<am>.</am></abbr><ex>im</ex></expan>
                      <lb n="21"/>ros dictis mensis inclusus cortici ovali affirmatur calore solis in altum
@@ -155,8 +153,8 @@
                      <lb n="31"/>Leonem procedens sensim calorem rebus crescentibus adauget,
                      <lb n="32"/>semper propri<hi rend="grave">u</hi>s accedendo, sic hic necesse est fieri: Infans enim <expan><abbr>Phi
                      <lb n="33" break="no"/>los<am>.</am></abbr><ex>ophi</ex></expan> igne, ut lacte, nutriendus est, qu<hi rend="grave">o</hi> magis crescat, e<hi rend="grave">o</hi> uberiore.
-                     <lb/> 
-                  </ab> 
+                  </ab>
+                  </div> 
                 <fw type="gathering" place="bottom-right"><hi rend="gothic">G ii</hi></fw> <fw type="catchword" place="bottom-right" xml:lang="de"><hi rend="gothic">Machet</hi></fw>
                 </div>
             

@@ -24,6 +24,7 @@
                 
                 
                 <div type="title" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="193"/>
                     <head>
                         <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 46. Of the Secrets of Nature.
                         <lb/>Two Eagles come together, one from the East, the other from the West.</seg>
@@ -48,7 +49,7 @@
                 <div type="discourse" xml:lang="en">
                     <head rend="italics">Discourse 46.</head>
                     <ab> 
-                        <lb/>Cicero in his <choice><orig>booke</orig><reg>book</reg></choice> of the nature of the Gods declares the most ancient <pc>-</pc><milestone unit="section" n="e03-01" /> 
+                        <lb/><milestone unit="page" ed="Meier" n="194"/>Cicero in his <choice><orig>booke</orig><reg>book</reg></choice> of the nature of the Gods declares the most ancient <pc>-</pc><milestone unit="section" n="e03-01" /> 
                         <lb/>Apollo to be the <choice><orig>Sonne</orig><reg>Son</reg></choice> of Vulcan, and keeper of Athens: Which opinion,
                         <lb/>if it be, as it ought, <choice><orig>transferrd</orig><reg>transferred</reg></choice> to an Allegory, is indeed most true; because
                         <lb/>Vulcan <choice><orig>produceth</orig><reg>produces</reg></choice> the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> Sol, which is Apollo. But it <choice><orig>hath</orig><reg>has</reg></choice> <pc>-</pc>
@@ -85,7 +86,7 @@
                         <lb/><choice><orig>pretious</orig><reg>precious</reg></choice> gifts, which were hidden in sacred places for religion sake
                         <lb/>by men of all degrees. Pausanias reports that a brazen Skeleton of
                         <lb/>admirable artifice was hung at the top of the temple by Hippocrates.
-                        <lb/>That famous Tripos was <choice><orig>allso</orig><reg>also</reg></choice> consecrated to Apollo by Pelops, at the
+                        <lb/>That famous Tripos was <milestone unit="page" ed="Meier" n="195"/><choice><orig>allso</orig><reg>also</reg></choice> consecrated to Apollo by Pelops, at the
                         <lb/>time when <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>marryed</orig><reg>married</reg></choice> Hippodamia the daughter <choice><orig>Œnomaus</orig><reg>Oenomaus</reg></choice> King
                         <lb/>of Elis, which Tripos Mulciber made, and gave to Pelops: It was
                         <lb/>erected in the <choice><orig>midle</orig><reg>middle</reg></choice> of the temple, in which Pythia sitting

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.1" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -17,6 +14,7 @@
       </fileDesc>
      <revisionDesc>
         <change when="2018-01-14" who="SJD">Start encoding</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
      </revisionDesc>
   </teiHeader>
    
@@ -24,17 +22,15 @@
   <text>
       <body>
          <div type="emblem" n="e18">
-            <pb n="80"/>
-            <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">80</fw> FUGA XVIII. in 7. suprà.
+            <pb n="80" edRef="Maier1618"/>
+            <fw type="pageNum" place="top-left">80</fw><fw type="header" place="top-center">FUGA XVIII. in 7. suprà.</fw>
+            
+            <div type="fugue" xml:lang="de">
+               <head>
+
                <lb n="2"/>Das Feiuer macht feiurig <pc>/</pc> nicht güldin <pc>/</pc>
                <lb n="3"/>sondern das Gold.
             </head>
-            
-            <div type="fugue">
-               <head>
-                  
-               </head>
                
             </div>
             
@@ -51,18 +47,9 @@
             </div>
             <fw type="catchword">Emble-</fw>
             
-            <pb n="81"/>
+            <pb n="81" edRef="Maier1618"/>
             
-            <div type="image-caption">
-               <head>
-                  <lb n="1"/>Emblema XVIII. De Secretis Natur<hi rend="ligature">ae</hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">81</fw>
-                  <lb n="2"/>Ignire ignis amat, non aurificare, sed aurum:
-               </head>
-               
-            </div>
-            
-            <figure><graphic url=""></graphic></figure>
-            
+            <fw type="header" place="top-center">Emblema XVIII. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">81</fw><div type="image" xml:lang="la"><head/></div>            
             <div type="epigram" xml:lang="la">
                <head>Epigramma XVIII.</head>
                <lg>
@@ -78,9 +65,9 @@
             <fw type="gathering" place="bottom-right">L</fw> <fw type="catchword" place="bottom-right">Natur<hi rend="ligature">ae</hi></fw>
             
             <div type="discourse" xml:lang="la">
-               <pb n="82"/>
-               <head><fw type="pageNum" place="top-left">82</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="18">XVIII</num>.</head>
-                  <ab>
+               <pb n="82" edRef="Maier1618"/>
+               <fw type="pageNum" place="top-left">82</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="18">XVIII</num>.</fw>
+                  <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e18-01"/>Natur<hi rend="ligature">ae</hi> <expan><abbr>oper<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>di</abbr></expan> ratio est in <expan><abbr>omnib<am>.</am></abbr><ex>us</ex></expan> universi individuis, ut sim
                      <lb n="2" break="no"/>plici utatur processu ad <expan><abbr>un<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <expan><abbr>simplic<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> <expan><abbr>mot<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <expan><abbr>perficiend<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>, <expan><abbr>qu<hi rend="tilde">e</hi></abbr><ex>m</ex><abbr>ad
                      <lb n="3" break="no"/>mod<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> apparet in Anatomia corporis humani, in quo unus musculus
@@ -97,13 +84,13 @@
                      <lb n="14"/>admota <expan><abbr>assimil<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>do</abbr></expan> <g type="ampersand">et</g> <expan><abbr>alter<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>do</abbr></expan> <expan><abbr>eor<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <expan><abbr>natur<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> <g type="ampersand">et</g> <expan><abbr>form<hi rend="tilde">a</hi></abbr><ex>m</ex></expan>: <milestone unit="section" n="e18-05"/>Quod in <expan><abbr>ve
                      <lb n="15" break="no"/>getabilib<am>.</am></abbr><ex>us</ex></expan> <g type="ampersand">et</g> <expan><abbr>animalib<am>.</am></abbr><ex>us</ex></expan> generatio est per <expan><abbr>semin<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <expan><abbr>propagation<hi rend="tilde">e</hi></abbr><ex>m</ex></expan>, hoc
                      <lb n="16"/>in <expan><abbr>simplicib<am>.</am></abbr><ex>us</ex></expan> vel simpliciter mixtis <expan><abbr>corporib<am>.</am></abbr><ex>us</ex></expan> est virtutis infusio <g type="ampersand">et</g> as
-                     <lb n="17" break="no"/>similatio: <milestone unit="section" n="e18-06"/>Sol, c<hi rend="tilde">oe</hi>li <expan><abbr>lum<hi rend="tilde"></hi></abbr><ex>n</ex></expan>, radios de sese projicit in terras, qui collectis
+                     <lb n="17" break="no"/>similatio: <milestone unit="section" n="e18-06"/>Sol, c<hi rend="tilde">oe</hi>li <expan><abbr>lum<hi rend="tilde"/></abbr><ex>n</ex></expan>, radios de sese projicit in terras, qui collectis
                      <lb n="18"/>in concavis vel <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>m</ex><abbr>burentib<am>.</am></abbr><ex>us</ex></expan> speculis, <expan><abbr>demonstr<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>t</abbr></expan> sese <hi rend="grave">a</hi> tali causa pro 
                      <lb n="19" break="no"/>ductos esse, ac quasi formas projectibiles Solis videri: <milestone unit="section" n="e18-07"/>Unde constat
                      <lb n="20"/>radios solares nihil aliud esse, qu<hi rend="grave">a</hi>m <expan><abbr>flamm<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> <expan><abbr>igne<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> <expan><abbr>ext<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>sam</abbr></expan> <g type="ampersand">et</g> disper
                      <lb n="21" break="no"/>sam in <expan><abbr>ampl<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> <expan><abbr>latitudin<hi rend="tilde">e</hi></abbr><ex>m</ex></expan>, qu<hi rend="ligature">ae</hi> collecta <g type="ampersand">et</g> iter<hi rend="grave">u</hi>m in se <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>n</ex><abbr>d<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>sata</abbr></expan> <expan><abbr>instru
                         <lb n="22" break="no"/>m<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>tis</abbr></expan> <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>n</ex><abbr>cavis</abbr></expan>, diaphanis <g type="ampersand">et</g> <expan><abbr>circularib<am>.</am></abbr><ex>us</ex></expan> vel repercussivis, <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>cavis</ex></expan> <g type="ampersand">et</g>
-                     <lb n="23"/>chalybeis speculis, uti <expan><abbr>fl<hi rend="tilde">a</hi></abbr><ex>m</ex><abbr>ma</abbr></expan>> emicat <g type="ampersand">et</g> obvia <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>m</ex><abbr>burit</abbr></expan>: <milestone unit="section" n="e18-08"/>Eundem ad
+                     <lb n="23"/>chalybeis speculis, uti <expan><abbr>fl<hi rend="tilde">a</hi></abbr><ex>m</ex><abbr>ma</abbr></expan>&gt; emicat <g type="ampersand">et</g> obvia <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>m</ex><abbr>burit</abbr></expan>: <milestone unit="section" n="e18-08"/>Eundem ad
                      <lb n="24"/><expan><abbr>mod<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> in <expan><abbr>quod<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> elementato corpore virtus <expan><abbr>qu<hi rend="ligature">ae</hi>d<hi rend="tilde">a</hi></abbr><ex>m</ex></expan>, velut vapor, di
                      <lb n="25" break="no"/>spergitur, qu<hi rend="tilde">ae</hi> si colligatur <g type="ampersand">et</g> attrahatur in <expan><abbr>un<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>, fit aqua <g type="ampersand">et</g> ex ea aqua
                      <lb n="26"/>terra: <milestone unit="section" n="e18-09"/>Hinc <persName ref="https://viaf.org/viaf/89770781"><expan><abbr>Avic<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>na</abbr></expan></persName> ante allegato loco, ex aqua, inquit, fit terra, <expan><abbr>c<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>
@@ -114,11 +101,11 @@
                      <lb n="31" break="no"/>plicare vel multiplicare posse, veluti ejusmodi nobis visus est <expan><abbr>arg<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>to</abbr></expan>
                      <lb n="32"/>inclusus vix <expan><abbr>p<hi rend="tilde">o</hi></abbr><ex>n</ex><abbr>dere</abbr></expan> unius libr<hi rend="tilde">ae</hi> qui <expan><abbr>anchor<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> <expan><abbr>ferre<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> 28. <expan><abbr>librar<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> attra
                      <lb n="33" break="no"/>xit <g type="ampersand">et</g> sustinuit, <expan><abbr><hi rend="stroke">q</hi></abbr><ex>uod</ex></expan> impossibile fuisset, nisi vis auctior <g type="ampersand">et</g> fortior reddita
-                  </ab>
+                  </ab></div>
                   <fw type="catchword" place="bottom-right">in</fw>
-               <pb n="83"/>
-               <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="18">XVIII</num>. <fw type="pageNum" place="top-right">83</fw></head>
-                  <ab>
+               <pb n="83" edRef="Maier1618"/>
+               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="18">XVIII</num>.</fw> <fw type="pageNum" place="top-right">83</fw>
+                  <div type="discourse-p2"><ab>
                      <lb n="1"/>in eo extitisset; <milestone unit="section" n="e18-12"/>quuod absque dubio per revocationem dispersarum
                      <lb n="2"/>virtutum in unum quasi punctum seu polum, factum fuit, vel ex ma
                      <lb n="3" break="no"/>gno corpore in minus attractionem earundem; <milestone unit="section" n="e18-13"/>Inveniuntur alii,
@@ -151,7 +138,7 @@
                      <lb n="30" break="no"/>djici debere, sed necessario requiri quoque asserunt. C<hi rend="grave">u</hi>m fermen
                      <lb n="31" break="no"/>tum ducat fermentum in sui naturam, sine quo totat compositio
                      <lb n="32"/>ad perfectionem nunquam rediret.
-                  </ab>
+                  </ab></div>
                <fw type="gathering" place="bottom-right">L ii</fw><fw type="catchword" place="bottom-right" xml:lang="de">So</fw>                  
             </div>
             

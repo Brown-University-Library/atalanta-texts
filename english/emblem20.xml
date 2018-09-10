@@ -24,6 +24,7 @@
                 
                 
                 <div type="title" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="089"/>
                     <head>
                         <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 20. Of the Secrets of Nature.
                         <lb/>Nature <choice><orig>teacheth</orig><reg>teaches</reg></choice> nature how to subdue fire.</seg>
@@ -46,6 +47,7 @@
                 
                 <pb n="66"/> 
                 <div type="discourse" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="090"/>
                     <head rend="italics">Discourse 20.</head>
                     <ab> 
                         <lb/>The common token and <choice><orig>symboll</orig><reg>symbol</reg></choice>, by which the Philosophers know one another,<milestone unit="section" n="e03-01" /> 
@@ -82,7 +84,7 @@
                         <lb/>Some <choice><orig>doe</orig><reg>do</reg></choice> cast the powders of <choice><orig>crystall</orig><reg>crystal</reg></choice> <choice><orig>glasse</orig><reg>glass</reg></choice>, or the gall of <choice><orig>glasse</orig><reg>glass</reg></choice> upon
                         <lb/><choice><orig>metallicke</orig><reg>metallic</reg></choice> powders which are to be dissolved, that they may not pe
                         <lb break="no"/>rish by over much fire: Instead of this gall of <choice><orig>glasse</orig><reg>glass</reg></choice> the Philosophers
-                        <lb/><choice><orig>doe</orig><reg>do</reg></choice> use their Eudica, which Morienus <choice><orig>sas</orig><reg>says</reg></choice> is <choice><orig>allso</orig><reg>also</reg></choice> the gall of <choice><orig>glasse</orig><reg>glass</reg></choice>, <pc>-</pc>
+                        <lb/><choice><orig>doe</orig><reg>do</reg></choice> use their Eudica, <milestone unit="page" ed="Meier" n="091"/>which Morienus <choice><orig>sas</orig><reg>says</reg></choice> is <choice><orig>allso</orig><reg>also</reg></choice> the gall of <choice><orig>glasse</orig><reg>glass</reg></choice>, <pc>-</pc>
                         <lb/>and to be had in <choice><orig>glasse</orig><reg>glass</reg></choice> <choice><orig>vessells</orig><reg>vessels</reg></choice>: for the heat of fire consumes the body
                         <lb/>with hasty burning: but Eudica <choice><orig>applyed</orig><reg>applied</reg></choice> will free <choice><orig>bodyes</orig><reg>bodies</reg></choice> changed into
                         <lb/>earth from any burning: For <choice><orig>bodyes</orig><reg>bodies</reg></choice>, when now they <choice><orig>doe</orig><reg>do</reg></choice> not <choice><orig>retaine</orig><reg>retain</reg></choice> <pc>-</pc>

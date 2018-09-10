@@ -1,0 +1,150 @@
+<?xml version="1.1" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+     <revisionDesc>
+        <change when="2018-03-15" who="SJD">Start encoding</change>
+        <change when="2018-03-15" who="SJD">Finish draft</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
+     </revisionDesc>
+  </teiHeader>
+   
+   
+  <text>
+      <body>
+         <div type="emblem" n="e38">
+            <pb n="160" edRef="Maier1618"/>
+            <fw type="pageNum" place="top-left">160</fw><fw type="header" place="top-center">FUGA <num value="38" type="cardinal">XXXVIII</num>. in <num value="7">7</num>. suprà.</fw>
+            
+            <div type="fugue" xml:lang="de">
+               <head>
+
+               <lb n="2"/>Das <persName><hi rend="latin">Rebis</hi></persName> wie ein <hi rend="latin">Hermaphrodit</hi> wirt gebohren auß
+               <lb n="3"/>zween Bergen deß <persName type="divinity"><hi rend="latin">Mercurii</hi></persName> und <persName type="divinit"><hi rend="latin">Veneris</hi></persName>.
+            </head>
+               
+            </div>
+            
+            <div type="epigram" xml:lang="de">
+               <head><num value="38" type="cardinal">XXXVIII</num>. Epigrammatis Latini versio Germanica.</head>
+               <lg>
+                  <lb n="1"/><l>Die Alten haben zweij Ding genant <persName><hi rend="latin">Rebis</hi></persName> mit einem Namen <pc>/</pc></l>
+                  <lb n="2"/><l>Die weiles in einem Leib Mann und Weib ist zusamen.</l>
+                  <lb n="3"/><l>Denn auff zween Bergen ist der <persName><hi rend="latin">Hermaphroditus</hi></persName> erkohren <pc>/</pc></l>
+                  <lb n="4"/><l>Welchen dem <persName type="divinity"><hi rend="latin">Mercurio</hi></persName> die <persName type="divinity"><hi rend="latin">Veneris</hi></persName> hat gebohren <pc>/</pc> </l>
+                  <lb n="5"/><l>Verachte du nicht das doppelt Geschlecht <pc>/</pc> so Weib ist und ein Mann <pc>/</pc></l>
+                  <lb n="6"/><l>Dann es dir hernachmals den König gebähren kan.</l>
+               </lg>
+            </div>
+            <fw type="catchword">Emble-</fw>
+            
+            <pb n="161" edRef="Maier1618"/>
+            
+            <fw type="header" place="top-center">Emblema <num value="38" type="cardinal">XXXVIII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">161</fw><div type="image" xml:lang="la"><head/></div>            
+            <div type="epigram" xml:lang="la">
+               <head>Epigramma <num value="38" type="cardinal">XXXVIII</num>.</head>
+               <lg>
+                  <lb n="1"/><l>Rem geminam <persName><hi rend="caps">Rebis</hi></persName> veteres dix<hi rend="circumflex">e</hi>re, quod uno</l>
+                  <lb n="2"/><l>Corpore sit mas h<hi rend="ligature">ae</hi>c f<hi rend="ligature">oe</hi>min<hi rend="acute">a</hi>que, Androgyna.</l>
+                  <lb n="3"/><l>Natus enim binis in montibus <persName><hi rend="caps">Hermaphroditus</hi></persName></l>
+                  <lb n="4"/><l>Dicitur, <persName type="divinity">Hermeti</persName> quem tulit alma <persName type="divinity">Venus</persName>.</l>
+                  <lb n="5"/><l>Ancipitem sexum ne spernas, nam tibi Regem</l>
+                  <lb n="6"/><l>Mas idem, muli<hi rend="acute">e</hi>rque una ead<hi rend="acute">e</hi>mque dabit.</l> 
+               </lg>
+            </div>
+            
+            <fw type="gathering" place="bottom-right">X</fw> <fw type="catchword" place="bottom-right">So-</fw>
+            
+            <div type="discourse" xml:lang="la">
+               <pb n="162" edRef="Maier1618"/>
+               <fw type="pageNum" place="top-left"><choice><sic>163</sic><corr>162</corr></choice></fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="38">XXXVIII</num>.</fw>
+                  <div type="discourse-p1"><ab>
+                     <lb n="1"/><milestone unit="section" n="e38-01"/><persName ref="https://viaf.org/viaf/88039167">Socrates</persName> interrogatus, cujas esset, Cosmopolitam seu mundi
+                     <lb n="2"/>civem, respondit: Quo innuere voluit, se, etsi <placeName>Athenis</placeName> natus sit
+                     <lb n="3"/>quo ad corpus, animo tamen <expan><abbr>tot<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> mundum, tanquam patriam, <hi rend="acute">i</hi>n
+                     <lb n="4" break="no"/>que eo contenta, liber<hi rend="grave">e</hi> perlustrare, c<hi rend="grave">u</hi>m <expan><abbr>sapi<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>ti</abbr></expan> omnis terra, ubi be
+                     <lb n="5" break="no"/>ne vivat, sit patria: <milestone unit="section" n="e38-02"/>Ita si quis Philosophos interroget, cujas sit <persName>Her
+                     <lb n="6" break="no"/>maphroditus</persName> eorum, respondent, mundanum esse seu in omnibus
+                     <lb n="7"/>mundi angulis, ubi elementa inveniantur, prostare, nempe <expan><abbr>sapient<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>
+                     <lb n="8"/>filium, qui cum ipsis <expan><abbr>patri<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> <expan><abbr>commun<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> habeat: <milestone unit="section" n="e38-03"/>Ver<hi rend="grave">u</hi>m c<hi rend="grave">u</hi>m non con
+                     <lb n="9" break="no"/>tingat, quendam bis aut pluries nasci, nec diversis, sed uno in loco
+                     <lb n="10"/>primitus hanc <expan><abbr>luc<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> ingredi, veluti <persName ref="https://viaf.org/viaf/88039167">Socrates</persName> <orgName>Atheniensis</orgName> agnoscitur,
+                     <lb n="11"/>ita <persName>Rebis</persName> duorum montium inquilinus censetur, videlicet <persName type="divinity">Mercurii</persName>
+                     <lb n="12"/><g type="ampersand">et</g> <persName type="divinity">Veneris</persName>, unde <g type="ampersand">et</g> nomen <persName>Hermaphroditi</persName> ipsi inditum ab utroque
+                     <lb n="13"/>parente. <milestone unit="section" n="e38-04"/>Montani ipsi lares sunt, <g type="ampersand">et</g> patria excelsa, <expan><abbr>ide<hi rend="acute">o</hi>q<am>;</am></abbr><ex>ue</ex></expan> ex alto loco
+                     <lb n="14"/>genitis existit; Est san<hi rend="grave">e</hi> non exiguum momentum ad res pr<hi rend="ligature">ae</hi>clar<hi rend="grave">e</hi>
+                     <lb n="15"/>gerendas patria nobilis <g type="ampersand">et</g> ampla, in qua cives pr<hi rend="ligature">ae</hi>feruntur externis <g type="ampersand">et</g>
+                     <lb n="16"/>promovetur ad officia publica, ne in obscuro delitescant, ut in
+                     <lb n="17"/>humili loco <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>n</ex><abbr>tingit</abbr></expan>, atque sic aliquid lucis ex patria ad eos perveni
+                     <lb n="18" break="no"/>at, at majus se propriis emergere virtutibus, etiam re angusta comi,
+                     <lb n="19"/><g type="ampersand">et</g> patri<hi rend="ligature">ae</hi> su<hi rend="ligature">ae</hi> de sese lumen pr<hi rend="ligature">ae</hi>bere: <milestone unit="section" n="e38-05"/>Hunc ad modum montes hi
+                     <lb n="20"/>in cogniti quampluribus ab <persName>Hermaphrodito</persName> famam acquirunt ob
+                     <lb n="21"/>illius illustria facta <g type="ampersand">et</g> nomen toto orbe celeberrimum. <milestone unit="section" n="e38-06"/>Quis enim
+                     <lb n="22"/>vel tantillum versatus in Philosophorum libris non agnovit <persName>Rebis</persName>?
+                     <lb n="23"/>quis Androgynum bicipitem non vidit aut animadvertit? <milestone unit="section" n="e38-07"/>Hic equi
+                     <lb n="24" break="no"/>dem ad <orgName>Indos</orgName> usque innotuit <g type="ampersand">et</g> latius ejus fama, qu<hi rend="grave">a</hi>m vel <persName ref="https://viaf.org/viaf/101353608">Alexan
+                     <lb n="25" break="no"/>dri</persName> regis, dispersa est. <milestone unit="section" n="e38-08"/>Permulti ad doctum aliquem virum, vel alias
+                     <lb n="26"/>ob singularem industriam militarem, artem vel scientiam notissi
+                     <lb n="27" break="no"/>mum, videndum <g type="ampersand">et</g> alloquendum ex longinquis oris proficiscuntur,
+                     <lb n="28"/>mult<hi rend="grave">o</hi> autem plures ad Montes dictos Rebis sese conferent, dum
+                     <lb n="29" break="no"/>mod<hi rend="grave">o</hi> sciant, ubi locorum offendendi sint: <milestone unit="section" n="e38-09"/>Quanto studio <g type="ampersand">et</g> cura
+                     <lb n="30"/><persName ref="https://viaf.org/viaf/12734759">Morienus</persName> <persName>Adferus <orgName>Alexandrinum</orgName></persName> <placeName>Rom<hi rend="circumflex">a</hi></placeName> profectus indagaverit <g type="ampersand">et</g>
+                     <lb n="31"/>tandem invenerit, ipse testatur in suo libro, <expan><abbr>ide<hi rend="acute">o</hi>q<am>;</am></abbr><ex>ue</ex></expan> felicior <hi rend="ligature">ae</hi>stiman
+                     <lb n="32" break="no"/>dus est, De<hi rend="acute">o</hi>que gratus, quod <hi rend="grave">a</hi> vivo pr<hi rend="ligature">ae</hi>ceptore <g type="ampersand">et</g> non <hi rend="grave">a</hi> mutis ma
+                     <lb n="33" break="no"/>gistris, hanc rem, hoc est, <expan><abbr>natal<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> <expan><abbr>loc<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>, <persName>Rebis</persName> didicerit <g type="ampersand">et</g> <expan><abbr>cor<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> viderit<supplied reason="omitted">.</supplied>
+                  </ab></div>
+                  <fw type="catchword" place="bottom-right">Non</fw>
+               <pb n="163" edRef="Maier1618"/>
+               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="38">XXXVIII</num>.</fw> <fw type="pageNum" place="top-right">163</fw>
+                  <div type="discourse-p2"><ab>
+                     <lb n="1"/><milestone unit="section" n="e38-10"/>Non minori assiduitate <g type="ampersand">et</g> diligentia uti debent illi, qui patriam <persName>Re
+                        <lb n="2" break="no"/>bis</persName> ex sese qu<hi rend="ligature">ae</hi>runt, ratione <g type="ampersand">et</g> librorum indicio edocti: Ver<hi rend="grave">u</hi>m li
+                     <lb n="3" break="no"/>bris etsi aliquando claritas inesse videatur, tamen eam magna ob
+                     <lb n="4" break="no"/>scuritas undique cingit <g type="ampersand">et</g> obvelat, ut illa pr<hi rend="ligature">ae</hi> hac vix agnosci aut
+                     <lb n="5"/>discerni queat: Quocirca caut<hi rend="grave">e</hi> in his procendendum, ne qui pro re
+                     <lb n="6" break="no"/>medio concinnati, pro veneno usurpentur: <milestone unit="section" n="e38-11"/>Cert<hi rend="grave">e</hi> oceanus sunt im
+                     <lb n="7" break="no"/>mensus, in quo errantes latitudinem seu <hi rend="ligature">ae</hi>quatoris supra horizon
+                     <lb n="8" break="no"/>tem elevationem instrumentis astronomicis experti naut<hi rend="ligature">ae</hi> scire
+                     <lb n="9"/>possunt, magnete polum septentrionalem ostendente, at longiu
+                     <lb n="10" break="no"/>dinem, seu quanto gradum intervallo <hi rend="grave">a</hi> primo meridiano, insulis
+                     <lb n="11"/>Fortunatis proximo, absint, nequaquam; Unde incerti sunt, quo lo
+                     <lb n="12" break="no"/>co inter occasum <g type="ampersand">et</g> ortum versentur: <milestone unit="section" n="e38-12"/>Quid ergo hic faciendum?
+                     <lb n="13"/>Quod iidem naut<hi rend="ligature">ae</hi> solent, Experientiam consulere ratione, <g type="ampersand">et</g> ab ea
+                     <lb n="14"/>discere iter longinquum determinare per signa particularia, pro
+                     <lb n="15" break="no"/>montoria, insulas <g type="ampersand">et</g> alia, ne in syrtes <g type="ampersand">et</g> cautes incauti incidant: <milestone unit="section" n="e38-13"/>At
+                     <lb n="16"/>h<hi rend="circumflex">i</hi>c minus est periculum, si res non procedat, si ver<hi rend="grave">o</hi> sic, majus <expan><abbr>lucr<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>,
+                     <lb n="17"/>qu<hi rend="grave">a</hi>m ibi, ubi bona <g type="ampersand">et</g> vita perduntur in una hora: <milestone unit="section" n="e38-14"/>Est autem <persName type="divinity">Mercu
+                     <lb n="18" break="no"/>rii</persName> Philosophici mons non <placeName>Nonacris</placeName>, nec <placeName>Atlas</placeName>, ubi alias natus cre
+                     <lb n="19" break="no"/>ditur, sed bifido vertice <placeName>Parnassus</placeName>, in quorum uno <persName type="divinity">Hermes</persName>, in altero
+                     <lb n="20"/><persName type="divinity">Venus</persName> moratur: <milestone unit="section" n="e38-15"/>Hic quoque <persName type="divinity">Apollo</persName> cum Musis est, <g type="ampersand">et</g> fons Pega
+                     <lb n="21" break="no"/>seus, <placeName>Hippocrene</placeName>; cum lauru semper viridi: Unus est mons nomine
+                     <lb n="22"/>at re geminus, ut <persName>Hermaphroditus</persName> in uno corpore biceps <g type="ampersand">et</g> bi
+                     <lb n="23" break="no"/>membris visitur: <milestone unit="section" n="e38-16"/>At quis ex mille ad hujus montis cacumen con
+                     <lb n="24" break="no"/>tendere perseverat? Quis non in radicibus h<hi rend="ligature">ae</hi>rescit pr<hi rend="ligature">ae</hi>peditus re
+                     <lb n="25" break="no"/>moris nescio quibus? Quotusquisque umbilicum ejus medium at
+                     <lb n="26" break="no"/>tingit? <milestone unit="section" n="e38-17"/><quote rend="italic"><lg rend="indent"><l>Nam, non levis ascensus, si quis petat ardua, sudor</l>
+                     <lb n="27"/><l>Plurimus hunc tollit, nocturn<hi rend="ligature">ae</hi> in somnis oliv<hi rend="ligature">ae</hi></l>
+                     <lb n="28"/><l>Immoritur, delet, quod mox laudaverat in se,</l>
+                     <lb n="29"/><l>Qui cupit <hi rend="ligature">ae</hi>tern<hi rend="ligature">ae</hi> donari frondis honore.</l></lg><!-- SJD: these verses are by Cassius Paremenis, AL 112, ll. 16-19--></quote>
+                     <lb n="30"/><milestone unit="section" n="e38-18"/>Unde non mirum, si saltem unus ex Myriade Herculeos hosce ex
+                     <lb n="31" break="no"/>antlet labores, ut pedem in vertice Montis figat, laure<hi rend="ligature">ae</hi><hi rend="acute">q</hi>ue brabe
+                     <lb n="32" break="no"/>jo fruatur immortali, quo ut dociles, virtuti <g type="ampersand">et</g> literis dediti, bon<hi rend="ligature">ae</hi>
+                     <lb n="33"/>mentis quicumque gaudeant, Grilli ver<hi rend="grave">o</hi> <g type="ampersand">et</g> vertagi frustrentur, uni
+                     <lb n="34" break="no"/>c<hi rend="grave">e</hi> optandum est.
+                  </ab></div>
+               <fw type="gathering" place="bottom-right">X 2</fw> <fw type="catchword" place="bottom-right" xml:lang="de">Oedymus</fw>                  
+            </div>            
+         </div>
+      </body>
+  </text>
+</TEI>

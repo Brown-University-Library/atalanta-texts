@@ -18,6 +18,7 @@
      <revisionDesc>
         <change when="2017-07-26" who="SJD">Created</change>
         <change when="2017-07-26" who="SJD">Completed draft</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
      </revisionDesc>
   </teiHeader>
    
@@ -25,19 +26,17 @@
   <text>
       <body>
          <div type="emblem" n="e12">
-            <pb n="56"/>
-            <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">56</fw> FUGA XII. in 2. supr<hi rend="grave">a</hi>.
-               <lb n="2"/>Der Stein <pc>/</pc> welchen <persName><hi rend="roman">Saturnus</hi></persName> vor <persName><hi rend="roman">Jovem</hi></persName> seine Sohn
-               <lb n="3"/>gefressen <pc>/</pc> außgespeijet <pc>/</pc> ist den zur Menschen Gedächtnuß
-               <lb n="4"/>auff den Berg <placeName><hi rend="roman">Heliconem</hi></placeName> gesetzet.
-            </head>
             
-            <div type="fugue">
+            <pb n="56" edRef="Maier1618"/>
+            <fw type="pageNum" place="top-left">56</fw> <fw type="header" place="top-center">FUGA XII. in 2. supr<hi rend="grave">a</hi>.</fw>
+            
+            
+            <div type="fugue" xml:lang="de">
                <head>
-                  
-               </head>
-               
+                  <lb n="1"/>Der Stein <pc>/</pc> welchen <persName><hi rend="roman">Saturnus</hi></persName> vor <persName><hi rend="roman">Jovem</hi></persName> seine Sohn
+                  <lb n="2"/>gefressen <pc>/</pc> außgespeijet <pc>/</pc> ist den zur Menschen Gedächtnuß
+                  <lb n="3"/>auff den Berg <placeName><hi rend="roman">Heliconem</hi></placeName> gesetzet.
+               </head>        
             </div>
             
             <div type="epigram" xml:lang="de">
@@ -51,20 +50,19 @@
                   <lb n="6"/><l>Dann daß der Stein Chymisch sen gewesen <pc>/</pc> ist klar genug.</l>
                </lg>
             </div>
+            
             <fw type="catchword" place="bottom-right">Emble-</fw>
+            <pb n="57" edRef="Maier1618"/> 
+            <fw type="header" place="top-center">Emblema XII. <hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.</fw> <fw type="pageNum" place="top-right">57</fw>
             
-            <pb n="57"/> 
-            
-            <div type="image-caption">
+            <div type="image" xml:lang="la">
                <head>
-                  <lb n="1"/>Emblema XII. <hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">57</fw>
-                  <lb n="2"/>Lapis, quem <persName>Saturnus</persName>, pro <persName>Jove</persName> filio devoratum, evomuit,
-                  <lb n="3"/>Pro monumento in <placeName>Helicone</placeName> mortalibus est positus.
+                  <lb n="1"/>Lapis, quem <persName>Saturnus</persName>, pro <persName>Jove</persName> filio devoratum, evomuit,
+                  <lb n="2"/>Pro monumento in <placeName>Helicone</placeName> mortalibus est positus.
                </head>
-            </div>
-            
-            <figure><graphic url=""></graphic></figure>
-            
+               <figure><graphic url=""></graphic></figure>
+
+            </div>            
             <div type="epigram" xml:lang="la">
                <head>Epigramma XII.</head>
                <lg>
@@ -78,11 +76,12 @@
             </div>
             
            <fw type="gathering">H </fw> <fw type="catchword" place="bottom-right">Saturni</fw>
+            <pb n="58" edRef="Maier1618"/>
+            <fw type="pageNum" place="top-left">58</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="12">XII</num>.</fw>
             
-            <div type="discourse">
-               <pb n="58"/>
-               <head><fw type="pageNum" place="top-left">58</fw> <hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="12">XII</num>.</head>
-                  <ab>
+            <div type="discourse" xml:lang="la">
+                  <div type="discourse-p1">
+                     <ab>
                      <lb n="1"/><milestone unit="section" n="e12-01"/> <persName>Saturni</persName> allegoriam diversimod<hi rend="grave">e</hi> acceptam esse invenimus.
                      <lb n="2"/>Astronomi enim ad planetarum in ordine summum; Chymi<hi rend="ligature">ae</hi>
                      <lb n="3"/>tyrones ad <expan><abbr>metallor<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> infimum, nempe plumbum retulerunt. <expan><abbr>Poët</abbr><ex>a</ex><abbr><hi rend="hook">e</hi></abbr></expan>
@@ -116,13 +115,14 @@
                      <lb n="31"/><g type="ampersand">et</g> obscurum invenitur. <milestone unit="section" n="e12-10"/> Et <persName ref="http://viaf.org/viaf/24571510">Hermes</persName>: accipe cerebrum ejus, aceto a
                      <lb n="32" break="no"/>cerrimo tere, vel urin<hi rend="circumflex">a</hi> puerorum, quousque obscuretur. <milestone unit="section" n="e12-11"/> Hoc pera
                      <lb n="33" break="no"/>cto vivit in putrefactione <g type="ampersand">et</g> fusc<hi rend="ligature">ae</hi> nubes, qu<hi rend="ligature">ae</hi> super ipsum fuerant
-                     <lb/>
                   </ab>
+                  </div>
                <fw type="catchword" place="bottom-right"><g type="ampersand">et</g></fw>
                   
-               <pb n="59"/>
-               <head><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="12">XII</num>. <fw type="pageNum" place="top-right">59</fw></head>
-                  <ab>
+               <pb n="59" edRef="Maier1618"/>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="12">XII</num>.</fw> <fw type="pageNum" place="top-right">59</fw>
+                  <div type="discourse-p2">
+                     <ab>
                      <lb n="1"/><g type="ampersand">et</g> in suor corpore, antequam moreretur, revertuntur. <milestone unit="section" n="e12-11"/> Hic lapis ite
                      <lb n="2" break="no"/>r<hi rend="grave">u</hi>m evomitur <hi rend="grave">a</hi> <persName>Saturno</persName> c<hi rend="grave">u</hi>m albescit, <expan><abbr>atq<am>;</am></abbr><ex>ue</ex></expan> tunc in <placeName>Heliconis</placeName> apice
                      <lb n="3"/>statuitur pro monumento <expan><abbr>mortalib<am>.</am></abbr><ex>us</ex></expan> ut <persName ref="http://viaf.org/viaf/122220717">Hesiodus</persName> scribit: sub nigre
@@ -150,8 +150,8 @@
                      <lb n="25" break="no"/>fectorum successiva permutatio: <milestone unit="section" n="e12-17"/> Hic lapis <hi rend="grave">a</hi> <persName>Saturno</persName> ejectus pro
                      <lb n="26"/>monumento positus dicitur mortalibus in montis cacumine, quod
                      <lb n="27"/>verissimum est.
-                     <lb/> 
-                  </ab> 
+                  </ab>
+                  </div>
                 <fw type="gathering" place="bottom-right"><hi rend="gothic">H ii</hi></fw> <fw type="catchword" place="bottom-right" xml:lang="de"><hi rend="gothic">Das</hi></fw>
                 </div>
             

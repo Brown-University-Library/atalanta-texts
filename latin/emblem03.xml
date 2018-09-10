@@ -18,6 +18,7 @@
      <revisionDesc>
         <change when="2017-03-15" who="SJD">Created</change>
         <change when="2017-03-15" who="SJD">Completed draft, though see comments in text</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
      </revisionDesc>
   </teiHeader>
    
@@ -25,18 +26,15 @@
   <text>
       <body>
          <div type="emblem" n="e3">
-            <pb n="20"/>
-            <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">20</fw> FUGA III in Quarta, infr<hi rend="grave">a</hi>.
-               <lb n="2"/>Gehe zum Weibe <pc>/</pc> das wascht ihre Lachen<pc>/</pc>
-               <lb n="3"/>thu dergleichen auch.
-            </head>
+            <pb n="20" edRef="Maier1618"/>
+            <fw type="pageNum" place="top-left">20</fw> <fw type="header" place="top-center">FUGA III in Quarta, infr<hi rend="grave">a</hi>.
+            </fw>
             
-            <div type="fugue">
+            <div type="fugue" xml:lang="de">
                <head>
-                  
+                  <lb n="1"/>Gehe zum Weibe <pc>/</pc> das wascht ihre Lachen<pc>/</pc>
+                  <lb n="2"/>thu dergleichen auch.
                </head>
-               
             </div>
             
             <div type="epigram" xml:lang="de">
@@ -50,18 +48,17 @@
                   <lb n="6"/><l>Dann den Leib <pc>/</pc> so ist schwartz <pc>/</pc> waschet das Wasser ganz rein.</l>
                </lg>
             </div>
+            
             <fw type="catchword" place="bottom-right">Emblema</fw>
+            <pb n="21" edRef="Maier1618"/>
+            <fw type="header" place="top-center">Emblema III.<hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.</fw>
             
-            <pb n="21"/>
-            
-            <div type="image-caption">
+            <div type="image" xml:lang="la">
                <head>
-                  <lb n="1"/>Emblema III.<hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.<!-- BC: how do we want to handle ligatures? -->
-                  <lb n="2"/>Vade ad mulierem lavantem pannos, tu fac similiter.
+                  <lb n="1"/>Vade ad mulierem lavantem pannos, tu fac similiter.
                </head>
-            </div>
-            
-            <figure><graphic url=""></graphic></figure>
+               <figure><graphic url=""></graphic></figure>
+            </div>       
             
             <div type="epigram" xml:lang="la">
                <head>Epigramma II.</head>
@@ -76,11 +73,12 @@
             </div>
             
            <fw type="gathering">C 3</fw> <fw type="catchword" place="bottom-right">Si</fw>
+            <pb n="22" edRef="Maier1618"/>
+            <fw type="pageNum" place="top-left">22</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="3">III</num>.</fw>
             
-            <div type="discourse">
-               <pb n="22"/>
-               <head><fw type="pageNum" place="top-left">22</fw> <hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="3">III</num>.</head>
-                  <ab>
+            <div type="discourse" xml:lang="la">
+                  <div type="discourse-p1"> 
+                     <ab>
                      <lb n="1"/><milestone unit="section" n="e03-01"/>Si pannis lineis sordes qu<hi rend="ligature">ae</hi>dam advenerint, quibus maculentur
                      <lb n="2"/><g type="ampersand">et</g> nigrescant, utpote terreis recrementis, per proximum ele
                      <lb n="3" break="no"/>mentum, nempe aquam, eluuntur, <g type="ampersand">et</g> aëri panni exponuntur, ut ca
@@ -97,7 +95,7 @@
                      <lb n="14"/>operationum chymicarum, utpote calcinatio, sublimatio, solutio,
                      <lb n="15"/>distillatio, descensio, coagulatio, fixatio <g type="ampersand">et</g> reliq<hi rend="ligature">ae</hi>, una ablutione
                      <lb n="16"/>absolvuntur: <milestone unit="section" n="e03-05"/> Nam qui abluit aquis rem impuram, idem pr<hi rend="ligature">ae</hi>stat,
-                     <lb n="17"/>quod tot operandi formis perficitur: <milestone unit="section" n="e03-06"/> <quote>Igne</quote> enim, ut <title ref="https://viaf.org/viaf/191597728/">Rosarius Philo
+                     <lb n="17"/>quod tot operandi formis perficitur: <milestone unit="section" n="e03-06"/> <quote>Igne</quote> enim, ut <title ref="https://viaf.org/viaf/191597728">Rosarius Philo
                      <lb n="18" break="no"/>sophorum</title> inquit, <quote >linteamina <persName>Duenech</persName> principis sudore maculata,
                      <lb n="19"/>lavanda sunt <g type="ampersand">et</g> comburenda aquis:</quote> <milestone unit="section" n="e03-07"/> Unde ignis <g type="ampersand">et</g> aqua videntur
                      <lb n="20"/>mutuas sibi invicem dedisse qualitates, aut quod genus ignis Philo
@@ -116,11 +114,14 @@
                      <lb n="33"/>sed terr<hi rend="ligature">ae</hi> pulveribus superingestis sol<hi rend="grave">u</hi>m extinguantur, quemad
                      <lb break="no"/>
                   </ab>
+                  </div>
+               
                <fw type="catchword" place="bottom-right">modum</fw>
-                  
-               <pb n="23"/>
-               <head><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="3">III</num>. <fw type="pageNum" place="top-right">23</fw></head>
-                  <ab>
+               <pb n="23" edRef="Maier1618"/>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="3">III</num>.</fw> <fw type="pageNum" place="top-right">23</fw>
+               
+               <div type="discourse-p2">
+                   <ab>
                      <lb n="1"/>modum cor. <milestone unit="section" n="e03-12"/><persName ref="http://viaf.org/viaf/100226923">Tacitus</persName> de simili ignis genere narrat, quod non aquis,
                      <lb n="2"/>sed fustibus <g type="ampersand">et</g> vestibus corpori detractis saltem opprimi potuerit <!-- This seems to refer to Tac. Ann. 15.43 - find way to include reference?-->: 
                      <lb n="3"/><milestone unit="section" n="e03-13"/>Ignium itaque magna est diversitas, <g type="ampersand">et</g> in excitando <g type="ampersand">et</g> in extin
@@ -149,11 +150,10 @@
                      <lb n="26"/>qu<hi rend="grave">a</hi>m stagnantes aut lacunarum palustres aqu<hi rend="ligature">ae</hi>, unde magis ad in
                      <lb n="27" break="no"/>teriora corporis Philosophici, nigri <g type="ampersand">et</g> immundi penetrare poterit,
                      <lb n="28"/>ad id bluendum <g type="ampersand">et</g> purgandum.
-                     <lb/> 
                   </ab> 
-               <fw type="catchword" place="bottom-right" xml:lang="de"><hi rend="gothic">Füge</hi></fw>
                 </div>
-            
+               <fw type="catchword" place="bottom-right" xml:lang="de"><hi rend="gothic">Füge</hi></fw>
+            </div>
          </div>
       </body>
   </text>

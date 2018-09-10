@@ -18,6 +18,7 @@
      <revisionDesc>
         <change when="2017-03-22" who="SJD">Created</change>
         <change when="2017-03-23" who="SJD">Completed draft</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
      </revisionDesc>
   </teiHeader>
    
@@ -25,18 +26,14 @@
   <text>
       <body>
          <div type="emblem" n="e5">
-            <pb n="28"/>
-            <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">28</fw> FUGA V. in Quinta, supr<hi rend="grave">a</hi>.
-               <lb n="2"/>Selz dem Weib die Kröte auff di Brüst <pc>/</pc> daß sie sauge <pc>/</pc>
-               <lb n="3"/>und das Weib sterbe <pc>/</pc> so wirt die Kröte von Milch sehr groß.
-            </head>
+            <pb n="28" edRef="Maier1618"/>
+            <fw type="pageNum" place="top-left">28</fw> <fw type="header" place="top-center">FUGA V. in Quinta, supr<hi rend="grave">a</hi>.</fw>
             
-            <div type="fugue">
+            <div type="fugue" xml:lang="de">
                <head>
-                  
+                  <lb n="1"/>Selz dem Weib die Kröte auff di Brüst <pc>/</pc> daß sie sauge <pc>/</pc>
+                  <lb n="2"/>und das Weib sterbe <pc>/</pc> so wirt die Kröte von Milch sehr groß.
                </head>
-               
             </div>
             
             <div type="epigram" xml:lang="de">
@@ -50,20 +47,19 @@
                   <lb n="6"/><l>Daß sie lasse kein Gifft an deß Menschen Herz hafften.</l>
                </lg>
             </div>
+            
             <fw type="catchword" place="bottom-right">Emble</fw>
+            <pb n="29" edRef="Maier1618"/> 
+            <fw type="header" place="top-center">Emblema V.<hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.</fw> <fw type="pageNum" place="top-right">29</fw>
             
-            <pb n="29"/> 
-            
-            <div type="image-caption">
+            <div type="image" xml:lang="la">
                <head>
-                  <lb n="1"/>Emblema V.<hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">29</fw>
-                  <lb n="2"/>Appone mulieri super mammas bufonem, ut ablactet eum,
-                  <lb n="3"/><g type="ampersand">et</g> moriatur mulier, sit<hi rend="acute">q</hi>ue bufo grossus de lacte.
+                  <lb n="1"/>Appone mulieri super mammas bufonem, ut ablactet eum,
+                  <lb n="2"/><g type="ampersand">et</g> moriatur mulier, sit<hi rend="acute">q</hi>ue bufo grossus de lacte.
                </head>
-            </div>
-            
-            <figure><graphic url=""></graphic></figure>
-            
+               <figure><graphic url=""></graphic></figure>
+
+            </div>            
             <div type="epigram" xml:lang="la">
                <head>Epigramma V.</head>
                <lg>
@@ -77,14 +73,15 @@
             </div>
             
            <fw type="gathering">D 3</fw> <fw type="catchword" place="bottom-right">Tota</fw>
+            <pb n="30" edRef="Maier1618"/>
+            <fw type="pageNum" place="top-left">30</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="5">V</num>.</fw>
             
-            <div type="discourse">
-               <pb n="30"/>
-               <head><fw type="pageNum" place="top-left">30</fw> <hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="5">V</num>.</head>
-                  <ab>
+            <div type="discourse" xml:lang="la">
+                  <div type="discourse-p1">
+                     <ab>
                      <lb n="1"/><milestone unit="section" n="e05-01"/>Tota Philosophorum congregatio in hoc consentit, quod opus
                      <lb n="2"/>eorum nihil aliud sit, qu<hi rend="grave">a</hi>m mas <g type="ampersand">et</g> f<hi rend="ligature">oe</hi>mina: Maris ver<hi rend="grave">o</hi> est, ge
-                     <lb n="3" break="no"/>nerare <g type="amersand">et</g> dominari f<hi rend="ligature">oe</hi>min<hi rend="ligature">ae</hi>; hujus concipere, impr<hi rend="ligature">ae</hi>gnari, parere,
+                     <lb n="3" break="no"/>nerare <g type="ampersand">et</g> dominari f<hi rend="ligature">oe</hi>min<hi rend="ligature">ae</hi>; hujus concipere, impr<hi rend="ligature">ae</hi>gnari, parere,
                      <lb n="4"/>lactare <g type="ampersand">et</g> educare sobolem, <expan><abbr>mar<hi rend="acute">i</hi><am> </am>q<am>;</am></abbr><ex>que</ex></expan> imperio subjici: <milestone unit="section" n="e05-02"/>Ut enim con
                      <lb n="5" break="no"/>ceptum f<hi rend="ligature">oe</hi>tum, antequam edatur in lucem, sub sanguine, ita <expan><abbr>editu</abbr><ex>m</ex></expan>
                      <lb n="6"/>lacte fovet <g type="ampersand">et</g> nutrit. <milestone unit="section" n="e05-03"/>Hinc natura pr<hi rend="ligature">ae</hi>paravit tenello pusioni in <expan><abbr>ma</abbr><ex>m</ex>
@@ -115,13 +112,14 @@
                      <lb n="31" break="no"/>fo non os, sed mammam mulieris occupat, cujus lacte ade<hi rend="grave">o</hi> incre
                      <lb n="32" break="no"/>scit, ut ingentis magnitudinis <g type="ampersand">et</g> roboris evadat: <milestone unit="section" n="e05-13"/> Mulier ver<hi rend="grave">o</hi> viri
                      <lb n="33" break="no"/>bus absumptis extabescat <g type="ampersand">et</g> moriatur: Venenum enim facil<hi rend="grave">e</hi> per
-                     <lb/>
                   </ab>
+                  </div>
+               
                <fw type="catchword" place="bottom-right">venas</fw>
-                  
-               <pb n="31"/>
-               <head><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="5">V</num>. <fw type="pageNum" place="top-right">31</fw></head>
-                  <ab>
+               <pb n="31" edRef="Maier1618"/>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="5">V</num>.</fw> <fw type="pageNum" place="top-right">31</fw>
+     <div type="discourse-p2">
+        <ab>
                      <lb n="1"/>venas pectorales communicatur cordi, id<hi rend="acute">q</hi>ue inficit <g type="ampersand">et</g> extinguit,
                         <add place="margin-right">
                            <lb n="1"/><persName ref="http://viaf.org/viaf/42197189" cert="low">Theophilus</persName>
@@ -162,9 +160,9 @@
                      <lb n="30" break="no"/>b<hi rend="ligature">ae</hi>o magnific<hi rend="grave">e</hi> salutaretur, si in crepusculo illi obvius incederet?
                      <lb n="31"/><milestone unit="section" n="e05-22"/> Quis aurifaber subterraneus fabricasset illi auream <expan><abbr>cathena</abbr><ex>m</ex></expan>? Fort<hi rend="grave">e</hi>
                      <lb n="32"/>viridium puerorum pater, qui ex terra <persName ref="http://viaf.org/viaf/73825464"><expan><abbr>S<am>.</am></abbr><ex>ancti</ex></expan> Martini</persName>, im<hi rend="grave">o</hi> ex ipsa terra,
-                     <lb n="33"/>ut <g type="ampersand">et</g> duo canes ex lapicidina, eodem authore, prodierunt?
-                     <lb/> 
-                  </ab> 
+                     <lb n="33"/>ut <g type="ampersand">et</g> duo canes ex lapicidina, eodem authore, prodierunt?                 
+                  </ab>
+     </div> 
                 <fw type="catchword" place="bottom-right" xml:lang="de"><hi rend="gothic">Sähet</hi></fw>
                 </div>
             

@@ -1,0 +1,146 @@
+<?xml version="1.1" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+     <revisionDesc>
+        <change when="2018-03-16" who="SJD">Start encoding</change>
+        <change when="2018-03-16" who="SJD">Finish draft</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
+     </revisionDesc>
+  </teiHeader>
+   
+   
+  <text>
+      <body>
+         <div type="emblem" n="e40">
+            <pb n="168" edRef="Maier1618"/>
+            <fw type="pageNum" place="top-left">168</fw><fw type="header" place="top-center">FUGA <num value="40" type="cardinal">XL</num>. in <num value="6">6</num>. infrà.</fw>
+            
+            <div type="fugue" xml:lang="de">
+               <head>
+
+               <lb n="2"/>Auß zweijen Wassern mach eins <pc>/</pc> und es wirt seijn
+               <lb n="3"/>das Wasser der Gesundheit.
+            </head>
+               
+            </div>
+            
+            <div type="epigram" xml:lang="de">
+               <head><num value="40" type="cardinal">XL</num>. Epigrammatis Latini versio Germanica.</head>
+               <lg>
+                  <lb n="1"/><l>Zwen Brunnen quellen auff mit starckem Lauff klar und süß <pc>/</pc></l>
+                  <lb n="2"/><l>Ein deß Knäbleins <pc>/</pc> so gibt warm Wasser mit Uberfluß <pc>/</pc></l>
+                  <lb n="3"/><l>Der ander aber kalt <pc>/</pc> genennet der Jungfrawen Brünlein <pc>/</pc></l>
+                  <lb n="4"/><l>Mische diß <pc>/</pc> und mache auß zweij Wasseren <pc>/</pc> daß nur werde ein <pc>/</pc></l>
+                  <lb n="5"/><l>Als dann diß Wasser all beijder vermischte Krafft in sich behalt <pc>/</pc></l>
+                  <lb n="6"/><l>Wie <persName type="divinity"><hi rend="latin">Jovis Hammonii</hi></persName> Brunn warm ist und darzu kalt.</l>
+               </lg>
+            </div>
+            <fw type="catchword">Emble-</fw>
+            
+            <pb n="169" edRef="Maier1618"/>
+            
+            <fw type="header" place="top-center">Emblema <num value="40" type="cardinal">XL</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">169</fw><div type="image" xml:lang="la"><head/></div>            
+            <div type="epigram" xml:lang="la">
+               <head>Epigramma <num value="40" type="cardinal">XL</num>.</head>
+               <lg>
+                  <lb n="1"/><l>Sunt bini liquido salientes gurgite fontes,</l>
+                  <lb n="2"/><l>Hinc Pueri calidam suggerit unus aquam:</l>
+                  <lb n="3"/><l>Alter habe gelidam, qu<hi rend="ligature">ae</hi> Virginis Unda vocatur,</l>
+                  <lb n="4"/><l>Hanc illi jungas, sint aqu<hi rend="ligature">ae</hi> ut unda du<hi rend="ligature">ae</hi>:</l>
+                  <lb n="5"/><l>Rivus <g type="ampersand">et</g> hic mixtas vires utriusque tenebit,</l>
+                  <lb n="6"/><l>Ceu <persName type="divinity">Jovis Hammonii</persName> fons calet atque riget.</l> 
+               </lg>
+            </div>
+            
+            <fw type="gathering" place="bottom-right">Y</fw> <fw type="catchword" place="bottom-right">Tot</fw>
+            
+            <div type="discourse" xml:lang="la">
+               <pb n="170" edRef="Maier1618"/>
+               <fw type="pageNum" place="top-left">170</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="40">XL</num>.</fw>
+                  <div type="discourse-p1"><ab>
+                     <lb n="1"/><milestone unit="section" n="e40-01"/>Tot <g type="ampersand">et</g> tanta sunt aquarum miracula, ut vix magno volumine
+                     <lb n="2"/>comprehendi possint, de quibus sparsim varii egerunt authores.
+                     <lb n="3"/><milestone unit="section" n="e40-02"/>Sed pr<hi rend="ligature">ae</hi> omnibus du<hi rend="ligature">ae</hi> aqu<hi rend="ligature">ae</hi> Philosophic<hi rend="ligature">ae</hi> celebrantur eo nomine,
+                     <lb n="4"/>quod quasi c<hi rend="ligature">ae</hi>terarum omnium vires <g type="ampersand">et</g> proprietates non tant<hi rend="grave">u</hi>m
+                     <lb n="5"/><hi rend="ligature">ae</hi>mulentur, sed quoque superent. <milestone unit="section" n="e40-03"/> <placeName>Sybaris</placeName>, <placeName>Axus <placeName>Macedoni<hi rend="ligature">ae</hi></placeName></placeName>, <placeName>Melas
+                     <lb n="6"/><placeName>B<hi rend="ligature">oe</hi>oti<hi rend="ligature">ae</hi></placeName></placeName>, fluvii, nigras <expan><abbr>redd<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>t</abbr></expan> pecudes, si <expan><abbr>bib<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>tur</abbr></expan>; <placeName>Crathis</placeName> ver<hi rend="grave">o</hi>, <placeName><expan><abbr>Cli
+                        <lb n="7" break="no"/>t<hi rend="tilde">u</hi></abbr><ex>m</ex><abbr>nu</abbr></expan></placeName>, <placeName>Mevani<hi rend="ligature">ae</hi></placeName> <g type="ampersand">et</g> <placeName>Cephisu</placeName> fluvii ex nigris albas. <milestone unit="section" n="e40-04"/>Aqu<hi rend="ligature">ae</hi> <placeName>Sinuessan<hi rend="ligature">ae</hi></placeName>
+                     <lb n="8"/>in <placeName>Campani<hi rend="ligature">ae</hi></placeName> regione sterilitatem utriusque sexus abolent. <milestone unit="section" n="e40-05"/><placeName>Afrodi
+                     <lb n="9" break="no"/>sius</placeName> fluvius mulieres steriles facit: <placeName>Cabura</placeName> fons <placeName>Mesopotami<hi rend="ligature">ae</hi></placeName> <expan><abbr>aqu<hi rend="tilde">a</hi></abbr><ex>m</ex></expan>
+                     <lb n="10"/>habet jucun<hi rend="grave">e</hi> olentem; <placeName>Anygri</placeName> aqua in <placeName>Peloponneso</placeName> admodum
+                     <lb n="11"/>f<hi rend="ligature">oe</hi>tet: <persName>Jovis Hammonii</persName> fons die friget, noctu calet, man<hi rend="grave">e</hi> <g type="ampersand">et</g> vesperi
+                     <lb n="12"/>tepet alternis vicibus. <milestone unit="section" n="e40-06"/>Reliqua ne moremur, omnia etiam contraria
+                     <lb n="13"/>sibi invicem <hi rend="grave">a</hi> Philosophorum aquis pr<hi rend="ligature">ae</hi>stantur. <milestone unit="section" n="e40-07"/>De quibus <persName ref="http://viaf.org/viaf/120696927">Lullius</persName>
+                     <lb n="14"/><expan><abbr>lib<am>.</am></abbr><ex>ro</ex></expan> <title>de Quinta <expan><abbr>essent<am>.</am></abbr><ex>ia</ex></expan> <expan><abbr>distin</abbr><ex cert="low">cta</ex></expan></title>: <num value="3">3</num>. de inceratione; Et sic est, inquit, du
+                     <lb n="15" break="no"/>plex consideratio in arte, scilicet componere ex una natura unius
+                     <lb n="16"/>metalli duos liquores contrarios in compositione; unum, qui virtu
+                     <lb n="17" break="no"/>tem habeat fixantem, congelantem <g type="ampersand">et</g> indurantem, <g type="ampersand">et</g> alterum, qui
+                     <lb n="18"/>sit volatilis, infixus <g type="ampersand">et</g> mollis. <milestone unit="section" n="e40-07"/>Iste ver<hi rend="grave">o</hi> secundus liquor induratur,
+                     <lb n="19"/>fixatur <g type="ampersand">et</g> congelatur per primum: Ex quibus ambobus liquoribus
+                     <lb n="20"/>resultat unus lapis congelatus fixus <g type="ampersand">et</g> induratus, qui habet <expan><abbr>virtut<hi rend="tilde">e</hi></abbr><ex>m</ex></expan>
+                     <lb n="21"/>congelandi non congelatum, indurare mollificum <g type="ampersand">et</g> mollificare
+                     <lb n="22"/>durum. <milestone unit="section" n="e40-08"/>Ex quibus apparet qu<hi rend="ligature">ae</hi> sint aqu<hi rend="ligature">ae</hi> ill<hi rend="ligature">ae</hi> bin<hi rend="ligature">ae</hi>, <g type="ampersand">et</g> cur in unam
+                     <lb n="23"/>aquam redigend<hi rend="ligature">ae</hi>: Lapis enim aqua dicitur, quia funditur, <g type="ampersand">et</g> vice
+                     <lb n="24"/>versa, aqua lapis, quia teritur. <milestone unit="section" n="e40-09"/>Ver<hi rend="grave">u</hi>m ex locis diversis h<hi rend="ligature">ae</hi> aqu<hi rend="ligature">ae</hi> du
+                     <lb n="25" break="no"/>cuntur, interdum longo tractu, velut <placeName>Rom<hi rend="ligature">ae</hi></placeName> videre est circa <expan><abbr>Aqu<hi rend="tilde">a</hi></abbr><ex>m</ex></expan>
+                     <lb n="26"/>Virginis ali<hi rend="acute">o</hi>sque fontes factitios, <g type="ampersand">et</g> deinde per <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>n</ex><abbr>fluxum</abbr></expan> miscenda
+                     <lb n="27"/>sunt, ut una fiat ex duabus. <milestone unit="section" n="40-10"/>Si enim una est virtutis calid<hi rend="ligature">ae</hi> <g type="ampersand">et</g> altera
+                     <lb n="28"/>frigid<hi rend="ligature">ae</hi>, commixt<hi rend="ligature">ae</hi> mixtas vires obtinebunt <g type="ampersand">et</g> miro modo se invi
+                     <lb n="29" break="no"/>cem temperabunt: Hinc aqu<hi rend="ligature">ae</hi> medicat<hi rend="ligature">ae</hi> <g type="ampersand">et</g> therm<hi rend="ligature">ae</hi> pr<hi rend="ligature">ae</hi>stantissi
+                     <lb n="30" break="no"/>m<hi rend="ligature">ae</hi> orientur, qu<hi rend="ligature">ae</hi> omnis generis morbos <g type="ampersand">et</g> affectus profligabunt,
+                     <lb n="31"/>homin<hi rend="acute">e</hi>mque firm<hi rend="ligature">ae</hi> sanitati restituent. <milestone unit="section" n="e40-11"/>Natura quidem occulto suo
+                     <lb n="32"/>compositionis artificio multas aquas terr<hi rend="ligature">ae</hi> gremio cum diversis mi
+                     <lb n="33" break="no"/>nerarum virtutibus confundit <g type="ampersand">et</g> miscet, qu<hi rend="ligature">ae</hi> plurimis <hi rend="ligature">ae</hi>gris sint
+                  </ab></div>
+                  <fw type="catchword" place="bottom-right">saluti-</fw>
+               <pb n="171" edRef="Maier1618"/>
+               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="40">XL</num>.</fw> <fw type="pageNum" place="top-right"><choice><sic>155</sic><corr>171</corr></choice></fw>
+                  <div type="discourse-p2"><ab>
+                     <lb n="1"/>salutifer<hi rend="ligature">ae</hi>, sed si ars accedat cum debito regimine, pr<hi rend="ligature">ae</hi>missis univer
+                     <lb n="2" break="no"/>salibus evacuationibus ali<hi rend="acute">i</hi>sque pr<hi rend="ligature">ae</hi>mittendis, <g type="ampersand">et</g> misceat inter se
+                     <lb n="3"/>miscenda, <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>m</ex><abbr>positio</abbr></expan> illa long<hi rend="grave">e</hi> effacior erit. <milestone unit="section" n="e40-12"/>Qu<hi rend="ligature">ae</hi> quamvis artificia
+                     <lb n="4" break="no"/>lis videatur, est tamen mer<hi rend="grave">e</hi> naturalis, quia res fit una <g type="ampersand">et</g> simplex, ho
+                     <lb n="5" break="no"/>mogenea ex diversis, qu<hi rend="ligature">ae</hi> arte nunquam fieri potest. <milestone unit="section" n="e40-13"/>Crama qui
+                     <lb n="6" break="no"/>dem <g type="ampersand">et</g> confusio ab arte causatur absque natur<hi rend="ligature">ae</hi> ope non vera <g type="ampersand">et</g> na
+                     <lb n="7" break="no"/>turalis unio, qu<hi rend="ligature">ae</hi> <hi rend="grave">a</hi> sola fit natura: <milestone unit="section" n="e40-14"/>In Theriaca variorum simplicium
+                     <lb n="8"/>est mixtio <choice><sic>arrificialis</sic><corr>artificialis</corr></choice>, qu<hi rend="ligature">ae</hi> per contritionem <g type="ampersand">et</g> fermentationem
+                     <lb n="9"/>fit, at nemo eam naturalem compositionem, multo min<hi rend="grave">u</hi>s homoge
+                     <lb n="10" break="no"/>neum Medicamentum affirmabit, nisi temer<hi rend="grave">e</hi>: <milestone unit="section" n="e40-15"/>De substantiarum
+                     <lb n="11"/>mixtione artificiali constat, quod non per minima se invicem ingre
+                     <lb n="12" break="no"/>diantur, quamvis humana industria iter<hi rend="grave">u</hi>m ab invicem discerni ac
+                     <lb n="13"/>separari nequeant. <milestone unit="section" n="e40-16"/>At de qualitatum omnium mixtione disquiri
+                     <lb n="14" break="no"/>tur, num prim<hi rend="ligature">ae</hi> omnium simplicium Theriac<hi rend="ligature">ae</hi>, in unam Quintam
+                     <lb n="15"/>essentiam transierint, an ver<hi rend="grave">o</hi> adhuc in suis pulveribus vel substan
+                     <lb n="16" break="no"/>tiis, ut prius, sint velut accidentia in subjecto vel color in pariete; <milestone unit="section" n="e40-17"/>Ac
+                     <lb n="17"/>de inde <expan><abbr><hi rend="stroke">q</hi></abbr><ex>ui</ex><abbr>d</abbr></expan> de <expan><abbr>sec<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>dis</abbr></expan>, tertiis <g type="ampersand">et</g> quartis <expan><abbr>qualitatib<am>.</am></abbr><ex>us</ex></expan> <expan><abbr>dic<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>d<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>? Probabi
+                     <lb n="18" break="no"/>le est omnes qualitates in suis propriis adhuc h<hi rend="ligature">ae</hi>rere subjectis, nec ve
+                     <lb n="19" break="no"/>ra naturali mixtione inter se componi; <milestone unit="section" n="e40-18"/>Alias si qualitates corpora sua
+                     <lb n="20"/>relinquerent, essen quatuor quint<hi rend="ligature">ae</hi> essenti<hi rend="ligature">ae</hi> in quolibet composi
+                     <lb n="21" break="no"/>to artificiali, juxta numerum ordinis qualitatum, primarum, secun
+                     <lb n="22" break="no"/>darum <expan><abbr><g type="ampersand">et</g>c<am>.</am></abbr><ex><hi rend="ligature">ae</hi>tera</ex></expan> absque suis corporibus, <g type="ampersand">et</g> separabiles; <milestone unit="section" n="e40-19"/>quod ita se non
+                     <lb n="23"/>habet De coagulo leporino scribunt, quod in fluxu <hi rend="grave">a</hi> tenuitate san
+                     <lb n="24" break="no"/>guinis, eum sistat <g type="ampersand">et</g> quasi coagulet, in coagulatione ver<hi rend="grave">o</hi> <g type="ampersand">et</g> grumis
+                     <lb n="25"/>eundem incidat <g type="ampersand">et</g> resolvat; sic aceti, plumbi <g type="ampersand">et</g> multorum aliorum
+                     <lb n="26"/>s<hi rend="invert">u</hi>nt contrari<hi rend="ligature">ae</hi> operationes pro diverso eorum usu, quia natura ita
+                     <lb n="27"/>mirabiliter ea miscuit: <milestone unit="section" n="e40-20"/>sic <g type="ampersand">et</g> aqua Philosophica diversas <g type="ampersand">et</g> contra
+                     <lb n="28" break="no"/>rias, habet <choice><sic>virrutes</sic><corr>virtutes</corr></choice>, quia naturanatura ex contrariis artis adminiculo eam
+                     <lb n="29"/>miscuit in unam indivisibilem substantiam, qu<hi rend="ligature">ae</hi> nihil aliud est nisi
+                     <lb n="30"/>Quinta essentia, respectu aliorum cum ea miscendorum.
+                  </ab></div>
+               <fw type="gathering" place="bottom-right">Y 2</fw> <fw type="catchword" place="bottom-right" xml:lang="de">Adonis</fw>                  
+            </div>            
+         </div>
+      </body>
+  </text>
+</TEI>

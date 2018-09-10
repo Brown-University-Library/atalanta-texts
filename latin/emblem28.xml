@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.1" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -18,6 +15,7 @@
      <revisionDesc>
         <change when="2018-02-12" who="SJD">Start encoding</change>
         <change when="2018-02-12" who="SJD">Finish draft</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
      </revisionDesc>
   </teiHeader>
    
@@ -25,17 +23,15 @@
   <text>
       <body>
          <div type="emblem" n="e28">
-            <pb n="120"/>
-            <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">120</fw> FUGA <num value="28" type="cardinal">XXVIII</num>. in <num value="9">9</num> seu <num value="12">12</num>. suprà.
+            <pb n="120" edRef="Maier1618"/>
+            <fw type="pageNum" place="top-left">120</fw><fw type="header" place="top-center">FUGA <num value="28" type="cardinal">XXVIII</num>. in <num value="9">9</num> seu <num value="12">12</num>. suprà.</fw>
+            
+            <div type="fugue" xml:lang="de">
+               <head>
+
                <lb n="2"/>Der König badet im lüfftigen Bade <pc>/</pc> und wirt der
                <lb n="3"/>schwarzen Gallen entlediget durch <persName>Pharut</persName>.
             </head>
-            
-            <div type="fugue">
-               <head>
-                  
-               </head>
                
             </div>
             
@@ -44,7 +40,7 @@
                <lg>
                   <lb n="1"/><l>Der König <persName>Duenech</persName> (der ein grünen Löwen führet in seinm Schildt)</l>
                   <lb n="2"/><l>Durch der Gallen Uberfluß von Sitten scheinte ganz wildt <pc>/</pc></l>
-                  <lb n="3"/><l>Drumb fordert er zusich den Arzten <persName>Pharut</persName> <pc></pc> der zusagt</l>
+                  <lb n="3"/><l>Drumb fordert er zusich den Arzten <persName>Pharut</persName> <pc/> der zusagt</l>
                   <lb n="4"/><l>Ihm zuhelffen <pc>/</pc> und bald ein lüfftig Wasserbad macht.</l>
                   <lb n="5"/><l>Hierinn er badet sehr offt mit gläserm Gewölbe umbgeben <pc>/</pc></l>
                   <lb n="6"/><l>Biß er vom Thaw benezt <pc>/</pc> von der Gallen freij thät leben.</l>
@@ -52,19 +48,9 @@
             </div>
             <fw type="catchword">Emble-</fw>
             
-            <pb n="121"/>
+            <pb n="121" edRef="Maier1618"/>
             
-            <div type="image-caption">
-               <head>
-                  <lb n="1"/>Emblema <num value="28" type="cardinal">XXVIII</num>. De Secretis Natur<hi rend="ligature">ae</hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">121</fw>
-                  <lb n="2"/>Rex balneatur in Laconico sedens,
-                  <lb n="3"/>Atr<hi rend="circumflex">a</hi>que bile liberatur <hi rend="grave">a</hi> <persName>Pharut</persName>.
-               </head>
-               
-            </div>
-            
-            <figure><graphic url=""></graphic></figure>
-            
+            <fw type="header" place="top-center">Emblema <num value="28" type="cardinal">XXVIII</num>. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">121</fw><div type="image" xml:lang="la"><head/></div>            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="28" type="cardinal">XXVIII</num>.</head>
                <lg>
@@ -80,9 +66,9 @@
             <fw type="gathering" place="bottom-right">Q</fw> <fw type="catchword" place="bottom-right">Ut</fw>
             
             <div type="discourse" xml:lang="la">
-               <pb n="122"/>
-               <head><fw type="pageNum" place="top-left">122</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="28">XXVIII</num>.</head>
-                  <ab>
+               <pb n="122" edRef="Maier1618"/>
+               <fw type="pageNum" place="top-left">122</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="28">XXVIII</num>.</fw>
+                  <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e28-01"/>Ut tres sunt in homine concoctiones, prima in ventriculo, <expan><abbr>sec<hi rend="tilde">u</hi></abbr><ex>n</ex>
                         <lb n="2" break="no"/><abbr>da</abbr></expan> in epate, teria in venis, ita <g type="ampersand">et</g> totidem sunt universales excre
                      <lb n="3" break="no"/>mentorum evacuationes, qu<hi rend="ligature">ae</hi> illis correspondeant, <expan><abbr>ear<hi rend="acute">u</hi>mq<am>;</am></abbr><ex>ue</ex></expan> super
@@ -111,24 +97,24 @@
                      <lb n="26"/>nisi fallor, inscript<hi rend="ligature">ae</hi>, qu<hi rend="grave">a</hi>m alta, superba <g type="ampersand">et</g> splendida sint opera. <milestone unit="section" n="e28-09"/>E<hi rend="ligature">ae</hi>
                      <lb n="27" break="no"/>dem fer<hi rend="grave">e</hi>, qu<hi rend="ligature">ae</hi> antea dict<hi rend="ligature">ae</hi>, sunt concotionum species in metallur
                      <lb n="28" break="no"/>gia: Prima <expan><ex>e</ex><abbr>n<am>.</am></abbr><ex>im</ex></expan> suo modo fit in magno anno, hoc est, revolutione supre
-                     <lb n="29" break="no"/>m<hi rend="ligature">ae</hi> sph<hi rend="ligature">ae</hi>r<hi rend="ligature">ae</hi>, secunda in revolutione infim<hi rend="ligature">ae</hi> sph<hi rend="ligature">ae</hi>r<hi rend="ligature">ae></hi>, tertia in medi<hi rend="ligature">ae</hi>:
+                     <lb n="29" break="no"/>m<hi rend="ligature">ae</hi> sph<hi rend="ligature">ae</hi>r<hi rend="ligature">ae</hi>, secunda in revolutione infim<hi rend="ligature">ae</hi> sph<hi rend="ligature">ae</hi>r<hi rend="ligature">ae&gt;</hi>, tertia in medi<hi rend="ligature">ae</hi>:
                      <lb n="30"/><milestone unit="section" n="e28-10"/>Ver<hi rend="grave">u</hi>m <expan><abbr>Philos<am>.</am></abbr><ex>ophi</ex></expan> ut has exrementitiarum <expan><abbr>su<hi rend="stroke">p</hi></abbr><ex>er</ex><abbr>fluitatum</abbr></expan> saburras <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>m</ex>
                         <lb n="31" break="no"/><abbr>modi<hi rend="grave">u</hi>s</abbr></expan> <expan><abbr><hi rend="stroke">p</hi></abbr><ex>er</ex></expan> artis ministerium educant, inveniunt <expan><abbr>quoq<am>;</am></abbr><ex>ue</ex></expan> varias vias, ut 
                      <lb n="32"/>ablutiones, purgationes, balneationes <g type="ampersand">et</g> laconica, quibus id pr<hi rend="ligature">ae</hi>sti
                      <lb n="33" break="no"/>terunt in <expan><abbr>Philos<am>.</am></abbr><ex>ophico</ex></expan> opere, quod medici in humano corpore: <milestone unit="section" n="e28-11"/><persName>Duenech</persName>
-                  </ab>
+                  </ab></div>
                   <fw type="catchword" place="bottom-right">itaque</fw>
-               <pb n="123"/>
-               <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="28">XXVIII</num>. <fw type="pageNum" place="top-right">123</fw></head>
-                  <ab>
-                     <lb n="1"/><expan><abbr>itaq<am>;</am></abbr><ex>ue</ex></expan> <hi rend="grave">a</hi> <persName>Pharut></persName> in Laconicum introducitur, ut ibi sudet, <g type="ampersand">et</g> terti<hi rend="ligature">ae</hi> <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>n</ex>
+               <pb n="123" edRef="Maier1618"/>
+               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="28">XXVIII</num>.</fw> <fw type="pageNum" place="top-right">123</fw>
+                  <div type="discourse-p2"><ab>
+                     <lb n="1"/><expan><abbr>itaq<am>;</am></abbr><ex>ue</ex></expan> <hi rend="grave">a</hi> <persName>Pharut&gt;</persName> in Laconicum introducitur, ut ibi sudet, <g type="ampersand">et</g> terti<hi rend="ligature">ae</hi> <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>n</ex>
                      <lb n="2" break="no"/><abbr>coctionis</abbr></expan> f<hi rend="ligature">oe</hi>ces per poros excernat: Est autem hujus regis affectus
                      <lb n="3"/><expan><abbr>mel<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>cholicus</abbr></expan> seu atrabilarius, unde <expan><abbr>omnib<am>.</am></abbr><ex>us</ex></expan> aliis <expan><abbr>principib<am>.</am></abbr><ex>us</ex></expan> in minori
                      <lb n="4"/>authoritate <g type="ampersand">et</g> precio est habitus, dum <persName>Saturni</persName> morositate <g type="ampersand">et</g> <persName>Martis</persName>
                      <lb n="5"/>cholera seu iracundia fuerit taxatus: Ipse igitur aut mori aut cu
                      <lb n="6" break="no"/>rari voluit, si id possibile: <milestone unit="section" n="e28-12"/>Unus ex medicis inventus, qui <expan><abbr>h<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>c</abbr></expan> sibi
                      <lb n="7"/>provinciam <expan><abbr>imposit<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> suscepit, <expan><abbr>precib<am>.</am></abbr><ex>us</ex></expan> <expan><abbr>pr</abbr><ex>a</ex><abbr><hi rend="hook">e</hi>mi<hi rend="acute">i</hi>sq<am>;</am></abbr><ex>ue</ex></expan> adductus: <expan><abbr>Estq<am>;</am></abbr><ex>ue</ex></expan> h<hi rend="ligature">ae</hi>c
-                     <lb n="8"/>allegoria <expan><abbr><hi rend="stroke">p</hi></abbr><ex>er</ex></expan> <expan><abbr>frequ<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>s</abbr></expan> in scriptis <expan><abbr>Philos<am>.</am></abbr><ex>ophicis</ex></annr></expan> utpote <persName ref="https://viaf.org/viaf/93170968">Bernhardi</persName>, <persName ref="https://viaf.org/viaf/72187470">Alani</persName>, tracta
+                     <lb n="8"/>allegoria <expan><abbr><hi rend="stroke">p</hi></abbr><ex>er</ex></expan> <expan><abbr>frequ<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>s</abbr></expan> in scriptis <expan><abbr>Philos<am>.</am></abbr><ex>ophicis</ex></expan> utpote <persName ref="https://viaf.org/viaf/93170968">Bernhardi</persName>, <persName ref="https://viaf.org/viaf/72187470">Alani</persName>, tracta
                      <lb n="9"/>tulo de <persName>Duenect</persName> <g type="ampersand">et</g> innumeris aliis, ide<hi rend="grave">o</hi> <expan><abbr>circ<hi rend="tilde">u</hi></abbr><ex>m</ex><abbr>stantias</abbr></expan> alias ex iis pe
                      <lb n="10" break="no"/>tendas non adjicimus: <milestone unit="section" n="e28-13"/>Satis sit hic observ<hi rend="circumflex">a</hi>sse, cujus coctionis exre
                      <lb n="11" break="no"/>tur: Solet autem in thermis seu balneis calidis calor in corpore con
@@ -151,7 +137,7 @@
                      <lb n="28"/><expan><abbr>balneation<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> illi induendis nemo sit sollicitus; Filia <expan><ex>e</ex><abbr>n<am>.</am></abbr><ex>im</ex></expan> regis <persName>Alcinoi</persName> ut
                      <lb n="29"/>olim <persName>Ulyssi</persName> naufrago <g type="ampersand">et</g> nudo vestes pr<hi rend="ligature">ae</hi>buit, sic erit qui ipsi precio
                      <lb n="30" break="no"/>sissimas mittet, ut filis <persName>Solis</persName> merit<hi rend="grave">o</hi> agnosci possit.
-                  </ab>
+                  </ab></div>
                <fw type="gathering" place="bottom-right">Q ii</fw> <fw type="catchword" place="bottom-right" xml:lang="de">Wie</fw>                  
             </div>
             

@@ -1,0 +1,146 @@
+<?xml version="1.1" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+     <revisionDesc>
+        <change when="2018-03-17" who="SJD">Start encoding</change>
+        <change when="2018-03-18" who="SJD">Finish draft</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
+     </revisionDesc>
+  </teiHeader>
+   
+   
+  <text>
+      <body>
+         <div type="emblem" n="e44">
+            <pb n="184" edRef="Maier1618"/>
+            <fw type="pageNum" place="top-left">184</fw><fw type="header" place="top-center">FUGA <num value="44" type="cardinal">XLIV</num>. in <num value="5">5</num>. seu <num value="12">12</num> suprà. Basi sola proportione existente.</fw>
+            
+            <div type="fugue" xml:lang="de">
+               <head>
+
+               <lb n="2"/>Durch Betrug <persName type="divinity"><hi rend="latin">Typhon</hi></persName> <persName type="divinity"><hi rend="latin">Osirim</hi></persName> tödtet <pc>/</pc> und seine Glieder
+               <lb n="3"/>zerstrewet <pc>/</pc> welche widerumb zusammen bringt die <persName type="divinity"><hi rend="latin">Isis</hi></persName>,
+               <lb n="4"/>so weit berümbt.
+            </head>
+               
+            </div>
+            
+            <div type="epigram" xml:lang="de">
+               <head><num value="44" type="cardinal">XLIV</num>. Epigrammatis Latini versio Germanica.</head>
+               <lg>
+                  <lb n="1"/><l><placeName>Syrien</placeName> <persName><hi rend="latin">Adonim</hi></persName> hat <pc>/</pc> <persName type="divinity"><hi rend="latin">Dionysum</hi></persName> <placeName>Griechenland</placeName> eben <pc>/</pc></l>
+                  <lb n="2"/><l><placeName>Egypten</placeName> <persName type="divinity"><hi rend="latin">Osirim</hi></persName>, so seijnd die Sonn den Weisen geben <pc>/</pc></l>
+                  <lb n="3"/><l>Die <persName type="divinity"><hi rend="latin">Isis</hi></persName> ist die Schwester <pc>/</pc> auch Mutter und <persName type="divinity"><hi rend="latin">Osiridis</hi></persName> Weib <pc>/</pc></l>
+                  <lb n="4"/><l>Welchs Glieder der <persName type="divinity"><hi rend="latin">Typhon</hi></persName> theilt <pc>/</pc> sie wider fügt in ein Leib <pc>/</pc></l>
+                  <lb n="5"/><l>Ihm aber gebrach das Glied deß Manns <pc>/</pc> im Wasser verlohren <pc>/</pc></l>
+                  <lb n="6"/><l>Dann der Schwebel vergeht <pc>/</pc> so den Schwebel gebohren.</l>
+               </lg>
+            </div>
+            <fw type="catchword">Emble-</fw>
+            
+            <pb n="185" edRef="Maier1618"/>
+            
+            <fw type="header" place="top-center">Emblema <num value="44" type="cardinal">XLIV</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">185</fw><div type="image" xml:lang="la"><head/></div>            
+            <div type="epigram" xml:lang="la">
+               <head>Epigramma <num value="44" type="cardinal">XLIV</num>.</head>
+               <lg>
+                  <lb n="1"/><l><placeName>Syria</placeName> <persName>Adonidem</persName> habet, <persName type="divinity">Dionysum</persName> <placeName>Gr<hi rend="ligature">ae</hi>cia</placeName>, <persName type="divinity">Osirim</persName></l>
+                  <lb n="2"/><l><placeName><hi rend="ligature">Ae</hi>gyptus</placeName>, qui sunt nil nisi <hi rend="caps">Sol</hi> Sophi<hi rend="ligature">ae</hi>:</l>
+                  <lb n="3"/><l><persName type="divinity"><hi rend="caps">Isis</hi></persName> adest soror, <g type="ampersand">et</g> conjunx ac mater <persName type="divinity">Osiris</persName>,</l>
+                  <lb n="4"/><l>Cujus membra <persName type="divinity">Typhon</persName> dissecat, illa ligat.</l>
+                  <lb n="5"/><l>Defluit at pudibunda mari pars, sparsa per undas,</l>
+                  <lb n="6"/><l>Sulphur enim, <hi rend="caps">Sulphur</hi> quod generavit, abest.</l> 
+               </lg>
+            </div>
+            
+            <fw type="gathering" place="bottom-right">Aa</fw> <fw type="catchword" place="bottom-right">Osyri-</fw>
+            
+            <div type="discourse" xml:lang="la">
+               <pb n="186" edRef="Maier1618"/>
+               <fw type="pageNum" place="top-left">186</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="44">XLIV</num>.</fw>
+                  <div type="discourse-p1"><ab>
+                     <lb n="1"/><milestone unit="section" n="e44-01"/><persName type="divinity">Osyridis</persName> allegoriam alibi, nempe in <num value="1" type="ordinal">1</num>. <expan><abbr>lib<am>.</am></abbr><ex>ro</ex></expan> <title><expan><abbr>Hieroglyph<am>.</am></abbr><ex>icorum</ex></expan></title> ad suam
+                     <lb n="2"/>veram originem, qu<hi rend="ligature">ae</hi> Chymica est, reduximus <g type="ampersand">et</g> plenari<hi rend="grave">e</hi> ex
+                     <lb n="3" break="no"/>plicavimus. Quocirca hic eadem repetere (quamvis eadem de <expan><abbr>iisd<hi rend="tilde">e</hi></abbr><ex>m</ex></expan>
+                     <lb n="4"/>dici <expan><abbr>debe<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>t</abbr></expan>) supervacaneum arbitramur. <milestone unit="section" n="e44-02"/>At nihilomin<hi rend="grave">u</hi>s discursum
+                     <lb n="5"/>hi instituemus parallelum, <expan><abbr><hi rend="stroke">q</hi></abbr><ex>ui</ex></expan> intra carceres Antiqu<hi rend="ligature">ae</hi> Chymi<hi rend="ligature">ae</hi> (<expan><abbr>qu</abbr><ex>a</ex><abbr><hi rend="hook">e</hi></abbr></expan>
+                     <lb n="6"/>tota poëtis decantata <g type="ampersand">et</g> figurata est) semper versabitur <g type="ampersand">et</g> manebit.
+                     <lb n="7"/><milestone unit="section" n="e44-03"/><persName type="divinity">Osyridem</persName> tu mihi Deum, aut regem <orgName><hi rend="ligature">Ae</hi>gytpium</orgName> persuadebis? Non
+                     <lb n="8"/>Non credam, etiamsi persuaseris, ut credam: Long<hi rend="grave">e</hi> aliter enim canes,
+                     <lb n="9"/>long<hi rend="grave">e</hi> aliter (ut est in proverbio) sues olent: Deum plan<hi rend="grave">e</hi> nego, <g type="ampersand">et</g> tu
+                     <lb n="10"/>mihi assentieris, nisi sis Ethnicus aut distort<hi rend="ligature">ae</hi> <hi rend="grave">a</hi> recta ratione opinio
+                     <lb n="11" break="no"/>nis. <milestone unit="section" n="e44-04"/>Regem nec fuisse, demonstratur ex circumstantiis <expan><abbr>omnib<am>.</am></abbr><ex>us</ex></expan> qu<hi rend="ligature">ae</hi>
+                     <lb n="12"/>alibi considerantur: Sol est, sed <expan><abbr>Philos<am>.</am></abbr><ex>opihcus</ex></expan> cujus nomen c<hi rend="grave">u</hi>m illi passim
+                     <lb n="13"/>attributum legatur, vulgares, qui nullum alium nisi mundanum il
+                     <lb n="14" break="no"/>lud lumen noverunt, pro eo interpretati sunt. <milestone unit="section" n="e44-05"/>A sole mundi sol Phi
+                     <lb n="15" break="no"/>losophorum denominantionem habet, quia proprietates natur<hi rend="ligature">ae</hi> ab
+                     <lb n="16"/>illo sole c<hi rend="ligature">oe</hi>lesti descendentes, aut ei convenientes, continet. <milestone unit="section" n="e44-06"/>Sol ita
+                     <lb n="17" break="no"/>que <persName type="divinity">Osyris</persName> est, <persName type="divinity">Dionysus</persName>, <persName type="divinity">Bacchus</persName>, <persName type="divinity">Jupiter</persName>, <persName type="divinity">Mars</persName>, <persName>Adonis</persName>, <persName>Oedypus</persName>,
+                     <lb n="18"/><persName>Perseus</persName>, <persName>Achilles</persName>, <persName>Triptolemus</persName>, <persName>Pelops</persName>, <persName>Hippomenes</persName>, <persName>Pollux</persName>. <milestone unit="section" n="e44-07"/>Luna
+                     <lb n="19"/>ver<hi rend="grave">o</hi> <persName type="divinity">Isis</persName>, <persName type="divinity">Juno</persName>, <persName type="divinity">Venus</persName>, mater <persName>Oedypi</persName>, <persName>Danaë</persName>, <persName>Deidamia</persName>, <persName>Atalanta</persName>,
+                     <lb n="20"/><persName>Helena</persName>: Item <persName type="divinity">Latona</persName>, <persName>Semele</persName>, <persName>Europa</persName>, <persName>Leda</persName>, <persName>Antiope</persName>, <persName type="divinity">Thalia&gt;</persName>. <milestone unit="section" n="e44-08"/><expan><abbr>Atq<am>;</am></abbr><ex>ue</ex></expan>
+                     <lb n="21"/>h<hi rend="ligature">ae</hi> sunt compositi partes, quod ante operationem lapis dicitur, <g type="ampersand">et</g>
+                     <lb n="22"/>nomine omnis metalli, Magnesia: post operationem, <persName type="divinity">Orcus</persName>, <persName>Pyr
+                        <lb n="23" break="no"/>rus</persName>, <persName type="divinity">Apollo</persName>, <persName type="divinity"><hi rend="ligature">Ae</hi>sculapius</persName>. <milestone unit="section" n="e44-09"/>Adjuncta sunt, <persName type="divinity">Typhon</persName>, Python, Aper:
+                     <lb n="24"/>Artifex <persName type="divinity">Hercules</persName>, <persName>Ulysses</persName>, <persName>Jason</persName>, <persName>Theseus</persName>, <persName>Pyrithous</persName>: Labores <g type="ampersand">et</g>
+                     <lb n="25"/>pericula innumera, qu<hi rend="ligature">ae</hi> ab his artificibus exantlata fuere. <milestone unit="section" n="e44-10"/>Videan
+                     <lb n="26" break="no"/>tur <persName type="divinity">Herculis</persName> labores, <persName>Ulyssis</persName> errores, <persName>Jasonis</persName> pericula, <persName>Thesei</persName> cona
+                     <lb n="27" break="no"/>tus <g type="ampersand">et</g> <persName>Pyrithoi</persName> remor<hi rend="ligature">ae</hi>. <milestone unit="section" n="e44-11"/>Magnum hoc est materi<hi rend="ligature">ae</hi> <g type="ampersand">et</g> doctrin<hi rend="ligature">ae</hi> volu
+                     <lb n="28" break="no"/>men, per quod <persName type="divinity">Vulcanus</persName>, <persName type="divinity">Mercurius</persName> <g type="ampersand">et</g> <persName type="divinity">Saturnus</persName> omnibus paginis
+                     <lb n="29"/>currunt <g type="ampersand">et</g> recurrunt, hic ut pater omnium <g type="ampersand">et</g> causa, sine qua non, ille,
+                     <lb n="30"/>ut materia <g type="ampersand">et</g> forma, iste, ut efficiens. <milestone unit="section" n="e44-12"/>Sol ducit sororem lunam in u
+                     <lb n="31" break="no"/>xorem. <persName type="divinity">Jupiter</persName> <persName type="divinity">Junonem</persName>, ut <persName type="divinity">Saturnus</persName> <persName type="divinity">Rheam</persName>, <g type="ampersand">et</g> <persName type="divinity">Osyris&gt;</persName> <persName type="divinity">Isidem&gt;</persName>:
+                     <lb n="32"/><persName type="divinity">Dionysus</persName> ex matre <persName>Semele</persName> combusta fulmine <persName type="divinity">Jovis</persName> eripitur imma
+                     <lb n="33" break="no"/>turandus in femore <persName type="divinity">Jovis</persName> patris, <persName type="divinity"><hi rend="ligature">Ae</hi>sculapius</persName> ex <persName>Coronide</persName> matre:
+                  </ab></div>
+                  <fw type="catchword" place="bottom-right">Diony-</fw>
+               <pb n="187" edRef="Maier1618"/>
+               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="44">XLIV</num>.</fw> <fw type="pageNum" place="top-right">187</fw>
+                  <div type="discourse-p2"><ab>
+                     <lb n="1"/><milestone unit="section" n="e44-13"/><persName type="divinity">Dionysus</persName> adultus novam vini potionem monstrat hominibus <expan><abbr>usq<am>;</am></abbr><ex>ue</ex></expan>
+                     <lb n="2"/>in <placeName>Indiam</placeName> expeditionem suscipiens; <persName type="divinity">Osiris</persName> <g type="ampersand">et</g> <persName>Triptolemus</persName>, frugum
+                     <lb n="3"/>seminationem <g type="ampersand">et</g> usum, <persName type="divinity"><hi rend="ligature">Ae</hi>sculapius</persName>, medicin<hi rend="ligature">ae</hi> administrationem:
+                     <lb n="4"/><persName type="divinity">Dionysus</persName> <orgName>Gr<hi rend="ligature">ae</hi>cis</orgName> sic dictus, <orgName>Romanis</orgName> <persName type="divinity">Bacchus</persName> est, <orgName><hi rend="ligature">Ae</hi>gtypiis</orgName> <persName type="divinity">Osiris&gt;</persName>,
+                     <lb n="5"/><orgName>Syriis</orgName> <persName type="divinity">Adonis</persName>. <milestone unit="section" n="e44-14"/><persName>Oedypus</persName> patrem occ<hi rend="circumflex">i</hi>dit, <g type="ampersand">et</g> matrem duxit; <persName>Perseus</persName>
+                     <lb n="6"/>avum interemit, <persName type="divinity">Typhon</persName> fratrem <persName type="divinity">Osirim</persName>, aper <persName>Adonim</persName>, <persName type="divinity">Ceres</persName>
+                     <lb n="7"/>nutrix <persName>Triptolemi</persName> patrem ejus <persName>Eleusium</persName>; <persName>Hippomenes</persName> pomo au
+                     <lb n="8" break="no"/>reo <persName>Atalantam</persName> vicit, <persName>Tantalus</persName> pater <persName>Pelopis</persName> <persName>Hippodamiam</persName> curruli
+                     <lb n="9"/>certamine obtinuit. <milestone unit="section" n="e44-15"/><persName type="divinity">Osiris</persName> in partes dissectus <g type="ampersand">et</g> ab <persName type="divinity">Iside</persName> matre, soro
+                     <lb n="10" break="no"/>re <g type="ampersand">et</g> conjuge iter<hi rend="grave">u</hi>m conjunctus fuit. <persName>Pelops</persName> puer coctus <g type="ampersand">et</g> bullitus
+                     <lb n="11"/>humero <hi rend="grave">a</hi> <persName type="divinity">Cerere</persName> depasto vit<hi rend="ligature">ae</hi> restitutus, addito humero eburneo:
+                     <lb n="12"/><milestone unit="section" n="e44-16"/><persName>Achilles</persName> <g type="ampersand">et</g> <persName>Triptolemus</persName> sub carbonibus noctu positi, <g type="ampersand">et</g> interdiu la
+                     <lb n="13" break="no"/>cte nutriti sunt, hic <hi rend="grave">a</hi> <persName type="divinity">Cerere</persName> nutrice, ille <hi rend="grave">a</hi> <persName type="divinity">Thetide</persName> matre: <persName>Achilles</persName> <g type="ampersand">et</g>
+                     <lb n="14"/><persName>Helena</persName> <orgName>Trojani</orgName> belli caus<hi rend="ligature">ae</hi> fuerunt, h<hi rend="ligature">ae</hi>c ut impulsiva, ille ut effi
+                     <lb n="15" break="no"/>ciens; <persName>Helena</persName> nata ex ovo est, <g type="ampersand">et</g> in <persName>Pelei</persName> <g type="ampersand">et</g> <persName type="divinity">Thetidis</persName> nuptiis, ex <expan><abbr>quib<am>.</am></abbr><ex>us</ex></expan>
+                     <lb n="16"/><persName>Achilles</persName> natus, pomum <persName type="divinity">Eridos</persName>, prima causa raptus <persName>Helen<hi rend="ligature">ae</hi></persName>, proje
+                     <lb n="17" break="no"/>ctum fuit. <milestone unit="section" n="e44-17"/><persName>Pollux</persName> adfuit Argonautis, qui <num value="50" type="cardinal">quinquaginta</num> fer<hi rend="grave">e</hi> annis
+                     <lb n="18"/>ante bellem <orgName>Trojanum</orgName> inceptum vixisse pr<hi rend="ligature">ae</hi>supponuntur (si vixe
+                     <lb n="19" break="no"/>rint) <g type="ampersand">et</g> <persName>Helena</persName> cum <persName>Polluce</persName> ex uno ovo prodiit; <milestone unit="section" n="e44-18"/>Fuit itaque anus
+                     <lb n="20"/><persName>Helena</persName>, c<hi rend="grave">u</hi>m raperetur <hi rend="grave">a</hi> <persName>Paride</persName>: <persName>Achilli</persName> in <placeName>Elysiis</placeName> campis <persName>Medea</persName>
+                     <lb n="21"/>nupsit, tum anus edentula: nisi fort<hi rend="grave">e</hi> sibi juventem restituit, ut <persName><hi rend="ligature">Ae</hi>
+                        <lb n="22" break="no"/>soni</persName>, <persName>Jasonis</persName> patri, <g type="ampersand">et</g> <persName type="divinity">Ceres</persName> <persName>Pelopi</persName>, unde bis pubescens appellatur:
+                     <lb n="23"/><milestone unit="section" n="e44-19"/><persName>Perseus</persName> alatum equum accepit <hi rend="grave">a</hi> <persName type="divinity">Pallade</persName>, ei<hi rend="acute">q</hi>ue caput <persName type="divinity">Medus<hi rend="ligature">ae</hi></persName> in
+                     <lb n="24"/>remunerationem attulit, cui <persName type="divinity">Mercurius</persName> harpen, <g type="ampersand">et</g> alii Dii alia arma
+                     <lb n="25"/>ministr<hi rend="circumflex">a</hi>runt, <persName>Triptolemus</persName> <hi rend="grave">a</hi> <persName type="divinity">Cerere</persName> currum cum draconibus alatis:
+                     <lb n="26"/><milestone unit="section" n="e44-20"/>Ex <persName type="divinity">Jovis</persName> cerebro <persName type="divinity">Pallade</persName> nata <placeName>Rhodi</placeName> pluit aurum, ut <g type="ampersand">et</g> Sole <expan><abbr>conc<hi rend="tilde">u</hi></abbr><ex>m</ex>
+                     <lb n="27" break="no"/><abbr>bente</abbr></expan> cum <persName type="divinity">Venere</persName>; Et <persName type="divinity">Jupiter</persName>, ut aurum compressit <persName>Danaen</persName>, ut
+                     <lb n="28"/>Cygnus <persName>Ledam</persName>, ut cuculus sororem <persName type="divinity">Junonem</persName>; ut Taurus <persName>Euro
+                        <lb n="29" break="no"/>pam</persName>, ut Satyrus <persName>Antiopen</persName>, <g type="ampersand">et</g> sic concordantia est in omnibus.
+                  </ab></div>
+            <fw type="gathering" place="bottom-right">Aa ii</fw> <fw type="catchword" place="bottom-right" xml:lang="de">Die</fw>                  
+            </div>            
+         </div>
+      </body>
+  </text>
+</TEI>

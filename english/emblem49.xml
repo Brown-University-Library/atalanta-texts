@@ -24,6 +24,7 @@
                 
                 
                 <div type="title" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="205"/>
                     <head>
                         <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 49. Of the Secrets of Nature.
                         <lb/>The <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> infant is, as Orion, the <choice><orig>Sonne</orig><reg>Son</reg></choice> of three fathers.</seg>
@@ -46,6 +47,7 @@
                 
                 <pb n="153"/> 
                 <div type="discourse" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="206"/>
                     <head rend="italics">Discourse 49.</head>
                     <ab> 
                         <lb/>Those women, which prostitute themselves to variety of men, <milestone unit="section" n="e03-01" /><choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>sel 
@@ -86,7 +88,7 @@
                         <lb break="no"/>hended under these shrouds, not obvious to all men. Lully in the<pc>-</pc>
                         <lb/><choice><orig>Theoricke</orig><reg>Theoric</reg></choice> of his Testament attributes to the same <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> <pc>-</pc>
                         <lb/>infant <choice><orig>soe</orig><reg>so</reg></choice> many and <choice><orig>allmost</orig><reg>almost</reg></choice> the same fathers, namely Sol, who
-                        <lb/>is Apollo, or the <choice><orig>cælestiall</orig><reg>celestial</reg></choice> Sol is the first author of this generation, <pc>-</pc>
+                        <lb/>is Apollo, <milestone unit="page" ed="Meier" n="207"/>or the <choice><orig>cælestiall</orig><reg>celestial</reg></choice> Sol is the first author of this generation, <pc>-</pc>
                         <lb/>who by his ineffable virtue occult or <choice><orig>astrall</orig><reg>astral</reg></choice> power operates upon a <pc>-</pc>
                         <lb/><choice><orig>certaine</orig><reg>certain</reg></choice> matter <choice><orig>knowne</orig><reg>known</reg></choice> to the Philosophers, as upon the matrix <pc>-</pc>
                         

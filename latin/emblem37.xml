@@ -1,0 +1,149 @@
+<?xml version="1.1" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+     <revisionDesc>
+        <change when="2018-03-15" who="SJD">Start encoding</change>
+        <change when="2018-03-15" who="SJD">Finish draft</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
+     </revisionDesc>
+  </teiHeader>
+   
+   
+  <text>
+      <body>
+         <div type="emblem" n="e37">
+            <pb n="156" edRef="Maier1618"/>
+            <fw type="pageNum" place="top-left">156</fw><fw type="header" place="top-center">FUGA <num value="37" type="cardinal">XXXVII</num>. in <num value="8">8</num> suprà.</fw>
+            
+            <div type="fugue" xml:lang="de">
+               <head>
+
+               <lb n="2"/>Dreij Dinge seijnd genug zur Meisterschafft <pc>/</pc> der weisse
+               <lb n="3"/>Rauch <pc>/</pc> das ist Wasser <pc>/</pc> der grüne Löw <pc>/</pc> das ist das Erz
+               <lb n="4"/><persName><hi rend="latin">Hermetis</hi></persName>, und das stinckende Wassser.
+            </head>
+               
+            </div>
+            
+            <div type="epigram" xml:lang="de">
+               <head><num value="37" type="cardinal">XXXVII</num>. Epigrammatis Latini versio Germanica.</head>
+               <lg>
+                  <lb n="1"/><l>Dreij Ding zur Meisterschafft gehören <pc>/</pc> Wasser <pc>/</pc> so stinckend ist <pc>/</pc></l>
+                  <lb n="2"/><l>Und der schennweisse Rauch <pc>/</pc> sampt dem Löwen grün gewiß <pc>/</pc></l>
+                  <lb n="3"/><l>Das Wasser ist aller Elementen Mutter <pc>/</pc> denn der Schein <pc>/</pc></l>
+                  <lb n="4"/><l>Daß er gemacht werd <pc>/</pc> das erst und lezt das Wasser muß seijn <pc>/</pc></l>
+                  <lb n="5"/><l>Der grüne Löw is das Kupffer <persName><hi rend="latin">Hermetis</hi></persName> und Stein genandt <pc>/</pc></l>
+                  <lb n="6"/><l>In Capiteln der Bücher <pc>/</pc> der weiß Rauch Wasser <pc>/</pc> erkandt.</l>
+               </lg>
+            </div>
+            <fw type="catchword">Emble-</fw>
+            
+            <pb n="157" edRef="Maier1618"/>
+            
+            <fw type="header" place="top-center">Emblema <num value="37" type="cardinal">XXXVII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">157</fw><div type="image" xml:lang="la"><head/></div>            
+            <div type="epigram" xml:lang="la">
+               <head>Epigramma <num value="37" type="cardinal">XXXVII</num>.</head>
+               <lg>
+                  <lb n="1"/><l>Terna magisterii sunt semina, f<hi rend="ligature">oe</hi>tida Lympha,</l>
+                  <lb n="2"/><l>Et niveus vapor, ac pelle <hi rend="caps">Leo</hi> viridi:</l>
+                  <lb n="3"/><l>Unda parens peperit, restant qu<hi rend="ligature">ae</hi> elementa, Soph<hi rend="acute">i</hi>sque,</l>
+                  <lb n="4"/><l>Ut lapidem faciant, ultima prim<hi rend="acute">a</hi>que ea est.</l>
+                  <lb n="5"/><l><hi rend="ligature">Ae</hi>s <persName>Hermetis</persName> at est viridis <hi rend="caps">Leo</hi>, petr<hi rend="acute">a</hi>que nota</l>
+                  <lb n="6"/><l>Librorum capitlis, Fumus <g type="ampersand">et</g> albus aqua.</l> 
+               </lg>
+            </div>
+            
+            <fw type="gathering" place="bottom-right">V 3</fw> <fw type="catchword" place="bottom-right">Ut</fw>
+            
+            <div type="discourse" xml:lang="la">
+               <pb n="158" edRef="Maier1618"/>
+               <fw type="pageNum" place="top-left">158</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="37">XXXVII</num>.</fw>
+                  <div type="discourse-p1"><ab>
+                     <lb n="1"/><milestone unit="section" n="e37-01"/>Ut tria essentialia ad cujusque <hi rend="ligature">ae</hi>dificii constructionem requirun
+                     <lb n="2" break="no"/>tur, quorum uno absente, ejus nulla adesse potest perfectio, <expan><abbr>qu</abbr><ex>a</ex><abbr><hi rend="hook">e</hi></abbr></expan>
+                     <lb n="3"/>sunt fundamentum, parietes <g type="ampersand">et</g> tectum, ita totidem desiderantur ad
+                     <lb n="4"/>Philosophorum compositum absolvendum, qu<hi rend="ligature">ae</hi> hic nominantur
+                     <lb n="5"/>propriis suis nominibus: <milestone unit="section" n="e37-02"/><persName ref="https://viaf.org/viaf/206892176">Author</persName> <title ref="https://viaf.org/viaf/18388599">Auror<hi rend="ligature">ae</hi></title>, <expan><abbr>c<am>.</am></abbr><ex>apite</ex></expan> <num value="20" type="ordinal">20&gt;</num>. de separatione ele
+                     <lb n="6" break="no"/>mentorum loquens, <quote>Terra</quote>, inquit, <quote>ibidem relinquitur, ut alia tria
+                     <lb n="7"/>elementa in ea valeant radicari; si ipsa non esset, elementa funda
+                     <lb n="8" break="no"/>mentum non haberent ad <hi rend="ligature">ae</hi>dificandum super id domum novam
+                     <lb n="9"/>Thesaurarium:</quote> <milestone unit="section" n="e37-03"/>Hoc fundamentum vocatur hic aqua f<hi rend="ligature">oe</hi>tida, qu<hi rend="ligature">ae</hi>
+                     <lb n="10"/>est mater omnium elementorum, teste <title ref="http://viaf.org/viaf/191597728">Rosario</title>, ex qua <g type="ampersand">et</g> per quam
+                     <lb n="11"/><g type="ampersand">et</g> cum qua pr<hi rend="ligature">ae</hi>parant Philosophi ipsum, scilicet Elixir in principio
+                     <lb n="12"/><g type="ampersand">et</g> in fine: <milestone unit="section" n="e37-04"/>F<hi rend="ligature">oe</hi>tida dicitur, quia f<hi rend="ligature">oe</hi>torem sulphureum de se mittit, <g type="ampersand">et</g>
+                     <lb n="13"/>odorem sepulchrorum: <milestone unit="section" n="e37-05"/>H<hi rend="ligature">ae</hi>c est illa aqua, quam Pegasus ex <placeName>Parnas
+                     <lb n="14" break="no"/>so</placeName> ungul<hi rend="circumflex">a</hi> su<hi rend="circumflex">a</hi> percusso elicuit, quam <placeName>Nonacris</placeName> <placeName>Arcadi<hi rend="ligature">ae</hi></placeName> mons ex ju
+                     <lb n="15" break="no"/>gis emittit <hi rend="grave">e</hi> saxo prorumpentem, qu<hi rend="ligature">ae</hi> in sola ungula caballina ser
+                     <lb n="16" break="no"/>vari potest ob vim ejus fortissimam: <milestone unit="section" n="e37-06"/>H<hi rend="ligature">ae</hi>c est aqua draconis, ut <title ref="http://viaf.org/viaf/191597728">Ro
+                     <lb n="17" break="no"/>sarius</title> eam nominat, qu<hi rend="ligature">ae</hi> debet fieri per alembicum sine omni alia
+                     <lb n="18"/>re addita, in qua facienda est maximus f<hi rend="ligature">oe</hi>tor: <milestone unit="section" n="e37-07"/>Qu<hi rend="ligature">ae</hi> verba c<hi rend="grave">u</hi>m qui
+                     <lb n="19" break="no"/>dam audiverint ad stercora distillanda humana vel animalium se
+                     <lb n="20"/>contulerunt, in quo operatione f<hi rend="ligature">oe</hi>torem quidem maximum sense
+                     <lb n="21" break="no"/>runt, sed stercora in stercoribus invenerunt: <milestone unit="section" n="e37-08"/>At ne putes Philoso
+                     <lb n="22" break="no"/>phos scarab<hi rend="ligature">ae</hi>os esse, qui in stercoribus operentur, scias f<hi rend="ligature">oe</hi>torem, si
+                     <lb n="23"/>quis adest, in magnam fragrantiam mox mutari, prout <persName ref="http://viaf.org/viaf/120696927">Lullius</persName> testa
+                     <lb n="24" break="no"/>tur de sua Quinta essentia, cui tamen odoris suavitatem assignat, si
+                     <lb n="25"/>rit<hi rend="grave">e</hi> facta sit, ut in superiori <hi rend="ligature">ae</hi>dium loco posita aves volantes ad se al
+                     <lb n="26" break="no"/>liciat <g type="ampersand">et</g> sistat: <milestone unit="section" n="e37-09"/>Ponit autem in fimo suam quintam essentiam, cujus
+                     <lb n="27"/>calore temperatissimo ea fragrantia sequitur, quod quidam cum vi
+                     <lb n="28" break="no"/>no forti tentarunt, sed frustra, ide<hi rend="acute">o</hi>que <persName ref="http://viaf.org/viaf/120696927">Lullium</persName> vanitatis insimul<hi rend="circumflex">a</hi>
+                     <lb n="29" break="no"/>runt, c<hi rend="grave">u</hi>m ipsi essent stultiti<hi rend="ligature">ae</hi> poti<hi rend="grave">u</hi>s coarguendi, qui vinum <persName ref="http://viaf.org/viaf/120696927">Lullii</persName>
+                     <lb n="30"/>nunquam gust<hi rend="circumflex">a</hi>runt; <milestone unit="section" n="e37-10"/>At <persName ref="http://viaf.org/viaf/120696927">Lullium</persName> <persName ref="https://viaf.org/viaf/172539947">aureus ille poëta</persName> meli<hi rend="grave">u</hi>s intellexit,
+                     <lb n="31"/>qui <title ref="https://viaf.org/viaf/223472326"><expan><abbr>Chrysop<am>.</am></abbr><ex>oeiae</ex></expan></title> <expan><abbr>lib<am>.</am></abbr><ex>ro</ex></expan> <num value="1" type="ordinal">1</num>. ita canit:
+                     <lb n="32"/><quote rend="italic indent">At non ille quidem sensit, qu<hi rend="ligature">ae</hi> dicere prim<hi rend="circumflex">a</hi>
+                     <lb n="33"/>Est facie visus, neque um stillantia vina
+                     <lb n="34"/>Miscebat, <expan><abbr><g type="ampersand">et</g>c<am>.</am></abbr><ex>aetera</ex></expan>.</quote>
+                  </ab></div>
+                  <fw type="catchword" place="bottom-right">Post</fw>
+               <pb n="159" edRef="Maier1618"/>
+               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="37">XXXVII</num>.</fw> <fw type="pageNum" place="top-right">159</fw>
+                  <div type="discourse-p2"><ab>
+                     <lb n="1"/><milestone unit="section" n="e37-11"/>Post aquam f<hi rend="ligature">oe</hi>tidam Leo viridis occurrit: de quo <title ref="http://viaf.org/viaf/191597728">Rosarius</title>, qu<hi rend="ligature">ae</hi>si
+                     <lb n="2" break="no"/>visti autem de viriditate, putans, quod <hi rend="ligature">ae</hi>s esset corpus leprosum pro
+                     <lb n="3" break="no"/>pter illam viriditatem quam habet: <milestone unit="section" n="e37-12"/>Unde enim tibi dico, quod <expan><abbr>tot<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>
+                     <lb n="4"/>illud, quod est perfectum in <hi rend="ligature">ae</hi>re, est illa sola viriditatis, qu<hi rend="ligature">ae</hi> in ipso est:
+                     <lb n="5"/>quia illa viriditatis per nostrum magisterium vertitur cit<hi rend="grave">o</hi> in verissi
+                     <lb n="6" break="no"/>mum aurum nostrum <g type="ampersand">et</g> hoc experti sumus: <milestone unit="section" n="e37-13"/>Nullo tamen poteris
+                     <lb n="7"/>lapidem pr<hi rend="ligature">ae</hi>parare absque duenech viridi <g type="ampersand">et</g> liquido, quod videtur
+                     <lb n="8"/>in mineris nostris nasci: <milestone unit="section" n="e37-14"/>O benedicta viriditas, qu<hi rend="ligature">ae</hi> cunctas res ge
+                     <lb n="9" break="no"/>neras: Unde noscas, quod nullum vegetabile atque fructus nullus 
+                     <lb n="10"/>apparet germinando, quin sit ibi viridis color: similiter scias, quod
+                     <lb n="11"/>hujus rei generatio viridis est, quare Philosophi <expan><abbr>germ<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> ipsum appel
+                     <lb n="12" break="no"/>laverunt. <milestone unit="section" n="e37-15"/>H<hi rend="ligature">ae</hi>c <title ref="http://viaf.org/viaf/191597728">Rosarius</title>: <quote>Hoc est aurum<g type="ampersand">et</g> Philosophorum <g type="ampersand">et</g>
+                     <lb n="13"/>lapis</quote> in capitulis notus, fumus, vapor <g type="ampersand">et</g> aqua, sputum lun<hi rend="ligature">ae</hi>, quod
+                     <lb n="14"/>Solis lumini jungitur; Hic leo viridis pugnat cum dracone; sed ab eo
+                     <lb n="15"/>superatur <g type="ampersand">et</g> sucessu temporis devoratur; putrefacto autem leone
+                     <lb n="16"/>dulcedo ex ejus ore (velut <hi rend="grave">a</hi> <persName>Sampsone</persName> occisi) proventura speratur.
+                     <lb n="17"/><milestone unit="section" n="e37-16"/>Draco superior factus leonin<hi rend="circumflex">a</hi> ade<hi rend="grave">o</hi> se carne replet, ut paul<hi rend="grave">o</hi> crepet
+                     <lb n="18"/><g type="ampersand">et</g> emoriatur: Ex quo, cum Leonis adeps per se quotidianus <expan><abbr>febrib<am>.</am></abbr><ex>us</ex></expan>
+                     <lb n="19"/>medeatur, ap<hi rend="acute">u</hi>dque reges <g type="ampersand">et</g> populos eo perunctis gratia <g type="ampersand">et</g> favor
+                     <lb n="20"/>concilietur, Medicina pr<hi rend="ligature">ae</hi>stantissima fieri poterit, qu<hi rend="ligature">ae</hi> permultis
+                     <lb n="21"/>affectibus sit utilissima. <milestone unit="section" n="e37-17"/>Tertio sequitur fumus albus, qui si coagule
+                     <lb n="22" break="no"/>tur, fit aqua <g type="ampersand">et</g> aqua <expan><abbr>offici<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <expan><abbr>pr</abbr><ex>a</ex><abbr><hi rend="hook">e</hi>stat</abbr></expan> in abluendo, solvendo, <g type="ampersand">et</g> maculas
+                     <lb n="23"/>abstergendo instar saponis: <milestone unit="section" n="e37-18"/>Hic est ignis contra naturam, quem vi
+                     <lb n="24" break="no"/>de ut invenias, ita dictus, quia contrarius est natur<hi rend="ligature">ae</hi> retexendo <g type="ampersand">et</g>
+                     <lb n="25"/>destruendo illud, quod ea diligenti cur<hi rend="circumflex">a</hi> composuit: <milestone unit="section" n="e37-19"/>Hic ignis non
+                     <lb n="26"/>est ex spiritu vini aut oleo incensus sed ex materia incombustibili, <hi rend="ligature">ae</hi>
+                     <lb n="27" break="no"/>qualis perdurationis <g type="ampersand">et</g> caloris, <g type="ampersand">et</g> est ignis absque luce <g type="ampersand">et</g> combusti
+                     <lb n="28" break="no"/>one magn<hi rend="ligature">ae</hi> virtutis <g type="ampersand">et</g> efficaci<hi rend="ligature">ae</hi>, quem reperire in tenebris, c<hi rend="grave">u</hi>m
+                     <lb n="29"/>non luceat, est non exigu<hi rend="ligature">ae</hi> difficultatis, sed operi debito applicare
+                     <lb n="30"/>modo, long<hi rend="grave">e</hi> majoris; cujus circumstantias <g type="ampersand">et</g> proprietates in diver
+                     <lb n="31" break="no"/>sis locis satis descripsimus.
+                  </ab></div>
+               <fw type="catchword" place="bottom-right" xml:lang="de">Das</fw>                  
+            </div>            
+         </div>
+      </body>
+  </text>
+</TEI>

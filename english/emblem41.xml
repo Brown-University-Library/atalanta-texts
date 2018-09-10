@@ -24,6 +24,7 @@
                 
                 
                 <div type="title" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="173"/>
                     <head>
                         <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 41. Of the Secrets of Nature.
                         <lb/>Adonis is <choice><orig>killd</orig><reg>killed</reg></choice> by a Boar, to <choice><orig>whome</orig><reg>whom</reg></choice> Venus hasting tinged the
@@ -47,6 +48,7 @@
                 
                 <pb n="129"/> 
                 <div type="discourse" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="174"/>
                     <head rend="italics">Discourse 4i.</head>
                     <ab> 
                         <lb/>How improperly some of the Mythologists resolve the Allegory of <pc>-</pc><milestone unit="section" n="e03-01" /> 
@@ -56,7 +58,7 @@
                         <lb/>above the earth with Venus, is <choice><orig>elswhere</orig><reg>elsewhere</reg></choice> sufficiently explained and
                         <lb/>refuted by us. Here <choice><orig>wee</orig><reg>we</reg></choice> <choice><orig>doe</orig><reg>do</reg></choice> with the consent of all men declare the
                         <lb/><choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> <choice><orig>Sunne</orig><reg>Sun</reg></choice> to be meant by Adonis: From whence the Versicle:
-                        <quote rend="indent">
+                        <quote>
                             <lg xml:lang="lat">
                                 <l>Omnia sunt idem, Dionysus, Sol, et Adonis:</l></lg>
                             And Orpheus:<pc>------</pc><lg xml:lang="lat"><l>Qui vario lætaris nomine Adoni,</l>
@@ -88,7 +90,7 @@
                         <lb/>daughter be not <choice><orig>joynd</orig><reg>joined</reg></choice> together, and an offspring produced from thence,
                         <lb/>nothing is perfected in this art. For here, the nearer the man and
                         <lb/>wife are one to the other in blood, in the first degree of consan
-                        <lb break="no"/>guinity, or second, the more <choice><orig>fruitfull</orig><reg>fruitful</reg></choice> they are, and on the con
+                        <lb break="no"/>guinity, or second, the more <choice><orig>fruitfull</orig><reg>fruitful</reg></choice> they are, <milestone unit="page" ed="Meier" n="175"/>and on the con
                         <lb break="no"/>trary, the more remote, the more <choice><orig>unfruitfull</orig><reg>unfruitful</reg></choice>, which is not tolerable
                         <lb/>in the matrimony of men. For this cause <choice><orig>Œdypus</orig><reg>Oedipus</reg></choice> <choice><orig>marryd</orig><reg>married</reg></choice> his <choice><orig>owne</orig><reg>own</reg></choice>
                         <lb/>mother, Jupiter his Sister, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> Osiris, <choice><orig>Saturne</orig><reg>Saturn</reg></choice>, Sol, the red

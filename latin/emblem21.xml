@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.1" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -19,6 +16,7 @@
         <change when="2018-01-21" who="SJD">Start encoding</change>
         <change when="2018-01-21" who="SJD">Completed draft, pending change to font size</change>
         <change when="2018-01-22" who="SJD">Added span to mark up size change on 95</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
      </revisionDesc>
   </teiHeader>
    
@@ -26,18 +24,16 @@
   <text>
       <body>
          <div type="emblem" n="e21">
-            <pb n="92"/>
-            <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">92</fw> FUGA XXI. in 4. suprà.
+            <pb n="92" edRef="Maier1618"/>
+            <fw type="pageNum" place="top-left">92</fw><fw type="header" place="top-center">FUGA XXI. in 4. suprà.</fw>
+            
+            <div type="fugue" xml:lang="de">
+               <head>
+
                <lb n="2"/>Mache von Mann und Weib einen Circkel <pc>/</pc> darauß ein
                <lb n="3"/>Quadrangel <pc>/</pc> hierauß ein Triangel <pc>/</pc> mache ein Circkel <pc>/</pc> und
                <lb n="4"/>du wirst haben den Schein der Weisen.
             </head>
-            
-            <div type="fugue">
-               <head>
-                  
-               </head>
                
             </div>
             
@@ -54,26 +50,16 @@
             </div>
             <fw type="catchword">Emble-</fw>
             
-            <pb n="93"/>
+            <pb n="93" edRef="Maier1618"/>
             
-            <div type="image-caption">
-               <head>
-                  <lb n="1"/>Emblema XXI. De Secretis Natur<hi rend="ligature">ae</hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">93</fw>
-                  <lb n="2"/>Fac ex mare <g type="ampersand">et</g> f<hi rend="ligature">oe</hi>mina circulum, inde quadrangulum, hinc trian
-                  <lb n="3" break="no"/>gulum, fac circulum <g type="ampersand">et</g> habebis <expan><abbr>lap<am>.</am></abbr><ex>idem</ex></expan> Philosophorum.
-               </head>
-               
-            </div>
-            
-            <figure><graphic url=""></graphic></figure>
-            
+            <fw type="header" place="top-center">Emblema XXI. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">93</fw><div type="image" xml:lang="la"><head/></div>            
             <div type="epigram" xml:lang="la">
                <head>Epigramma XXI.</head>
                <lg>
                   <lb n="1"/><l>Foemina m<hi rend="acute">a</hi>sque unus fiant tibi circulus, ex quo</l>
                   <lb n="2"/><l>Surgat, habens <hi rend="ligature">ae</hi>quum forma quadrata latus.</l>
                   <lb n="3"/><l>Hinc Trigonum ducas, omni qui parte rotundam</l>
-                  <lb n="4"/><l>In sph<hi rend="ligature">ae</hi>ram redeat: Tum <hi rend="cap">Lapis</hi> ortus erit.</l>
+                  <lb n="4"/><l>In sph<hi rend="ligature">ae</hi>ram redeat: Tum <hi rend="caps">Lapis</hi> ortus erit.</l>
                   <lb n="5"/><l>Si res tanta tu<hi rend="ligature">ae</hi> non mox venit obvia menti,</l>
                   <lb n="6"/><l>Dogma Geometr<hi rend="ligature">ae</hi> si capis, omne scies<choice><sic>,</sic><corr>.</corr></choice></l>
                </lg>
@@ -82,9 +68,9 @@
             <fw type="gathering" place="bottom-right">M 3</fw> <fw type="catchword" place="bottom-right">Pla-</fw>
             
             <div type="discourse" xml:lang="la">
-               <pb n="94"/>
-               <head><fw type="pageNum" place="top-left">94</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="21">XXI</num>.</head>
-                  <ab>
+               <pb n="94" edRef="Maier1618"/>
+               <fw type="pageNum" place="top-left">94</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="21">XXI</num>.</fw>
+                  <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e21-01"/><persName ref="https://viaf.org/viaf/108159964">Plato</persName> Philosophus ille celeberimus menti human<hi rend="ligature">ae</hi> noticias,
                      <lb n="2"/>qu<hi rend="ligature">ae</hi> sunt artium <g type="ampersand">et</g> scientiarum omnium fundamenta, esse quasi
                      <lb n="3"/>insculptas <g type="ampersand">et</g> impressas actu tradidit, quarum rememoratione <g type="ampersand">et</g>
@@ -119,11 +105,11 @@
                      <lb n="32" break="no"/>rulos eam actu scire affirmarit? An sunt homines fort<hi rend="grave">e</hi> pueris ineru
                      <lb n="33" break="no"/>ditiores? Aut qu<hi rend="ligature">ae</hi> pueri sciunt, an adultiores illa oblivioni tradide
                      <lb break="no"/>
-                  </ab>
+                  </ab></div>
                   <fw type="catchword" place="bottom-right">runt?</fw>
-               <pb n="95"/>
-               <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="21">XXI</num>. <fw type="pageNum" place="top-right">95</fw></head>
-                  <ab>
+               <pb n="95" edRef="Maier1618"/>
+               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="21">XXI</num>.</fw> <fw type="pageNum" place="top-right">95</fw>
+                  <div type="discourse-p2"><ab>
                      <lb n="1"/>runt? <milestone unit="section" n="e21-09"/>Id non opinandum erit; quia videmus brutam <hi rend="grave">a</hi> natura edo
                      <lb n="2" break="no"/>cta abhorrere <g type="ampersand">et</g> cavere pericula ab igne, aqua, casu pr<hi rend="ligature">ae</hi>cipiti <g type="ampersand">et</g>
                      <lb n="3"/>his similia, etiam recens in lucem edita, infantem non sapere aut
@@ -141,7 +127,7 @@
                      <lb n="15"/>angulis, uti per quadrangulum, quatuor Elementa, quasi dicant,
                      <lb n="16"/>fumendam esse corpoream figuram <expan><abbr>simplicior<hi rend="tilde">e</hi></abbr><ex>m</ex></expan>, qu<hi rend="ligature">ae</hi> inveniri possit
                      <lb n="17"/><expan><abbr>e<hi rend="acute">a</hi>mq<am>;</am></abbr><ex>ue</ex></expan> in quatuor colores Elementales dividendam <g type="ampersand">et</g> futurum
-                     <lb n="18"/>quadrangulum <hi rend="ligature">ae></hi>quilaterum . <milestone unit="section" n="e21-14"/>Quadrationem autem hanc esse <expan><abbr>phy
+                     <lb n="18"/>quadrangulum <hi rend="ligature">ae&gt;</hi>quilaterum . <milestone unit="section" n="e21-14"/>Quadrationem autem hanc esse <expan><abbr>phy
                      <lb n="19" break="no"/>sic<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> <g type="ampersand">et</g> natur<hi rend="ligature">ae</hi> <expan><abbr>convenient<hi rend="tilde">e</hi></abbr><ex>m</ex></expan>, quilibet intelligit. Ex qua <expan><abbr>l<hi rend="tilde">o</hi></abbr><ex>n</ex><abbr>g<hi rend="grave">e</hi></abbr></expan> plus utili
                      <lb n="20" break="no"/>tatis ad <expan><abbr>Rempub<am>.</am></abbr><ex>licam</ex></expan> ut <g type="ampersand">et</g> plus illustrationis ad <expan><abbr>human<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> <expan><abbr>ment<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> <expan><abbr><hi rend="stroke">p</hi></abbr><ex>er</ex><abbr>venit</abbr></expan>,
                      <lb n="21"/>qu<hi rend="grave">a</hi>m ex illa mathematic<hi rend="circumflex">a</hi> <g type="ampersand">et</g> mer<hi rend="grave">e</hi> theorica seu <hi rend="grave">a</hi> materi<hi rend="circumflex">a</hi> abstract<hi rend="circumflex">a</hi>.
@@ -151,7 +137,7 @@
                      <lb n="25" xml:id="l25"/>seu <expan><abbr>circ<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <expan><abbr>fer<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>tia</abbr></expan> sit <num value="32" type="cardinal">32</num>. pedum, <expan><abbr>quant<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> erit <expan><abbr>un<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> ex cubi lateribus, ut capacitatem
                      <lb n="26" xml:id="l26"/>hujus sph<hi rend="ligature">ae</hi>r<hi rend="ligature">ae</hi> <expan><abbr>ad</abbr><ex>a</ex><abbr><hi rend="hook">e</hi>quet</abbr></expan>, econtra, si sph<hi rend="ligature">ae</hi>ra <num value="32" type="cardinal">32</num>. <expan><abbr>m<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>suras</abbr></expan> capiat in tanta <expan><abbr>circ<hi rend="tilde">u</hi></abbr><ex>m</ex><abbr>fer<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>tia</abbr></expan>,
                      <lb n="27" xml:id="l27"/>quantum erit latus <expan><abbr>un<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> cubi, ut tantundem capiat, aut respiciendo <hi rend="grave">a</hi> mensuris,
-                     <lb n="28" xml:id="l28"/><expan><abbr>quar<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> capax est sph<hi rend="ligature">ae</hi>ra vel cubus, ad pedes <expan><abbr>cujusq<am>;</am></abbr><ex>ue</ex></expan> <expan><abbr>circ<hi rend="tilde">u</hi></abbr><ex>m</ex><abbr>fer<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>ti<hi rend="ligature">ae</hi></abbr></expan>. <milestone unit="section" n="e21-17"/>Similiter <expan><abbr>vol<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>t</abbr></expan>/>
+                     <lb n="28" xml:id="l28"/><expan><abbr>quar<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> capax est sph<hi rend="ligature">ae</hi>ra vel cubus, ad pedes <expan><abbr>cujusq<am>;</am></abbr><ex>ue</ex></expan> <expan><abbr>circ<hi rend="tilde">u</hi></abbr><ex>m</ex><abbr>fer<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>ti<hi rend="ligature">ae</hi></abbr></expan>. <milestone unit="section" n="e21-17"/>Similiter <expan><abbr>vol<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>t</abbr></expan>/&gt;
                      <lb n="29" xml:id="l29"/>Philosophi <expan><abbr>quadr<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>gul<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> in <expan><abbr>triangul<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <expan><abbr>ducend<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> esse, hoc est, in corpus, <expan><abbr>spirit<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <g type="ampersand">et</g>
                      <lb n="30" xml:id="l30"/>animam, qu<hi rend="ligature">ae</hi> tria in trinis coloribus ante rubedinem pr<hi rend="ligature">ae</hi>viis apparent, <choice><sic>ut pote</sic><corr>utpote</corr></choice>
                      <lb n="31" xml:id="l31"/>corpus seu terra in Saturni nigredine, spiritus in lunari albedine, tanquam aqua,
@@ -160,7 +146,7 @@
                      <lb n="34" break="no" xml:id="l34"/>one f<hi rend="ligature">oe</hi>mina in masculum conversa <g type="ampersand">et</g> unum quid cum ipso facta est, <g type="ampersand">et</g> senari
                      <lb n="35" break="no" xml:id="l35"/>us primus ex perfectis numerus absolutus per unum, duo, c<hi rend="grave">u</hi>m ad monadem
                      <lb n="36" xml:id="l36"/>iter<hi rend="grave">u</hi>m redierit, in quo quies <g type="ampersand">et</g> pax <hi rend="ligature">ae</hi>terna.<span style="0.75em;" from="#l22" to="#l36">Lines 22-36 are smaller than the previous</span>
-                  </ab>
+                  </ab></div>
                <fw type="catchword" place="bottom-right" xml:lang="de">Wenn</fw>                  
             </div>
             
