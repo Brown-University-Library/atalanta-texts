@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+     <revisionDesc>
+        <change when="2018-03-30" who="SJD">Completed draft</change>
+     </revisionDesc>
+  </teiHeader>
+   
+   
+  <text>
+      <body>
+         <div type="dedication">
+            <pb n="3" edRef="Maier1618"/>   
+            <fw type="pageNum" place="top-center">3</fw>
+            <figure><graphic url=""><!--floral border  --></graphic></figure>
+            <div type="dedication" xml:lang="la" rend="center">
+                <ab>
+                   <lb n="1"/><hi rend="italic">Amplissimo, Celeberrimo <g type="ampersand">et</g> Excellentissimo</hi>
+                   <lb n="2"/><hi rend="caps"><placeName>Mülhausensis</placeName>
+                      <lb n="3"/>in <placeName>Thuringia</placeName> Imperialis
+                      <lb n="4"/>Reipublic<hi rend="ligature">ae</hi> Senatorio ordini</hi>,
+                   <lb n="5"/>Viris Virtute, Doctrin<hi rend="circumflex">a</hi>, <g type="ampersand">et</g> ver<hi rend="circumflex">a</hi> animi Nobilitate
+                   <lb n="6"/>pr<hi rend="ligature">ae</hi>stantissimis;
+                   <lb n="7"/><hi rend="italic">Nec non ejusdem Syndico vigilantissimo</hi>,
+                   <lb n="8"/><persName><hi rend="caps">Christophoro
+                   <lb n="9"/>Reinart</hi></persName> utriusque Juris Doctori
+                   <lb n="10"/><expan><abbr>Consultiss<am>.</am></abbr><ex>imo</ex></expan> <expan><abbr>P<am>.</am></abbr><ex>oetae</ex></expan> <expan><abbr>C<am>.</am></abbr><ex>oronato</ex></expan> <expan><abbr>C<hi rend="ligature">ae</hi>s<am>.</am></abbr><ex>areo</ex></expan>
+                   <lb n="11"/><expan><abbr>suaviss<am>.</am></abbr><ex>imo</ex></expan> <expan><abbr><g type="ampersand">et</g>c</abbr><ex>aetera</ex></expan>.
+                   <lb n="12"/><hi rend="italic">Dominis suis emper honorific<hi rend="grave">e</hi> colendis omnibus <g type="ampersand">et</g> singulis hoc benevo
+                      <lb n="13" break="no"/>lenti<hi rend="ligature">ae</hi> su<hi rend="ligature">ae</hi> <expan><abbr>gratitudinis<hi rend="acute tail">q</hi></abbr><ex>ue</ex></expan> qualecunque tecmerion, dicat, dedicat <g type="ampersand">et</g>
+                   <lb n="14"/>obfert officiosissim<hi rend="grave">e</hi>.</hi>
+                </ab>
+            </div>      
+            <div type="epistle" xml:lang="la">
+               <ab>
+                  <lb n="1"/><milestone unit="section" n="ded-01"/><persName ref="http://viaf.org/viaf/103210603"><hi rend="caps">Michael Maierus</hi></persName> <expan><abbr>Med<am>.</am></abbr><ex>icinarum</ex></expan> <expan><abbr>D<am>.</am></abbr><ex>octor</ex></expan> <expan><abbr>Imper<am>.</am></abbr><ex>ialis</ex></expan> <expan><abbr>Consist<am>.</am></abbr><ex>orii</ex></expan> <expan><abbr>Com<am>.</am></abbr><ex>es</ex></expan> <expan><abbr>E<am>.</am></abbr><ex>ques</ex></expan> <expan><abbr>E<am>.</am></abbr><ex>xemptus</ex></expan> <expan><abbr>P<am>.</am></abbr><ex>poeta</ex></expan> <expan><abbr>C</abbr><ex>oronatus</ex></expan>.
+                  <lb n="2"/><milestone unit="section" n="ded-02"/><hi rend="illum">V</hi>iri amplissimi <expan><abbr>consultissim<hi rend="acute">i</hi>q<am>;</am></abbr><ex>ue</ex></expan> De <hi rend="caps">Tri
+                  <lb n="3" break="no"/>pode</hi> illo <persName>Pelopi</persName> sponso, cum <persName>Hippoda
+                  <lb n="4" break="no"/>miam</persName> <persName>Oënomai</persName> Regis <placeName>Elidis</placeName> filiam in u
+                  <lb n="5" break="no"/>xorem duceret, <hi rend="grave">a</hi> <persName type="divinity">Vulcano</persName> dono dato, nar
+                  <lb n="6" break="no"/>rant, quod, c<hi rend="grave">u</hi>m singularis artificii esset, <hi rend="grave">a</hi>
+                  <lb n="7"/><persName>Pelope</persName> <persName type="divinity">Apollini</persName> Pythio <placeName>Delphis</placeName> iter<hi rend="grave">u</hi>m oblatus sit, ex
+                  <lb n="8"/>quo deinde per virginiem afflatu illius Dei oracula sint e
+                  <lb break="no"/>
+               </ab>
+               <fw type="gathering" place="bottom-right">A 2</fw> <fw type="catchword" place="bottom-right">dita</fw>
+               <pb n="4" edRef="Maier1618"/>
+               <fw type="pageNum" place="top-left">4</fw> <head>EPISTOLA</head>
+               <ab>
+                  <lb n="1"/>dita: <milestone unit="section" n="ded-03"/>Ita c<hi rend="grave">u</hi>m mihi hic <hi rend="caps">Tripes</hi> <hi rend="grave">a</hi> <persName type="divinity">Vulcano</persName> elaboratus
+                  <lb n="2"/>ad manum venerit, <persName>Pelopis</persName> exemplo motus, illum di
+                  <lb n="3" break="no"/>gnissimo loco <g type="ampersand">et</g> ordini consecrare <g type="ampersand">et</g> obferre decrevi, <g type="ampersand">et</g>
+                  <lb n="4"/>quidem ante omnes alios, Vestris <expan><abbr>Amplitud<am>dd.</am></abbr><ex>issimis</ex></expan> <g type="ampersand">et</g> <expan><abbr>Excel
+                  <lb n="5" break="no"/>cent<am>tt.</am></abbr><ex>issimis</ex></expan> non quidem eo consilio, ut unde Oracula depro
+                  <lb n="6" break="no"/>mantur (quamvis nec ea, at chymica, h<hi rend="circumflex">i</hi>c desyderari pos
+                  <lb n="7" break="no"/>sint) sed ut animi mei promptitudinem <expan><abbr>voluntatem<hi rend="acute">q</hi><am>;</am></abbr><ex>ue</ex></expan>
+                  <lb n="8"/>benevolam aliquo modo erga eas public<hi rend="grave">e</hi> testarer, qu<hi rend="ligature">ae</hi>
+                  <lb n="9"/>ante paucos annos in transitu mihi tum C<hi rend="ligature">ae</hi>sare<hi rend="ligature">ae</hi> Maje
+                  <lb n="10" break="no"/>stati <persName ref="http://viaf.org/viaf/14909824"><hi rend="caps">Rudolpho <num type="ordinal" value="2">II</num>.</hi></persName> div<hi rend="ligature">ae</hi> memori<hi rend="ligature">ae</hi> <hi rend="grave">a</hi> consiliis medicis
+                  <lb n="11"/>existenti, quo animo erga Dominum essetis, ministro
+                  <lb n="12"/>declarare volueritis, nempe optimo <g type="ampersand">et</g> vestro statu di
+                  <lb n="13" break="no"/>gnissimo: <milestone unit="section" n="ded-04"/>A quo tempore semper non sol<hi rend="grave">u</hi>m verbis,
+                  <lb n="14"/>quoad potui, vestras virtutes apud exteros ornavi, sed in
+                  <lb n="15"/>hoc quoque incubui, ut re ipsa mentem meam aperti<hi rend="grave">u</hi>s
+                  <lb n="16"/>iisdem patefacerem, <g type="ampersand">et</g> uberi<hi rend="grave">u</hi>s effunderem. <milestone unit="section" n="ded-05"/>Quod c<hi rend="grave">u</hi>m
+                  <lb n="17"/>non aliter, qu<hi rend="grave">a</hi>m literario quopiam Xeniolo fieri posse
+                  <lb n="18"/>pr<hi rend="ligature">ae</hi>senserim, ac nonnihil oper<hi rend="ligature">ae</hi> in hac <title>Atalanta fugien
+                  <lb n="19" break="no"/>te</title> consumpserim, omne id, qualecunque sit, Vestris
+                  <lb n="20"/><expan><abbr>Amplitud<am>dd.</am></abbr><ex>issimis</ex></expan> <g type="ampersand">et</g> <expan><abbr>Excellent<am>tt.</am></abbr><ex>issimis</ex></expan> dicare volui, in hoc imitatus
+                  <lb n="21"/>nostri <g type="ampersand">et</g> antiqui temporis scriptores, qui nunquam sine
+                  <lb n="22"/><persName>Scipione</persName>, duce aut comite in vulgus prodire, sive per ora
+                  <lb n="23"/>vir<hi rend="circumflex">u</hi>m ambulare voluerunt: Si enim cecidissent, quis
+                  <lb n="24"/>subvenisset illis? <milestone unit="section" n="ded-06"/>Qu<hi rend="ligature">ae</hi>so, ut hujus opusculi Patronos mi
+                  <lb n="25" break="no"/>hi vos appellare liceat, non quod huic, ver<hi rend="grave">e</hi> dubio, stu
+                  <lb n="26" break="no"/>dio manum aut mentem, quantum sciam, adhibueritis,
+               </ab>
+               <fw type="catchword" place="bottom-right">(nec</fw>
+               <pb n="5" edRef="Maier1618"/>
+               <head>DEDICATORIA.</head> <fw type="pageNum" place="top-right">5</fw>
+               <ab>
+                  <lb n="1"/>(nec enim <hi rend="grave">a</hi> gravissimis negotiis tant<hi rend="grave">u</hi>m superfuit otii)
+                  <lb n="2"/>sed quia satis mihi videremini, ad quamvis doctrin<hi rend="ligature">ae</hi>
+                  <lb n="3"/>partem tuendam, <expan><abbr>mihi<hi rend="acute">q</hi><am>;</am></abbr><ex>ue</ex></expan> non alia materia sive dignior
+                  <lb n="4"/>sive honestior (excluso abusu) pro tempore occurrerit.
+                  <lb n="5"/><milestone unit="section" n="ded-07"/>Quicquid sit, vos meos conatus, non pro chart<hi rend="ligature">ae</hi> vilitate,
+                  <lb n="6"/>sed animi mei candore (quod scio) <hi rend="ligature">ae</hi>stimabitis, m<hi rend="acute">e</hi>que
+                  <lb n="7"/>inter vestrarum <expan><abbr>Amplitud<am>dd.</am></abbr><ex>issimarum</ex></expan> observantissimos impo
+                  <lb n="8" break="no"/>sterum habebitis <g type="ampersand">et</g> numberabitis. <milestone unit="section" n="ded-08"/>Valete, Dabam
+                  <lb n="9"/><placeName>Francofucti ad <placeName>M<hi rend="ligature">oe</hi>num</placeName></placeName>, <date when="1617-08">Anno <num value="1617" type="cardinal">1617</num>. Mense Augusto</date>.
+               </ab>
+               <fw type="gathering" place="below-right">A 3</fw> <fw type="catchword" place="below-right">Pr<hi rend="ligature">ae</hi>fa-</fw>
+            </div>
+         </div>
+      </body>
+  </text>
+</TEI>

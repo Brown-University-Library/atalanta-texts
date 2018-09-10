@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2018-03-30" who="SJD">Completed draft</change>
+      </revisionDesc>
+   </teiHeader>
+   
+   
+   <text>
+      <body>
+         <div type="pref-epigram">
+            <pb n="2" edRef="Maier1618"/>                   
+            <head><title>EPIGRAMMA AUTHORIS.</title></head>           
+            <div type="pref-epigram" xml:lang="la">
+               <lg rend="italic">
+                  <lb n="1"/><l><persName>Hesperii</persName> precium juvenis tulit impiger horti</l>
+                  <lb n="2"/><l>Dante De<hi rend="circumflex">a</hi> pomum <persName type="divinity">Cypride</persName> tergeminum:</l>
+                  <lb n="3"/><l><expan><abbr>Id<hi rend="acute tail"></hi></abbr><ex>ue</ex></expan> sequens fugientis humo glomeravit ad ora</l>
+                  <lb n="4"/><l>Virginis, hinc tardas contrahit illa moras:</l>
+                  <lb n="5"/><l>Mox micat is, micat h<hi rend="ligature">ae</hi>c mo ante fugacior <persName>Euris</persName>,</l>
+                  <lb n="6"/><l>Alteratum spargens aurea dona solo,</l>
+                  <lb n="7"/><l>Ille morabatur vestigia lenta puell<hi rend="ligature">ae</hi></l>
+                  <lb n="8"/><l>Rursus, at h<hi rend="ligature">ae</hi>c rursus dat sua terga fug<hi rend="ligature">ae</hi>;</l>
+                  <lb n="9"/><l>Tertia donec amans iter<hi rend="circumflex">a</hi>rit pondera, cessit</l>
+                  <lb n="10"/><l>Victori merces hinc <persName><hi rend="caps">Atalanta</hi></persName> suo.</l>
+                  <lb n="11"/><l><persName>Hippomenes</persName> virtus est sulphuris, illa fugacis</l>
+                  <lb n="12"/><l>Mercurii, in cursu femina victa mare est.</l>
+                  <lb n="13"/><l>Qui postquam cupido se complectuntur amore</l>
+                  <lb n="14"/><l>In fano <persName type="divinity">Cybeles</persName>, corrigit ira Deam;</l>
+                  <lb n="15"/><l>Pelle leonina vindex <g type="ampersand">et</g> vestiit ambos,</l>
+                  <lb n="16"/><l>Inde rubent posthac corpore, <expan><abbr>sunt<hi rend="acute tail">q</hi></abbr><ex>ue</ex></expan> feri.</l>
+                  <lb n="17"/><l>Hujus ut exprimeret simulacra simillima cursus</l>
+                  <lb n="18"/><l>Voce tibi tern<hi rend="circumflex">a</hi> dat mea Musa fugas:</l>
+                  <lb n="19"/><l><hi rend="latin">U</hi>na manet simplex, pom<hi rend="acute">u</hi>mque refert remorans vox,</l>
+                  <lb n="20"/><l>Altera sed fugiens, tertia rit<hi rend="grave">e</hi> sequens.</l>
+                  <lb n="21"/><l>Auribus ista tuis, ocul<hi rend="acute">i</hi>sque Emblemata prostent,</l>
+                  <lb n="22"/><l>At ratio arcanas expetat inde notas:</l>
+                  <lb n="23"/><l>Sensibus h<hi rend="ligature">ae</hi>c objecta tuli, intellectus ut illis</l>
+                  <lb n="24"/><l>Illicibus caperet, qu<hi rend="ligature">ae</hi> preciosa latent.</l>
+                  <lb n="25"/><l>Orbis quicquid opum, vel habet Medicina salutis,</l>
+                  <lb n="26"/><l>Omne Leo geminus suppeditare potest.</l>
+               </lg>
+               <fw type="catchword" place="bottom-right"><hi rend="italic">Amplissimo</hi></fw>
+            </div> 
+            <!-- library stamp here - mark as figure? -->                       
+         </div>
+      </body>
+  </text>
+</TEI>

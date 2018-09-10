@@ -24,6 +24,7 @@
                 
                 
                 <div type="title" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="073"/>
                     <head>
                         <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 16. Of the Secrets of Nature.
                         <lb/>One <choice><orig>Lyon</orig><reg>Lion</reg></choice> <choice><orig>hath</orig><reg>has</reg></choice> wings, the other none.</seg>
@@ -46,6 +47,7 @@
                 
                 <pb n="54"/> 
                 <div type="discourse" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="074"/>
                     <head rend="italics">Discourse 16.</head>
                     <ab> 
                         <lb/>It is a thing <choice><orig>knowne</orig><reg>known</reg></choice> by experience that a <choice><orig>Lyon</orig><reg>Lion</reg></choice> <choice><orig>excells</orig><reg>excels</reg></choice> other <choice><orig>animalls</orig><reg>animals</reg></choice> not<milestone unit="section" n="e03-01" /> 
@@ -87,7 +89,7 @@
                         <lb/>what you please, but winged, which may be able to fight and
                         <lb/>contest with the <choice><orig>Lyon</orig><reg>Lion</reg></choice>, depending upon the <choice><orig>Swiftnesse</orig><reg>Swiftness</reg></choice> of her <pc>-</pc>
                         <lb/>plumes, lest (to <choice><orig>witt</orig><reg>wit</reg></choice>) <choice><orig>Shee</orig><reg>She</reg></choice> Should be oppressed by his extraordi
-                        <lb break="no"/>nary wrath, but to <choice><orig>thinke</orig><reg>think</reg></choice> upon escape, if at any time <choice><orig>hee</orig><reg>he</reg></choice> fall
+                        <lb break="no"/>nary wrath, but to <choice><orig>thinke</orig><reg>think</reg></choice> upon escape, <milestone unit="page" ed="Meier" n="075"/>if at any time <choice><orig>hee</orig><reg>he</reg></choice> fall
                         <lb/>into fury without cause, for <choice><orig>hee</orig><reg>he</reg></choice> when <choice><orig>hee</orig><reg>he</reg></choice> stops her flying <pc>-</pc>
                         
                         

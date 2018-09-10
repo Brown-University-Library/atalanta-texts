@@ -1,0 +1,150 @@
+<?xml version="1.1" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+     <revisionDesc>
+        <change when="2018-03-13" who="SJD">Start encoding</change>
+        <change when="2018-03-13" who="SJD">Finish draft</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
+     </revisionDesc>
+  </teiHeader>
+   
+   
+  <text>
+      <body>
+         <div type="emblem" n="e35">
+            <pb n="148" edRef="Maier1618"/>
+            <fw type="pageNum" place="top-left">148</fw><fw type="header" place="top-center">FUGA <num value="35" type="cardinal">XXXV</num>. in <num value="7">7</num> suprà.</fw>
+            
+            <div type="fugue" xml:lang="de">
+               <head>
+
+               <lb n="2"/>Wie <persName type="divinity"><hi rend="latin">Ceres</hi></persName> <persName><hi rend="latin">Triptolemum</hi></persName>, die <persName type="divinity"><hi rend="latin">Thetis</hi></persName> <persName><hi rend="latin">Achillem</hi></persName> unterm
+               <lb n="3"/>Feiur zu tawren gewehnet hat <pc>/</pc> also sol der Künstler
+               <lb n="4"/>den Stein gewehnen.
+            </head>
+               
+            </div>
+            
+            <div type="epigram" xml:lang="de">
+               <head><num value="35" type="cardinal">XXXV</num>. Epigrammatis Latini versio Germanica.</head>
+               <lg>
+                  <lb n="1"/><l>Schaw an <persName><hi rend="latin">Triptolemum</hi></persName> und <persName><hi rend="latin">Achillem</hi></persName> großmühtig im Streit <pc>/</pc></l>
+                  <lb n="2"/><l>Wie sie zuvertragen Hiz von ihr Mutter seijnd bereit <pc>/</pc></l>
+                  <lb n="3"/><l>Jenen hat <persName type="divinity"><hi rend="latin">Ceres</hi></persName>, disen <persName type="divinity"><hi rend="latin">Thetis</hi></persName>, im Feiur verhartet</l>
+                  <lb n="4"/><l>Ben Nacht <pc>/</pc> und gegeben Milch ben Tage wol geartet <pc>/</pc></l>
+                  <lb n="5"/><l>Nicht anderst die Arzneij der Weisen muß werden regiret <pc>/</pc></l>
+                  <lb n="6"/><l>Als ein Kindt an Mutter Brüst <pc>/</pc> durch Feiur werden ernehret.</l>
+               </lg>
+            </div>
+            <fw type="catchword">Emble-</fw>
+            
+            <pb n="149" edRef="Maier1618"/>
+            
+            <fw type="header" place="top-center">Emblema <num value="35" type="cardinal">XXXV</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">149</fw><div type="image" xml:lang="la"><head/></div>            
+            <div type="epigram" xml:lang="la">
+               <head>Epigramma <num value="35" type="cardinal">XXXV</num>.</head>
+               <lg>
+                  <lb n="1"/><l>Respice <persName>Triptolemum</persName>, dur<hi rend="acute">u</hi>mque in pr<hi rend="ligature">ae</hi>lio <persName>Achillem</persName>,</l>
+                  <lb n="2"/><l>Matre docente, <hi rend="ligature">ae</hi>stus ut didic<hi rend="circumflex">e</hi>ere graves.</l>
+                  <lb n="3"/><l>Illum Diva <persName type="divinity">Ceres</persName>, <persName>Thetis</persName> hunc durabat in igne</l>
+                  <lb n="4"/><l>Noctu, lacte ferens ubera plena die:</l>
+                  <lb n="5"/><l>Haud secus assuescat medicina beata Sophorum,</l>
+                  <lb n="6"/><l>Qu<hi rend="grave">a</hi>m puer ad mammas, ut queat igne frui.</l> 
+               </lg>
+            </div>
+            
+            <fw type="gathering" place="bottom-right">T 3</fw> <fw type="catchword" place="bottom-right">Ly-</fw>
+            
+            <div type="discourse" xml:lang="la">
+               <pb n="150" edRef="Maier1618"/>
+               <fw type="pageNum" place="top-left">150</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="35">XXXV</num>.</fw>
+                  <div type="discourse-p1"><ab>
+                     <lb n="1"/><milestone unit="section" n="e35-01"/><persName>Lycurgus</persName> ille <orgName>Spartanorum</orgName> legislator, quantum consuetudo
+                     <lb n="2"/>valeat, <g type="ampersand">et</g> usus sive bonus sive malus, oculari exemplo populo in
+                     <lb n="3"/>theatrali concione exposuit, dum adducere binos catulos uno eni
+                     <lb n="4" break="no"/>xu editos; in<hi rend="acute">q</hi>ue medio poneret ollam pult refertam ac leporem;
+                     <lb n="5"/><milestone unit="section" n="e35-02"/>quorum catulorum unus c<hi rend="grave">u</hi>m videret cibum <g type="ampersand">et</g> leporem, eo relicto
+                     <lb n="6"/>hunc insecutus est, quia ita assuefactus erat, alter ver<hi rend="grave">o</hi> neglecto le
+                     <lb n="7" break="no"/>pore, ollam evacuavit, c<hi rend="grave">u</hi>m <g type="ampersand">et</g> sic consueverat. <milestone unit="section" n="e35-03"/>Quo facto, en, inquit,
+                     <lb n="8"/>h<hi rend="circumflex">i</hi>c videtis, quantum valeat educatio, <g type="ampersand">et</g> <hi rend="grave">a</hi> parvulis assuefactio <expan><abbr>eti<hi rend="tilde">a</hi></abbr><ex>m</ex></expan>
+                     <lb n="9"/>in illis, quos natura pares <g type="ampersand">et</g> similimos produxit. <milestone unit="section" n="e35-04"/>Hoc itaque modo
+                     <lb n="10"/>naturam emendare aut ad meliora dirigere convenit, qu<hi rend="ligature">ae</hi> c<hi rend="ligature">ae</hi>rea
+                     <lb n="11"/>est, ut in vitium vel virtutem facil<hi rend="grave">e</hi> flecti possit. <milestone unit="section" n="e35-05"/>Quod ille in politi
+                     <lb n="12" break="no"/>cis verum demonstravit, Philosophi quoque in Physicis se ita habe
+                     <lb n="13" break="no"/>re consentiunt: <milestone unit="section" n="e35-06"/>In hominibus, brutis quantum consuetudo valeat,
+                     <lb n="14"/>quotidiana exempla per totum visuntur mundum: In <expan><abbr>vegetabilib<am>.</am></abbr><ex>us</ex></expan>
+                     <lb n="15"/>quoque non pauca occurrunt: At in mineralibus <g type="ampersand">et</g> metallicis ea
+                     <lb n="16" break="no"/>dem dari, rarioris experienti<hi rend="ligature">ae</hi> est: <milestone unit="section" n="e35-07"/>Nihilomin<hi rend="grave">u</hi>s tamen lapidem <expan><abbr>su<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>
+                     <lb n="17"/>fixant per assuefactionem in igne sibi conveniente, <expan><abbr>quemadmod<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>
+                     <lb n="18"/>innumeris locis innuunt: Nutriendus enim est igne, tanquam puer
+                     <lb n="19"/>lacte super ubera matris su<hi rend="ligature">ae</hi>: <milestone unit="section" n="e35-08"/>Unde dicit <persName>Emiganus</persName>, <quote>inspicite</quote> lactan
+                     <lb n="20" break="no"/>tem puerum, <g type="ampersand">et</g> ne impediatis eum: Et <persName>Bodillus</persName>, <quote>F<hi rend="ligature">oe</hi>tus autem ex
+                     <lb n="21" break="no"/>tractus non nisi lacte nutritur, <g type="ampersand">et</g> igne per se <g type="ampersand">et</g> paulatim dum parvu
+                     <lb n="22" break="no"/>lus est, <g type="ampersand">et</g> quanto magis exuritur, ossibus confortatis, in juventutem
+                     <lb n="23"/>deducitur, in quam perveniens, sibi sufficit.</quote> <milestone unit="section" n="e35-09"/>Et <persName ref="http://viaf.org/viaf/100189814">Arnoldus</persName> in <title ref="http://viaf.org/viaf/191597728"><expan><abbr>Rosar<am>.</am></abbr><ex>io</ex></expan></title>
+                     <lb n="24"/><expan><abbr>l<am>.</am></abbr><ex>ibro</ex></expan> <num value="2" type="ordinal">2</num>. <expan><abbr>c<am>.</am></abbr><ex>apite</ex></expan> <num value="7" type="ordinal">7</num>. <quote>Oportet tamen ipsam medicinam diuti<hi rend="grave">u</hi>s assari super ignem
+                     <lb n="25"/><g type="ampersand">et</g> nutriri instar pueri in uberibus.</quote> <milestone unit="section" n="e35-10"/>H<hi rend="ligature">ae</hi>c eadem antiquissimi Philoso
+                     <lb n="26" break="no"/>phi demonstrare voluerunt in allegoriis de <persName>Triptolemo</persName> <g type="ampersand">et</g> <persName>Achille</persName>
+                     <lb n="27"/>sub igne assuefactis jacere <g type="ampersand">et</g> induratis, c<hi rend="grave">u</hi>m uterque nil nisi chymi
+                     <lb n="28" break="no"/>cum subjectum denotet, pr<hi rend="ligature">ae</hi>ter quod insulsa esset fabula, indigna
+                     <lb n="29"/>qu<hi rend="ligature">ae</hi> vel aliis rebus moralibus accommodaretur, vel doctorum au
+                     <lb n="30" break="no"/>ribus inculcaretur: <milestone unit="section" n="e35-11"/><persName type="divinity">Ceres</persName>, veluti nutrix <persName>Triptolemum</persName> interdiu la
+                     <lb n="31" break="no"/>cte nutrivit, noctu sub ignibus posuit, unde c<hi rend="grave">u</hi>m puer optim<hi rend="grave">e</hi> alere
+                     <lb n="32" break="no"/>tur, pater <persName>Eleusius</persName> aliquando hoc observavit: <milestone unit="section" n="e35-12"/>Hinc <persName type="divinity">Ceres</persName> <persName>Eleusium</persName>
+                     <lb n="33"/>interemit, <g type="ampersand">et</g> puero <persName>Triptolemo</persName> currum donavit, <expan><abbr>anguib<am>.</am></abbr><ex>us</ex></expan> tractum,
+                  </ab></div>
+                  <fw type="catchword" place="bottom-right">quo</fw>
+               <pb n="151" edRef="Maier1618"/>
+               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="35">XXXV</num>.</fw> <fw type="pageNum" place="top-right">151</fw>
+                  <div type="discourse-p2"><ab>
+                     <lb n="1"/>quo ille per aërem in omnes mundi partes contendit, <g type="ampersand">et</g> mortales
+                     <lb n="2"/>frugum seminationem docuit: <milestone unit="section" n="e35-13"/>Sed hic <persName>Triptolemus</persName> tinctura est
+                     <lb n="3"/><expan><abbr>Philos<am>.</am></abbr><ex>ophica</ex></expan> eo modo sub igne nutrita, qu<hi rend="ligature">ae</hi> <hi rend="grave">a</hi> serpentibus ducta, hoc est,
+                     <lb n="4"/><persName type="divinity">Mercurio</persName>, docuit homines, quomodo semina <expan><abbr>Philos<am>.</am></abbr><ex>ophica</ex></expan> in suam terram
+                     <lb n="5"/>jacienda sint. <milestone unit="section" n="e35-14"/>H<hi rend="ligature">ae</hi>c eadem asscribuntur <persName type="divinity">Osiridi</persName>, qui ide<hi rend="grave">o</hi> terrarum
+                     <lb n="6"/>orbem perlustravit, ut alibi demonstravimus, <g type="ampersand">et</g> <persName type="divinity">Dionyso</persName>, qui vini u
+                     <lb n="7" break="no"/>sum homines docens peregrinatus est per mundum: <milestone unit="section" n="e35-15"/>Sunt ver<hi rend="grave">o</hi> hi
+                     <lb n="8"/>tres <persName>Triptolemus</persName>, <persName type="divinity">Osiris</persName> <g type="ampersand">et</g> <persName type="divinity">Dionysius</persName> unius intentionis <g type="ampersand">et</g> officii, i
+                     <lb n="9" break="no"/>m<hi rend="grave">o</hi> res una; ut etiam <persName>Achilles</persName>, qui fortissimus ad bellum <orgName>Trojanum</orgName>
+                     <lb n="10"/>mittendus erat; <milestone unit="section" n="e35-16"/>Ejus pater <persName>Peleus</persName>, id est, terra, vel Peleus mons, ma
+                     <lb n="11" break="no"/>ter <persName type="divinity">Thetis</persName> dea marina seu aquarum; his nascitur <persName>Achilles</persName>: At in <expan><abbr>eor<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>
+                     <lb n="12"/>nuptiis pomum aureum <persName type="divinity">Eridos</persName> prolatum est, prima causa belli <orgName>Tro
+                     <lb n="13" break="no"/>jani</orgName>, unde ex iis nuptiis natus, non immerit<hi rend="grave">o</hi> ejus executor extitit:
+                     <lb n="14"/><milestone unit="section" n="e35-17"/>Induratus ver<hi rend="grave">o</hi> eodem modo <persName>Achilles</persName> <hi rend="grave">a</hi> matre sua dicitur, quo an
+                     <lb n="15" break="no"/>tedictus <persName>Triptolemus</persName> <hi rend="grave">a</hi> <persName type="divinity">Cerere</persName>; de quo <expan><abbr>lib<am>.</am></abbr><ex>ro</ex></expan> <num value="6" type="ordinal">6</num>. <title><expan><abbr>Hieroglyph<am>.</am></abbr><ex>icorum</ex></expan></title> satis dixi
+                     <lb n="16" break="no"/>mus, quod hic repetere supervacaneum ducimus. <milestone unit="section" n="e35-18"/>Lapidis itaque
+                     <lb n="17"/>nutrimentum ignis est, at non inde, ut quidam perperam existimare
+                     <lb n="18"/>posset, in longum, latum <g type="ampersand">et</g> profundum, extenditur, neque in pon
+                     <lb n="19" break="no"/>dere incrementum sumit; quia saltem virtutem, maturationem <g type="ampersand">et</g>
+                     <lb n="20"/>colorem ab igne acquirit, omnia reliqua, tanquam commeatus <g type="ampersand">et</g>
+                     <lb n="21"/>v<hi rend="acute">i</hi>atica secum adferens. <milestone unit="section" n="e35-19"/>Quando enim ex diversis locis ejus partes
+                     <lb n="22"/>sunt congest<hi rend="ligature">ae</hi>, purgat<hi rend="ligature">ae</hi> <g type="ampersand">et</g> conjunct<hi rend="ligature">ae</hi>, habet in se omnia, quibus in
+                     <lb n="23" break="no"/>diget: Unde apud <title ref="http://viaf.org/viaf/191597728">Rosarium</title> Philosophus: <quote rend="italic">Omnia fert secum, quibus
+                     <lb n="24"/>indiget h<hi rend="ligature">ae</hi>c aqua f<hi rend="ligature">oe</hi>tum.</quote> <milestone unit="section" n="e35-20"/>Nec ver<hi rend="grave">o</hi> quicquam peregrini ab initio ad fi
+                     <lb n="25" break="no"/>nem illi additur, nisi sit homogeneum, nec separatur, nisi heteroge
+                     <lb n="26" break="no"/>neum: <milestone unit="section" n="e35-21"/>Quilibet autem animadvertere debet, uti dracones <persName>Tripto
+                     <lb n="27" break="no"/>lemi</persName> currui jungendos bene agnoscat, antequam quid incipiat, qui
+                     <lb n="28"/>sunt alati <g type="ampersand">et</g> volatiles; quos si scire desideres, in fimo Philosophico in
+                     <lb n="29" break="no"/>venies. <milestone unit="section" n="e35-22"/>Sunt enim fimus, <g type="ampersand">et</g> generantur ex fimo, sunt<hi rend="acute">q</hi>ue illud vas,
+                     <lb n="30"/>quod <persName ref="https://viaf.org/viaf/85148389348010712058">Maria</persName> dicit, non esse negromanticum, sed regimen ignis tui,
+                     <lb n="31"/>sine quo nihil efficies: <milestone unit="section" n="e35-23"/>Veritatem tibi aperui, quam hausi incredibili
+                     <lb n="32"/>labore, non absque sumptu multorum annorum, ex veterum mo
+                     <lb n="33" break="no"/>numentis.
+                  </ab></div>
+               <fw type="catchword" place="bottom-right" xml:lang="de">Dieser</fw>                  
+            </div>            
+         </div>
+      </body>
+  </text>
+</TEI>

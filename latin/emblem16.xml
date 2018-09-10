@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.1" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -18,6 +15,7 @@
      <revisionDesc>
         <change when="2017-12-22" who="SJD">Start encoding</change>
         <change when="2018-01-04" who="SJD">Finish draft</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
      </revisionDesc>
   </teiHeader>
    
@@ -25,16 +23,14 @@
   <text>
       <body>
          <div type="emblem" n="e16">
-            <pb n="72"/>
-            <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">72</fw> FUGA XVI. in 5. suprà.
+            <pb n="72" edRef="Maier1618"/>
+            <fw type="pageNum" place="top-left">72</fw><fw type="header" place="top-center">FUGA XVI. in 5. suprà.</fw>
+            
+            <div type="fugue" xml:lang="de">
+               <head>
+
                <lb n="2"/>Dieser Löw keine Federn <pc>/</pc>aber jener hat.
             </head>
-            
-            <div type="fugue">
-               <head>
-                  
-               </head>
                
             </div>
             
@@ -49,19 +45,11 @@
                   <lb n="6"/><l>Diß Bild der Natur <pc>/</pc> dir schawt den Weg <pc>/</pc> dadurch sie waltet.</l>
                </lg>
             </div>
+            
             <fw type="catchword">Emble-</fw>
+            <pb n="73" edRef="Maier1618"/>
             
-            <pb n="73"/>
-            
-            <div type="image-caption">
-               <head>
-                  <lb n="1"/>Emblema XVI. De Secretis Natur<hi rend="ligature">ae</hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">73</fw>
-                  <lb n="2"/>Hic leo, quas plumas non habet, alter habet.
-               </head>
-               
-            </div>
-            
-            <figure><graphic url=""></graphic></figure>
+            <fw type="header" place="top-center">Emblema XVI. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">73</fw><div type="image" xml:lang="la"><head/></div>
             
             <div type="epigram" xml:lang="la">
                <head>Epigramma XVI.</head>
@@ -78,9 +66,9 @@
             <fw type="gathering" place="bottom-right">K</fw> <fw type="catchword" place="bottom-right">Leo-</fw>
             
             <div type="discourse" xml:lang="la">
-               <pb n="74"/>
-               <head><fw type="pageNum" place="top-left">74</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="16">XVI</num>.</head>
-                  <ab>
+               <pb n="74" edRef="Maier1618"/>
+               <fw type="pageNum" place="top-left">74</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="16">XVI</num>.</fw>
+                  <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e16-01"/>Leonem non tam magnitudine <g type="ampersand">et</g> robore corporis qu<hi rend="grave">a</hi>m gene
                      <lb n="2" break="no"/>rositate c<hi rend="ligature">ae</hi>teris pr<hi rend="ligature">ae</hi>valere animalibus, ab <expan><abbr>experi<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>tia</abbr></expan> notum est.
                      <lb n="3"/><milestone unit="section" n="e16-02"/>Si in venatu videatur erubescens dare terga, sese paulatim recipit, si
@@ -114,11 +102,11 @@
                      <lb n="31" break="no"/>cil<hi rend="grave">e</hi> agnosci poterit. <milestone unit="section" n="e16-14"/>Oportet ver<hi rend="grave">o</hi> le<hi rend="ligature">ae</hi>nam esse non quamvis, sed a
                      <lb n="32" break="no"/>latam, qu<hi rend="ligature">ae</hi> cum leone pugnas inire possit, freta suarum plumarum
                      <lb n="33"/>pernicitate; ne scilicet illius nimia iracundia supprimatur, sed si
-                  </ab>
+                  </ab></div>
                   <fw type="catchword" place="bottom-right">quando</fw>
-               <pb n="75"/>
-               <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="16">XVI</num>. <fw type="pageNum" place="top-right">75</fw></head>
-                  <ab>
+               <pb n="75" edRef="Maier1618"/>
+               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="16">XVI</num>.</fw> <fw type="pageNum" place="top-right">75</fw>
+                  <div type="discourse-p2"><ab>
                      <lb n="1"/>quando absque causa in furorem incidat, fugam meditari. <milestone unit="section" n="e16-15"/>Ipse
                      <lb n="2"/>enim dum fugituram moratur, majori erga eam amore incita
                      <lb n="3" break="no"/>tur, post lite fact<hi rend="circumflex">a</hi> amiciti<hi rend="circumflex">a</hi>. <milestone unit="section" n="e16-16"/>Ver<hi rend="grave">u</hi>m quis inquam, dices, vidit <expan><abbr>le<hi rend="ligature">ae</hi>
@@ -141,7 +129,7 @@
                      <lb n="20" break="no"/>quo ingrediantur itinere, ne cubile deprehendatur, ide<hi rend="grave">o</hi> summ<hi rend="circumflex">a</hi> di
                      <lb n="21" break="no"/>ligenti<hi rend="circumflex">a</hi> <g type="ampersand">et</g> cur<hi rend="circumflex">a</hi> inquirendi, eorum<hi rend="acute">q</hi>ue pulli auferendi erunt.
                      <lb/> <fw type="gathering" place="bottom-right">K ii</fw> <fw type="catchword" place="bottom-right" xml:lang="de"> Ein</fw>
-                  </ab>                  
+                  </ab></div>                  
             </div>
             
          </div>

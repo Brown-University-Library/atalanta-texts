@@ -24,6 +24,7 @@
                 
                 
                 <div type="title" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="181"/>
                     <head>
                         <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 43. Of the Secrets of Nature.
                         <lb/>Give ear to the <choice><orig>Vultur's</orig><reg>Vulture's</reg></choice> words, which are <choice><orig>noewise</orig><reg>nowise</reg></choice> false.</seg>
@@ -46,6 +47,7 @@
                 
                 <pb n="135"/> 
                 <div type="discourse" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="182"/>
                     <head rend="italics">Discourse 43.</head>
                     <ab> 
                         <lb/><choice><orig>Wee</orig><reg>We</reg></choice> daily in many places hear birds prattling or imitating the <choice><orig>voyce</orig><reg>voice</reg></choice><milestone unit="section" n="e03-01" /> 
@@ -84,7 +86,7 @@
                         <lb/>subject is <choice><orig>calld</orig><reg>called</reg></choice> a <choice><orig>Vultur</orig><reg>Vulture</reg></choice>, there is reason to be <choice><orig>alleadged</orig><reg>alleged</reg></choice>. Of <choice><orig>Vulturs</orig><reg>Vultures</reg></choice> <pc>-</pc>
                         <lb/>the <choice><orig>blacke</orig><reg>black</reg></choice> are of most esteem, they are rapacious, but fly Slowly, be
                         <lb break="no"/>cause of the <choice><orig>bignesse</orig><reg>bigness</reg></choice> of body. They say that this bird conceives <pc>-</pc>
-                        <lb/>without the seed of the males, and generates without coition, and
+                        <lb/>without the seed of the males, and generates without coition, <milestone unit="page" ed="Meier" n="183"/>and
                         <lb/>that their offspring <choice><orig>doe</orig><reg>do</reg></choice> arrive to a great age even to a hundred <pc>-</pc>
                         <lb/>years. Their nests they build in high rocks, <choice><orig>noe</orig><reg>no</reg></choice> man <choice><orig>hath</orig><reg>has</reg></choice> attained
                         <lb/>to them. Two chickens are for the most part seen: They are <choice><orig>helpe
@@ -114,7 +116,7 @@
                         <lb/>forth in one day, etc. It lives and endures a very long time, and <pc>-</pc>
                         <lb/><choice><orig>multiplyes</orig><reg>multiplies</reg></choice> <choice><orig>itselfe</orig><reg>itself</reg></choice>. For that which <choice><orig>Virgill</orig><reg>Virgil</reg></choice> writes of the bird <choice><orig>calld</orig><reg>called</reg></choice>
                         <lb/>a <choice><orig>Phœnix</orig><reg>Phoenix</reg></choice>, is as proper to this, because it is the same.
-                        <quote rend="indent">
+                        <quote">
                             <lg xml:lang="lat">
                                 <l>Alipedem Cervum Corvus ter vincit, at illum</l>
                                 <l>Multiplicat novies <choice><orig>Phœnix</orig><reg>Phoenix</reg></choice> reparabilis ales.</l>

@@ -24,6 +24,7 @@
                 
                 
                 <div type="title" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="085"/>
                     <head>
                         <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 19. Of the Secrets of Nature.
                         <lb/>If you kill one of the <choice><orig>fower</orig><reg>four</reg></choice>, they will all suddenly <choice><orig>dye</orig><reg>die</reg></choice>.</seg>
@@ -46,6 +47,7 @@
                 
                 <pb n="63"/> 
                 <div type="discourse" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="086"/>
                     <head rend="italics">Discourse 19.</head>
                     <ab> 
                         <lb/>The <choice><orig>Poetts</orig><reg>Poets</reg></choice> <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>feigne</orig><reg>feign</reg></choice> Geryon King of <choice><orig>Spayne</orig><reg>Spain</reg></choice> to have been <choice><orig>tricorporeall</orig><reg>tricorporeal</reg></choice>, <pc>-</pc><milestone unit="section" n="e03-01" /> 
@@ -82,7 +84,7 @@
                         <lb/>of life being <choice><orig>borne</orig><reg>born</reg></choice> at one birth both by father and mother, as <choice><orig>wee</orig><reg>we</reg></choice> <pc>-</pc>
                         <lb/>have read has happened to some, perhaps by the inclination of the
                         <lb/><choice><orig>starrs</orig><reg>stars</reg></choice>, or by being <choice><orig>joyned</orig><reg>joined</reg></choice> together not <choice><orig>onely</orig><reg>only</reg></choice> in <choice><orig>soules</orig><reg>souls</reg></choice>, but <choice><orig>allso</orig><reg>also</reg></choice> ligaments
-                        <lb/>of the body, or by consternation of mind, by strong imagination in time
+                        <lb/>of the body, or by <milestone unit="page" ed="Meier" n="067"/>consternation of mind, by strong imagination in time
                         <lb/>of pestilence, or by the vow of a league: A <choice><orig>certaine</orig><reg>certain</reg></choice> heathenish people
                         <lb/><choice><orig>livd</orig><reg>lived</reg></choice> by the name of Pythagoreans in the <choice><orig>Indyes</orig><reg>Indies</reg></choice> under the govern
                         <lb break="no"/>ment of the great <choice><orig>Mogull</orig><reg>Mogul</reg></choice> (who now reigns there the nineth of the <pc>-</pc>

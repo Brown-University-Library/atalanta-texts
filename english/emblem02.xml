@@ -24,6 +24,7 @@
                 
                 
                 <div type="title" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="017"/>
                     <head>
                         <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 2. Of the Secrets of Nature.
                         <lb/>the earth is his <choice><orig>Nurce</orig><reg>Nurse</reg></choice>.</seg>
@@ -47,6 +48,7 @@
                 
                 <pb n="12"/> 
                 <div type="discourse" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="018"/>
                     <head rend="italics">Discourse 2.</head>
                     <ab> 
                         <lb/><milestone unit="section" n="e02-01" />It is concluded by the <choice><orig>Peripateticks</orig><reg>Peripatetics</reg></choice>, and Orthodox Philosophers, that the <pc>-</pc> 
@@ -84,7 +86,7 @@
                         <lb/>of the <choice><orig>Cocke</orig><reg>Cock</reg></choice> and <choice><orig>Henne</orig><reg>Hen</reg></choice> are had in an <choice><orig>egge</orig><reg>egg</reg></choice> subsisting together in one <pc>-</pc>
                         <lb/>continent, then would the Philosophers <choice><orig>worke</orig><reg>work</reg></choice> be yet more <choice><orig>naturalle</orig><reg>natural</reg></choice>, than
                         <lb/>the generation of <choice><orig>animalls</orig><reg>animals</reg></choice>. <milestone unit="section" n="e02-13" />But let us grant, as the Philosophers <choice><orig>doe</orig><reg>do</reg></choice> assert,
-                        <lb/>that one comes from the east and another from the west, and are made one,
+                        <lb/><milestone unit="page" ed="Meier" n="019"/>that one comes from the east and another from the west, and are made one,
                         <lb/>what more is <choice><orig>administred</orig><reg>administered</reg></choice> to them, than mixti<subst><del>ure</del><add>on</add></subst> in their <choice><orig>owne</orig><reg>own</reg></choice> <choice><orig>vessell</orig><reg>vessel</reg></choice>, tem
                         <lb break="no"/>perate heat and nutriment? <milestone unit="section" n="e02-14" />the <choice><orig>vessell</orig><reg>vessel</reg></choice> is indeed <choice><orig>artificiall</orig><reg>artificial</reg></choice>, but herein is
                         <lb/><choice><orig>noe</orig><reg>no</reg></choice> difference, whether the nest be made by the <choice><orig>Henne</orig><reg>Hen</reg></choice> <choice><orig>herselfe</orig><reg>herself</reg></choice>, or dispo

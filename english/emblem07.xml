@@ -24,6 +24,7 @@
                 
                 
                 <div type="title" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="037"/>
                     <head>
                         <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 7. Of the Secrets of Nature.
                         <lb/>A chicken is flying out of the nest, which falls <choice><orig>againe</orig><reg>again</reg></choice> into the nest.</seg>
@@ -47,6 +48,7 @@
                 
                 <pb n="27"/> 
                 <div type="discourse" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="038"/>
                     <head rend="italics">Discourse 7.</head>
                     <ab> 
                         <lb/><milestone unit="section" n="e07-01" />What Hippocrates, the defender and propugnator of <choice><orig>Physitians</orig><reg>Physicians</reg></choice>, affirms of hu 
@@ -82,7 +84,7 @@
                         <lb break="no"/>tue of the heavy things, and in processe of time the Eagles wings are cut <pc>-</pc>
                         <lb/><choice><orig>of</orig><reg>off</reg></choice>, and one very great bird (namely an Ostrich) is made of two, which
                         <lb/>can consume iron, and which being impeded by weight <choice><orig>runns</orig><reg>runs</reg></choice> more upon
-                        <lb/>the earth, than <choice><orig>flyes</orig><reg>flys</reg></choice> in the <choice><orig>aire</orig><reg>air</reg></choice>, though it <choice><orig>hath</orig><reg>has</reg></choice> goodly wings: <milestone unit="section" n="e07-11" />Concerning
+                        <lb/>the earth, <milestone unit="page" ed="Meier" n="039"/>than <choice><orig>flyes</orig><reg>flys</reg></choice> in the <choice><orig>aire</orig><reg>air</reg></choice>, though it <choice><orig>hath</orig><reg>has</reg></choice> goodly wings: <milestone unit="section" n="e07-11" />Concerning
                         <lb/>this or the like Hermes (as the Author of Aurora chapt. 5. affirms) writes thus:
                         <lb/>I have considered a bird worthy to be had in estimation by the wise, which
                         <lb/><choice><orig>flyes</orig><reg>flys</reg></choice> when it is in Aries, Cancer, Libra, or <choice><orig>Capricorne</orig><reg>Capricorn</reg></choice>, and you will never

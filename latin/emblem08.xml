@@ -18,6 +18,7 @@
      <revisionDesc>
         <change when="2017-05-09" who="SJD">Created</change>
         <change when="2017-05-09" who="SJD">Completed draft</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
      </revisionDesc>
   </teiHeader>
    
@@ -25,16 +26,14 @@
   <text>
       <body>
          <div type="emblem" n="e8">
-            <pb n="40"/>
-            <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">40</fw> FUGA <choice><sic>IV</sic><corr>VIII</corr></choice>. in 8 supr<hi rend="grave">a</hi>.
-               <lb n="2"/>Nimm das Eij <pc>/</pc> und Schalge es mit einem
-               <lb n="3"/>Glüenden Schwerdt.
-            </head>
+            <pb n="40" edRef="Maier1618"/>
+            <fw type="pageNum" place="top-left">40</fw> <fw type="header" place="top-center">FUGA <choice><sic>IV</sic><corr>VIII</corr></choice>. in 8 supr<hi rend="grave">a</hi>.</fw>
             
-            <div type="fugue">
+            
+            <div type="fugue" xml:lang="de">
                <head>
-                  
+                  <lb n="1"/>Nimm das Eij <pc>/</pc> und Schalge es mit einem
+                  <lb n="2"/>Glüenden Schwerdt.
                </head>
                
             </div>
@@ -50,19 +49,18 @@
                   <lb n="6"/><l>Ein Vogeljung <pc>/</pc> so Feiur und Eisen kan zerstören.</l>
                </lg>
             </div>
-            <fw type="catchword" place="bottom-right">Emble</fw>
             
-            <pb n="41"/> 
+            <fw type="catchword" place="bottom-right">Emble</fw>            
+            <pb n="41" edRef="Maier1618"/> 
+            <fw type="header" place="top-center">Emblema VIII.<hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.</fw> <fw type="pageNum" place="top-right">41</fw>
             
-            <div type="image-caption">
+            <div type="image" xml:lang="la">
                <head>
-                  <lb n="1"/>Emblema VIII.<hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>. <fw type="pageNum" place="top-right">41</fw>
-                  <lb n="2"/>Accipe ovum <g type="ampersand">et</g> igneo percute gladio.<!-- BC: how do we want to handle ligatures? -->
+                  <lb n="2"/>Accipe ovum <g type="ampersand">et</g> igneo percute gladio.
                </head>
-            </div>
-            
-            <figure><graphic url=""></graphic></figure>
-            
+               <figure><graphic url=""></graphic></figure>
+
+            </div>            
             <div type="epigram" xml:lang="la">
                <head>Epigramma VIII.</head>
                <lg>
@@ -76,11 +74,11 @@
             </div>
             
            <fw type="gathering">F</fw> <fw type="catchword" place="bottom-right">Multa</fw>
+            <pb n="42" edRef="Maier1618"/>
+            <fw type="pageNum" place="top-left">42</fw><fw type="header" place="top-center"> <hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="8">VIII</num>,</fw>
             
-            <div type="discourse">
-               <pb n="42"/>
-               <head><fw type="pageNum" place="top-left">42</fw> <hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="8">VIII</num>,</head>
-                  <ab>
+            <div type="discourse" xml:lang="la">
+                  <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e08-01"/> Multa <g type="ampersand">et</g> varia sunt avium genera, qu<hi rend="ligature">ae</hi> ut numero indefi
                      <lb n="2" break="no"/>nita, ita nominibus incognita nobis existunt. <milestone unit="section" n="e08-02"/> De quadam
                      <lb n="3" break="no"/>pr<hi rend="ligature">ae</hi>gandi Ruc dicta in insula parva oceani certo anni tempore ap
@@ -114,20 +112,20 @@
                      <lb n="31"/>fruebatur) defuncto, alia perfectior per transitum in hanc lucem
                      <lb n="32"/>mundanam sive per nativitatem accedit. <milestone unit="section" n="e08-14"/> Im<hi rend="grave">o</hi> et nobis hac pr<hi rend="ligature">ae</hi>senti
                      <lb n="33"/>vit<hi rend="circumflex">a</hi>, quam agimus, privatis, alia perfectissima <g type="ampersand">et</g> <hi rend="ligature">ae</hi>terna imminet,
-                     <lb/>
-                  </ab>
+                  </ab></div>
                <fw type="catchword" place="bottom-right">sic</fw>
                   
-               <pb n="43"/>
-               <head><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="8">VIII</num>. <fw type="pageNum" place="top-right">43</fw></head>
-                  <ab>
+               <pb n="43" edRef="Maier1618"/>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="8">VIII</num>.</fw> <fw type="pageNum" place="top-right">43</fw>
+<div type="discourse-p2">
+   <ab>
                      <lb n="1"/>sic <persName ref="http://viaf.org/viaf/120696927">Lullius</persName> hunc gladium igneum, acutam lanceam vocat multis in
                      <lb n="2"/><surplus>in</surplus> locis; <milestone unit="section" n="e08-15"/> Quia ignis, ut lancea seu gladius acutus perforat corpora
                      <lb n="3"/>ea<hi rend="acute">q</hi>ue porosa <g type="ampersand">et</g> pervia reddit, ut aquapenetrare possit ad solven
                      <lb n="4" break="no"/>dum ea <g type="ampersand">et</g> <hi rend="grave">a</hi> duritie ad mollitiem tractabilitat<hi rend="acute">e</hi>mque reducendum.
                      <lb n="5"/><milestone unit="section" n="e08-16"/> In stomacho corvi marini, qui avium omnium est voracissimus, in
                      <lb n="6" break="no"/>veniuntur longi <g type="ampersand">et</g> teretes vermes vivi, qui illi sunt quasi instru
-                     <lb n="7" break="no"/>mentum caloris, dum anguillas ab ipso captas, pisc<hi rend="acture">e</hi>sque <hi rend="grave">e</hi> vestigio
+                     <lb n="7" break="no"/>mentum caloris, dum anguillas ab ipso captas, pisc<hi rend="acute">e</hi>sque <hi rend="grave">e</hi> vestigio
                      <lb n="8"/>invadunt <g type="ampersand">et</g> tanquam acutissim<hi rend="ligature">ae</hi> acus perforant (ut ipsi aliquando
                      <lb n="9"/>observavimus) <g type="ampersand">et</g> ita absumunt brevissimo tempore, mira natur<hi rend="ligature">ae</hi>
                      <lb n="10"/>operatione. <milestone unit="section" n="e08-17"/> Calor itaque ut pungic, sic pungens aliquando caloris 
@@ -142,8 +140,7 @@
                      <lb n="19" break="no"/>ta fiunt, nisi ex nostro pulvere albo, stellato, splendido <g type="ampersand">et</g> ex lapide candido, <hi rend="grave">e</hi>
                      <lb n="20"/>quo pulvere apta fiunt instrumenta pro ovo; non tamen nominaverunt o
                      <lb n="21" break="no"/>vum, vel cujus avis ovum sit.</hi></quote>
-                     <lb/>
-                  </ab> 
+                  </ab> </div>
                 <fw type="gathering" place="bottom-right">F iii</fw> <fw type="catchword" place="bottom-right" xml:lang="de"><hi rend="gothic">Schließ</hi></fw>
                 </div>
             

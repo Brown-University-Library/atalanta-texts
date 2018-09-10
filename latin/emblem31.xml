@@ -1,0 +1,149 @@
+<?xml version="1.1" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+     <revisionDesc>
+        <change when="2018-02-27" who="SJD">Start encoding</change>
+        <change when="2018-02-27" who="SJD">Finish draft</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
+     </revisionDesc>
+  </teiHeader>
+   
+   
+  <text>
+      <body>
+         <div type="emblem" n="e31">
+            <pb n="132" edRef="Maier1618"/>
+            <fw type="pageNum" place="top-left">132</fw><fw type="header" place="top-center">FUGA <num value="31" type="cardinal">XXXI</num>. in <num value="4">4</num> suprà.</fw>
+            
+            <div type="fugue" xml:lang="de">
+               <head>
+
+               <lb n="2"/>Der König <pc>/</pc> schwimmende im Meer <pc>/</pc> schreijet mit lauter
+               <lb n="3"/>Stimm <pc>/</pc> wer mich errettet <pc>/</pc> wirt ein groß Geschenck
+               <lb n="4"/>empfangen.
+            </head>
+               
+            </div>
+            
+            <div type="epigram" xml:lang="de">
+               <head><num value="31" type="cardinal">XXXI</num>. Epigrammatis Latini versio Germanica.</head>
+               <lg>
+                  <lb n="1"/><l>Der König <pc>/</pc> dem sein Haupt ist von einer güldnen <expan><abbr>Kron<hi rend="tilde">e</hi></abbr><ex>n</ex></expan> ganz schwer <pc>/</pc></l>
+                  <lb n="2"/><l>Rufft also uberlaut <pc>/</pc> schwimmende im tiessem Meer:</l>
+                  <lb n="3"/><l>Warumb helfft ihr mir nicht? Warumb kompt nicht <expan><abbr>g<am>'</am></abbr><ex>e</ex><abbr>lauffen</abbr></expan> jederman <pc>/</pc></l>
+                  <lb n="4"/><l>So ich errettet auß Nohe deß Wassers <pc>/</pc> begaben kan <pc>/</pc></l>
+                  <lb n="5"/><l>Bringt mich <pc>/</pc> so ihr weiß seijt <pc>/</pc> in mein Reich <pc>/</pc> und es sol zu keiner Zeit</l>
+                  <lb n="6"/><l>Euch Armuht trucken <pc>/</pc> oder beschwerlich Leibes Kranckheit.</l>
+               </lg>
+            </div>
+            <fw type="catchword">Emble-</fw>
+            
+            <pb n="133" edRef="Maier1618"/>
+            
+            <fw type="header" place="top-center">Emblema <num value="31" type="cardinal">XXXI</num>.</fw><fw type="pageNum" place="top-right">133</fw><div type="image" xml:lang="la"><head/></div>            
+            <div type="epigram" xml:lang="la">
+               <head>Epigramma <num value="31" type="cardinal">XXXI</num>.</head>
+               <lg>
+                  <lb n="1"/><l>Rex Diadema caput cui pr<hi rend="ligature">ae</hi>gravat, <hi rend="ligature">ae</hi>quore vasto</l>
+                  <lb n="2"/><l>Innatat, atque altis vocibus usus ait:</l>
+                  <lb n="3"/><l>Cur non fertis opem? Cur non accurritis omnes,</l>
+                  <lb n="4"/><l>Quos ereptus aquis forte beare queo?</l>
+                  <lb n="5"/><l>In mea, si sapitis, me regna reducite, nec vos</l>
+                  <lb n="6"/><l>Pauperies preme aut corporis ulla lues</l> 
+               </lg>
+            </div>
+            
+            <fw type="gathering" place="bottom-right">R 3</fw> <fw type="catchword" place="bottom-right">Prima</fw>
+            
+            <div type="discourse" xml:lang="la">
+               <pb n="134" edRef="Maier1618"/>
+               <fw type="pageNum" place="top-left">134</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="31">XXXI</num>.</fw>
+                  <div type="discourse-p1"><ab>
+                     <lb n="1"/><milestone unit="section" n="e31-01"/>Prima omnis disciplin<hi rend="ligature">ae</hi> rudimenta antiquitus fu<hi rend="circumflex">e</hi>re natandi
+                     <lb n="2"/>peritia <g type="ampersand">et</g> in literis institutio: Hinc de homine rudi dici <g type="ampersand">et</g> impolito
+                     <lb n="3"/>consuevit; <milestone unit="section" n="e31-02"/><expan><abbr>Neq<am>;</am></abbr><ex>ue</ex></expan> literas novit: Consider<hi rend="circumflex">a</hi>runt enim anti
+                     <lb n="4" break="no"/>qui natationem salvando <g type="ampersand">et</g> periculis aqu<hi rend="ligature">ae</hi> eripiendo corpori s<hi rend="ligature">ae</hi>pe
+                     <lb n="5"/>numero profuturam, literarum ver<hi rend="grave">o</hi> scientiam animo <hi rend="grave">e</hi> fortun<hi rend="ligature">ae</hi> flu
+                     <lb n="6" break="no"/>ctibus. <milestone unit="section" n="e31-03"/>Ad h<hi rend="ligature">ae</hi>c natatio militi<hi rend="ligature">ae</hi> imprimis servivit belli tempore, lite
+                     <lb n="7" break="no"/>rarum cognitio domi, pacis: Et veluti <choice><corr>animadvertimus</corr><sic>animadvertimns</sic></choice> brutis sua
+                     <lb n="8"/>arma esse inprocinctu <g type="ampersand">et</g> <hi rend="grave">a</hi> natura provisa, homini horum vice ad
+                     <lb n="9" break="no"/>versus vim externam, manus <g type="ampersand">et</g> ingenium ministrata, ut hoc arma
+                     <lb n="10"/>excogitet <g type="ampersand">et</g> inveniat, ill<hi rend="ligature">ae</hi> <expan><abbr>faci<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>t</abbr></expan> <g type="ampersand">et</g> <expan><abbr>usurp<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>t</abbr></expan>, sic iisdem bestiis natandi
+                     <lb n="11"/>facultas naturaliter insita est, homini <expan><abbr>nequaqu<hi rend="tilde">a</hi></abbr><ex>m</ex></expan>: <milestone unit="section" n="e31-04"/>Ill<hi rend="ligature">ae</hi> ex aquis nata
+                     <lb n="12" break="no"/>tione s<hi rend="ligature">ae</hi>p<hi rend="grave">e</hi> <expan><abbr>evad<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>t</abbr></expan> <expan><abbr>eti<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> juvenes, in <expan><abbr>quib<am>.</am></abbr><ex>us</ex></expan> homo vel senex aut robustis
+                     <lb n="13" break="no"/>simus suffocatur: Opus <expan><abbr>itaq<am>;</am></abbr><ex>ue</ex></expan> fuit pueris <expan><abbr>nat<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>di</abbr></expan> <expan><abbr>exercitation<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> impera
+                     <lb n="14" break="no"/>re, nunquam non vit<hi rend="ligature">ae</hi> <expan><abbr>cujusq<am>;</am></abbr><ex>ue</ex></expan> utilissimam, ut quod per naturam
+                     <lb n="15"/>deesset, <expan><abbr><hi rend="stroke">p</hi></abbr><ex>er</ex></expan> artis usum suppleretur: <milestone unit="section" n="e31-05"/><expan><abbr>Eod<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> exercitio magnantes, princi
+                     <lb n="16" break="no"/>pes <g type="ampersand">et</g> reges usi sunt, ad sui corporis <expan><abbr>tutel<hi rend="tilde">a</hi></abbr><ex>m</ex></expan>: Non enim alio loco nati
+                     <lb n="17"/><hi rend="grave">a</hi> fortun<hi rend="ligature">ae</hi> <expan><abbr>casib<am>.</am></abbr><ex>us</ex></expan> liberi omnino sunt, sed <hi rend="ligature">ae</hi>qu<hi rend="grave">e&gt;</hi> illis, ut alii homines ex
+                     <lb n="18" break="no"/>positi: <milestone unit="section" n="e31-06"/>Si <persName ref="https://viaf.org/viaf/316407664">Dionysius</persName> nec nare nec literas novisset, c<hi rend="grave">u</hi>m regno <placeName>Sicili<hi rend="ligature">ae</hi></placeName>,
+                     <lb n="19"/>ceu <expan><abbr>tyr<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>nus</abbr></expan> pelleretur, in <placeName>Corinthiaco sinu</placeName> naufragus <expan><abbr>fluctib<am>.</am></abbr><ex>us</ex></expan> maris
+                     <lb n="20"/>periisset, ver<hi rend="grave">u</hi>m <choice><corr>natatione</corr><sic>natatinoe</sic></choice> periculis ereptus, <placeName><expan><abbr>Corinth<hi rend="tilde">u</hi></abbr><ex>m</ex></expan></placeName> se <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>n</ex><abbr>tulit</abbr></expan>, ubi
+                     <lb n="21"/><expan><abbr>schol<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> <expan><abbr>doc<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>dis</abbr></expan> pueris aperuit, <expan><abbr>liter<hi rend="acute">a</hi>sq<am>;</am></abbr><ex>ue</ex></expan> humaniores professus est, ex
+                     <lb n="22"/>rege factus ludimoderator, <expan><abbr>virg<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> <expan><abbr><hi rend="lead-tail">p</hi></abbr><ex>ro</ex></expan> sceptro tenens, unde dicterium,
+                     <lb n="23"/><persName ref="https://viaf.org/viaf/316407664">Dionysius</persName> <placeName>Corinthi</placeName>: <milestone unit="section" n="e31-07"/>Simili modo nisi regius <expan><abbr>Philosophor<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> filius na
+                     <lb n="24" break="no"/>tare posset, nem ejus clamorem audiret, nec illi suppetias ferret
+                     <lb n="25"/>jam <expan><abbr>prid<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> aquis submerso: <milestone unit="section" n="e31-08"/>Natatio <expan><abbr>itaq<am>;</am></abbr><ex>ue</ex></expan>/&gt; omnis conditionis homini
+                     <lb n="26"/>necessaria <g type="ampersand">et</g> utilissima est: Etiamsi enim <expan><abbr>n<hi rend="tilde">o</hi></abbr><ex>n</ex></expan> mox liberet ex immensi
+                     <lb n="27"/>maris fluctibus, tamen concedit tempus vit<hi rend="ligature">ae</hi>, quo ab aliis liberari
+                     <lb n="28"/>queat: <milestone unit="section" n="e31-09"/>Dictus ver<hi rend="grave">o</hi> rex diutissim<hi rend="grave">e</hi> se sustinet <g type="ampersand">et</g> huc usque clamat
+                     <lb n="29"/>quamvis <hi rend="grave">a</hi> paucissimis exaudiatur aut videatur ob maris amplitudi
+                     <lb n="30" break="no"/>nem <g type="ampersand">et</g> ejus remotionen. Fort<hi rend="grave">e</hi> enim rupem seu lapidem pr<hi rend="ligature">ae</hi>gran
+                     <lb n="31" break="no"/>dem natando attigit: quo contineatur ; si fluctus pr<hi rend="ligature">ae</hi>valeant. <milestone unit="section" n="e31-10"/>At
+                     <lb n="32"/>qu<hi rend="ligature">ae</hi>ritur quale sit mare? Respondeo, Erythr<hi rend="ligature">ae</hi>um seu rubrum, Tro
+                     <lb n="33" break="no"/>pico Cancri subjectum; <milestone unit="section" n="e31-11"/>in quo cum magnetes abunddantissimi sint
+                  </ab></div>
+                  <fw type="catchword" place="bottom-right">in<hi rend="grave">es</hi></fw>
+               <pb n="135" edRef="Maier1618"/>
+               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="31">XXXI</num>.</fw> <fw type="pageNum" place="top-right">135</fw>
+                  <div type="discourse-p2"><ab>
+                     <lb n="1"/>in fundo, unde non tutum est navibus ferro compactis aut oneratis
+                     <lb n="2"/>per id transire: Facil<hi rend="grave">e</hi> enim in fundum magnetis vi attrahi possent.
+                     <lb n="3"/><milestone unit="section" n="e31-12"/>Quod c<hi rend="grave">u</hi>m ignoraret jam dictus rex, <g type="ampersand">et</g> navi submersa reliqui per
+                     <lb n="4" break="no"/>irent, ipse natatione evasit solus. <milestone unit="section" n="e31-13"/>Corona illi remansit rubinis lu
+                     <lb n="5" break="no"/>cens insignibus, qua facile agnosci <g type="ampersand">et</g> in regnum suum reduci possit.
+                     <lb n="6"/><milestone unit="section" n="e31-14"/>At qu<hi rend="ligature">ae</hi> bona sunt, qu<hi rend="ligature">ae</hi> regius hic filius illi, <hi rend="grave">a</hi> quo in <expan><abbr>propri<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> regnum
+                     <lb n="7"/>reduceretur, impertiri queat aut velit? San<hi rend="grave">e</hi> non ejusmodi, qualia
+                     <lb n="8"/><persName ref="https://viaf.org/viaf/4150150325533010090006">Ptolem<hi rend="ligature">ae</hi>us</persName> rex <placeName><hi rend="ligature">Ae</hi>gypti</placeName> ultimus, <persName ref="https://viaf.org/viaf/6224297"><expan><abbr>P<hi rend="tilde">o</hi></abbr><ex>m</ex><abbr>pejo</abbr></expan></persName>, <hi rend="grave">a</hi> quo pater ejus in <expan><abbr>regn<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>
+                     <lb n="9"/><placeName><hi rend="ligature">Ae</hi>gyptium</placeName> restitutus erat, scilicet, proditionem <g type="ampersand">et</g> mortem, sed sa
+                     <lb n="10" break="no"/>nitatem, morborum sublationem, vit<hi rend="ligature">ae</hi> ab iis pr<hi rend="ligature">ae</hi>servationem, re
+                     <lb n="11" break="no"/>rum necessariarum usum <g type="ampersand">et</g> cornu copi<hi rend="ligature">ae</hi>, honorem <g type="ampersand">et</g> amorem; 
+                     <lb n="12"/><milestone unit="section" n="e31-15"/>qu<hi rend="ligature">ae</hi> c<hi rend="grave">u</hi>m non sint vulgaria aut mediocria, sed summa hujus vit<hi rend="ligature">ae</hi> via
+                     <lb n="13" break="no"/>tica <g type="ampersand">et</g> ornamenta, quis ea non, nisi plumbeus, appeteret? quis non
+                     <lb n="14"/>adnataret ill? quis manum non pr<hi rend="ligature">ae</hi>beret <g type="ampersand">et</g> in scapham pertrahe
+                     <lb n="15" break="no"/>ret? <milestone unit="section" n="e31-16"/>At videndum, ne inter opitulandum illi diadema in mare deci
+                     <lb n="16" break="no"/>dat: Tum enim vix pro rege agnosceretur, nec <hi rend="grave">a</hi> subditis recipere
+                     <lb n="17" break="no"/>tur: Quia pyropus periisset omnibus venerabilis, quia Bezoar lapis,
+                     <lb n="18"/>omnibus sanitatem spondens, evanuisset: <milestone unit="section" n="e31-17"/>Hinc <title ref="https://viaf.org/viaf/191597728">Rosarius</title> citat <persName ref="https://viaf.org/viaf/7524651">Ari
+                        <lb n="19" break="no"/>stotelem</persName>, his verbis. <quote rend="italic">Elige tibi pro lapide, per quem reges venerantur in
+                           <lb n="20"/>diadematibus suis, <g type="ampersand">et</g> per quem physici habent curare <hi rend="ligature">ae</hi>grotos suos; quia ille
+                        <lb n="21"/>est propinquus igni.</quote> <milestone unit="section" n="e31-18"/>Absque enim virtute medicinali corona esset nul
+                     <lb n="22" break="no"/>lius valoris. <milestone unit="section" n="e31-19"/>At quid faciendum regi jam liberato? Ab aquis haustis
+                     <lb n="23"/>liberandus est per sudorifica, <hi rend="grave">a</hi> frigore per calorem ignis, <hi rend="grave">a</hi> torpore
+                     <lb n="24"/>membrorum per balnea moderat<hi rend="grave">e</hi> calida, <hi rend="grave">a</hi> fame <g type="ampersand">et</g> inedia per ad
+                     <lb n="25" break="no"/>ministrationem convenientis di<hi rend="ligature">ae</hi>t<hi rend="ligature">ae</hi> <g type="ampersand">et</g> ab aliis externis malis per
+                     <lb n="26"/>sua contraria <g type="ampersand">et</g> salutifera remedia. <milestone unit="section" n="e31-20"/>Deinde de matrimonio Regali
+                     <lb n="27"/>illi providendum erit, <g type="ampersand">et</g> suo tempore ex eo generabitur proles o
+                     <lb n="28" break="no"/>ptattissima, gratissima omnibus, pulcherrima <g type="ampersand">et</g> f<hi rend="ligature">oe</hi>cundissima, qu<hi rend="ligature">ae</hi>
+                     <lb n="29"/>omnes suos proavos superabit potentia, regnis ditionibus, populis
+                     <lb n="30"/>divitiis <g type="ampersand">et</g> opibus atque hostes sibi subjiciet, <expan><abbr>n<hi rend="tilde">o</hi></abbr><ex>n</ex></expan> bello, sed humanita
+                     <lb n="31" break="no"/>te, non tyrannide, sed clementia, qu<hi rend="ligature">ae</hi> ipsi genuina <g type="ampersand">et</g> propria est.
+                  </ab></div>
+               <fw type="catchword" place="bottom-right" xml:lang="de">Die</fw>                  
+            </div>
+            
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -24,6 +24,7 @@
             
          
             <div type="title" xml:lang="en">
+               <milestone unit="page" ed="Meier" n="021"/>
                <head>
                   <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 3. Of the Secrets of Nature.
                   <lb/><choice><orig>Goe</orig><reg>Go</reg></choice> to the woman washing <choice><orig>cloaths</orig><reg>clothes</reg></choice>, and <choice><orig>doe</orig><reg>do</reg></choice> you after the same manner.</seg>
@@ -46,6 +47,7 @@
             
             <pb n="15"/>
             <div type="discourse" xml:lang="en">
+               <milestone unit="page" ed="Meier" n="022"/>
                <head rend="italics">Discourse 3.</head>
                <ab> 
                   <lb/><milestone unit="section" n="e03-01" />If <subst><del>some <choice><orig>certaine</orig><reg>certain</reg></choice></del><add>any</add></subst> <choice><orig>impurityes</orig><reg>impurities</reg></choice> happen to <choice><orig>linnen</orig><reg>linen</reg></choice> <choice><orig>cloaths</orig><reg>clothes</reg></choice>, whereby they are spot
@@ -81,7 +83,7 @@
                   <lb/>not much fear water. <milestone unit="section" n="e03-11" />Some write of the Subterranean coals in the dominion
                   <lb/>of Liege, that being kindled in the earth, they cannot be extinguished by
                   <lb/>water, but <choice><orig>onely</orig><reg>only</reg></choice> by throwing and heaping the dust of the earth upon them:
-                  <lb/>as Cor: <milestone unit="section" n="e03-12" />Tacitus declares of the like kind of fire, which cannot be quenched
+                  <lb/>as <milestone unit="page" ed="Meier" n="023"/>Cor: <milestone unit="section" n="e03-12" />Tacitus declares of the like kind of fire, which cannot be quenched
                   <lb/>by water, but <choice><orig>onely</orig><reg>only</reg></choice> by clubs, and garments taken <choice><orig>of</orig><reg>off</reg></choice> from the body: <milestone unit="section" n="e03-13" />there
                   <lb/>is therefore a great diversity of <hi rend="superscript">1</hi>fires, <hi rend="superscript">8</hi>and <hi rend="superscript">9</hi><choice><orig>noe</orig><reg>no</reg></choice> <hi rend="superscript">10</hi><choice><orig>lesse</orig><reg>less</reg></choice> <hi rend="superscript">11</hi>of <hi rend="superscript">12</hi>liquors, <hi rend="superscript">2</hi><add>both</add> <hi rend="superscript">3</hi>in <hi rend="superscript">4</hi>exciting <pc>-</pc>
                   <lb/><hi rend="superscript">5</hi>and <hi rend="superscript">6</hi>in <hi rend="superscript">7</hi>extinguishing, <hi rend="superscript">13</hi>because <choice><orig>milke</orig><reg>milk</reg></choice>, vinegar, Spirit of wine, Aqua fortis,

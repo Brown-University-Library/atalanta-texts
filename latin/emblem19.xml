@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.1" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -17,6 +14,7 @@
       </fileDesc>
      <revisionDesc>
         <change when="2018-01-14" who="SJD">Start encoding</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
      </revisionDesc>
   </teiHeader>
    
@@ -24,17 +22,15 @@
   <text>
       <body>
          <div type="emblem" n="e19">
-            <pb n="84"/>
-            <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">84</fw> FUGA XIX. in 6. infrà.
+            <pb n="84" edRef="Maier1618"/>
+            <fw type="pageNum" place="top-left">84</fw><fw type="header" place="top-center">FUGA XIX. in 6. infrà.</fw>
+            
+            <div type="fugue" xml:lang="de">
+               <head>
+
                <lb n="2"/>So du von vieren ein ertödest <pc>/</pc> bald werden
                <lb n="3"/>sie sterben all.
             </head>
-            
-            <div type="fugue">
-               <head>
-                  
-               </head>
                
             </div>
             
@@ -51,18 +47,9 @@
             </div>
             <fw type="catchword">Emble-</fw>
             
-            <pb n="85"/>
+            <pb n="85" edRef="Maier1618"/>
             
-            <div type="image-caption">
-               <head>
-                  <lb n="1"/>Emblema XIX. De Secretis Natur<hi rend="ligature">ae</hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">85</fw>
-                  <lb n="2"/>Si de quattuor unum Occidas, subit<hi rend="grave">o</hi> mortuus omnis erit.
-               </head>
-               
-            </div>
-            
-            <figure><graphic url=""></graphic></figure>
-            
+            <fw type="header" place="top-center">Emblema XIX. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">85</fw><div type="image" xml:lang="la"><head/></div>            
             <div type="epigram" xml:lang="la">
                <head>Epigramma XIX.</head>
                <lg>
@@ -78,9 +65,9 @@
             <fw type="gathering" place="bottom-right">L 3</fw> <fw type="catchword" place="bottom-right">Poët<hi rend="ligature">ae</hi></fw>
             
             <div type="discourse" xml:lang="la">
-               <pb n="86"/>
-               <head><fw type="pageNum" place="top-left">86</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="19">XIX</num>.</head>
-                  <ab>
+               <pb n="86" edRef="Maier1618"/>
+               <fw type="pageNum" place="top-left">86</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="19">XIX</num>.</fw>
+                  <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e19-01"/>Poët<hi rend="ligature">ae</hi> fingunt <persName>Geryonem</persName> <placeName>Hispani<hi rend="ligature">ae</hi></placeName> regem tricorporem exti
                      <lb n="2" break="no"/>tisse, qui boves purpurei coloris habuerit, quibus canis capitum
                      <lb n="3"/>duorum <g type="ampersand">et</g> Draco septem, ut excubitores pr<hi rend="ligature">ae</hi>fecti erant: <milestone unit="section" n="e19-02"/>Ipse <expan><abbr>aut<hi rend="tilde">e</hi></abbr><ex>m</ex></expan>
@@ -114,13 +101,13 @@
                      <lb n="31"/>patre ac matre editi eosdem vit<hi rend="ligature">ae</hi> terminos, ut initia, experti sint, ut
                      <lb n="32"/>quibusdam contigisse legimus, fort<hi rend="grave">e</hi> ex astrorum inclinatione, vel
                      <lb n="33"/>quia non sol<hi rend="grave">u</hi>m animis, sed <g type="ampersand">et</g> corporis <expan><abbr>artub<am>.</am></abbr><ex>us</ex></expan> coh<hi rend="ligature">ae</hi>reant, vel mentis
-                  </ab>
+                  </ab></div>
                   <fw type="catchword" place="bottom-right">conster-</fw>
-               <pb n="87"/>
-               <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="19">XIX</num>. <fw type="pageNum" place="top-right"><choice><sic>67</sic><corr>87</corr></choice></fw></head>
-                  <ab>
+               <pb n="87" edRef="Maier1618"/>
+               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="19">XIX</num>.</fw> <fw type="pageNum" place="top-right"><choice><sic>67</sic><corr>87</corr></choice></fw>
+                  <div type="discourse-p2"><ab>
                      <lb n="1"/>consternatione, forti imaginatione in pestifera lue, vel ex f<hi rend="ligature">oe</hi>deris
-                     <lb n="2"/>voto: <milestone unit="section" n="e19-11"/>In <placeName>India</placeName> sub <persName type="title" ref="https://viaf.org/viaf/38320916">imperio magni illius Mogolli<orgName></orgName></persName> (qui nonus nunc ex
+                     <lb n="2"/>voto: <milestone unit="section" n="e19-11"/>In <placeName>India</placeName> sub <persName type="title" ref="https://viaf.org/viaf/38320916">imperio magni illius Mogolli<orgName/></persName> (qui nonus nunc ex
                      <lb n="3"/>posteris <persName ref="https://viaf.org/viaf/63984707">Tamberlani</persName> ibi regnat) gens qu<hi rend="ligature">ae</hi>dam Ethnica degit <orgName>Py
                      <lb n="4" break="no"/>thagicorum</orgName> nomine, apid quam ab antiquo tempore hic mos
                      <lb n="5"/>observatur huc <expan><abbr>usq<am>;</am></abbr><ex>ue</ex></expan> ut si maritus moriatur, uxor ejus igne combu
@@ -151,7 +138,7 @@
                         <lb n="29"/>natura sua <g type="ampersand">et</g> postea occidatis naturas <g type="ampersand">et</g> suscitamur resurrectione nova <g type="ampersand">et</g>
                      <lb n="30"/>incorporali, e<hi rend="grave">o</hi> quod postea mori non possumus.</quote>
                      
-                  </ab>
+                  </ab></div>
                <fw type="catchword" place="bottom-right" xml:lang="de">Die</fw>                  
             </div>
             

@@ -1,0 +1,140 @@
+<?xml version="1.1" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+     <revisionDesc>
+        <change when="2018-03-20" who="SJD">Start encoding</change>
+        <change when="2018-03-20" who="SJD">Finish draft</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
+     </revisionDesc>
+  </teiHeader>
+   
+   
+  <text>
+      <body>
+         <div type="emblem" n="e48">
+            <pb n="200" edRef="Maier1618"/>
+            <fw type="pageNum" place="top-left"><choice><sic>184</sic><corr>200</corr></choice></fw><fw type="header" place="top-center">FUGA <num value="48" type="cardinal">XLVIII</num>. in <num value="5">5</num>. seu <num value="12">12</num>. suprà. vertendo simplicem. ac initio.</fw>
+            
+            <div type="fugue" xml:lang="de">
+               <head>
+
+               <lb n="2"/>Der König von getrunckenem Wasser bekompt ein
+               <lb n="3"/>Kranckheit <pc>/</pc> von Arzten aber <foreign xml:lang="la"><hi rend="latin">curiret</hi></foreign>,
+               <lb n="4"/>die Gesundheit.
+            </head>
+               
+            </div>
+            
+            <div type="epigram" xml:lang="de">
+               <head><num value="48" type="cardinal">XLVIII</num>. Epigrammatis Latini versio Germanica.</head>
+               <lg>
+                  <lb n="1"/><l>Einm König von Gut <expan><abbr>v</abbr><ex>o</ex><abbr><hi rend="tilde">n</hi></abbr></expan> Leuten mächtig ein Brunnwasser für allen <pc>/</pc></l>
+                  <lb n="2"/><l>So er den Dienern befohl zubringen <pc>/</pc> thät gefallen <pc>/</pc></l>
+                  <lb n="3"/><l>Diß trunck er offt <pc>/</pc> biß daß er davon die Adern fund beschwerd</l>
+                  <lb n="4"/><l>Ganz ungestalt <pc>/</pc> von Aerzten berümpt auffgenommen werd <pc>/</pc></l> 
+                  <lb n="5"/><l>Von welchen wie er purgirt durch Schwiz <pc>/</pc> Stuel und auch durch den <add place="line-below">(Mund <pc>/</pc></add></l>
+                  <lb n="6"/><l>Wie Rosen seynt erscheint seine Wangen roth zur Stund <pc>/</pc></l>
+               </lg>
+            </div>
+            <fw type="catchword">Emble-</fw>
+            
+            <pb n="201" edRef="Maier1618"/>
+            
+            <fw type="header" place="top-center">Emblema <num value="48" type="cardinal">XLVIII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">201</fw><div type="image" xml:lang="la"><head/></div>            
+            <div type="epigram" xml:lang="la">
+               <head>Epigramma <num value="48" type="cardinal">XLVIII</num>.</head>
+               <lg>
+                  <lb n="1"/><l>Divitius popul<hi rend="acute">i</hi>sque potens Rex fontis amavit,</l>
+                  <lb n="2"/><l>Portari <hi rend="grave">a</hi> servis quas sibi poscit, aquas:</l>
+                  <lb n="3"/><l>Has bibit <g type="ampersand">et</g> rebibit venas mox inde repletus</l>
+                  <lb n="4"/><l>Discolor <hi rend="grave">a</hi> claris suscipitur medicis;</l>
+                  <lb n="5"/><l>A quibus ut purgatus erat, sudoribus, alvo,</l>
+                  <lb n="6"/><l>Or<hi rend="acute">e</hi>que, mox tincta est utraque mala rosis.</l> 
+               </lg>
+            </div>
+            
+            <fw type="gathering" place="bottom-right">Cc</fw> <fw type="catchword" place="bottom-right"><hi rend="caps">Xer-</hi></fw>
+            
+            <div type="discourse" xml:lang="la">
+               <pb n="202" edRef="Maier1618"/>
+               <fw type="pageNum" place="top-left">202</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="48">XLVIII</num>.</fw>
+                  <div type="discourse-p1"><ab>
+                     <lb n="1"/><milestone unit="section" n="e48-01"/><persName ref="https://viaf.org/viaf/282770127"><hi rend="caps">Xerxes</hi></persName> ille potentissimus <orgName>Persarum</orgName> rex, c<hi rend="grave">u</hi>m per sicca <g type="ampersand">et</g> inculta
+                     <lb n="2"/>loca sub <hi rend="ligature">ae</hi>stu exercitum duceret sitibundus haustum aqu<hi rend="ligature">ae</hi> tur
+                     <lb n="3" break="no"/>bid<hi rend="ligature">ae</hi> <hi rend="grave">a</hi> quodam milite oblatum non respuit, sed gratissim<hi rend="grave">e</hi> bibit,
+                     <lb n="4"/>portantem<hi rend="acute">q</hi>ue id donarii munere amplissimo ornavit. <milestone unit="section" n="e48-02"/>Et san<hi rend="grave">e</hi> si quis
+                     <lb n="5"/>hoc ipso tempore (ut quorundam histori<hi rend="ligature">ae</hi> recentissim<hi rend="ligature">ae</hi> testantur)
+                     <lb n="6"/>per fines <placeName>Persi<hi rend="ligature">ae</hi></placeName> peregrinetur, rarissim<hi rend="grave">e</hi> fontes aqu<hi rend="ligature">ae</hi> dulcis invenire
+                     <lb n="7"/>dicitur, c<hi rend="grave">u</hi>m <expan><abbr>aqu</abbr><ex>a</ex><abbr><hi rend="hook">e</hi></abbr></expan> <expan><abbr>stagn<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>tes</abbr></expan> sint <expan><abbr>sals</abbr><ex>a</ex><abbr><hi rend="hook">e</hi></abbr></expan>, ac ipsum <expan><abbr>sol<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> in superficie salse
+                     <lb n="8" break="no"/>dinem offerat copiosissimam: <milestone unit="section" n="e48-03"/>Eo modo Rex, cujus meminerunt
+                     <lb n="9"/>Philosophi siti vexatus, mandavit aqu<hi rend="ligature">ae</hi> dulcis sibi copiam fieri; <expan><abbr>qu<hi rend="tilde">a</hi></abbr><ex>m</ex></expan>
+                     <lb n="10"/>allatam bibit ad satietatem; veluti ex <persName>Merlini</persName> allegoria cuivis con
+                     <lb n="11" break="no"/>stat. <milestone unit="section" n="e48-04"/>Curatio regis <hi rend="ligature">ae</hi>gri <g type="ampersand">et</g> discolorati suscipitur <hi rend="grave">a</hi> medicis diversis:
+                     <lb n="12"/><orgName><hi rend="ligature">Ae</hi>gyptii</orgName> suis medicinis propinatis moverunt humores adhuc cru
+                     <lb n="13" break="no"/>dos, quos <persName ref="http://viaf.org/viaf/287984736">Hippocrates</persName> pri<hi rend="grave">u</hi>s concoctos purgari debere asserit, nisi
+                     <lb n="14"/>sint fluxibiles <g type="ampersand">et</g> vagi. <milestone unit="section" n="e48-05"/>Tum enim mox educendi sunt, ne in partes
+                     <lb n="15"/>aut viscera nobiliora fort<hi rend="grave">e</hi> impetum faciant <g type="ampersand">et</g> ruant. <milestone unit="section" n="e48-06"/>Hinc regi sym
+                     <lb n="16" break="no"/>ptomata periculosa, utpote lipothymia <g type="ampersand">et</g> syncope obvenerunt. <milestone unit="section" n="e48-07"/><orgName>A
+                     <lb n="17" break="no"/>lexandrini</orgName> ver<hi rend="grave">o</hi> medici, postrem<hi rend="grave">o</hi> advenientes in morbo chronico,
+                     <lb n="18"/>feliciores sunt habiti, qui regem pristin<hi rend="ligature">ae</hi> sanitati restituerunt. <milestone unit="section" n="e48-08"/>Tanto
+                     <lb n="19"/>mederi reg<hi rend="acute">i</hi> est oper<hi rend="ligature">ae</hi> precium, qui medico suo sanus factus benevo
+                     <lb n="20" break="no"/>lam pr<hi rend="ligature">ae</hi>bet manum <g type="ampersand">et</g> faciem serenam. <milestone unit="section" n="e48-09"/>Legimus multorum cura
+                     <lb n="21" break="no"/>tiones optim<hi rend="grave">e</hi> fuisse recompensatas <hi rend="grave">a</hi> regibus diversis, uti <persName>Democi
+                        <lb n="22" break="no"/>dis</persName> <hi rend="grave">a</hi> <persName ref="https://viaf.org/viaf/72547982">Polycrate</persName> <orgName>Samiorum</orgName> tyranno talentis duobus, <persName ref="https://viaf.org/viaf/266089724">Erasistrati</persName> (<expan><abbr>qu<hi rend="tilde">e</hi></abbr><ex>m</ex></expan>
+                     <lb n="23"/><persName ref="https://viaf.org/viaf/100219162">Plinius</persName> scribit, fuisse discipulum <persName ref="https://viaf.org/viaf/265285548">Chrysippi</persName>, ex <persName ref="https://viaf.org/viaf/7524651">Aristotelis</persName> filia geni
+                     <lb n="24" break="no"/>tum) propter <persName type="https://viaf.org/viaf/11230687">Antiochum</persName> regem, ex amore <persName ref="https://viaf.org/viaf/13451960">Stratonices</persName> noverc<hi rend="ligature">ae</hi> <hi rend="ligature">ae</hi>
+                     <lb n="25" break="no"/>grum sanatum, centum talentis <hi rend="grave">a</hi> filio ejus <persName>Ptolem<hi rend="ligature">ae</hi>o<!-- which Ptolemy? --></persName>, ut <persName>Jacobi Co
+                        <lb n="26" break="no"/>cterii</persName>, medici <orgName>Galli</orgName> regis <persName ref="https://viaf.org/viaf/232234314">Ludoici</persName> <num value="2" type="ordinal">II</num>. <hi rend="grave">a</hi> quo quator millia coronato
+                     <lb n="27" break="no"/>rum singulis mensibus pro stipendio accepti, aliorum<hi rend="acute">q</hi>ue recentio
+                     <lb n="28" break="no"/>rum non faciamus mentionem; sed hujus regis sanatio adhuc long<hi rend="grave">e</hi>
+                     <lb n="29"/>majori mercede aut pr<hi rend="ligature">ae</hi>mio recompensatur. <milestone unit="section" n="e48-10"/>Ita enim apud <title ref="http://viaf.org/viaf/191597728">Rosa
+                     <lb n="30" break="no"/>rium</title> <persName ref="http://viaf.org/viaf/24571510">Hermes</persName> <g type="ampersand">et</g> <persName ref="http://viaf.org/viaf/3268479">Geber</persName>; <quote>Qui hanc</quote>, inquiunt, <quote>artem semel perfece
+                     <lb n="31" break="no"/>rit, si deberet vivere mille millibus annis, <g type="ampersand">et</g> singulis diebus nutrire
+                     <lb n="32"/>quatuor millia hominum, non egeret.</quote><milestone unit="section" n="e48-11"/>Hoc confirmat <persName ref="https://viaf.org/viaf/74280818">Senior</persName>, <expan><abbr>dic<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>s</abbr></expan>:
+                     <lb n="33"/><quote>Est ita dives habens <expan><abbr>lapid<hi rend="tilde">e</hi></abbr><ex>m</ex></expan>, de quo Elixir fit, sicut qui habet ignem,</quote>
+                  </ab></div>
+                  <fw type="catchword" place="bottom-right">potest</fw>
+               <pb n="203" edRef="Maier1618"/>
+               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="48">XLVIII</num>.</fw> <fw type="pageNum" place="top-right">203</fw>
+                  <div type="discourse-p2"><ab>
+                     <lb n="1"/><quote>potest dare ignem, cui vult, <g type="ampersand">et</g> quando vult, <g type="ampersand">et</g> quantum vult sine su<hi rend="raised">o</hi>
+                        <lb n="2"/>periculo <g type="ampersand">et</g> defectu.</quote> <milestone unit="section" n="e48-12"/><persName ref="http://viaf.org/viaf/228724785">Democriti</persName> pater ade<hi rend="grave">o</hi> dives fuit, ut exercitui
+                     <lb n="3"/><persName ref="https://viaf.org/viaf/282770127">Xerxes</persName> Epulum dederit, <persName ref="https://viaf.org/viaf/282770127"><hi rend="caps">Xerxes</hi></persName> <orgName>Pythius</orgName> quidam opulentissimus, obtulit
+                     <lb n="4"/>eidem stipendium totius exercitus <g type="ampersand">et</g> commeatum ad menses quin
+                     <lb n="5" break="no"/>que, si mod<hi rend="grave">o</hi> unum ex quique filiis, natu minorem, qui su<hi rend="ligature">ae</hi> senectu
+                     <lb n="6" break="no"/>tis esse solatium, ne in castra regia ire cogeretur, domi retinere lice
+                     <lb n="7" break="no"/>ret; <milestone unit="section" n="e48-13"/>sed barbarus rex indignissim<hi rend="grave">e</hi> petitionem <orgName>Pythii</orgName> ferens, jussit mi
+                     <lb n="8" break="no"/>norem natu filium in duas partes dissectum palis utrimque ad viam
+                     <lb n="9"/>regiam adfigi, per quam totus exercitus transiturus erat, ut annotat
+                     <lb n="10"/><persName ref="https://viaf.org/viaf/12414496">Sabellicus</persName> <expan><abbr>lib<am>.</am></abbr><ex>ro</ex></expan> <num value="2" type="ordinal">2</num>. <title><expan><abbr>Ennead<am>.</am></abbr><ex>is</ex></expan></title> <num value="3" type="ordinal">3</num>. <milestone unit="section" n="e48-14"/>Sed horum diviti<hi rend="ligature">ae</hi> nihil ad opes hujus
+                     <lb n="11"/>Regis, qu<hi rend="ligature">ae</hi> sunt absque dimensione <g type="ampersand">et</g> numero. <milestone unit="section" n="e48-15"/>Hunc sanatum <g type="ampersand">et</g>
+                     <lb n="12"/>ab aquis liberatum Reges omnes, <g type="ampersand">et</g> potentes aliarum regionum
+                     <lb n="13"/>honoraverunt <g type="ampersand">et</g> timuerunt. <milestone unit="section" n="e48-16"/>Et quando volebant videre de mirabi
+                     <lb n="14" break="no"/>libus ejus, ponebant in crucibulo unciam unam Mercurii bene loti
+                     <lb n="15"/><g type="ampersand">et</g> projiciebant desuper tanquam unum granum milii de unguibus
+                     <lb n="16"/>vel de capillis aut sanguine suo, <g type="ampersand">et</g> sufflabant leviter cum carbonibus,
+                     <lb n="17"/>dimittebant eum infrigidari cum eis, <g type="ampersand">et</g> inveniebant lapidem, qua
+                     <lb n="18" break="no"/>lem scio. <milestone unit="section" n="e48-17"/>Hic est ille, cujus <persName ref="https://viaf.org/viaf/93170968">Bernhardus</persName> Comes meminit, quod sex
+                     <lb n="19"/>suis aulicis tantundem regni det, quantum ipse possidet, si mod<hi rend="grave">o</hi> ex
+                     <lb n="20" break="no"/>pectent, donec ipse in balneo juventutem recuper<hi rend="circumflex">a</hi>rit, <g type="ampersand">et</g> vestibus
+                     <lb n="21"/>variis, nempe thorace nigro, indusio albo <g type="ampersand">et</g> sanguine purpureo or
+                     <lb n="22"/>natus sit; tum enim singulis de sanguine suo daturum, ips<hi rend="acute">o</hi>sque sua
+                     <lb n="23" break="no"/>rum divitiarum participes facturum se pollicetur.
+                  </ab></div>
+               <fw type="gathering" place="bottom-right">Cc ii</fw> <fw type="catchword" place="bottom-right" xml:lang="de">Das</fw>                  
+            </div>            
+         </div>
+      </body>
+  </text>
+</TEI>

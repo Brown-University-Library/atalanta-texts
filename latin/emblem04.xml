@@ -18,6 +18,7 @@
      <revisionDesc>
         <change when="2017-03-15" who="SJD">Created</change>
         <change when="2017-03-15" who="SJD">Completed draft</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
      </revisionDesc>
   </teiHeader>
    
@@ -25,18 +26,16 @@
   <text>
       <body>
          <div type="emblem" n="e4">
-            <pb n="24"/>
-            <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">24</fw> FUGA IV. in Quarta, supr<hi rend="grave">a</hi>.
-               <lb n="2"/>Füge den Bruder der Schwester zu <pc>/</pc> und gib ihnen
-               <lb n="3"/>den Becher der Liebe.
-            </head>
             
-            <div type="fugue">
+            <pb n="24" edRef="Maier1618"/>
+            
+            <fw type="pageNum" place="top-left">24</fw> <fw type="header" place="top-center">FUGA IV. in Quarta, supr<hi rend="grave">a</hi>.</fw>
+      
+            <div type="fugue" xml:lang="de">
                <head>
-                  
+                  <lb n="1"/>Füge den Bruder der Schwester zu <pc>/</pc> und gib ihnen
+                  <lb n="2"/>den Becher der Liebe.
                </head>
-               
             </div>
             
             <div type="epigram" xml:lang="de">
@@ -50,19 +49,18 @@
                   <lb n="6"/><l>Solchs gibt ihn zur Hoffnung der Frucht ein groß und starcke Krafft.</l>
                </lg>
             </div>
+            
             <fw type="catchword" place="bottom-right">Emble</fw>
+            <pb n="25" edRef="Maier1618"/>
+            <fw type="pageNum" place="top-right">25</fw> <fw type="header" place="top-center">Emblema IV.<hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.</fw>
             
-            <pb n="25"/> <fw type="pageNum" place="top-right">25</fw>
-            
-            <div type="image-caption">
+            <div type="image" xml:lang="la">
                <head>
-                  <lb n="1"/>Emblema IV.<hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.<!-- BC: how do we want to handle ligatures? -->
-                  <lb n="2"/>Conjunge fratrem cum sorore <g type="ampersand">et</g> propina illis poculum amoris:
+                  <lb n="1"/>Conjunge fratrem cum sorore <g type="ampersand">et</g> propina illis poculum amoris:
                </head>
-            </div>
-            
-            <figure><graphic url=""></graphic></figure>
-            
+               <figure><graphic url=""></graphic></figure>
+
+            </div>            
             <div type="epigram" xml:lang="la">
                <head>Epigramma IV.</head>
                <lg>
@@ -76,10 +74,11 @@
             </div>
             
            <fw type="gathering">D</fw> <fw type="catchword" place="bottom-right">Lex</fw>
+            <pb n="26" edRef="Maier1618"/>
+            <fw type="pageNum" place="top-left">26</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="4">IV</num>.</fw>
             
-            <div type="discourse">
-               <pb n="26"/>
-               <head><fw type="pageNum" place="top-left">26</fw> <hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="4">IV</num>.</head>
+            <div type="discourse" xml:lang="la">
+               <div type="discourse-p1">
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e04-01"/>Lex Divina <g type="ampersand">et</g> politica prohibit gradu sanguinis propinquiore
                      <lb n="2"/>per naturam <pc>|</pc> conjunctos, matrimonio copulari, quales sunt di
@@ -114,13 +113,13 @@
                      <lb n="31" break="no"/>be <g type="ampersand">et</g> chalybe durissimo corpore, nec ex silice <g type="ampersand">et</g> silice fragili, excu
                      <lb n="32" break="no"/>titur facil<hi rend="grave">e</hi> ignis, qui propagari possit, sed ex duro <g type="ampersand">et</g> fragili, hoc est,
                      <lb n="33"/>chalybe <g type="ampersand">et</g> silice; sic <expan><abbr>no</abbr><ex>n</ex></expan> ex ardente mare <g type="ampersand">et</g> ignea f<hi rend="ligature">oe</hi>mina, ut nec ex
-                     <lb/>
                   </ab>
+               </div>
                <fw type="catchword" place="bottom-right">utrisque</fw>
-                  
-               <pb n="27"/>
-               <head><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="4">IV</num>, <fw type="pageNum" place="top-right">27</fw></head>
-                  <ab>
+               <pb n="27" edRef="Maier1618"/>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="4">IV</num>,</fw> <fw type="pageNum" place="top-right">27</fw>
+                  <div type="discourse-p2">
+                     <ab>
                      <lb n="1"/>utrisque frigidis (frigiditas enim maris inf<hi rend="ligature">oe</hi>cunditas est) proles vi
                      <lb n="2" break="no"/>vax suscipitur, sed ex illo calido, hac frigidiore: <milestone unit="section" n="e04-11"/> calidissima enim
                      <lb n="3"/>mulier, in temperamenti humani latitudine, frigidior statuitur fri
@@ -148,8 +147,9 @@
                      <lb n="25" break="no"/>tur itaque hoc poculum amoris easdem ob causas his novis nuptis,
                      <lb n="26"/>quas quilibet ex jam dictis ternas perspicere poterit, utpote amoris
                      <lb n="27"/>constantiam, sterilitatis remotionem <g type="ampersand">et</g> abortus prohibitionem.
-                     <lb/> 
-                  </ab> 
+                  </ab>
+                  </div>
+               
                <fw type="gathering" place="bottom-right"><hi rend="gothic">D ij</hi></fw> <fw type="catchword" place="bottom-right" xml:lang="de"><hi rend="gothic">Setz</hi></fw>
                 </div>
             

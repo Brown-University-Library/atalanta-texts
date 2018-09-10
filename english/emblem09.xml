@@ -24,6 +24,7 @@
                 
                 
                 <div type="title" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="045"/>
                     <head>
                         <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 9. Of the Secrets of Nature.
                         <lb/>Shut up the tree with the old man in the house of dew, and eating
@@ -47,6 +48,7 @@
                 
                 <pb n="33"/> 
                 <div type="discourse" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="046"/>
                     <head rend="italics">Discourse 9.</head>
                     <ab> 
                         <lb/><milestone unit="section" n="e09-01" />All things whatsoever <choice><orig>doe</orig><reg>do</reg></choice> grow in length, breadth, and depth, that is, are 
@@ -89,7 +91,7 @@
                         <lb break="no"/>ving</orig><reg>preserving</reg></choice> the life of students, writes, that in order to <choice><orig>attaine</orig><reg>attain</reg></choice> to long life
                         <lb/>it is <choice><orig>coḿodious</orig><reg>commodious</reg></choice> for a man <choice><orig>dayly</orig><reg>daily</reg></choice> to <choice><orig>sucke</orig><reg>suck</reg></choice> the <choice><orig>milke</orig><reg>milk</reg></choice> of some <choice><orig>certaine</orig><reg>certain</reg></choice>
                         <lb/><choice><orig>beautifull</orig><reg>beautiful</reg></choice> and young woman, instead of which others <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>coḿend</orig><reg>commend</reg></choice>
-                        <lb/>the eating of vipers flesh: <milestone unit="section" n="e09-13" />but indeed these means are themselves
+                        <lb/>the eating of vipers flesh: <milestone unit="page" ed="Meier" n="047"/><milestone unit="section" n="e09-13" />but indeed these means are themselves
                         
                         
                         

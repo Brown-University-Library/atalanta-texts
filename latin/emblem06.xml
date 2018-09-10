@@ -18,6 +18,7 @@
      <revisionDesc>
         <change when="2017-03-23" who="SJD">Created</change>
         <change when="2017-03-27" who="SJD">Completed draft</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
      </revisionDesc>
   </teiHeader>
    
@@ -25,15 +26,13 @@
   <text>
       <body>
          <div type="emblem" n="e6">
-            <pb n="32"/>
-            <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">32</fw> FUGA VI. in Quarta, infr<hi rend="grave">a</hi>.
-               <lb n="2"/>Säet nur Goldt in die weisse geblätterte Erden.
-            </head>
             
-            <div type="fugue">
+            <pb n="32" edRef="Maier1618"/>
+            <fw type="pageNum" place="top-left">32</fw> <fw type="header" place="top-center">FUGA VI. in Quarta, infr<hi rend="grave">a</hi>.</fw>
+
+            <div type="fugue" xml:lang="de">
                <head>
-                  
+                  <lb n="1"/>Säet nur Goldt in die weisse geblätterte Erden.
                </head>
                
             </div>
@@ -49,18 +48,17 @@
                   <lb n="6"/><l>Dann Gold wachst wie Weizen <pc>/</pc> und hat sein eignes Leben.</l>
                </lg>
             </div>
+            
             <fw type="catchword" place="bottom-right">Emble</fw>
+            <pb n="33" edRef="Maier1618"/> <fw type="pageNum" place="top-right">33</fw>
+            <fw type="header" place="top-center">Emblema VI.<hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.</fw>
             
-            <pb n="33"/> <fw type="pageNum" place="top-right">33</fw>
-            
-            <div type="image-caption">
+            <div type="image" xml:lang="la">
                <head>
-                  <lb n="1"/>Emblema VI.<hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.<!-- BC: how do we want to handle ligatures? -->
                   <lb n="2"/>Seminate aurum vestrum in terram albam foliatam.
                </head>
-            </div>
-            
-            <figure><graphic url=""></graphic></figure>
+               <figure><graphic url=""></graphic></figure>
+            </div>            
             
             <div type="epigram" xml:lang="la">
                <head>Epigramma VI.</head>
@@ -75,11 +73,11 @@
             </div>
             
            <fw type="gathering">E</fw> <fw type="catchword" place="bottom-right">Plato</fw>
+            <pb n="34" edRef="Maier1618"/>
+            <fw type="pageNum" place="top-left">34</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="6">VI</num>.</fw>
             
-            <div type="discourse">
-               <pb n="34"/>
-               <head><fw type="pageNum" place="top-left">34</fw> <hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="6">VI</num>.</head>
-                  <ab>
+            <div type="discourse" xml:lang="la">
+                   <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e06-01"/><persName ref="http://viaf.org/viaf/108159964">Plato</persName> civitatem constare dicit no ex medico <g type="ampersand">et</g> medico, sed ex
                      <lb n="2"/>medico <g type="ampersand">et</g> agricola, hot est, diversarum <expan><abbr>function<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> hominibus: A
                      <lb n="3" break="no"/>gricol<hi rend="ligature">ae</hi> ver<hi rend="grave">o</hi> <g type="ampersand">et</g> medici inprimis meminit, quia <expan><abbr>hor<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> opera sunt val
@@ -114,13 +112,12 @@
                      <lb n="32" break="no"/>lela <expan><abbr>agricultur</abbr><ex>a</ex><abbr><hi rend="hook">e</hi></abbr></expan>, <expan><abbr>ej<hi rend="acute">u</hi>sq<am>;</am></abbr><ex>ue</ex></expan> vicaria, qu<hi rend="ligature">ae</hi> per omnia ejus vices exprimit, at
                      <lb n="33"/>sub allegoria absolutissima: <milestone unit="section" n="e06-12"/> Hinc antiqui <expan><abbr>produxer<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>t</abbr></expan> <persName><expan><abbr>Cerer<hi rend="tilde">e</hi></abbr><ex>m</ex></expan></persName>, <persName><expan><abbr>Tri
                      <lb n="34" break="no"/>ptolem<hi rend="tilde">u</hi></abbr><ex>m</ex></expan></persName>, <persName><expan><abbr>Osirid<hi rend="tilde">e</hi></abbr><ex>m</ex></expan></persName>, <persName>Dionysum</persName>, Deos aureos, seu ad <expan><abbr>chemi<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> <expan><abbr>spect<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>tes</abbr></expan>
-                     <lb/>
-                  </ab>
+                  </ab></div>
                <fw type="catchword" place="bottom-right">quasi</fw>
-                  
-               <pb n="35"/>
-               <head><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="6">VI</num>. <fw type="pageNum" place="top-right">35</fw></head>
-                  <ab>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="6">VI</num>.</fw> <fw type="pageNum" place="top-right">35</fw>
+               
+               <pb n="35" edRef="Maier1618"/>
+               <div type="discourse-p2"><ab>
                      <lb n="1"/>quasi <expan><abbr>doc<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>tes</abbr></expan> mortales semina <expan><abbr>frug<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> in <expan><abbr>terr<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> <expan><abbr>su<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> projicere, <expan><abbr>agricul
                      <lb n="2" break="no"/>tur<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> <g type="ampersand">et</g> <expan><abbr>viti<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <expan><abbr>propagation<hi rend="tilde">e</hi></abbr><ex>m</ex></expan>, <expan><abbr>vin<hi rend="acute">i</hi>q<am>;</am></abbr><ex>ue</ex></expan> <expan><abbr>us<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <expan><abbr>monstr<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>tes</abbr></expan>, qu<hi rend="ligature">ae</hi> omnia ignari
                      <lb n="3"/>ad rustica opera detorserunt, at fals<hi rend="grave">o</hi>: <milestone unit="section" n="e06-13"/> Sunt <expan><ex>e</ex><abbr>n<am>.</am></abbr><ex>im</ex></expan> illa arcanissima natur<hi rend="ligature">ae</hi>
@@ -165,9 +162,8 @@
                      <lb n="33"/><g type="ampersand">et</g> <expan><abbr>enarr<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>t</abbr></expan> <expan><abbr>glori<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> Dei, ut Psalmita ait, <expan><abbr>can<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>t</abbr></expan> <persName>Mus<hi rend="ligature">ae</hi></persName> <g type="ampersand">et</g> <persName>Apollo</persName>, ut poë
                      <lb n="34" break="no"/>t<hi rend="ligature">ae</hi>, <expan><abbr>can<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>t</abbr></expan> homines <expan><abbr>eti<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> <expan><abbr>inf<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>tes</abbr></expan>, <expan><abbr>can<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>t</abbr></expan> volucres, <expan><abbr>can<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>t</abbr></expan> oves <g type="ampersand">et</g> anseres
                      <lb n="35"/>in <expan><abbr>instrum<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>tis</abbr></expan> musicis, si ergo <g type="ampersand">et</g> nos canamus, non abs re facimus.
-                     <lb/>
-                  </ab> 
-                <fw type="gather" place="bottom-right">E ii</fw><fw type="catchword" place="bottom-right" xml:lang="de"><hi rend="gothic">Der</hi></fw>
+                  </ab></div> 
+                <fw type="gathering" place="bottom-right">E ii</fw><fw type="catchword" place="bottom-right" xml:lang="de"><hi rend="gothic">Der</hi></fw>
                 </div>
             
          </div>

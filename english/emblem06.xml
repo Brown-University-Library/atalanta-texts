@@ -24,6 +24,7 @@
             
             
             <div type="title" xml:lang="en">
+               <milestone unit="page" ed="Meier" n="033"/>
                <head>
                  <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 6. Of the Secrets of Nature.
                  <lb/><choice><orig>Sowe</orig><reg>Sow</reg></choice> your gold in the white foliated earth.</seg>
@@ -47,6 +48,7 @@
             
             <pb n="24"/>
             <div type="discourse" xml:lang="en">
+               <milestone unit="page" ed="Meier" n="034"/>
                <head rend="italics">Discourse 6.</head>
                <ab> 
                   <lb/><milestone unit="section" n="e06-01" />A City <choice><orig>sayth</orig><reg>says</reg></choice> Plato subsists not by <choice><orig>Physitian</orig><reg>Physician</reg></choice> and <choice><orig>Physitian</orig><reg>Physician</reg></choice>, but by <choice><orig>Physitian</orig><reg>Physician</reg></choice> and
@@ -84,7 +86,7 @@
                   <lb/>which in all things <choice><orig>expresseth</orig><reg>expresses</reg></choice> its offices, but under a most absolute alle
                   <lb break="no"/>gory<pc>------------</pc></note><milestone unit="section" n="e06-12" />From hence the Ancients pro
                   <lb break="no"/>duced Ceres, Triptolemus, Osiris, Dionysus, the golden Gods, as relating to Chy
-                  <lb break="no"/>mistry, teaching as it were men how to cast the seeds of fruits into their <pc>-</pc>
+                  <lb break="no"/>mistry, <milestone unit="page" ed="Meier" n="035"/>teaching as it were men how to cast the seeds of fruits into their <pc>-</pc>
                   <lb/>earth, <choice><orig>shewing</orig><reg>showing</reg></choice> tillage, with the propagation of vines, and use of wine, <pc>-</pc>
                   <lb/>all which things the ignorant have interpreted to <choice><orig>rusticall</orig><reg>rustical</reg></choice> operations, but
                   <lb/>erroneously: <milestone unit="section" n="e06-13" />for those things, which are absconded from the vulgar, and <pc>-</pc>

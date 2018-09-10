@@ -18,6 +18,7 @@
      <revisionDesc>
         <change when="2017-03-08" who="SJD">Created</change>
         <change when="2017-03-09" who="SJD">Completed draft</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
      </revisionDesc>
   </teiHeader>
    
@@ -25,17 +26,10 @@
   <text>
       <body>
          <div type="emblem" n="e2">
-            <pb n="16"/>
-            <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">16</fw> FUGA II. in Quinta, infr<hi rend="grave">a</hi>.
-               <lb n="2"/>Sein Saugmutter ist die Erden.
-            </head>
-            
-            <div type="fugue">
-               <head>
-                  
-               </head>
-               
+            <pb n="16" edRef="Maier1618"/>
+            <fw type="pageNum" place="top-left">16</fw> <fw type="header" place="top-center">FUGA II. in Quinta, infr<hi rend="grave">a</hi>.</fw>
+            <div type="fugue" xml:lang="de">
+               <head><lb n="1"/>Sein Saugmutter ist die Erden.</head>
             </div>
             
             <div type="epigram" xml:lang="de">
@@ -49,18 +43,17 @@
                   <lb n="6"/><l>Wie groß mag dann der senn <pc>/</pc> <choice><corr>dessen</corr><orig>dessin</orig></choice> die Erd Säugmutter ist?</l>
                </lg>
             </div>
+            
             <fw type="catchword" place="bottom-right">Emble-</fw>
-            
-            <pb n="13"/>
-            
-            <div type="image-caption">
+            <pb n="13" edRef="Maier1618"/>
+            <fw type="header">Emblema II.<hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">17</fw>
+
+            <div type="image" xml:lang="la">
                <head>
-                  <lb n="1"/>Emblema II.<hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">17</fw>
-                  <lb n="2"/>Nutrix ejus terra est.
+                   <lb n="1"/>Nutrix ejus terra est.
                </head>
-            </div>
-            
-            <figure><graphic url=""></graphic></figure>
+               <figure><graphic url=""></graphic></figure>
+            </div>            
             
             <div type="epigram" xml:lang="la">
                <head>Epigramma II.</head>
@@ -75,11 +68,12 @@
             </div>
             
            <fw type="gathering">C</fw> <fw type="catchword" place="bottom-right">Apud</fw>
+            <pb n="18" edRef="Maier1618"/>
+            <fw type="pageNum" place="top-left">18</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="2">II</num></fw>
             
-            <div type="discourse">
-               <pb n="18"/>
-               <head><fw type="pageNum" place="top-left">18</fw> <hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="2">II</num></head>
-                  <ab>
+            <div type="discourse" xml:lang="la">
+                 <div type="discourse-p1">
+                    <ab>
                      <lb n="1"/><milestone unit="section" n="e02-01"/>Apud Peripateticos <g type="ampersand">et</g> rect<hi rend="grave">e</hi> judicantes Philosophos statui
                      <lb n="2" break="no"/>tur; quod Nutriens vertatur in substantiam nutritim, ei<hi rend="acute">q</hi>ue assi
                      <lb n="3" break="no"/>miletur non quidem ante, sed post alterationem ejus, id<hi rend="acute">q</hi>ue verssi
@@ -114,10 +108,13 @@
                      <lb n="32" break="no"/>mul in uno continente, tum esset Philosophorum opus adhuc ma
                      <lb n="33" break="no"/>gis naturale, qu<hi rend="grave">a</hi>m generatio animalium. <milestone unit="section" n="e02-13"/> At demus, ut philsophi
                   </ab>
+                 </div>
+               
                <fw type="catchword" place="bottom-right">testan</fw>
+               <pb n="19" edRef="Maier1618"/>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="2">II</num>.</fw> <fw type="pageNum" place="top-right">19</fw>
                   
-               <pb n="19"/>
-               <head><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="2">II</num>. <fw type="pageNum" place="top-right">19</fw></head>
+               <div type="discourse-p2">
                   <ab>
                      <lb n="1"/>testantur, quod unum veniat ab orienti <g type="ampersand">et</g> alterum ab occidente, fi
                      <lb n="2" break="no"/>antque unum, quid plus administratur hisce, qu<hi rend="grave">a</hi>m mixtio in suo
@@ -148,8 +145,8 @@
                      <lb n="27"/>propter vim ejus fotissimam vald<hi rend="grave">e</hi> alteret naturam nutriti, quem
                      <lb n="28" break="no"/>admodum lup<hi rend="ligature">ae</hi> lac <persName><choice><orig>Remuli</orig><corr>Romuli</corr></choice></persName> corpus in naturam animosam <g type="ampersand">et</g> ad bel
                      <lb n="29" break="no"/>lum promptam disposuisse creditur.
-                                          <lb/> 
-                    </ab> 
+                    </ab>
+                  </div>
                <fw type="gathering"><hi rend="gothic">C ii</hi></fw> <fw type="catchword" place="bottom-right" xml:lang="de">Sehe</fw>
                 </div>
             

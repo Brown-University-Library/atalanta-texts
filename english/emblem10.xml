@@ -24,6 +24,7 @@
                 
                 
                 <div type="title" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="049"/>
                     <head>
                         <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 10. Of the Secrets of Nature.
                         <lb/>Give fire to fire, Mercury to Mercury, and you have enough.</seg>
@@ -46,6 +47,7 @@
                 
                 <pb n="36"/> 
                 <div type="discourse" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="050"/>
                     <head rend="italics">Discourse 10.</head>
                     <ab> 
                         <lb/><milestone unit="section" n="e10-01" />If this saying be taken literally, it <choice><orig>onely</orig><reg>only</reg></choice> <choice><orig>increaseth</orig><reg>increases</reg></choice> the quality of fire and Mer 
@@ -85,7 +87,7 @@
                         <lb/>fire resolves the crude parts of fruit or flesh into water, and <choice><orig>causeth</orig><reg>causes</reg></choice> them
                         <lb/>to evaporate with it into <choice><orig>aire</orig><reg>air</reg></choice>: <milestone unit="section" n="e10-11" />after the same manner fire and Mercury
                         <lb/>here are fire and water, and the same, fire and Mercury are the mature
-                        <lb/>and crude parts, of which the crude are to be matured by coction, or the
+                        <lb/>and crude parts, <milestone unit="page" ed="Meier" n="051"/>of which the crude are to be matured by coction, or the
                         <lb/>mature purged from <choice><orig>superfluityes</orig><reg>superfluities</reg></choice> by the ministery of fire and water: <pc>-</pc>
                         <lb/><milestone unit="section" n="e10-12" />Now that these are two fires, and two <choice><orig>Mercuryes</orig><reg>Mercuries</reg></choice> principally and solely ne
                         <lb break="no"/>cessary to the art, <choice><orig>wee</orig><reg>we</reg></choice> will here <choice><orig>breifely</orig><reg>briefly</reg></choice> demonstrate: <milestone unit="section" n="e10-13" />Empedocles deter

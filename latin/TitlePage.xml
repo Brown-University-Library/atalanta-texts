@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+     <revisionDesc>
+        <change when="2018-03-30" who="SJD">Completed draft</change>
+     </revisionDesc>
+  </teiHeader>
+   
+   
+  <text>
+      <body>
+         <div type="title">
+            <pb n="1" edRef="Maier1618"/>                   
+                        
+            <figure><graphic url=""></graphic></figure>
+            
+            <div type="title" xml:lang="la">
+                <ab>
+                   <lb n="1"/><title rend="caps">Atalanta
+                   <lb n="2"/>Fugiens</title>,
+                   <lb n="3"/>hoc est,
+                   <lb n="4"/><title rend="caps">Emblemata
+                   <lb n="5"/>Nova
+                   <lb n="6"/>De Secretis Natur<hi rend="ligature">ae</hi>
+                   <lb n="7"/>Chymica</title>,
+                   <lb n="8" rend="outdent"/>Accomodata partim oculis <g type="ampersand">et</g> intellectui, figuris
+                   <lb n="9"/>cupro incisis, adjectis<hi rend="acute">q</hi>ue sententiis, Epigram
+                   <lb n="10" break="no"/>matis <g type="ampersand">et</g> notis, partim auribus <g type="ampersand">et</g> recreationi
+                   <lb n="11"/>animi plus minus <num value="50" type="cardinal">50</num>. Fugis Musicalibus trium
+                   <lb n="12"/>Vocum, quarum du<hi rend="ligature">ae</hi> ad unam simplicem melo
+                   <lb n="13" break="no"/>diam distichis canendis peraptam, correspon
+                   <lb n="14" break="no"/>deant, non <expan><abbr>absq<am>;</am></abbr><ex>ue</ex></expan> singulari jucunditate videnda,
+                   <lb n="15"/>legenda, meditanda, intelligenda, dijudicanda,
+                   <lb n="16"/>canenda <g type="ampersand">et</g> audienda:
+                   <lb n="17" rend="center"/><hi rend="italic">Authore</hi>
+                   <lb n="18"/><persName ref="http://viaf.org/viaf/103210603"><hi rend="caps">Michaele Majero</hi></persName> <expan><abbr>Imperial<am>.</am></abbr><ex>i</ex></expan> Con
+                   <lb n="19" break="no"/>sistorii Comite, <expan><abbr>Med<am>.</am></abbr><ex>icinarum</ex></expan> <expan><abbr>D<am>.</am></abbr><ex>octore</ex></expan> <expan><abbr>Eq<am>.</am></abbr><ex>uite</ex></expan> <expan><abbr>ex<am>.</am></abbr><ex>empto</ex></expan> <expan><abbr><g type="ampersand">et</g>c</abbr><ex>aetera</ex></expan>.
+                   <lb n="20"/><placeName><hi rend="caps">Oppenheimii</hi></placeName>
+                   <lb n="21"/>Ex typographia <persName ref="http://viaf.org/viaf/101590698"><hi rend="caps">Hieronymi Galleri</hi></persName>,
+                   <lb n="22"/><hi rend="italic">Sumptibus</hi> <persName ref="http://viaf.org/viaf/7388985"><hi rend="caps"><expan><abbr>Joh<am>.</am></abbr><ex>annis</ex> Theodori</expan></hi> de <hi rend="caps">Bry</hi></persName>,
+                   <lb n="23"/><date when="1618"><num type="cardinal" value="1618"><hi rend="overline">M DC XVII</hi></num></date>.
+                </ab>
+            </div>                     
+         </div>
+      </body>
+  </text>
+</TEI>

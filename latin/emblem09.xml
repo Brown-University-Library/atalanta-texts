@@ -18,6 +18,7 @@
      <revisionDesc>
         <change when="2017-05-09" who="SJD">Created</change>
         <change when="2017-05-09" who="SJD">Completed draft</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
      </revisionDesc>
   </teiHeader>
    
@@ -25,19 +26,17 @@
   <text>
       <body>
          <div type="emblem" n="e9">
-            <pb n="44"/>
-            <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">44</fw> FUGA IX. in 5 supr<hi rend="grave">a</hi>.
-               <lb n="2"/>Schließ ein den Baum sampt dem alten Mann in einem
-               <lb n="3"/>Hauß voll Thaw <pc>/</pc> und er essende von seiner Frucht <pc>/</pc>
-               <lb n="4"/>wirt sich erjungen.
-            </head>
             
-            <div type="fugue">
+            <pb n="44" edRef="Maier1618"/>
+            <fw type="pageNum" place="top-left">44</fw> <fw type="header" place="top-center">FUGA IX. in 5 supr<hi rend="grave">a</hi>.</fw>
+
+            
+            <div type="fugue" xml:lang="de">
                <head>
-                  
+                  <lb n="1"/>Schließ ein den Baum sampt dem alten Mann in einem
+                  <lb n="2"/>Hauß voll Thaw <pc>/</pc> und er essende von seiner Frucht <pc>/</pc>
+                  <lb n="3"/>wirt sich erjungen.
                </head>
-               
             </div>
             
             <div type="epigram" xml:lang="de">
@@ -51,19 +50,18 @@
                   <lb n="6"/><l>Und werden jung <pc>/</pc> der war zuvor von Jahren sehr alt.</l>
                </lg>
             </div>
+            
             <fw type="catchword" place="bottom-right">Emble</fw>
+            <pb n="45" edRef="Maier1618"/> 
+            <fw type="header" place="top-center">Emblema IX. <hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.</fw> <fw type="pageNum" place="top-right">45</fw>
             
-            <pb n="45"/> 
-            
-            <div type="image-caption">
+            <div type="image" xml:lang="la">
                <head>
-                  <lb n="1"/>Emblema IX. <hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">45</fw>
                   <lb n="2"/>Arborem cum sene conclude in rorida domo, <g type="ampersand">et</g> comedens
                   <lb n="3"/>de fructu ejus fiet juvenis.
                </head>
-            </div>
-            
-            <figure><graphic url=""></graphic></figure>
+               <figure><graphic url=""></graphic></figure>
+            </div>       
             
             <div type="epigram" xml:lang="la">
                <head>Epigramma IX.</head>
@@ -78,11 +76,12 @@
             </div>
             
            <fw type="gathering">F 3</fw> <fw type="catchword" place="bottom-right">Qu<hi rend="ligature">ae</hi></fw>
+            <pb n="46" edRef="Maier1618"/>
+            <fw type="pageNum" place="top-left">46</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="9">IX</num>.</fw>
             
-            <div type="discourse">
-               <pb n="46"/>
-               <head><fw type="pageNum" place="top-left">46</fw> <hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="9">IX</num>.</head>
-                  <ab>
+            <div type="discourse" xml:lang="la">
+<div type="discourse-p1">
+   <ab>
                      <lb n="1"/><milestone unit="section" n="e09-01"/> Qu<hi rend="ligature">ae</hi>cunque crescunt in <expan><abbr>long<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>, <expan><abbr>lat<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>, <g type="ampersand">et</g> profundum, hoc est, o
                      <lb n="2" break="no"/>riuntur, nutriuntur, <expan><abbr>augm<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>tantur</abbr></expan>, ad <expan><abbr>acm<hi rend="tilde">e</hi></abbr><ex>n</ex></expan> perveniunt, <expan><abbr>propa
                      <lb n="3" break="no"/><hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>tur</abbr></expan>, <expan><abbr>ead<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> <expan><abbr>quoq<am>;</am></abbr><ex>ue</ex></expan> decrescunt, hoc est, in <expan><abbr>virib<am>.</am></abbr><ex>us</ex></expan> <expan><abbr>diminu<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>tur</abbr></expan>, moriun
@@ -112,19 +111,19 @@
                      <lb n="27" break="no"/>res ejusmodi nunc in <expan><abbr>rer<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> natura, vix <hi rend="grave">a</hi> vulgo creditur: <milestone unit="section" n="e09-09"/> De myroba
                      <lb n="28" break="no"/>lanis, <expan><abbr>fructib<am>.</am></abbr><ex>us</ex></expan> arboreis, medici mira <expan><abbr>scrib<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>t</abbr></expan>, quasi tale <expan><abbr><hi rend="stroke">q</hi></abbr><ex>uo</ex><abbr>d</abbr></expan> <expan><abbr>pr<hi>ae</hi>st<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>t</abbr></expan>, ca
                      <lb n="29" break="no"/>nos <expan><abbr>toll<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>t</abbr></expan>, <expan><abbr>s<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>guin<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> <expan><abbr>purific<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>t</abbr></expan>, <g type="ampersand">et</g> <expan><abbr>vit<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> <expan><abbr>prolong<hi rend="tilde">e></hi></abbr><ex>n</ex><abbr>t</abbr></expan>: <milestone unit="section" n="e09-10"/> At h<hi rend="ligature">ae</hi>c <hi rend="grave">a></hi> multis in <expan><abbr>du
-                        <lb n="30" break="no"/>bi<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <expan><abbr>voc<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>tur</abbr></expan>, nisi per <expan><abbr>accid<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>s</abbr></expan> id efficere <expan><abbr>dic<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>tur</abbr></expan>, ut <g type="ampersand">et</g> alia, qu<hi rend="ligature">ae</hi> <expan><abbr>purg<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>nt</abbr></expan>
+                     <lb n="30" break="no"/>bi<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <expan><abbr>voc<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>tur</abbr></expan>, nisi per <expan><abbr>accid<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>s</abbr></expan> id efficere <expan><abbr>dic<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>tur</abbr></expan>, ut <g type="ampersand">et</g> alia, qu<hi rend="ligature">ae</hi> <expan><abbr>purg<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>nt</abbr></expan>
                      <lb n="31"/>massam sanguinis <hi rend="grave">a</hi> <expan><abbr>f<hi rend="ligature">oe</hi>cib<am>.</am></abbr><ex>us</ex></expan> illi admixtis, <g type="ampersand">et</g> canos <expan><abbr>infici<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>t</abbr></expan> nigredine,
                      <lb n="32"/>qua myrobalani capillos <g type="ampersand">et</g> <expan><abbr>pupill<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> <expan><abbr>oculor<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> colorare <expan><abbr>trad<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>tur</abbr></expan>. <milestone unit="section" n="e09-11"/> <persName ref="http://viaf.org/viaf/120697563">Mar
                      <lb n="33" break="no"/>silius Ficinus</persName> in libro <title>de studiosorum vita <expan><abbr>conserv<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>da</abbr></expan></title> scribit, ad <expan><abbr><hi rend="ligature">ae</hi>ta
                      <lb n="34" break="no"/>t<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> <expan><abbr>long<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> <expan><abbr>attigend<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> utile esse, ut quis lac ex <expan><abbr>uberib<am>.</am></abbr><ex>us</ex></expan> <expan><abbr>cujusd<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> f<hi rend="ligature">oe></hi>min<hi rend="ligature">ae</hi>
                      <lb n="35"/>pulchr<hi rend="ligature">ae</hi> <g type="ampersand">et</g> juvenis quotidi<hi rend="grave">e</hi> exugat, cujus vice alii <expan><abbr>viperin<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> <expan><abbr>carn<hi rend="tilde">e</hi></abbr><ex>m</ex></expan>
-                     <lb/>
                   </ab>
-               <fw type="catchword" place="bottom-right">co</fw>
-                  
-               <pb n="47"/>
-               <head><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="9">IX</num>. <fw type="pageNum" place="top-right">47</fw></head>
-                  <ab>
+</div>
+               <fw type="catchword" place="bottom-right">co</fw>                  
+               <pb n="47" edRef="Maier1618"/>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="9">IX</num>.</fw> <fw type="pageNum" place="top-right">47</fw>
+                  <div type="discourse-p2">
+                     <ab>
                      <lb n="1"/><expan><abbr>comest<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> <expan><abbr>laud<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>t</abbr></expan>. <milestone unit="section" n="e09-12"/> Sed san<hi rend="grave">e</hi> h<hi rend="ligature">ae</hi>c media sunt ipsa senectute rigidiora, <g type="ampersand">et</g>
                      <lb n="2"/>vix millesimo usurpanda, <expan><abbr>eti<hi rend="tilde">a</hi></abbr><ex>m</ex><abbr>si</abbr></expan> effectu certissimo <expan><abbr>n<hi rend="tilde">o</hi></abbr><ex>n</ex></expan> <expan><abbr>carer<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>t</abbr></expan>: A <persName ref="http://viaf.org/viaf/12313247">Pa
                      <lb n="3" break="no"/>racelso</persName> in <expan><abbr>lib<am>.</am></abbr><ex>ro</ex></expan> <title ref="http://viaf.org/viaf/2401148037699288350005">de vita <expan><abbr>l<hi rend="tilde">o</hi></abbr><ex>n</ex><abbr>ga</abbr></expan></title> scribitur, <expan><abbr><hi rend="stroke">q</hi></abbr><ex>uod</ex></expan> quis per <expan><abbr>sol<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> <expan><abbr>imagination<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> al
@@ -160,8 +159,8 @@
                      <lb n="33" break="no"/>lia senis, qu<hi rend="ligature">ae</hi> ut <persName>Daphne</persName> mutata est in vegetabile ejusmodi, unde se
                      <lb n="34" break="no"/>nex non immerit<hi rend="grave">o</hi> juventutem sperat ab illa, cujus ipsa, ut esset, cau
                      <lb n="35" break="no"/>sa extitit.
-                     <lb/>
-                  </ab> 
+                  </ab>
+                  </div>
                 <fw type="catchword" place="bottom-right" xml:lang="de"><hi rend="gothic">Gib</hi></fw>
                 </div>
             

@@ -1,0 +1,153 @@
+<?xml version="1.1" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+     <revisionDesc>
+        <change when="2018-03-17" who="SJD">Start encoding</change>
+        <change when="2018-03-17" who="SJD">Finish draft</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
+     </revisionDesc>
+  </teiHeader>
+   
+   
+  <text>
+      <body>
+         <div type="emblem" n="e43">
+            <pb n="180" edRef="Maier1618"/>
+            <fw type="pageNum" place="top-left">180</fw><fw type="header" place="top-center">FUGA <num value="43" type="cardinal">XLIII</num>. in <num value="5">5</num>. seu <num value="12">12</num> infrà. Contrapunctum.</fw>
+            
+            <div type="fugue" xml:lang="de">
+               <head>
+
+               <lb n="2"/>Hörzu gen Geijer so reden kan <pc>/</pc> der fälschlich
+               <lb n="3"/>dich nicht sezet an.
+            </head>
+               
+            </div>
+            
+            <div type="epigram" xml:lang="de">
+               <head><num value="43" type="cardinal">XLIII</num>. Epigrammatis Latini versio Germanica.</head>
+               <lg>
+                  <lb n="1"/><l>Auff der Spizen hoch deß Bergs der Geijer thut sizende laut schreijn</l>
+                  <lb n="2"/><l>Ohn unterlaß: Ich bin der weisse und schwarze allein <pc>/</pc></l>
+                  <lb n="3"/><l>Der Citron Farb und roht: Ich lieg nicht; der selb is auch der Rab</l>
+                  <lb n="4"/><l>So fleugt <pc>/</pc> ob wol ihm seijn die Flugel geschnidten ab <pc>/</pc></l>
+                  <lb n="5"/><l>In finster Nacht <pc>/</pc> auch wenn di Sonn erhoben am Mittag steht <pc>/</pc></l>
+                  <lb n="6"/><l>Dann dieser <pc>/</pc> oder der ist <pc>/</pc> darauß die ganze Kunst geht.</l>
+               </lg>
+            </div>
+            <fw type="catchword">Emble-</fw>
+            
+            <pb n="181" edRef="Maier1618"/>
+            
+            <fw type="header" place="top-center">Emblema <num value="43" type="cardinal">XLIII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">181</fw><div type="image" xml:lang="la"><head/></div>            
+            <div type="epigram" xml:lang="la">
+               <head>Epigramma <num value="43" type="cardinal">XLIII</num>.</head>
+               <lg>
+                  <lb n="1"/><l>Montis in excelso consistit vertice vultur</l>
+                  <lb n="2"/><l>Assidu<hi rend="grave">e</hi> clamans; Albus ego atque niger,</l>
+                  <lb n="3"/><l>Citrinus, rube<hi rend="acute">u</hi>sque feror nil mentior: idem est</l>
+                  <lb n="4"/><l>Corvus, qui pennis absque volare solet</l>
+                  <lb n="5"/><l>Nocte tenebros<hi rend="circumflex">a</hi>, medi<hi rend="circumflex">a</hi>que in luce diei,</l>
+                  <lb n="6"/><l>Namque artis caput est ille vel iste tuae.</l> 
+               </lg>
+            </div>
+            
+            <fw type="gathering" place="bottom-right">Z 3</fw> <fw type="catchword" place="bottom-right">Loquaces</fw>
+            
+            <div type="discourse" xml:lang="la">
+               <pb n="182" edRef="Maier1618"/>
+               <fw type="pageNum" place="top-left">182</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="43">XLIII</num>.</fw>
+                  <div type="discourse-p1"><ab>
+                     <lb n="1"/><milestone unit="section" n="e43-01"/><hi rend="caps">Loquaces</hi> seu vocis humanae aemulas volucres, videlicet Psitta
+                     <lb n="2" break="no"/>cos, corvos, monedulas, <g type="ampersand">et</g> picas quodtidi<hi rend="grave">e</hi> passim audimus. <milestone unit="section" n="e43-02"/>Sic
+                     <lb n="3"/><persName ref="https://viaf.org/viaf/100219162">Plinius</persName> suo tempore, quo historiam edidit, <persName ref="https://viaf.org/viaf/87873347"><expan><abbr>Agrippin<hi rend="tilde">a</hi></abbr><ex>m</ex></expan></persName> <persName ref="https://viaf.org/viaf/87172361"><name type="gentilicium">Claudii</name> <name type="cognomen"><expan><abbr>C</abbr><ex>a</ex><abbr><hi rend="hook">e</hi>sa
+                     <lb n="4" break="no"/>ris</abbr></expan></name></persName> uxorem habuisse turdum, semones hominum imitantem scribit.
+                     <lb n="5"/><milestone unit="section" n="e43-03"/>Habuerunt <g type="ampersand">et</g> <persName>Caesares</persName> juvenes sturnum <g type="ampersand">et</g> luscinias Graeco latin<hi rend="acute">o</hi>
+                     <lb n="6" break="no"/>que sermoni assuefactas, <g type="ampersand">et</g> assidu<hi rend="grave">e</hi> nova loquentes longo etiam ver
+                     <lb n="7" break="no"/>borum filo. <milestone unit="section" n="e43-04"/>Cum<hi rend="acute">q</hi>ue ejusmodi <expan><abbr>n<hi rend="tilde">o</hi></abbr><ex>n</ex></expan> rarae occurrant aves, min<hi rend="grave">u</hi>s admi
+                     <lb n="8" break="no"/>ratione dignae nun censentur, siquidem usus <g type="ampersand">et</g> assuefactio omnes
+                     <lb n="9"/>volucres latiori lingua praeditas hoc modo vocales <g type="ampersand">et</g> garrulas red
+                     <lb n="10" break="no"/>dere possit. <milestone unit="section" n="e43-05"/>Ver<hi rend="grave">u</hi>m vultur ille, cujus Philosophi mentionem faciunt,
+                     <lb n="11"/>voces, si quas edit, non ex usu didicit, sed eas natura ipsius tacit<hi rend="grave">e</hi> ex
+                     <lb n="12" break="no"/>primit. <milestone unit="section" n="e43-06"/>Philosophi ver<hi rend="grave">o</hi> dicunt, quod assidu<hi rend="grave">e</hi> clamet, alt<hi rend="acute">a</hi>que voce
+                     <lb n="13"/>pronunciet, quis sit <g type="ampersand">et</g> qualis, in quo magnos imitatur principes, qui
+                     <lb n="14"/>titulos suos <g type="ampersand">et</g> haereditates semper in initio suarum intimationum
+                     <lb n="15"/>innotescere volunt, non superbiae alicujus not<hi rend="circumflex">a</hi>, sed aliorum causa,
+                     <lb n="16"/>ut <g type="ampersand">et</g> ipsi sciant, quibus principatibus dominentur, aut jus haeredita
+                     <lb n="17" break="no"/>rium praetendant. <milestone unit="section" n="e43-07"/>Sic multum interest, ut agnoscatur, quibus colo
+                     <lb n="18" break="no"/>ribus, tanquam armorum <g type="ampersand">et</g> titulorum insignibus, Philosophica a
+                     <lb n="19" break="no"/>vis gaudeat, <g type="ampersand">et</g> caeteras antecellat. <milestone unit="section" n="e43-08"/>Ego, inquit, ut <title ref="https://viaf.org/viaf/191597728">Rosarius</title> habet ex
+                     <lb n="20"/><persName ref="https://viaf.org/viaf/24571510">Hermete</persName>, sum nigrum albi, <g type="ampersand">et</g> Citrinus rubei, <g type="ampersand">et</g> cert<hi rend="grave">e</hi> veridicus sum
+                     <lb n="21"/><g type="ampersand">et</g> non mentiens. <milestone unit="e43-09"/>Nigrum se adfirmat, album, citrinum <g type="ampersand">et</g> rubeum,
+                     <lb n="22"/><g type="ampersand">et</g> talis rever<hi rend="grave">a</hi> est, etsi enim tres ultimos colores actu nondum possi
+                     <lb n="23" break="no"/>deat, tamen haereditatum eorum expectat. <milestone unit="section" n="e43-10"/>Hinc <persName ref="https://viaf.org/viaf/79142489">Rosinus</persName> in <expan>&gt;<abbr>lib<am>.</am></abbr><ex>ro</ex></expan> <title>di
+                     <lb n="24" break="no"/>vinarum interpretationum</title>; <quote>Recipe</quote>, inquit, <quote>lapidem, qui est niger,
+                        <lb n="25"/>albus, rubeus, citrinus, avis mirabilis, qui nigredine noctis, <g type="ampersand">et</g> diei
+                     <lb n="26"/>claritate sine alis volat.</quote> <milestone unit="section" n="e43-11"/>Ex amaritudine namque in suo gutture exi
+                     <lb n="27" break="no"/>stente, coloratio accipitur, <hi rend="grave">a</hi> suo ver<hi rend="grave">o</hi> cruore mera aqua accipitur,
+                     <lb n="28"/>sicut dixit <persName ref="https://viaf.org/viaf/36756464">Alexander</persName>. <quote>Recipe lapidem quatuor colorum fili.</quote> <milestone unit="section" n="e43-12"/>Colo
+                     <lb n="29" break="no"/>res hosce omnes, qui sunt principales, successio ordine adesse lapidi,
+                     <lb n="30"/>ad nauseam Philosophorum libri dictitant. <milestone unit="section" n="e43-13"/>Cur ver<hi rend="grave">o</hi> Vultur appel
+                     <lb n="31" break="no"/>letur Philosophicum subjectum, non abs re erit. Ex vulturibus nigri
+                     <lb n="32"/>praevalent, rapaces sunt, sed tard<hi rend="grave">e</hi> volant, propter corporis molem.
+                     <lb n="33"/><milestone unit="section" n="e43-14"/>Ajunt hanc avem concipere sine masculorum semine, <g type="ampersand">et</g> sine con
+                     <lb break="no"/>
+                  </ab></div>
+                  <fw type="catchword" place="bottom-right">junctione</fw>
+               <pb n="183" edRef="Maier1618"/>
+               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="43">XLIII</num>.</fw> <fw type="pageNum" place="top-right">183</fw>
+                  <div type="discourse-p2"><ab>
+                     <lb n="1"/>junctione generare, nat<hi rend="acute">o</hi>sque ex iis in multam aetatem procedere
+                     <lb n="2"/>ad annum usque centesimum. Nidificant in altis rupibus, nidos ne
+                     <lb n="3" break="no"/>mo attigi. <milestone unit="section" n="e43-15"/>Foetus fer<hi rend="grave">e</hi> cernuntur bini: Auxilio sunt contra ser
+                     <lb n="4" break="no"/>pentes. Euro gravidae fiunt. <milestone unit="section" n="e43-16"/>C<hi rend="grave">u</hi>m coeperunt ova edere, aliquid adfe
+                     <lb n="5" break="no"/>runt ex Indico tractu, quod est tanquam nux, int<hi rend="grave">u</hi>s habens, quod
+                     <lb n="6"/>moveatur, son<hi rend="acute">m</hi>que subinde reddat, quod ubi sibi apposuerunt,
+                     <lb n="7"/>multos foetus producunt, sed unus tantum remanet, qui <hi rend="caps">Immusu
+                     <lb n="8" break="no"/>lus</hi> vocatur. <milestone unit="section" n="e43-17"/><persName>Hermodorus <orgName>Fonticus</orgName></persName> apud <placeName>Coelium</placeName> testis est, vultu
+                     <lb n="9" break="no"/>res esse omnium animalium innocentissimos, quia nihil prorsus at
+                     <lb n="10" break="no"/>tingant eorum, quae ferant homines, plantent, alant. Animantium
+                     <lb n="11"/>praeterea nullam interimant. <milestone unit="section" n="e43-18"/>Volucribus quoque vel mortius abs
+                     <lb n="12" break="no"/>tineant, quodam cognationis intellectu: Hinc in auguriis praestan
+                     <lb n="13" break="no"/>tissimi habebantur, ut indicant Urbis <placeName>Romae</placeName> primordia. <milestone unit="section" n="e43-19"/>Has vultu
+                     <lb n="14" break="no"/>rum proprietates fer<hi rend="grave">e</hi> omnes c<hi rend="grave">u</hi>m Philosophicus ales exprimat,
+                     <lb n="15"/>hinc non immerit<hi rend="grave">o</hi> vultur ab <persName ref="https://viaf.org/viaf/24571510">Hermete</persName> ali<hi rend="acute">i</hi>sque appellatur, qui <g type="ampersand">et</g>
+                     <lb n="16"/>tardus in volatu <g type="ampersand">et</g> niger colore est; Concipit ex sese: <milestone unit="section" n="e43-20"/>Sic enim <title ref="https://viaf.org/viaf/191597728/">Rosa
+                     <lb n="17" break="no"/>rius</title> circa finem; <quote rend="italic">Et ipse est draco, qui maritat seipsum <g type="ampersand">et</g> impraegnat
+                     <lb n="18"/>seipsum <g type="ampersand">et</g> parit in die suo, <expan><abbr><g type="ampersand">et</g>c</abbr><ex>aetera</ex></expan>.</quote> <milestone unit="section" n="e43-21"/>Et <persName ref="https://viaf.org/viaf/79142489">Rosinus</persName> ad sarratant: <quote rend="italic">Et ipsum est ser
+                     <lb n="19" break="no"/>pens seipsum luxurians, seipsum impraegnans <g type="ampersand">et</g> in die una parturiens, <expan><abbr><g type="ampersand">et</g>c</abbr><ex>aetera</ex></expan></quote>.
+                     <lb n="20"/><milestone unit="section" n="e43-22"/>Diutissim<hi rend="grave">e</hi> vivit <g type="ampersand">et</g> superest, se<hi rend="acute">q</hi>ue multiplicat. Quod enim <persName ref="https://viaf.org/viaf/8194433">Virgilius</persName>
+                     <lb n="21"/>de Phoenice ave scribit, huic aequ<hi rend="grave">e</hi> (quia eadem est) convenit:
+                     <lb n="22"/><quote rend="italic"><!-- this is AL 647.5-6, which is attributed erroneously to Ausonius, not Vergil-->Alipedem cervum corvus ter vincit, at illum
+                     <lb n="23"/>Multiplicat novies Phoenix reparabilis ales:</quote>
+                     <lb n="24" xml:id="l24"/><milestone unit="section" n="e43-23"/>Hujus nidos attingere vald<hi rend="grave">e</hi> difficil<hi rend="grave">e</hi> est: Cum serpente Mercuriali pugnat,
+                     <lb n="25" xml:id="l25"/><expan><abbr>e<hi rend="acute">u</hi>mq<am>;</am></abbr><ex>ue</ex></expan> vincit, hoc est, Sol cum luna. <milestone unit="section" n="e43-24"/>Ex vento concipitur, <g type="ampersand">et</g> in ventre ejus por
+                     <lb n="26" xml:id="l26" break="no"/>tatur, <g type="ampersand">et</g> in aëre nascitur. Aetites lapis lapillum <expan><abbr>hab<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>s</abbr></expan> intra se sonantem, <hi rend="grave">a</hi> multis
+                     <lb n="27" xml:id="l27"/><expan><abbr>toti<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> dicitur. <milestone unit="section" n="e43-25"/>Unus saltem immusulus in nido <expan><abbr>Philos<am>.</am></abbr><ex>ophico</ex></expan> invenitur. Innocentissima
+                     <lb n="28" xml:id="l28"/><expan><abbr>quoq<am>;</am></abbr><ex>ue</ex></expan> avis est <expan><abbr>Philos<am>.</am></abbr><ex>ophica</ex></expan> quia nulli nocet, omnibus scientibus prodest, <g type="ampersand">et</g> in augu
+                     <lb n="29" xml:id="l29" break="no"/>riis praestantissima. <milestone unit="section" n="e43-26"/>At cur in monte nidificat, <g type="ampersand">et</g> sedens ita clamat? Respondet
+                     <lb n="30" xml:id="l30"/><persName ref="https://viaf.org/viaf/79142489">Rosinus</persName> ex <persName ref="https://viaf.org/viaf/95154093">Rasi</persName>, qui inquit: <quote rend="italic">Contemplare altissima montana, quae sunt <hi rend="grave">a</hi> dextris <g type="ampersand">et</g> <hi rend="grave">a</hi>
+                        <lb n="31" xml:id="l31"/>sinistris, ac ascende illuc: Ibi lapis noster invenitur, <g type="ampersand">et</g> in alto monte, qui fert omne genus pi
+                        <lb n="32" xml:id="l32" break="no"/>gmentorum, <g type="ampersand">et</g> spiritus vel species, ibi similiter est: <milestone unit="section" n="e43-27"/><persName ref="https://viaf.org/viaf/12734759">Morienus</persName>: Conscendite alta montana,
+                        <lb n="33" xml:id="l33"/>arboribus consita quia ibi lapis noster invenitur <g type="ampersand">et</g> absconditus est: Et <persName ref="https://viaf.org/viaf/24571510">Hermes</persName>: Recipite lapi
+                        <lb n="34" xml:id="l34" break="no"/>dem benedictum, comminuite <g type="ampersand">et</g> lavate lapidem rubeum, de quo extrahitur, qui invenitur
+                        <lb n="35" xml:id="l35"/>in montibus <g type="ampersand">et</g> maxim<hi rend="grave">e</hi> aliquando in cloacis veteribus.</quote>
+                     <span style="0.75em;" from="#l24" to="#l35">Lines 24-35 smaller than the previous</span>
+                  </ab></div>
+            <fw type="catchword" place="bottom-right" xml:lang="de">Durch</fw>                  
+            </div>            
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,149 @@
+<?xml version="1.1" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+     <revisionDesc>
+        <change when="2018-03-18" who="SJD">Start encoding</change>
+        <change when="2018-03-18" who="SJD">Finish draft</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
+     </revisionDesc>
+  </teiHeader>
+   
+   
+  <text>
+      <body>
+         <div type="emblem" n="e46">
+            <pb n="192" edRef="Maier1618"/>
+            <fw type="pageNum" place="top-left">192</fw><fw type="header" place="top-center">FUGA <num value="46" type="cardinal">XLVI</num>. Reciproca.</fw>
+            
+            <div type="fugue" xml:lang="de">
+               <head>
+
+               <lb n="2"/>Zween Adler <pc>/</pc> einer von Often <pc>/</pc> der ander von Westen
+               <lb n="3"/>kommen zusammen.
+            </head>
+               
+            </div>
+            
+            <div type="epigram" xml:lang="de">
+               <head><num value="46" type="cardinal">XLVI</num>. Epigrammatis Latini versio Germanica.</head>
+               <lg>
+                  <lb n="1"/><l>Der <persName type="divinity"><hi rend="latin">Jupiter</hi></persName> <placeName>Delphis</placeName> zween Adler hat auß gesendet <pc>/</pc></l>
+                  <lb n="2"/><l>Gegen Auffgang und Niedergang so fern die Erd sich endet <pc>/</pc></l>
+                  <lb n="3"/><l>Dieweil das Mittel der Erdn wolt wissen und verstehen <pc>/</pc></l>
+                  <lb n="4"/><l>Welch (wie man sagt) zugleich zu <placeName>Delphis</placeName> wider gesehen <pc>/</pc></l> 
+                  <lb n="5"/><l>Es seijnd aber zween Schein <pc>/</pc> dieser von Osten und der von Westen <pc>/</pc></l>
+                  <lb n="6"/><l>Welche zusammen kommen und in <expan><abbr>ein<am>'</am></abbr><ex>e</ex><abbr>n</abbr></expan> sich befesten.</l>
+               </lg>
+            </div>
+            <fw type="catchword">Emble-</fw>
+            
+            <pb n="193" edRef="Maier1618"/>
+            
+            <fw type="header" place="top-center">Emblema <num value="46" type="cardinal">XLVI</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">193</fw><div type="image" xml:lang="la"><head/></div>            
+            <div type="epigram" xml:lang="la">
+               <head>Epigramma <num value="46" type="cardinal">XLVI</num>.</head>
+               <lg>
+                  <lb n="1"/><l><persName type="divinity">Jupiter</persName> <hi rend="grave">e</hi> <placeName><hi rend="caps">Delphis</hi></placeName> aquilas misisse gemellas</l>
+                  <lb n="2"/><l>Fertur ad E<hi rend="circumflex">o</hi>as Occidu<hi rend="acute">a</hi>sque plagas:</l>
+                  <lb n="3"/><l>Dum medium explorare locum desiderat Orbis,</l>
+                  <lb n="4"/><l>(Fama ut habet) <placeName>Delphos</placeName> h<hi rend="ligature">ae</hi> redi<hi rend="circumflex">e</hi>re simul.</l>
+                  <lb n="5"/><l>Ast ill<hi rend="ligature">ae</hi> lapides bini sunt, unus ab ortu,</l>
+                  <lb n="6"/><l>Alter ab occasu, qui bene conveniunt.</l> 
+               </lg>
+            </div>
+            
+            <fw type="gathering" place="bottom-right">Bb</fw> <fw type="catchword" place="bottom-right"><hi rend="caps">Apollinem</hi></fw>
+            
+            <div type="discourse" xml:lang="la">
+               <pb n="194" edRef="Maier1618"/>
+               <fw type="pageNum" place="top-left">194</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="46">XLVI</num>.</fw>
+                  <div type="discourse-p1"><ab>
+                     <lb n="1"/><milestone unit="section" n="e46-01"/><persName type="divinity"><hi rend="caps">Apollinem</hi></persName> antiquissimum ex <persName type="divinity">Vulcano</persName> natum, <placeName>Athenarum</placeName> cu
+                     <lb n="2" break="no"/>stodem tradit <persName ref="https://viaf.org/viaf/78769600">Cicero</persName> <expan><abbr>lib<am>.</am></abbr><ex>ro</ex></expan> <title ref="https://viaf.org/viaf/178863840">de natura Deorum</title>. <milestone unit="section" n="e46-02"/>Qu<hi rend="ligature">ae</hi> quidem o
+                     <lb n="3" break="no"/>pinio, si ut debet, ad allegoriam transferatur, est verissima; Quia
+                     <lb n="4"/><persName type="divinity">Vulcanus</persName> Solem Philosophicum, qui <persName type="divinity">Apollo</persName> est, producit. <milestone unit="section" n="e46-03"/>Sed pr<hi rend="ligature">ae</hi>
+                     <lb n="5" break="no"/>valuit, quod ex Jove natus sit; C<hi rend="grave">u</hi>m ver<hi rend="grave">o</hi> <persName type="divinity">Latona</persName> utero gestaret ge
+                     <lb n="6" break="no"/>mellos <persName type="divinity">Apollinem</persName> <g type="ampersand">et</g> <persName type="divinity">Dianam</persName>, quos ex <persName type="divinity">Jove</persName> conceperat, <persName type="divinity">Juno</persName> Zelo
+                     <lb n="7" break="no"/>typa Pythonem horrend<hi rend="ligature">ae</hi> vastitatis serpentem immisit, qui gravi
+                     <lb n="8" break="no"/>dam prosequeretur <g type="ampersand">et</g> vexaret. <milestone unit="section" n="e46-04"/>Mulier misera post diutinos errores
+                     <lb n="9"/>tandem navigio delata in insulam <placeName>Ortygiam</placeName>, ad sororem suam <persName type="divinity">A
+                     <lb n="10" break="no"/>steriem</persName>, qu<hi rend="ligature">ae</hi> in ea regnabat: C<hi rend="acute">u</hi>mque ea insula fer<hi rend="grave">e</hi> tota mari inun
+                     <lb n="11" break="no"/>daretur, parturienti <persName type="divinity">Laton<hi rend="ligature">ae</hi></persName> locum dedit, unde <placeName>Delus</placeName> dicta, qu<hi rend="ligature">ae</hi>
+                     <lb n="12"/><foreign xml:lang="grc">Ἄδηλ<hi rend="ligature">ος</hi></foreign> erat antea. <milestone unit="section" n="e46-05"/>Ibi igitur enixa pueros; prima prodiit ex utero
+                     <lb n="13"/><persName type="divinity">Diana</persName>, ea<hi rend="acute">q</hi>ue se obstetricem matri in partu fratris <persName type="divinity">Apollinis</persName> labo
+                     <lb n="14" break="no"/>ranti pr<hi rend="ligature">ae</hi>buit; Unde factum est, ut pr<hi rend="ligature">ae</hi>gnantes in puerperio ejus
+                     <lb n="15"/>Numen invocarent, eam<hi rend="acute">q</hi>ue vel <persName type="divinity">Lucinam</persName> vel <persName type="divinity">Ilithyiam</persName> vocave
+                     <lb n="16" break="no"/>runt, quod lucem natis infantibus apertis eorum oculis ostenderet:
+                     <lb n="17"/><milestone unit="section" n="e46-06"/><persName type="divinity">Apollo</persName> igitur natus, <g type="ampersand">et</g> adultus Pythonem matris vexatorem sagittis
+                     <lb n="18"/>confecit <g type="ampersand">et</g> Cyclopes occ<hi rend="circumflex">i</hi>dit, quod fulmen <persName type="divinity">Jovi</persName> fabricassent ad in
+                     <lb n="19" break="no"/>terficiendum ejus filium <persName type="divinity"><hi rend="ligature">Ae</hi>sculapium</persName>, quem <persName type="divinity">Jupiter</persName> fulminatum
+                     <lb n="20"/>ad inferos destrusit, propterea quod <persName>Hippolytum</persName> ab equis discer
+                     <lb n="21" break="no"/>ptum in vitam restituisset. <milestone unit="section" n="e46-07"/>H<hi rend="ligature">ae</hi>c esse mer<hi rend="grave">e</hi> Chymica multis in locis
+                     <lb n="22"/>demonstravimus. <persName type="divinity">Latona</persName> enim, <persName type="divinity">Cynthia</persName>, <persName type="divinity">Apollo</persName> <g type="ampersand">et</g> Python, sunt re
+                     <lb n="23" break="no"/>quisita artis, qu<hi rend="ligature">ae</hi> eo modo se habent invicem, ut narratum est. <milestone unit="section" n="e46-08"/>C<hi rend="grave">u</hi>m 
+                     <lb n="24"/>ver<hi rend="grave">o</hi> h<hi rend="ligature">ae</hi>c ab antiquissimis Poëtis, ut <persName>Orpheo</persName>, <persName>Lino</persName>, <persName>Museao</persName>, <persName ref="https://viaf.org/viaf/224924963">Home
+                        <lb n="25" break="no"/>ro</persName>, scriptis vulgata essent, apud ignaros occasionem religioni <g type="ampersand">et</g> ve
+                     <lb n="26" break="no"/>nerationi <persName type="divinity">Apollinis</persName> pr<hi rend="ligature">ae</hi>buerunt. <milestone unit="section" n="e46-09"/>Hinc in multis locis <placeName>Europ<hi rend="ligature">ae</hi></placeName> <g type="ampersand">et</g> <placeName>A
+                     <lb n="27" break="no"/>si<hi rend="ligature">ae</hi></placeName> cultus est <persName type="divinity">Apollo</persName>, ei<hi rend="grave">q</hi>ue erecta templa innumera. <milestone unit="section" n="e46-10"/>Pr<hi rend="ligature">ae</hi>cipu<hi rend="grave">e</hi> ver<hi rend="grave">o</hi>
+                     <lb n="28"/><placeName>Delphis</placeName> antiqua religione venerandum habuit templum, in quo
+                     <lb n="29"/>statu<hi rend="ligature">ae</hi> plurim<hi rend="ligature">ae</hi> ex auro solido <g type="ampersand">et</g> argento magni ponderis <g type="ampersand">et</g> artifi
+                     <lb n="30" break="no"/>cii <hi rend="grave">a</hi> regibus <g type="ampersand">et</g> principibus reposit<hi rend="ligature">ae</hi> erant, cum aliis donariis pre
+                     <lb n="31" break="no"/>ciosissimis, qu<hi rend="ligature">ae</hi> ab omnis status hominibus religionis causa in sacra
+                     <lb n="32" break="no"/>riis recondita erant. <milestone unit="section" n="e46-11"/><persName ref="https://viaf.org/viaf/77132959">Pausanias</persName> refert sceleton aheneum artificii ad
+                     <lb n="33" break="no"/>mirandi appensum tholo templi fuisse ab <persName ref="https://viaf.org/viaf/287984736">Hippocrate</persName>: <persName type="divinity">Apollini</persName>
+                  </ab></div>
+                  <fw type="catchword" place="bottom-right">quoque</fw>
+               <pb n="195" edRef="Maier1618"/>
+               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="46">XLVI</num>.</fw> <fw type="pageNum" place="top-right">195</fw>
+                  <div type="discourse-p2"><ab>
+                     <lb n="1"/>quoque sacratus fuit ille celebris tripes, <hi rend="grave">a</hi> <persName>Pelope</persName>, dum uxorem <persName>Hip
+                     <lb n="2" break="no"/>podamiam</persName> duceret <persName>Oenomai</persName> regis <placeName>Elidis</placeName> filiam, quem Tripodem
+                     <lb n="3"/>fabricarat <persName>Mulciber</persName> <g type="ampersand">et</g> <persName>Pelopi</persName> donaverat. <milestone unit="section" n="e46-12"/>Hic in medio templi ere
+                     <lb n="4" break="no"/>ctus erat, in quo insidens Pythia afflatum D<hi rend="ligature">ae</hi>monis erumpentis <hi rend="grave">e</hi>
+                     <lb n="5"/>profundo hiatu excipiebat, quo correpta vaticinabatur,<g type="ampersand">et</g> responsa
+                     <lb n="6"/>dabat sciscitantibus rerum futurarum eventus. <milestone unit="section" n="e46-13"/>Fuere autem <placeName>Del
+                     <lb n="7" break="no"/>phi</placeName> in <placeName>B<hi rend="ligature">oe</hi>otica</placeName> ad radice <placeName>Parnassi</placeName> siti. Templo vicinus fuit fons fa
+                     <lb n="8" break="no"/>tidicus, <placeName>Cassiotis</placeName>, cui si faces ardentes admoverentur, eas extingue
+                     <lb n="9" break="no"/>bat: si procul essent remot<hi rend="ligature">ae</hi>, subit<hi rend="grave">o</hi> accendebantur, <g type="ampersand">et</g> flammas <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>n</ex>
+                     <lb n="10" break="no"/><abbr>cipiebant</abbr></expan>. <milestone unit="section" n="e46-14"/>Ejus<hi rend="acute">q</hi>ue fontis aqua pota vim vaticinandi pr<hi rend="ligature">ae</hi>bebat; sed
+                     <lb n="11"/>tamen brevioris vit<hi rend="ligature">ae</hi> reddebantur ejus aqu<hi rend="ligature">ae</hi> potores. <milestone unit="section" n="e46-15"/>C<hi rend="grave">u</hi>m itaque
+                     <lb n="12"/>concursus fiere ex omnibus <placeName>Europ<hi rend="ligature">ae</hi></placeName>, <placeName>Asi<hi rend="ligature">ae</hi></placeName><hi rend="acute">q</hi>ue partibus ad oracu
+                     <lb n="13" break="no"/>lum <placeName>Delphicum</placeName>, poët<hi rend="ligature">ae</hi> eum locum, <expan><abbr>n<hi rend="tilde">e</hi></abbr><ex>m</ex><abbr>pe</abbr></expan> <placeName>Parnassum</placeName> esse in medio
+                     <lb n="14"/>terr<hi rend="ligature">ae</hi> fabulati sunt; <expan><abbr>id<hi rend="acute">q</hi><am>;</am></abbr><ex>ue</ex></expan> ad exemplo <persName type="divinity">Jovis</persName> probarunt, qui <expan><abbr>duab<am>.</am></abbr><ex>us</ex></expan> <expan><abbr>a<hi rend="stroke">q</hi></abbr><ex>ui</ex>
+                     <lb n="15" break="no"/><abbr>lis</abbr></expan> emissis id experimentatus fuerat: <milestone unit="section" n="e46-16"/>Ver<hi rend="grave">u</hi>m c<hi rend="grave">u</hi>m h<hi rend="ligature">ae</hi>c res histori<hi rend="ligature">ae</hi> fi
+                     <lb n="16" break="no"/>de non nitatur, non <hi rend="grave">a</hi> veritate alienum est, eam chymicis asscribere,
+                     <lb n="17"/>pr<hi rend="ligature">ae</hi>sertim c<hi rend="grave">u</hi>m totus <persName type="divinity">Apollo</persName>, ut dictum, sit chymicus origine, licet
+                     <lb n="18"/>d<hi rend="ligature">ae</hi>mon postea hominum <expan><abbr>su<hi rend="stroke">p</hi></abbr><ex>er</ex><abbr>stitionem</abbr></expan> sub eo nomine confirm<hi rend="circumflex">a</hi>rit
+                     <lb n="19"/><g type="ampersand">et</g> vaticinia dederit. <milestone unit="section" n="e46-17"/>Du<hi rend="ligature">ae</hi> aquil<hi rend="ligature">ae</hi> sunt duo lapides, ex <expan><abbr>quib<am>.</am></abbr><ex>us</ex></expan> unus ab
+                     <lb n="20"/>oriente, alter ab occidente venit; <expan><abbr><hi rend="stroke">q</hi></abbr><ex>uod</ex></expan> <expan><abbr>Philos<am>.</am></abbr><ex>ophi</ex></expan> multis modis <expan><abbr>dem<hi rend="tilde">o</hi></abbr><ex>n</ex><abbr>str<hi rend="circumflex">a</hi>
+                     <lb n="21" break="no"/>runt</abbr></expan>. <milestone unit="section" n="e46-18"/>Illas <persName type="divinity">Jupiter</persName> emisit utpote suas armigeras. Aquila autem <persName type="divinity">Apol
+                     <lb n="22" break="no"/>lini</persName> seu Soli amica videtur, quia pullos suos probat ad Solem, quem si
+                     <lb n="23"/>sustinere nequeant, ut degeneres excludit. <milestone unit="section" n="e46-19"/>Ejus penn<hi rend="ligature">ae</hi> aliis <expan><abbr>reb<am>.</am></abbr><ex>us</ex></expan> <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>n</ex>
+                        <lb n="24" break="no"/><abbr>sert<hi rend="ligature">ae</hi></abbr></expan> dicuntur non putrescere, <g type="ampersand">et</g> aliarum avium pennas devorare,
+                     <lb n="25"/>facil<hi rend="grave">e</hi> inaurationem admiitere. <milestone unit="section" n="e46-20"/>Non senio, nec <hi rend="ligature">ae</hi>gritudine moritur,
+                     <lb n="26"/>sed fame. Crescens <expan><ex>e</ex><abbr>n<am>.</am></abbr><ex>im</ex></expan> rostri superioris aduncitas impedit, ne cibum
+                     <lb n="27"/>queat capere; qu<hi rend="circumflex">a</hi> abject<hi rend="circumflex">a</hi> in fontem ter se mergit, <expan><abbr>eo<hi rend="acute">q</hi><am>;</am></abbr><ex>ue</ex></expan> modo redi
+                     <lb n="28" break="no"/>re fertur ad juventurem. <milestone unit="section" n="e46-21"/>Hinc <persName>Psalmographus</persName>: <quote>Renovabitur, ut
+                     <lb n="29"/>aquil<hi rend="ligature">ae</hi>, juventus tua:</quote> <milestone unit="section" n="e46-22"/>Ex <expan><abbr>volatilib<am>.</am></abbr><ex>us</ex></expan> nunquam fulmine tangitur. <milestone unit="section" n="e46-23"/>Pu
+                     <lb n="30"/>gna est illi in draconem, qui propterea ejus ova consectatur: <milestone unit="section" n="e46-24"/>Qu<hi rend="ligature">ae</hi> o
+                     <lb n="31" break="no"/>mnia ejus natur<hi rend="ligature">ae</hi> munera causam pr<hi rend="ligature">ae</hi>buerunt, cur <expan><abbr>Philos<am>.</am></abbr><ex>ophicam</ex></expan> aquilam
+                     <lb n="32"/>in arte sua pr<hi rend="ligature">ae</hi>dicent, e<hi rend="acute">i</hi>que lapidem assimilent, cujus rei c<hi rend="grave">u</hi>m innu
+                     <lb n="33" break="no"/>mera exempla in libris eorum sint obvia, h<hi rend="circumflex">i</hi>c plura non adferemus.
+                  </ab></div>
+               <fw type="gathering" place="bottom-right">Bb ii</fw> <fw type="catchword" place="bottom-right" xml:lang="de">Der</fw>                  
+            </div>            
+         </div>
+      </body>
+  </text>
+</TEI>

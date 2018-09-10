@@ -1,0 +1,152 @@
+<?xml version="1.1" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+     <revisionDesc>
+        <change when="2018-03-13" who="SJD">Start encoding</change>
+        <change when="2018-03-13" who="SJD">Finish draft</change>
+        <change when="2018-03-13" who="SJD">Bulk add ligatures</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
+     </revisionDesc>
+  </teiHeader>
+   
+   
+  <text>
+      <body>
+         <div type="emblem" n="e34">
+            <pb n="144" edRef="Maier1618"/>
+            <fw type="pageNum" place="top-left">144</fw><fw type="header" place="top-center">FUGA <num value="34" type="cardinal">XXXIV</num>. in <num value="8">8</num> infrà.</fw>
+            
+            <div type="fugue" xml:lang="de">
+               <head>
+
+               <lb n="2"/>Im Wasserbad wirt er empfangen <pc>/</pc> und in der Lufft geboren <pc>/</pc>
+               <lb n="3"/>wenner aber roht worden <pc>/</pc> gehet er auff dem Wasser.
+            </head>
+               
+            </div>
+            
+            <div type="epigram" xml:lang="de">
+               <head><num value="34" type="cardinal">XXXIV</num>. Epigrammatis Latini versio Germanica.</head>
+               <lg>
+                  <lb n="1"/><l>Im Wasserbad geschehn ist sein Empfängnuß <pc>/</pc> aber in Lüfften</l>
+                  <lb n="2"/><l>Ist er geborn <pc>/</pc> und roht geht uber die Wasserklüfften <pc>/</pc></l>
+                  <lb n="3"/><l>Er wirt auch weiß in der Höhe der Berg <pc>/</pc> so der Weisen allein</l>
+                  <lb n="4"/><l>Angenemmer und einig Herz enluft pfleget zusenn <pc>/</pc></l>
+                  <lb n="5"/><l>Es ist ein Stein <pc>/</pc> und auch nicht <pc>/</pc> welch himmlisch und edle Gaben <pc>/</pc></l>
+                  <lb n="6"/><l>Gelücklich ist <pc>/</pc> so jemand auß Gotts Geschenck wirt haben.</l>
+               </lg>
+            </div>
+            <fw type="catchword">Emble-</fw>
+            
+            <pb n="145" edRef="Maier1618"/>
+            
+            <fw type="header" place="top-center">Emblema <num value="34" type="cardinal">XXXIV</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi> </fw><fw type="pageNum" place="top-right">145</fw><div type="image" xml:lang="la"><head/></div>            
+            <div type="epigram" xml:lang="la">
+               <head>Epigramma <num value="34" type="cardinal">XXXIV</num>.</head>
+               <lg>
+                  <lb n="1"/><l>Balnea conceptu pueri, natalibus aër</l>
+                  <lb n="2"/><l>Splendet <g type="ampersand">et</g> hinc rubeus sub pede cernit aquas.</l>
+                  <lb n="3"/><l>F<hi rend="acute">i</hi>tque super montana cacumina candidus ille,</l>
+                  <lb n="4"/><l>Qui remanet doctis unica cura viris.</l>
+                  <lb n="5"/><l>Est lapis <g type="ampersand">et</g> non es, c<hi rend="ligature">oe</hi>li quod nobile Donum,</l>
+                  <lb n="6"/><l>Dante <hi rend="caps">Deo</hi> f<hi rend="ligature">oe</hi>li, si quis habebit, erit.</l> 
+               </lg>
+            </div>
+            
+            <fw type="gathering" place="bottom-right">T</fw> <fw type="catchword" place="bottom-right">Ho-</fw>
+            
+            <div type="discourse" xml:lang="la">
+               <pb n="146" edRef="Maier1618"/>
+               <fw type="pageNum" place="top-left"><choice><sic>149</sic><corr>146</corr></choice></fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="34">XXXIV</num>
+               </fw>
+               <div type="discourse-p1"><ab>
+                     <lb n="1"/><milestone unit="section" n="e34-01"/>Hominum opinion vel adulatio quibusdam pr<hi rend="ligature">ae</hi> reliquis mira
+                     <lb n="2" break="no"/>biles ortus, at cert<hi rend="grave">e</hi> fabulosos attribuit, veluti, <persName ref="https://viaf.org/viaf/101353608">Alexandro
+                     <lb n="3"/>Magno</persName>, non <hi rend="grave">a</hi> <persName ref="https://viaf.org/viaf/262339539">Philippo</persName> <orgName><expan><abbr>Macedon<hi rend="tilde">u</hi></abbr><ex>m</ex></expan></orgName> rege, sed <persName type="divinity">Jove Hammonio</persName>, geni
+                     <lb n="4" break="no"/>to, <persName>Romulo</persName> <g type="ampersand">et</g> <persName>Remo</persName>, <hi rend="grave">a</hi> <persName type="divinity">Marte</persName>, <persName ref="https://viaf.org/viaf/108159964">Plato</persName> ex virgine <persName ref="https://viaf.org/viaf/7775327">Perictione</persName> ex
+                     <lb n="5"/><persName type="divinity">Apollinis</persName> opressa phantasmate, nato. <milestone unit="section" n="e34-02"/>Ita Ethnici <hi rend="grave">a</hi> diis se oriundos
+                     <lb n="6"/>demonstrare voluerunt, quemadmodum <g type="ampersand">et</g> <orgName>Thessalus</orgName> <persName ref="https://viaf.org/viaf/287984736">Hippocratis</persName>
+                     <lb n="7"/>medici filius sese ab <persName type="divinity">Apolline</persName> ortum ducere <orgName>Atheniensibus</orgName> inter a
+                     <lb n="8" break="no"/>lia persuadere conatur: <milestone unit="section" n="e34-03"/>Sed nos illis non creduli, qui scimus, illos nec
+                     <lb n="9"/>homines nec deos fuisse, ad quos sui generis originem referunt; <milestone unit="section" n="e34-04"/>Et si
+                     <lb n="10"/>heroës quasi divini iner mortales extitissent, ex adulatione subdi
+                     <lb n="11" break="no"/>torum, discipulorum vel aliorum omnia sua magnifica mundo ven
+                     <lb n="12" break="no"/>ditantium, h<hi rend="ligature">ae</hi>c de iss ficta <g type="ampersand">et</g> in opinionem vulgi falsariis scriptis in
+                     <lb n="13" break="no"/>sinuata esse, animadvertimus: <milestone unit="section" n="e34-05"/>Alia res est, quod Philosophi suo filio
+                     <lb n="14"/>conceptionem <g type="ampersand">et</g> nativitatem <expan><abbr>inusitat<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> tribuant: Habet enim hic
+                     <lb n="15"/>quid peculiare pr<hi rend="ligature">ae</hi> c<hi rend="ligature">ae</hi>teris omnibus in <expan><abbr>m<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>do</abbr></expan> natis, c<hi rend="grave">u</hi>m conceptio
+                     <lb n="16"/>ejus facta sit in balneis <g type="ampersand">et</g> ortus in aëre. <milestone unit="section" n="e34-06"/>Scimus mulieres steriles ex
+                     <lb n="17"/>nimia frigiditate <g type="ampersand">et</g> siccitate <expan><abbr>mult<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> adjuvari posse balneis calidis, ut
+                     <lb n="18"/>ad conceptum reddantur habiles <g type="ampersand">et</g> apt<hi rend="ligature">ae</hi>, at quod is in balneis fieri
+                     <lb n="19"/>debeat, aut factus sit inauditum: Soli huic illud competere videtur
+                     <lb n="20"/>ob mirabilis natur<hi rend="ligature">ae</hi> potentiam ab aliis long<hi rend="grave">e</hi> diversam. <milestone unit="section" n="e34-07"/>Alibi dicunt
+                     <lb n="21"/>quod conceptio ejus fiat in fundo vasis <g type="ampersand">et</g> ortus in alembico: qu<hi rend="ligature">ae</hi>
+                     <lb n="22"/>sententia magis est conspicu<hi rend="ligature">ae</hi>: Nam aqu<hi rend="ligature">ae</hi> balneorum, si qu<hi rend="ligature">ae</hi> ad
+                     <lb n="23" break="no"/>sunt, non in summitate, nec medio vasis sed in fundo erunt, in alem
+                     <lb n="24" break="no"/>bico ver<hi rend="grave">o</hi> vapores sunt aërii: <milestone unit="section" n="e34-08"/>Conceptio itaque ubi facta est, ascen
+                     <lb n="25" break="no"/>dit in alembicum <g type="ampersand">et</g> fit ortus ejus in albo colore: In fundo nigredo
+                     <lb n="26"/>dominatur, de qua <title ref="http://viaf.org/viaf/191597728">Rosarius</title>; <milestone unit="section" n="e34-08"/><quote>Conceptio,</quote> inquit, <quote>est cum terra in ni
+                     <lb n="27" break="no"/>grum solvitur pulverem <g type="ampersand">et</g> incipit aliquantulum de mercurio reti
+                     <lb n="28" break="no"/>nere; tunc enim agit masculus in f<hi rend="ligature">oe</hi>minam, id est, azoth in terram.</quote>
+                     <lb n="29"/><milestone unit="section" n="e34-09"/>Et paulo post: <quote>Conceptio <g type="ampersand">et</g> desponsatio fit in putredine in fundo
+                     <lb n="30"/>vasis <g type="ampersand">et</g> generatio genitorum fiet in aëre, scilicet in capite vasis, id est,
+                     <lb n="31"/>alembici:</quote> <milestone unit="section" n="e34-10"/>Estque conceptio in balneis nihil aliud nisi putrefactio in
+                     <lb n="32"/>in fimo: sic enim idem <title ref="http://viaf.org/viaf/191597728">Rosarius</title> coninuat: <quote>corpus nihil facit, nisi
+                     <lb n="33"/>putrefiat, <g type="ampersand">et</g> non potest putrefieri, nisi cum mercurio:</quote> <milestone unit="section" n="e34-11"/>Et mox pu
+                     <lb break="no"/>
+                  </ab></div>
+                  <fw type="catchword" place="bottom-right">trefactio</fw>
+               <pb n="147" edRef="Maier1618"/>
+               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="34">XXXIV</num>.</fw> <fw type="pageNum" place="top-right">147</fw>
+                  <div type="discourse-p2"><ab>
+                     <lb n="1"/>trefactio fiat igne lentissimo fimi calidi <g type="ampersand">et</g> humidi, <g type="ampersand">et</g> nequaquam
+                     <lb n="2"/>alio, ita quod nihil ascendat: quia si aliquid ascenderet, fieret separa
+                     <lb n="3" break="no"/>tio partium, qu<hi rend="ligature">ae</hi> fieri non debet, donec masculus <g type="ampersand">et</g> f<hi rend="ligature">oe</hi>mina sint
+                     <lb n="4"/>perfect<hi rend="grave">e</hi> conjuncti, <g type="ampersand">et</g> unum recipit aliud, cujus signum est in super
+                     <lb n="5" break="no"/>ficie nigredo perfect<hi rend="ligature">ae</hi> solutionis. <milestone unit="section" n="e34-12"/>Ortus ejus est albus, qui fit in ca
+                     <lb n="6" break="no"/>cumine montium, hoc est, in aëre seu alembico; Quod per <persName ref="https://viaf.org/viaf/79142489">Rosinum</persName>
+                     <lb n="7"/>ad <persName>Euthicam</persName> sic explicatur: <quote>Dixit sapiens. Accipite res <hi rend="grave">e</hi> mineris
+                     <lb n="8"/>suis <g type="ampersand">et</g> exaltate eas ad altiora loca <g type="ampersand">et</g> mittite eas <hi rend="grave">a</hi> cacumine monti
+                     <lb n="9" break="no"/>um suorum <g type="ampersand">et</g> reducite eas ad radices suas:</quote> <milestone unit="section" n="e34-13"/>Et post: <quote>Per montes au
+                     <lb n="10" break="no"/>tem significavit cucurbitas, <g type="ampersand">et</g> per cacumina montium alembica:
+                     <lb n="11"/>Mittere autem secund<hi rend="grave">u</hi>m similitudinem est recipere aquam illa
+                     <lb n="12" break="no"/>rum per alembicum in recipiente: Reducere ver<hi rend="grave">o</hi> super radices, est
+                     <lb n="13"/>super hoc, <hi rend="grave">a</hi> quo prodeunt: <g type="ampersand">et</g> nominavit cucurbitas montes, quia in
+                     <lb n="14"/>montibus invenitur sol <g type="ampersand">et</g> luna: sic etiam in his montibus qui sunt
+                     <lb n="15"/>cucurbit<hi rend="ligature">ae</hi>, generantur Sol <g type="ampersand">et</g> Luna eorum.</quote> <milestone unit="section" n="e34-14"/>H<hi rend="ligature">ae</hi>c ille: <quote>Postea fi rube
+                     <lb n="16" break="no"/>us <g type="ampersand">et</g> incipit ire super aquas, hoc est super metalla in igne liquefacta,
+                     <lb n="17"/>qu<hi rend="ligature">ae</hi> stant instar aqu<hi rend="ligature">ae</hi> mercurialis: Est enim hic dominus aquarum,
+                     <lb n="18"/>in quas imperium exercet, instar <persName type="divinity">Neptuni</persName> est<hi rend="acute">q</hi>ue rex maris <g type="ampersand">et</g> pos
+                     <lb n="19" break="no"/>sessor montium.</quote> <milestone unit="section" n="e34-15"/>De <persName ref="https://viaf.org/viaf/282770127"><hi rend="italic">Xerxe</hi></persName> <orgName>Persarum</orgName> rege tradunt, quod expeditio
+                     <lb n="20" break="no"/>nem moturus in <placeName>Gr<hi rend="ligature">ae</hi>ciam</placeName> legationem instituerit ad mare <g type="ampersand">et</g> mon
+                     <lb n="21" break="no"/>tem <placeName>Athum</placeName>, ne sibi injuriam facerent, illud fluctuum, hic <expan><abbr>flammar<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>
+                     <lb n="22"/><hi rend="ligature">ae</hi>stu, ali<hi rend="grave">a</hi>s se p<hi rend="ligature">oe</hi>nam de utroque sumpturum esse. <milestone unit="section" n="e34-16"/>Ver<hi rend="grave">u</hi>m surdis nar
+                     <lb n="23" break="no"/>rata est fabula, <g type="ampersand">et</g> mare aliquot ex ejus navibus submersit, <placeName>Athos</placeName> ve
+                     <lb n="24" break="no"/>r<hi rend="grave">o</hi> incendio non paucas perdidit. <milestone unit="section" n="e34-17"/>Hinc iratus rex, tanquam maris <g type="ampersand">et</g>
+                     <lb n="25"/>montium dominus, illi certum numerum plagarum infligi iussit,
+                     <lb n="26"/>montis ver<hi rend="grave">o</hi> magnam partem in mare abjecit: <milestone unit="section" n="e34-18"/>Sed h<hi rend="ligature">ae</hi>c magis au
+                     <lb n="27" break="no"/>daciam, qu<hi rend="grave">a</hi>m prudentiam tanti regis demonstrant: <milestone unit="section" n="e34-19"/>Hic, de quo 
+                     <lb n="28"/>nobis sermo, omnes aquas ab obstaculis <g type="ampersand">et</g> immunditiis purgat non
+                     <lb n="29"/>edicto, sed facto, <g type="ampersand">et</g> liber<hi rend="grave">e</hi> per eas incedit, quas quoque (quod am
+                     <lb n="30" break="no"/>plius est) congelat, ut currus su<hi rend="circumflex">a</hi> duritie sustineant, qu<hi rend="ligature">ae</hi> antea tul<hi rend="circumflex">e</hi>re
+                     <lb n="31"/>naves: <milestone unit="section" n="e34-20"/>Ipse montes ex<hi rend="ligature">ae</hi>quat vallibus <g type="ampersand">et</g> flammas ignis non reformi
+                     <lb n="32" break="no"/>dat, ide<hi rend="acute">o</hi>que quocuncque vult, ab <placeName><persName type="divinity">Herculis</persName> columnis</placeName> in ultimam
+                     <lb n="33"/><placeName>Indi<hi rend="ligature">ae</hi></placeName> oram ad <placeName><persName type="divinity">Dionysi</persName> columnas</placeName> liber<hi rend="grave">e</hi> contendit.
+                  </ab></div>
+                <fw type="gathering" place="bottom-right">T ii</fw> <fw type="catchword" place="bottom-right" xml:lang="de">Wie</fw>                  
+            </div>            
+         </div>
+      </body>
+  </text>
+</TEI>

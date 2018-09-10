@@ -1,0 +1,148 @@
+<?xml version="1.1" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+     <revisionDesc>
+        <change when="2018-03-18" who="SJD">Start encoding</change>
+        <change when="2018-03-18" who="SJD">Finish draft</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
+     </revisionDesc>
+  </teiHeader>
+   
+   
+  <text>
+      <body>
+         <div type="emblem" n="e45">
+            <pb n="188" edRef="Maier1618"/>
+            <fw type="pageNum" place="top-left">188</fw><fw type="header" place="top-center">FUGA <num value="45" type="cardinal">XLV</num>. in <num value="3">3</num>. <expan><abbr>sup</abbr><ex>rà</ex></expan>. vertendo <expan><abbr>Bas<am>.</am></abbr><ex>sum</ex></expan> <g type="ampersand">et</g> <expan><abbr>incip<am>.</am></abbr><ex>e</ex></expan> ab initio in clave d.</fw>
+            
+            <div type="fugue" xml:lang="de">
+               <head>
+
+               <lb n="2"/>Die Sonn und ihr Schatten vollnbringen
+               <lb n="3"/>das Werck.
+            </head>
+               
+            </div>
+            
+            <div type="epigram" xml:lang="de">
+               <head><num value="45" type="cardinal">XLV</num>. Epigrammatis Latini versio Germanica.</head>
+               <lg>
+                  <lb n="1"/><l>Die <expan><abbr>So<hi rend="tilde">n</hi></abbr><ex>n</ex></expan> deß <expan><abbr>Hi<hi rend="tilde">m</hi></abbr><ex>m</ex><abbr>els</abbr></expan> klares Liecht kan nicht dicke Leiber durchgehn <pc>/</pc></l>
+                  <lb n="2"/><l>Drumb bleibt ein Schatten an den Orten <pc>/</pc> so sie nicht kan sehn <pc>/</pc></l>
+                  <lb n="3"/><l>Ob wol derselbige ist sehr gering uner den Dingen allen <pc>/</pc></l>
+                  <lb n="4"/><l>Jedoch thut er nüzlich der <hi rend="latin">Astronomnis</hi> gefallen <pc>/</pc></l> 
+                  <lb n="5"/><l>Aber mehr Geschenck geben hat den Weisen die Sonne und ihr Schatt <pc>/</pc></l>
+                  <lb n="6"/><l>Dann sie die gülden Kunst vollenführen mit der That.</l>
+               </lg>
+            </div>
+            <fw type="catchword">Emble-</fw>
+            
+            <pb n="189" edRef="Maier1618"/>
+            
+            <fw type="header" place="top-center">Emblema <num value="45" type="cardinal">XLV</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">189</fw><div type="image" xml:lang="la"><head/></div>            
+            <div type="epigram" xml:lang="la">
+               <head>Epigramma <num value="45" type="cardinal">XLV</num>.</head>
+               <lg>
+                  <lb n="1"/><l>Sol, fax clara poli, non corpora densa pen<hi rend="acute">e</hi>trat,</l>
+                  <lb n="2"/><l>Hinc illi adversis partibus umbra manet:</l>
+                  <lb n="3"/><l>Vilior h<hi rend="ligature">ae</hi>c rebus quamvis est omnibus, usu</l>
+                  <lb n="4"/><l>Attamen Astronomis commoda multa tulit:</l>
+                  <lb n="5"/><l>Plur<hi rend="ligature">ae</hi> Sophis sed dona dedit <hi rend="caps">Sol</hi>, ejus <g type="ampersand">et</g> umbra,</l>
+                  <lb n="6"/><l>Aurifer<hi rend="ligature">ae</hi> quoniam perficit artis opus.</l> 
+               </lg>
+            </div>
+            
+            <fw type="gathering" place="bottom-right">Aa 3</fw> <fw type="catchword" place="bottom-right">Quem-</fw>
+            
+            <div type="discourse" xml:lang="la">
+               <pb n="190" edRef="Maier1618"/>
+               <fw type="pageNum" place="top-left">190</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="45">XLV</num>.</fw>
+                  <div type="discourse-p1"><ab>
+                     <lb n="1"/><milestone unit="section" n="e45-01"/><hi rend="caps">Quemadmodum</hi> in Palatio rotundo seu form<hi rend="ligature">ae</hi> sph<hi rend="ligature">ae</hi>ric<hi rend="ligature">ae</hi>, uno
+                     <lb n="2"/>loco ignis incensus illustrat circum circa omnes parietes supe
+                     <lb n="3" break="no"/>riores <g type="ampersand">et</g> inferiores partes, exceptis iis ubi <expan><abbr>m<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>sa</abbr></expan> vel tabula in medio
+                     <lb n="4"/>consistens suo objectu impediat <g type="ampersand">et</g> umbram tenebrosam admittat,
+                     <lb n="5"/>ita <g type="ampersand">et</g> Sol in magno illo c<hi rend="ligature">oe</hi>li palatio sive Theatro c<hi rend="ligature">oe</hi>lato constitutus
+                     <lb n="6"/>omnem c<hi rend="ligature">oe</hi>li concavitatem, contenta in e<hi rend="circumflex">a</hi> diaphana <g type="ampersand">et</g> lucis rece
+                     <lb n="7" break="no"/>ptiva corpora, hoc est, stellas quascunque, errantes <g type="ampersand">et</g> fixas, radiis suis
+                     <lb n="8"/>illuminat, nisi ubi Terr<hi rend="ligature">ae</hi> intermedi<hi rend="ligature">ae</hi> densitas prohibeat: <milestone unit="section" n="e45-02"/>Ibi enim
+                     <lb n="9"/>umbra nigra <g type="ampersand">et</g> tenebrosa, qu<hi rend="ligature">ae</hi> nox dicitur, tam diu permanet, do
+                     <lb n="10" break="no"/>nec solis pr<hi rend="ligature">ae</hi>senti<hi rend="circumflex">a</hi> fugetur <g type="ampersand">et</g> lux ejus vice fundatur <g type="ampersand">et</g> conspiciatur.
+                     <lb n="11"/><milestone unit="section" n="e45-03"/>Est itaque umbra <g type="ampersand">et</g> nox solaris lucis privatio seu absentia, dies <expan><abbr>ec<hi rend="tilde">o</hi></abbr><ex>n</ex>
+                     <lb n="12" break="no"/><abbr>tra</abbr></expan> irradiatio <g type="ampersand">et</g> circumfusio. <milestone unit="section" n="e45-04"/>Umbra est, qu<hi rend="ligature">ae</hi> solis aspectum tolera
+                     <lb n="13" break="no"/>re nequit, idcirco fugiens <g type="ampersand">et</g> se abscondens nunc ab hac, nunc ab illa
+                     <lb n="14"/>parte terr<hi rend="ligature">ae</hi>, pro ut sol est ex opposito. <milestone unit="section" n="e45-05"/>Nunquam Sol <g type="ampersand">et</g> umbra se in
+                     <lb n="15" break="no"/>vicem viderun, quamvis in momento quovis, si natura admitteret,
+                     <lb n="16"/>possent; sed sol ut inimicam sibi audiens semper illi insistit fugienti,
+                     <lb n="17"/>nec unquam defessam capere potest, ut pulchr<hi rend="grave">e</hi> <persName ref="https://viaf.org/viaf/105874857">Buchananus</persName> in <title>li
+                     <lb n="18" break="no"/>bro sph<hi rend="ligature">ae</hi>rico</title> cecinit<unclear>.</unclear> <milestone unit="section" n="e45-06"/>Ad imitationem <g type="ampersand">et</g> exemplum magni illius so
+                     <lb n="19" break="no"/>lis, ej<hi rend="acute">u</hi>sque umbr<hi rend="ligature">ae</hi>, Philosophi observ<hi rend="circumflex">a</hi>runt <g type="ampersand">et</g> suo soli adesse <expan><abbr>umvbr<hi rend="tilde">a</hi></abbr><ex>m</ex></expan>
+                     <lb n="20"/>nigram, nebulosam <g type="ampersand">et</g> fugacem: Hinc <persName ref="https://viaf.org/viaf/24571510">Hermes</persName>, <quote>Fili</quote>, inquit, <quote>extrahe
+                     <lb n="21"/><hi rend="grave">a</hi> radio suam umbram</quote>, hoc est, vide ut solem tuum circum ducas per
+                     <lb n="22"/>primum mobile, cui <persName type="divinity">Vulcanus</persName> pr<hi rend="ligature">ae</hi>ficitur, ut <g type="ampersand">et</g> illa Terr<hi rend="ligature">ae</hi> ru<hi rend="ligature">ae</hi> pars,
+                     <lb n="23"/>qu<hi rend="ligature">ae</hi> nunc umbros<hi rend="circumflex">a</hi> nocte tegitur, clar<hi rend="circumflex">a</hi> fruatur luce solari: <milestone unit="section" n="e45-07"/>Nisi e
+                     <lb n="24" break="no"/>nim per motum primum totum Firmamentum c<hi rend="ligature">oe</hi>li cum omnibus
+                     <lb n="25"/>contentis singulis diebus naturalibus, hoc est, <num value="24" type="cardinal">viginti quatuor</num> horis
+                     <lb n="26"/>semel circumduceretur, sed saltem motu suo proprio, secundo <g type="ampersand">et</g>
+                     <lb n="27"/>annuo dicto Sol moveretur, qui infra nos sunt Antipodes, fer<hi rend="grave">e</hi> seme
+                     <lb n="28" break="no"/>stri temporis spacio noctem habere <g type="ampersand">et</g> nos diem unum contingeret,
+                     <lb n="29"/><g type="ampersand">et</g> post vice versa illos diem <g type="ampersand">et</g> nos noctem: <milestone unit="section" n="e45-08"/>ut sic totus annus ex una
+                     <lb n="30"/>nocte <g type="ampersand">et</g> die constaret, veluti nunc sub utroque polo h<hi rend="ligature">ae</hi> vices expe
+                     <lb n="31" break="no"/>rimento <g type="ampersand">et</g> ratione verissim<hi rend="ligature">ae</hi> comprobantur. <milestone unit="section" n="e45-09"/>At providenti<hi rend="ligature">ae</hi> Divi
+                     <lb n="32" break="no"/>n<hi rend="ligature">ae</hi> long<hi rend="grave">e</hi> aliter visum fuit, qu<hi rend="ligature">ae</hi> ide<hi rend="grave">o</hi> duplices motus ordinavit pla
+                     <lb n="33" break="no"/>netarum, primum <g type="ampersand">et</g> secundum, <g type="ampersand">et</g> sic annum in multos dies distri
+                     <lb break="no"/>
+                  </ab></div>
+                  <fw type="catchword" place="bottom-right">buit:</fw>
+               <pb n="191" edRef="Maier1618"/>
+               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="45">XLV</num>.</fw> <fw type="pageNum" place="top-right">191</fw>
+                  <div type="discourse-p2"><ab>
+                     <lb n="1"/>buit: <milestone unit="section" n="e45-10"/>Umbra autem illa <g type="ampersand">et</g> sol diem <g type="ampersand">et</g> noctem faciunt simul, quod
+                     <lb n="2"/>sol per se solus non posset, cujus est illuminare omnia opposita loca
+                     <lb n="3"/><g type="ampersand">et</g> corpora, non autem umbram facere, nisi per accidens su<hi rend="circumflex">a</hi> absen
+                     <lb n="4" break="no"/>ti<hi rend="circumflex">a</hi>.<milestone unit="section" n="e45-11"/>Ita <g type="ampersand">et</g> Sol Philosophicus cum sua umbra facit diem, hoc est, <expan><abbr>luc<hi rend="tilde">e</hi></abbr><ex>m</ex></expan>
+                     <lb n="5"/><g type="ampersand">et</g> noctem seu tenebras, nempe <persName type="divinity">Latonam</persName> seu magnesiam, cujus
+                     <lb n="6"/>umbram ignito pharmaco delendam <g type="ampersand">et</g> comburendam esse tradit
+                     <lb n="7"/><persName ref="https://viaf.org/viaf/228724785">Democritus</persName>, ut <expan><abbr>lib<am>.</am></abbr><ex>ro</ex></expan> <num value="3" type="ordinal">3</num> <title>Aure<hi rend="ligature">ae</hi> mens<hi rend="ligature">ae</hi></title> patet in initio. <milestone unit="section" n="e45-12"/>Umbrarum uti
+                     <lb n="8" break="no"/>litas in Astronomicis ade<hi rend="grave">o</hi> magna est, ut sine iis illa scientia absolvi
+                     <lb n="9"/>vix possit, Chymici quoque suis umbris asscribunt, quod eorum ars
+                     <lb n="10"/>ad perfectionem veniat; <milestone unit="section" n="e45-13"/>Quid enim Sol hic sine umbra? Quod pi
+                     <lb n="11" break="no"/>stillum sine campana: Illud quidem facit motum primum, ut soni
+                     <lb n="12" break="no"/>tus detur, at h<hi rend="ligature">ae</hi>c dat sonitum; illud est plectrum, h<hi rend="ligature">ae</hi>c organum; il
+                     <lb n="13" break="no"/>lud lingua, hoc os magnum: <milestone unit="section" n="e45-14"/>Umbra res vilissima est, non Enti pro
+                     <lb n="14" break="no"/>xima, sic <g type="ampersand">et</g> Philosophorum umbra est quid nigrum nigrius nigro,
+                     <lb n="15"/>ut vocant, vel vilius alg<hi rend="circumflex">a</hi>, non propter se, sed hominum opinionem <g type="ampersand">et</g>
+                     <lb n="16"/>copiam; <milestone unit="section" n="e45-15"/>Igne quid utilius, quid aqua preciosius, quid terra amabi
+                     <lb n="17" break="no"/>lius, qu<hi rend="ligature">ae</hi> dat flores <g type="ampersand">et</g> amabilia omnia? quid aëre jucundius, quo in
+                     <lb n="18" break="no"/>tercluso, omnia jucunda esse desinunt: <milestone unit="section" n="e45-16"/>Attamen, quia prostent ad
+                     <lb n="19"/>hominum usus in lat<hi rend="grave">e</hi> patentibus suis sph<hi rend="ligature">ae</hi>ris, vilissima censetur,
+                     <lb n="20"/>pr<hi rend="ligature">ae</hi>poster<hi rend="circumflex">a</hi> imaginatione. <milestone unit="section" n="e45-17"/>Sic <g type="ampersand">et</g> umbra taxatur <g type="ampersand">et</g> communis <g type="ampersand">et</g>
+                     <lb n="21"/>Philosophica; Qui in umbris subterraneis diu degunt, si in claram
+                     <lb n="22"/>solis lucem subit<hi rend="grave">o</hi> producantur, amittunt visum <g type="ampersand">et</g> aciem oculo
+                     <lb n="23" break="no"/>rum; Ita qui in sola umbra Philosophica morantur <g type="ampersand">et</g> operantur, nec
+                     <lb n="24"/>ei solem adjungunt, judicio <g type="ampersand">et</g> oculis menis privantur: effect<hi rend="acute">u</hi>que
+                     <lb n="25"/>frustrantur. <milestone unit="section" n="e45-18"/>In meridiem sole c<hi rend="ligature">oe</hi>lesti elevato major est calor, est <g type="ampersand">et</g>
+                     <lb n="26"/>minor umbra; sic quoque hic calore aucto diminuitur umbra <g type="ampersand">et</g> <hi rend="grave">e</hi>
+                     <lb n="27" break="no"/>converso; <milestone unit="section" n="e45-19"/>Incipiendum itaque sole <hi rend="grave">a</hi> meridionali latere ad nostrum
+                     <lb n="28"/>verticem se iterum flectente, in Capricorno; <g type="ampersand">et</g> prima operatio us
+                     <lb n="29" break="no"/>que ad Arietem erit absoluta, tum incipit opus mulierum, usque ad
+                     <lb n="30"/>Leonem; <g type="ampersand">et</g> post labor ex labore provenit, donec annus capite cau
+                     <lb n="31" break="no"/>dam apprehendat, ut anguis, hoc est, absolutus sit.
+                  </ab></div>
+               <fw type="catchword" place="bottom-right" xml:lang="de">Zweij</fw>                  
+            </div>            
+         </div>
+      </body>
+  </text>
+</TEI>

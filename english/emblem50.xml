@@ -24,6 +24,7 @@
                 
                 
                 <div type="title" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="209"/>
                     <head>
                         <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 50. Of the Secrets of Nature.
                         <lb/>The Dragon kills the woman, and <choice><orig>shee</orig><reg>she</reg></choice> him, and are both bloody
@@ -47,6 +48,7 @@
                 
                 <pb n="156"/> 
                 <div type="discourse" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="210"/>
                     <head rend="italics">Discourse 50.</head>
                     <ab> 
                         <lb/><milestone unit="section" n="e50-01" />The mansion of Dragons is in caverns of the earth, but the residence 
@@ -86,7 +88,7 @@
                         <lb/>from their wounds, wherewith they are <choice><orig>embrued</orig><reg>imbrued</reg></choice>. But here the element
                         <lb/>of earth and fire is understood by the dragon, and by the woman the
                         <lb/>element of <choice><orig>aire</orig><reg>air</reg></choice> and water; <milestone unit="section" n="e50-10" />whereupon <choice><orig>sayth</orig><reg>says</reg></choice> Clangor buccinæ: The Dragon
-                        <lb/>is the matter remaining in the <choice><orig>bottome</orig><reg>bottom</reg></choice> after the water be <choice><orig>distilld</orig><reg>distilled</reg></choice> from
+                        <lb/>is the matter remaining in the <choice><orig>bottome</orig><reg>bottom</reg></choice> <milestone unit="page" ed="Meier" n="211"/>after the water be <choice><orig>distilld</orig><reg>distilled</reg></choice> from
                         <lb/>it: <milestone unit="section" n="e50-11" />And according to Hermes: The water of <choice><orig>aire</orig><reg>air</reg></choice> being between heaven and
                         <lb/>earth is the life of every thing, for that water dissolves a body into a <pc>-</pc>
                         

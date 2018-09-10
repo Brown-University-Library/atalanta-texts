@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.1" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -17,6 +14,7 @@
       </fileDesc>
      <revisionDesc>
         <change when="2018-01-30" who="SJD">Start encoding</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
      </revisionDesc>
   </teiHeader>
    
@@ -24,17 +22,15 @@
   <text>
       <body>
          <div type="emblem" n="e24">
-            <pb n="104"/>
-            <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">104</fw> FUGA XXIV. in 5. seu 12. infrà.
+            <pb n="104" edRef="Maier1618"/>
+            <fw type="pageNum" place="top-left">104</fw><fw type="header" place="top-center">FUGA XXIV. in 5. seu 12. infrà.</fw>
+            
+            <div type="fugue" xml:lang="de">
+               <head>
+
                <lb n="2"/>Der Wolff den König gefressen hat <pc>/</pc> und wie er
                <lb n="3"/>verbrant <pc>/</pc> wider gegeben.
             </head>
-            
-            <div type="fugue">
-               <head>
-                  
-               </head>
                
             </div>
             
@@ -51,18 +47,9 @@
             </div>
             <fw type="catchword">Emble-</fw>
             
-            <pb n="105"/>
+            <pb n="105" edRef="Maier1618"/>
             
-            <div type="image-caption">
-               <head>
-                  <lb n="1"/>Emblema XXIV. De Secretis Natur<hi rend="ligature">ae</hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">105</fw>
-                  <lb n="2"/>Regem lupus voravit <g type="ampersand">et</g> vit<hi rend="ligature">ae</hi> crematus reddidit.
-               </head>
-               
-            </div>
-            
-            <figure><graphic url=""></graphic></figure>
-            
+            <fw type="header" place="top-center">Emblema XXIV. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">105</fw><div type="image" xml:lang="la"><head/></div>            
             <div type="epigram" xml:lang="la">
                <head>Epigramma XXIV.</head>
                <lg>
@@ -78,9 +65,9 @@
             <fw type="gathering" place="bottom-right">O</fw> <fw type="catchword" place="bottom-right">Quanta</fw>
             
             <div type="discourse" xml:lang="la">
-               <pb n="106"/>
-               <head><fw type="pageNum" place="top-left">106</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="24">XXIV</num>.</head>
-                  <ab>
+               <pb n="106" edRef="Maier1618"/>
+               <fw type="pageNum" place="top-left">106</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="24">XXIV</num>.</fw>
+                  <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e24-01"/>Quanta sit lupi fames <g type="ampersand">et</g> voracitas, vulgo notum est: ubi enim
                      <lb n="2"/>alimenta desint, in summa fame vescitur terr<hi rend="circumflex">a</hi>; qu<hi rend="circumflex">a</hi> <expan><abbr>quoq<am>;</am></abbr><ex>ue</ex></expan> ven
                      <lb n="3" break="no"/>trem explere traditur, si magna armenta aggressurus sit, ut ill<hi rend="circumflex">a</hi> quasi
@@ -114,11 +101,11 @@
                      <lb n="31" break="no"/>terimendus, si ventrem ita oner<hi rend="circumflex">a</hi>rit, Rex ver<hi rend="grave">o</hi> licet mortuus, tamen
                      <lb n="32"/>Martiali vel Cygnea vi pollet, ut vulnerari nec absumi possit. <milestone unit="section" n="e24-12"/>At ubi
                      <lb n="33"/>venandus erit hic lupus, <g type="ampersand">et</g> unde Rex accipiendus? Respondent
-                  </ab>
+                  </ab></div>
                   <fw type="catchword" place="bottom-right">Philos.</fw>
-               <pb n="107"/>
-               <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="24">XXIV</num>. <fw type="pageNum" place="top-right">107</fw></head>
-                  <ab>
+               <pb n="107" edRef="Maier1618"/>
+               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="24">XXIV</num>.</fw> <fw type="pageNum" place="top-right">107</fw>
+                  <div type="discourse-p2"><ab>
                      <lb n="1"/><expan><abbr>Philos<am>.</am></abbr><ex>ophi</ex></expan> quod in montibus <g type="ampersand">et</g> vallibus passim lupus erret, ut pr<hi rend="ligature">ae</hi>dam
                      <lb n="2"/>captet, qui ex antris suis extrahendus <g type="ampersand">et</g> ad usum servandus erit: <milestone unit="section" n="e24-13"/>Rex
                      <lb n="3"/>ver<hi rend="grave">o</hi> ab oriente veniens diuturni itineris fastidio fatigatus tandem
@@ -152,7 +139,7 @@
                      <lb n="31" break="no"/>va subvehere possunt, vel etiam magna supprimere, si velint. <milestone unit="section" n="e24-22"/>Exem
                      <lb n="32" break="no"/>plo sint civitates ab initio parv<hi rend="ligature">ae</hi>, qu<hi rend="ligature">ae</hi> post magnis regibus imper<hi rend="circumflex">a</hi>
                      <lb n="33" break="no"/>runt <g type="ampersand">et</g> ex pagis oppida spaciosa populosa<hi rend="acute">q</hi>ue fecerunt.
-                  </ab>
+                  </ab></div>
                <fw type="gathering" place="bottom-right">N ii</fw> <fw type="catchword" place="bottom-right" xml:lang="de">Der</fw>                  
             </div>
             

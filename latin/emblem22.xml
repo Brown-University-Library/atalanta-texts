@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.1" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -17,6 +14,7 @@
       </fileDesc>
      <revisionDesc>
         <change when="2018-01-27" who="SJD">Start encoding</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
      </revisionDesc>
   </teiHeader>
    
@@ -24,17 +22,15 @@
   <text>
       <body>
          <div type="emblem" n="e22">
-            <pb n="96"/>
-            <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">96</fw> FUGA XXII. in 7. suprà.
+            <pb n="96" edRef="Maier1618"/>
+            <fw type="pageNum" place="top-left">96</fw><fw type="header" place="top-center">FUGA XXII. in 7. suprà.</fw>
+            
+            <div type="fugue" xml:lang="de">
+               <head>
+
                <lb n="2"/>Wenn du hast das weisse Bleij <pc>/</pc> so mache der Weiberwerck <pc>/</pc>
                <lb n="3"/>das ist <pc>/</pc> koche.
             </head>
-            
-            <div type="fugue">
-               <head>
-                  
-               </head>
                
             </div>
             
@@ -51,18 +47,9 @@
             </div>
             <fw type="catchword">Emble-</fw>
             
-            <pb n="97"/>
+            <pb n="97" edRef="Maier1618"/>
             
-            <div type="image-caption">
-               <head>
-                  <lb n="1"/>Emblema XXII. De Secretis Natur<hi rend="ligature">ae</hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">97</fw>
-                  <lb n="2"/>Plumbo habito candido fac opus mulierum, hoc est, <hi rend="caps">coque</hi>:
-               </head>
-               
-            </div>
-            
-            <figure><graphic url=""></graphic></figure>
-            
+            <fw type="header" place="top-center">Emblema XXII. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">97</fw><div type="image" xml:lang="la"><head/></div>            
             <div type="epigram" xml:lang="la">
                <head>Epigramma XXII.</head>
                <lg>
@@ -78,9 +65,9 @@
             <fw type="gathering" place="bottom-right">N</fw> <fw type="catchword" place="bottom-right">Quem-</fw>
             
             <div type="discourse" xml:lang="la">
-               <pb n="98"/>
-               <head><fw type="pageNum" place="top-left">98</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="22">XXII</num>.</head>
-                  <ab>
+               <pb n="98" edRef="Maier1618"/>
+               <fw type="pageNum" place="top-left">98</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="22">XXII</num>.</fw>
+                  <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e22-01"/>Quemadmodum in triviis statu<hi rend="ligature">ae</hi> Mercuriales un<hi rend="grave">a</hi> cum indice
                      <lb n="2"/><g type="ampersand">et</g> inscriptione poni solent ad deducendum ancipites viatores
                      <lb n="3"/>in viam rectam, sic quoque <hi rend="grave">a</hi> Philosophis sententi<hi rend="ligature">ae</hi> qu<hi rend="ligature">ae</hi>dam acut<hi rend="ligature">ae</hi>
@@ -114,11 +101,11 @@
                      <lb n="31" break="no"/><abbr>didum</abbr></expan> pr<hi rend="ligature">ae</hi>paratum, nati sunt planet<hi rend="ligature">ae</hi> reliqui, ut <persName>Mars</persName> ex <persName>Junone</persName>.
                      <lb n="32"/><milestone unit="section" n="e22-11"/><persName>Mercurius</persName> ex <persName>Maja</persName>, <persName>Atlantis</persName> montis <placeName>Mauritani<hi rend="ligature">ae</hi></placeName> filia, <persName>Luna</persName> <g type="ampersand">et</g> <persName>Sol</persName> ex
                      <lb n="33"/><persName>Latona</persName>: qui quatuor sol<hi rend="circumflex">a</hi> coctione seu opere mulierum, in lucem
-                  </ab>
+                  </ab></div>
                   <fw type="catchword" place="bottom-right">pro-</fw>
-               <pb n="99"/>
-               <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="22">XXII</num>. <fw type="pageNum" place="top-right">99</fw></head>
-                  <ab>
+               <pb n="99" edRef="Maier1618"/>
+               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="22">XXII</num>.</fw> <fw type="pageNum" place="top-right">99</fw>
+                  <div type="discourse-p2"><ab>
                      <lb n="1"/>prodeunt. <milestone unit="section" n="e22-12"/>Per coctionem ver<hi rend="grave">o</hi> maturatio, <g type="ampersand">et</g> crudiorum partium
                      <lb n="2"/>dispersio intelligitur, qu<hi rend="ligature">ae</hi> fit per <persName><expan><abbr>Vulcan<hi rend="tilde">u</hi></abbr><ex>m</ex></expan></persName> in Philosophi<hi rend="ligature">ae</hi> vasis: Non
                      <lb n="3"/>enim arbitrandum est, quod vulgaris sit coctio, quantum ad ope
@@ -128,7 +115,7 @@
                      <lb n="7"/>subjectum tractat, id in aqua propria, qu<hi rend="ligature">ae</hi> aceto acerrimo fortior
                      <lb n="8"/>est macerando, colliquefaciendo, solvendo, coagulando <g type="ampersand">et</g> fixando
                      <lb n="9"/>in <persName>Hermetis</persName> vase, cujus junctur<hi rend="ligature">ae</hi> sint strictissim<hi rend="grave">e</hi> claus<hi rend="ligature">ae</hi>, ut dece, ne
-                     <lb n="10"/>aqua exhalet, <g type="ampersand">et</g> id, <expan><abbr><hi rend="strok">q</hi></abbr><ex>uod</ex></expan>in vase est, <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>m</ex><abbr>buratur</abbr></expan>: <milestone unit="section" n="e22-14"/>Hoc est vas supra vas <g type="ampersand">et</g>
+                     <lb n="10"/>aqua exhalet, <g type="ampersand">et</g> id, <expan><abbr><hi rend="stroke">q</hi></abbr><ex>uod</ex></expan>in vase est, <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>m</ex><abbr>buratur</abbr></expan>: <milestone unit="section" n="e22-14"/>Hoc est vas supra vas <g type="ampersand">et</g>
                      <lb n="11"/>olla <expan><abbr>Philos<am>.</am></abbr><ex>ophica</ex></expan> balneum laconicum, in quo senex sudat: <milestone unit="section" n="e22-15"/>Sunt, qui pisces,
                      <lb n="12"/>carabos, cancros vel pisa recentia bulliant in duplici olla, ita quod
                      <lb n="13"/>jam dicta sint in olla superiori, <g type="ampersand">et</g> aqua sola in inferiori, <expan><abbr>sint<hi rend="acute">q</hi><am>;</am></abbr><ex>ue</ex></expan> <expan><abbr>oll</abbr><ex>a</ex><abbr><hi rend="hook">e</hi></abbr></expan> una
@@ -145,7 +132,7 @@
                      <lb n="24"/><g type="ampersand">et</g> in aërium vaporem transmutatio, c<hi rend="grave">u</hi>m bull<hi rend="ligature">ae</hi> sine aër intra aquam
                      <lb n="25"/>contentus, qu<hi rend="ligature">ae</hi> facil<hi rend="grave">e</hi> evanescunt, aëre ex aquis in suam sph<hi rend="ligature">ae</hi>ram
                      <lb n="26"/>se conferente, <g type="ampersand">et</g> aqua in centrum suum subsidente.
-                  </ab>
+                  </ab></div>
                <fw type="gathering" place="bottom-right">N ii</fw><fw type="catchword" place="bottom-right" xml:lang="de">Es</fw>                  
             </div>
             

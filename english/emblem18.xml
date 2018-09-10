@@ -24,6 +24,7 @@
                 
                 
                 <div type="title" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="081"/>
                     <head>
                         <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 18. Of the Secrets of Nature.
                         <lb/>Fire loves to <choice><orig>burne</orig><reg>burn</reg></choice>, not to aurify, but gold.</seg>
@@ -46,6 +47,7 @@
                 
                 <pb n="60"/> 
                 <div type="discourse" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="082"/>
                     <head rend="italics">Discourse 18.</head>
                     <ab> 
                         <lb/>Natures way of operating in all <choice><orig>individualls</orig><reg>individuals</reg></choice> of the universe is to use one<milestone unit="section" n="e03-01" /> 
@@ -83,7 +85,7 @@
                         <lb/>able to increase or multiply virtues in the Load<pc rend="double-hyphen">-</pc>stone, as the like <choice><orig>wee</orig><reg>we</reg></choice> have
                         <lb/>seen <choice><orig>sett</orig><reg>set</reg></choice> in Silver, which being scarce one pound weight attracted and held up an
                         <lb/>iron anchor of 28 pounds, which would have been impossible, if the virtue <pc>-</pc>
-                        <lb/>had not been <choice><orig>increasd</orig><reg>increased</reg></choice> and made stronger in it, which without doubt was <pc>-</pc>
+                        <lb/>had not been <choice><orig>increasd</orig><reg>increased</reg></choice> and made stronger <milestone unit="page" ed="Meier" n="083"/>in it, which without doubt was <pc>-</pc>
                         <lb/>done by revocation of the dispersed virtues as it were into one point or pole, <pc>-</pc>
                         <lb/>or by the attraction of the same out of a great body into a <choice><orig>lesse</orig><reg>less</reg></choice>: Others are
                         <lb/>found, who say that a plumbifying Stone may be made by the Sulphurous

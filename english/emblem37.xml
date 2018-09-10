@@ -24,6 +24,7 @@
                 
                 
                 <div type="title" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="157"/>
                     <head>
                         <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 37. Of the Secrets of Nature.
                         <lb/>Three things are sufficient for the Magistery, the white fume, that
@@ -48,6 +49,7 @@
                 
                 <pb n="117"/> 
                 <div type="discourse" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="158"/>
                     <head rend="italics">Discourse 37.</head>
                     <ab> 
                         <lb/>As three <choice><orig>essentiall</orig><reg>essential</reg></choice> things, which are the foundation, walls, and <choice><orig>roofe</orig><reg>roof</reg></choice>, are<milestone unit="section" n="e03-01" /> 
@@ -82,7 +84,7 @@
                         <lb break="no"/>fore accuse Lully of vanity, whereas themselves ought rather to be <pc>-</pc>
                         <lb/>reproved of folly, who never tasted <choice><orig>Lullye's</orig><reg>Lully's</reg></choice> wine; but that golden Po
                         <lb break="no"/>et better understood Lully, who in his first <choice><orig>booke</orig><reg>book</reg></choice> of Aurifaction thus sings:
-                        <quote rend="indent">
+                        <quote>
                             <lg xml:lang="lat">
                                 <l>At non ille quidem sensit, quæ dicere prima</l>
                                 <l>Est facie visus, neꝗ tum stillantia vina</l>
@@ -93,7 +95,7 @@
                                 <l>Nor then <choice><orig>mixd</orig><reg>mixed</reg></choice> stilling wines, etc.</l>
                             </lg>
                         </quote>
-                        <lb/>After Aqua fœtida comes the green <choice><orig>Lyon</orig><reg>Lion</reg></choice>: concerning which <choice><orig>sayth</orig><reg>says</reg></choice> Ro
+                        <lb/><milestone unit="page" ed="Meier" n="159"/>After Aqua fœtida comes the green <choice><orig>Lyon</orig><reg>Lion</reg></choice>: concerning which <choice><orig>sayth</orig><reg>says</reg></choice> Ro
                         <lb break="no"/>sarius; you have sought for <choice><orig>greennesse</orig><reg>greenness</reg></choice>, supposing, that <choice><orig>brasse</orig><reg>brass</reg></choice> was a <pc>-</pc>
                         <lb/>leprous body, because of that <choice><orig>greenesse</orig><reg>greenness</reg></choice> which it <choice><orig>hath</orig><reg>has</reg></choice>: and therefore <pc>-</pc>
                         <lb/>I declare to you, that whatsoever is perfect in <choice><orig>brasse</orig><reg>brass</reg></choice>, is that <choice><orig>greenesse</orig><reg>greenness</reg></choice>

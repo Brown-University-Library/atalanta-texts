@@ -24,6 +24,7 @@
                 
                 
                 <div type="title" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="077"/>
                     <head>
                         <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 17. Of the Secrets of Nature.
                         <lb/><choice><orig>Fower</orig><reg>Four</reg></choice> <choice><orig>orbes</orig><reg>orbs</reg></choice> <choice><orig>governe</orig><reg>govern</reg></choice> this <choice><orig>worke</orig><reg>work</reg></choice> of fire.</seg>
@@ -46,6 +47,7 @@
                 
                 <pb n="57"/> 
                 <div type="discourse" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="078"/>
                     <head rend="italics">Discourse 17.</head>
                     <ab> 
                         <lb/>The Philosophers have in many places made mention of four sorts of fire<milestone unit="section" n="e03-01" /> 
@@ -85,7 +87,7 @@
                         <lb break="no"/>ture, the fourth earthy: It is <choice><orig>needlesse</orig><reg>needless</reg></choice> to say any thing of the first, <pc>-</pc>
                         <lb/>because it is <choice><orig>knowne</orig><reg>known</reg></choice> to every mans eye and touch: The three other are
                         <lb/>dragons, menstrua's, waters, Sulphurs, and <choice><orig>Mercuryes</orig><reg>Mercuries</reg></choice>: Dragons, because <pc>-</pc>
-                        <lb/>being participants of venenosity, they <choice><orig>devoure</orig><reg>devour</reg></choice> serpents of their <choice><orig>owne</orig><reg>own</reg></choice>
+                        <lb/>being participants of venenosity, they <choice><orig>devoure</orig><reg>devour</reg></choice> <milestone unit="page" ed="Meier" n="079"/>serpents of their <choice><orig>owne</orig><reg>own</reg></choice>
                         <lb/>kind, frett and alter, that is, dissolve and coagulate <choice><orig>bodyes</orig><reg>bodies</reg></choice> incorporated <pc>-</pc>
                         <lb/>and mixed with them: They are called Menstrua's, because the <choice><orig>Philoso
                         <lb break="no"/>phicall</orig><reg>Philosophical</reg></choice> infant is produced from them, and nourished therewith even to

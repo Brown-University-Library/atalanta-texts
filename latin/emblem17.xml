@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.1" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -17,6 +14,7 @@
       </fileDesc>
      <revisionDesc>
         <change when="2018-01-04" who="SJD">Start encoding</change>
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
      </revisionDesc>
   </teiHeader>
    
@@ -24,16 +22,14 @@
   <text>
       <body>
          <div type="emblem" n="e17">
-            <pb n="76"/>
-            <head>
-               <lb n="1"/><fw type="pageNum" place="top-left">76</fw> FUGA XVII. in 3. suprà.
+            <pb n="76" edRef="Maier1618"/>
+            <fw type="pageNum" place="top-left">76</fw><fw type="header" place="top-center">FUGA XVII. in 3. suprà.</fw>
+            
+            <div type="fugue" xml:lang="de">
+               <head>
+
                <lb n="2"/>Ein vierfältige Feiuer Kugel regiret diß Werck.
             </head>
-            
-            <div type="fugue">
-               <head>
-                  
-               </head>
                
             </div>
             
@@ -50,18 +46,9 @@
             </div>
             <fw type="catchword">Emble-</fw>
             
-            <pb n="77"/>
+            <pb n="77" edRef="Maier1618"/>
             
-            <div type="image-caption">
-               <head>
-                  <lb n="1"/>Emblema XVII. De Secretis Natur<hi rend="ligature">ae</hi>.<!-- BC: how do we want to handle ligatures? --> <fw type="pageNum" place="top-right">77</fw>
-                  <lb n="2"/>Orbita quadruplex hoc regit ignis opus.
-               </head>
-               
-            </div>
-            
-            <figure><graphic url=""></graphic></figure>
-            
+            <fw type="header" place="top-center">Emblema XVII. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">77</fw><div type="image" xml:lang="la"><head/></div>            
             <div type="epigram" xml:lang="la">
                <head>Epigramma XVII.</head>
                <lg>
@@ -77,9 +64,9 @@
             <fw type="gathering" place="bottom-right">K 3</fw> <fw type="catchword" place="bottom-right">Phi-</fw>
             
             <div type="discourse" xml:lang="la">
-               <pb n="78"/>
-               <head><fw type="pageNum" place="top-left">78</fw> <hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="17">XVII</num>.</head>
-                  <ab>
+               <pb n="78" edRef="Maier1618"/>
+               <fw type="pageNum" place="top-left">78</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="17">XVII</num>.</fw>
+                  <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e17-01"/>Philosophi de quatuor ignium generibus ad opus naturale ne
                      <lb n="2" break="no"/>cessaris multis in locis meminerunt, nempe <persName ref="http://viaf.org/viaf/120696927">Lullius</persName>, Author <title>Sca
                      <lb n="3" break="no"/>l<hi rend="ligature">ae</hi></title>, <persName ref="http://viaf.org/viaf/122334648">Ripl<hi rend="ligature">ae</hi>us</persName>, <g type="ampersand">et</g> alii quamplurimi: <milestone unit="section" n="e17-02"/>Et hinc loquens de ignibus, (<title>Scala</title>
@@ -88,7 +75,7 @@
                      <lb n="6"/>nubis,  <g type="ampersand">et</g> corpus spiritus volatilis constringit in terram congelatam, ita con
                      <lb n="7" break="no"/>trario ignis natur<hi rend="ligature">ae</hi> congelat spiritum dissolutum corporis fixi in terram glo
                      <lb n="8" break="no"/>bosam,  <g type="ampersand">et</g> corpus spiritus volatilis fixum per ignem contra <expan><abbr>natur<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> resolvit <expan><abbr>n<hi rend="tilde">o</hi></abbr><ex>n</ex></expan>
-                     <lb n="9"/>in <expan><abbr>aqu<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> nubis, sed in <expan><abbr>aqu<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> <expan><abbr>Philos</abbr><ex>ophicam</ex></expan>.</quote> <milestone unit="section" n="e17-03"/><persName ref="http://viaf.org/viaf/122334648"><hi rend="italic">Ripl<hi rend="ligature">ae</hi>us</hi></persName> clari<hi rend="grave">u</hi>s de hisce <expan><abbr>ignib<am>.</am></abbr><ex>us</ex></expan> <title>Porta</title> <num type="ordinal">3<am>.</am>></num> sic
+                     <lb n="9"/>in <expan><abbr>aqu<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> nubis, sed in <expan><abbr>aqu<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> <expan><abbr>Philos</abbr><ex>ophicam</ex></expan>.</quote> <milestone unit="section" n="e17-03"/><persName ref="http://viaf.org/viaf/122334648"><hi rend="italic">Ripl<hi rend="ligature">ae</hi>us</hi></persName> clari<hi rend="grave">u</hi>s de hisce <expan><abbr>ignib<am>.</am></abbr><ex>us</ex></expan> <title>Porta</title> <num type="ordinal">3<am>.</am>&gt;</num> sic
                      <lb n="10"/><expan><abbr>lo<hi rend="stroke">q</hi></abbr><ex>ui</ex><abbr>tur</abbr></expan>: <milestone unit="section" n="e17-04"/><quote rend="italic">Quatuor sunt ignium genera, qu<hi rend="ligature">ae</hi> scire debes, naturalis, innaturalis,
                      <lb n="11"/><g type="ampersand">et</g> contra <expan><abbr>natur<hi rend="tilde">a</hi></abbr><ex>m</ex></expan>, <expan><abbr>elem<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>talis<hi rend="acute tail">q</hi></abbr><ex>ue</ex></expan>, qui <expan><abbr>acc<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>dit</abbr></expan> <expan><abbr>lign<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>: His <expan><abbr>ignib<am>.</am></abbr><ex>us</ex></expan> utimur, <g type="ampersand">et</g> <expan><abbr>n<hi rend="tilde">o</hi></abbr><ex>n</ex></expan> <expan><abbr>plu
                      <lb n="12" break="no"/>rib</abbr><ex>us</ex></expan>. Ignis contra <expan><abbr>natur<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> debet excruciare corpora, ipse est draco, <expan><abbr>qu<hi rend="tilde">e</hi></abbr><ex>m</ex><abbr>admod<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>
@@ -114,17 +101,17 @@
                      <lb n="32" break="no"/><abbr>g<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>ti</abbr></expan> cognitus est: <milestone unit="section" n="e17-12"/>Tres <expan><abbr>reli<hi rend="stroke">q</hi></abbr><ex>ui</ex></expan> sunt dracones, <expan><abbr>m<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>strua</abbr></expan>, aqu<hi rend="ligature">ae</hi>, sulfura <g type="ampersand">et</g>
                      <lb n="33"/>Mercurii: <milestone unit="section" n="e17-13"/>Dracones, quia venenositatis participes, devorent sui ge
                      <lb break="no"/>
-                  </ab>
+                  </ab></div>
                   <fw type="catchword" place="bottom-right">neris</fw>
-               <pb n="79"/>
-               <head><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="17">XVII</num>. <fw type="pageNum" place="top-right"><choice><corr>79</corr><sic>78</sic></choice></fw></head>
-                  <ab>
+               <pb n="79" edRef="Maier1618"/>
+               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="17">XVII</num>.</fw> <fw type="pageNum" place="top-right"><choice><corr>79</corr><sic>78</sic></choice></fw>
+                  <div type="discourse-p2"><ab>
                      <lb n="1"/>neris <expan><abbr>serp<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>tes</abbr></expan>, corpora sibi <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>m</ex><abbr>mixta</abbr></expan> <expan><abbr>atter<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>t</abbr></expan> <g type="ampersand">et</g> <expan><abbr>alter<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>t</abbr></expan>, hoc est, <expan><abbr>solv<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>t</abbr></expan>
                      <lb n="2"/><g type="ampersand">et</g> <expan><abbr>coagul<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>t</abbr></expan>: <milestone unit="section" n="e17-14"/><expan><abbr>M<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>strua</abbr></expan> dicuntur, quia ex illis f<hi rend="ligature">oe</hi>tus <expan><abbr>Philos<am>.</am></abbr><ex>ophicus</ex></expan> producitur
                      <lb n="3"/><g type="ampersand">et</g> nutritur, <expan><abbr>usq<am>;</am></abbr><ex>ue</ex></expan> ad ejus <expan><abbr>nativitat<hi rend="tilde">e</hi></abbr><ex>m</ex></expan>: <persName ref="http://viaf.org/viaf/120696927">Lullius</persName> in <expan><abbr>lib<am>.</am></abbr><ex>ro</ex></expan> <title>de quinta <expan><abbr>ess<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>t<am>.</am></abbr><ex>ia</ex></expan></title> <expan><abbr>dist<am>.</am></abbr><ex cert="medium">icho</ex></expan>
                      <lb n="4"/><num value="3" type="ordinal">3<am>.</am></num> duplex habet <expan><abbr>menstru<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>, vegetabile <g type="ampersand">et</g> minerale; <persName ref="http://viaf.org/viaf/122334648">Ripl<hi rend="ligature">ae</hi>us</persName> in <expan><abbr>pr</abbr><ex>a</ex><abbr><hi rend="hook">e</hi>fa
                      <lb n="5" break="no"/>fatione</abbr></expan> <title><expan><abbr>portar<hi rend="tilde">u</hi></abbr><ex>m</ex></expan></title> triplex, qu<hi rend="ligature">ae</hi> rever<hi rend="grave">a</hi> <expan><abbr>un<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> sunt <g type="ampersand">et</g> <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>n</ex><abbr>eni<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>t</abbr></expan>: <milestone unit="section" n="e17-15"/>Ex <expan><abbr>omnib<am>.</am></abbr><ex>us</ex></expan> <expan><ex>e</ex><abbr>n<am>.</am></abbr><ex>im</ex></expan>
-                     <lb n="6"/>illi simul sit generatio f<hi rend="ligature">oe</hi>tus <g type="ampersand">et</g> aqua alba ejus <expan><abbr>ort<hi rend="tilde">u</hi></abbr><ex></ex></expan> <expan><abbr>pr</abbr><ex>a</ex><abbr><hi rend="hook">e</hi>cedit</abbr></expan>, qu<hi rend="ligature">ae</hi> <expan><abbr>n<hi rend="tilde">o</hi></abbr><ex>n</ex></expan>
+                     <lb n="6"/>illi simul sit generatio f<hi rend="ligature">oe</hi>tus <g type="ampersand">et</g> aqua alba ejus <expan><abbr>ort<hi rend="tilde">u</hi></abbr><ex/></expan> <expan><abbr>pr</abbr><ex>a</ex><abbr><hi rend="hook">e</hi>cedit</abbr></expan>, qu<hi rend="ligature">ae</hi> <expan><abbr>n<hi rend="tilde">o</hi></abbr><ex>n</ex></expan>
                      <lb n="7"/>est de <expan><abbr>subst<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>tia</abbr></expan> f<hi rend="ligature">oe</hi>tus sed superfluitate, <expan><abbr>ide<hi rend="tilde">o</hi>q<am>;</am></abbr><ex>ue</ex></expan> <expan><abbr>segreg<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>da</abbr></expan>: <milestone unit="section" n="e17-16"/><expan><abbr>aqu</abbr><ex>a</ex><abbr><hi rend="hook">e</hi></abbr></expan> sunt,
                      <lb n="8"/>quia <expan><abbr>aque<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> <expan><abbr>natur<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> in igne <expan><abbr>ost<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>d<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>t</abbr></expan>, hoc est, fluxum <g type="ampersand">et</g> <expan><abbr>liquiditat<hi rend="tilde">e</hi></abbr><ex>m</ex></expan>, qu<hi rend="ligature">ae</hi>
                      <lb n="9"/>aqu<hi rend="ligature">ae</hi> <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>n</ex><abbr>venit</abbr></expan>: <milestone unit="section" n="e17-17"/><expan><abbr>Aquar<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> esse diversas <g type="ampersand">et</g> esse diversas <g type="ampersand">et</g> mirabiles proprietates <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>n</ex><abbr>stat</abbr></expan>,
@@ -152,7 +139,7 @@
                      <lb n="31"/>colligati observantur, ut unus absque alio nil aut parum operetur,
                      <lb n="32"/>im<hi rend="grave">o</hi> unius actio alterius sit passio, <g type="ampersand">et</g> econtra.
                      <lb/> <fw type="catchword" place="bottom-right" xml:lang="de">Daß</fw>
-                  </ab>                  
+                  </ab></div>                  
             </div>
             
          </div>

@@ -24,6 +24,7 @@
                 
                 
                 <div type="title" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="165"/>
                     <head>
                         <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 39. Of the Secrets of Nature.
                         <lb/><choice><orig>Œdipus</orig><reg>Oedipus</reg></choice> having overcome <choice><orig>Sphynx</orig><reg>Sphinx</reg></choice>, and <choice><orig>Killd</orig><reg>Killed</reg></choice> his father <choice><orig>Lajus</orig><reg>Laius</reg></choice>,
@@ -47,6 +48,7 @@
                 
                 <pb n="123"/> 
                 <div type="discourse" xml:lang="en">
+                    <milestone unit="page" ed="Meier" n="166"/>
                     <head rend="italics">Discourse 39.</head>
                     <ab> 
                         <lb/>Bacasser a Philosopher in Turba <choice><orig>sayth</orig><reg>says</reg></choice>, that which you <choice><orig>seeke</orig><reg>seek</reg></choice> for is of <choice><orig>noe</orig><reg>no</reg></choice> small<milestone unit="section" n="e03-01" /> 
@@ -88,7 +90,7 @@
                         <lb break="no"/>nesse</orig><reg>Sharpness</reg></choice> of understanding and learning, not <choice><orig>soe</orig><reg>so</reg></choice> obvious to all other men,
                         <lb/>from which brutes are <choice><orig>exceding</orig><reg>exceeding</reg></choice> distant. <choice><orig>Hee</orig><reg>He</reg></choice> that is conversant in <pc>-</pc>
                         <lb/>the Philosophers assertions will easily know them to be such: For <pc>-</pc>
-                        <lb/>where one thing is <choice><orig>sayd</orig><reg>said</reg></choice>, and another thing <choice><orig>signifyd</orig><reg>signified</reg></choice>, there <choice><orig>æqui
+                        <lb/>where one thing is <choice><orig>sayd</orig><reg>said</reg></choice>, and another thing <choice><orig>signifyd</orig><reg>signified</reg></choice>, there <milestone unit="page" ed="Meier" n="167"/><choice><orig>æqui
                         <lb break="no"/>vocation</orig><reg>equivocation</reg></choice> <choice><orig>begetts</orig><reg>begets</reg></choice> <choice><orig>errour</orig><reg>error</reg></choice>, which is not <choice><orig>onely</orig><reg>only</reg></choice> permitted, but <choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>enjoyned</orig><reg>enjoined</reg></choice>
                         
                         
