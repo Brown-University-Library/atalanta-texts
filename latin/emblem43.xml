@@ -29,8 +29,8 @@
             <div type="fugue" xml:lang="de">
                <head>
 
-               <lb n="2"/>Hörzu gen Geijer so reden kan <pc>/</pc> der fälschlich
-               <lb n="3"/>dich nicht sezet an.
+               <lb n="1"/>Hörzu gen Geijer so reden kan <pc>/</pc> der fälschlich
+               <lb n="2"/>dich nicht sezet an.
             </head>
                
             </div>
@@ -91,7 +91,7 @@
                      <lb n="20"/><persName ref="https://viaf.org/viaf/24571510">Hermete</persName>, sum nigrum albi, <g type="ampersand">et</g> Citrinus rubei, <g type="ampersand">et</g> cert<hi rend="grave">e</hi> veridicus sum
                      <lb n="21"/><g type="ampersand">et</g> non mentiens. <milestone unit="e43-09"/>Nigrum se adfirmat, album, citrinum <g type="ampersand">et</g> rubeum,
                      <lb n="22"/><g type="ampersand">et</g> talis rever<hi rend="grave">a</hi> est, etsi enim tres ultimos colores actu nondum possi
-                     <lb n="23" break="no"/>deat, tamen haereditatum eorum expectat. <milestone unit="section" n="e43-10"/>Hinc <persName ref="https://viaf.org/viaf/79142489">Rosinus</persName> in <expan>&gt;<abbr>lib<am>.</am></abbr><ex>ro</ex></expan> <title>di
+                     <lb n="23" break="no"/>deat, tamen haereditatum eorum expectat. <milestone unit="section" n="e43-10"/>Hinc <persName ref="https://viaf.org/viaf/79142489">Rosinus</persName> in <expan><abbr>lib<am>.</am></abbr><ex>ro</ex></expan> <title>di
                      <lb n="24" break="no"/>vinarum interpretationum</title>; <quote>Recipe</quote>, inquit, <quote>lapidem, qui est niger,
                         <lb n="25"/>albus, rubeus, citrinus, avis mirabilis, qui nigredine noctis, <g type="ampersand">et</g> diei
                      <lb n="26"/>claritate sine alis volat.</quote> <milestone unit="section" n="e43-11"/>Ex amaritudine namque in suo gutture exi

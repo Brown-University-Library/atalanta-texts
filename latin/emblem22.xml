@@ -14,7 +14,8 @@
       </fileDesc>
      <revisionDesc>
         <change when="2018-01-27" who="SJD">Start encoding</change>
-        <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
+        <change when="2018-08-18" who="EM">structural changes. See Github.</change>
+        <change when="2018-09-11" who="SJD">Changed markup of verse line in German straddling two lines</change>
      </revisionDesc>
   </teiHeader>
    
@@ -38,7 +39,7 @@
                <head>XXII. Epigrammatis Latini versio Germanica.</head>
                <lg>
                   <lb n="1"/><l>Der du begehrst mit weniger Mühe viel zu vollenbringen<pc>/</pc></l>
-                  <lb n="2"/><l>Solst in <hi rend="latin">Saturni</hi> Gesicht (so schwarz) ein Theil Schneefschiwin<pc>=</pc><add place="above-line">(gen <pc>/</pc></add></l>
+                  <lb n="2"/><l>Solst in <hi rend="latin">Saturni</hi> Gesicht (so schwarz) ein Theil Schneefschiwin<pc>=</pc><hi rend="sling-above"><pc>(</pc>gen <pc>/</pc></hi></l>
                   <lb n="3"/><l>Und es wirt dir werden ein Bleij mit sehr weisser Klarheit <pc>/</pc></l>
                   <lb n="4"/><l>Nach welchem nichts uberig ist <pc>/</pc> als nur Weibliche Arbeit <pc>/</pc></l>
                   <lb n="5"/><l>Den koche <pc>/</pc> wie thut ein Weib <pc>/</pc> soldßt ihr Häfen am Feiur stehn <pc>/</pc></l>

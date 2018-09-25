@@ -19,6 +19,7 @@
         <change when="2017-03-22" who="SJD">Created</change>
         <change when="2017-03-23" who="SJD">Completed draft</change>
         <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
+        <change when="2018-09-11" who="SJD">Fixed markup of marginal notes; fixed typos</change>
      </revisionDesc>
   </teiHeader>
    
@@ -121,21 +122,21 @@
      <div type="discourse-p2">
         <ab>
                      <lb n="1"/>venas pectorales communicatur cordi, id<hi rend="acute">q</hi>ue inficit <g type="ampersand">et</g> extinguit,
-                        <add place="margin-right">
+                        <note place="margin-right" type="gloss" rend="italic">
                            <lb n="1"/><persName ref="http://viaf.org/viaf/42197189" cert="low">Theophilus</persName>
                            <lb n="2"/>in <title ref="http://viaf.org/viaf/317093189">turba</title>
                            <lb n="3"/>meminit
                            <lb n="4"/>draconis
                            <lb n="5"/>mulieri
                            <lb n="6"/>juncti.
-                        </add>
+                        </note>
                      <lb n="2"/>quemadmodum ex <persName ref="http://viaf.org/viaf/67762941">Cleopatr<hi rend="ligature">ae</hi></persName> casu constat, qu<hi rend="ligature">ae</hi> viperas mammis
                      <lb n="3"/>admovit, c<hi rend="grave">u</hi>m voluntari<hi rend="circumflex">a</hi> morte pr<hi rend="ligature">ae</hi>veniri voluerit, ne viva in vi
                      <lb n="4" break="no"/>ctorum manus ac triumphos traheretur. <milestone unit="section" n="e05-14"/> Ver<hi rend="grave">u</hi>m ne quis Philo
                      <lb n="5" break="no"/>sophos ade<hi rend="grave">o</hi> crudeles existimet, quasi mulieri venenosum reptile
                      <lb n="6"/>admoveri jubeant, sciendum hunc bufonem esse ejusdem f<hi rend="ligature">oe</hi>min<hi rend="ligature">ae</hi>
                      <lb n="7"/>f<hi rend="ligature">oe</hi>tum seu filium, monstroso partu editum, ide<hi rend="acute">o</hi>que jure naturali,
-                     <lb n="8"/>lacte materno frui <g type="ampersand">et</g> ali debere, quod ver<hi rend="ligature">o</hi> maer moriatur, non est
+                     <lb n="8"/>lacte materno frui <g type="ampersand">et</g> ali debere, quod ver<hi rend="grave">o</hi> mater moriatur, non est
                      <lb n="9"/>in voluntate filii: <milestone unit="section" n="e05-15"/> Nec enim matre inficere potuit, qui in visceri
                      <lb n="10" break="no"/>bus ejus concretus, <g type="ampersand">et</g> ex sanguine augmentatus fuerat usque ad
                      <lb n="11"/>partum. <milestone unit="section" n="e05-16"/> Ominosum san<hi rend="grave">e</hi> quid est, bufonem ex muliere nasci, quod

@@ -19,6 +19,7 @@
         <change when="2017-03-23" who="SJD">Created</change>
         <change when="2017-03-27" who="SJD">Completed draft</change>
         <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
+        <change when="2018-09-11" who="SJD">Fixed markup of marginal notes</change>
      </revisionDesc>
   </teiHeader>
    
@@ -44,7 +45,7 @@
                   <lb n="2"/><l>Wenn si wol zermalmet ist mit eisenen Zänen<pc>/</pc></l>
                   <lb n="3"/><l>Die Weisen <expan><abbr>ab</abbr><ex>e</ex><abbr>r</abbr></expan> lehren ihr Gold werffen in die Erden<pc>/</pc></l>
                   <lb n="4"/><l>Den Blättern gleich ganz weiß <pc>/</pc> das Gold darauß mag werden <pc>/</pc></l>
-                  <lb n="5"/><l>Daß du solches recht machst <pc>/</pc> schaw auff der <choice><corr>Bauern</corr><orig>Bawren</orig></choice> Werck ganz eben <pc>/</pc></l>
+                  <lb n="5"/><l>Daß du solches recht machst <pc>/</pc> schaw auff der <choice><reg>Bauern</reg><orig>Bawren</orig></choice> Werck ganz eben <pc>/</pc></l>
                   <lb n="6"/><l>Dann Gold wachst wie Weizen <pc>/</pc> und hat sein eignes Leben.</l>
                </lg>
             </div>
@@ -93,9 +94,9 @@
                      <lb n="13" break="no"/>vehit: <milestone unit="section" n="e06-05"/> Interim pullulante herb<hi rend="circumflex">a</hi> agricola tribulos <g type="ampersand">et</g> <expan><abbr>impedim<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>ta</abbr></expan> o
                      <lb n="14" break="no"/>mnia removet, segetes maturas demetit, demessis superflua tollit,
                      <lb n="15"/><expan><abbr>Ne</abbr><ex>m</ex><abbr>pe</abbr></expan> stramina, paleas <g type="ampersand">et</g> ejusmodi alia: <milestone unit="section" n="e06-06"/> Ita <g type="ampersand">et</g> medicus (<expan><abbr><hi rend="stroke">q</hi></abbr><ex>ui</ex><abbr>n</abbr></expan> <g type="ampersand">et</g> chymi
-                     <lb n="16" break="no"/>cus diverso respectu) corpori humano <expan><abbr>sanitat<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> <expan><abbr>pr<hi rend="ligature">ae</hi>sent<hi rend="ligature">e</hi></abbr><ex>m</ex></expan> conservare,
-                     <lb n="17"/><expan><abbr>absent<hi rend="tilde">e</hi><expan>m</expan></abbr></expan> recuperare diversis remediis instituit, causam morbificiam
-                     <lb n="18"/>tollit, <expan><abbr>morb<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> curat, symptomata sedat, <expan><abbr>superflu<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <expan><abbr>sanguin<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> ven<hi rend="ligature">ae></hi>fe
+                     <lb n="16" break="no"/>cus diverso respectu) corpori humano <expan><abbr>sanitat<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> <expan><abbr>pr<hi rend="ligature">ae</hi>sent<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> conservare,
+                      <lb n="17"/><expan><abbr>absent<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> recuperare diversis remediis instituit, causam morbificiam
+                     <lb n="18"/>tollit, <expan><abbr>morb<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> curat, symptomata sedat, <expan><abbr>superflu<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <expan><abbr>sanguin<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> ven<hi rend="ligature">ae</hi>fe
                      <lb n="19" break="no"/>fectione diminuit, <expan><abbr>defincient<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> bona victus ratione ordinata restaurat,
                      <lb n="20"/>humores noxios purgatione evacuat, <g type="ampersand">et</g> sic mille modis naturam i
                      <lb n="21" break="no"/>mitatur, supplet <g type="ampersand">et</g> corrigit intellectus <g type="ampersand">et</g> artis operibus; qu<hi rend="ligature">ae</hi> c<hi rend="grave">u</hi>m
@@ -106,7 +107,7 @@
                      <lb n="26"/>quo nihil fieret, nec fructus aliquis <expan><abbr>sper<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>dus</abbr></expan> esset: Illi <expan><abbr>hab<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>t</abbr></expan> semina,
                      <lb n="27"/><expan><abbr>quor<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <expan><abbr>multiplication<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> desiderant. <milestone unit="section" n="e06-09"/> H<hi rend="ligature">ae</hi>c nisi chymici <expan><abbr>haber<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>t</abbr></expan>, imita
                      <lb n="28" break="no"/>rentur <expan><abbr>pictor<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> (ut <persName ref="http://viaf.org/viaf/120696927">Lullius</persName> inquit) exprimere <expan><abbr>conant<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> <expan><abbr>faci<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> <expan><abbr>cujusd<hi rend="tilde">a</hi></abbr><ex>m</ex></expan>
-                     <lb n="29"/>viri, <expan><abbr>qu<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> ipse <expan><abbr>nunqu<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> vidisset, nec <expan><abbr>imagin<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> ejus: <milestone unit="section" n="e06-10"/> Agricol<hi rend="ligature">ae></hi> expectant
+                     <lb n="29"/>viri, <expan><abbr>qu<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> ipse <expan><abbr>nunqu<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> vidisset, nec <expan><abbr>imagin<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> ejus: <milestone unit="section" n="e06-10"/> Agricol<hi rend="ligature">ae</hi> expectant
                      <lb n="30"/><expan><abbr>pluvi<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> <g type="ampersand">et</g> <expan><abbr>calor<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> solis, sic <g type="ampersand">et</g> rever<hi rend="grave">a</hi> chymici <expan><abbr>calor<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> <expan><abbr>administr<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>t</abbr></expan> suo o
                      <lb n="31" break="no"/>peri <expan><abbr>convenient<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> <g type="ampersand">et</g> <expan><abbr>pluvi<hi rend="tilde">a</hi></abbr><ex>m</ex></expan>: Quid multis? <milestone unit="section" n="e06-11"/> Chemia est omnin<hi rend="grave">o</hi> paral
                      <lb n="32" break="no"/>lela <expan><abbr>agricultur</abbr><ex>a</ex><abbr><hi rend="hook">e</hi></abbr></expan>, <expan><abbr>ej<hi rend="acute">u</hi>sq<am>;</am></abbr><ex>ue</ex></expan> vicaria, qu<hi rend="ligature">ae</hi> per omnia ejus vices exprimit, at
@@ -139,10 +140,10 @@
                      <lb n="19" break="no"/>xer<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>t</abbr></expan> ante <expan><abbr>line<hi rend="tilde">a</hi></abbr><ex>m</ex></expan>, superficiem, <g type="ampersand">et</g> corpus, quia est <expan><abbr>eor<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <expan><abbr>omni<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <expan><abbr>princi
                      <lb n="20" break="no"/>pi<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>: <milestone unit="section" n="e06-19"/> <expan><abbr>Flux<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> natura addidit longo <expan><abbr>t<hi rend="tilde">e</hi></abbr><ex>m</ex><abbr>poris</abbr></expan> spacio interposito, hoc est,
                      <lb n="21"/><persName>Ph<hi rend="ligature">oe</hi>bus</persName> c<hi rend="ligature">oe</hi>lestis generavit sub terra <expan><abbr>filiol<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>, <expan><abbr>qu<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> <persName>Mercurius</persName> <persName>Vulca
-                     <lb n="22" break="no"/>no</persName> <expan><abbr>educand<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> obtulit <g type="ampersand">et</g> <persName>Chironi</persName>, hoc est, artifici manuali, ad <expan><abbr>erudi<hi rend="tilde">e></hi></abbr><ex>n</ex>
+                     <lb n="22" break="no"/>no</persName> <expan><abbr>educand<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> obtulit <g type="ampersand">et</g> <persName>Chironi</persName>, hoc est, artifici manuali, ad <expan><abbr>erudi<hi rend="tilde">e</hi></abbr><ex>n</ex>
                      <lb n="23" break="no"/><abbr>d<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>, <expan><abbr>quemadmod<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> de <persName>Achille</persName> <expan><abbr>scrib<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>t</abbr></expan>, qui <hi rend="grave">a</hi> <persName>Thetyde</persName> matre sub <expan><abbr>ignib<am>.</am></abbr><ex>us</ex></expan>
                      <lb n="24"/><expan><abbr>det<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>tus</abbr></expan> <g type="ampersand">et</g> induratus fuit: <milestone unit="section" n="e06-20"/> A <persName>Chirone</persName> ille, inter alia, didicit <expan><abbr>Music<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> <g type="ampersand">et</g>
-                        <add place="margin-right">
+                        <note place="margin-right" rend="italic">
                            <lb n="1"/>Hinc <persName ref="http://viaf.org/viaf/88342447"><expan><abbr>O
                            <lb n="2" break="no"/>vid<am>.</am></abbr></expan></persName> <persName>Phylli
                            <lb n="3" break="no"/>rides</persName> pue
@@ -150,11 +151,11 @@
                            <lb n="5" break="no"/>thar<hi rend="ligature">ae</hi> pr<hi rend="ligature">ae</hi>
                            <lb n="6" break="no"/>fecit <persName>A
                            <lb n="7" break="no"/>chillem.</persName>
-                        </add>
-                     <lb n="25"/>Cythar<hi rend="ligature">ae</hi> tractand<hi rend="ligature">ae</hi> <expan><abbr>artifici<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>: <milestone unit="section" n="e06-21"/> C<hi rend="grave">u</hi>m ver<hi rend="grave">o></hi> <persName><hi rend="italic">Achilles</hi></persName> nihil aliud sit, qu<hi rend="grave">a></hi>m
+                        </note>
+                     <lb n="25"/>Cythar<hi rend="ligature">ae</hi> tractand<hi rend="ligature">ae</hi> <expan><abbr>artifici<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>: <milestone unit="section" n="e06-21"/> C<hi rend="grave">u</hi>m ver<hi rend="grave">o</hi> <persName><hi rend="italic">Achilles</hi></persName> nihil aliud sit, qu<hi rend="grave">a</hi>m
                      <lb n="26"/><expan><abbr>subject<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <expan><abbr>Philosophic<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> (cujus filius <persName>Pyrrhus</persName> rubro capillitio, sine qui
                      <lb n="27" break="no"/>bus <expan><abbr>duob<am>.</am></abbr><ex>us</ex></expan> <placeName ref="https://pleiades.stoa.org/places/550595">Troja</placeName> expugnari non potuit, ut copios<hi rend="grave">e</hi> in nostris <title ref="http://viaf.org/viaf/103210603">Hiero
-                     <lb n="28" break="no"/>glyphicis</title> <expan><abbr>lib<am>m</am></abbr><ex>ro</ex></expan> <expan><abbr><am>6.</am></abbr><ex>sexto</ex></expan> <expan><abbr>dem<hi rend="tilde">o</hi></abbr><ex>n</ex><abbr>stravimus) ide<hi rend="grave">o></hi></abbr></expan> <expan><abbr>Music<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> in hoc ipso nostro ope
+                     <lb n="28" break="no"/>glyphicis</title> <expan><abbr>lib<am>m</am></abbr><ex>ro</ex></expan> <expan><abbr><am>6.</am></abbr><ex>sexto</ex></expan> <expan><abbr>dem<hi rend="tilde">o</hi></abbr><ex>n</ex><abbr>stravimus) ide<hi rend="grave">o</hi></abbr></expan> <expan><abbr>Music<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> in hoc ipso nostro ope
                      <lb n="29" break="no"/>re, ubi <persName><expan><abbr>Achill<hi rend="tilde">e</hi></abbr><ex>m</ex></expan></persName>, <expan><abbr>ejus<hi rend="acute">q</hi><am>;</am></abbr><ex>ue</ex></expan> heroicas virtutes <g type="ampersand">et</g> facta describimus, <expan><abbr>n<hi rend="tilde">o</hi></abbr><ex>n</ex></expan> <expan><abbr>absq<am>;</am></abbr><ex>ue</ex></expan>
                      <lb n="30"/>causa (lic<hi rend="grave">e</hi>t obiter) tractamus: <milestone unit="section" n="e06-22"/> <expan><abbr>N<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> si Musica ornavit <expan><abbr>t<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>t<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> Heroa, quid
                      <lb n="31"/>ni <g type="ampersand">et</g> <expan><abbr>nostr<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> hoc <expan><abbr>opuscul<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> magis <expan><abbr>variegat<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <g type="ampersand">et</g> <expan><abbr>accept<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> reddat: <milestone unit="section" n="e06-23"/> <expan><abbr>Can<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>t</abbr></expan>

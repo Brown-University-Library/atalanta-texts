@@ -1,0 +1,200 @@
+/*
+ * CSS for Transcription of English translation of Atalanta. Designed mostly for proofreading.
+ * Almost all elements are styled, but often so that they can be proofread.
+ *
+ * HISTORY
+ * EM initial styling 2017-03-31
+ * EM work on improving styling for proofreading 2017-07-06
+ * EM styling improvements based on Donna's comments 2018-01-12
+ *     * remove vertical spaces before and after verses inside discourses
+ *     * observe italics in spans
+ *     * make title page resemble pages more (center title, try for some vertical space)
+ */
+
+@page {
+    margin-top: 1in;
+}
+
+body{
+    width: 75%;
+    margin-left: .75in;
+    margin-right: .75in;
+    line-height: 175%;
+    font-family: "Garamond", "Georgia", serif;
+}
+
+.epigram
+{
+    margin-top: 100px;
+    text-align: center;
+    font-style: italic;
+}
+
+h3.discourse
+{
+    text-align: center;
+    font-style: italic;
+}
+
+.verse-epigram {
+    margin-top: -30px;
+    text-align: left;
+    margin-left: 33%;
+    font-style: italic;
+}
+
+.verse-discourse {
+    margin-top: -30px;
+    margin-left: 10%;
+    margin-bottom: -30px;
+}
+
+.ab {
+    /* margin-top: -40px; */
+}
+
+/*  hiding own title. only show what's on the page */
+h2{
+    display: none;
+    color: #b5b5b5;
+}
+
+h3.title {
+    
+    margin-top: 100px;
+    text-align: center;
+}
+
+.pb{
+    text-align: left;
+    color: #b5b5b5;
+    margin-top: 50px;
+}
+
+.pb:before{
+    content: "[ Page: ";
+    color: #b5b5b5;
+}
+
+.pb:after{
+    content: " ]";
+    color: #b5b5b5;
+}
+
+.milestone{
+    font-style: italic;
+    color: grey;
+}
+
+.milestone:before{
+    content: " [§ ";
+}
+
+.milestone:after{
+    content: "] ";
+}
+
+.choice {
+    background-color: #eeeeee;
+    margin-left: 2px;
+}
+
+
+.reg {
+    color: #009acd;
+}
+
+/*  .reg:before {
+      content: "|";
+  }*/
+
+.subst {
+    background-color: #eeeeee;
+    margin-left: 2px;
+  }
+
+.del{
+    text-decoration: line-through;
+}
+
+.add:before{
+    content: "<";
+    color: #8E8E38;
+}
+
+.add:after{
+    content: ">";
+    color: #8E8E38;
+}
+
+
+.unclear:before{
+    content: "[? ";
+}
+
+.unclear:after{
+    content: "]";
+}
+
+.supplied{
+display: none;
+}
+
+.supplied:before{
+    content: "<";
+    color: #8E8E38;
+}
+
+.supplied:after{
+    content: ">";
+    color: #8E8E38;
+}
+
+span.superscript{
+    vertical-align: super;
+    font-size: smaller;
+}
+
+span.underline{
+    text-decoration: underline;
+}
+
+span.underline2{
+    border-bottom: 2px grey solid;
+}
+
+span.italics{
+    font-style: italic;
+}
+
+.pc{
+
+}
+
+.fw{
+    font-style: italic;
+    display: block;
+    text-align:center;
+}
+
+.margin-note{
+    float: right;
+    margin-left: 20px;
+    outline: .5px solid #b5b5b5;
+    top: auto; /* default */
+    width: 175px;
+    padding-left: 10px;
+
+}
+
+.note-mark{
+    color: #C67171;
+    font-weight: bold;
+    vertical-align: super;
+    text-decoration: none;
+}
+
+.help{
+    color: red;
+
+}

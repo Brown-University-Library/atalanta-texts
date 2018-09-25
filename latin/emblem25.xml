@@ -25,10 +25,12 @@
          <div type="emblem" n="e25">
             <pb n="108" edRef="Maier1618"/>
             <fw type="pageNum" place="top-left">108</fw><fw type="header" place="top-center">FUGA XXV. in 5. seu 12. infrà.</fw>
-         </div>
+        
             <div type="fugue" xml:lang="de">
-               
-               
+               <head>
+                  <lb n="1"/>Der Drache stirbet nicht <pc>/</pc> er werde dann von seinem Bruder
+                  <lb n="2"/>und Schwester getödtet <pc>/</pc> welche seijnd Sonn und Mond.
+               </head>              
             </div>
             
             <div type="epigram" xml:lang="de">
@@ -42,12 +44,12 @@
                   <lb n="6"/><l>Von ihm getödtet ist <pc>/</pc> aber von ihr <persName><hi rend="latin">Orion</hi></persName>.</l>
                </lg>
             </div>
-            <fw type="catchword">Emble-</fw>
             
+            <fw type="catchword">Emble-</fw>            
             <pb n="109" edRef="Maier1618"/>
+            <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="25">XXV</num>.</fw><fw type="pageNum" place="top-right">109</fw>
             
             <div type="image" xml:lang="la">
-               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="25">XXV</num>.</fw><fw type="pageNum" place="top-right">109</fw>
                
             </div>            
             <div type="epigram" xml:lang="la">
@@ -63,20 +65,20 @@
             </div>
             
             <fw type="gathering" place="bottom-right">O 3</fw> <fw type="catchword" place="bottom-right">In</fw>
+            <fw type="pageNum" place="top-left">110</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="25">XXV</num>.</fw>
             
             <div type="discourse" xml:lang="la">
                <pb n="110" edRef="Maier1618"/>
-               <fw type="pageNum" place="top-left">110</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="25">XXV</num>.</fw>
-                  <ab>
+               <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e25-01"/>In occupatione aurei velleris Draco omnium prim<hi rend="grave">o</hi> <expan><abbr>interim<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>dus</abbr></expan>
                      <lb n="2"/>erat, <expan><abbr><hi rend="stroke">q</hi></abbr><ex>ui</ex></expan> labor c<hi rend="grave">u</hi>m multis tentatus esset frustr<hi rend="grave">a</hi>, <hi rend="grave">a</hi> Dracone <expan><abbr>su<hi rend="stroke">p</hi></abbr><ex>er</ex><abbr>ati</abbr></expan> <g type="ampersand">et</g>
                      <lb n="3"/>veneno exitiali necati fuerunt: <milestone unit="section" n="e25-02"/>Causa fuit, <expan><abbr><hi rend="stroke">q</hi></abbr><ex>ui</ex><abbr>a</abbr></expan> non satis muniti erant
                      <lb n="4"/>adversus draconis virus, nec instructi, quo astu ille interficiendus fo
                      <lb n="5" break="no"/>ret: <milestone unit="section" n="e25-03"/><persName>Jason</persName> ver<hi rend="grave">o</hi> (medicus) nulla remediorum genera neglexit, <expan><abbr>quor<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>
                      <lb n="6"/>diversa <hi rend="grave">a</hi> <persName>Medea</persName> (mentis consilio) <expan><abbr>atq<am>;</am></abbr><ex>ue</ex></expan> inter h<hi rend="ligature">ae</hi>c <persName>Solis</persName> <g type="ampersand">et</g> <persName>Lun<hi rend="ligature">ae</hi></persName> ima
-                     <lb n="7" break="no"/>gines recepit, quibus usus feliciter <expan><abbr>victori<hi rend="tilde">a</hi><ex>m</ex></abbr></expan> cum brabejo, hoc est, <hi rend="caps">Au
+                  <lb n="7" break="no"/>gines recepit, quibus usus feliciter <expan><abbr>victori<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> cum brabejo, hoc est, <hi rend="caps">Au
                      <lb n="8" break="no"/>reo Vellere</hi> adeptus est. <milestone unit="section" n="e25-04"/>Draco <expan><abbr>itaq<am>;</am></abbr><ex>ue</ex></expan> <hi rend="grave">a</hi> sole <g type="ampersand">et</g> luna seu imaginibus
-                     <lb n="9"/><expan><abbr>eor<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <hi rend="grave">e&gt;</hi> medio sublatus fuit, <expan><abbr>q<hi rend="stroke">q</hi></abbr><ex>uod</ex></expan> <expan><abbr>Philos<am>.</am></abbr><ex>ophi</ex></expan> passim inculcant: <milestone unit="section" n="e25-05"/>Sic <expan><ex>e</ex><abbr>n<am>.</am></abbr><ex>im</ex></expan> <title ref="https://viaf.org/viaf/191597728">Rosarii</title>
+                     <lb n="9"/><expan><abbr>eor<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <hi rend="grave">e</hi> medio sublatus fuit, <expan><abbr>q<hi rend="stroke">q</hi></abbr><ex>uod</ex></expan> <expan><abbr>Philos<am>.</am></abbr><ex>ophi</ex></expan> passim inculcant: <milestone unit="section" n="e25-05"/>Sic <expan><ex>e</ex><abbr>n<am>.</am></abbr><ex>im</ex></expan> <title ref="https://viaf.org/viaf/191597728">Rosarii</title>
                      <lb n="10"/>author ex aliis habet: <persName ref="https://viaf.org/viaf/24571510">Hermes</persName>, Draco <expan><abbr>n<hi rend="tilde">o</hi></abbr><ex>n</ex></expan> moritur, nisi cum fratre <g type="ampersand">et</g>
                      <lb n="11"/>sorore sua interficiatur, <expan><abbr>n<hi rend="tilde">o</hi></abbr><ex>n</ex></expan> per <expan><abbr>un<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <expan><abbr>sol<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>, sed per ambos simul, <expan><abbr>scil<am>.</am></abbr><ex>icet</ex></expan> per
                      <lb n="12"/><expan><abbr>sol<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> <g type="ampersand">et</g> <expan><abbr>lun<hi rend="tilde">a</hi></abbr><ex>m</ex></expan>. <milestone unit="section" n="e25-06"/><expan><abbr>Philos<am>.</am></abbr><ex>ophicus</ex></expan> <persName>Mercurius</persName> <expan><abbr>nunqu<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> moritur, nisi cum sua sorore
@@ -85,7 +87,7 @@
                         <lb n="15" break="no"/>m<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> <g type="ampersand">et</g> <expan><abbr>spirit<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>, super quo dicit: Draco <expan><abbr>n<hi rend="tilde">o</hi></abbr><ex>n</ex></expan> moritur, nisi <expan><abbr>c<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> fratre suo <g type="ampersand">et</g>
                      <lb n="16"/>sorore sua, id est, sole <g type="ampersand">et</g> luna, id est, sulphure extracto, <expan><abbr>hab<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>te</abbr></expan> in se na
                      <lb n="17" break="no"/>turam humiditatis <g type="ampersand">et</g> frigiditatis ratione lun<hi rend="ligature">ae</hi>; <milestone unit="section" n="e25-08"/>cum illis draco mori
-                     <lb n="18" break="no"/>tur, id est, <expan><abbr>arg<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>t<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <expan><abbr>viv<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> ab eisdem <expan><abbr>corporib<am>.</am></abbr><ex>us</ex></expan> <expan><abbr>extract<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <hi rend="grave">a</hi> primordio, <expan><abbr>qu</abbr><ex>a</ex><abbr><hi rend="tail">e</hi></abbr></expan>
+                     <lb n="18" break="no"/>tur, id est, <expan><abbr>arg<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>t<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <expan><abbr>viv<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> ab eisdem <expan><abbr>corporib<am>.</am></abbr><ex>us</ex></expan> <expan><abbr>extract<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <hi rend="grave">a</hi> primordio, <expan><abbr>qu</abbr><ex>a</ex><abbr><hi rend="hook">e</hi></abbr></expan>
                      <lb n="19"/>est aqua <expan><abbr>perman<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>s</abbr></expan> <expan><abbr>Philos<am>.</am></abbr><ex>ophorum</ex></expan> qu<hi rend="ligature">ae</hi> sit post <expan><abbr>putrefaction<hi rend="tilde">e</hi></abbr><ex>m</ex></expan>, <g type="ampersand">et</g> post <expan><abbr>separa
                         <lb n="20" break="no"/>tion<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> <expan><abbr>elem<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>tor<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>, <g type="ampersand">et</g> aqua illa alio nomine dicitur, aqua f<hi rend="ligature">oe</hi>tida. <milestone unit="section" n="e25-09"/>H<hi rend="ligature">ae</hi>c
                      <lb n="21"/>ille: Cui <expan><abbr>reli<hi rend="stroke">q</hi></abbr><ex>ui</ex></expan> omnes <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>n</ex><abbr>senti<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>t</abbr></expan>, ne <expan><abbr>singulor<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <expan><abbr>authoritat<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> adducere
@@ -101,18 +103,18 @@
                      <lb n="31" break="no"/>curi<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <expan><ex>e</ex><abbr>n<am>.</am></abbr><ex>im</ex></expan> draco semper denotat, sive ille sit fixus, sive volatilis: <milestone unit="section" n="e25-14"/>Hinc
                      <lb n="32"/><persName>Mercurius</persName> duplici <expan><abbr>serp<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>te</abbr></expan> visendus in caduceo <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>n</ex><abbr>nexis</abbr></expan> (c<hi rend="grave">u</hi>m draco
                      <lb n="33"/>sit <expan><abbr>ing<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>s</abbr></expan> <expan><abbr>serp<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>s</abbr></expan>) <g type="ampersand">et</g> <persName>Saturnus</persName> cum uno, qui <expan><abbr>caud<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> devoret, veluti <g type="ampersand">et</g> <persName>Ja</persName>
-                     <lb break="no"/>
-                  </ab>
+                     
+                  </ab></div>
                   <fw type="catchword" place="bottom-right">nus</fw>
                <pb n="111" edRef="Maier1618"/>
                <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="25">XXV</num>.</fw> <fw type="pageNum" place="top-right">111</fw>
-                  <ab>
-                     <lb n="1"/>nus: <milestone unit="section" n="e25-15"/><persName><hi rend="ligature">Ae</hi>sculapio</persName> <persName>Apollinis</persName> filio, medicin<hi rend="ligature">ae</hi> inventori (Medicin<hi rend="ligature">ae</hi> <expan><abbr>Phi
+               <div type="discourse-p2"><ab>
+                     <lb n="1" break="no"/>nus: <milestone unit="section" n="e25-15"/><persName><hi rend="ligature">Ae</hi>sculapio</persName> <persName>Apollinis</persName> filio, medicin<hi rend="ligature">ae</hi> inventori (Medicin<hi rend="ligature">ae</hi> <expan><abbr>Phi
                      <lb n="2" break="no"/>los<am>.</am></abbr><ex>phicae</ex></expan> <expan><abbr>serp<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>s</abbr></expan> dicatur, in qua forma ex <placeName>Epidauro</placeName> <persName><expan><abbr>Rom<hi rend="tilde">a</hi></abbr><ex>m</ex></expan></persName> advectus cre
                      <lb n="3" break="no"/>ditur, <expan><abbr>ibiq<am>;</am></abbr><ex>ue</ex></expan> <expan><abbr>sem<hi rend="stroke">p</hi></abbr><ex>er</ex></expan> cultus ob pestifer<hi rend="ligature">ae</hi> luis <expan><abbr>cessation<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> ab eo, ut putaba
                      <lb n="4" break="no"/>tur, <expan><abbr>causat<hi rend="tilde">a</hi></abbr><ex>m</ex></expan>: <milestone unit="section" n="e25-16"/>Est <expan><abbr>aut<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> draco <expan><abbr>Philos<am>.</am></abbr><ex>ophicus</ex></expan> <expan><abbr>sem<hi rend="stroke">p</hi></abbr><ex>er</ex></expan> vigilantissimus <g type="ampersand">et</g> vivus, nec
                      <lb n="5"/>facil<hi rend="grave">e</hi> <expan><abbr>vulder<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>dus</abbr></expan>, tum <expan><abbr><hi rend="hook">p</hi></abbr><ex>ro</ex><abbr>pter</abbr></expan> cutis <expan><abbr>densitat<hi rend="tilde">e</hi></abbr><ex>m</ex></expan>, tum <expan><abbr>denti<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>, venen<hi rend="acute">i</hi>que,
-                     <lb n="6"/><expan><abbr>quib&gt;<am>.</am></abbr><ex>us</ex></expan> armatus est, acritudinem: Etsi <expan><ex>e</ex><abbr>n<am>.</am></abbr><ex>im</ex></expan> vulgares dracones veneni ex
+                     <lb n="6"/><expan><abbr>quib<am>.</am></abbr><ex>us</ex></expan> armatus est, acritudinem: Etsi <expan><ex>e</ex><abbr>n<am>.</am></abbr><ex>im</ex></expan> vulgares dracones veneni ex
                      <lb n="7" break="no"/>pertes dicantur, hic <expan><abbr>tam<hi rend="tilde">e</hi></abbr><ex>n</ex></expan> eo non caet, nisi caut<hi rend="grave">e</hi> tractetur, in <expan><abbr>obvi<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>
                      <lb n="8"/>quemvis <expan><abbr>emitt<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>do</abbr></expan>: <milestone unit="section" n="e25-17"/>Per vim <expan><abbr>itaq<am>;</am></abbr><ex>ue</ex></expan> rar<hi rend="grave">o</hi> superari poterit, nisi <g type="ampersand">et</g> astutia
                      <lb n="9"/>accedat <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>n</ex><abbr>sanguineorum</abbr></expan>: <expan><abbr>N<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> ver<hi rend="grave">e</hi> poëta dixit, Tuta <expan><abbr>frequ<hi rend="acute">e</hi>nsq<am>;</am></abbr><ex>ue</ex></expan> via
@@ -135,15 +137,16 @@
                      <lb n="26"/><expan><abbr><hi rend="stroke">p</hi></abbr><ex>er</ex></expan> alternas vices: <milestone unit="section" n="e25-22"/>Ver<hi rend="grave">u</hi>m qu<hi rend="ligature">ae</hi>rat quis, unde <g type="ampersand">et</g> quomodo draco <expan><abbr>capt<hi rend="tilde">a</hi></abbr><ex>n</ex>
                      <lb n="27" break="no"/><abbr>dus</abbr></expan> erit? Respondent <expan><abbr>Philos<am>.</am></abbr><ex>ophi</ex></expan> <expan><abbr><hi rend="stroke">p</hi></abbr><ex>er</ex></expan> versum brevissim<hi rend="grave">e</hi>, Dant Rebis mon
                      <lb n="28" break="no"/>tes, dracones, <expan><abbr>terr<hi rend="acute">a</hi>q<am>;</am></abbr><ex>ue</ex></expan> fontes: <milestone unit="section" n="e25-23"/>De captatione ver<hi rend="grave">o</hi> videatur <persName ref="https://viaf.org/viaf/100226923">Tacitus</persName>,
-                     <lb n="29"/>quant<hi rend="circumflex">a</hi> cur<hi rend="circumflex">a</hi> <g type="ampersand">et</g> industri<hi rend="circumflex">a</hi> invigil<hi rend="circumflex">a&gt;</hi>rint qu<hi rend="grave">a</hi>mplurimi ut ingentem dra
+                     <lb n="29"/>quant<hi rend="circumflex">a</hi> cur<hi rend="circumflex">a</hi> <g type="ampersand">et</g> industri<hi rend="circumflex">a</hi> invigil<hi rend="circumflex">a</hi>rint qu<hi rend="grave">a</hi>mplurimi ut ingentem dra
                      <lb n="30" break="no"/>conem, in <placeName>Africa</placeName> observatum caperent, <g type="ampersand">et</g> ad <expan><abbr>Imp<am>.</am></abbr><ex>eratorem</ex></expan> <persName ref="https://viaf.org/viaf/89600176">Tiberium</persName> addu
                      <lb n="31" break="no"/>cerent, nempe intra lapides iter draconis solitum, septum <g type="ampersand">et</g> sensim
                      <lb n="32"/>in angustias coarctatum, ubi <expan><abbr>retib<am>.</am></abbr><ex>us</ex></expan> <g type="ampersand">et</g> vinculis inclusus, <expan><abbr>fustib<am>.</am></abbr><ex>us</ex></expan> <g type="ampersand">et</g> ver
                      <lb n="33" break="no"/>beribus tandem domitus, <g type="ampersand">et</g> ut onus multorum plaustrorum in na
                      <lb n="34" break="no"/>vem, qu<hi rend="circumflex">a</hi> <placeName>Romam</placeName> portatus est.
-                  </ab>
+                  </ab></div>
                <fw type="catchword" place="bottom-right" xml:lang="de">Der</fw>                  
             </div>
+         </div>
       </body>
   </text>
 </TEI>

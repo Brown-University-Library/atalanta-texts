@@ -122,7 +122,7 @@
               <div type="discourse-p2">
                  <ab>
                      <lb n="1"/>rat, qu<hi rend="grave">a</hi>m per aëra volet, lic<hi rend="grave">e</hi>t pennas speciosas habeat: <milestone unit="section" n="e07-11"/> De hac aut
-                     <lb n="2"/>simili <persName ref="http://viaf.org/viaf/24571510">Hermes</persName> (ut Author <title>Auror<hi rend="ligature">ae</hi></title> <expan><abbr>cap<am>.</am></abbr><ex>ite</ex></expan> <expan><abbr><am>5.</am><ex>quinto</ex></abbr></expan> testatur) ita scribit: <quote>consy
+                    <lb n="2"/>simili <persName ref="http://viaf.org/viaf/24571510">Hermes</persName> (ut Author <title>Auror<hi rend="ligature">ae</hi></title> <expan><abbr>cap<am>.</am></abbr><ex>ite</ex></expan> <expan><abbr><am>5.</am></abbr><ex>quinto</ex></expan> testatur) ita scribit: <quote>consy
                      <lb n="3" break="no"/>deravi avem sapientibus venerabilem, qu<hi rend="ligature">ae</hi> volate, dum est in Ariete,
                      <lb n="4"/>Cancro, Libra aut capricorno</quote>: Et <quote>acquires eam tibi perennem
                      <lb n="5"/>meris ex mineris <g type="ampersand">et</g> montanis petrosis</quote>: <milestone unit="section" n="e07-12"/> De e<hi rend="circumflex">a</hi>dem <persName ref="http://viaf.org/viaf/74280818">Senior</persName> in <title>Tabu
@@ -145,7 +145,7 @@
                      <lb n="22"/>granatis, <g type="ampersand">et</g> similibus, Elementa diutissim<hi rend="grave">e</hi> ill<hi rend="ligature">ae</hi>sa permanent con
                      <lb n="23" break="no"/>juncta, igne urgente <g type="ampersand">et</g> terra retinet reliqua apud se. <milestone unit="section" n="e07-19"/> In aliis com
                      <lb n="24" break="no"/>bustibilibus fit divisio <g type="ampersand">et</g> separatio unius ab alio, ita ut cineres in
-                     <lb n="25"/>fundo <choice><corr>relinquantur</corr><orig>relinquanrur</orig></choice>, aqua, aër <g type="ampersand">et</g> ignis superiora petant. <milestone unit="section" n="e07-20"/> Non itaque
+                     <lb n="25"/>fundo <choice><corr>relinquantur</corr><sic>relinquanrur</sic></choice>, aqua, aër <g type="ampersand">et</g> ignis superiora petant. <milestone unit="section" n="e07-20"/> Non itaque
                      <lb n="26"/>ad horum ultimorum compisitionem in<hi rend="ligature">ae</hi>qualem, haud ita forti
                      <lb n="27" break="no"/>ter mixtam, respiciendum, nec ad primorum commistionem, licet
                      <lb n="28"/>durabiliorem, tamen volatilium, sed ad mediorum soliditatem,

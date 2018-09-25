@@ -50,7 +50,8 @@
             
             <pb n="117" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="27" type="cardinal">XXVII</num>. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">117</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema <num value="27" type="cardinal">XXVII</num>. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">117</fw>
+            <div type="image" xml:lang="la"><head/></div>            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="27" type="cardinal">XXVII</num>.</head>
                <lg>

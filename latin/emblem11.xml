@@ -31,7 +31,7 @@
                         
             <div type="fugue" xml:lang="de">
                <head>
-                  <lb n="1"/>Machet weiß die <persName><hi rend="roman">Latonam</hi></persName> <pc>/</pc> und zerreisset
+                  <lb n="1"/>Machet weiß die <persName><hi rend="latin">Latonam</hi></persName> <pc>/</pc> und zerreisset
                   <lb n="2"/>die Bücher.
                </head>               
             </div>
@@ -39,11 +39,11 @@
             <div type="epigram" xml:lang="de">
                <head>XI. Epigrammatis Latini versio Germanica.</head>
                <lg>
-                  <lb n="1"/><l>Ein jeder kennet der <persName><hi rend="roman">Laton<hi rend="ligature">ae</hi></hi></persName> Zwilling Geschlecht wol<pc>/</pc></l>
-                  <lb n="2"/><l>(Wie dae Gerücht zeugt) welchs von <hi rend="roman">Jove</hi> gebohren senn sol<pc>/</pc></l>
+                  <lb n="1"/><l>Ein jeder kennet der <persName><hi rend="latin">Laton<hi rend="ligature">ae</hi></hi></persName> Zwilling Geschlecht wol<pc>/</pc></l>
+                  <lb n="2"/><l>(Wie dae Gerücht zeugt) welchs von <hi rend="latin">Jove</hi> gebohren senn sol<pc>/</pc></l>
                   <lb n="3"/><l>Diß andre nennnen Sonn und Mohn verknüpffe aller massen</l>
                   <lb n="4"/><l>Darin schwarzer Flecken sich viele spüren laffen<pc>/</pc></l>
-                  <lb n="5"/><l>Drumb mache <persName><hi rend="roman">Latonam</hi></persName> von Farben am Gesich gar weiß<pc>/</pc></l>
+                  <lb n="5"/><l>Drumb mache <persName><hi rend="latin">Latonam</hi></persName> von Farben am Gesich gar weiß<pc>/</pc></l>
                   <lb n="6"/><l>Und daß dir nicht schaden die Bücher <pc>/</pc> in Stücken reiß</l>
                </lg>
             </div>
@@ -133,7 +133,7 @@
                      <lb n="12"/>nutricem. Pri<hi rend="grave">u</hi>s autem <persName><expan><abbr>Dian<hi rend="tilde">a</hi></abbr><ex>m</ex></expan></persName> editam (Luna enim <g type="ampersand">et</g> albedo prim<hi rend="grave">o</hi>
                      <lb n="13"/>apparet) qu<hi rend="ligature">ae</hi> deinde obstetricis munere functa sit <expan><abbr>e<hi rend="circumflex">a</hi>d<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> die in eden
                      <lb n="14" break="no"/>do <pc>|</pc> suo fratre <persName>Apolline</persName>. <milestone unit="section" n="e11-15"/> Est autem <persName>Latona</persName> una ex <num value="12" type="cardinal">12<am>.</am></num> diis Hierogly
-                     <lb n="15" break="no"/>phicis <orgName><expan><abbr><hi rend="ligature">Ae</hi>gyptior<hi rend="tilde">u</hi></abbr><ex>m</ex></expan></orgName>, <hi rend="grave">a</hi> <expan><abbr>quib<am>.</am></abbr><ex>us</ex></expan> <expan><abbr>h</abbr><ex>a</ex><abbr><hi rend="hook">e</hi>c</abbr></expan> <expan><abbr>ali<hi rend="ligature">ae</hi>q<am>;</am></abbr><ex>ue</ex></expan> <expan><abbr>allegori</abbr><ex>a</ex><abbr><hi rend="hook">e</hi></abbr></expan> ad reliquas <expan><abbr>g<hi rend="tilde">e></hi></abbr><ex>n</ex><abbr>tes</abbr></expan> pro
+                     <lb n="15" break="no"/>phicis <orgName><expan><abbr><hi rend="ligature">Ae</hi>gyptior<hi rend="tilde">u</hi></abbr><ex>m</ex></expan></orgName>, <hi rend="grave">a</hi> <expan><abbr>quib<am>.</am></abbr><ex>us</ex></expan> <expan><abbr>h</abbr><ex>a</ex><abbr><hi rend="hook">e</hi>c</abbr></expan> <expan><abbr>ali<hi rend="ligature">ae</hi>q<am>;</am></abbr><ex>ue</ex></expan> <expan><abbr>allegori</abbr><ex>a</ex><abbr><hi rend="hook">e</hi></abbr></expan> ad reliquas <expan><abbr>g<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>tes</abbr></expan> pro
                      <lb n="16" break="no"/>pagat<hi rend="ligature">ae</hi> <expan><abbr>s<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>t</abbr></expan>, solis paucissimis <expan><abbr>sacerdotib<am>.</am></abbr><ex>us</ex></expan> <orgName><hi rend="ligature">Ae</hi>gyptiis</orgName> <expan><abbr>har<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <expan><abbr>ver<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> <expan><abbr>m<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>t<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> <g type="ampersand">et</g>
                      <lb n="17"/>sententiam intelligentibus, c<hi rend="ligature">ae</hi>teris omnibus ad alia subjecta, qu<hi rend="ligature">ae</hi>
                      <lb n="18"/>in rerum natura non essent, <expan><abbr>n<hi rend="tilde">e</hi></abbr><ex>m</ex><abbr>pe</abbr></expan> varios Deos De<hi rend="acute">a</hi>sque, ejusmodi

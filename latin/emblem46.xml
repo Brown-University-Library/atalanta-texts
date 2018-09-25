@@ -12,6 +12,11 @@
             <p>Information about the source</p>
          </sourceDesc>
       </fileDesc>
+     <encodingDesc>
+        <tagsDecl>
+           <rendition></rendition>
+        </tagsDecl>
+     </encodingDesc>
      <revisionDesc>
         <change when="2018-03-18" who="SJD">Start encoding</change>
         <change when="2018-03-18" who="SJD">Finish draft</change>
@@ -29,8 +34,8 @@
             <div type="fugue" xml:lang="de">
                <head>
 
-               <lb n="2"/>Zween Adler <pc>/</pc> einer von Often <pc>/</pc> der ander von Westen
-               <lb n="3"/>kommen zusammen.
+               <lb n="1"/>Zween Adler <pc>/</pc> einer von Often <pc>/</pc> der ander von Westen
+               <lb n="2"/>kommen zusammen.
             </head>
                
             </div>
@@ -95,7 +100,7 @@
                      <lb n="24"/>ver<hi rend="grave">o</hi> h<hi rend="ligature">ae</hi>c ab antiquissimis Poëtis, ut <persName>Orpheo</persName>, <persName>Lino</persName>, <persName>Museao</persName>, <persName ref="https://viaf.org/viaf/224924963">Home
                         <lb n="25" break="no"/>ro</persName>, scriptis vulgata essent, apud ignaros occasionem religioni <g type="ampersand">et</g> ve
                      <lb n="26" break="no"/>nerationi <persName type="divinity">Apollinis</persName> pr<hi rend="ligature">ae</hi>buerunt. <milestone unit="section" n="e46-09"/>Hinc in multis locis <placeName>Europ<hi rend="ligature">ae</hi></placeName> <g type="ampersand">et</g> <placeName>A
-                     <lb n="27" break="no"/>si<hi rend="ligature">ae</hi></placeName> cultus est <persName type="divinity">Apollo</persName>, ei<hi rend="grave">q</hi>ue erecta templa innumera. <milestone unit="section" n="e46-10"/>Pr<hi rend="ligature">ae</hi>cipu<hi rend="grave">e</hi> ver<hi rend="grave">o</hi>
+                     <lb n="27" break="no"/>si<hi rend="ligature">ae</hi></placeName> cultus est <persName type="divinity">Apollo</persName>, ei<hi rend="acute">q</hi>ue erecta templa innumera. <milestone unit="section" n="e46-10"/>Pr<hi rend="ligature">ae</hi>cipu<hi rend="grave">e</hi> ver<hi rend="grave">o</hi>
                      <lb n="28"/><placeName>Delphis</placeName> antiqua religione venerandum habuit templum, in quo
                      <lb n="29"/>statu<hi rend="ligature">ae</hi> plurim<hi rend="ligature">ae</hi> ex auro solido <g type="ampersand">et</g> argento magni ponderis <g type="ampersand">et</g> artifi
                      <lb n="30" break="no"/>cii <hi rend="grave">a</hi> regibus <g type="ampersand">et</g> principibus reposit<hi rend="ligature">ae</hi> erant, cum aliis donariis pre

@@ -40,7 +40,7 @@
                   <lb n="3"/><l>Was Wunder ist <pc>/</pc> so wir sagen <pc>/</pc> daß der Weisen Kind ernehret</l>
                   <lb n="4"/><l>Sen von der Erd <pc>/</pc> so ihm ihre Milch hat gewehret?</l>
                   <lb n="5"/><l>So dann die Thier gespeiset <expan><abbr>ha</abbr><ex>be</ex><abbr>n</abbr></expan> solche grosse Helden gewiß <pc>/</pc></l>
-                  <lb n="6"/><l>Wie groß mag dann der senn <pc>/</pc> <choice><corr>dessen</corr><orig>dessin</orig></choice> die Erd Säugmutter ist?</l>
+                  <lb n="6"/><l>Wie groß mag dann der senn <pc>/</pc> <choice><reg>dessen</reg><orig>dessin</orig></choice> die Erd Säugmutter ist?</l>
                </lg>
             </div>
             
@@ -143,7 +143,7 @@
                      <lb n="25"/><milestone unit="section" n="e02-22"/> At contrarium quid c<hi rend="ligature">oe</hi>teris lactis generibus, qu<hi rend="ligature">ae</hi> convertuntur <g type="ampersand">et</g>
                      <lb n="26"/>non convertunt, in hoc admirando succo terrestri contingit, cum
                      <lb n="27"/>propter vim ejus fotissimam vald<hi rend="grave">e</hi> alteret naturam nutriti, quem
-                     <lb n="28" break="no"/>admodum lup<hi rend="ligature">ae</hi> lac <persName><choice><orig>Remuli</orig><corr>Romuli</corr></choice></persName> corpus in naturam animosam <g type="ampersand">et</g> ad bel
+                     <lb n="28" break="no"/>admodum lup<hi rend="ligature">ae</hi> lac <persName><choice><sic>Remuli</sic><corr>Romuli</corr></choice></persName> corpus in naturam animosam <g type="ampersand">et</g> ad bel
                      <lb n="29" break="no"/>lum promptam disposuisse creditur.
                     </ab>
                   </div>
