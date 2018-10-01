@@ -23,13 +23,13 @@
    
   <text>
       <body>
-         <div type="title">
+         <div type="titlePage">
             <pb n="1" edRef="Maier1618"/>                   
                         
             <figure><graphic url=""></graphic></figure>
             
             <div type="title" xml:lang="la">
-                <ab>
+                <ab rend="center">
                    <lb n="1"/><title rend="caps">Atalanta
                    <lb n="2"/>Fugiens</title>,
                    <lb n="3"/>hoc est,
@@ -37,7 +37,9 @@
                    <lb n="5"/>Nova
                    <lb n="6"/>De Secretis Natur<hi rend="ligature">ae</hi>
                    <lb n="7"/>Chymica</title>,
-                   <lb n="8" rend="outdent"/>Accomodata partim oculis <g type="ampersand">et</g> intellectui, figuris
+                </ab>
+               <ab rend="left">
+                   <lb n="8"/>Accomodata partim oculis <g type="ampersand">et</g> intellectui, figuris
                    <lb n="9"/>cupro incisis, adjectis<hi rend="acute">q</hi>ue sententiis, Epigram
                    <lb n="10" break="no"/>matis <g type="ampersand">et</g> notis, partim auribus <g type="ampersand">et</g> recreationi
                    <lb n="11"/>animi plus minus <num value="50" type="cardinal">50</num>. Fugis Musicalibus trium
@@ -46,7 +48,9 @@
                    <lb n="14" break="no"/>deant, non <expan><abbr>absq<am>;</am></abbr><ex>ue</ex></expan> singulari jucunditate videnda,
                    <lb n="15"/>legenda, meditanda, intelligenda, dijudicanda,
                    <lb n="16"/>canenda <g type="ampersand">et</g> audienda:
-                   <lb n="17" rend="center"/><hi rend="italic">Authore</hi>
+                </ab>
+               <ab rend="center">
+                  <lb n="17"/><hi rend="italic">Authore</hi>
                    <lb n="18"/><persName ref="http://viaf.org/viaf/103210603"><hi rend="caps">Michaele Majero</hi></persName> <expan><abbr>Imperial<am>.</am></abbr><ex>i</ex></expan> Con
                    <lb n="19" break="no"/>sistorii Comite, <expan><abbr>Med<am>.</am></abbr><ex>icinarum</ex></expan> <expan><abbr>D<am>.</am></abbr><ex>octore</ex></expan> <expan><abbr>Eq<am>.</am></abbr><ex>uite</ex></expan> <expan><abbr>ex<am>.</am></abbr><ex>empto</ex></expan> <expan><abbr><g type="ampersand">et</g>c</abbr><ex>aetera</ex></expan>.
                    <lb n="20"/><placeName><hi rend="caps">Oppenheimii</hi></placeName>
