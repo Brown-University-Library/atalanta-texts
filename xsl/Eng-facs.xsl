@@ -90,9 +90,7 @@
     </xsl:template>
     
     <xsl:template match="af:lb">
-        <xsl:if test="@break='no'">
-        <xsl:text>=</xsl:text>
-        </xsl:if>
+        <xsl:if test="@break='no'"><xsl:text>=</xsl:text></xsl:if>
         <br />
     </xsl:template>
     

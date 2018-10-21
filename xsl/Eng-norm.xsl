@@ -24,7 +24,7 @@
         <html>
             <head>
                 <title>Atalanta Fugiens (Beinecke Ms. transcription) Facsimile Copy. Emblem
-                        <xsl:value-of select="af:div[@type = 'emblem/@n']"/></title>
+                        <xsl:value-of select="af:div[@type='emblem/@n']"/></title>
                 <link rel="stylesheet" type="text/css" href="atalantaProof-color-reading.css"/>
             </head>
 
@@ -45,12 +45,12 @@
         <xsl:apply-templates/>
     </xsl:template>
 
-    <xsl:template match="af:div[@type = 'emblem']">
+    <xsl:template match="af:div[@type='emblem']">
         <h2 class="pageTitle">Atalanta Fugiens: Emblem <xsl:value-of select="@n"/></h2>
         <xsl:apply-templates/>
     </xsl:template>
 
-    <xsl:template match="af:div[@type = 'title' or @type = 'epigram' or @type = 'discourse']">
+    <xsl:template match="af:div[@type='title' or @type='epigram' or @type='discourse']">
         <div class="{@type}">
             <!--<h3 class="label"><xsl:value-of select="upper-case(@type)"/></h3>-->
             <xsl:apply-templates/>
@@ -65,7 +65,7 @@
 
     <xsl:template match="af:lg">
         <xsl:choose>
-            <xsl:when test="parent::af:div[@type = 'epigram']">
+            <xsl:when test="parent::af:div[@type='epigram']">
                 <div class="verse-epigram">
                     <xsl:apply-templates/>
                 </div>
@@ -134,7 +134,7 @@
         </span>
     </xsl:template>
 
-    <xsl:template match="af:seg[@rend = 'underline']">
+    <xsl:template match="af:seg[@rend='underline']">
         <xsl:choose>
             <xsl:when test="@hand">
                 <span class="underline{@hand}">
@@ -150,20 +150,20 @@
 
     </xsl:template>
 
-    <xsl:template match="af:seg[@rend = 'italics']">
+    <xsl:template match="af:seg[@rend='italics']">
         <span class="italics">
             <xsl:apply-templates/>
         </span>
     </xsl:template>
 
-    <xsl:template match="af:hi[@rend = 'superscript']">
+    <xsl:template match="af:hi[@rend='superscript']">
         <span class="superscript">
             <xsl:apply-templates/>
         </span>
     </xsl:template>
 
     <xsl:template match="af:note">
-        <xsl:if test="@place = 'margin'">
+        <xsl:if test="@place='margin'">
             <span class="note-mark">*</span>
             <div class="margin-note">
                 <span class="note-mark">
@@ -172,7 +172,7 @@
                 <xsl:apply-templates/>
             </div>
         </xsl:if>
-        <xsl:if test="@type = 'GE'">
+        <xsl:if test="@type='GE'">
             <span class="help">[<xsl:apply-templates/>]</span>
         </xsl:if>
     </xsl:template>
@@ -182,7 +182,7 @@
             <xsl:when test="following-sibling::af:lb[1]"/>
             <xsl:otherwise>
                 <xsl:choose>
-                    <xsl:when test="@rend = 'double-hyphen'">
+                    <xsl:when test="@rend='double-hyphen'">
                         <xsl:text>=</xsl:text>
                     </xsl:when>
                     <xsl:otherwise>
