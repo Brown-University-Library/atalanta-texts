@@ -118,23 +118,11 @@
         <span class="pb atalanta-fugiens"><xsl:value-of select="@n"/></span>
     </xsl:template>
     
-    <xsl:template match="af:lb" mode="abbrev">
-        <xsl:if test="@break='no'">
-            <xsl:text>-</xsl:text>
-        </xsl:if>
-        <br />
-    </xsl:template>
-    
-    <xsl:template match="af:lb" mode="expand"/>
-    
     <xsl:template match="af:lb">
-        <xsl:if test="@break='no'">
-            <xsl:text>-</xsl:text>
-        </xsl:if>
-        <br />
+        <span class="original">
+        <xsl:if test="@break='no'"><xsl:text>-</xsl:text></xsl:if><br />
+        </span>
     </xsl:template>
-    
-    
    
     <xsl:template match="text()[following-sibling::node()[1][self::af:lb[@break eq 'no']]]" mode="#all">
         <xsl:value-of select="substring( normalize-space( concat('␠',.)), 2 )"/>
@@ -290,7 +278,8 @@
     
     <!-- Kludgy way to handle these substitutions before I put them into the header. Need to handle 3 modes: in mode="abbrev"
          the charager is shown with the punctuation. In empty mode, again, shown with punctuation but this occurs outside 
-         an abbreviation. Third mode=expand" should just apply templates and not show the punctuation/abbreviation mark.
+         an abbreviation. Third mode=expand" should just apply templates and not show the punctuation/abbreviation mark.- there seem to be no 
+         punctuation marks in expansions of abbreviations 
    
     -->
     
