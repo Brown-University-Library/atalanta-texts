@@ -23,19 +23,19 @@
                 <pb n="01"/>
                 
                 
-                <div type="title" xml:lang="en">
+                <div type="titlePage" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="001"/>
-                    <head>
+                    <ab rend="center">
                         <lb/><seg rend="italics">Atalanta running,
                         <lb/>that is,</seg>
-                    </head>
+                    </ab>
   
-                    <head>
+                    <ab rend="center">
                         <lb/><seg rend="italics">New <choice><orig>Chymicall</orig><reg>Chymical</reg></choice> Emblems relating to the
                         <lb/>Secrets of Nature,</seg>
-                    </head>
+                    </ab>
   
-                    <head>
+                    <ab rend="center">
                         <lb/><seg rend="italics"><choice><orig>Accomodated</orig><reg>Accommodated</reg></choice> partly to the eyes and understanding, with figures <choice><orig>cutt</orig><reg>cut</reg></choice>
                         <lb/>in Copper, and Sentences, Epigrams, and notes added, partly to the
                         <lb/>ears and recreation of the mind, with 50 <choice><orig>musicall</orig><reg>musical</reg></choice> flights of
@@ -55,29 +55,30 @@
                             </add>
                         </subst>
                         <lb/>the Author.</seg>
-                    </head>
+                    </ab>
 
-                    <head>
+                    <ab rend="centr">
                         <lb/><seg rend="italics">Michael Majerus Count of the Imperiall Con
                         <lb break="no"/>sistory. Doctor of <choice><orig>Physicke</orig><reg>Physic</reg></choice>. Knight of etc.
                         <lb/><pc>. . . . .</pc></seg>
-                    </head>
-                    <head>
+                    </ab>
+                    <ab rend="center">
                         <lb/><seg rend="italics">Oppenheim.</seg>
-                    </head>
-                    <head>
+                    </ab>
+                    <ab rend="center">
                         <lb/><seg rend="italics">Printed by Hieronymus Gallerus, at the charge of
                         <lb/>John Theodore de Bry.
                         <lb/>1618.
                         <lb/><pc>. . . .</pc></seg>
-                    </head>
+                    </ab>
                 </div>
                 
                 
                 <pb n="02"/>
-                <div type="epigram" xml:lang="en">
+                <div type="epigram-authoris" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="002"/>
-                    <head rend="italics">the Author's <choice><orig>Epigramme</orig><reg>Epigram</reg></choice>.</head>
+                    <div type="epigram" xml:lang="en">
+                        <head rend="italics">the Author's <choice><orig>Epigramme</orig><reg>Epigram</reg></choice>.</head>
                     <lg>
                         <l>The Hesperian apples of the Cyprian dame</l>
                         <l>Gave to the nimble youth a victors fame:</l>
@@ -105,15 +106,14 @@
                         <l>The treasures here <choice><orig>inclosd</orig><reg>enclosed</reg></choice> may <choice><orig>seeke</orig><reg>seek</reg></choice> and find:</l>
                         <l>What wealth <choice><orig>i'th</orig><reg>in the</reg></choice> world or health in medicine <choice><orig>lyes</orig><reg>lies</reg></choice></l>
                         <l>These two united <choice><orig>Lyons</orig><reg>Lions</reg></choice> <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>comprize</orig><reg>comprise</reg></choice>.</l>
-                    </lg>
+                    </lg></div>
                 </div>   
                         
                 
-                <pb n="03"/> 
-                <div type="title" xml:lang="en">
-                    <milestone unit="page" ed="Meier" n="003"/>
-                    <head>
-                        <lb/><seg rend="italics">Michael Majerus Doctor of <choice><orig>Physicke</orig><reg>Physic</reg></choice>, <choice><orig>Præsident</orig><reg>President</reg></choice> of
+                <pb n="03"/> <milestone unit="page" ed="Meier" n="003"/>
+                    <div type="dedication">
+                        <ab rend="center italics">
+                        <lb/>Michael Majerus Doctor of <choice><orig>Physicke</orig><reg>Physic</reg></choice>, <choice><orig>Præsident</orig><reg>President</reg></choice> of
                         <lb/>the <choice><orig>Imperiall</orig><reg>Imperial</reg></choice> Consistory, Knight etc. most humbly
                         <lb/>offers, presents, and dedicates this testimony (such
                         <lb/>as it is) of his good will and gratitude to the most
@@ -121,25 +121,19 @@
                         <lb break="no"/>tory Order of the <choice><orig>Imperiall</orig><reg>Imperial</reg></choice> <choice><orig>Republicke</orig><reg>Republic</reg></choice> of <pc>--</pc>
                         <lb/>Mülhause<add>n</add> in Thuringia, consisting of men
                         <lb/>incomparable for virtue, learning, and <pc>--</pc>
-                        <lb/>true <choice><orig>noblenesse</orig><reg>nobleness</reg></choice> of mind;</seg>
-                    </head>
-                </div>
-                
-                
-                <div type="title" xml:lang="en">
-                    <head>
-                        <lb/><seg rend="italics">as <choice><orig>allso</orig><reg>also</reg></choice>
+                        <lb/>true <choice><orig>noblenesse</orig><reg>nobleness</reg></choice> of mind;
+                    </ab>
+              
+                    <ab rend="center italics">
+                        <lb/>as <choice><orig>allso</orig><reg>also</reg></choice>
                         <lb/>to the most vigilant <choice><orig>Syndicke</orig><reg>Syndic</reg></choice> thereof of Christopher
                         <lb/>Reinart, a most eminent Doctor of both <choice><orig>lawes</orig><reg>laws</reg></choice>, etc.
                         <lb/>being all his honored and much esteemed <pc>-</pc>
-                        <lb/><choice><orig>freinds</orig><reg>friends</reg></choice> and Masters</seg>
-                    </head>
-                </div>
-                
-                
-                <div type="discourse" xml:lang="en">
+                        <lb/><choice><orig>freinds</orig><reg>friends</reg></choice> and Masters
+                    </ab></div>
+                <div type="dedication">
+                        <salute>Most honorable and most prudent Senators!</salute>
                     <ab>
-                        <lb/>Most honorable and most prudent Senators!
                         <lb rend="indent"/>As touching that Tripos <pc>-</pc>
                         <lb/>given by Vulcan to Pelops the <choice><orig>Bridegroome</orig><reg>Bridegroom</reg></choice> when <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>marryed</orig><reg>married</reg></choice> Hippo
                         <lb break="no"/>damia the daughter of Oënomaus King of Elis, they report, that, being of
@@ -175,12 +169,18 @@
                         <lb/>according to the <choice><orig>meanesse</orig><reg>meanness</reg></choice> of the writing, but the candor of my mind, <pc>-</pc>
                         <lb/>which I am <choice><orig>assurd</orig><reg>assured</reg></choice> of, and for the future receive and register <choice><orig>mee</orig><reg>me</reg></choice> <pc>-</pc>
                         <lb/>amongst the most <choice><orig>dutifull</orig><reg>dutiful</reg></choice> of your <choice><orig>Honours</orig><reg>Honors</reg></choice> servants. Farewell.
-                        <lb/>
+                       
+                    </ab>
+                    <closer>
                         <lb/>Frankfurt ad Mænum
                         <lb/>1617. August<pc>. . . .</pc>
-                        <lb/>
-                        <lb/><milestone unit="page" ed="Meier" n="006"/><seg rend="italics">The <choice><orig>Præface</orig><reg>Preface</reg></choice> to the Reader.</seg>
-                        <lb/>Candid Reader!
+                    </closer>
+                        </div>
+                    <div type="preface">
+                        <milestone unit="page" ed="Meier" n="006"/>
+                        <head rend="italics center">The <choice><orig>Præface</orig><reg>Preface</reg></choice> to the Reader.</head>         
+                        <opener>Candid Reader!</opener>
+                        <ab>
                         <lb rend="indent"/>It is a truth <choice><orig>denyd</orig><reg>denied</reg></choice> by none that man in his composition
                         <lb/><choice><orig>repræsents</orig><reg>represents</reg></choice> a compendium of the universe, and is destinated to live three kinds
                         <lb/>of life, namely a vegetable, in his mothers <choice><orig>wombe</orig><reg>womb</reg></choice>, where indeed <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>growes</orig><reg>grows</reg></choice> <pc>-</pc>
@@ -305,8 +305,9 @@
                         <lb/>which are <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>usefull</orig><reg>useful</reg></choice> and serviceable both to the understanding and
                         <lb/>many of the senses, that great utility besides delight and recreation <pc>-</pc>
                         <lb/>may be expected from them? Farewell <pc>. . . . . . .</pc>
-                    </ab>
-                </div>
+                        </ab>
+                    </div>
+                
             </div>
         </body>
     </text>
