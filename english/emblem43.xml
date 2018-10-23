@@ -49,7 +49,7 @@
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="182"/>
                     <head rend="italics">Discourse 43.</head>
-                    <ab> 
+                    <div type="discourse-p1"><ab> 
                         <lb/><choice><orig>Wee</orig><reg>We</reg></choice> daily in many places hear birds prattling or imitating the <choice><orig>voyce</orig><reg>voice</reg></choice><milestone unit="section" n="e03-01" /> 
                         <lb/>of man, such as <choice><orig>Parrotts</orig><reg>Parrots</reg></choice>, Ravens, Dawes, and <choice><orig>Pyes</orig><reg>Pies</reg></choice>. <choice><orig>Soe</orig><reg>So</reg></choice> Pliny writes <pc>-</pc>
                         <lb/>that, at the time wherein <choice><orig>hee</orig><reg>he</reg></choice> published his history, Agrippina the <pc>-</pc>
@@ -86,7 +86,7 @@
                         <lb/>subject is <choice><orig>calld</orig><reg>called</reg></choice> a <choice><orig>Vultur</orig><reg>Vulture</reg></choice>, there is reason to be <choice><orig>alleadged</orig><reg>alleged</reg></choice>. Of <choice><orig>Vulturs</orig><reg>Vultures</reg></choice> <pc>-</pc>
                         <lb/>the <choice><orig>blacke</orig><reg>black</reg></choice> are of most esteem, they are rapacious, but fly Slowly, be
                         <lb break="no"/>cause of the <choice><orig>bignesse</orig><reg>bigness</reg></choice> of body. They say that this bird conceives <pc>-</pc>
-                        <lb/>without the seed of the males, and generates without coition, <milestone unit="page" ed="Meier" n="183"/>and
+                        <lb/>without the seed of the males, and generates without coition, </ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier" n="183"/>and
                         <lb/>that their offspring <choice><orig>doe</orig><reg>do</reg></choice> arrive to a great age even to a hundred <pc>-</pc>
                         <lb/>years. Their nests they build in high rocks, <choice><orig>noe</orig><reg>no</reg></choice> man <choice><orig>hath</orig><reg>has</reg></choice> attained
                         <lb/>to them. Two chickens are for the most part seen: They are <choice><orig>helpe
@@ -142,7 +142,7 @@
                         <lb/>planted wih trees, because there is our stone found, and hidden: And Hermes:
                         <lb/>Take yee the blessed Stone, <choice><orig>breake</orig><reg>break</reg></choice> it to <choice><orig>peices</orig><reg>pieces</reg></choice>, and wash the red stone, from
                         <lb/>which is extracted that which is found in mountains, and especially sometimes in old Sinks.
-                    </ab>   
+                    </ab></div>   
                 </div>
                 
             </div>

@@ -49,7 +49,7 @@
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="090"/>
                     <head rend="italics">Discourse 20.</head>
-                    <ab> 
+                    <div type="discourse-p1"><ab> 
                         <lb/>The common token and <choice><orig>symboll</orig><reg>symbol</reg></choice>, by which the Philosophers know one another,<milestone unit="section" n="e03-01" /> 
                         <lb/>is, that nature is guided, taught, governed, subdued and overcome by nature, as
                         <lb/>a young <choice><orig>Schollar</orig><reg>Scholar</reg></choice> by a <choice><orig>Mistresse</orig><reg>Mistress</reg></choice>, a waiting <choice><orig>mayd</orig><reg>maid</reg></choice> by her Lady, a subject by a
@@ -84,7 +84,7 @@
                         <lb/>Some <choice><orig>doe</orig><reg>do</reg></choice> cast the powders of <choice><orig>crystall</orig><reg>crystal</reg></choice> <choice><orig>glasse</orig><reg>glass</reg></choice>, or the gall of <choice><orig>glasse</orig><reg>glass</reg></choice> upon
                         <lb/><choice><orig>metallicke</orig><reg>metallic</reg></choice> powders which are to be dissolved, that they may not pe
                         <lb break="no"/>rish by over much fire: Instead of this gall of <choice><orig>glasse</orig><reg>glass</reg></choice> the Philosophers
-                        <lb/><choice><orig>doe</orig><reg>do</reg></choice> use their Eudica, <milestone unit="page" ed="Meier" n="091"/>which Morienus <choice><orig>sas</orig><reg>says</reg></choice> is <choice><orig>allso</orig><reg>also</reg></choice> the gall of <choice><orig>glasse</orig><reg>glass</reg></choice>, <pc>-</pc>
+                        <lb/><choice><orig>doe</orig><reg>do</reg></choice> use their Eudica, </ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier" n="091"/>which Morienus <choice><orig>sas</orig><reg>says</reg></choice> is <choice><orig>allso</orig><reg>also</reg></choice> the gall of <choice><orig>glasse</orig><reg>glass</reg></choice>, <pc>-</pc>
                         <lb/>and to be had in <choice><orig>glasse</orig><reg>glass</reg></choice> <choice><orig>vessells</orig><reg>vessels</reg></choice>: for the heat of fire consumes the body
                         <lb/>with hasty burning: but Eudica <choice><orig>applyed</orig><reg>applied</reg></choice> will free <choice><orig>bodyes</orig><reg>bodies</reg></choice> changed into
                         <lb/>earth from any burning: For <choice><orig>bodyes</orig><reg>bodies</reg></choice>, when now they <choice><orig>doe</orig><reg>do</reg></choice> not <choice><orig>retaine</orig><reg>retain</reg></choice> <pc>-</pc>
@@ -129,7 +129,7 @@
                         <lb/>as it is not impeded by diseases and violence: And thus one nature <pc>-</pc>
                         <lb/><choice><orig>teacheth</orig><reg>teaches</reg></choice> another, which you must observe and follow for an example
                         <lb/>of the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> <choice><orig>worke</orig><reg>work</reg></choice>, as a thing most clear and evident <pc>. . .</pc>
-                    </ab>   
+                    </ab>  </div> 
                 </div>
                 
             </div>

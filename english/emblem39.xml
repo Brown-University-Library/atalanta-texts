@@ -50,7 +50,7 @@
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="166"/>
                     <head rend="italics">Discourse 39.</head>
-                    <ab> 
+                    <div type="discourse-p1"><ab> 
                         <lb/>Bacasser a Philosopher in Turba <choice><orig>sayth</orig><reg>says</reg></choice>, that which you <choice><orig>seeke</orig><reg>seek</reg></choice> for is of <choice><orig>noe</orig><reg>no</reg></choice> small<milestone unit="section" n="e03-01" /> 
                         <lb/>value, for you <choice><orig>seeke</orig><reg>seek</reg></choice> the greatest treasure, and most excellent gift of God. <pc>-</pc>
                         <lb/>And <choice><orig>learne</orig><reg>learn</reg></choice>, O yee students, that which the Philosophers have long since inti
@@ -90,7 +90,7 @@
                         <lb break="no"/>nesse</orig><reg>Sharpness</reg></choice> of understanding and learning, not <choice><orig>soe</orig><reg>so</reg></choice> obvious to all other men,
                         <lb/>from which brutes are <choice><orig>exceding</orig><reg>exceeding</reg></choice> distant. <choice><orig>Hee</orig><reg>He</reg></choice> that is conversant in <pc>-</pc>
                         <lb/>the Philosophers assertions will easily know them to be such: For <pc>-</pc>
-                        <lb/>where one thing is <choice><orig>sayd</orig><reg>said</reg></choice>, and another thing <choice><orig>signifyd</orig><reg>signified</reg></choice>, there <milestone unit="page" ed="Meier" n="167"/><choice><orig>æqui
+                        <lb/>where one thing is <choice><orig>sayd</orig><reg>said</reg></choice>, and another thing <choice><orig>signifyd</orig><reg>signified</reg></choice>, there </ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier" n="167"/><choice><orig>æqui
                         <lb break="no"/>vocation</orig><reg>equivocation</reg></choice> <choice><orig>begetts</orig><reg>begets</reg></choice> <choice><orig>errour</orig><reg>error</reg></choice>, which is not <choice><orig>onely</orig><reg>only</reg></choice> permitted, but <choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>enjoyned</orig><reg>enjoined</reg></choice>
                         
                         
@@ -135,7 +135,7 @@
                         <lb break="no"/>cret, or a toad, going with a slow pace; because it is fixed fixing <pc>-</pc>
                         <lb/>another, and not <choice><orig>avoyding</orig><reg>avoiding</reg></choice> or fearing fire, which though a medium
                         <lb/>of mean repute the Philosophers can by <choice><orig>noe</orig><reg>no</reg></choice> means be without <pc>. .</pc>
-                    </ab>   
+                    </ab></div>   
                 </div>
                 
             </div>

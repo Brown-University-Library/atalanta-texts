@@ -49,7 +49,7 @@
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="098"/>
                     <head rend="italics">Discourse 22.</head>
-                    <ab> 
+                    <div type="discourse-p1"><ab> 
                         <lb/>As <choice><orig>Mercuriall</orig><reg>Mercurial</reg></choice> Statues are <choice><orig>coḿonly</orig><reg>commonly</reg></choice> placed in roads where three <choice><orig>wayes</orig><reg>ways</reg></choice> meet, to<milestone unit="section" n="e03-01" /> 
                         <lb break="no"/>gether with a title and inscription, to guide <choice><orig>doubtfull</orig><reg>doubtful</reg></choice> travellers into the right
                         <lb/>way, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> are <choice><orig>certaine</orig><reg>certain</reg></choice> acute sentences inferred in many of their books
@@ -83,7 +83,7 @@
                         <lb/><choice><orig>hott</orig><reg>hot</reg></choice> lead <choice><orig>præpared</orig><reg>prepared</reg></choice>, are produced the other Planets, as Mars from Juno, Mer
                         <lb break="no"/>cury from <choice><orig>Maja</orig><reg>Maia</reg></choice>, the daughter of Atlas as <choice><orig>mountaine</orig><reg>mountain</reg></choice> of Mauritania, <pc>-</pc>
                         <lb/>Luna and Sol from Latona: which four are brought into the world by coc
-                        <lb break="no"/>tion alone or womens <choice><orig>worke</orig><reg>work</reg></choice>: <milestone unit="page" ed="Meier" n="099"/>but by coction, maturation and the dispersion
+                        <lb break="no"/>tion alone or womens <choice><orig>worke</orig><reg>work</reg></choice>: </ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier" n="099"/>but by coction, maturation and the dispersion
                         <lb/>of the more crude parts is <choice><orig>signifyd</orig><reg>signified</reg></choice>, which is <choice><orig>performd</orig><reg>performed</reg></choice> by Vulcan in <choice><orig>Philo
                         <lb break="no"/>sophicall</orig><reg>Philosophical</reg></choice> <choice><orig>vessells</orig><reg>vessels</reg></choice>: for its is not to be <choice><orig>supposd</orig><reg>supposed</reg></choice>, that it is vulgar coction, as to <pc>-</pc>
                         <lb/>the way of operating, but it agrees with it as to the end: For as a woman ma
@@ -115,7 +115,7 @@
                         <lb/>being <choice><orig>aire</orig><reg>air</reg></choice> <choice><orig>containd</orig><reg>contained</reg></choice> within the water, which <choice><orig>doe</orig><reg>do</reg></choice> easily vanish away, the
                         <lb/><choice><orig>aire</orig><reg>air</reg></choice> betaking <choice><orig>itselfe</orig><reg>itself</reg></choice> from the water to its <choice><orig>owne</orig><reg>own</reg></choice> Sphere, and the water <pc>-</pc>
                         <lb/>settling to its <choice><orig>owne</orig><reg>own</reg></choice> center <pc>. . . . . . . . . .</pc> 
-                    </ab>   
+                    </ab> </div>  
                 </div>
                 
             </div>

@@ -50,7 +50,7 @@
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="042"/>
                     <head rend="italics">Discourse 8.</head>
-                    <ab> 
+                    <div type="discourse-p1"><ab> 
                         <lb/><milestone unit="section" n="e08-01"/>Many and <choice><orig>severall</orig><reg>several</reg></choice> sorts of birds there are, which as they are indefinite in number, <choice><orig>soe</orig><reg>so</reg></choice> 
                         <lb/>are they <choice><orig>unknowne</orig><reg>unknown</reg></choice> to us by names: <milestone unit="section" n="e08-02"/>Story tells us of a very great bird appearing at a <pc>-</pc>
                         <lb/><choice><orig>certaine</orig><reg>certain</reg></choice> time of the year in a small Isle of the Sea called Ruc, because it can lift
@@ -84,7 +84,7 @@
                         <lb/>alone <choice><orig>hee</orig><reg>he</reg></choice> enjoyed in his mothers <choice><orig>wombe</orig><reg>womb</reg></choice>, another more perfect is obtained by
                         <lb/>coming into the light of this world, as by nativity: <milestone unit="section" n="e08-14"/>yea <choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>wee</orig><reg>we</reg></choice> being de
                         <lb break="no"/>prived of this present life, which <choice><orig>wee</orig><reg>we</reg></choice> lead, another most perfect and <choice><orig>æter
-                            <lb break="no"/>nall</orig><reg>eternal</reg></choice> is at hand: <milestone unit="page" ed="Meier" n="043"/>Thus Lully <choice><orig>doth</orig><reg>does</reg></choice> in many places call this fiery sword a <pc>-</pc>
+                            <lb break="no"/>nall</orig><reg>eternal</reg></choice> is at hand: </ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier" n="043"/>Thus Lully <choice><orig>doth</orig><reg>does</reg></choice> in many places call this fiery sword a <pc>-</pc>
                         <lb/>Sharp Spear; <milestone unit="section" n="e08-15"/>because fire <choice><orig>doth</orig><reg>does</reg></choice> as a Sharp Spear or sword perforate <choice><orig>bodyes</orig><reg>bodies</reg></choice>, <pc>-</pc>
                         <lb/>and make them porous and pervious, that water can penetrate to dissolve
                         <lb/>and reduce them from <choice><orig>hardnesse</orig><reg>hardness</reg></choice> to <choice><orig>softnesse</orig><reg>softness</reg></choice> and tractability. <milestone unit="section" n="e08-16"/>In the
@@ -110,7 +110,7 @@
                         <lb/>made, except of our white, starry, splendid powder, and of the white <pc>-</pc>
                         <lb/>stone, of which powder are made <choice><orig>fitt</orig><reg>fit</reg></choice> instruments for the <choice><orig>egge</orig><reg>egg</reg></choice>; yet they
                         <lb/>have not named the <choice><orig>egge</orig><reg>egg</reg></choice>, nor what birds the <choice><orig>egge</orig><reg>egg</reg></choice> was <pc>. . . . .</pc>
-                    </ab>   
+                    </ab></div>  
                 </div>
                 
             </div>

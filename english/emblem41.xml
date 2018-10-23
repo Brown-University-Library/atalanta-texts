@@ -50,7 +50,7 @@
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="174"/>
                     <head rend="italics">Discourse 4i.</head>
-                    <ab> 
+                    <div type="discourse-p1"><ab> 
                         <lb/>How improperly some of the Mythologists resolve the Allegory of <pc>-</pc><milestone unit="section" n="e03-01" /> 
                         <lb/>Adonis, and ascribe him sometimes to the <choice><orig>Sunne</orig><reg>Sun</reg></choice>, the <choice><orig>Boare</orig><reg>Boar</reg></choice>, by which
                         <lb/><choice><orig>hee</orig><reg>he</reg></choice> was <choice><orig>slayne</orig><reg>slain</reg></choice>, to a hard winter, sometimes to the seed of wheat, <pc>-</pc>
@@ -90,7 +90,7 @@
                         <lb/>daughter be not <choice><orig>joynd</orig><reg>joined</reg></choice> together, and an offspring produced from thence,
                         <lb/>nothing is perfected in this art. For here, the nearer the man and
                         <lb/>wife are one to the other in blood, in the first degree of consan
-                        <lb break="no"/>guinity, or second, the more <choice><orig>fruitfull</orig><reg>fruitful</reg></choice> they are, <milestone unit="page" ed="Meier" n="175"/>and on the con
+                        <lb break="no"/>guinity, or second, the more <choice><orig>fruitfull</orig><reg>fruitful</reg></choice> they are, </ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier" n="175"/>and on the con
                         <lb break="no"/>trary, the more remote, the more <choice><orig>unfruitfull</orig><reg>unfruitful</reg></choice>, which is not tolerable
                         <lb/>in the matrimony of men. For this cause <choice><orig>Œdypus</orig><reg>Oedipus</reg></choice> <choice><orig>marryd</orig><reg>married</reg></choice> his <choice><orig>owne</orig><reg>own</reg></choice>
                         <lb/>mother, Jupiter his Sister, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> Osiris, <choice><orig>Saturne</orig><reg>Saturn</reg></choice>, Sol, the red
@@ -120,7 +120,7 @@
                         <lb/>of an allegory, <choice><orig>doe</orig><reg>do</reg></choice> consent in <choice><orig>wonderfull</orig><reg>wonderful</reg></choice> harmony one with another, <pc>-</pc>
                         <lb/>but those things which are false are repugnant, and inconsistent with
                         <lb/>themselves, and others <pc>. . . . . . . . .</pc>
-                    </ab>   
+                    </ab>  </div> 
                 </div>
                 
             </div>

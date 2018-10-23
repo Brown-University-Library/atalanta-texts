@@ -49,7 +49,7 @@
             <div type="discourse" xml:lang="en">
                <milestone unit="page" ed="Meier" n="026"/>
                <head rend="italics">Discourse 4.</head>
-               <ab> 
+               <div type="discourse-p1"><ab> 
                   <lb/><milestone unit="section" n="e04-01" />The divine and <choice><orig>politicall</orig><reg>political</reg></choice> <choice><orig>lawes</orig><reg>laws</reg></choice> <choice><orig>doe</orig><reg>do</reg></choice> both forbid those people to marry, who are by 
                   <lb/>nature <choice><orig>joyned</orig><reg>joined</reg></choice> in too near a degree of consanguinity, such namely as <add>directly</add> ascend and des
                   <lb break="no"/>cend in a <choice><orig>genealogicall</orig><reg>genealogical</reg></choice> line, and that for very good considerations; <milestone unit="section" n="e04-02" />but when the <pc>-</pc>
@@ -80,7 +80,7 @@
                   <lb/>fire, which may be propagated, is not easily <choice><orig>strucke</orig><reg>struck</reg></choice> out of the most hard
                   <lb/>body Steel and Steel, nor out of the brittle flint and flint, but out of hard
                   <lb/>and brittle, that is, steel and flint, <choice><orig>soe</orig><reg>so</reg></choice> a lively offspring is not produ
-                  <lb break="no"/>ced from a <choice><orig>hott</orig><reg>hot</reg></choice> man and fiery woman, as neither from both <milestone unit="page" ed="Meier" n="027"/>cold (for the
+                  <lb break="no"/>ced from a <choice><orig>hott</orig><reg>hot</reg></choice> man and fiery woman, as neither from both </ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier" n="027"/>cold (for the
                   <lb/><choice><orig>coldnesse</orig><reg>coldness</reg></choice> of the man is <choice><orig>barrenesse</orig><reg>barrenness</reg></choice>) but from him <choice><orig>hott</orig><reg>hot</reg></choice>, her more cold, <pc>-</pc>
                   <lb/><milestone unit="section" n="e04-11" />for, in the latitude of <choice><orig>humane</orig><reg>human</reg></choice> temperament, the hottest woman is con
                   <lb break="no"/>cluded colder than the coldest man of his sex, if sound, as Lev. Lemnius
@@ -113,7 +113,7 @@
                   <lb/>which any man may hereby plainly understand are three, that is to say, <pc>-</pc>
                   <lb/>constancy of love, remotion of sterility, and <choice><orig>prævention</orig><reg>prevention</reg></choice> of abortion <pc>. .</pc>
                   
-               </ab>   
+               </ab>  </div> 
             </div>
             
          </div>

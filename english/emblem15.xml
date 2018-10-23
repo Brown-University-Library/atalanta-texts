@@ -50,7 +50,7 @@
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="070"/>
                     <head rend="italics">Discourse 15.</head>
-                    <ab> 
+                    <div type="discourse-p1"><ab> 
                         <lb/>As this <choice><orig>orbe</orig><reg>orb</reg></choice> is by the <choice><orig>connexion</orig><reg>connection</reg></choice> of earth and water conglobated into one<milestone unit="section" n="e03-01" /> 
                         <lb/>round body, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> the Potters <choice><orig>worke</orig><reg>work</reg></choice> seems to be compounded of the
                         <lb/>same Elements particularly, namely of siccity and moisture, that one
@@ -86,7 +86,7 @@
                         <lb/>Stones, and therefore a great <choice><orig>summe</orig><reg>sum</reg></choice> of <choice><orig>mony</orig><reg>money</reg></choice> <choice><orig>accrewing</orig><reg>accruing</reg></choice> to purchase <choice><orig>se
                         <lb break="no"/>verall</orig><reg>several</reg></choice> things, when the new gold and Silver might be expected, at a
                         <lb/><choice><orig>certaine</orig><reg>certain</reg></choice> time, in which it not appearing, nor the stones converted into
-                        <lb/>gold, as was desired, <milestone unit="page" ed="Meier" n="071"/>death put an end to the folly and Shame: For gold
+                        <lb/>gold, as was desired, </ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier" n="071"/>death put an end to the folly and Shame: For gold
                         <lb/>or Silver ought not to be expected from that thing, in which it is not na
                         <lb break="no"/>turally, <choice><orig>diabolicall</orig><reg>diabolical</reg></choice> <choice><orig>Magicke</orig><reg>Magic</reg></choice> having <choice><orig>noe</orig><reg>no</reg></choice> place in these divine works, but
                         <lb/>is as <choice><orig>farre</orig><reg>far</reg></choice> different from them, as the author of it from a devout and <pc>-</pc>
@@ -121,7 +121,7 @@
                         <lb/>this <choice><orig>allso</orig><reg>also</reg></choice> will be manifested: The Philosophers <choice><orig>affirme</orig><reg>affirm</reg></choice> siccity and mois
                         <lb break="no"/>ture or Sulphur and Argent vive to be that, which being most pure must
                         <lb/>be extracted out of two mountains <pc>. . . . . . . . . . .</pc>
-                    </ab>   
+                    </ab> </div>  
                 </div>
                 
             </div>

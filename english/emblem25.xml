@@ -50,7 +50,7 @@
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="110"/>
                     <head rend="italics">Discourse 25.</head>
-                    <ab> 
+                    <div type="discourse-p1"><ab> 
                         <lb/>In acquiring the golden fleece the Dragon was first of all to be killed, because <pc>-</pc><milestone unit="section" n="e03-01" /> 
                         <lb/>the <choice><orig>labour</orig><reg>labor</reg></choice> being attempted by many men, they were overcome by the Dragon <pc>-</pc>
                         <lb/>and <choice><orig>destroyd</orig><reg>destroyed</reg></choice> with deadly <choice><orig>poyson</orig><reg>poison</reg></choice>: the reason was, because they were not sufficiently
@@ -86,7 +86,7 @@
                         <lb/>or volatile, <choice><orig>allwayes</orig><reg>always</reg></choice> denotes Mercury: for this reason Mercury is to be seen with
                         <lb/>two serpents twisted about his wand (the Dragon being a great Serpent) and <choice><orig>Sa
                         <lb break="no"/>turne</orig><reg>Saturn</reg></choice> with one, which <choice><orig>devoures</orig><reg>devours</reg></choice> his <choice><orig>tayle</orig><reg>tail</reg></choice>, as <choice><orig>allso</orig><reg>also</reg></choice> Janus: A Serpent is conse
-                        <lb break="no"/>crated to <milestone unit="page" ed="Meier" n="111"/><choice><orig>Æsculapius</orig><reg>Asculapius</reg></choice> the <choice><orig>Sonne</orig><reg>Son</reg></choice> of Apollo, the <choice><orig>inventer</orig><reg>inventor</reg></choice> of medicine (<choice><orig>Philo
+                        <lb break="no"/>crated to </ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier" n="111"/><choice><orig>Æsculapius</orig><reg>Asculapius</reg></choice> the <choice><orig>Sonne</orig><reg>Son</reg></choice> of Apollo, the <choice><orig>inventer</orig><reg>inventor</reg></choice> of medicine (<choice><orig>Philo
                         <lb break="no"/>sophicall</orig><reg>Philosophical</reg></choice> medicine) in which <choice><orig>forme</orig><reg>form</reg></choice> <choice><orig>hee</orig><reg>he</reg></choice> is reported to be brought from Epi
                         <lb break="no"/>daurus to Rome, and there <choice><orig>allwayes</orig><reg>always</reg></choice> <choice><orig>worshipped</orig><reg>worshiped</reg></choice> for the cessation of the <pc>-</pc>
                         <lb/>pestilence caused by him, as was supposed: But the Philosophers dragon is
@@ -126,7 +126,7 @@
                         <lb/>where <choice><orig>hee</orig><reg>he</reg></choice> was <choice><orig>stopd</orig><reg>stopped</reg></choice> by <choice><orig>netts</orig><reg>nets</reg></choice> and cords, and at length made tame by clubs <pc>-</pc>
                         <lb/>and stripes, and as a <choice><orig>burthen</orig><reg>burden</reg></choice> of many carts brought to a ship, in which <choice><orig>hee</orig><reg>he</reg></choice>
                         <lb/>was <choice><orig>carryed</orig><reg>carried</reg></choice> to Rome <pc>. . . . . . . . . . .</pc>     
-                    </ab>   
+                    </ab></div>   
                 </div>
                 
             </div>

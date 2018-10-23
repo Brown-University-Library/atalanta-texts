@@ -50,7 +50,7 @@
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="178"/>
                     <head rend="italics">Discourse 42.</head>
-                    <ab> 
+                    <div type="discourse-p1"><ab> 
                         <lb/><milestone unit="section" n="e42-01" />The chances, which may happen to <choice><orig>travellers</orig><reg>travelers</reg></choice>, are innumerable, es 
                         <lb break="no"/>pecially if they take a journey on foot by night through slippery <pc>-</pc>
                         <lb/>and dangerous places; to which four things are requisite as <choice><orig>cheife
@@ -90,7 +90,7 @@
                         <lb/>the guide and companion of <choice><orig>soe</orig><reg>so</reg></choice> great a journey, whose footsteps <pc>-</pc>
                         <lb/>must be traced. <milestone unit="section" n="e42-13" />Secondly, reason must be as a <choice><orig>staffe</orig><reg>staff</reg></choice> to keep the <pc>-</pc>
                         <lb/>steps and feet steady and <choice><orig>firme</orig><reg>firm</reg></choice>, that they may not slip or waver,
-                        <lb/>For without the exercise of reason <milestone unit="page" ed="Meier" n="179"/>a man will be apt to fall <pc>-</pc>
+                        <lb/>For without the exercise of reason </ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier" n="179"/>a man will be apt to fall <pc>-</pc>
                         
                         
                         
@@ -121,7 +121,7 @@
                         <lb/><choice><orig>hee</orig><reg>he</reg></choice>, that thinks <choice><orig>himselfe</orig><reg>himself</reg></choice> able sooner to reap benefit from our books,
                         <lb/>is deceived, and it had been better not to have <choice><orig>lookd</orig><reg>looked</reg></choice> therein, than <pc>-</pc>
                         <lb/>ever to have <choice><orig>touchd</orig><reg>touched</reg></choice> them: And <choice><orig>soe</orig><reg>so</reg></choice> on <pc>. . . . . .</pc>
-                    </ab>   
+                    </ab> </div>  
                 </div>
                 
             </div>

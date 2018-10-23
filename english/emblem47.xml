@@ -50,7 +50,7 @@
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="198"/>
                     <head rend="italics">Discourse 47.</head>
-                    <ab> 
+                    <div type="discourse-p1"><ab> 
                         <lb/>The Philosophers have in many places made mention of two stones given to us<milestone unit="section" n="e03-01" /> 
                         <lb/>gratis, as <choice><orig>Isaack</orig><reg>Isaac</reg></choice>, Arnold, and others, amongst <choice><orig>whome</orig><reg>whom</reg></choice> Avicenne <choice><orig>sayth</orig><reg>says</reg></choice> they <choice><orig>lye</orig><reg>lie</reg></choice> in <pc>-</pc>
                         <lb/>dung neglected and rejected by the vulgar, which, if they be <choice><orig>joynd</orig><reg>joined</reg></choice> together, are
@@ -88,7 +88,7 @@
                         <lb break="no"/>nexion</orig><reg>connection</reg></choice> and composition, whose congealed part is never dissolved, nor
                         <lb/>footsteps or impressions defaced, which God <choice><orig>hath</orig><reg>has</reg></choice> freely bestowed <pc>-</pc>
                         <lb/>upon the pious and elect Philosophers: You must know, that nature <pc>-</pc>
-                        <lb/><choice><orig>hath</orig><reg>has</reg></choice> gotten <milestone unit="page" ed="Meier" n="199"/>an <choice><orig>æquall</orig><reg>equal</reg></choice> as an enemy. These are his words. And a little after
+                        <lb/><choice><orig>hath</orig><reg>has</reg></choice> gotten </ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier" n="199"/>an <choice><orig>æquall</orig><reg>equal</reg></choice> as an enemy. These are his words. And a little after
                         <lb/><choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>sayth</orig><reg>says</reg></choice>: That Sulphur is most strong, and fighting against fire <pc>-</pc>
                         <lb/>which it <choice><orig>containes</orig><reg>contains</reg></choice> and is contained: for a most <choice><orig>pretious</orig><reg>precious</reg></choice> <choice><orig>colour</orig><reg>color</reg></choice> proceeds
                         <lb/>from them being <choice><orig>joynd</orig><reg>joined</reg></choice> together, and that Sulphur, which is naturally
@@ -127,7 +127,7 @@
                         <lb/><choice><orig>feild</orig><reg>field</reg></choice> and victory; <choice><orig>Soe</orig><reg>So</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> though the <choice><orig>dogge</orig><reg>dog</reg></choice> lay prostrate, yet was not <pc>-</pc>
                         <lb/><choice><orig>alltogether</orig><reg>altogether</reg></choice> overcome, <choice><orig>hee</orig><reg>he</reg></choice> holding his enemy <choice><orig>soe</orig><reg>so</reg></choice> fast, that <choice><orig>hee</orig><reg>he</reg></choice> could not
                         <lb/>live without him, nor <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>dye</orig><reg>die</reg></choice> without the other <pc>. . . . . . .</pc>
-                    </ab>   
+                    </ab> </div>  
                 </div>
                 
             </div>

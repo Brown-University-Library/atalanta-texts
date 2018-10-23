@@ -49,7 +49,7 @@
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="066"/>
                     <head rend="italics">Discourse 14.</head>
-                    <ab> 
+                    <div type="discourse-p1"><ab> 
                         <lb/>It is a saying of the Ancients, that a Serpent, which <choice><orig>hath</orig><reg>has</reg></choice> <choice><orig>devourd</orig><reg>devoured</reg></choice> a Serpent, be<milestone unit="section" n="e03-01" /> 
                         <lb break="no"/>comes a Dragon: for it is <choice><orig>cruell</orig><reg>cruel</reg></choice> to its kind, as a <choice><orig>theife</orig><reg>thief</reg></choice> and Murderer to his: It is <pc>-</pc>
                         <lb/>evident that such are in Africa, of <choice><orig>soe</orig><reg>so</reg></choice> great <choice><orig>bignesse</orig><reg>bigness</reg></choice> and plenty, that they <pc>-</pc>
@@ -82,7 +82,7 @@
                         <lb/><choice><orig>bodyes</orig><reg>bodies</reg></choice>, having in it a body, <choice><orig>Soule</orig><reg>Soul</reg></choice>, and spirit: This is in the same place
                         <lb/>called by another name <choice><orig>Fœtid</orig><reg>Fetid</reg></choice> water, which is produced after the separation
                         <lb/>of the Elements: Now the Dragon is <choice><orig>sayd</orig><reg>said</reg></choice> to devour his <choice><orig>tayle</orig><reg>tail</reg></choice>, in consuming
-                        <lb/>the voluble, venomous, and moist part, <milestone unit="page" ed="Meier" n="067"/>that after without a <choice><orig>tayle</orig><reg>tail</reg></choice> <choice><orig>hee</orig><reg>he</reg></choice> <pc>-</pc>
+                        <lb/>the voluble, venomous, and moist part, </ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier" n="067"/>that after without a <choice><orig>tayle</orig><reg>tail</reg></choice> <choice><orig>hee</orig><reg>he</reg></choice> <pc>-</pc>
                         <lb/>may seem more corpulent and of <choice><orig>lesse</orig><reg>less</reg></choice> Speed, for the motion and volu
                         <lb break="no"/>bility of him consisted <choice><orig>cheifely</orig><reg>chiefly</reg></choice> in his <choice><orig>tayle</orig><reg>tail</reg></choice>: Other <choice><orig>animalls</orig><reg>animals</reg></choice> depend upon
                         <lb/>feet, but dragons, Serpents, and <choice><orig>wormes</orig><reg>worms</reg></choice> of that kind <choice><orig>doe</orig><reg>do</reg></choice> use constriction and
@@ -113,7 +113,7 @@
                         <lb/>of this dragon (who <choice><orig>hath</orig><reg>has</reg></choice> <choice><orig>allready</orig><reg>already</reg></choice> devoured his <choice><orig>tayle</orig><reg>tail</reg></choice>, which is usually <choice><orig>cutt</orig><reg>cut</reg></choice>
                         <lb/><choice><orig>of</orig><reg>off</reg></choice> in Vipers) a most <choice><orig>effectuall</orig><reg>effectual</reg></choice> remedy against the <choice><orig>adversityes</orig><reg>adversities</reg></choice> of for
                         <lb break="no"/>tune and body <pc>. . . . . . . . . . . .</pc>                       
-                    </ab>   
+                    </ab> </div>  
                 </div>
                 
             </div>

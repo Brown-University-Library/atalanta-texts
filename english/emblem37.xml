@@ -51,7 +51,7 @@
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="158"/>
                     <head rend="italics">Discourse 37.</head>
-                    <ab> 
+                    <div type="discourse-p1"><ab> 
                         <lb/>As three <choice><orig>essentiall</orig><reg>essential</reg></choice> things, which are the foundation, walls, and <choice><orig>roofe</orig><reg>roof</reg></choice>, are<milestone unit="section" n="e03-01" /> 
                         <lb/>required to the building of every <choice><orig>ædifice</orig><reg>edifice</reg></choice>, whereof one being absent, there
                         <lb/>can be <choice><orig>noe</orig><reg>no</reg></choice> perfection of it, <choice><orig>soe</orig><reg>so</reg></choice> are <choice><orig>soe</orig><reg>so</reg></choice> many desired in order to <pc>-</pc>
@@ -95,7 +95,7 @@
                                 <l>Nor then <choice><orig>mixd</orig><reg>mixed</reg></choice> stilling wines, etc.</l>
                             </lg>
                         </quote>
-                        <lb/><milestone unit="page" ed="Meier" n="159"/>After Aqua fœtida comes the green <choice><orig>Lyon</orig><reg>Lion</reg></choice>: concerning which <choice><orig>sayth</orig><reg>says</reg></choice> Ro
+                        <lb/></ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier" n="159"/>After Aqua fœtida comes the green <choice><orig>Lyon</orig><reg>Lion</reg></choice>: concerning which <choice><orig>sayth</orig><reg>says</reg></choice> Ro
                         <lb break="no"/>sarius; you have sought for <choice><orig>greennesse</orig><reg>greenness</reg></choice>, supposing, that <choice><orig>brasse</orig><reg>brass</reg></choice> was a <pc>-</pc>
                         <lb/>leprous body, because of that <choice><orig>greenesse</orig><reg>greenness</reg></choice> which it <choice><orig>hath</orig><reg>has</reg></choice>: and therefore <pc>-</pc>
                         <lb/>I declare to you, that whatsoever is perfect in <choice><orig>brasse</orig><reg>brass</reg></choice>, is that <choice><orig>greenesse</orig><reg>greenness</reg></choice>
@@ -134,7 +134,7 @@
                         <lb/>greater to apply rightly to the <choice><orig>worke</orig><reg>work</reg></choice>; the circumstances and <pc>-</pc>
                         <lb/><choice><orig>propertyes</orig><reg>properties</reg></choice> of which <choice><orig>wee</orig><reg>we</reg></choice> have sufficiently in <choice><orig>severall</orig><reg>several</reg></choice> places de
                         <lb break="no"/>scribed <pc>. . . . . . . . . . . . . .</pc>
-                    </ab>   
+                    </ab></div>   
                 </div>
                 
             </div>

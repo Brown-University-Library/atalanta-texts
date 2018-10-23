@@ -49,7 +49,7 @@
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="114"/>
                     <head rend="italics">Discourse 26.</head>
-                    <ab> 
+                    <div type="discourse-p1"><ab> 
                         <lb/><milestone unit="section" n="e26-01" />Tully <choice><orig>hath</orig><reg>has</reg></choice> excellently described the <choice><orig>essentiall</orig><reg>essential</reg></choice> difference of man, whereby <choice><orig>hee</orig><reg>he</reg></choice> 
                         <lb/>differs from all other <choice><orig>animalls</orig><reg>animals</reg></choice>, after this manner: As a bird is intended by nature
                         <lb/>for flying, a horse for <subst><del>reasoning</del><add>running</add></subst>, <choice><orig>soe</orig><reg>so</reg></choice> man for reasoning: <milestone unit="section" n="e26-02" />For as <choice><orig>Lyons</orig><reg>Lions</reg></choice>, bears, <pc>-</pc>
@@ -82,7 +82,7 @@
                         <lb break="no"/>dome</orig><reg>wisdom</reg></choice> have <choice><orig>æternall</orig><reg>eternal</reg></choice> perseverance, and they that are her <choice><orig>freinds</orig><reg>friends</reg></choice> <choice><orig>syncere</orig><reg>sincere</reg></choice> pleasure,<note place="margin">Wis: c. 8.16.</note>
                         <lb/>and <choice><orig>hee</orig><reg>he</reg></choice> that diligently <choice><orig>enquireth</orig><reg>enquires</reg></choice> after her, Shall receive much joy, for there is<note place="margin">Sir. c. 4.20.</note>
                         <lb/><choice><orig>noe</orig><reg>no</reg></choice> <choice><orig>unpleasantnesse</orig><reg>unpleasantness</reg></choice> in her conversation, but mirth and joy, <milestone unit="section" n="e26-09" />and though wine
-                        <lb/>and <choice><orig>musicke</orig><reg>music</reg></choice> <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>chear</orig><reg>cheer</reg></choice> the heart of man, yet <choice><orig>wisedome</orig><reg>wisdom</reg></choice> <milestone unit="page" ed="Meier" n="115"/>is more pleasant <pc>-</pc>
+                        <lb/>and <choice><orig>musicke</orig><reg>music</reg></choice> <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>chear</orig><reg>cheer</reg></choice> the heart of man, yet <choice><orig>wisedome</orig><reg>wisdom</reg></choice> </ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier" n="115"/>is more pleasant <pc>-</pc>
                         <lb/>than them: for <choice><orig>Shee</orig><reg>She</reg></choice> is a tree of life to them that lay hold on her, and blessed are<note place="margin">Wis:.c. 10.10.</note>
                         <lb/>they that <choice><orig>retaine</orig><reg>retain</reg></choice> her: Lactantius calls her the aliment of the <choice><orig>soule</orig><reg>soul</reg></choice>: <milestone unit="section" n="e26-10" />The wise<note place="margin">Prov.c. 3.18.<lb/>Lac. b. 3.13.</note>
                         <lb/>Shall inherit glory, and <choice><orig>hee</orig><reg>he</reg></choice> that esteems <choice><orig>wisedome</orig><reg>wisdom</reg></choice> Shall be exalted and <choice><orig>honoured</orig><reg>honored</reg></choice><note place="margin">Prov. 3.35.</note>
@@ -122,7 +122,7 @@
                         <lb/>man even living is dead, and not much unlike to a brute, though out
                         <lb break="no"/>wardly <choice><orig>hee</orig><reg>he</reg></choice> represent him that <choice><orig>hee</orig><reg>he</reg></choice> ought to be, and is not in his better <pc>-</pc>
                         <lb/><choice><orig>parte</orig><reg>part</reg></choice> <pc>. . . . . . . . . . . . .</pc>            
-                    </ab>   
+                    </ab>  </div> 
                 </div>
                 
             </div>

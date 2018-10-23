@@ -49,7 +49,7 @@
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="050"/>
                     <head rend="italics">Discourse 10.</head>
-                    <ab> 
+                    <div type="discourse-p1"><ab> 
                         <lb/><milestone unit="section" n="e10-01" />If this saying be taken literally, it <choice><orig>onely</orig><reg>only</reg></choice> <choice><orig>increaseth</orig><reg>increases</reg></choice> the quality of fire and Mer 
                         <lb break="no"/>cury, and <choice><orig>introduceth</orig><reg>introduces</reg></choice> <choice><orig>noe</orig><reg>no</reg></choice> new quality in the subject: for every like being added
                         <lb/>to its like makes a similar augmentation: <milestone unit="section" n="e10-02" />and therefore <choice><orig>Physitians</orig><reg>Physicians</reg></choice> <choice><orig>affirme</orig><reg>affirm</reg></choice> <pc>-</pc>
@@ -87,7 +87,7 @@
                         <lb/>fire resolves the crude parts of fruit or flesh into water, and <choice><orig>causeth</orig><reg>causes</reg></choice> them
                         <lb/>to evaporate with it into <choice><orig>aire</orig><reg>air</reg></choice>: <milestone unit="section" n="e10-11" />after the same manner fire and Mercury
                         <lb/>here are fire and water, and the same, fire and Mercury are the mature
-                        <lb/>and crude parts, <milestone unit="page" ed="Meier" n="051"/>of which the crude are to be matured by coction, or the
+                        <lb/>and crude parts, </ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier" n="051"/>of which the crude are to be matured by coction, or the
                         <lb/>mature purged from <choice><orig>superfluityes</orig><reg>superfluities</reg></choice> by the ministery of fire and water: <pc>-</pc>
                         <lb/><milestone unit="section" n="e10-12" />Now that these are two fires, and two <choice><orig>Mercuryes</orig><reg>Mercuries</reg></choice> principally and solely ne
                         <lb break="no"/>cessary to the art, <choice><orig>wee</orig><reg>we</reg></choice> will here <choice><orig>breifely</orig><reg>briefly</reg></choice> demonstrate: <milestone unit="section" n="e10-13" />Empedocles deter
@@ -129,7 +129,7 @@
                         <lb/>growing, by approaching <choice><orig>allwayes</orig><reg>always</reg></choice> nearer, <choice><orig>soe</orig><reg>so</reg></choice> is it here necessary to be
                         <lb/>done: for the Philosophers infant must be nourished by fire, as <choice><orig>milke</orig><reg>milk</reg></choice>,
                         <lb/>the more <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>growes</orig><reg>grows</reg></choice>, the more <choice><orig>fruitfull</orig><reg>fruitful</reg></choice> <pc>. . . . . . . .</pc>
-                    </ab>   
+                    </ab></div>
                 </div>
                 
             </div>

@@ -49,7 +49,7 @@
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="170"/>
                     <head rend="italics">Discourse 40.</head>
-                    <ab> 
+                    <div type="discourse-p1"><ab> 
                         <lb/>The miracles of waters are <choice><orig>soe</orig><reg>so</reg></choice> many and <choice><orig>soe</orig><reg>so</reg></choice> great, as scarce to be <pc>-</pc><milestone unit="section" n="e03-01" /> 
                         <lb/>comprehended in a large volume, concerning which <choice><orig>severall</orig><reg>several</reg></choice> authors <pc>-</pc>
                         <lb/>have here and there treated: But above all the two <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> wa
@@ -87,7 +87,7 @@
                         <lb/>and <choice><orig>maladyes</orig><reg>maladies</reg></choice>, and restore a man to <choice><orig>firme</orig><reg>firm</reg></choice> health. Nature <choice><orig>doth</orig><reg>does</reg></choice> in
                         <lb break="no"/>deed by her occult artifice of composition confound and mix many <pc>-</pc>
                         <lb/>waters in the <choice><orig>bowells</orig><reg>bowels</reg></choice> of the earth with <choice><orig>severall</orig><reg>several</reg></choice> virtues of <choice><orig>Mynes</orig><reg>Mines</reg></choice>, which
-                        <lb/>are wholesome and <choice><orig>coḿodious</orig><reg>commodious</reg></choice> to many <choice><orig>sicke</orig><reg>sick</reg></choice> and <choice><orig>infirme</orig><reg>infirm</reg></choice> persons, <milestone unit="page" ed="Meier" n="171"/>but
+                        <lb/>are wholesome and <choice><orig>coḿodious</orig><reg>commodious</reg></choice> to many <choice><orig>sicke</orig><reg>sick</reg></choice> and <choice><orig>infirme</orig><reg>infirm</reg></choice> persons, </ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier" n="171"/>but
                         <lb/>if art be added with due regiment, all evacuations being <choice><orig>præmised</orig><reg>premised</reg></choice> and
                         <lb/>other things to be <choice><orig>prætermitted</orig><reg>pretermitted</reg></choice>, and mix those things that are to be <pc>-</pc>
                         <lb/>mixed together, that composition will be <choice><orig>farre</orig><reg>far</reg></choice> more <choice><orig>effectuall</orig><reg>effectual</reg></choice>: <pc>-</pc>
@@ -126,7 +126,7 @@
                         <lb/><choice><orig>helpe</orig><reg>help</reg></choice> of art mixed it with things contrary into one indivisible <pc>-</pc>
                         <lb/>substance, which is nothing <choice><orig>els</orig><reg>else</reg></choice> but a Quintessence, in respect of <pc>-</pc>
                         <lb/>other things to be mixed with it <pc>. . . . . . . .</pc>
-                    </ab>   
+                    </ab></div>   
                 </div>
                 
             </div>

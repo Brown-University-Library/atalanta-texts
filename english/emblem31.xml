@@ -50,7 +50,7 @@
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="134"/>
                     <head rend="italics">Discourse 31.</head>
-                    <ab> 
+                    <div type="discourse-p1"><ab> 
                         <lb/>The first rudiments of all discipline were anciently the knowledge of <pc>-</pc><milestone unit="section" n="e03-01" /> 
                         <lb/>swimming, and instruction in learning: hereupon because the proverb of an
                         <lb/>ignorant and <choice><orig>unpolishd</orig><reg>unpolished</reg></choice> man, that <choice><orig>hee</orig><reg>he</reg></choice> could neither <choice><orig>swimme</orig><reg>swim</reg></choice> nor read:
@@ -87,7 +87,7 @@
                         <lb/><choice><orig>hath</orig><reg>has</reg></choice> <choice><orig>touchd</orig><reg>touched</reg></choice> upon a <choice><orig>rocke</orig><reg>rock</reg></choice> or great stone in swimming, by which to be <choice><orig>præ
                         <lb break="no"/>served</orig><reg>preserved</reg></choice>, if the waves <choice><orig>prævayle</orig><reg>prevail</reg></choice>. But the <choice><orig>quæstion</orig><reg>question</reg></choice> is what is the Sea? I an
                         <lb break="no"/>swer, the <choice><orig>Erythræan</orig><reg>Erythaean</reg></choice> or red sea, subject to the <choice><orig>Tropicke</orig><reg>Tropic</reg></choice> of Cancer, in <pc>-</pc>
-                        <lb/>which, there being great store of <choice><orig>Magnetts</orig><reg>Magnets</reg></choice> in the <choice><orig>bottome</orig><reg>bottom</reg></choice>, <milestone unit="page" ed="Meier" n="135"/>it is not safe for
+                        <lb/>which, there being great store of <choice><orig>Magnetts</orig><reg>Magnets</reg></choice> in the <choice><orig>bottome</orig><reg>bottom</reg></choice>, </ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier" n="135"/>it is not safe for
                         <lb/><choice><orig>Shipps</orig><reg>Ships</reg></choice> compacted or laden with iron to <choice><orig>sayle</orig><reg>sail</reg></choice>: for they might easily be <pc>-</pc>
                         <lb/><choice><orig>drawne</orig><reg>drawn</reg></choice> to the <choice><orig>bottome</orig><reg>bottom</reg></choice> by the virtue of the <choice><orig>Magnett</orig><reg>Magnet</reg></choice>: which the <choice><orig>sayd</orig><reg>said</reg></choice> King
                         <lb/>being ignorant of, and the rest perishing the Ship being <choice><orig>sunke</orig><reg>sunk</reg></choice>, <choice><orig>hee</orig><reg>he</reg></choice> alone
@@ -125,7 +125,7 @@
                         <lb break="no"/>cestors in power, kingdoms, dominions, people, wealth and riches, and will
                         <lb/>subject his <choice><orig>enemyes</orig><reg>enemies</reg></choice> to <choice><orig>himselfe</orig><reg>himself</reg></choice>, not by <choice><orig>warre</orig><reg>war</reg></choice>, but humanity, not by
                         <lb/>tyranny, but clemency, which is genuine and peculiar to him <pc>. . .</pc>
-                    </ab>   
+                    </ab> </div>  
                 </div>
                 
             </div>

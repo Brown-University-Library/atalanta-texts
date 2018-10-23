@@ -49,7 +49,7 @@
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="078"/>
                     <head rend="italics">Discourse 17.</head>
-                    <ab> 
+                    <div type="discourse-p1"><ab> 
                         <lb/>The Philosophers have in many places made mention of four sorts of fire<milestone unit="section" n="e03-01" /> 
                         <lb/>necessary to the <choice><orig>naturall</orig><reg>natural</reg></choice> <choice><orig>worke</orig><reg>work</reg></choice>, namely Lully, the Author of Scala, Ripley,
                         <lb/>and many others: and to this end Raymund speaking of fires (<choice><orig>Sayth</orig><reg>Says</reg></choice> Scala).
@@ -87,7 +87,7 @@
                         <lb break="no"/>ture, the fourth earthy: It is <choice><orig>needlesse</orig><reg>needless</reg></choice> to say any thing of the first, <pc>-</pc>
                         <lb/>because it is <choice><orig>knowne</orig><reg>known</reg></choice> to every mans eye and touch: The three other are
                         <lb/>dragons, menstrua's, waters, Sulphurs, and <choice><orig>Mercuryes</orig><reg>Mercuries</reg></choice>: Dragons, because <pc>-</pc>
-                        <lb/>being participants of venenosity, they <choice><orig>devoure</orig><reg>devour</reg></choice> <milestone unit="page" ed="Meier" n="079"/>serpents of their <choice><orig>owne</orig><reg>own</reg></choice>
+                        <lb/>being participants of venenosity, they <choice><orig>devoure</orig><reg>devour</reg></choice> </ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier" n="079"/>serpents of their <choice><orig>owne</orig><reg>own</reg></choice>
                         <lb/>kind, frett and alter, that is, dissolve and coagulate <choice><orig>bodyes</orig><reg>bodies</reg></choice> incorporated <pc>-</pc>
                         <lb/>and mixed with them: They are called Menstrua's, because the <choice><orig>Philoso
                         <lb break="no"/>phicall</orig><reg>Philosophical</reg></choice> infant is produced from them, and nourished therewith even to
@@ -128,7 +128,7 @@
                         <lb/>they are kept <choice><orig>soe</orig><reg>so</reg></choice> bound together partly by nature, partly by art, that one
                         <lb/>can operate little or nothing without another, yea the action of one is the
                         <lb/>passion of another, and on the contrary <pc>. . . . . . .</pc>
-                    </ab>   
+                    </ab> </div>  
                 </div>
                 
             </div>

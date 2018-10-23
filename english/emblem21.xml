@@ -50,7 +50,7 @@
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="094"/>
                     <head rend="italics">Discourse 21.</head>
-                    <ab> 
+                    <div type="discourse-p1"><ab> 
                         <lb/>It is the doctrine of that <seg rend="underline" hand="2">most famous Philosopher Plato th</seg>at knowledge is as<milestone unit="section" n="e03-01" /> 
                         <lb/>it were actually engraven and imprinted in the mind of man, which is as the
                         <lb/>foundation of all arts and Sciences, by the remembrance and repetition of <pc>-</pc>
@@ -86,7 +86,7 @@
                         <lb/>that <choice><orig>hee</orig><reg>he</reg></choice> that was ignorant of Geometry Should not be admitted into it, <choice><orig>hee</orig><reg>he</reg></choice>
                         <lb/><choice><orig>allso</orig><reg>also</reg></choice> having affirmed that children actually knew it? are men more unlear
                         <lb break="no"/>ned than <choice><orig>boyes</orig><reg>boys</reg></choice>? or have those of full age forgotten those things which <pc>-</pc>
-                        <lb/><choice><orig>boyes</orig><reg>boys</reg></choice> know? <milestone unit="page" ed="Meier" n="095"/>that cannot be supposed: because <choice><orig>wee</orig><reg>we</reg></choice> see that a brute <choice><orig>doth</orig><reg>does</reg></choice>
+                        <lb/><choice><orig>boyes</orig><reg>boys</reg></choice> know? </ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier" n="095"/>that cannot be supposed: because <choice><orig>wee</orig><reg>we</reg></choice> see that a brute <choice><orig>doth</orig><reg>does</reg></choice>
                         <lb/>by the instinct of nature <choice><orig>abhorre</orig><reg>abhor</reg></choice> and <choice><orig>avoyd</orig><reg>avoid</reg></choice> the dangers of fire, water,
                         <lb/>sudden chance, and the like, though newly come into the world, yet that
                         <lb/>an infant <choice><orig>knowes</orig><reg>knows</reg></choice> not or <choice><orig>shunns</orig><reg>shuns</reg></choice> such things, except hurt, or his finger being
@@ -128,7 +128,7 @@
                         <lb break="no"/>ration the woman is converted into the man, and made one with him,
                         <lb/>and the senary the first number of the perfect completed by one, two,
                         <lb/>having returned <choice><orig>againe</orig><reg>again</reg></choice> to an <choice><orig>unitt</orig><reg>unit</reg></choice>, in which is <choice><orig>æternall</orig><reg>eternal</reg></choice> rest and peace.
-                    </ab>   
+                    </ab> </div>  
                 </div>
                 
             </div>

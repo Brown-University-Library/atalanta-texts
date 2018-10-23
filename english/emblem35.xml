@@ -50,7 +50,7 @@
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="150"/>
                     <head rend="italics">Discourse 35.</head>
-                    <ab> 
+                    <div type="discourse-p1"><ab> 
                         <lb/>Lycurgus that Law<pc rend="double-hyphen">-</pc>maker of the Spartans <choice><orig>Shewed</orig><reg>Showed</reg></choice> to the people in <pc>-</pc><milestone unit="section" n="e03-01" /> 
                         <lb/>an assembly in the Theater by an ocular example, how <choice><orig>farre</orig><reg>far</reg></choice> <choice><orig>custome</orig><reg>custom</reg></choice>
                         <lb/>and use whether good or <choice><orig>evill</orig><reg>evil</reg></choice> may <choice><orig>prævayle</orig><reg>prevail</reg></choice>, <choice><orig>hee</orig><reg>he</reg></choice> bringing in two whelps
@@ -87,7 +87,7 @@
                         <lb/>with <choice><orig>milke</orig><reg>milk</reg></choice>, and in the night <choice><orig>layd</orig><reg>laid</reg></choice> him in fire, whereupon the <pc>-</pc>
                         <lb/>youth being very well nourished, his father Eleusius at length <pc>-</pc>
                         <lb/><choice><orig>tooke</orig><reg>took</reg></choice> notice of it: hereupon Ceres <choice><orig>killd</orig><reg>killed</reg></choice> Eleusius, and gave the <pc>-</pc>
-                        <lb/>youth Triptolemus a <choice><orig>chariott</orig><reg>chariot</reg></choice> <choice><orig>drawne</orig><reg>drawn</reg></choice> <milestone unit="page" ed="Meier" n="151"/>with winged Dragons, <pc>-</pc>
+                        <lb/>youth Triptolemus a <choice><orig>chariott</orig><reg>chariot</reg></choice> <choice><orig>drawne</orig><reg>drawn</reg></choice> </ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier" n="151"/>with winged Dragons, <pc>-</pc>
                         <lb/>whereby <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>passd</orig><reg>passed</reg></choice> through the <choice><orig>aire</orig><reg>air</reg></choice> into all parts of the world, <pc>-</pc>
                         <lb/>and taught men how to sow <choice><orig>corne</orig><reg>corn</reg></choice>: But this Triptolemus is the <pc>-</pc>
                         <lb/>tincture nourished by fire after a <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> manner, which
@@ -129,7 +129,7 @@
                         <lb/>fire, without which you will effect nothing: I have revealed to you <pc>-</pc>
                         <lb/>the truth, which by incredible pains I acquired from the monuments
                         <lb/>of the Ancients, not without the expense of many years <pc>. . . .</pc>
-                    </ab>   
+                    </ab> </div>  
                 </div>
                 
             </div>

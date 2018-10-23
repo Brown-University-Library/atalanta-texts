@@ -50,7 +50,8 @@
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="014"/>
                     <head rend="italics">Discourse i.</head><note place="margin" hand="1">D Powell 1821</note>
-                    <ab> 
+                    <div type="">
+                        <div type="discourse-p1"><ab> 
                         <lb/><milestone unit="section" n="e01-01" />Hermes the most industrious inquisitor into every <choice><orig>naturall</orig><reg>natural</reg></choice> secret doth
                         <lb/>in his Smaragdine table elegantly, though concisely, describe the <choice><orig>naturalle</orig><reg>natural</reg></choice> <pc>-</pc>
                         <lb/><choice><orig>worke</orig><reg>work</reg></choice>, where amongst other things <choice><orig>hee</orig><reg>he</reg></choice> sayth: the wind <choice><orig>carrys</orig><reg>carries</reg></choice> him in his <pc>-</pc>
@@ -84,7 +85,7 @@
                         <lb/>Mercury is <choice><orig>calld</orig><reg>called</reg></choice> and reputed the messenger, interpreter, and as it were the
                         <lb/>running intermediate minister of the other Gods, with wings fitted to his
                         <lb/>head and feet: for <choice><orig>hee</orig><reg>he</reg></choice> is windy, and <choice><orig>flyes</orig><reg>flies</reg></choice> through the <choice><orig>aire</orig><reg>air</reg></choice> as wind <choice><orig>itselfe</orig><reg>itself</reg></choice>,
-                        <lb/>as is <choice><orig>coḿonly</orig><reg>commonly</reg></choice> and really confirmed to the damage of many men; <milestone unit="page" ed="Meier" n="015"/><milestone unit="section" n="e01-10" />but car
+                        <lb/>as is <choice><orig>coḿonly</orig><reg>commonly</reg></choice> and really confirmed to the damage of many men; </ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier" n="015"/><milestone unit="section" n="e01-10" />but car
                         <lb break="no"/>rying a white wand girt with two Serpents <choice><orig>crossewise</orig><reg>crosswise</reg></choice>, which can draw <choice><orig>soules</orig><reg>souls</reg></choice>
                         <lb/>out of <choice><orig>bodyes</orig><reg>bodies</reg></choice>, and bring them <choice><orig>backe</orig><reg>back</reg></choice> <choice><orig>againe</orig><reg>again</reg></choice>, and <choice><orig>doe</orig><reg>do</reg></choice> many such contrary
                         <lb/>things, <choice><orig>hee</orig><reg>he</reg></choice> exquisitely <choice><orig>repræsents</orig><reg>represents</reg></choice> the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> Mercury. <milestone unit="section" n="e01-11" />Mercury there
@@ -123,7 +124,7 @@
                         <lb/>in the <choice><orig>aire</orig><reg>air</reg></choice> is <choice><orig>borne</orig><reg>born</reg></choice> wisely: for <choice><orig>hee</orig><reg>he</reg></choice> ascends from earth to heaven, and
                         <lb/><choice><orig>againe</orig><reg>again</reg></choice> descends to earth acquiring both the <choice><orig>superiour</orig><reg>superior</reg></choice> and <choice><orig>inferiour</orig><reg>inferior</reg></choice>
                         <lb/>virtue. <pc>- - - - - - - - - - - - -</pc>
-                    </ab>   
+                    </ab>   </div></div>
                 </div>
                 
             </div>

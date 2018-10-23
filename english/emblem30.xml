@@ -49,7 +49,7 @@
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="130"/>
                     <head rend="italics">Discourse 30.</head>
-                    <ab> 
+                    <div type="discourse-p1"><ab> 
                         <lb/>Avicenne in his <choice><orig>booke</orig><reg>book</reg></choice> of the <choice><orig>Soule</orig><reg>Soul</reg></choice> <choice><orig>divers</orig><reg>diverse</reg></choice> times <choice><orig>admonisheth</orig><reg>admonishes</reg></choice>, that <choice><orig>noe</orig><reg>no</reg></choice> <pc>-</pc><milestone unit="section" n="e03-01" /> 
                         <lb/>eggs are to be taken for art, but <choice><orig>onely</orig><reg>only</reg></choice> of those <choice><orig>henns</orig><reg>hens</reg></choice>, which had a cock:
                         <lb/>that is, the <choice><orig>fæminine</orig><reg>feminine</reg></choice> subject <choice><orig>avayles</orig><reg>avails</reg></choice> nothing without the masculine <pc>-</pc>
@@ -90,7 +90,7 @@
                         <lb/>them, and <choice><orig>præsents</orig><reg>presents</reg></choice> them with her <choice><orig>beake</orig><reg>beak</reg></choice>, as on a knife, this <choice><orig>worke</orig><reg>work</reg></choice> of <pc>-</pc>
                         <lb/>nature is worthy of admiration. And all these things are, that man
                         <lb/>may neither want eggs nor chickens for aliment: After the same man
-                        <lb break="no"/>ner the Philosopher or artist <choice><orig>doth</orig><reg>does</reg></choice> most diligently and <milestone unit="page" ed="Meier" n="131"/>providently <pc>-</pc>
+                        <lb break="no"/>ner the Philosopher or artist <choice><orig>doth</orig><reg>does</reg></choice> most diligently and </ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier" n="131"/>providently <pc>-</pc>
                         
                         
                         
@@ -137,7 +137,7 @@
                         <lb/>and Luna be incorporated together with art, they are not easily <pc>-</pc>
                         <lb/>separated <pc>. . . . . . . . . . . .</pc>
                     </ab>   
-                </div>
+                </div></div>
                 
             </div>
         </body>

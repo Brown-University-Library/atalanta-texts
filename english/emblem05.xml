@@ -51,7 +51,7 @@
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="030"/>
                     <head rend="italics">Discourse 5.</head>
-                    <ab> 
+                    <div type="discourse-p1"><ab> 
                         <lb/><milestone unit="section" n="e05-01" />The whole troop of <del>the</del> Philosophers <choice><orig>doe</orig><reg>do</reg></choice> herein consent, that their <choice><orig>worke</orig><reg>work</reg></choice> is <pc>-</pc> 
                         <lb/>nothing <choice><orig>els</orig><reg>else</reg></choice>, but man and wife: the mans part is indeed to generate, and <choice><orig>governe</orig><reg>govern</reg></choice> <pc>-</pc>
                         <lb/>the wife, hers to conceive, be <choice><orig>imprægnated</orig><reg>impregnated</reg></choice>, bring forth, give <choice><orig>sucke</orig><reg>suck</reg></choice>, and educate
@@ -84,7 +84,7 @@
                         <lb/>mans mouth, without any hurt to him. <milestone unit="section" n="e05-12" />But here a thing contrary happens, be
                         <lb break="no"/>cause the Toad <choice><orig>seizeth</orig><reg>seizes</reg></choice> not the mouth but the breast of the woman, by whose <choice><orig>milke</orig><reg>milk</reg></choice> <choice><orig>hee</orig><reg>he</reg></choice>
                         <lb/><choice><orig>increaseth</orig><reg>increases</reg></choice> <choice><orig>soe</orig><reg>so</reg></choice> as to be of great magnitude and strength, <milestone unit="section" n="e05-13" />but the woman consumes <pc>-</pc>
-                        <lb/>and <choice><orig>dyes</orig><reg>dies</reg></choice> her spirits being taken away: for <choice><orig>poyson</orig><reg>poison</reg></choice> is easily <choice><orig>coḿunicated</orig><reg>communicated</reg></choice> by the <milestone unit="page" ed="Meier" n="031"/><choice><orig>pec
+                        <lb/>and <choice><orig>dyes</orig><reg>dies</reg></choice> her spirits being taken away: for <choice><orig>poyson</orig><reg>poison</reg></choice> is easily <choice><orig>coḿunicated</orig><reg>communicated</reg></choice> by the </ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier" n="031"/><choice><orig>pec
                         <lb break="no"/>torall</orig><reg>pectoral</reg></choice> veins to the heart, and corrupts and <choice><orig>destroyes</orig><reg>destroys</reg></choice> it, as it is evident in the case of
                         <lb/>Cleopatra, who <choice><orig>applyed</orig><reg>applied</reg></choice> Vipers to her breasts, being willing to be <choice><orig>prævented</orig><reg>prevented</reg></choice> by vo<note place="margin">Theophilus in<lb/>Turba makes men<lb break="no"/>tion of a Dragon<lb/><choice><orig>joynd</orig><reg>joined</reg></choice> to a woman.-</note>
                         <lb break="no"/>luntary death from being led alive into the hands and triumphs of the <choice><orig>con
@@ -122,7 +122,7 @@
                         <lb/>perhaps of the green <choice><orig>boyes</orig><reg>boys</reg></choice>, which came out of the land of St Martin, yea <pc>-</pc>
                         <lb/>out of the earth <choice><orig>itselfe</orig><reg>itself</reg></choice>, as <choice><orig>allso</orig><reg>also</reg></choice> two <choice><orig>doggs</orig><reg>dogs</reg></choice> out of the Stone<pc rend="double-hyphen">-</pc>quarry, asserted
                         <lb/>by the same Author? <pc>. . . . . . . . . . .</pc>
-                    </ab>   
+                    </ab></div>   
                 </div>
                 
             </div>

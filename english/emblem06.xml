@@ -50,7 +50,7 @@
             <div type="discourse" xml:lang="en">
                <milestone unit="page" ed="Meier" n="034"/>
                <head rend="italics">Discourse 6.</head>
-               <ab> 
+               <div type="discourse-p1"><ab> 
                   <lb/><milestone unit="section" n="e06-01" />A City <choice><orig>sayth</orig><reg>says</reg></choice> Plato subsists not by <choice><orig>Physitian</orig><reg>Physician</reg></choice> and <choice><orig>Physitian</orig><reg>Physician</reg></choice>, but by <choice><orig>Physitian</orig><reg>Physician</reg></choice> and
                   <lb/>husbandman, that is, men of <choice><orig>divers</orig><reg>diverse</reg></choice> functions, but <choice><orig>hee</orig><reg>he</reg></choice> mentions the Husbandman
                   <lb/>and <choice><orig>Physitian</orig><reg>Physician</reg></choice> first, because their works are very conspicuous in the imitation, <pc>-</pc>
@@ -86,7 +86,7 @@
                   <lb/>which in all things <choice><orig>expresseth</orig><reg>expresses</reg></choice> its offices, but under a most absolute alle
                   <lb break="no"/>gory<pc>------------</pc></note><milestone unit="section" n="e06-12" />From hence the Ancients pro
                   <lb break="no"/>duced Ceres, Triptolemus, Osiris, Dionysus, the golden Gods, as relating to Chy
-                  <lb break="no"/>mistry, <milestone unit="page" ed="Meier" n="035"/>teaching as it were men how to cast the seeds of fruits into their <pc>-</pc>
+                  <lb break="no"/>mistry, </ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier" n="035"/>teaching as it were men how to cast the seeds of fruits into their <pc>-</pc>
                   <lb/>earth, <choice><orig>shewing</orig><reg>showing</reg></choice> tillage, with the propagation of vines, and use of wine, <pc>-</pc>
                   <lb/>all which things the ignorant have interpreted to <choice><orig>rusticall</orig><reg>rustical</reg></choice> operations, but
                   <lb/>erroneously: <milestone unit="section" n="e06-13" />for those things, which are absconded from the vulgar, and <pc>-</pc>
@@ -126,7 +126,7 @@
                   <lb/>Psalmist <choice><orig>sayth</orig><reg>says</reg></choice>, declare the glory of God, the Muses and Apollo sing, as <pc>-</pc>
                   <lb/>the <choice><orig>Poetts</orig><reg>Poets</reg></choice>, men even infants sing, birds sing, Sheep and geese sing in <pc>-</pc>
                   <lb/><choice><orig>musicall</orig><reg>musical</reg></choice> instruments, if therefore <choice><orig>wee</orig><reg>we</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> sing, there is reason for it <pc>. . .</pc>
-               </ab>   
+               </ab></div>   
             </div>
             
          </div>

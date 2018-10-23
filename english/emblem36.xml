@@ -50,7 +50,7 @@
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="154"/>
                     <head rend="italics">Discourse 36.</head>
-                    <ab> 
+                    <div type="discourse-p1"><ab> 
                         <lb/>All men, that have but once heard the name and power of the Stone,<milestone unit="section" n="e03-01" /> 
                         <lb/><choice><orig>unlesse</orig><reg>unless</reg></choice> they be such as are <choice><orig>alltogther</orig><reg>altogether</reg></choice> incredulous, <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>coḿonly</orig><reg>commonly</reg></choice> <choice><orig>aske</orig><reg>ask</reg></choice> <pc>-</pc>
                         <lb/>where it is to be found, that they may <choice><orig>runne</orig><reg>run</reg></choice> as it were by a straight line
@@ -87,7 +87,7 @@
                         <lb break="no"/>solved in water Medea divined many things. For earth must be
                         <lb/>dissolvd in water, otherwise neither this, nor that <choice><orig>avayles</orig><reg>avails</reg></choice> any thing:
                         <lb/>After this manner is the Stone cast upon the earth, in which not
-                        <lb break="no"/>withstanding it <choice><orig>doth</orig><reg>does</reg></choice> not continue abject and contemptible, <milestone unit="page" ed="Meier" n="155"/>but is
+                        <lb break="no"/>withstanding it <choice><orig>doth</orig><reg>does</reg></choice> not continue abject and contemptible, </ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier" n="155"/>but is
                         <lb/>exalted to the mountains, as the flammivomous Athos, Vesuvius, <pc>-</pc>
                         <lb/><choice><orig>Ætna</orig><reg>Aetna</reg></choice>, and the like, whereof many such are seen in <choice><orig>divers</orig><reg>diverse</reg></choice> parts <pc>-</pc>
                         <lb/>of the world: For a <choice><orig>perpetuall</orig><reg>perpetual</reg></choice> fire <choice><orig>burnes</orig><reg>burns</reg></choice> in them, which <choice><orig>subli
@@ -125,7 +125,7 @@
                         <lb/><choice><orig>perpetuall</orig><reg>perpetual</reg></choice> motion, running sometimes here sometimes there for the <pc>-</pc>
                         <lb/>service of the <choice><orig>Chymicall</orig><reg>Chymical</reg></choice> Gods, as their foot<pc rend="double-hyphen">-</pc>man, which his office is de
                         <lb break="no"/>noted, some men ascribing to him a daughter named Angelia <pc>. . .</pc>
-                    </ab>   
+                    </ab> </div>  
                 </div>
                 
             </div>

@@ -50,7 +50,7 @@
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="122"/>
                     <head rend="italics">Discourse 3.</head>
-                    <ab> 
+                    <div type="discourse-p1"><ab> 
                         <lb/>As there are three concoctions in man, the first in the <choice><orig>Stomacke</orig><reg>Stomach</reg></choice>, the second<milestone unit="section" n="e03-01" /> 
                         <lb/>in the Liver, the third in the veins, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>soe</orig><reg>so</reg></choice> many are the <choice><orig>universall</orig><reg>universal</reg></choice> <pc>-</pc>
                         <lb/>evacuations of the excrements, which are correspondent to them, and daily
@@ -86,7 +86,7 @@
                         <lb/><choice><orig>superfluityes</orig><reg>superfluities</reg></choice> more <choice><orig>coḿodiously</orig><reg>commodiously</reg></choice> by the ministery of art, <choice><orig>doe</orig><reg>do</reg></choice> invent <choice><orig>allso</orig><reg>also</reg></choice> <pc>-</pc>
                         <lb/><choice><orig>severall</orig><reg>several</reg></choice> <choice><orig>wayes</orig><reg>ways</reg></choice>, as ablutions, purgations, balneations and <choice><orig>laconicks</orig><reg>laconica</reg></choice>, by which
                         <lb/>they have <choice><orig>performd</orig><reg>performed</reg></choice> that in the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> <choice><orig>worke</orig><reg>work</reg></choice>, which <choice><orig>Physitians</orig><reg>Physicians</reg></choice>
-                        <lb/>have in mans body: Duenech therefore <milestone unit="page" ed="Meier" n="123"/>is introduced into the bath by <pc>-</pc>
+                        <lb/>have in mans body: Duenech therefore </ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier" n="123"/>is introduced into the bath by <pc>-</pc>
                         <lb/>Pharut, there to sweat, and evacuate the <choice><orig>fæces</orig><reg>feces</reg></choice> of the third concoction <pc>-</pc>
                         <lb/>through the pores: Now this Kings distemper is <choice><orig>melancholicke</orig><reg>melancholic</reg></choice> or atrabilary, <pc>-</pc>
                         <lb/>whereby <choice><orig>hee</orig><reg>he</reg></choice> is of <choice><orig>lesse</orig><reg>less</reg></choice> authority and <choice><orig>esteeme</orig><reg>esteem</reg></choice> than all other princes, being
@@ -129,7 +129,7 @@
                         <lb/>send him most <choice><orig>pretious</orig><reg>precious</reg></choice> robes, that <choice><orig>hee</orig><reg>he</reg></choice> may deservedly be acknowledged the <pc>-</pc>
                         <lb/><choice><orig>Sonne</orig><reg>Son</reg></choice> of Sol <pc>. . . . . . . . . . . . .</pc>
                         
-                    </ab>   
+                    </ab>  </div> 
                 </div>
                 
             </div>

@@ -49,7 +49,7 @@
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="142"/>
                     <head rend="italics">Discourse 33.</head>
-                    <ab> 
+                    <div type="discourse-p1"><ab> 
                         <lb/>It is one of the secrets of Nature, that in the cold winter <choice><orig>Froggs</orig><reg>Frogs</reg></choice> and <pc>-</pc><milestone unit="section" n="e03-01" /> 
                         <lb/>Horse<pc rend="double-hyphen">-</pc>leeches <choice><orig>lye</orig><reg>lie</reg></choice> as it were dead under water, and in the Spring new <pc>-</pc>
                         <lb/>heat of the <choice><orig>Sunne</orig><reg>Sun</reg></choice> operating recover sense and motion, or <choice><orig>performe</orig><reg>perform</reg></choice> <pc>-</pc>
@@ -87,7 +87,7 @@
                         <lb/>found, if <choice><orig>wee</orig><reg>we</reg></choice> may <choice><orig>beleive</orig><reg>believe</reg></choice> <choice><orig>historyes</orig><reg>histories</reg></choice>, that many men have <choice><orig>allso</orig><reg>also</reg></choice> <pc>-</pc>
                         <lb/><choice><orig>changd</orig><reg>changed</reg></choice> their sex: The <choice><orig>Poetts</orig><reg>Poets</reg></choice> make mention of Ceneus, Iphis, and
                         <lb/>Tiresias, as Pontanus in the <choice><orig>Starrs</orig><reg>Stars</reg></choice>.
-                        <milestone unit="page" ed="Meier" n="143"/>
+                        </ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier" n="143"/>
                         <quote>
                             <lg xml:lang="la">
                                 <l>Pœniteat generis tamen et se Cenea malint,</l>
@@ -132,7 +132,7 @@
                         <lb/>done by the sole heat of fire, as <choice><orig>hath</orig><reg>has</reg></choice> been <choice><orig>sayd</orig><reg>said</reg></choice>; for heat sequesters, <pc>-</pc>
                         <lb/>and separates the <choice><orig>superfluityes</orig><reg>superfluities</reg></choice> of moistures, and will establish the <pc>-</pc>
                         <lb/>idea of <choice><orig>itselfe</orig><reg>itself</reg></choice> in the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> subject, which is the tincture <pc>. .</pc>
-                    </ab>   
+                    </ab> </div>  
                 </div>
                 
             </div>

@@ -50,7 +50,7 @@
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="146"/>
                     <head rend="italics">Discourse 34.</head>
-                    <ab> 
+                    <div type="discourse-p1"><ab> 
                         <lb/>The opinion or flattery of men attributes <choice><orig>wonderfull</orig><reg>wonderful</reg></choice> births to some <pc>-</pc><milestone unit="section" n="e03-01" /> 
                         <lb/>persons above others, but certainly fabulous, as to Alexander the great,
                         <lb/>begotten not by Philip King of Macedonia, but Jupiter Hammon; to <pc>-</pc>
@@ -86,7 +86,7 @@
                         <lb/>in the head of the <choice><orig>vessell</orig><reg>vessel</reg></choice>, that is, the <choice><orig>Alembicke</orig><reg>Alembic</reg></choice>: And conception in
                         <lb/>baths is nothing <choice><orig>els</orig><reg>else</reg></choice> but putrefaction in dung: for <choice><orig>soe</orig><reg>so</reg></choice> the same Rosary
                         <lb/><choice><orig>continueth</orig><reg>continues</reg></choice>: The body <choice><orig>dos</orig><reg>does</reg></choice> nothing, <choice><orig>unlesse</orig><reg>unless</reg></choice> it be <choice><orig>putrefyd</orig><reg>putrified</reg></choice>, and it cannot
-                        <lb/>be <choice><orig>putrefyd</orig><reg>putrefied</reg></choice>, except with Mercury: And <choice><orig>soone</orig><reg>soon</reg></choice> after: Putrefaction <milestone unit="page" ed="Meier" n="147"/>must
+                        <lb/>be <choice><orig>putrefyd</orig><reg>putrefied</reg></choice>, except with Mercury: And <choice><orig>soone</orig><reg>soon</reg></choice> after: Putrefaction </ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier" n="147"/>must
                         <lb/>be effected with a most gentle heat of <choice><orig>warme</orig><reg>warm</reg></choice> and moist dung, and by
                         <lb/><choice><orig>noe</orig><reg>no</reg></choice> other thing, <choice><orig>soe</orig><reg>so</reg></choice> that nothing ascend, because if any thing should
                         <lb/>ascend, there would be a separation of the parts, which ought not to be,
@@ -129,7 +129,7 @@
                         <lb/><choice><orig>æquall</orig><reg>equal</reg></choice> with <choice><orig>vallyes</orig><reg>valleys</reg></choice>, and fears not the flames of fire, and therefore
                         <lb/>goes freely wheresoever <choice><orig>hee</orig><reg>he</reg></choice> please, from the pillars of Hercules in
                         <lb/>the farthest parts of India, to the pillars of Dionysius <pc>. . . .</pc>
-                    </ab>   
+                    </ab> </div>  
                 </div>
                 
             </div>

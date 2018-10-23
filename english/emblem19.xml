@@ -49,7 +49,7 @@
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="086"/>
                     <head rend="italics">Discourse 19.</head>
-                    <ab> 
+                    <div type="discourse-p1"><ab> 
                         <lb/>The <choice><orig>Poetts</orig><reg>Poets</reg></choice> <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>feigne</orig><reg>feign</reg></choice> Geryon King of <choice><orig>Spayne</orig><reg>Spain</reg></choice> to have been <choice><orig>tricorporeall</orig><reg>tricorporeal</reg></choice>, <pc>-</pc><milestone unit="section" n="e03-01" /> 
                         <lb/>who had oxen of a purple <choice><orig>colour</orig><reg>color</reg></choice>, which a <choice><orig>dogge</orig><reg>dog</reg></choice> with two heads, and a Dragon
                         <lb/>with seven were <choice><orig>chargd</orig><reg>charged</reg></choice> with as warders: and the same Geryon is reported to be
@@ -84,7 +84,7 @@
                         <lb/>of life being <choice><orig>borne</orig><reg>born</reg></choice> at one birth both by father and mother, as <choice><orig>wee</orig><reg>we</reg></choice> <pc>-</pc>
                         <lb/>have read has happened to some, perhaps by the inclination of the
                         <lb/><choice><orig>starrs</orig><reg>stars</reg></choice>, or by being <choice><orig>joyned</orig><reg>joined</reg></choice> together not <choice><orig>onely</orig><reg>only</reg></choice> in <choice><orig>soules</orig><reg>souls</reg></choice>, but <choice><orig>allso</orig><reg>also</reg></choice> ligaments
-                        <lb/>of the body, or by <milestone unit="page" ed="Meier" n="067"/>consternation of mind, by strong imagination in time
+                        <lb/>of the body, or by </ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier" n="067"/>consternation of mind, by strong imagination in time
                         <lb/>of pestilence, or by the vow of a league: A <choice><orig>certaine</orig><reg>certain</reg></choice> heathenish people
                         <lb/><choice><orig>livd</orig><reg>lived</reg></choice> by the name of Pythagoreans in the <choice><orig>Indyes</orig><reg>Indies</reg></choice> under the govern
                         <lb break="no"/>ment of the great <choice><orig>Mogull</orig><reg>Mogul</reg></choice> (who now reigns there the nineth of the <pc>-</pc>
@@ -122,7 +122,7 @@
                         <lb/>have <choice><orig>drawne</orig><reg>drawn</reg></choice> <choice><orig>mee</orig><reg>me</reg></choice> partly from my nature, and my wife partly from her <pc>-</pc>
                         <lb/>nature, you must then <choice><orig>allso</orig><reg>also</reg></choice> kill the natures, and <choice><orig>wee</orig><reg>we</reg></choice> are quickened by <pc>-</pc>
                         <lb/>a new and <choice><orig>spirituall</orig><reg>spiritual</reg></choice> resurrection, <choice><orig>soe</orig><reg>so</reg></choice> that afterwards <choice><orig>wee</orig><reg>we</reg></choice> cannot <choice><orig>dye</orig><reg>die</reg></choice><pc>. .</pc>
-                    </ab>   
+                    </ab></div>   
                 </div>
                 
             </div>

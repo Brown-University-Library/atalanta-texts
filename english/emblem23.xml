@@ -50,7 +50,7 @@
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="102"/>
                     <head rend="italics">Discourse 23.</head>
-                    <ab> 
+                    <div type="discourse-p1"><ab> 
                         <lb/>It would be <choice><orig>madnesse</orig><reg>madness</reg></choice> to <choice><orig>affirme</orig><reg>affirm</reg></choice> that gold ever rained upon the earth, except<milestone unit="section" n="e03-01" /> 
                         <lb/>it was allegorically understood: for there are <choice><orig>noe</orig><reg>no</reg></choice> golden rivers, or <choice><orig>Mynes</orig><reg>Mines</reg></choice> of <pc>-</pc>
                         <lb/>gold veins in the clouds, that it could be <choice><orig>sayd</orig><reg>said</reg></choice> to be there generated, nor is gold of
@@ -86,7 +86,7 @@
                         <lb/>virtue and essence: for this reason is a golden <choice><orig>rayne</orig><reg>rain</reg></choice> ascribed to the <pc>-</pc>
                         <lb/>generation of Sol: when little <choice><orig>Sunns</orig><reg>Suns</reg></choice> are <choice><orig>conceivd</orig><reg>conceived</reg></choice> by Venus: For Ve
                         <lb break="no"/>nus <choice><orig>hath</orig><reg>has</reg></choice> a rosy <choice><orig>colour</orig><reg>color</reg></choice> in her face, and if infused into the seed of <pc>-</pc>
-                        <lb/>Sol, <milestone unit="page" ed="Meier" n="103"/>the offspring from hence produced must really be a Rhodian: <pc>-</pc>
+                        <lb/>Sol, </ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier" n="103"/>the offspring from hence produced must really be a Rhodian: <pc>-</pc>
                         <lb/><choice><orig>Hee</orig><reg>He</reg></choice> is <choice><orig>beautifull</orig><reg>beautiful</reg></choice>, like roses, the <choice><orig>Sonne</orig><reg>Son</reg></choice> of the Philosophers, who <pc>-</pc>
                         <lb/><choice><orig>drawes</orig><reg>draws</reg></choice> and allures the eyes and minds of all men to him, and de
                         <lb break="no"/>serves love, at whose birth it is <choice><orig>noe</orig><reg>no</reg></choice> strange thing if miracles hap
@@ -115,7 +115,7 @@
                         <lb/>was produced, who was the father of the <choice><orig>tricorporeall</orig><reg>tricorporeal</reg></choice> Geryon <choice><orig>aforesayd</orig><reg>aforesaid</reg></choice>), <pc>-</pc>
                         <lb/>that is, the petrifying Gorgonian blood, which is nothing <choice><orig>els</orig><reg>else</reg></choice>, but the <pc>-</pc>
                         <lb/>tincture of the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> stone <pc>. . . . . . . . .</pc>      
-                    </ab>   
+                    </ab> </div>  
                 </div>
                 
             </div>

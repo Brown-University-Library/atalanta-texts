@@ -49,7 +49,7 @@
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="206"/>
                     <head rend="italics">Discourse 49.</head>
-                    <ab> 
+                    <div type="discourse-p1"><ab> 
                         <lb/>Those women, which prostitute themselves to variety of men, <milestone unit="section" n="e03-01" /><choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>sel 
                         <lb break="no"/>dome</orig><reg>seldom</reg></choice> conceive lively children through the confusion of <choice><orig>divers</orig><reg>diverse</reg></choice> seeds: <pc>-</pc>
                         <lb/>for nature in the generation of man and the most part of <choice><orig>animalls</orig><reg>animals</reg></choice> <choice><orig>ad
@@ -88,7 +88,7 @@
                         <lb break="no"/>hended under these shrouds, not obvious to all men. Lully in the<pc>-</pc>
                         <lb/><choice><orig>Theoricke</orig><reg>Theoric</reg></choice> of his Testament attributes to the same <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> <pc>-</pc>
                         <lb/>infant <choice><orig>soe</orig><reg>so</reg></choice> many and <choice><orig>allmost</orig><reg>almost</reg></choice> the same fathers, namely Sol, who
-                        <lb/>is Apollo, <milestone unit="page" ed="Meier" n="207"/>or the <choice><orig>cælestiall</orig><reg>celestial</reg></choice> Sol is the first author of this generation, <pc>-</pc>
+                        <lb/>is Apollo, </ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier" n="207"/>or the <choice><orig>cælestiall</orig><reg>celestial</reg></choice> Sol is the first author of this generation, <pc>-</pc>
                         <lb/>who by his ineffable virtue occult or <choice><orig>astrall</orig><reg>astral</reg></choice> power operates upon a <pc>-</pc>
                         <lb/><choice><orig>certaine</orig><reg>certain</reg></choice> matter <choice><orig>knowne</orig><reg>known</reg></choice> to the Philosophers, as upon the matrix <pc>-</pc>
                         
@@ -118,7 +118,7 @@
                         <lb/>the <choice><orig>externall</orig><reg>external</reg></choice> efficient cause: <choice><orig>Soe</orig><reg>So</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> in the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> <choice><orig>worke</orig><reg>work</reg></choice>
                         <lb/>it is proper for three fathers to be seen to have conspired for the pro
                         <lb break="no"/>creation of one infant, in <choice><orig>whome</orig><reg>whom</reg></choice> the Philosophers take great delight.
-                    </ab>   
+                    </ab> </div>  
                 </div>
                 
             </div>

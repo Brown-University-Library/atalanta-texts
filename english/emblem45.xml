@@ -49,7 +49,7 @@
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="190"/>
                     <head rend="italics">Discourse 45.</head>
-                    <ab> 
+                    <div type="discourse-p1"><ab> 
                         <lb/>As in a round or <choice><orig>Sphericall</orig><reg>Spherical</reg></choice> Palace, a fire kindled in one place illustrates<milestone unit="section" n="e03-01" /> 
                         <lb/>the parts above and below round about all the walls, except those, where
                         <lb/>a table or the like standing in the <choice><orig>midle</orig><reg>middle</reg></choice> may by its objection and inter
@@ -86,7 +86,7 @@
                         <lb/>day, as now these courses are by experience and reason confirmed to be <pc>-</pc>
                         <lb/>most true under both the Poles: But it <choice><orig>seemd</orig><reg>seemed</reg></choice> <choice><orig>farre</orig><reg>far</reg></choice> otherwise to divine provi
                         <lb break="no"/>dence, which therefore <choice><orig>hath</orig><reg>has</reg></choice> ordained two motions of the Planets, the first
-                        <lb/>and second, and <choice><orig>soe</orig><reg>so</reg></choice> distributed the year into many <choice><orig>dayes</orig><reg>days</reg></choice>: <milestone unit="page" ed="Meier" n="191"/>Now that sha
+                        <lb/>and second, and <choice><orig>soe</orig><reg>so</reg></choice> distributed the year into many <choice><orig>dayes</orig><reg>days</reg></choice>: </ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier" n="191"/>Now that sha
                         <lb break="no"/>dow and <choice><orig>Sunne</orig><reg>Sun</reg></choice> <choice><orig>doe</orig><reg>do</reg></choice> together make day and night, which the <choice><orig>Sunne</orig><reg>Sun</reg></choice> by
                         <lb/><choice><orig>itselfe</orig><reg>itself</reg></choice> alone could not effect, whose property it is to illuminate all opposite
                         <lb/>places and <choice><orig>bodyes</orig><reg>bodies</reg></choice>, but not make a shadow, except accidentally by his absence:
@@ -125,7 +125,7 @@
                         <lb/>be even finished at Aries, then begins the womens <choice><orig>worke</orig><reg>work</reg></choice>, even to Leo; <pc>-</pc>
                         <lb/>and afterwards <choice><orig>labour</orig><reg>labor</reg></choice> proceeds from <choice><orig>labour</orig><reg>labor</reg></choice>, till the year take the <choice><orig>tayle</orig><reg>tail</reg></choice>
                         <lb/>with the head, as a Snake, that is to say, is completed <pc>. . . . . . .</pc>
-                    </ab>   
+                    </ab></div>   
                 </div>
                 
             </div>

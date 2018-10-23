@@ -49,7 +49,7 @@
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="126"/>
                     <head rend="italics">Discourse 29.</head>
-                    <ab> 
+                    <div type="discourse-p1"><ab> 
                         <lb/>Two Elements there are, in which <choice><orig>animalls</orig><reg>animals</reg></choice> live, water and <choice><orig>aire</orig><reg>air</reg></choice>, and as ma<milestone unit="section" n="e03-01" /> 
                         <lb break="no"/>ny in which <choice><orig>noe</orig><reg>no</reg></choice> animated thing can live, earth and fire: For as those are
                         <lb/>of a <choice><orig>midle</orig><reg>middle</reg></choice> and temperate complexion in the first and second <choice><orig>qualityes</orig><reg>qualities</reg></choice>, <choice><orig>soe</orig><reg>so</reg></choice>
@@ -87,7 +87,7 @@
                         <lb/>a few excepted, as <choice><orig>Mercuriall</orig><reg>Mercurial</reg></choice>, which <choice><orig>doe</orig><reg>do</reg></choice> either <choice><orig>wholy</orig><reg>wholly</reg></choice> <choice><orig>remayne</orig><reg>remain</reg></choice>, or <choice><orig>allto
                         <lb break="no"/>gether</orig><reg>altogether</reg></choice> <choice><orig>flye</orig><reg>fly</reg></choice> from fire, <choice><orig>noe</orig><reg>no</reg></choice> separation of the parts being made in them:
                         <lb/>Vulcan is a most <choice><orig>cruell</orig><reg>cruel</reg></choice> <choice><orig>murtherer</orig><reg>murderer</reg></choice>, who calls all things mixed with the
-                        <lb/>Elements to his examination, <milestone unit="page" ed="Meier" n="127"/>some being excepted from his judgement
+                        <lb/>Elements to his examination, </ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier" n="127"/>some being excepted from his judgement
                         <lb/>seat as the <choice><orig>priviledges</orig><reg>privileges</reg></choice>, and prerogatives of the <choice><orig>Emperesse</orig><reg>Emperess</reg></choice> Nature: Upon
                         <lb/>these <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>obtaines</orig><reg>obtains</reg></choice> <choice><orig>noe</orig><reg>no</reg></choice> right alone, <choice><orig>unlesse</orig><reg>unless</reg></choice> <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>joyne</orig><reg>join</reg></choice> to <choice><orig>himselfe</orig><reg>himself</reg></choice> other <pc>-</pc>
                         
@@ -136,7 +136,7 @@
                         <lb/>cannot be fixed, except by <choice><orig>mariage</orig><reg>marriage</reg></choice> and coition with Sulphur, <pc>-</pc>
                         <lb/>which is the Philosophers tincture, and <choice><orig>fixeth</orig><reg>fixes</reg></choice> all volatile Spi
                         <lb break="no"/>rits <pc>. . . . . . . . . . . . . . . .</pc>   
-                    </ab>   
+                    </ab>  </div> 
                 </div>
                 
             </div>

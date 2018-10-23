@@ -50,7 +50,7 @@
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="046"/>
                     <head rend="italics">Discourse 9.</head>
-                    <ab> 
+                    <div type="discourse-p1"><ab> 
                         <lb/><milestone unit="section" n="e09-01" />All things whatsoever <choice><orig>doe</orig><reg>do</reg></choice> grow in length, breadth, and depth, that is, are 
                         <lb/>propagated, nourished, and augmented to maturity, the same things <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>all
                         <lb break="no"/>so</orig><reg>also</reg></choice> decrease, that is, are diminished in <choice><orig>facultyes</orig><reg>faculties</reg></choice>, <choice><orig>dye</orig><reg>die</reg></choice>, and are wholly demo
@@ -91,7 +91,7 @@
                         <lb break="no"/>ving</orig><reg>preserving</reg></choice> the life of students, writes, that in order to <choice><orig>attaine</orig><reg>attain</reg></choice> to long life
                         <lb/>it is <choice><orig>coḿodious</orig><reg>commodious</reg></choice> for a man <choice><orig>dayly</orig><reg>daily</reg></choice> to <choice><orig>sucke</orig><reg>suck</reg></choice> the <choice><orig>milke</orig><reg>milk</reg></choice> of some <choice><orig>certaine</orig><reg>certain</reg></choice>
                         <lb/><choice><orig>beautifull</orig><reg>beautiful</reg></choice> and young woman, instead of which others <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>coḿend</orig><reg>commend</reg></choice>
-                        <lb/>the eating of vipers flesh: <milestone unit="page" ed="Meier" n="047"/><milestone unit="section" n="e09-13" />but indeed these means are themselves
+                        <lb/>the eating of vipers flesh: </ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier" n="047"/><milestone unit="section" n="e09-13" />but indeed these means are themselves
                         
                         
                         
@@ -134,7 +134,7 @@
                         <lb/><note place="left margin">-</note>daughter of the old man, which as Daphne is transmuted into a vegetable
                         <lb/><note place="left margin">-</note>of the like sort, and therefore the old man <choice><orig>doth</orig><reg>does</reg></choice> not without reason expect
                         <lb/><note place="left margin">-</note>youth from it, which caused it to be effected <pc>. . . . . . .</pc>  
-                    </ab>   
+                    </ab></div>   
                 </div>
                 
             </div>

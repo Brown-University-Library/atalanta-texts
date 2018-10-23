@@ -21,8 +21,8 @@
          <div type="preface" xml:lang="la">
             <pb n="06" edRef="Maier1618"/>
             <fw type="pageNum" place="top-cent">6</fw>
-            <head><hi rend="large">Pr<hi rend="ligature">ae</hi>fatio ad Lectorem.</hi></head>
             <div type="page">
+               <head><hi rend="large">Pr<hi rend="ligature">ae</hi>fatio ad Lectorem.</hi></head>
             <ab rend="italics">
                <lb n="1"/><milestone unit="section" n="pr-01"/><hi rend="caps">H</hi><hi rend="caps">ominem</hi>, lectorem candide, universi compendium
                <lb n="2"/>sui compositione referre, in confesso est omnium,
