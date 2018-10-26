@@ -1,0 +1,239 @@
+/*
+ * CSS for Transcription of English translation of Atalanta. Designed mostly for proofreading.
+ * Almost all elements are styled, but often so that they can be proofread.
+ *
+ * HISTORY
+ * EM initial styling 2017-03-31
+ * EM work on improving styling for proofreading 2017-07-06
+ * EM styling improvements based on Donna's comments 2018-01-12
+ *     * remove vertical spaces before and after verses inside discourses
+ *     * observe italics in spans
+ *     * make title page resemble pages more (center title, try for some vertical space)
+ */
+
+@page {
+    margin-top: 1in;
+}
+
+body{
+    width: 75%;
+    margin-left: .75in;
+    margin-right: .75in;
+    line-height: 175%;
+    font-family: "Garamond", "Georgia", serif;
+}
+
+.epigram
+{
+    text-align: left;
+    text-indent: 20%;
+    
+}
+
+
+.verse-epigram {
+    margin-top: -30px;
+    margin-left: 10%;
+    margin-bottom: -30px;
+}
+
+.verse-epigram-italic {
+    margin-top: -30px;
+    margin-left: 10%;
+    margin-bottom: -30px;
+    font-style: oblique;
+}
+
+verse-discourse {
+    margin-top: -30px;
+    margin-left: 10%;
+    margin-bottom: -30px;
+}
+
+span.v-line-indent, span.v-line {
+    display:block;
+    margin-left: 5%;
+    line-height: 100%;
+}
+
+span.v-line-indent {
+    margin-left: 10%;
+}
+
+/*  hiding own title. only show what's on the page */
+h2{
+    display: none;
+    color: #b5b5b5;
+}
+
+h1.title {
+    text-align: center;
+}
+
+h3.title, epigram {
+    font-style: oblique;
+}
+
+.pb{
+    
+    text-align: left;
+}
+
+.pb:before{
+    content: "––– Page: ";
+}
+
+.pb:after{
+    content: " –––"
+}
+
+.milestone{
+    font-style: italic;
+    color: grey;
+}
+
+.milestone:before{
+    content: " [§ ";
+}
+
+.milestone:after{
+    content: "] ";
+}
+
+.choice {
+    background-color: #eeeeee;
+    margin-left: 2px;
+}
+
+
+.regularized {
+    color: #009acd;
+}
+
+.original {
+    
+}
+
+.div-center {
+    text-align: center;
+}
+
+.div-left {
+    text-align: left;
+    margin-left: 3em;
+    text-indent: 1em;
+}
+
+.subst {
+    background-color: #eeeeee;
+    margin-left: 2px;
+  }
+
+.del{
+    text-decoration: line-through;
+}
+
+.add:before{
+    content: "<";
+    color: #8E8E38;
+}
+
+.add:after{
+    content: ">";
+    color: #8E8E38;
+}
+
+.unclear:before{
+    content: "[? ";
+}
+
+.unclear:after{
+    content: "]";
+}
+
+.supplied{
+display: none;
+}
+
+.supplied:before{
+    content: "<";
+    color: #8E8E38;
+}
+
+.supplied:after{
+    content: ">";
+    color: #8E8E38;
+}
+span.superscript{
+    vertical-align: super;
+    font-size: smaller;
+}
+
+span.underline{
+    text-decoration: underline;
+}
+
+span.underline2{
+    border-bottom: 2px grey solid;
+}
+
+.italic {
+    font-style: italic;
+}
+
+span.quote {
+    font-style: italic;
+}
+
+span.gothic {
+     /*  what shall we put here?   */
+}
+
+span.latin {
+    font-style: normal;
+}
+
+span.caps, hi.caps {
+    text-transform: uppercase;
+}
+
+span.caps-latin {
+    text-transform: uppercase;
+    font-style: normal;
+}
+
+span.raised {
+    vertical-align: super;
+}
+
+.pc{
+
+}
+
+
+
+.fw{
+    font-style: italic;
+    display: block;
+}
+
+.margin-note{
+    float: right;
+    margin-left: 20px;
+    outline: .5px solid #b5b5b5;
+    top: auto; /* default */
+    width: 175px;
+    padding-left: 10px;
+
+}
+
+.note-mark{
+    color: #C67171;
+    font-weight: bold;
+    vertical-align: super;
+}
+
+.help{
+    color: red;
+
+}
