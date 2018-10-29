@@ -21,7 +21,7 @@ for f in THISDIR.glob('latin/*.xml'):
     args = [
         SAXON_COMMAND,
         "-s:{}/{}".format(THISDIR, f),
-        "-xsl:{}/xsl/Eng-to-HTML.xsl".format(THISDIR),
+        "-xsl:{}/xsl/Lat-to-HTML.xsl".format(THISDIR),
         "-o:{}/latin-html/{}".format(THISDIR, f.name.replace('.xml', '.html')),
     ]
     print(args[1])
