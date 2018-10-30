@@ -50,7 +50,8 @@
         <xsl:apply-templates/>
     </xsl:template>
 
-    <xsl:template match="af:div[@type='title' or @type='epigram' or @type='discourse']">
+    <xsl:template match="af:div[@type='title' or @type='epigram' or @type='discourse' or 
+        @type='dedication' or @type='preface' or @type='titlePage']">       
         <div class="{@type}">
             <!--<h3 class="label"><xsl:value-of select="upper-case(@type)"/></h3>-->
             <xsl:apply-templates/>
