@@ -26,8 +26,10 @@
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="121"/>
                     <head>
-                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 28. Of the Secrets of Nature.
-                        <lb/>The King sitting in a vaporous bath is bathed, and freed from
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 28. Of the Secrets of Nature.</seg>
+                        </head>
+                        <head>
+                        <lb/><seg rend="italics">The King sitting in a vaporous bath is bathed, and freed from
                         <lb/>melancholy by Pharut.</seg>
                     </head>
                 </div>

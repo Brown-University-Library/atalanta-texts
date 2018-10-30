@@ -26,8 +26,10 @@
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="137"/>
                     <head>
-                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 32. Of the Secrets of Nature.
-                        <lb/>As <choice><orig>Corall</orig><reg>Coral</reg></choice> <choice><orig>growes</orig><reg>grows</reg></choice> under water, and is hardened by the <choice><orig>aire</orig><reg>air</reg></choice>,
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 32. Of the Secrets of Nature.</seg>
+                        </head>
+                        <head>
+                        <lb/><seg rend="italics">As <choice><orig>Corall</orig><reg>Coral</reg></choice> <choice><orig>growes</orig><reg>grows</reg></choice> under water, and is hardened by the <choice><orig>aire</orig><reg>air</reg></choice>,
                         <lb/><choice><orig>Soe</orig><reg>So</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> is the Stone.</seg>
                     </head>
                 </div>

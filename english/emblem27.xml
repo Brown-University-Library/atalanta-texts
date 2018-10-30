@@ -26,8 +26,10 @@
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="117"/>
                     <head>
-                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 27. Of the Secrets of Nature.
-                        <lb/><choice><orig>Hee</orig><reg>He</reg></choice> that <choice><orig>endeavours</orig><reg>endeavors</reg></choice> to enter into the Philosophers Rosary without
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 27. Of the Secrets of Nature.</seg>
+                        </head>
+                        <head>
+                        <lb/><seg rend="italics"><choice><orig>Hee</orig><reg>He</reg></choice> that <choice><orig>endeavours</orig><reg>endeavors</reg></choice> to enter into the Philosophers Rosary without
                         <lb/>a key, is like him that would <choice><orig>walke</orig><reg>walk</reg></choice> without feet.</seg>
                     </head>
                 </div>

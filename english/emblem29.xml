@@ -26,8 +26,10 @@
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="125"/>
                     <head>
-                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> the 29. Of the Secrets of Nature.
-                        <lb/>As the Salamander lives in fire <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> the Stone.</seg>
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> the 29. Of the Secrets of Nature.</seg>
+                        </head>
+                        <head>
+                        <lb/><seg rend="italics">As the Salamander lives in fire <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> the Stone.</seg>
                     </head>
                 </div>
                 

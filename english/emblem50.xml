@@ -26,8 +26,10 @@
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="209"/>
                     <head>
-                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 50. Of the Secrets of Nature.
-                        <lb/>The Dragon kills the woman, and <choice><orig>shee</orig><reg>she</reg></choice> him, and are both bloody
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 50. Of the Secrets of Nature.</seg>
+                        </head>
+                        <head>
+                        <lb/><seg rend="italics">The Dragon kills the woman, and <choice><orig>shee</orig><reg>she</reg></choice> him, and are both bloody
                         <lb/>all over.</seg>
                     </head>
                 </div>

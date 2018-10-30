@@ -26,8 +26,10 @@
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="057"/>
                     <head>
-                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 12. Of the Secrets of Nature.
-                        <lb/>The Stone, which <choice><orig>Saturne</orig><reg>Saturn</reg></choice> vomited up, being devoured instead
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 12. Of the Secrets of Nature.</seg>
+                        </head>
+                        <head>
+                        <lb/><seg rend="italics">The Stone, which <choice><orig>Saturne</orig><reg>Saturn</reg></choice> vomited up, being devoured instead
                         <lb/>of his <choice><orig>Sonne</orig><reg>Son</reg></choice> jupiter, is placed in Helicon as a monument to men.</seg>
                     </head>
                 </div>

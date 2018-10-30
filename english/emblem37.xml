@@ -26,8 +26,10 @@
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="157"/>
                     <head>
-                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 37. Of the Secrets of Nature.
-                        <lb/>Three things are sufficient for the Magistery, the white fume, that
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 37. Of the Secrets of Nature.</seg>
+                        </head>
+                        <head>
+                        <lb/><seg rend="italics">Three things are sufficient for the Magistery, the white fume, that
                         <lb/>is, water, the green <choice><orig>Lyon</orig><reg>Lion</reg></choice>, that is, the <choice><orig>brasse</orig><reg>brass</reg></choice> of Hermes, and aqua
                         <lb/>fœtida.</seg>
                     </head>

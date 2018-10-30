@@ -26,8 +26,10 @@
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="093"/>
                     <head>
-                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 21. Of the Secrets of Nature.
-                        <lb/>Make <del>o</del>f<add>or</add> the man and the woman a circle, of that a quadrangle, of this
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 21. Of the Secrets of Nature.</seg>
+                        </head>
+                        <head>
+                        <lb/><seg rend="italics">Make <del>o</del>f<add>or</add> the man and the woman a circle, of that a quadrangle, of this
                         <lb/>a triangle, of the same a circle, and you will have the Philosoph. Stone.</seg>
                     </head>
                 </div>

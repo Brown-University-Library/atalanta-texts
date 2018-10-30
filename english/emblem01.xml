@@ -27,8 +27,10 @@
                     <milestone unit="page" ed="Meier" n="013"/>
                     <head>
                         <lb/><seg rend="italics">the first <choice><orig>Embleme</orig><reg>Emblem</reg></choice>. Of the Secrets of Nature.</seg>
-                        <lb/><del rend="strikethrough"><unclear reason="illegible">4 chars</unclear> </del><subst><del><unclear reason="illegible">1 char</unclear></del><add>W</add></subst>ind <choice><orig>carryed</orig><reg>carried</reg></choice> him in his belly <pc>- - - -</pc>
                     </head>
+                    <head>
+                        <lb/><seg rend="italics"><del rend="strikethrough"><unclear reason="illegible">4 chars</unclear> </del><subst><del><unclear reason="illegible">1 char</unclear></del><add>W</add></subst>ind <choice><orig>carryed</orig><reg>carried</reg></choice> him in his belly <pc>- - - -</pc>
+</seg>                    </head>
                 </div>
                 
                 

@@ -26,8 +26,10 @@
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="081"/>
                     <head>
-                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 18. Of the Secrets of Nature.
-                        <lb/>Fire loves to <choice><orig>burne</orig><reg>burn</reg></choice>, not to aurify, but gold.</seg>
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 18. Of the Secrets of Nature.</seg>
+                        </head>
+                        <head>
+                        <lb/><seg rend="italics">Fire loves to <choice><orig>burne</orig><reg>burn</reg></choice>, not to aurify, but gold.</seg>
                     </head>
                 </div>
                 

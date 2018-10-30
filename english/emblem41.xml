@@ -26,8 +26,10 @@
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="173"/>
                     <head>
-                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 41. Of the Secrets of Nature.
-                        <lb/>Adonis is <choice><orig>killd</orig><reg>killed</reg></choice> by a Boar, to <choice><orig>whome</orig><reg>whom</reg></choice> Venus hasting tinged the
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 41. Of the Secrets of Nature.</seg>
+                        </head>
+                        <head>
+                        <lb/><seg rend="italics">Adonis is <choice><orig>killd</orig><reg>killed</reg></choice> by a Boar, to <choice><orig>whome</orig><reg>whom</reg></choice> Venus hasting tinged the
                         <lb/>Roses with her blood.</seg>
                     </head>
                 </div>

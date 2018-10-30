@@ -26,8 +26,10 @@
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="149"/>
                     <head>
-                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 35. Of the Secrets of Nature.
-                        <lb/>As Ceres accustomed Triptolemus, and Thetis Achilles to abide in
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 35. Of the Secrets of Nature.</seg>
+                        </head>
+                        <head>
+                        <lb/><seg rend="italics">As Ceres accustomed Triptolemus, and Thetis Achilles to abide in
                         <lb/>fire, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>doth</orig><reg>does</reg></choice> an artist the stone.</seg>
                     </head>
                 </div>

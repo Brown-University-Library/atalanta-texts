@@ -26,8 +26,10 @@
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="129"/>
                     <head>
-                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 30. Of the Secrets of Nature.
-                        <lb/>Luna is as requisite to Sol as a <choice><orig>henne</orig><reg>hen</reg></choice> to a <choice><orig>cocke</orig><reg>cock</reg></choice>.</seg>
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 30. Of the Secrets of Nature.</seg>
+                        </head>
+                        <head>
+                        <lb/><seg rend="italics">Luna is as requisite to Sol as a <choice><orig>henne</orig><reg>hen</reg></choice> to a <choice><orig>cocke</orig><reg>cock</reg></choice>.</seg>
                     </head>
                 </div>
                 

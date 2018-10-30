@@ -26,8 +26,10 @@
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="073"/>
                     <head>
-                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 16. Of the Secrets of Nature.
-                        <lb/>One <choice><orig>Lyon</orig><reg>Lion</reg></choice> <choice><orig>hath</orig><reg>has</reg></choice> wings, the other none.</seg>
+                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 16. Of the Secrets of Nature.</seg>
+                        </head>
+                        <head>
+                        <lb/><seg rend="italics">One <choice><orig>Lyon</orig><reg>Lion</reg></choice> <choice><orig>hath</orig><reg>has</reg></choice> wings, the other none.</seg>
                     </head>
                 </div>
                 
