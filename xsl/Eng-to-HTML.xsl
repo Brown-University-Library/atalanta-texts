@@ -58,12 +58,14 @@
         </div>
     </xsl:template>
     
-    <xsl:template match="af:div[@type='discourse-p1' or @type='discourse-p2']">
+    <!--This is only for the Latin
+        
+        <xsl:template match="af:div[@type='discourse-p1' or @type='discourse-p2']">
         <h3 class="title"><xsl:value-of select="preceding::af:head"/></h3>
         <div class="{@type}">
             <xsl:apply-templates/>
         </div>
-    </xsl:template>
+    </xsl:template>-->
    
     <xsl:template match="af:head">
         <xsl:choose>
