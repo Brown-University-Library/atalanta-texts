@@ -119,9 +119,10 @@
     </xsl:template>
     
     <xsl:template match="af:lb">
-        <span class="original">
-        <xsl:if test="@break='no'"><xsl:text>-</xsl:text></xsl:if><br />
-        </span>
+        <xsl:choose>
+            <xsl:when test="@break='no'">@break='no'"><xsl:text>-</xsl:text></xsl:if><br /></xsl:when>
+            <xsl:otherwise><br/></xsl:otherwise>
+        </xsl:choose>
     </xsl:template>
    
     <xsl:template match="text()[following-sibling::node()[1][self::af:lb[@break eq 'no']]]" mode="#all">
