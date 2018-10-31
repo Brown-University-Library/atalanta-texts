@@ -64,12 +64,21 @@
             <xsl:apply-templates/>
         </div>
     </xsl:template>
-
+   
     <xsl:template match="af:head">
-        <h3 class="{parent::af:div/@type}">
-            <xsl:apply-templates/>
-        </h3>
+        <xsl:choose>
+            <xsl:when test="preceding-sibling::af:head and parent::af:div[@type='title']">
+                <h1 class="title">
+                    <xsl:apply-templates/>
+                </h1></xsl:when>
+            <xsl:otherwise>
+                <h3 class="title">
+                <xsl:apply-templates/>
+            </h3>
+            </xsl:otherwise>
+        </xsl:choose>
     </xsl:template>
+    
 
     <xsl:template match="af:lg">
         <xsl:choose>
@@ -106,7 +115,12 @@
     </xsl:template>
     
     <xsl:template match="af:lb">
-        <xsl:if test="@break='no'"><span class="original"><xsl:text>=</xsl:text><br /></span></xsl:if>
+        <xsl:choose>
+            <xsl:when test="@break='no'"><span class="original"><xsl:text>=</xsl:text><br /></span></xsl:when>
+            <xsl:otherwise><span class="original"><br/></span><span class="regularized"> </span> </xsl:otherwise>
+        </xsl:choose>
+        
+        
     </xsl:template>
 
     <xsl:template match="af:ab">
