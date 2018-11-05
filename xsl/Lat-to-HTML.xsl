@@ -120,7 +120,7 @@
     
     <xsl:template match="af:lb">
         <xsl:choose>
-            <xsl:when test="@break='no'">@break='no'"><xsl:text>-</xsl:text></xsl:if><br /></xsl:when>
+            <xsl:when test="@break='no'"><xsl:text>-</xsl:text><br /></xsl:when>
             <xsl:otherwise><br/></xsl:otherwise>
         </xsl:choose>
     </xsl:template>
