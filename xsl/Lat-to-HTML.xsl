@@ -265,13 +265,13 @@
     <xsl:template match="af:hi[@rend='ligature']">
         <xsl:choose>
             <xsl:when test=". = 'ae'">
-                <span class="original">æ</span><span class="regularized">[<xsl:apply-templates/>]</span>
+                <span class="original">æ</span><span class="regularized"><xsl:apply-templates/></span>
             </xsl:when>
             <xsl:when test=". = 'oe'">
-                <span class="original">œ</span><span class="regularized">[<xsl:apply-templates/>]</span>
+                <span class="original">œ</span><span class="regularized"><xsl:apply-templates/></span>
             </xsl:when>
             <xsl:when test=".= 'Ae'">
-                <span class="original">Æ</span><span class="regularized">[<xsl:apply-templates/>]</span>
+                <span class="original">Æ</span><span class="regularized"><xsl:apply-templates/></span>
             </xsl:when>
             <xsl:otherwise><xsl:apply-templates/></xsl:otherwise>    
         </xsl:choose>
