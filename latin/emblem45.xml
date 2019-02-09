@@ -50,7 +50,12 @@
             
             <pb n="189" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="45" type="cardinal">XLV</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">189</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema <num value="45" type="cardinal">XLV</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">189</fw>
+            
+            <div type="image" xml:lang="la">
+               <head><lb n="1"/>Sol <g type="ampersand">et</g> ejus umbra perficiunt opus.</head>
+            </div> 
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="45" type="cardinal">XLV</num>.</head>
                <lg>

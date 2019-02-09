@@ -48,7 +48,12 @@
             
             <pb n="105" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema XXIV. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">105</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema XXIV. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">105</fw>
+            
+            <div type="image" xml:lang="la">
+               <head><lb n="1"/>Regem lupus voravit <g type="ampersand">et</g> vit<hi rend="ligature">ae</hi> crematus reddidit.</head>
+            </div>   
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma XXIV.</head>
                <lg>

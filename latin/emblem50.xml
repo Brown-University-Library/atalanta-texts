@@ -50,7 +50,13 @@
             
             <pb n="209" edRef="Maier1618"/> 
             
-            <fw type="header" place="top-center">Emblema L. <hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">209</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema L. <hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">209</fw>
+            
+            <div type="image" xml:lang="la">
+               <head> <lb n="1"/>Draco mulierem, <g type="ampersand">et></g> h<hi rend="ligature">ae</hi>c illum interimit, simulque
+                  <lb n="2"/>saunguine perfunduntur.</head>
+            </div>     
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma L.</head>
                <lg>

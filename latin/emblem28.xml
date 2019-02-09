@@ -29,8 +29,8 @@
             <div type="fugue" xml:lang="de">
                <head>
 
-               <lb n="2"/>Der König badet im lüfftigen Bade <pc>/</pc> und wirt der
-               <lb n="3"/>schwarzen Gallen entlediget durch <persName>Pharut</persName>.
+               <lb n="1"/>Der König badet im lüfftigen Bade <pc>/</pc> und wirt der
+               <lb n="2"/>schwarzen Gallen entlediget durch <persName>Pharut</persName>.
             </head>
                
             </div>
@@ -50,7 +50,13 @@
             
             <pb n="121" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="28" type="cardinal">XXVIII</num>. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">121</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema <num value="28" type="cardinal">XXVIII</num>. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">121</fw>
+            
+            <div type="image" xml:lang="la">
+               <head><lb n="1"/>Rex balneatur in Laconico sedens,
+                  <lb n="2"/>Atr<hi rend="circumflex">a</hi>que bile liberatur <hi rend="grave">a</hi> <persName>Pharut</persName>.</head>
+            </div>
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="28" type="cardinal">XXVIII</num>.</head>
                <lg>

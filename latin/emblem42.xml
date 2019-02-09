@@ -51,7 +51,13 @@
             
             <pb n="177" edRef="Maier1618"/> 
             
-            <fw type="header" place="top-center">Emblema XLII. <hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">177</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema XLII. <hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">177</fw>
+            
+            <div type="image" xml:lang="la">
+               <head><lb n="1"/>In Chymicis versanti Natura, Ratio, Experientia <g type="ampersand">et></g> lectio
+                  <lb n="2"/>sint Dux, scipio, perspicilia <g type="ampersand">et></g> lampas.</head>
+            </div>
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma XLII.</head>
                <lg>

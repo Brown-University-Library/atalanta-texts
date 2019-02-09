@@ -30,8 +30,8 @@
             <div type="fugue" xml:lang="de">
                <head>
 
-               <lb n="2"/>Die Sonn bedarff deß Monds <pc>/</pc> wie der Han
-               <lb n="3"/>der Hänen.
+               <lb n="1"/>Die Sonn bedarff deß Monds <pc>/</pc> wie der Han
+               <lb n="2"/>der Hänen.
             </head>
                
             </div>
@@ -51,7 +51,12 @@
             
             <pb n="129" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="30" type="cardinal">XXX</num>. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">129</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema <num value="30" type="cardinal">XXX</num>. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">129</fw>
+            
+            <div type="image" xml:lang="la">
+               <head> <lb n="1"/>Sol indiget lun<hi rend="circumflex">a</hi>, ut gallus gallin<hi rend="circumflex">a</hi>.</head>
+            </div>  
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="30" type="cardinal">XXX</num>.</head>
                <lg>

@@ -50,7 +50,12 @@
             
             <pb n="169" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="40" type="cardinal">XL</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">169</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema <num value="40" type="cardinal">XL</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">169</fw>
+            
+            <div type="image" xml:lang="la">
+               <head><lb n="1"/>Ex duabus aquis, fac unam, <g type="ampersand">et</g> erit aqua sanctitatis.</head>
+            </div>
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="40" type="cardinal">XL</num>.</head>
                <lg>

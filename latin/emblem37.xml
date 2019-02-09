@@ -29,9 +29,9 @@
             <div type="fugue" xml:lang="de">
                <head>
 
-               <lb n="2"/>Dreij Dinge seijnd genug zur Meisterschafft <pc>/</pc> der weisse
-               <lb n="3"/>Rauch <pc>/</pc> das ist Wasser <pc>/</pc> der grüne Löw <pc>/</pc> das ist das Erz
-               <lb n="4"/><persName><hi rend="latin">Hermetis</hi></persName>, und das stinckende Wassser.
+               <lb n="1"/>Dreij Dinge seijnd genug zur Meisterschafft <pc>/</pc> der weisse
+               <lb n="2"/>Rauch <pc>/</pc> das ist Wasser <pc>/</pc> der grüne Löw <pc>/</pc> das ist das Erz
+               <lb n="3"/><persName><hi rend="latin">Hermetis</hi></persName>, und das stinckende Wassser.
             </head>
                
             </div>
@@ -51,7 +51,14 @@
             
             <pb n="157" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="37" type="cardinal">XXXVII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">157</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema <num value="37" type="cardinal">XXXVII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">157</fw>
+            
+            <div type="image" xml:lang="la">
+               <head><lb n="1"/>Tria sufficiunt ad magisterium, fumus, albus, hoc est, aqua, leo
+                  <lb n="2"/>viridis, id est, <hi rend="ligature">ae</hi>s <persName>Hermetis</persName>, <g type="ampersand">et</g> aqua f<hi rend="ligature">oe</hi>tida.</head>
+            </div> 
+            
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="37" type="cardinal">XXXVII</num>.</head>
                <lg>

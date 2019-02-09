@@ -50,8 +50,10 @@
             <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="25">XXV</num>.</fw><fw type="pageNum" place="top-right">109</fw>
             
             <div type="image" xml:lang="la">
-               
-            </div>            
+               <head><lb n="1"/>Draco non moritur, nisi cum fratre <g type="ampersand">et</g> sorore sua inter
+                  <lb n="2" break="no"/>ficiatur, qui sunt <persName>Sol</persName> <g type="ampersand">et</g> <persName>Luna</persName>.</head>
+            </div>
+            
             <div type="epigram" xml:lang="la">
                
                <lg>

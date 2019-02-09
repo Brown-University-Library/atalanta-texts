@@ -28,8 +28,8 @@
             <div type="fugue" xml:lang="de">
                <head>
 
-               <lb n="2"/>Es regnet Gold <pc>/</pc> die weil <persName><hi rend="latin">Pallas</hi></persName> wirt geboren <pc>/</pc> zu <placeName>Rhodijs</placeName> <pc>/</pc>
-               <lb n="3"/>und die Sonn beij <persName><hi rend="latin">Venere</hi></persName> ligt.
+               <lb n="1"/>Es regnet Gold <pc>/</pc> die weil <persName><hi rend="latin">Pallas</hi></persName> wirt geboren <pc>/</pc> zu <placeName>Rhodijs</placeName> <pc>/</pc>
+               <lb n="2"/>und die Sonn beij <persName><hi rend="latin">Venere</hi></persName> ligt.
             </head>
                
             </div>
@@ -49,7 +49,12 @@
             
             <pb n="101" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema XXIII. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">101</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema XXIII. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">101</fw>
+            
+            <div type="image" xml:lang="la">
+               <head><lb n="1"/>Aurum pluit, dum nascitur <persName>Pallas</persName> <placeName>Rhodi</placeName>, <g type="ampersand">et</g> <persName>Sol</persName> concumbit <persName>Veneri</persName>.</head>
+            </div>   
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma XXIII.</head>
                <lg>

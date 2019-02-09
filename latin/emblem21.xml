@@ -30,9 +30,9 @@
             <div type="fugue" xml:lang="de">
                <head>
 
-               <lb n="2"/>Mache von Mann und Weib einen Circkel <pc>/</pc> darauß ein
-               <lb n="3"/>Quadrangel <pc>/</pc> hierauß ein Triangel <pc>/</pc> mache ein Circkel <pc>/</pc> und
-               <lb n="4"/>du wirst haben den Schein der Weisen.
+               <lb n="1"/>Mache von Mann und Weib einen Circkel <pc>/</pc> darauß ein
+               <lb n="2"/>Quadrangel <pc>/</pc> hierauß ein Triangel <pc>/</pc> mache ein Circkel <pc>/</pc> und
+               <lb n="3"/>du wirst haben den Schein der Weisen.
             </head>
                
             </div>
@@ -52,7 +52,12 @@
             
             <pb n="93" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema XXI. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">93</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema XXI. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">93</fw>
+            
+            <div type="image" xml:lang="la">
+               <head><lb n="1"/>Naturam natura docet, debellet ut ignem.</head>
+            </div>            
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma XXI.</head>
                <lg>

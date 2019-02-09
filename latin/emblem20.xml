@@ -28,8 +28,8 @@
             <div type="fugue" xml:lang="de">
                <head>
 
-               <lb n="2"/>Die Natur lehret die Natur deß Feiurs zuüberwinden
-               <lb n="3"/>bald werden sie sterben all.
+               <lb n="1"/>Die Natur lehret die Natur deß Feiurs zuüberwinden
+               <lb n="2"/>bald werden sie sterben all.
             </head>
                
             </div>
@@ -49,7 +49,12 @@
             
             <pb n="89" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema XX. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">89</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema XX. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">89</fw>
+            
+            <div type="image" xml:lang="la">
+               <head> <lb n="1"/>Naturam natura docet, debellet ut ignem.</head>
+            </div>  
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma XX.</head>
                <lg>

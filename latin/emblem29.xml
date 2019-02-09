@@ -29,8 +29,8 @@
             <div type="fugue" xml:lang="de">
                <head>
 
-               <lb n="2"/>Wie der Salamander lebet im Feiur <pc>/</pc>
-               <lb n="3"/>also auch der Stein.
+               <lb n="1"/>Wie der Salamander lebet im Feiur <pc>/</pc>
+               <lb n="2"/>also auch der Stein.
             </head>
                
             </div>
@@ -50,7 +50,12 @@
             
             <pb n="125" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="29" type="cardinal">XXIX</num>. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">125</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema <num value="29" type="cardinal">XXIX</num>. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">125</fw>
+            
+            <div type="image" xml:lang="la">
+               <head><lb n="1"/>Ut Salamandra vivit igne sic lapis:</head>
+            </div>            
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="29" type="cardinal">XXIX</num>.</head>
                <lg>

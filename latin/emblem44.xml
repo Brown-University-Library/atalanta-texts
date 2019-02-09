@@ -51,7 +51,13 @@
             
             <pb n="185" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="44" type="cardinal">XLIV</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">185</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema <num value="44" type="cardinal">XLIV</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">185</fw>
+            
+            <div type="image" xml:lang="la">
+               <head><lb n="1"/>Dolo <persName type="divinity">Typhon</persName> <persName type="divinity">Osyridem</persName> trucidat, art<hi rend="acute">u</hi>sque illius
+                  <lb n="2"/>Hinc inde dissipat, sed hos collegit <persName type="divinity">Isis</persName> inclyta.</head>
+            </div>     
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="44" type="cardinal">XLIV</num>.</head>
                <lg>

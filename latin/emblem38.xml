@@ -29,8 +29,8 @@
             <div type="fugue" xml:lang="de">
                <head>
 
-               <lb n="2"/>Das <persName><hi rend="latin">Rebis</hi></persName> wie ein <hi rend="latin">Hermaphrodit</hi> wirt gebohren auß
-               <lb n="3"/>zween Bergen deß <persName type="divinity"><hi rend="latin">Mercurii</hi></persName> und <persName type="divinit"><hi rend="latin">Veneris</hi></persName>.
+               <lb n="1"/>Das <persName><hi rend="latin">Rebis</hi></persName> wie ein <hi rend="latin">Hermaphrodit</hi> wirt gebohren auß
+               <lb n="2"/>zween Bergen deß <persName type="divinity"><hi rend="latin">Mercurii</hi></persName> und <persName type="divinit"><hi rend="latin">Veneris</hi></persName>.
             </head>
                
             </div>
@@ -50,7 +50,13 @@
             
             <pb n="161" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="38" type="cardinal">XXXVIII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">161</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema <num value="38" type="cardinal">XXXVIII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">161</fw>
+            
+            <div type="image" xml:lang="la">
+               <head> <lb n="1"/><persName>Rebis</persName>, ut <persName>Hermaphroditus</persName>, nascitur ex duobus montibus,
+                  <lb n="2"/><persName type="divinity">Mercurii</persName> <g type="ampersand">et</g> <persName type="divinity">Veneris</persName>.</head>
+            </div>   
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="38" type="cardinal">XXXVIII</num>.</head>
                <lg>

@@ -50,7 +50,12 @@
             
             <pb n="197" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="47" type="cardinal">XLVII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">197</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema <num value="47" type="cardinal">XLVII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">197</fw>
+            
+            <div type="image" xml:lang="la">
+               <head><lb n="1"/>Lupus ab Oriente <g type="ampersand">et</g> Canis ab Occidente venientes se
+                  <lb n="2"/>invicem momorderunt.</head>
+            </div>            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="47" type="cardinal">XLVII</num>.</head>
                <lg>

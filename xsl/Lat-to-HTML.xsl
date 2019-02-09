@@ -25,9 +25,9 @@
     <xsl:template match="/">
         
         <html>
-            <head>
+            <head>s
                 <title>Atalanta Fugiens (Maier Edition. transcription) Facsimile Copy. Emblem <xsl:value-of select="substring(af:div[@type='emblem/@n'],2)"/></title>
-                <link rel="stylesheet" type="text/css" href="atalantaProof-original.css"  />
+                <link rel="stylesheet" type="text/css" href="atalantaProof-Lat.css"  />
             </head>
             
             <body>
@@ -176,12 +176,12 @@
     </xsl:template>
     
     <xsl:template match="af:reg | af:corr">  <!-- choice/orig/reg -->
-        <span class="regularized"><xsl:apply-templates/></span>
+        <span class="regularized">[<xsl:apply-templates/>]</span>
     </xsl:template>
     
     <xsl:template match="af:orig | af:sic">      
         <xsl:choose>
-            <xsl:when test="parent::af:choice"><span class="original"><xsl:apply-templates/><xsl:text> </xsl:text></span></xsl:when>
+            <xsl:when test="parent::af:choice"><span class="original"><xsl:apply-templates/></span></xsl:when>
             <xsl:otherwise><span class="orig-solo"><xsl:apply-templates/></span></xsl:otherwise>
         </xsl:choose>      
     </xsl:template>

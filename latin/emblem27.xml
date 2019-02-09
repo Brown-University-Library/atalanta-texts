@@ -28,9 +28,9 @@
             <div type="fugue" xml:lang="de">
                <head>
 
-               <lb n="2"/>Welcher n der Philosophen Rosen Garten wil gehen ohne
-               <lb n="3"/>den Schlüssel <pc>/</pc> ist gleich einem Manne <pc>/</pc> der gehen wil
-               <lb n="4"/>ohne Füssen.
+               <lb n="1"/>Welcher n der Philosophen Rosen Garten wil gehen ohne
+               <lb n="2"/>den Schlüssel <pc>/</pc> ist gleich einem Manne <pc>/</pc> der gehen wil
+               <lb n="3"/>ohne Füssen.
             </head>
                
             </div>
@@ -51,7 +51,12 @@
             <pb n="117" edRef="Maier1618"/>
             
             <fw type="header" place="top-center">Emblema <num value="27" type="cardinal">XXVII</num>. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">117</fw>
-            <div type="image" xml:lang="la"><head/></div>            
+            
+            <div type="image" xml:lang="la">
+               <head><lb n="1"/>Qui Rosarium intrare conatur Philosophicum absque clave,
+               <lb n="2"/>assimilatur homini ambulare volenti <expan><abbr>absq<am>;</am></abbr><ex>ue</ex></expan> pedibus:</head>
+            </div>  
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="27" type="cardinal">XXVII</num>.</head>
                <lg>

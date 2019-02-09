@@ -29,9 +29,9 @@
             <div type="fugue" xml:lang="de">
                <head>
 
-               <lb n="2"/>Der König <pc>/</pc> schwimmende im Meer <pc>/</pc> schreijet mit lauter
-               <lb n="3"/>Stimm <pc>/</pc> wer mich errettet <pc>/</pc> wirt ein groß Geschenck
-               <lb n="4"/>empfangen.
+               <lb n="1"/>Der König <pc>/</pc> schwimmende im Meer <pc>/</pc> schreijet mit lauter
+               <lb n="2"/>Stimm <pc>/</pc> wer mich errettet <pc>/</pc> wirt ein groß Geschenck
+               <lb n="3"/>empfangen.
             </head>
                
             </div>
@@ -51,7 +51,13 @@
             
             <pb n="133" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="31" type="cardinal">XXXI</num>.</fw><fw type="pageNum" place="top-right">133</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema <num value="31" type="cardinal">XXXI</num>.</fw><fw type="pageNum" place="top-right">133</fw>
+            
+            <div type="image" xml:lang="la">
+               <head><lb n="1"/>Rex natans in mari, clamans alt<hi rend="circumflex">a</hi> voce: Qui me eripiet,
+                  <lb n="2"/>ingens pr<hi rend="ligature">ae</hi>mium habebit.</head>
+            </div>      
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="31" type="cardinal">XXXI</num>.</head>
                <lg>

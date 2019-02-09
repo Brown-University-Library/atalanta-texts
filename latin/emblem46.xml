@@ -55,7 +55,12 @@
             
             <pb n="193" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="46" type="cardinal">XLVI</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">193</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema <num value="46" type="cardinal">XLVI</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">193</fw>
+            
+            <div type="image" xml:lang="la">
+               <head><lb n="1"/>Aquil<hi rend="ligature">ae</hi> du<hi rend="ligature">ae</hi>, una ab ortu, altera ab occasu conveniunt.</head>
+            </div>      
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="46" type="cardinal">XLVI</num>.</head>
                <lg>

@@ -29,8 +29,8 @@
             <div type="fugue" xml:lang="de">
                <head>
 
-               <lb n="2"/>So du von vieren ein ertödest <pc>/</pc> bald werden
-               <lb n="3"/>sie sterben all.
+               <lb n="1"/>So du von vieren ein ertödest <pc>/</pc> bald werden
+               <lb n="2"/>sie sterben all.
             </head>
                
             </div>
@@ -50,7 +50,12 @@
             
             <pb n="85" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema XIX. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">85</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema XIX. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">85</fw>
+            
+            <div type="image" xml:lang="la">
+               <head> <lb n="1"/>Si de quattuor unum Occidas, subit<hi rend="grave">o</hi> mortuus omnis erit.</head>
+            </div>            
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma XIX.</head>
                <lg>

@@ -29,10 +29,10 @@
             <div type="fugue" xml:lang="de">
                <head>
 
-               <lb n="2"/><persName><hi rend="latin">Oedypus</hi></persName> wie er <hi rend="latin">Sphyngem</hi> uberwunden <pc>/</pc> und sein Vatter
-               <lb n="3"/>ertödtet <pc>/</pc> nimpt sein Mutter zum Weib: Deß Räzels Meijnung
-               <lb n="4"/>ist diese: Der Stein ist ein Triangel im Wesen <pc>/</pc>
-               <lb n="5"/>und ein Vierangel in der Qualität.
+               <lb n="1"/><persName><hi rend="latin">Oedypus</hi></persName> wie er <hi rend="latin">Sphyngem</hi> uberwunden <pc>/</pc> und sein Vatter
+               <lb n="2"/>ertödtet <pc>/</pc> nimpt sein Mutter zum Weib: Deß Räzels Meijnung
+               <lb n="3"/>ist diese: Der Stein ist ein Triangel im Wesen <pc>/</pc>
+               <lb n="4"/>und ein Vierangel in der Qualität.
             </head>
                
             </div>
@@ -52,7 +52,14 @@
             
             <pb n="165" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="39" type="cardinal">XXXIX</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">165</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema <num value="39" type="cardinal">XXXIX</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">165</fw>
+            
+            <div type="image" xml:lang="la">
+               <head><lb n="1"/><persName>Oedypus</persName> Sphynge superata <g type="ampersand">et</g> trucidato <persName>Lajo</persName> patre 
+                  <lb n="2"/>matrem ducit in uxorem.
+               </head>
+            </div>
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="39" type="cardinal">XXXIX</num>.</head>
                <lg>

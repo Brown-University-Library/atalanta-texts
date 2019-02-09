@@ -50,7 +50,12 @@
             
             <pb n="181" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="43" type="cardinal">XLIII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">181</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema <num value="43" type="cardinal">XLIII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">181</fw>
+            
+            <div type="image" xml:lang="la">
+               <head><lb n="1"/>Audi loquacem vulturem, qui neutiquam te decipit.</head>
+            </div>   
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="43" type="cardinal">XLIII</num>.</head>
                <lg>

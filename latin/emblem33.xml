@@ -51,7 +51,12 @@
             
             <pb n="141" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="33" type="cardinal">XXXIII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi> </fw><fw type="pageNum" place="top-right">141</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema <num value="33" type="cardinal">XXXIII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi> </fw><fw type="pageNum" place="top-right">141</fw>
+            
+            <div type="image" xml:lang="la">
+               <head><lb n="1"/><persName>Hermaphroditus</persName> mortuo similis, in tenebris jacens, igne indiget.</head>
+            </div>
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="33" type="cardinal">XXXIII</num>.</head>
                <lg>

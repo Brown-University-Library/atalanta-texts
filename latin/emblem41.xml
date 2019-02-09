@@ -51,7 +51,13 @@
             
             <pb n="173" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="41" type="cardinal">XLI</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">173</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema <num value="41" type="cardinal">XLI</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">173</fw>
+            
+            <div type="image" xml:lang="la">
+               <head><lb n="1"/><persName>Adonis</persName> ab apro occiditur, cui <persName type="divinity">Venus</persName> accurrens tinxit
+                  <lb n="2"/>Rosas sanguine.</head>
+            </div>  
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="41" type="cardinal">XLI</num>.</head>
                <lg>

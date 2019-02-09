@@ -29,8 +29,8 @@
             <div type="fugue" xml:lang="de">
                <head>
 
-               <lb n="2"/>Wenn du hast das weisse Bleij <pc>/</pc> so mache der Weiberwerck <pc>/</pc>
-               <lb n="3"/>das ist <pc>/</pc> koche.
+               <lb n="1"/>Wenn du hast das weisse Bleij <pc>/</pc> so mache der Weiberwerck <pc>/</pc>
+               <lb n="2"/>das ist <pc>/</pc> koche.
             </head>
                
             </div>
@@ -50,7 +50,12 @@
             
             <pb n="97" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema XXII. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">97</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema XXII. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">97</fw>
+            
+            <div type="image" xml:lang="la">
+               <head><lb n="1"/>Plumbo habito candido fac opus mulierum, hoc est, <hi rend="caps">coque</hi>:</head>
+            </div>            
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma XXII.</head>
                <lg>

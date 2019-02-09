@@ -28,8 +28,8 @@
             <div type="fugue" xml:lang="de">
                <head>
 
-               <lb n="2"/>Das Feiuer macht feiurig <pc>/</pc> nicht güldin <pc>/</pc>
-               <lb n="3"/>sondern das Gold.
+               <lb n="1"/>Das Feiuer macht feiurig <pc>/</pc> nicht güldin <pc>/</pc>
+               <lb n="2"/>sondern das Gold.
             </head>
                
             </div>
@@ -49,7 +49,12 @@
             
             <pb n="81" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema XVIII. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">81</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema XVIII. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">81</fw>
+            
+            <div type="image" xml:lang="la">
+               <head><lb n="1"/>Ignire ignis amat, non aurificare, sed aurum:</head>
+            </div>            
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma XVIII.</head>
                <lg>

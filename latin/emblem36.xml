@@ -30,9 +30,9 @@
             <div type="fugue" xml:lang="de">
                <head>
 
-               <lb n="2"/>Dieser Stein ist verworffen auff der Erden <pc>/</pc> und erhoben auff
-               <lb n="3"/>Bergen <pc>/</pc> wohnet in der Lufft <pc>/</pc> und wirt ernehret in Flüssen <pc>/</pc>
-               <lb n="4"/>das ist der <persName type="divinity"><hi rend="latin">Mercurius</hi></persName>.
+               <lb n="1"/>Dieser Stein ist verworffen auff der Erden <pc>/</pc> und erhoben auff
+               <lb n="2"/>Bergen <pc>/</pc> wohnet in der Lufft <pc>/</pc> und wirt ernehret in Flüssen <pc>/</pc>
+               <lb n="3"/>das ist der <persName type="divinity"><hi rend="latin">Mercurius</hi></persName>.
             </head>
                
             </div>
@@ -52,7 +52,13 @@
             
             <pb n="153" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="36" type="cardinal">XXXVI</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">153</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema <num value="36" type="cardinal">XXXVI</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">153</fw>
+            
+            <div type="image" xml:lang="la">
+               <head><lb n="1"/>Lapis projectus est in terras, <g type="ampersand">et</g> in montibus exaltatus, <g type="ampersand">et</g> in
+                  <lb n="2"/>aëre habitat, <g type="ampersand">et</g> in flumine pascitur, id est, <persName type="divinity">Mercurius</persName>.</head>
+            </div>
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="36" type="cardinal">XXXVI</num>.</head>
                <lg>

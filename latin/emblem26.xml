@@ -50,7 +50,12 @@
             
             <pb n="113" edRef="Maier1618"/> 
             
-            <fw type="header" place="top-center">Emblema XXVI. <hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">113</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema XXVI. <hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">113</fw>
+            
+            <div type="image" xml:lang="la">
+               <head><lb n="1"/>Sapienti<hi rend="ligature">ae</hi> human<hi rend="ligature">ae</hi> fructus Lignum vit<hi rend="ligature">ae</hi> est.</head>
+            </div> 
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma XXVI.</head>
                <lg>

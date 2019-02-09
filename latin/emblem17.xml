@@ -48,7 +48,10 @@
             <pb n="77" edRef="Maier1618"/>
             
             <fw type="header" place="top-center">Emblema XVII. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">77</fw>
-            <div type="image" xml:lang="la"><head/></div>            
+            <div type="image" xml:lang="la">
+               <head><lb n="1"/>Orbita quadruplex hoc regit ignis opus.</head>
+            </div>     
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma XVII.</head>
                <lg>

@@ -52,7 +52,13 @@
             
             <pb n="201" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="48" type="cardinal">XLVIII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">201</fw><div type="image" xml:lang="la"><head/></div>            
+            <fw type="header" place="top-center">Emblema <num value="48" type="cardinal">XLVIII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">201</fw>
+            
+            <div type="image" xml:lang="la">
+               <head> <lb n="1"/>Rex ab aquis potatis morbum, <hi rend="grave">a</hi> medicis curatus
+                  <lb n="2"/>sanitatem obtinet.</head>
+            </div>          
+            
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="48" type="cardinal">XLVIII</num>.</head>
                <lg>
