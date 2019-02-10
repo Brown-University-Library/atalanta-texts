@@ -52,7 +52,7 @@
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="014"/>
                     <head rend="italics">Discourse i.</head><note place="margin" hand="1">D Powell 1821</note>
-                    <div type="">
+                   
                         <div type="discourse-p1"><ab> 
                         <lb/><milestone unit="section" n="e01-01" />Hermes the most industrious inquisitor into every <choice><orig>naturall</orig><reg>natural</reg></choice> secret doth
                         <lb/>in his Smaragdine table elegantly, though concisely, describe the <choice><orig>naturalle</orig><reg>natural</reg></choice> <pc>-</pc>
@@ -126,7 +126,7 @@
                         <lb/>in the <choice><orig>aire</orig><reg>air</reg></choice> is <choice><orig>borne</orig><reg>born</reg></choice> wisely: for <choice><orig>hee</orig><reg>he</reg></choice> ascends from earth to heaven, and
                         <lb/><choice><orig>againe</orig><reg>again</reg></choice> descends to earth acquiring both the <choice><orig>superiour</orig><reg>superior</reg></choice> and <choice><orig>inferiour</orig><reg>inferior</reg></choice>
                         <lb/>virtue. <pc>- - - - - - - - - - - - -</pc>
-                    </ab>   </div></div>
+                    </ab>   </div>
                 </div>
                 
             </div>

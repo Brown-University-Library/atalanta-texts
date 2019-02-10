@@ -25,7 +25,7 @@
       <body>
          <div type="emblem" n="e26">
             <pb n="112" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left">112</fw>
+            <fw type="pageNum" place="top-left">112</fw><fw type="header" place="top-center">FUGA <num value="22" type="cardinal">XXII</num>. in <num value="8">8</num>. duplici; infrà. </fw>
             
             <div type="fugue" xml:lang="de">
                <head>
