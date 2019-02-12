@@ -46,7 +46,7 @@ h3.discourse
 .verse-discourse {
     margin-top: -30px;
     margin-left: 10%;
-    margin-bottom: -30px;
+    /*margin-bottom: -30px;*/
 }
 
 .ab {
@@ -100,7 +100,7 @@ h3.title {
 }
 
 
-.reg {
+.regularized {
     color: #009acd;
 }
 

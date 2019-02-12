@@ -119,7 +119,7 @@
     <xsl:template match="af:lb">
         <xsl:choose>
             <xsl:when test="@break='no'"><span class="original"><xsl:text>=</xsl:text><br /></span></xsl:when>
-            <xsl:otherwise><span class="original"><br/></span><span class="regularized"> </span> </xsl:otherwise>
+            <xsl:otherwise><span class="original"><br/></span><span class="regularized">&#160;</span> </xsl:otherwise>
         </xsl:choose>
         
         
@@ -186,9 +186,7 @@
                 <xsl:apply-templates/>
             </div>
         </xsl:if>
-        <xsl:if test="@type='GE'">
-            <span class="help">[<xsl:apply-templates/>]</span>
-        </xsl:if>
+        
     </xsl:template>
 
     <xsl:template match="af:pc">
