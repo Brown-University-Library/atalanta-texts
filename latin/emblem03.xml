@@ -61,12 +61,12 @@
             </div>       
             
             <div type="epigram" xml:lang="la">
-               <head>Epigramma II.</head>
+               <head>Epigramma III.</head>
                <lg>
                   <lb n="1"/><l>Abdita quisquis amas scrutari dogmata, ne sis</l>
                   <lb n="2"/><l>Deses, in exemplum, quod juvet, omne trahas:</l>
-                  <lb n="3"/><l>Ann<hi rend="acute">e</hi> vides, mulier maculis ab stergere pannos</l>
-                  <lb n="4"/><l>Ut soleat calidis, wuas superaddit, aquis?</l>
+                  <lb n="3"/><l>Ann<hi rend="acute">e</hi> vides, mulier maculis abstergere pannos</l>
+                  <lb n="4"/><l>Ut soleat calidis, quas superaddit, aquis?</l>
                   <lb n="5"/><l>Hanc imitare, tu<hi rend="circumflex">a</hi> nec sic frustraberis arte,</l>
                   <lb n="6"/><l>N<hi rend="acute">a</hi>mque nigri f<hi rend="ligature">oe</hi>cem corporis unda lavat.</l>
                </lg>
@@ -82,7 +82,7 @@
                      <lb n="1"/><milestone unit="section" n="e03-01"/>Si pannis lineis sordes qu<hi rend="ligature">ae</hi>dam advenerint, quibus maculentur
                      <lb n="2"/><g type="ampersand">et</g> nigrescant, utpote terreis recrementis, per proximum ele
                      <lb n="3" break="no"/>mentum, nempe aquam, eluuntur, <g type="ampersand">et</g> aëri panni exponuntur, ut ca
-                     <lb n="4" break="no"/>ore solis, tanquam igne, quarto elemento, humiditas un<hi rend="grave">a</hi> cum f<hi rend="ligature">oe</hi>
+                     <lb n="4" break="no"/>lore solis, tanquam igne, quarto elemento, humiditas un<hi rend="grave">a</hi> cum f<hi rend="ligature">oe</hi>
                      <lb n="5" break="no"/>cibus extrahatur, hoc si s<hi rend="ligature">ae</hi>pius contingat, qui pri<hi rend="grave">u</hi>s erant sordidi <g type="ampersand">et</g>
                      <lb n="6"/>f<hi rend="ligature">oe</hi>tidi, fiunt puri, <g type="ampersand">et</g> <hi rend="grave">a</hi> maculis purgati: <milestone unit="section" n="e03-02"/> H<hi rend="ligature">ae</hi>c est ars mulierum, quam
                      <lb n="7"/>ab ipsa natura didicerunt: Videmus enim, quod animalium ossa
@@ -101,15 +101,15 @@
                      <lb n="20"/>mutuas sibi invicem dedisse qualitates, aut quod genus ignis Philo
                      <lb n="21" break="no"/>sophici non sit idem cum communi, idem<hi rend="acute">q</hi>ue de aqua sentiendum.
                      <lb n="22"/><milestone unit="section" n="e03-08"/> De calce viva <g type="ampersand">et</g> igne <orgName>Gr<hi rend="ligature">ae</hi>co</orgName> exploratum habemus, quod aquis in
-                     <lb n="23" break="no"/>cenantur, <g type="ampersand">et</g> neutiquem extinguantur, contra naturam aliorum
+                     <lb n="23" break="no"/>cendantur, <g type="ampersand">et</g> neutiquem extinguantur, contra naturam aliorum
                      <lb n="24"/>inflammabilium: sic camphoram in aquis ardere ante accensam
                      <lb n="25"/>affirmant: <milestone unit="section" n="e03-09"/> Et Gagates lapis (ut <persName ref="http://viaf.org/viaf/69027572"><expan><abbr>Ansel<am>.</am></abbr><ex>mus</ex></expan> de Bood</persName> testatur) accensus o
-                     <lb n="26" break="no"/>leo facili<hi rend="grave">u</hi>s extinguintur, qu<hi rend="grave">a</hi>m aqua: Oleum enim commiscetur ei,
+                     <lb n="26" break="no"/>leo facili<hi rend="grave">u</hi>s extinguitur, qu<hi rend="grave">a</hi>m aqua: Oleum enim commiscetur ei,
                      <lb n="27"/>ac ignitum corpus suffocat: <milestone unit="section" n="e03-10"/> Aqua c<hi rend="grave">u</hi>m pinguedini misceri non pos
                      <lb n="28" break="no"/>sit, ignito cedit corpori, nisi omnino id totum tegat <g type="ampersand">et</g> obruat: Ve
                      <lb n="29" break="no"/>r<hi rend="grave">u</hi>m id non facil<hi rend="grave">e</hi> fieri potest, quia lapis est, <g type="ampersand">et</g> suprema aqu<hi rend="ligature">ae</hi>, ut o
                      <lb n="30" break="no"/>leum omne, petit: Sic naphta, petroleum <g type="ampersand">et</g> his similia incensa a
-                     <lb n="31" break="no"/>quas on vald<hi rend="grave">e</hi> reformidant. <milestone unit="section" n="e03-11"/> De carbonibus subterraneis <placeName>Leo
+                     <lb n="31" break="no"/>quas non vald<hi rend="grave">e</hi> reformidant. <milestone unit="section" n="e03-11"/> De carbonibus subterraneis <placeName>Leo
                      <lb n="32" break="no"/>diensis</placeName> ditionis quidam scribunt, quod incensi sub terra, non aquis,
                      <lb n="33"/>sed terr<hi rend="ligature">ae</hi> pulveribus superingestis sol<hi rend="grave">u</hi>m extinguantur, quemad
                      <lb break="no"/>
@@ -128,7 +128,7 @@
                      <lb n="4" break="no"/>guendo, nec minor liquorum, quia lac, acetum, spiritus vibi, aqua
                      <lb n="5"/>fortis, Regia <g type="ampersand">et</g> communis vald<hi rend="grave">e</hi> inter se differunt, qu<hi rend="grave">o</hi> ad collatio
                      <lb n="6" break="no"/>nem cum igne: <milestone unit="section" n="e03-14"/>Nec hoc sol<hi rend="grave">u</hi>m, sed <g type="ampersand">et</g> ipsa materia aliquando ignem
-                     <lb n="7"/>sustinet, ut panni illi byffini, antiquit<hi rend="grave">u</hi>s in precio <g type="ampersand">et</g> usu divitibus ha
+                     <lb n="7"/>sustinet, ut panni illi byssini, antiquit<hi rend="grave">u</hi>s in precio <g type="ampersand">et</g> usu divitibus ha
                      <lb n="8" break="no"/>biti, qui igne, non aqua lavabantur, seu ad munditiem pristinam re
                      <lb n="9" break="no"/>digebantur, utpote f<hi rend="ligature">oe</hi>cibus combustis: <milestone unit="section" n="e03-15"/> Quicquid alii de pilis Sala
                      <lb n="10" break="no"/>mandr<hi rend="ligature">ae</hi> reptilis nugantur, quasi inde Elychnia incombustibilia
@@ -141,7 +141,7 @@
                      <lb n="17" break="no"/>losophicum considerandum erit, si quando pr<hi rend="ligature">ae</hi>paretur: Ignis enim,
                      <lb n="18"/>aqua <g type="ampersand">et</g> ipsa materia hic non est communis: Philosophis enim ignis
                      <lb n="19"/>aqua est, <g type="ampersand">et</g> aqua ignis: <milestone unit="section" n="e03-18"/> Aqua eorum simul lavat <g type="ampersand">et</g> calcinat, ita <g type="ampersand">et</g>
-                     <lb n="20"/>ignis:  Et panni abluendi habent naturam byffinorum sive talci
+                     <lb n="20"/>ignis:  Et panni abluendi habent naturam byssinorum sive talci
                      <lb n="21"/>pr<hi rend="ligature">ae</hi>parati, quorum temperies <g type="ampersand">et</g> pr<hi rend="ligature">ae</hi>parationis artificium quoque
                      <lb n="22"/>non omnibus obvium est: <milestone unit="section" n="e03-19"/> Hos ut lavent, lixivium faciunt non ex
                      <lb n="23"/>cineribus quernis, eor<hi rend="acute">u</hi>mve sale, sed metallico, quod est durabilius
@@ -149,7 +149,7 @@
                      <lb n="25" break="no"/>ciem, nives<hi rend="acute">q</hi>ue concreta fuerit, utpote qu<hi rend="ligature">ae</hi> sit tenuiorum partium,
                      <lb n="26"/>qu<hi rend="grave">a</hi>m stagnantes aut lacunarum palustres aqu<hi rend="ligature">ae</hi>, unde magis ad in
                      <lb n="27" break="no"/>teriora corporis Philosophici, nigri <g type="ampersand">et</g> immundi penetrare poterit,
-                     <lb n="28"/>ad id bluendum <g type="ampersand">et</g> purgandum.
+                     <lb n="28"/>ad id abluendum <g type="ampersand">et</g> purgandum.
                   </ab> 
                 </div>
                <fw type="catchword" place="bottom-right" xml:lang="de"><hi rend="gothic">Füge</hi></fw>

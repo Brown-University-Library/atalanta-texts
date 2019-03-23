@@ -64,7 +64,7 @@
             <div type="epigram" xml:lang="la">
                <head>Epigramma VIII.</head>
                <lg>
-                  <lb n="1"/><l>Est avis in mundo sublimior omnibus, ovum</l>
+                  <lb n="1"/><l>Est avis in mundo sublimior omnibus, Ovum</l>
                   <lb n="2"/><l>Cujus ut inquiras, cura sit una tibi.</l>
                   <lb n="3"/><l>Albumen luteum circumdat molle vitellum,</l>
                   <lb n="4"/><l>Ignito (ceu mos) cautus id ense petas:</l>
@@ -82,11 +82,11 @@
                      <lb n="1"/><milestone unit="section" n="e08-01"/> Multa <g type="ampersand">et</g> varia sunt avium genera, qu<hi rend="ligature">ae</hi> ut numero indefi
                      <lb n="2" break="no"/>nita, ita nominibus incognita nobis existunt. <milestone unit="section" n="e08-02"/> De quadam
                      <lb n="3" break="no"/>pr<hi rend="ligature">ae</hi>gandi Ruc dicta in insula parva oceani certo anni tempore ap
-                     <lb n="4" break="no"/>parente narrant, quod Elephantum secum in aëra possit attolere.
-                     <lb n="5"/><placeName>India</placeName> <g type="ampersand">et</g> <placeName>America</placeName> dant varii coloris psittacos, corvos <g type="ampersand">et</g> his similes
+                     <lb n="4" break="no"/>parente narrant, quod Elephantum secum in aëra possit attollere.
+                     <lb n="5"/><placeName>India</placeName> <g type="ampersand">et</g> <placeName>America</placeName> dant varii coloris psittacos, corvos <g type="ampersand">et</g> his similes.
                      <lb n="6"/><milestone unit="section" n="e08-03"/> Ver<hi rend="grave">u</hi>m harum ova conquirere non est intentionis Philosophic<hi rend="ligature">ae</hi>;
                      <lb n="7"/><orgName><hi rend="ligature">Ae</hi>gyptii</orgName> ova crocodilorum ferro annuatim infestant <g type="ampersand">et</g> veluti
-                     <lb n="8"/>publico indicto bellow prosequuntur; Philosophi ovum suum igne
+                     <lb n="8"/>publico indicto bello prosequuntur; Philosophi ovum suum igne
                      <lb n="9"/>percutiunt, non ut deleatur <g type="ampersand">et</g> pereat, sed vitam accipiat <g type="ampersand">et</g> crescat.
                      <lb n="10"/><milestone unit="section" n="e08-04"/> Dum enim pullus inde producitur animatus <g type="ampersand">et</g> vivens, non ejus
                      <lb n="11"/>corruptio, sed generatio dicenda est. <milestone unit="section" n="e08-05"/> Definit quidem esse ovum
@@ -94,19 +94,19 @@
                      <lb n="13" break="no"/>le per introductionem form<hi rend="ligature">ae</hi> nobilioris: Sunt autem in ovo semina
                      <lb n="14"/>mais <g type="ampersand">et</g> f<hi rend="ligature">oe</hi>min<hi rend="ligature">ae</hi> simul conjuncta sub uno tecto seu cortice. <milestone unit="section" n="e08-06"/> Vitel
                      <lb n="15" break="no"/>lus pullum ejus<hi rend="acute">q</hi>ue radicalia membra <g type="ampersand">et</g> viscera constituit, semine
-                     <lb n="16"/>maris formatore <g type="ampersand">et</g> <expan><abbr>effici<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>te</abbr></expan> in intenro existente. <milestone unit="section" n="e08-07"/> Albumen materiam
+                     <lb n="16"/>maris formatore <g type="ampersand">et</g> <expan><abbr>effici<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>te</abbr></expan> in interno existente. <milestone unit="section" n="e08-07"/> Albumen materiam
                      <lb n="17"/>seu subtegmen <g type="ampersand">et</g> incrementum dat rudimento seu stamini pulli.
                      <lb n="18"/><milestone unit="section" n="e08-08"/> Calor exterior primum movens est, quid circulatione quadam <expan><abbr>Ele
                      <lb n="19" break="no"/>mentor<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> uniusque in aliud commutatione formam novam intro
                      <lb n="20" break="no"/>ducit, natur<hi rend="ligature">ae</hi> instinctu aut ductu. <milestone unit="section" n="e08-09"/> Aqua enim in aërem, <g type="ampersand">et</g> aër in
                      <lb n="21"/>ignem, ignis in terram transit, qu<hi rend="ligature">ae</hi> omnia dum copulantur, ab a
-                     <lb n="22" break="no"/>stris specfic<hi rend="circumflex">a</hi> form<hi rend="circumflex">a</hi> demissa sit individuum cert<hi rend="ligature">ae</hi> speciei volucris,
+                     <lb n="22" break="no"/>stris specific<hi rend="circumflex">a</hi> form<hi rend="circumflex">a</hi> demissa sit individuum cert<hi rend="ligature">ae</hi> speciei volucris,
                      <lb n="23"/>nempe ejus, cujus est ovum <g type="ampersand">et</g> illi infusum semen. <milestone unit="section" n="e08-10"/> Gladio vero i
-                     <lb n="24" break="no"/>gneo percuti dicitur, <expan><abbr>d<hi rend="tilde">u</hi></abbr><ex>um</ex></expan> <persName>Vulcanus</persName> pullo sua securi (ceu ex cerebro
+                     <lb n="24" break="no"/>gneo percuti dicitur, <expan><abbr>d<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <persName>Vulcanus</persName> pullo sua securi (ceu ex cerebro
                      <lb n="25"/><persName>Jovis</persName> <persName>Palladi</persName>) exitum pr<hi rend="ligature">ae</hi>bet obstetricis functus munere. <milestone unit="section" n="e08-11"/> Hoc est
                      <lb n="26"/>quod <persName ref="http://viaf.org/viaf/31992530/">Basilius Valentinus</persName> asserit <persName>Mercurium</persName> <hi rend="grave">a</hi> <persName>Vulcano</persName> carceri in
                      <lb n="27" break="no"/>clusum esse <persName>Martis</persName> jussu, nec emissum, antequam putrefactus to
-                     <lb n="28" break="no"/>tus <g type="ampersand">et</g> emortus fuerat. <milestone unit="section" n="e08-12"/> Ver<hi rend="grave">u</hi>m h<hi rend="ligature">ae</hi>c mors illi vit<hi rend="ligature">ae</hi> nov<hi rend="ligature">ae</hi> initium ex
+                     <lb n="28" break="no"/>tus <g type="ampersand">et</g> emortuus fuerat. <milestone unit="section" n="e08-12"/> Ver<hi rend="grave">u</hi>m h<hi rend="ligature">ae</hi>c mors illi vit<hi rend="ligature">ae</hi> nov<hi rend="ligature">ae</hi> initium ex
                      <lb n="29" break="no"/>istit, ut ovo cor<supplied reason="omitted">r</supplied>uptio seu mors novam pulli generationem <g type="ampersand">et</g> vitam
                      <lb n="30"/>adfert? <milestone unit="section" n="e08-13"/> sic f<hi rend="ligature">oe</hi>ui human<hi rend="circumflex">a</hi> vit<hi rend="circumflex">a</hi> vegetabili (quod sol<hi rend="circumflex">a</hi> in utero matris
                      <lb n="31"/>fruebatur) defuncto, alia perfectior per transitum in hanc lucem
@@ -121,7 +121,7 @@
    <ab>
                      <lb n="1"/>sic <persName ref="http://viaf.org/viaf/120696927">Lullius</persName> hunc gladium igneum, acutam lanceam vocat multis in
                      <lb n="2"/><surplus>in</surplus> locis; <milestone unit="section" n="e08-15"/> Quia ignis, ut lancea seu gladius acutus perforat corpora
-                     <lb n="3"/>ea<hi rend="acute">q</hi>ue porosa <g type="ampersand">et</g> pervia reddit, ut aquapenetrare possit ad solven
+                     <lb n="3"/>ea<hi rend="acute">q</hi>ue porosa <g type="ampersand">et</g> pervia reddit, ut aqua penetrare possit ad solven
                      <lb n="4" break="no"/>dum ea <g type="ampersand">et</g> <hi rend="grave">a</hi> duritie ad mollitiem tractabilitat<hi rend="acute">e</hi>mque reducendum.
                      <lb n="5"/><milestone unit="section" n="e08-16"/> In stomacho corvi marini, qui avium omnium est voracissimus, in
                      <lb n="6" break="no"/>veniuntur longi <g type="ampersand">et</g> teretes vermes vivi, qui illi sunt quasi instru

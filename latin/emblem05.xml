@@ -67,7 +67,7 @@
                   <lb n="1"/><l>Foemineo gelidus ponatur pectore Bufo,</l>
                   <lb n="2"/><l>Instar ut infantis lactea pocla bibat.</l>
                   <lb n="3"/><l>Crescat <g type="ampersand">et</g> in magnum vacuata per ubera tuber,</l>
-                  <lb n="4"/><l>Et mulier vitam liquerit agra suam.</l>
+                  <lb n="4"/><l>Et mulier vitam liquerit <hi rend="ligature">ae</hi>gra suam.</l>
                   <lb n="5"/><l>Inde tibi facies medicamen nobile, virus</l>
                   <lb n="6"/><l>Quod fuget humano corde, lev<hi rend="acute">e</hi>tque luem.</l>
                </lg>
@@ -83,7 +83,7 @@
                      <lb n="1"/><milestone unit="section" n="e05-01"/>Tota Philosophorum congregatio in hoc consentit, quod opus
                      <lb n="2"/>eorum nihil aliud sit, qu<hi rend="grave">a</hi>m mas <g type="ampersand">et</g> f<hi rend="ligature">oe</hi>mina: Maris ver<hi rend="grave">o</hi> est, ge
                      <lb n="3" break="no"/>nerare <g type="ampersand">et</g> dominari f<hi rend="ligature">oe</hi>min<hi rend="ligature">ae</hi>; hujus concipere, impr<hi rend="ligature">ae</hi>gnari, parere,
-                     <lb n="4"/>lactare <g type="ampersand">et</g> educare sobolem, <expan><abbr>mar<hi rend="acute">i</hi><am> </am>q<am>;</am></abbr><ex>que</ex></expan> imperio subjici: <milestone unit="section" n="e05-02"/>Ut enim con
+                     <lb n="4"/>lactare <g type="ampersand">et</g> educare sobolem, <expan><abbr>mar<hi rend="acute">i</hi><am> </am>q<am>;</am></abbr><ex>ue</ex></expan> imperio subjici: <milestone unit="section" n="e05-02"/>Ut enim con
                      <lb n="5" break="no"/>ceptum f<hi rend="ligature">oe</hi>tum, antequam edatur in lucem, sub sanguine, ita <expan><abbr>editu</abbr><ex>m</ex></expan>
                      <lb n="6"/>lacte fovet <g type="ampersand">et</g> nutrit. <milestone unit="section" n="e05-03"/>Hinc natura pr<hi rend="ligature">ae</hi>paravit tenello pusioni in <expan><abbr>ma</abbr><ex>m</ex>
                      <lb n="7" break="no"/><abbr>mis</abbr></expan> muliebribus cibum digestibilem <g type="ampersand">et</g> <expan><abbr>proportionatu</abbr><ex>m</ex></expan>, qui expe
@@ -95,7 +95,7 @@
                      <lb n="13" break="no"/><abbr>mas</abbr></expan> apponendus sit, ut eum instar infantis suo lacte alat: <milestone unit="section" n="e05-06"/> Miserum
                      <lb n="14"/>hoc <g type="ampersand">et</g> horrendum spectaculum est, im<hi rend="grave">o</hi> <g type="ampersand">et</g> impium, quod lac infan
                      <lb n="15" break="no"/>ti destinatum bufoni, besti<hi rend="ligature">ae</hi> venenos<hi rend="ligature">ae</hi> <g type="ampersand">et</g> natur<hi rend="ligature">ae</hi> human<hi rend="ligature">ae</hi> adver
-                     <lb n="16" break="no"/>fanti pr<hi rend="ligature">ae</hi>bendum sit: <milestone unit="section" n="e05-07"/> De serpentibus ac draconibus vaccarum u
+                     <lb n="16" break="no"/>santi pr<hi rend="ligature">ae</hi>bendum sit: <milestone unit="section" n="e05-07"/> De serpentibus ac draconibus vaccarum u
                      <lb n="17" break="no"/>bera exiccantibus audivimus <g type="ampersand">et</g> legimus: Fort<hi rend="grave">e</hi> idem bufones ap
                      <lb n="18" break="no"/>peterent, si occasio offerretur in bobus. <milestone unit="section" n="e05-08"/> Historia de bufone nota 
                      <lb n="19"/>est, qui rustico cuidam dormienti ita occupavit os <g type="ampersand">et</g> interiora la
@@ -142,7 +142,7 @@
                      <lb n="11"/>partum. <milestone unit="section" n="e05-16"/> Ominosum san<hi rend="grave">e</hi> quid est, bufonem ex muliere nasci, quod
                      <lb n="12"/>ali<hi rend="grave">a</hi>s contigisse novimus: <persName ref="http://viaf.org/viaf/56582314">Guilielmus Novobrigensis</persName>, Anglicus scri
                      <lb n="13" break="no"/>ptor, in suis <title>commentariis</title> scribit (qu<hi rend="grave">a</hi>m fideliter, alii judicent) in
-                     <lb n="14"/>lapicidina quadam ditionis <placeName>Vin</placeName>toniensis Episcopi, c<hi rend="grave">u</hi>m lapis qui
+           <lb n="14"/>lapicidina quadam ditionis <persName>Vintoniensis Episcopi</persName>, c<hi rend="grave">u</hi>m lapis qui
                      <lb n="15" break="no"/>dam magnus divideretur, int<hi rend="grave">u</hi>s inventum bufonem vivum cum
                      <lb n="16"/>aurea cathena, e<hi rend="acute">u</hi>mque ex Episcopi jussu eodem loci reconditum
                      <lb n="17"/><g type="ampersand">et</g> perpetuis tenebris immersum, ne quid mali ominis secum porta
@@ -150,10 +150,10 @@
                      <lb n="19" break="no"/>sec<hi rend="grave">u</hi>s, artificiali cathen<hi rend="ligature">ae</hi> opere, tamen intrinsec<hi rend="grave">u</hi>s naturali, nempe
                      <lb n="20"/>lapidis, quem alii Boracem, Chelonitin, Batrachiten, Crapaudi
                      <lb n="21" break="no"/>nam aut garatronium vocant. <milestone unit="section" n="e05-18"/> Hic enim auro long<hi rend="grave">e</hi> pr<hi rend="ligature">ae</hi>valet vir
-                     <lb n="22" break="no"/>tute contra venena qu<hi rend="ligature">ae</hi>cunque animalium, <g type="ampersand">et</g> auro inseri solet, tan
+                     <lb n="22" break="no"/>tute contra venena qu<hi rend="ligature">ae</hi>cunque animalium, <g type="ampersand">et</g> auro inferi solet, tan
                      <lb n="23" break="no"/>quam thec<hi rend="ligature">ae</hi> aut coopertorio, ne l<hi rend="ligature">ae</hi>datur aut perdantur. <milestone unit="section" n="e05-19"/> At <expan><abbr>legitiumu</abbr><ex>m</ex></expan>
                      <lb n="24"/>esse oportet ex animali petitum, si ver<hi rend="grave">o</hi> ex subterraneis fossis, ut so
-                     <lb n="25" break="no"/>let, depromptus palis ejus form<hi rend="circumflex">a</hi> concinnetur, <g type="ampersand">et</g> vice usurpetur, ex
+                     <lb n="25" break="no"/>let, depromptus lapis ejus form<hi rend="circumflex">a</hi> concinnetur, <g type="ampersand">et</g> vice usurpetur, ex
                      <lb n="26"/>optimis mineris, cordi subvenientibus, eligatur: <milestone unit="section" n="e05-20"/> In his enim bufo
                      <lb n="27"/>Philosophicus rever<hi rend="grave">a</hi> invenitur, non in lapicidina (ut ille fabulator
                      <lb n="28"/>asserit) aur<hi rend="acute">u</hi>mque in se habet, non extra ad pompam: Ad quid enim
