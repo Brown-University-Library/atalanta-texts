@@ -81,7 +81,7 @@
                      <lb n="1"/><milestone unit="section" n="e11-01"/> Tanta est authorum in scribendo diversitas, ut fer<hi rend="grave">e</hi> inquisitores
                      <lb n="2"/>veritatis de artis fine inveniendo desperent. <milestone unit="section" n="e11-02"/> C<hi rend="grave">u</hi>m enim per se
                      <lb n="3"/>allegorici sermones sint captu difficiles <g type="ampersand">et</g> multorum errorum cau
-                     <lb n="4" break="no"/>s<hi rend="ligature">ae</hi>, tum inprimis, si vocabulae rebus diversis eadem <g type="ampersand">et</g> iisdem diversa
+                     <lb n="4" break="no"/>s<hi rend="ligature">ae</hi>, tum inprimis, si vocabula rebus diversis eadem <g type="ampersand">et</g> iisdem diversa
                      <lb n="5"/>applicentur. <milestone unit="section" n="e11-03"/> Ex quibus si quis se extricare velit, oportet <expan><abbr>e<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> aut divi
                      <lb n="6" break="no"/>ni esse ingenii, ut perspiciat sub tantis tenebris latentem veritatem,
                      <lb n="7"/>aut laboris <g type="ampersand">et</g> sumptus in exhausti, ut experiatur, quid verum, quid
@@ -97,19 +97,20 @@
                      <lb n="17"/>Experimentationem ad veritatem perveniret. <milestone unit="section" n="e11-07"/> Quod absque studio
                      <lb n="18"/><g type="ampersand">et</g> lectione authorum parum proficiatur, <title>Corrector <expan><abbr>fatuor<hi rend="tilde">u</hi></abbr><ex>m</ex></expan></title> innuit,
                      <lb n="19"/>c<hi rend="grave">u</hi>m dicit: <quote type="paraphrase">Studium amovet <expan><abbr>ignor<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>tiam</abbr></expan> <g type="ampersand">et</g> reducit humanum inge
-                     <lb n="20" break="no"/>primis est necessarium per studium hujus suavis operis scientiam
-                        <lb n="21"/>acquiescere <g type="ampersand">et</g> per physica dicta ingenium acuere, c<hi rend="grave">u</hi>m in ipsis fit co
-                     <lb n="22" break="no"/>gnitio veritatis. <milestone unit="section" n="e11-08"/> Si ergo laborantes studium <expan><abbr>n<hi rend="tilde">o</hi></abbr><ex>n</ex></expan> despexerint, fructum
-                     <lb n="23"/>inde <expan><abbr>pervenient<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> dulciter degustabunt. <milestone unit="section" n="e11-09"/> Qui autem studere abhor
-                     <lb n="24" break="no"/>ruerint <g type="ampersand">et</g> tamen laborare voluerint, videant, an ars ipsius natur<hi rend="ligature">ae</hi>
-                     <lb n="25"/>fit imitatio, wuam ars ipsius emendare cupit. Quoniam impossibile
-                     <lb n="26"/>est ei secreta Philosophorum ad perfectum finem pr<hi rend="ligature">ae</hi>parare. <milestone unit="section" n="e11-10"/> De
-                     <lb n="27"/>his sapientes dicunt, quod ii transeant ad practicam sicut asinus ad
-                     <lb n="28"/>f<hi rend="ligature">oe</hi>num, nescientes ad quid rostrum porrigant, nisi in quantum sen
-                     <lb n="29" break="no"/>sus exteriores sine intellectu per visum <g type="ampersand">et</g> gustum ad pabulum ad
-                     <lb n="30" break="no"/>ducit.</quote> H<hi rend="ligature">ae</hi>c ille. <milestone unit="section" n="e11-11"/> Ver<hi rend="grave">u</hi>m ne quis nimio studio, quod mare est inex
-                     <lb n="31" break="no"/>haustum <g type="ampersand">et</g> immens<hi rend="ligature">ae</hi> profunditatis, se maceret, omn<hi rend="acute">e</hi>mque lite
-                     <lb n="32" break="no"/>ram, etiam cum multis aliis concordantem, in actum ducere cone
+                        <lb n="20" break="no"/>nium ad veram cognitionem <g type="ampersand">et</g> ad cujuslibet rei scientiam Ergo in
+                        <lb n="21" break="no"/>primis est necessarium per studium hujus suavis operis scientiam
+                        <lb n="22"/>acquirere <g type="ampersand">et</g> per physica dicta ingenium acuere, c<hi rend="grave">u</hi>m in ipsis fit co
+                     <lb n="23" break="no"/>gnitio veritatis. <milestone unit="section" n="e11-08"/> Si ergo laborantes studium <expan><abbr>n<hi rend="tilde">o</hi></abbr><ex>n</ex></expan> despexerint, fructum
+                     <lb n="24"/>inde <expan><abbr>pervenient<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> dulciter degustabunt. <milestone unit="section" n="e11-09"/> Qui autem studere abhor
+                     <lb n="25" break="no"/>ruerint <g type="ampersand">et</g> tamen laborare voluerint, videant, an ars ipsius natur<hi rend="ligature">ae</hi>
+                     <lb n="26"/>fit imitatio, quam ars ipsius emendare cupit. Quoniam impossibile
+                     <lb n="27"/>est ei secreta Philosophorum ad perfectum finem pr<hi rend="ligature">ae</hi>parare. <milestone unit="section" n="e11-10"/> De
+                     <lb n="28"/>his sapientes dicunt, quod ii transeant ad practicam sicut asinus ad
+                     <lb n="29"/>f<hi rend="ligature">oe</hi>num, nescientes ad quid rostrum porrigant, nisi in quantum sen
+                     <lb n="30" break="no"/>sus exteriores sine intellectu per visum <g type="ampersand">et</g> gustum ad pabulum ad
+                     <lb n="31" break="no"/>ducit.</quote> H<hi rend="ligature">ae</hi>c ille. <milestone unit="section" n="e11-11"/> Ver<hi rend="grave">u</hi>m ne quis nimio studio, quod mare est inex
+                     <lb n="32" break="no"/>haustum <g type="ampersand">et</g> immens<hi rend="ligature">ae</hi> profunditatis, se maceret, omn<hi rend="acute">e</hi>mque lite
+                     <lb n="33" break="no"/>ram, etiam cum multis aliis concordantem, in actum ducere cone
                    </ab>
                   </div>
                   
@@ -121,7 +122,7 @@
                      <ab>
                      <lb n="1"/>tur (licet frustra) vires, corporis <hi rend="ligature">ae</hi>tatem, famam, opes <g type="ampersand">et</g> facultates
                      <lb n="2"/>interim absumendo aut diminuendo, Philosophi Emblematico
-                     <lb n="3"/>hoc utuntur sermone, quod <persName><hi rend="caps">Latona</hi></persName> <expan><abbr>dealb<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>da</abbr></expan> sit, <g type="ampersand">et</g> libri illi rum
+                     <lb n="3"/>hoc utuntur sermone, quod <persName><hi rend="smallCaps">Latona</hi></persName> <expan><abbr>dealb<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>da</abbr></expan> sit, <g type="ampersand">et</g> libri illi rum
                      <lb n="4" break="no"/>pendi, ne corda eorum rumpantur: sunt enim plerique libri ade<hi rend="grave">o</hi>
                      <lb n="5"/>obscur<hi rend="grave">e</hi> scripti, ut <hi rend="grave">a</hi> solis authoribus suis percipiantur. <milestone unit="section" n="e11-12"/> Non pauci ad
                      <lb n="6"/>se ducendum alios ex invidia relicti, aut potius ad remorandum in
@@ -138,7 +139,7 @@
                      <lb n="17"/>sententiam intelligentibus, c<hi rend="ligature">ae</hi>teris omnibus ad alia subjecta, qu<hi rend="ligature">ae</hi>
                      <lb n="18"/>in rerum natura non essent, <expan><abbr>n<hi rend="tilde">e</hi></abbr><ex>m</ex><abbr>pe</abbr></expan> varios Deos De<hi rend="acute">a</hi>sque, ejusmodi
                      <lb n="19"/><expan><abbr>interpretantib</abbr><ex>us</ex></expan>. <milestone unit="section" n="e11-16"/> Hinc post <persName>Vulcanum</persName> <persName>Latona</persName> ibidem habuit tem
-                     <lb n="20" break="no"/>plum <expan><abbr>sumptiosissim<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>, auro tectum <g type="ampersand">et</g> <expan><abbr>exornat<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>, quippe qu<hi rend="ligature">ae</hi> <persName>Apol
+                     <lb n="20" break="no"/>plum <expan><abbr>sumptuosissim<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>, auro tectum <g type="ampersand">et</g> <expan><abbr>exornat<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>, quippe qu<hi rend="ligature">ae</hi> <persName>Apol
                      <lb n="21" break="no"/>linis</persName> <expan><abbr>Philos<am>.</am></abbr><ex>ophi</ex></expan> <g type="ampersand">et</g> <persName>Dian<hi rend="ligature">ae</hi></persName> mater fuerit. <milestone unit="section" n="e11-17"/> Est autem h<hi rend="ligature">ae</hi>c <persName>Latona</persName> fusca <g type="ampersand">et</g>
                      <lb n="22"/>subnigra, <expan><abbr>mult<hi rend="acute">o</hi>sq<am>;</am></abbr><ex>ue</ex></expan> n<hi rend="ligature">ae</hi>vos habet in facie, qui artificio tollendi sunt
                      <lb n="23"/>nempe per dealbationem. <milestone unit="section" n="e11-18"/> Quidam ex cerusa, mrecurio sublimato,
@@ -146,13 +147,13 @@
                      <lb n="25" break="no"/>nam cutim incrustant, tegunt <g type="ampersand">et</g> sic dealbant. At h<hi rend="ligature">ae</hi> incrustationes
                      <lb n="26"/>dealbativ<hi rend="ligature">ae</hi> quolibet flatu aut liquore decidunt: quia non penetrant
                      <lb n="27"/>ad interiora. <milestone unit="section" n="e11-19"/> Sed <expan><abbr>Philos<am>.</am></abbr><ex>ophi</ex></expan> de talibus non curant coloritiis, qu<hi rend="ligature">ae</hi> ma
-                     <lb n="28" break="no"/>gis ad <expan><abbr>fall<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>dum</abbr></expan> oculos, qu<hi rend="grave">a</hi>m <expan><abbr>ting<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>d<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <expan><abbr>substanti<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> corporis <expan><abbr>intentior<hi rend="tilde">e</hi></abbr><ex>m</ex></expan>
+                     <lb n="28" break="no"/>gis ad <expan><abbr>fall<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>dum</abbr></expan> oculos, qu<hi rend="grave">a</hi>m <expan><abbr>ting<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>d<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <expan><abbr>substanti<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> corporis <expan><abbr>interior<hi rend="tilde">e</hi></abbr><ex>m</ex></expan>
                      <lb n="29"/>adhibentur. Volunt enim, ut <persName>Laton<hi rend="ligature">ae</hi></persName> facies dealbetur penetrativ<hi rend="grave">e</hi>
                      <lb n="30"/><g type="ampersand">et</g> ipsa cutis alteretur, hoc est, ver<hi rend="grave">e</hi> <g type="ampersand">et</g> <expan><abbr>n<hi rend="tilde">o</hi></abbr><ex>n</ex></expan> fucos<hi rend="grave">e</hi>. <milestone unit="section" n="e11-20"/> Qu<hi rend="ligature">ae</hi>ri autem posset
                      <lb n="31"/>quomodo contingat? Respondeo, <persName>Latona</persName> prim<hi rend="grave">o</hi> inquirenda <g type="ampersand">et</g> a
                      <lb n="32" break="no"/>gnoscenda est, qu<hi rend="ligature">ae</hi> <expan><abbr>eti<hi rend="tilde">a</hi></abbr><ex>m</ex><abbr>si</abbr></expan> ex vili loco extrahatur, tamen <expan><abbr>sublim<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>da</abbr></expan>
-                     <lb n="33"/>est in <expan><abbr>digior<hi rend="tilde">e</hi></abbr><ex>m</ex></expan>, si ver<hi rend="grave">o</hi> ex digniori, in <expan><abbr>vilior<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> <expan><abbr>submerg<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>da</abbr></expan>, <expan><abbr>n<hi rend="tilde">e</hi></abbr><ex>m</ex><abbr>pe</abbr></expan> in <expan><abbr>fi
-                     <lb n="34" break="no"/>m<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>: Ibi <expan><abbr>n<am>.</am></abbr><ex>m</ex></expan> albescet rever<hi rend="grave">a</hi> <g type="ampersand">et</g> fiet <expan><abbr>pl<hi rend="tilde">u</hi></abbr><ex>m</ex><abbr>b<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <expan><abbr>alb<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>, quo habito, <expan><abbr>n<hi rend="tilde">o</hi></abbr><ex>n</ex></expan> est, <expan><abbr><hi rend="stroke">q</hi></abbr><ex>uod</ex></expan> du
+                     <lb n="33"/>est in <expan><abbr>dignior<hi rend="tilde">e</hi></abbr><ex>m</ex></expan>, si ver<hi rend="grave">o</hi> ex digniori, in <expan><abbr>vilior<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> <expan><abbr>submerg<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>da</abbr></expan>, <expan><abbr>n<hi rend="tilde">e</hi></abbr><ex>m</ex><abbr>pe</abbr></expan> in <expan><abbr>fi
+                     <lb n="34" break="no"/>m<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>: Ibi <expan><ex>e</ex><abbr>n<am>.</am></abbr><ex>im</ex></expan> albescet rever<hi rend="grave">a</hi> <g type="ampersand">et</g> fiet <expan><abbr>pl<hi rend="tilde">u</hi></abbr><ex>m</ex><abbr>b<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <expan><abbr>alb<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>, quo habito, <expan><abbr>n<hi rend="tilde">o</hi></abbr><ex>n</ex></expan> est, <expan><abbr><hi rend="stroke">q</hi></abbr><ex>uod</ex></expan> du
                      <lb n="35" break="no"/>bitetur de successu, seu <expan><abbr>pl<hi rend="tilde">u</hi></abbr><ex>m</ex><abbr>o</abbr></expan> rubeo, <expan><abbr><hi rend="stroke">q</hi></abbr><ex>uod</ex></expan> est opis <expan><abbr>initi<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <g type="ampersand">et</g> finis.
                   </ab>
                   </div>
