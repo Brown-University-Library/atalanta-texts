@@ -53,7 +53,7 @@
             <fw type="header" place="top-center">Emblema XXII. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">97</fw>
             
             <div type="image" xml:lang="la">
-               <head><lb n="1"/>Plumbo habito candido fac opus mulierum, hoc est, <hi rend="caps">coque</hi>:</head>
+               <head><lb n="1"/>Plumbo habito candido fac opus mulierum, hoc est, <hi rend="smallCaps">coque</hi>:</head>
             </div>            
             
             <div type="epigram" xml:lang="la">
@@ -63,8 +63,8 @@
                   <lb n="2"/><l>Saturni in faciem (qu<hi rend="ligature">ae</hi> nigra) sparge nives:</l>
                   <lb n="3"/><l>Et dabitur tibi materies albissima plumbi,</l>
                   <lb n="4"/><l>Post quod, f<hi rend="ligature">oe</hi>mineum nil nisi restat opus.</l>
-                  <lb n="5"/><l>Tum <hi rend="caps">Coque</hi>, ceu mulier, qu<hi rend="ligature">ae</hi> collocat ignibus ollas,</l>
-                  <lb n="6"/><l>Fac sed ut in propriis <hi rend="caps">Truta</hi> liquescat aquis.</l>
+                  <lb n="5"/><l>Tum <hi rend="smallCaps">Coque</hi>, ceu mulier, qu<hi rend="ligature">ae</hi> collocat ignibus ollas,</l>
+                  <lb n="6"/><l>Fac sed ut in propriis <hi rend="smallCaps">Truta</hi> liquescat aquis.</l>
                </lg>
             </div>
             
