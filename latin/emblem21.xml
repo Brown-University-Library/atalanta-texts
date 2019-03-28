@@ -55,7 +55,8 @@
             <fw type="header" place="top-center">Emblema XXI. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">93</fw>
             
             <div type="image" xml:lang="la">
-               <head><lb n="1"/>Naturam natura docet, debellet ut ignem.</head>
+               <head><lb n="1"/>Fac ex mare <g type="ampersand">et</g> f<hi rend="ligature">oe</hi>mina circulum, inde quadrangulum, hinc trian
+                  <lb n="2" break="no"/>gulum, fac circulum <g type="ampersand">et</g> habebis <expan><abbr>lap<am>.</am></abbr><ex>em</ex></expan> Philosophorum.</head>
             </div>            
             
             <div type="epigram" xml:lang="la">
@@ -64,7 +65,7 @@
                   <lb n="1"/><l>Foemina m<hi rend="acute">a</hi>sque unus fiant tibi circulus, ex quo</l>
                   <lb n="2"/><l>Surgat, habens <hi rend="ligature">ae</hi>quum forma quadrata latus.</l>
                   <lb n="3"/><l>Hinc Trigonum ducas, omni qui parte rotundam</l>
-                  <lb n="4"/><l>In sph<hi rend="ligature">ae</hi>ram redeat: Tum <hi rend="caps">Lapis</hi> ortus erit.</l>
+                  <lb n="4"/><l>In sph<hi rend="ligature">ae</hi>ram redeat: Tum <hi rend="smallCaps">Lapis</hi> ortus erit.</l>
                   <lb n="5"/><l>Si res tanta tu<hi rend="ligature">ae</hi> non mox venit obvia menti,</l>
                   <lb n="6"/><l>Dogma Geometr<hi rend="ligature">ae</hi> si capis, omne scies<choice><sic>,</sic><corr>.</corr></choice></l>
                </lg>
