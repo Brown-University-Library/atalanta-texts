@@ -60,7 +60,7 @@
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="27" type="cardinal">XXVII</num>.</head>
                <lg>
-                  <lb n="1"/><l>Luxuriat Sophi<hi rend="ligature">ae</hi> diverso flore <hi rend="caps">Rosetum</hi>,</l>
+                  <lb n="1"/><l>Luxuriat Sophi<hi rend="ligature">ae</hi> diverso flore <hi rend="smallCaps">Rosetum</hi>,</l>
                   <lb n="2"/><l>Semper at est firmis janua clausa seris:</l>
                   <lb n="3"/><l>Unica cui clavis res vilis habetur in orbe,</l>
                   <lb n="4"/><l>Hac sine, tu carpes, cruribus absque viam.</l>
@@ -76,10 +76,10 @@
                <fw type="pageNum" place="top-left"><supplied reason="omitted">1</supplied>18</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="27">XXVII</num>.</fw>
                   <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e27-01"/>De <persName>Erichthonio</persName> <expan><abbr>scrib<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>t</abbr></expan>, eum ex semine <persName>Vulcani</persName> cum <persName>Pallade</persName> sa
-                     <lb n="2" break="no"/>pienti<hi rend="ligature">ae</hi> Dea luctatnis in terram emisso natum serpentis <g type="ampersand">et</g>
+                     <lb n="2" break="no"/>pienti<hi rend="ligature">ae</hi> Dea luctantis in terram emisso natum serpentinis <g type="ampersand">et</g>
                      <lb n="3"/><expan><abbr>absq<am>;</am></abbr><ex>ue</ex></expan> humanis fuisse pedibus: <milestone unit="section" n="e27-02"/> Huic persimiles, absque sapientia
                      <lb n="4"/><persName>Palladis</persName>, solius <persName>Vulcani</persName> oper<hi rend="circumflex">a</hi> freti, gignunt f<hi rend="ligature">oe</hi>tus, videlicet <expan><abbr>m<hi rend="tilde">o</hi></abbr><ex>n</ex><abbr>stro
-                        <lb n="5" break="no"/>sos</abbr></expan>, Apodas <g type="ampersand">et</g> abortivos, qui nec se sustentare, nex aliis prodesse pos
+                        <lb n="5" break="no"/>sos</abbr></expan>, Apodas <g type="ampersand">et</g> abortivos, qui nec se sustentare, nec aliis prodesse pos
                      <lb n="6" break="no"/>sunt: <milestone unit="section" n="e27-03"/>Miserum est <expan><abbr>homin<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> incedere quadrupedem, hoc est <expan><abbr>manib<am>.</am></abbr><ex>us</ex></expan>
                      <lb n="7"/><expan><abbr>pedib<hi rend="acute">u</hi>sq<am>;</am></abbr><ex>ue</ex></expan> simul: at long<hi rend="grave">e</hi> miserius <expan><abbr>pedib<am>.</am></abbr><ex>us</ex></expan> omnin<hi rend="grave">o</hi> <expan><abbr>destitut<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> esse <expan><abbr>eo
                      <lb n="8" break="no"/>r<hi rend="acute">u</hi>mq<am>;</am></abbr><ex>ue</ex></expan> vice brachiis uti: Ad vermium enim naturam degenerasse vi
@@ -100,9 +100,9 @@
                      <lb n="23"/>quid in roseto crescit, nec furtivis frui poterit: <milestone unit="section" n="e27-09"/>Est autem clavis res
                      <lb n="24"/>vilissima, qu<hi rend="ligature">ae</hi> propri<hi rend="grave">e</hi> vocatur lapis in capitulis notus <g type="ampersand">et</g> est radix
                      <lb n="25"/>Rhodi sine qua germen non protruditur, nec gemma protuberat,
-                     <lb n="26"/>nec Rose vernat aut folia millecupla explicat. <milestone unit="section" n="e27-10"/>At qu<hi rend="ligature">ae</hi>ri posset, ubi
+                     <lb n="26"/>nec Rosa vernat aut folia millecupla explicat. <milestone unit="section" n="e27-10"/>At qu<hi rend="ligature">ae</hi>ri posset, ubi
                      <lb n="27"/>qu<hi rend="ligature">ae</hi>renda sit h<hi rend="ligature">ae</hi>c clavis? Respondeo cum oraculo, quod ibi investi
-                     <lb n="28" break="no"/>ganda fuerit, ubi <persName>Orestis</persName> ossa inventa dicuntur, nempe, <quote rend="caps">ubi ven
+                     <lb n="28" break="no"/>ganda fuerit, ubi <persName>Orestis</persName> ossa inventa dicuntur, nempe, <quote rend="smallCaps">ubi ven
                      <lb n="29" break="no"/>ti, percutiens, repercussus et hominum perni
                      <lb n="30" break="no"/>cies</quote><!-- This is a reference to Hdt. 1.67 --> simul reperiantur, hoc est, ut <persName>Lychas</persName> interpretatus est, in
                      <lb n="31"/>officina fabri <hi rend="ligature">ae</hi>rarii: <milestone unit="section" n="e27-11"/>Nam per ventos folles; per percutientem, mal
@@ -127,7 +127,7 @@
                      <lb n="11"/>communis, qu<hi rend="circumflex">a</hi> parte attingit, albefacit, <hi rend="grave">e</hi>contr<hi rend="grave">a</hi> spiritus vitrioli seu
                      <lb n="12"/>aqua fortis colore rubeo saturato reficit, qui perdurat. <milestone unit="section" n="e27-16"/>Sulphur e
                      <lb n="13" break="no"/>nim commune sulphuri philosophico adversatur, quamvis illud
-                     <lb n="14"/>destruere nequeat, aqua ver<hi rend="grave">o</hi> solutiva amicatur <g type="ampersand">et</g> colorem illi <expan><abbr>c<hi rend="tilde"/></abbr><ex>n</ex>
+                     <lb n="14"/>destruere nequeat, aqua ver<hi rend="grave">o</hi> solutiva amicatur <g type="ampersand">et</g> colorem illi <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>n</ex>
                      <lb n="15" break="no"/><abbr>servat</abbr></expan>: <milestone unit="section" n="e27-17"/>Rosa <persName>Veneri</persName> dicata est ob venustatem, qu<hi rend="circumflex">a</hi> c<hi rend="ligature">ae</hi>teros flosculos
                      <lb n="16"/>antecellit: Ipsa enim virgo est, quam natura armavit, ne absque
                      <lb n="17"/>vindicta violaretur impun<hi rend="grave">e</hi>: <milestone unit="section" n="e27-18"/>Viol<hi rend="ligature">ae</hi> inermes sunt <g type="ampersand">et</g> pedibus obte
