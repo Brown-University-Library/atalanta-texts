@@ -60,10 +60,10 @@
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="30" type="cardinal">XXX</num>.</head>
                <lg>
-                  <lb n="1"/><l>O <persName>Sol</persName>, solis agis nil, si non viribus adsim,</l>
+                  <lb n="1"/><l>O <persName>Sol</persName>, solus agis nil, si non viribus adsim,</l>
                   <lb n="2"/><l>Ut sine gallin<hi rend="ligature">ae</hi> est gallus inanis ope.</l>
                   <lb n="3"/><l>Auxili<hi rend="acute">u</hi>mque tuum pr<hi rend="ligature">ae</hi>sens ego luna vicissim</l>
-                  <lb n="4"/><l>Postulo galli<hi rend="ligature">ae</hi> gallus ut expetitur.</l>
+                  <lb n="4"/><l>Postulo gallin<hi rend="ligature">ae</hi> gallus ut expetitur.</l>
                   <lb n="5"/><l>Qu<hi rend="ligature">ae</hi> natura simul conjungi flagitat, ille est</l>
                   <lb n="6"/><l>Mentis inops, vinclis qui religare velit.</l> 
                </lg>

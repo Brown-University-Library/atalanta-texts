@@ -118,7 +118,7 @@
         <span class="pb atalanta-fugiens"><xsl:value-of select="@n"/></span>
     </xsl:template>
     
-    <xsl:template match="af:lb">
+    <xsl:template match="af:lb" mode="#all">
         <xsl:choose>
             <xsl:when test="@break='no'"><xsl:text>-</xsl:text><br /></xsl:when>
             <xsl:otherwise><br/></xsl:otherwise>
