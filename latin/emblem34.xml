@@ -25,7 +25,7 @@
       <body>
          <div type="emblem" n="e34">
             <pb n="144" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left">144</fw><fw type="header" place="top-center">FUGA <num value="34" type="cardinal">XXXIV</num>. in <num value="8">8</num> infrà.</fw>
+            <fw type="pageNum" place="top-left">144</fw><fw type="header" place="top-center">FUGA <num value="34" type="cardinal">XXXIV</num>. in <num value="8">8</num>. infrà.</fw>
             
             <div type="fugue" xml:lang="de">
                <head>
@@ -65,8 +65,8 @@
                   <lb n="2"/><l>Splendet <g type="ampersand">et</g> hinc rubeus sub pede cernit aquas.</l>
                   <lb n="3"/><l>F<hi rend="acute">i</hi>tque super montana cacumina candidus ille,</l>
                   <lb n="4"/><l>Qui remanet doctis unica cura viris.</l>
-                  <lb n="5"/><l>Est lapis <g type="ampersand">et</g> non es, c<hi rend="ligature">oe</hi>li quod nobile Donum,</l>
-                  <lb n="6"/><l>Dante <hi rend="caps">Deo</hi> f<hi rend="ligature">oe</hi>li, si quis habebit, erit.</l> 
+                  <lb n="5"/><l>Est lapis <g type="ampersand">et</g> non est, c<hi rend="ligature">oe</hi>li quod nobile Donum,</l>
+                  <lb n="6"/><l>Dante <hi rend="smallCaps">Deo</hi> f<hi rend="ligature">oe</hi>lix, si quis habebit, erit.</l> 
                </lg>
             </div>
             
@@ -77,7 +77,7 @@
                <fw type="pageNum" place="top-left"><choice><sic>149</sic><corr>146</corr></choice></fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="34">XXXIV</num>
                </fw>
                <div type="discourse-p1"><ab>
-                     <lb n="1"/><milestone unit="section" n="e34-01"/>Hominum opinion vel adulatio quibusdam pr<hi rend="ligature">ae</hi> reliquis mira
+                     <lb n="1"/><milestone unit="section" n="e34-01"/>Hominum opinio vel adulatio quibusdam pr<hi rend="ligature">ae</hi> reliquis mira
                      <lb n="2" break="no"/>biles ortus, at cert<hi rend="grave">e</hi> fabulosos attribuit, veluti, <persName ref="https://viaf.org/viaf/101353608">Alexandro
                      <lb n="3"/>Magno</persName>, non <hi rend="grave">a</hi> <persName ref="https://viaf.org/viaf/262339539">Philippo</persName> <orgName><expan><abbr>Macedon<hi rend="tilde">u</hi></abbr><ex>m</ex></expan></orgName> rege, sed <persName type="divinity">Jove Hammonio</persName>, geni
                      <lb n="4" break="no"/>to, <persName>Romulo</persName> <g type="ampersand">et</g> <persName>Remo</persName>, <hi rend="grave">a</hi> <persName type="divinity">Marte</persName>, <persName ref="https://viaf.org/viaf/108159964">Plato</persName> ex virgine <persName ref="https://viaf.org/viaf/7775327">Perictione</persName> ex
@@ -86,9 +86,9 @@
                      <lb n="7"/>medici filius sese ab <persName type="divinity">Apolline</persName> ortum ducere <orgName>Atheniensibus</orgName> inter a
                      <lb n="8" break="no"/>lia persuadere conatur: <milestone unit="section" n="e34-03"/>Sed nos illis non creduli, qui scimus, illos nec
                      <lb n="9"/>homines nec deos fuisse, ad quos sui generis originem referunt; <milestone unit="section" n="e34-04"/>Et si
-                     <lb n="10"/>heroës quasi divini iner mortales extitissent, ex adulatione subdi
+                     <lb n="10"/>heroës quasi divini inter mortales extitissent, ex adulatione subdi
                      <lb n="11" break="no"/>torum, discipulorum vel aliorum omnia sua magnifica mundo ven
-                     <lb n="12" break="no"/>ditantium, h<hi rend="ligature">ae</hi>c de iss ficta <g type="ampersand">et</g> in opinionem vulgi falsariis scriptis in
+                     <lb n="12" break="no"/>ditantium, h<hi rend="ligature">ae</hi>c de iis ficta <g type="ampersand">et</g> in opinionem vulgi falsariis scriptis in
                      <lb n="13" break="no"/>sinuata esse, animadvertimus: <milestone unit="section" n="e34-05"/>Alia res est, quod Philosophi suo filio
                      <lb n="14"/>conceptionem <g type="ampersand">et</g> nativitatem <expan><abbr>inusitat<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> tribuant: Habet enim hic
                      <lb n="15"/>quid peculiare pr<hi rend="ligature">ae</hi> c<hi rend="ligature">ae</hi>teris omnibus in <expan><abbr>m<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>do</abbr></expan> natis, c<hi rend="grave">u</hi>m conceptio
@@ -98,7 +98,7 @@
                      <lb n="19"/>debeat, aut factus sit inauditum: Soli huic illud competere videtur
                      <lb n="20"/>ob mirabilis natur<hi rend="ligature">ae</hi> potentiam ab aliis long<hi rend="grave">e</hi> diversam. <milestone unit="section" n="e34-07"/>Alibi dicunt
                      <lb n="21"/>quod conceptio ejus fiat in fundo vasis <g type="ampersand">et</g> ortus in alembico: qu<hi rend="ligature">ae</hi>
-                     <lb n="22"/>sententia magis est conspicu<hi rend="ligature">ae</hi>: Nam aqu<hi rend="ligature">ae</hi> balneorum, si qu<hi rend="ligature">ae</hi> ad
+                     <lb n="22"/>sententia magis est conspicua: Nam aqu<hi rend="ligature">ae</hi> balneorum, si qu<hi rend="ligature">ae</hi> ad
                      <lb n="23" break="no"/>sunt, non in summitate, nec medio vasis sed in fundo erunt, in alem
                      <lb n="24" break="no"/>bico ver<hi rend="grave">o</hi> vapores sunt aërii: <milestone unit="section" n="e34-08"/>Conceptio itaque ubi facta est, ascen
                      <lb n="25" break="no"/>dit in alembicum <g type="ampersand">et</g> fit ortus ejus in albo colore: In fundo nigredo
@@ -130,7 +130,7 @@
                      <lb n="12" break="no"/>rum per alembicum in recipiente: Reducere ver<hi rend="grave">o</hi> super radices, est
                      <lb n="13"/>super hoc, <hi rend="grave">a</hi> quo prodeunt: <g type="ampersand">et</g> nominavit cucurbitas montes, quia in
                      <lb n="14"/>montibus invenitur sol <g type="ampersand">et</g> luna: sic etiam in his montibus qui sunt
-                     <lb n="15"/>cucurbit<hi rend="ligature">ae</hi>, generantur Sol <g type="ampersand">et</g> Luna eorum.</quote> <milestone unit="section" n="e34-14"/>H<hi rend="ligature">ae</hi>c ille: <quote>Postea fi rube
+                     <lb n="15"/>cucurbit<hi rend="ligature">ae</hi>, generantur Sol <g type="ampersand">et</g> Luna eorum.</quote> <milestone unit="section" n="e34-14"/>H<hi rend="ligature">ae</hi>c ille: <quote>Postea fit rube
                      <lb n="16" break="no"/>us <g type="ampersand">et</g> incipit ire super aquas, hoc est super metalla in igne liquefacta,
                      <lb n="17"/>qu<hi rend="ligature">ae</hi> stant instar aqu<hi rend="ligature">ae</hi> mercurialis: Est enim hic dominus aquarum,
                      <lb n="18"/>in quas imperium exercet, instar <persName type="divinity">Neptuni</persName> est<hi rend="acute">q</hi>ue rex maris <g type="ampersand">et</g> pos
@@ -140,7 +140,7 @@
                      <lb n="22"/><hi rend="ligature">ae</hi>stu, ali<hi rend="grave">a</hi>s se p<hi rend="ligature">oe</hi>nam de utroque sumpturum esse. <milestone unit="section" n="e34-16"/>Ver<hi rend="grave">u</hi>m surdis nar
                      <lb n="23" break="no"/>rata est fabula, <g type="ampersand">et</g> mare aliquot ex ejus navibus submersit, <placeName>Athos</placeName> ve
                      <lb n="24" break="no"/>r<hi rend="grave">o</hi> incendio non paucas perdidit. <milestone unit="section" n="e34-17"/>Hinc iratus rex, tanquam maris <g type="ampersand">et</g>
-                     <lb n="25"/>montium dominus, illi certum numerum plagarum infligi iussit,
+                     <lb n="25"/>montium dominus, illi certum numerum plagarum infligi jussit,
                      <lb n="26"/>montis ver<hi rend="grave">o</hi> magnam partem in mare abjecit: <milestone unit="section" n="e34-18"/>Sed h<hi rend="ligature">ae</hi>c magis au
                      <lb n="27" break="no"/>daciam, qu<hi rend="grave">a</hi>m prudentiam tanti regis demonstrant: <milestone unit="section" n="e34-19"/>Hic, de quo 
                      <lb n="28"/>nobis sermo, omnes aquas ab obstaculis <g type="ampersand">et</g> immunditiis purgat non
