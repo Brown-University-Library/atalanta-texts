@@ -24,7 +24,7 @@
       <body>
          <div type="emblem" n="e35">
             <pb n="148" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left">148</fw><fw type="header" place="top-center">FUGA <num value="35" type="cardinal">XXXV</num>. in <num value="7">7</num> suprà.</fw>
+            <fw type="pageNum" place="top-left">148</fw><fw type="header" place="top-center">FUGA <num value="35" type="cardinal">XXXV</num>. in <num value="7">7</num>. suprà.</fw>
             
             <div type="fugue" xml:lang="de">
                <head>
@@ -54,8 +54,8 @@
             <fw type="header" place="top-center">Emblema <num value="35" type="cardinal">XXXV</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">149</fw>
             
             <div type="image" xml:lang="la">
-               <head><lb n="1"/><persName type="divinity">Ceres</persName> <persName>Triptolemum</persName>, <persName type="divinity">Thetis</persName> <persName>Achillem</persName>, sub igne
-                  <lb n="2"/>morari assuescit, sic artifex lapidem.</head>
+               <head><lb n="1"/><persName type="divinity">Ceres</persName> <persName>Triptolemum</persName>, <persName type="divinity">Thetis</persName> <persName>Achillem</persName>, ut sub igne
+                  <lb n="2"/>morari assuefecit, sic artifex lapidem.</head>
             </div> 
             
             <div type="epigram" xml:lang="la">
@@ -79,7 +79,7 @@
                      <lb n="1"/><milestone unit="section" n="e35-01"/><persName>Lycurgus</persName> ille <orgName>Spartanorum</orgName> legislator, quantum consuetudo
                      <lb n="2"/>valeat, <g type="ampersand">et</g> usus sive bonus sive malus, oculari exemplo populo in
                      <lb n="3"/>theatrali concione exposuit, dum adducere binos catulos uno eni
-                     <lb n="4" break="no"/>xu editos; in<hi rend="acute">q</hi>ue medio poneret ollam pult refertam ac leporem;
+                     <lb n="4" break="no"/>xu editos; in<hi rend="acute">q</hi>ue medio poneret ollam pulte refertam ac leporem;
                      <lb n="5"/><milestone unit="section" n="e35-02"/>quorum catulorum unus c<hi rend="grave">u</hi>m videret cibum <g type="ampersand">et</g> leporem, eo relicto
                      <lb n="6"/>hunc insecutus est, quia ita assuefactus erat, alter ver<hi rend="grave">o</hi> neglecto le
                      <lb n="7" break="no"/>pore, ollam evacuavit, c<hi rend="grave">u</hi>m <g type="ampersand">et</g> sic consueverat. <milestone unit="section" n="e35-03"/>Quo facto, en, inquit,

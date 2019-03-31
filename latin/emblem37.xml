@@ -24,7 +24,7 @@
       <body>
          <div type="emblem" n="e37">
             <pb n="156" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left">156</fw><fw type="header" place="top-center">FUGA <num value="37" type="cardinal">XXXVII</num>. in <num value="8">8</num> suprà.</fw>
+            <fw type="pageNum" place="top-left">156</fw><fw type="header" place="top-center">FUGA <num value="37" type="cardinal">XXXVII</num>. in <num value="8">8</num>. suprà.</fw>
             
             <div type="fugue" xml:lang="de">
                <head>
@@ -63,10 +63,10 @@
                <head>Epigramma <num value="37" type="cardinal">XXXVII</num>.</head>
                <lg>
                   <lb n="1"/><l>Terna magisterii sunt semina, f<hi rend="ligature">oe</hi>tida Lympha,</l>
-                  <lb n="2"/><l>Et niveus vapor, ac pelle <hi rend="caps">Leo</hi> viridi:</l>
+                  <lb n="2"/><l>Et niveus vapor, ac pelle <hi rend="smallCaps">Leo</hi> viridi:</l>
                   <lb n="3"/><l>Unda parens peperit, restant qu<hi rend="ligature">ae</hi> elementa, Soph<hi rend="acute">i</hi>sque,</l>
                   <lb n="4"/><l>Ut lapidem faciant, ultima prim<hi rend="acute">a</hi>que ea est.</l>
-                  <lb n="5"/><l><hi rend="ligature">Ae</hi>s <persName>Hermetis</persName> at est viridis <hi rend="caps">Leo</hi>, petr<hi rend="acute">a</hi>que nota</l>
+                  <lb n="5"/><l><hi rend="ligature">Ae</hi>s <persName>Hermetis</persName> at est viridis <hi rend="smallCaps">Leo</hi>, petr<hi rend="acute">a</hi>que nota</l>
                   <lb n="6"/><l>Librorum capitlis, Fumus <g type="ampersand">et</g> albus aqua.</l> 
                </lg>
             </div>
