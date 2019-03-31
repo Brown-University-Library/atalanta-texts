@@ -24,7 +24,7 @@
       <body>
          <div type="emblem" n="e32">
             <pb n="136" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left"><choice><sic>126</sic><corr>136</corr></choice></fw><fw type="header" place="top-center">FUGA <num value="32" type="cardinal">XXXII</num>. in <num value="5">5</num> suprà.</fw>
+            <fw type="pageNum" place="top-left"><choice><sic>126</sic><corr>136</corr></choice></fw><fw type="header" place="top-center">FUGA <num value="32" type="cardinal">XXXII</num>. in <num value="5">5</num>. suprà.</fw>
             
             <div type="fugue" xml:lang="de">
                <head>
@@ -61,7 +61,7 @@
                <lg>
                   <lb n="1"/><l>Planta maris vegetans <orgName>Siculi</orgName> sub fluctibus uda</l>
                   <lb n="2"/><l>Ramos sub tepidis multiplicavit aquis.</l>
-                  <lb n="3"/><l>Illa, <hi rend="caps">Corallus</hi>, habet nomen sibi durior exit,</l>
+                  <lb n="3"/><l>Illa, <hi rend="smallCaps">Corallus</hi>, habet nomen sibi, durior exit,</l>
                   <lb n="4"/><l>C<hi rend="grave">u</hi>m Boreas rigido mittit ab axe gelu:</l>
                   <lb n="5"/><l>Fit lapis, <g type="ampersand">et</g> rubeum mult<hi rend="circumflex">a</hi> cum fronte colorem</l>
                   <lb n="6"/><l>Possidet: h<hi rend="ligature">ae</hi>c Physic<hi rend="ligature">ae</hi> est apta figura Petr<hi rend="ligature">ae</hi>.</l> 
@@ -81,7 +81,7 @@
                      <lb n="5" break="no"/>bilia quicquam spectare: <milestone unit="section" n="e32-02"/>sed illi falluntur suo judicio: Quod enim
                      <lb n="6"/>illis ignotum est, id non extare in rerum natura arbitrantur, metien
                      <lb n="7" break="no"/>tes universi immensitatem suo captu: <milestone unit="section" n="e32-03"/>Quis unquam credidisset la
-                     <lb n="8" break="no"/>pidem crescere sub aquis , vel plantam ibi generatum lapidescere
+                     <lb n="8" break="no"/>pidem crescere sub aquis , vel plantam ibi generatam lapidescere
                      <lb n="9"/>nisi Experientia <g type="ampersand">et</g> constans scriptorum fides id comprobaret? <milestone unit="section" n="e32-04"/>ubi
                      <lb n="10"/>illa lapidifica, ubi colorativa vis, qu<hi rend="ligature">ae</hi> corallum indurat <g type="ampersand">et</g> tingit, ex
                      <lb n="11" break="no"/>istit, an in aquis, an in aëre, an in terra? plantam esse mollem <g type="ampersand">et</g> plica
@@ -89,11 +89,11 @@
                      <lb n="13"/>terrestris natur<hi rend="ligature">ae</hi>, qu<hi rend="ligature">ae</hi> dum resecatur <g type="ampersand">et</g> ventis frigidis exponitur, in
                      <lb n="14" break="no"/>durescit <g type="ampersand">et</g> lapideam frangibilitatem acquirit, dum <hi rend="grave">a</hi> frigido <g type="ampersand">et</g> sicco
                      <lb n="15"/>aëre aque<hi rend="ligature">ae</hi> partes abundantes exiccantur (hi enim septentrionales
-                     <lb n="16"/>suo flatu siccitatem inducunt) <g type="ampersand">et</g> reliquum corpus terreste <hi rend="grave">a</hi> ter
+                     <lb n="16"/>suo flatu siccitatem inducunt) <g type="ampersand">et</g> reliquum corpus terrestre <hi rend="grave">a</hi> ter
                      <lb n="17" break="no"/>r<hi rend="ligature">ae</hi> <expan><abbr>qualitatib<am>.</am></abbr><ex>us</ex></expan> frigiditate <g type="ampersand">et</g> siccitate, congelatur: <milestone unit="section" n="e32-05"/>Sola enim constri
                      <lb n="18" break="no"/>ctio inest terr<hi rend="ligature">ae</hi>, non aqu<hi rend="ligature">ae</hi>, nec aëri, quo ad virtutes cujuslibet et pro
                      <lb n="19" break="no"/>prias <g type="ampersand">et</g> genuinas. <milestone unit="section" n="e32-06"/>Dat pr<hi rend="ligature">ae</hi>terea mare aliis in locis tres lapides
-                     <lb n="20"/>medicinales partim ex vegeabili genere, partim ex animali,
+                     <lb n="20"/>medicinales partim ex vegetabili genere, partim ex animali,
                      <lb n="21"/>aut potius partim ex natur<hi rend="ligature">ae</hi> arcanis depromptos; utpote mar
                      <lb n="22" break="no"/>garitas, succinum <g type="ampersand">et</g> ambram gryseam: <milestone unit="section" n="e32-07"/>Margaritarum proven
                      <lb n="23" break="no"/>tus <g type="ampersand">et</g> captura nobis innotuerunt, at non reliquorum: <expan><abbr>Succin<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>
@@ -122,13 +122,13 @@
                      <lb n="8" break="no"/>mus, uti margaritas ad Zoophyta, <g type="ampersand">et</g> corallum ad vegetabilia. <milestone unit="section" n="e32-11"/>Assi
                      <lb n="9" break="no"/>milatur ver<hi rend="grave">o</hi> his <expan><abbr>lapidib<am>.</am></abbr><ex>us</ex></expan> <g type="ampersand">et</g> inprimis corallo, Philosophorum lapis.
                      <lb n="10"/>Nam ut corallus in aquis crescit <g type="ampersand">et</g> ex terra nutrimentum sumit;
-                     <lb n="11"/>sic <g type="ampersand">et</g> lapis Philosophicus ex mercuriali aqua <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>n</ex><abbr>crescit</abbr></expan> <g type="ampersand">et</g> ex ea quic
+                     <lb n="11"/>sic <g type="ampersand">et</g> lapis Philosophicus ex mercuriali aqua <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>n</ex><abbr>crevit</abbr></expan> <g type="ampersand">et</g> ex ea quic
                      <lb n="12" break="no"/>quid est terreum assumpsit ad sui augmentationem, humiditate <expan><abbr>su
                      <lb n="13" break="no"/><hi rend="stroke">p</hi></abbr><ex>er</ex><abbr>flu<hi rend="circumflex">a</hi></abbr></expan> <expan><abbr>expir<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>te</abbr></expan>. <milestone unit="section" n="e32-12"/>Color <expan><abbr>quoq<am>;</am></abbr><ex>ue</ex></expan> rubeus illi ex coagulatione intenditur,
                      <lb n="14"/>quem recentiores vocant tincturam coralliorum, non aliter qu<hi rend="grave">a</hi>m
                      <lb n="15"/>lapidi physico, qui in ultima <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>n</ex><abbr>gelatione</abbr></expan> sui rubescit <g type="ampersand">et</g> instar coral
                      <lb n="16" break="no"/>li ruberrimi apparet, qu<hi rend="ligature">ae</hi> tinctura est: <milestone unit="section" n="e32-13"/>ver<hi rend="grave">u</hi>m ut corallus frigido <g type="ampersand">et</g>
-                     <lb n="17"/>sicco, sic ille calido <g type="ampersand">et</g> sicco indurescit, quod augmentato itidem li
+                     <lb n="17"/>sicco, sic ille calido <g type="ampersand">et</g> sicco indurescit, quo augmentato itidem li
                      <lb n="18" break="no"/>quescit, contra naturam reliquorum lapidum, qui liquescunt, qui
                      <lb n="19" break="no"/>dem, sed in vitrum abeunt, quod huic neutiquam convenit: <milestone unit="section" n="e32-14"/>Utque
                      <lb n="20"/>corallus in varias medicinas magn<hi rend="ligature">ae</hi> virtutis pr<hi rend="ligature">ae</hi>paratur, sic <g type="ampersand">et</g> Phi
@@ -140,7 +140,7 @@
                      <lb n="26"/>animalis <g type="ampersand">et</g> mineralis, qui in amplissimo mari delitescit, nec agno
                      <lb n="27" break="no"/>scitur, nisi oculis ignarorum exponatur <g type="ampersand">et</g> manibus inferatur: <milestone unit="section" n="e32-17"/>At
                      <lb n="28"/>cautissim<hi rend="grave">e</hi> sub aquis resecandus erit, ne succum <g type="ampersand">et</g> sanguinem amit
-                     <lb n="29" break="no"/>tat, <g type="ampersand">et</g> nil nisi terresttre chaos absque ver<hi rend="circumflex">a</hi> su<hi rend="circumflex">a</hi> form<hi rend="circumflex">a</hi> remaneat: In hoc
+                     <lb n="29" break="no"/>tat, <g type="ampersand">et</g> nil nisi terrestre chaos absque ver<hi rend="circumflex">a</hi> su<hi rend="circumflex">a</hi> form<hi rend="circumflex">a</hi> remaneat: In hoc
                      <lb n="30"/>enim omnis difficultas coralli captandi versatur, pr<hi rend="ligature">ae</hi>ter quam vix
                      <lb n="31"/>ulla occurrit: <milestone unit="section" n="e32-18"/>Humiditatem superfluam intelligo, qu<hi rend="ligature">ae</hi> interficit
                      <lb n="32"/>lapidem, nisi separetur, qu<hi rend="ligature">ae</hi> corallinum ruborem apparere non
