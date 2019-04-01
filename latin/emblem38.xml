@@ -60,9 +60,9 @@
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="38" type="cardinal">XXXVIII</num>.</head>
                <lg>
-                  <lb n="1"/><l>Rem geminam <persName><hi rend="caps">Rebis</hi></persName> veteres dix<hi rend="circumflex">e</hi>re, quod uno</l>
+                  <lb n="1"/><l>Rem geminam <persName><hi rend="smallCaps">Rebis</hi></persName> veteres dix<hi rend="circumflex">e</hi>re, quod uno</l>
                   <lb n="2"/><l>Corpore sit mas h<hi rend="ligature">ae</hi>c f<hi rend="ligature">oe</hi>min<hi rend="acute">a</hi>que, Androgyna.</l>
-                  <lb n="3"/><l>Natus enim binis in montibus <persName><hi rend="caps">Hermaphroditus</hi></persName></l>
+                  <lb n="3"/><l>Natus enim binis in montibus <persName><hi rend="smallCaps">Hermaphroditus</hi></persName></l>
                   <lb n="4"/><l>Dicitur, <persName type="divinity">Hermeti</persName> quem tulit alma <persName type="divinity">Venus</persName>.</l>
                   <lb n="5"/><l>Ancipitem sexum ne spernas, nam tibi Regem</l>
                   <lb n="6"/><l>Mas idem, muli<hi rend="acute">e</hi>rque una ead<hi rend="acute">e</hi>mque dabit.</l> 
