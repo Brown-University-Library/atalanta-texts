@@ -51,7 +51,7 @@
             
             <pb n="133" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="31" type="cardinal">XXXI</num>.</fw><fw type="pageNum" place="top-right">133</fw>
+            <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="31" type="cardinal">XXXI</num>.</fw><fw type="pageNum" place="top-right">133</fw>
             
             <div type="image" xml:lang="la">
                <head><lb n="1"/>Rex natans in mari, clamans alt<hi rend="circumflex">a</hi> voce: Qui me eripiet,
