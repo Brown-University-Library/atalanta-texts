@@ -74,8 +74,8 @@
                <pb n="182" edRef="Maier1618"/>
                <fw type="pageNum" place="top-left">182</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="43">XLIII</num>.</fw>
                   <div type="discourse-p1"><ab>
-                     <lb n="1"/><milestone unit="section" n="e43-01"/><hi rend="caps">Loquaces</hi> seu vocis humanae aemulas volucres, videlicet Psitta
-                     <lb n="2" break="no"/>cos, corvos, monedulas, <g type="ampersand">et</g> picas quodtidi<hi rend="grave">e</hi> passim audimus. <milestone unit="section" n="e43-02"/>Sic
+                     <lb n="1"/><milestone unit="section" n="e43-01"/><hi rend="smallCaps">Loquaces</hi> seu vocis humanae aemulas volucres, videlicet Psitta
+                     <lb n="2" break="no"/>cos, corvos, monedulas, <g type="ampersand">et</g> picas quotidi<hi rend="grave">e</hi> passim audimus. <milestone unit="section" n="e43-02"/>Sic
                      <lb n="3"/><persName ref="https://viaf.org/viaf/100219162">Plinius</persName> suo tempore, quo historiam edidit, <persName ref="https://viaf.org/viaf/87873347"><expan><abbr>Agrippin<hi rend="tilde">a</hi></abbr><ex>m</ex></expan></persName> <persName ref="https://viaf.org/viaf/87172361"><name type="gentilicium">Claudii</name> <name type="cognomen"><expan><abbr>C</abbr><ex>a</ex><abbr><hi rend="hook">e</hi>sa
                      <lb n="4" break="no"/>ris</abbr></expan></name></persName> uxorem habuisse turdum, semones hominum imitantem scribit.
                      <lb n="5"/><milestone unit="section" n="e43-03"/>Habuerunt <g type="ampersand">et</g> <persName>Caesares</persName> juvenes sturnum <g type="ampersand">et</g> luscinias Graeco latin<hi rend="acute">o</hi>

@@ -54,7 +54,7 @@
             <fw type="header" place="top-center">Emblema XLII. <hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">177</fw>
             
             <div type="image" xml:lang="la">
-               <head><lb n="1"/>In Chymicis versanti Natura, Ratio, Experientia <g type="ampersand">et></g> lectio
+               <head><lb n="1"/>In Chymicis versanti Natura, Ratio, Experientia <g type="ampersand">et></g> lectio,ob
                   <lb n="2"/>sint Dux, scipio, perspicilia <g type="ampersand">et></g> lampas.</head>
             </div>
             
@@ -117,9 +117,9 @@
                <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="42">XLII</num>.</fw> <fw type="pageNum" place="top-right">179</fw>
                   <div type="discourse-p2"><ab>
                      <lb n="1"/>ne enim quis ad lapsum in errores erit proclivis, Unde dicunt Philo
-                     <lb n="2" break="no"/>sophi; Quicquid audis, ratiocinare, num ita esse possit, nec ne. <milestone unit="section" n="e42-14"/> Ad im
+                     <lb n="2" break="no"/>sophi; Quicquid audis, ratiocinare, num ita esse possit, necne. <milestone unit="section" n="e42-14"/> Ad im
                      <lb n="3" break="no"/>possibil<supplied reason="omitted">i</supplied>a enim credenda vel peragenda nemo impellitur, nisi ipse
-                     <lb n="4"/>debilis memori<hi rend="ligature">ae</hi> obtusi ingenii <g type="ampersand">et</g> fatu<hi rend="ligature">ae</hi> imaginationis, ut sibi im
+                     <lb n="4"/>debilis memori<hi rend="ligature">ae</hi>, obtusi ingenii <g type="ampersand">et</g> fatu<hi rend="ligature">ae</hi> imaginationis, ut sibi im
                      <lb n="5" break="no"/>ponat falsa pro veris accipiendo <g type="ampersand">et</g> vera pro falsis renuendo: <milestone unit="section" n="e42-15"/> Ajunt
                      <lb n="6"/>quoque se non curare de verbis, quicquid dicatur, sed saltem de re
                      <lb n="7" break="no"/>bus, quid intelligatur; Et verba esse propter res <g type="ampersand">et</g> non res propter
