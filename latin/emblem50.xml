@@ -60,7 +60,7 @@
             <div type="epigram" xml:lang="la">
                <head>Epigramma L.</head>
                <lg>
-                  <lb n="1"/><l>Alta venoso fodiatur tumba Dracon<hi rend="circumflex" cert="low">e</hi>,</l>
+                  <lb n="1"/><l>Alta venoso fodiatur tumba Draconi,</l>
                   <lb n="2"/><l>Cui mulier nexu sit bene vincta suo:</l>
                   <lb n="3"/><l>Ille maritalis dum carpit gaudia lecti,</l>
                   <lb n="4"/><l>H<hi rend="ligature">ae</hi>c moritur, cum qua sit Draco tectus humo.</l>
@@ -77,12 +77,12 @@
                   <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e50-01"/> Draconum mansio in cavernis terr<hi rend="ligature">ae</hi> est, hominum ver<hi rend="grave">o</hi> supra
                      <lb n="2"/>terram in aëre proximo; qu<hi rend="ligature">ae</hi> duo sunt elementa contraria <g type="ampersand">et</g>
-                     <lb n="3"/>jubentur<hi rend="grave">a</hi> Philosophis conjugi, ut actio unius in aliud fiat: <milestone unit="section" n="e50-02"/> Per mu
+                     <lb n="3"/>jubentur <hi rend="grave">a</hi> Philosophis conjugi, ut actio unius in aliud fiat: <milestone unit="section" n="e50-02"/> Per mu
                      <lb n="4" break="no"/>lierem ver<hi rend="grave">o</hi> alii intelligunt, ut <persName ref="http://viaf.org/viaf/31992530/">Basilius</persName> <title ref="http://viaf.org/viaf/4074149844953602960001">clave</title> <num type="ordinal">2</num>. <q rend="italic">Non enim utile est</q>, in
                      <lb n="5" break="no"/>quit, <q rend="italic">aquil<hi rend="ligature">ae</hi> nidum suum in alpibus ponere: Nam pulli ejus pr<hi rend="ligature">ae</hi> frigore nivis
                      <lb n="6"/>in summitate montium morerentur: <milestone unit="section" n="e50-03"/> Quod si ver<hi rend="grave">o</hi> aquil<hi rend="ligature">ae</hi> draconem frigi
                      <lb n="7" break="no"/>dum qui suam habitationem in petris longo tempore habuit, <g type="ampersand">et</g> ex terr<hi rend="ligature">ae</hi> spe
-                     <lb n="8" break="no"/>luncis prorepit, addas, amb<hi rend="acute">o</hi>sque in infernalem sellam ponas, tum <persName>Pluto</persName> ven
+                     <lb n="8" break="no"/>luncis prorepit, addas, amb<hi rend="acute">o</hi>sque in infernalem sellam ponas, tum <persName type="divinity">Pluto</persName> ven
                      <lb n="9" break="no"/>tum afflabit, <g type="ampersand">et</g> ex frigido dracone igneum spiritum volatilem eliciet, qui suo
                      <lb n="10"/>magno calore aquil<hi rend="ligature">ae</hi> pennas cumburet, ac sudorificum balneum excitabit a
                      <lb n="11" break="no"/>de<hi rend="grave">o</hi> ut nix in summis montibus colliquescat, <g type="ampersand">et</g> aqua fiat; quo minerabile bal
@@ -137,7 +137,7 @@
                         <lb n="21"/>corporis dissolvendi</q>: <milestone unit="section" n="e50-18"/> Aquila itaque <g type="ampersand">et</g> mulier, nec non draco ac totius
                      <lb n="22"/>fer<hi rend="grave">e</hi> artis arcana hoc percepto, intelliguntur, qu<hi rend="ligature">ae</hi> fort<hi rend="grave">e</hi> nimis aper
                      <lb n="23" break="no"/>to natur<hi rend="ligature">ae</hi> gremio hactenus doctrin<hi rend="ligature">ae</hi> filiis exposuimus <g type="ampersand">et</g> declaravi
-                     <lb n="24" break="no"/>mus, ut hinc <hi rend="caps">Deo sit gloria</hi>.
+                     <lb n="24" break="no"/>mus, ut hinc <hi rend="smallCaps">Deo sit gloria</hi>.
                   </ab></div> 
                 <fw type="gathering" place="bottom-right"><hi rend="italic">Dd</hi> 2</fw> <fw type="catchword" place="bottom-right"><hi rend="italic">INDEX</hi></fw>
                 </div>
