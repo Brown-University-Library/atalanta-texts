@@ -64,7 +64,7 @@
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="46" type="cardinal">XLVI</num>.</head>
                <lg>
-                  <lb n="1"/><l><persName type="divinity">Jupiter</persName> <hi rend="grave">e</hi> <placeName><hi rend="caps">Delphis</hi></placeName> aquilas misisse gemellas</l>
+                  <lb n="1"/><l><persName type="divinity">Jupiter</persName> <hi rend="grave">e</hi> <placeName><hi rend="smallCaps">Delphis</hi></placeName> aquilas misisse gemellas</l>
                   <lb n="2"/><l>Fertur ad E<hi rend="circumflex">o</hi>as Occidu<hi rend="acute">a</hi>sque plagas:</l>
                   <lb n="3"/><l>Dum medium explorare locum desiderat Orbis,</l>
                   <lb n="4"/><l>(Fama ut habet) <placeName>Delphos</placeName> h<hi rend="ligature">ae</hi> redi<hi rend="circumflex">e</hi>re simul.</l>
@@ -83,7 +83,7 @@
                      <lb n="2" break="no"/>stodem tradit <persName ref="https://viaf.org/viaf/78769600">Cicero</persName> <expan><abbr>lib<am>.</am></abbr><ex>ro</ex></expan> <title ref="https://viaf.org/viaf/178863840">de natura Deorum</title>. <milestone unit="section" n="e46-02"/>Qu<hi rend="ligature">ae</hi> quidem o
                      <lb n="3" break="no"/>pinio, si ut debet, ad allegoriam transferatur, est verissima; Quia
                      <lb n="4"/><persName type="divinity">Vulcanus</persName> Solem Philosophicum, qui <persName type="divinity">Apollo</persName> est, producit. <milestone unit="section" n="e46-03"/>Sed pr<hi rend="ligature">ae</hi>
-                     <lb n="5" break="no"/>valuit, quod ex Jove natus sit; C<hi rend="grave">u</hi>m ver<hi rend="grave">o</hi> <persName type="divinity">Latona</persName> utero gestaret ge
+                     <lb n="5" break="no"/>valuit, quod ex <persName type="divinity">Jove</persName> natus sit; C<hi rend="grave">u</hi>m ver<hi rend="grave">o</hi> <persName type="divinity">Latona</persName> utero gestaret ge
                      <lb n="6" break="no"/>mellos <persName type="divinity">Apollinem</persName> <g type="ampersand">et</g> <persName type="divinity">Dianam</persName>, quos ex <persName type="divinity">Jove</persName> conceperat, <persName type="divinity">Juno</persName> Zelo
                      <lb n="7" break="no"/>typa Pythonem horrend<hi rend="ligature">ae</hi> vastitatis serpentem immisit, qui gravi
                      <lb n="8" break="no"/>dam prosequeretur <g type="ampersand">et</g> vexaret. <milestone unit="section" n="e46-04"/>Mulier misera post diutinos errores
@@ -99,7 +99,7 @@
                      <lb n="18"/>confecit <g type="ampersand">et</g> Cyclopes occ<hi rend="circumflex">i</hi>dit, quod fulmen <persName type="divinity">Jovi</persName> fabricassent ad in
                      <lb n="19" break="no"/>terficiendum ejus filium <persName type="divinity"><hi rend="ligature">Ae</hi>sculapium</persName>, quem <persName type="divinity">Jupiter</persName> fulminatum
                      <lb n="20"/>ad inferos destrusit, propterea quod <persName>Hippolytum</persName> ab equis discer
-                     <lb n="21" break="no"/>ptum in vitam restituisset. <milestone unit="section" n="e46-07"/>H<hi rend="ligature">ae</hi>c esse mer<hi rend="grave">e</hi> Chymica multis in locis
+                     <lb n="21" break="no"/>ptum in vitam restituisset. <milestone unit="section" n="e46-07"/>H<hi rend="ligature">ae</hi>c esse mer<hi rend="grave">e</hi> Chymica, multis in locis
                      <lb n="22"/>demonstravimus. <persName type="divinity">Latona</persName> enim, <persName type="divinity">Cynthia</persName>, <persName type="divinity">Apollo</persName> <g type="ampersand">et</g> Python, sunt re
                      <lb n="23" break="no"/>quisita artis, qu<hi rend="ligature">ae</hi> eo modo se habent invicem, ut narratum est. <milestone unit="section" n="e46-08"/>C<hi rend="grave">u</hi>m 
                      <lb n="24"/>ver<hi rend="grave">o</hi> h<hi rend="ligature">ae</hi>c ab antiquissimis Poëtis, ut <persName>Orpheo</persName>, <persName>Lino</persName>, <persName>Museao</persName>, <persName ref="https://viaf.org/viaf/224924963">Home
@@ -119,7 +119,7 @@
                   <div type="discourse-p2"><ab>
                      <lb n="1"/>quoque sacratus fuit ille celebris tripes, <hi rend="grave">a</hi> <persName>Pelope</persName>, dum uxorem <persName>Hip
                      <lb n="2" break="no"/>podamiam</persName> duceret <persName>Oenomai</persName> regis <placeName>Elidis</placeName> filiam, quem Tripodem
-                     <lb n="3"/>fabricarat <persName>Mulciber</persName> <g type="ampersand">et</g> <persName>Pelopi</persName> donaverat. <milestone unit="section" n="e46-12"/>Hic in medio templi ere
+                     <lb n="3"/>fabric<hi rend="circumflex">a</hi>rat <persName>Mulciber</persName> <g type="ampersand">et</g> <persName>Pelopi</persName> donaverat. <milestone unit="section" n="e46-12"/>Hic in medio templi ere
                      <lb n="4" break="no"/>ctus erat, in quo insidens Pythia afflatum D<hi rend="ligature">ae</hi>monis erumpentis <hi rend="grave">e</hi>
                      <lb n="5"/>profundo hiatu excipiebat, quo correpta vaticinabatur,<g type="ampersand">et</g> responsa
                      <lb n="6"/>dabat sciscitantibus rerum futurarum eventus. <milestone unit="section" n="e46-13"/>Fuere autem <placeName>Del
@@ -130,7 +130,7 @@
                      <lb n="11"/>tamen brevioris vit<hi rend="ligature">ae</hi> reddebantur ejus aqu<hi rend="ligature">ae</hi> potores. <milestone unit="section" n="e46-15"/>C<hi rend="grave">u</hi>m itaque
                      <lb n="12"/>concursus fiere ex omnibus <placeName>Europ<hi rend="ligature">ae</hi></placeName>, <placeName>Asi<hi rend="ligature">ae</hi></placeName><hi rend="acute">q</hi>ue partibus ad oracu
                      <lb n="13" break="no"/>lum <placeName>Delphicum</placeName>, poët<hi rend="ligature">ae</hi> eum locum, <expan><abbr>n<hi rend="tilde">e</hi></abbr><ex>m</ex><abbr>pe</abbr></expan> <placeName>Parnassum</placeName> esse in medio
-                     <lb n="14"/>terr<hi rend="ligature">ae</hi> fabulati sunt; <expan><abbr>id<hi rend="acute">q</hi><am>;</am></abbr><ex>ue</ex></expan> ad exemplo <persName type="divinity">Jovis</persName> probarunt, qui <expan><abbr>duab<am>.</am></abbr><ex>us</ex></expan> <expan><abbr>a<hi rend="stroke">q</hi></abbr><ex>ui</ex>
+                     <lb n="14"/>terr<hi rend="ligature">ae</hi> fabulati sunt; <expan><abbr>id<hi rend="acute">q</hi><am>;</am></abbr><ex>ue</ex></expan> ad exemplo <persName type="divinity">Jovis</persName> probarunt, qui <expan><abbr>duab<am>.</am></abbr><ex>us</ex></expan> <expan><abbr>a<hi rend="bar">q</hi></abbr><ex>ui</ex>
                      <lb n="15" break="no"/><abbr>lis</abbr></expan> emissis id experimentatus fuerat: <milestone unit="section" n="e46-16"/>Ver<hi rend="grave">u</hi>m c<hi rend="grave">u</hi>m h<hi rend="ligature">ae</hi>c res histori<hi rend="ligature">ae</hi> fi
                      <lb n="16" break="no"/>de non nitatur, non <hi rend="grave">a</hi> veritate alienum est, eam chymicis asscribere,
                      <lb n="17"/>pr<hi rend="ligature">ae</hi>sertim c<hi rend="grave">u</hi>m totus <persName type="divinity">Apollo</persName>, ut dictum, sit chymicus origine, licet
@@ -144,7 +144,7 @@
                      <lb n="25"/>facil<hi rend="grave">e</hi> inaurationem admiitere. <milestone unit="section" n="e46-20"/>Non senio, nec <hi rend="ligature">ae</hi>gritudine moritur,
                      <lb n="26"/>sed fame. Crescens <expan><ex>e</ex><abbr>n<am>.</am></abbr><ex>im</ex></expan> rostri superioris aduncitas impedit, ne cibum
                      <lb n="27"/>queat capere; qu<hi rend="circumflex">a</hi> abject<hi rend="circumflex">a</hi> in fontem ter se mergit, <expan><abbr>eo<hi rend="acute">q</hi><am>;</am></abbr><ex>ue</ex></expan> modo redi
-                     <lb n="28" break="no"/>re fertur ad juventurem. <milestone unit="section" n="e46-21"/>Hinc <persName>Psalmographus</persName>: <quote>Renovabitur, ut
+                     <lb n="28" break="no"/>re fertur ad juventutem. <milestone unit="section" n="e46-21"/>Hinc <persName>Psalmographus</persName>: <quote>Renovabitur, ut
                      <lb n="29"/>aquil<hi rend="ligature">ae</hi>, juventus tua:</quote> <milestone unit="section" n="e46-22"/>Ex <expan><abbr>volatilib<am>.</am></abbr><ex>us</ex></expan> nunquam fulmine tangitur. <milestone unit="section" n="e46-23"/>Pu
                      <lb n="30"/>gna est illi in draconem, qui propterea ejus ova consectatur: <milestone unit="section" n="e46-24"/>Qu<hi rend="ligature">ae</hi> o
                      <lb n="31" break="no"/>mnia ejus natur<hi rend="ligature">ae</hi> munera causam pr<hi rend="ligature">ae</hi>buerunt, cur <expan><abbr>Philos<am>.</am></abbr><ex>ophicam</ex></expan> aquilam

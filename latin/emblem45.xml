@@ -59,11 +59,11 @@
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="45" type="cardinal">XLV</num>.</head>
                <lg>
-                  <lb n="1"/><l>Sol, fax clara poli, non corpora densa pen<hi rend="acute">e</hi>trat,</l>
+                  <lb n="1"/><l><hi rend="smallCaps">Sol</hi>, fax clara poli, non corpora densa pen<hi rend="acute">e</hi>trat,</l>
                   <lb n="2"/><l>Hinc illi adversis partibus umbra manet:</l>
                   <lb n="3"/><l>Vilior h<hi rend="ligature">ae</hi>c rebus quamvis est omnibus, usu</l>
                   <lb n="4"/><l>Attamen Astronomis commoda multa tulit:</l>
-                  <lb n="5"/><l>Plur<hi rend="ligature">ae</hi> Sophis sed dona dedit <hi rend="caps">Sol</hi>, ejus <g type="ampersand">et</g> umbra,</l>
+                  <lb n="5"/><l>Plura Sophis sed dona dedit <hi rend="smallCaps">Sol</hi>, ejus <g type="ampersand">et</g> umbra,</l>
                   <lb n="6"/><l>Aurifer<hi rend="ligature">ae</hi> quoniam perficit artis opus.</l> 
                </lg>
             </div>
@@ -92,10 +92,10 @@
                      <lb n="16"/>possent; sed sol ut inimicam sibi audiens semper illi insistit fugienti,
                      <lb n="17"/>nec unquam defessam capere potest, ut pulchr<hi rend="grave">e</hi> <persName ref="https://viaf.org/viaf/105874857">Buchananus</persName> in <title>li
                      <lb n="18" break="no"/>bro sph<hi rend="ligature">ae</hi>rico</title> cecinit<unclear>.</unclear> <milestone unit="section" n="e45-06"/>Ad imitationem <g type="ampersand">et</g> exemplum magni illius so
-                     <lb n="19" break="no"/>lis, ej<hi rend="acute">u</hi>sque umbr<hi rend="ligature">ae</hi>, Philosophi observ<hi rend="circumflex">a</hi>runt <g type="ampersand">et</g> suo soli adesse <expan><abbr>umvbr<hi rend="tilde">a</hi></abbr><ex>m</ex></expan>
+                     <lb n="19" break="no"/>lis, ej<hi rend="acute">u</hi>sque umbr<hi rend="ligature">ae</hi>, Philosophi observ<hi rend="circumflex">a</hi>runt <g type="ampersand">et</g> suo soli adesse <expan><abbr>umbr<hi rend="tilde">a</hi></abbr><ex>m</ex></expan>
                      <lb n="20"/>nigram, nebulosam <g type="ampersand">et</g> fugacem: Hinc <persName ref="https://viaf.org/viaf/24571510">Hermes</persName>, <quote>Fili</quote>, inquit, <quote>extrahe
                      <lb n="21"/><hi rend="grave">a</hi> radio suam umbram</quote>, hoc est, vide ut solem tuum circum ducas per
-                     <lb n="22"/>primum mobile, cui <persName type="divinity">Vulcanus</persName> pr<hi rend="ligature">ae</hi>ficitur, ut <g type="ampersand">et</g> illa Terr<hi rend="ligature">ae</hi> ru<hi rend="ligature">ae</hi> pars,
+                     <lb n="22"/>primum mobile, cui <persName type="divinity">Vulcanus</persName> pr<hi rend="ligature">ae</hi>ficitur, ut <g type="ampersand">et</g> illa Terr<hi rend="ligature">ae</hi> tDophidu<hi rend="ligature">ae</hi> pars,
                      <lb n="23"/>qu<hi rend="ligature">ae</hi> nunc umbros<hi rend="circumflex">a</hi> nocte tegitur, clar<hi rend="circumflex">a</hi> fruatur luce solari: <milestone unit="section" n="e45-07"/>Nisi e
                      <lb n="24" break="no"/>nim per motum primum totum Firmamentum c<hi rend="ligature">oe</hi>li cum omnibus
                      <lb n="25"/>contentis singulis diebus naturalibus, hoc est, <num value="24" type="cardinal">viginti quatuor</num> horis
