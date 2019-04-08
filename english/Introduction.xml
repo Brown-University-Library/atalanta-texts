@@ -44,7 +44,7 @@
                         <subst>
                             <del>
                                 <lb/>melody <hi rend="superscript">1</hi>appropriated <hi rend="superscript">5</hi>with <hi rend="superscript">6</hi>distichs <hi rend="superscript">2</hi>to <hi rend="superscript">3</hi>be <hi rend="superscript">4</hi>sung: <hi rend="superscript">11</hi>to <hi rend="superscript">12</hi>be <pc>-</pc>
-                                <lb/><hi rend="superscript">13</hi>seen, <hi rend="superscript">14</hi>read, <hi rend="superscript">15</hi>meditated, <hi rend="superscript">16</hi>understood, <hi rend="superscript">17</hi><subst><del>judged</del><add>distinguished</add></subst>, <hi rend="superscript">18</hi>sung,
+                                <lb/><hi rend="superscript">13</hi>seen, <hi rend="superscript">14</hi>read, <hi rend="superscript">15</hi>meditated, <hi rend="superscript">16</hi>understood, <subst><del>judged</del><hi rend="superscript">17</hi><add>distinguished</add></subst>, <hi rend="superscript">18</hi>sung,
                                 <lb/><hi rend="superscript">19</hi>and <hi rend="superscript">20</hi> heard <hi rend="superscript">7</hi>not <hi rend="superscript">8</hi>without <hi rend="superscript">9</hi>Singular <hi rend="superscript">10</hi>delectation.
                                 <lb/><pc>. . . . . . . .</pc>
                             </del>
@@ -58,7 +58,7 @@
                     </ab>
 
                     <ab rend="centr">
-                        <lb/><seg rend="italics">Michael Majerus Count of the Imperiall Con
+                        <lb/><seg rend="italics">Michael Maierus Count of the Imperiall Con
                         <lb break="no"/>sistory. Doctor of <choice><orig>Physicke</orig><reg>Physic</reg></choice>. Knight of etc.
                         <lb/><pc>. . . . .</pc></seg>
                     </ab>
@@ -113,7 +113,7 @@
                 <pb n="03"/> <milestone unit="page" ed="Meier" n="003"/>
                     <div type="dedication">
                         <ab rend="center italics">
-                        <lb/>Michael Majerus Doctor of <choice><orig>Physicke</orig><reg>Physic</reg></choice>, <choice><orig>Præsident</orig><reg>President</reg></choice> of
+                        <lb/>Michael Maierus Doctor of <choice><orig>Physicke</orig><reg>Physic</reg></choice>, <choice><orig>Præsident</orig><reg>President</reg></choice> of
                         <lb/>the <choice><orig>Imperiall</orig><reg>Imperial</reg></choice> Consistory, Knight etc. most humbly
                         <lb/>offers, presents, and dedicates this testimony (such
                         <lb/>as it is) of his good will and gratitude to the most
@@ -246,7 +246,7 @@
                         <lb/><choice><orig>Chymicall</orig><reg>Chymical</reg></choice> emblems, which are peculiar to this Science: for all other arts,
                         <lb/>if they represent emblems of manners, or other things, than of the secrets
                         <lb/>of nature, this seems different from their scope and end, they being <pc>-</pc>
-                        <lb/>willing and requisite to be understood by all men; <choice><orig>Chymy</orig><reg>Chemia</reg></choice> not <choice><orig>soe</orig><reg>so</reg></choice>, <pc>-</pc>
+                        <lb/>willing and requisite to be understood by all men; <choice><orig>Chymy</orig><reg>Chymia</reg></choice> not <choice><orig>soe</orig><reg>so</reg></choice>, <pc>-</pc>
                         <lb/>which as a <choice><orig>chast</orig><reg>chaste</reg></choice> virgin ought to be seen through a <choice><orig>veile</orig><reg>veil</reg></choice>, and as Diana,
                         <lb/>not without a garment of various <choice><orig>colours</orig><reg>colors</reg></choice>, for reasons <choice><orig>elswhere</orig><reg>elsewhere</reg></choice> expres
                         <lb break="no"/>sed: I say, these <choice><orig>foure</orig><reg>four</reg></choice> <choice><orig>emblematicall</orig><reg>emblematical</reg></choice>, feigned, <choice><orig>poeticall</orig><reg>poetical</reg></choice> and <choice><orig>allegoricall</orig><reg>allegorical</reg></choice>, pic

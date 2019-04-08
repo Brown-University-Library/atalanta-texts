@@ -23,7 +23,7 @@
             <fw type="pageNum" place="top-cent">6</fw>
             <div type="page">
                <head><hi rend="large">Pr<hi rend="ligature">ae</hi>fatio ad Lectorem.</hi></head>
-            <ab rend="italics">
+            <ab rend="italic">
                <lb n="1"/><milestone unit="section" n="pr-01"/><hi rend="caps">H</hi><hi rend="caps">ominem</hi>, lectorem candide, universi compendium
                <lb n="2"/>sui compositione referre, in confesso est omnium,
                <lb n="3"/><g type="ampersand">et</g> ternis vite generibus vivendis destinatum es
@@ -50,7 +50,7 @@
             <fw type="title" place="top-cent">AD LECTOREM.</fw>
             <fw type="pageNum" place="top-right">7</fw>
         <div type="page">
-           <ab rend="italics">
+           <ab rend="italic">
                <lb n="1"/>secreta non postrema, sed post divinorum indagationem, omnium
                <lb n="2"/>prima <g type="ampersand">et</g> preciosissima, non circumforaneis deceptoribus <g type="ampersand">et</g> fucis
                <lb n="3"/>pseudo-chymicis (qui in his sunt asini ad lyram, quippe ad omni bo
@@ -83,7 +83,7 @@
             <fw type="title" place="top-cent">PR<hi rend="ligature">Ae</hi>FATIO</fw>
             <fw type="pageNum" place="top-left">8</fw>
         <div type="page">
-           <ab rend="italics">
+           <ab rend="italic">
                <lb n="1"/>amatorius <hi rend="ligature">ae</hi>stimatus fuit (qualis nunc habetur <orgName><hi rend="latin">Phrygius</hi></orgName>) unde
                <lb n="2"/>modos inter se mutatos conjicimus: <milestone unit="section" n="pr-12"/><orgName><hi rend="latin">Phrygio</hi></orgName> <persName ref="http://viaf.org/viaf/262405895"><hi rend="latin">Timotheum</hi>
                   <lb n="3"/><orgName><hi rend="latin">Milesium</hi></orgName></persName> usum tradunt ad <persName ref="http://viaf.org/viaf/101353608">Alexandrum Magnum</persName> in rebus bel
@@ -117,7 +117,7 @@
             <fw type="title" place="top-center">AD LECTOREM.</fw>
             <fw type="pageNum" place="top-right">9</fw>
          <div type="page">
-            <ab rend="italics">
+            <ab rend="italic">
                <lb n="1" break="no"/>lior <g type="ampersand">et</g> jucundior olim futurus est: <milestone unit="section" n="pr-19"/>quod si ver<hi rend="grave">o</hi> primum sensui man
                <lb n="2" break="no"/>cipatus, nullum est dubium quin <hi rend="grave">a</hi> sensu ad intellectum transitus
                <lb n="3"/>fiet, tanquam per ostium: <milestone unit="section" n="pr-20"/>Nihil enim in intellectu esse dicitur, quod
@@ -151,7 +151,7 @@
             <fw type="title" place="top-cent">PR<hi rend="ligature">Ae</hi>FATIO</fw>
             <fw type="pageNum" place="top-left">10</fw>
          <div type="page">
-            <ab rend="italics"> 
+            <ab rend="italic"> 
                <lb n="1"/>h<hi rend="ligature">ae</hi>c virgo victoriam pr<hi rend="ligature">ae</hi> viris, apro quodam insignis magnitudinis
                <lb n="2"/>occiso, unde pr<hi rend="ligature">ae</hi>mio <hi rend="grave">a</hi> <persName><hi rend="latin">Meleagro</hi></persName> donata est: <milestone unit="section" n="pr-29"/>Apud <placeName>Steth<hi rend="ligature">ae</hi>um</placeName>
                <lb n="3"/><persName type="divinity"><hi rend="ligature">Ae</hi>sculapii</persName> fanum <hi rend="grave">e</hi> saxo percusso aquam elicuit, quam sitibunda

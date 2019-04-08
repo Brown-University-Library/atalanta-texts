@@ -41,7 +41,7 @@
                         <l>That <choice><orig>th'</orig><reg>the</reg></choice> Infant in the world alive may come,</l>
                         <l>His <choice><orig>prowesse</orig><reg>prowess</reg></choice> will the Heroes all <choice><orig>outdoe</orig><reg>outdo</reg></choice></l>
                         <l>In art, in hand, in mind, and body too.</l>
-                        <l><choice><orig>Thinke</orig><reg>Think</reg></choice> him <choice><orig>noe</orig><reg>no</reg></choice> Cæso, nor abortive brood,</l>
+                        <l><choice><orig>Thinke</orig><reg>Think</reg></choice> him <choice><orig>noe</orig><reg>no</reg></choice> Cœso, nor abortive brood,</l>
                         <l>Nor yet Agrippa, for his <choice><orig>starre</orig><reg>star</reg></choice> was good.</l>
                     </lg>
                 </div>
@@ -51,7 +51,7 @@
                 <milestone unit="page" ed="Meier" n="014"/>
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="014"/>
-                    <head rend="italics">Discourse i.</head><note place="margin" hand="1">D Powell 1821</note>
+                    <head rend="italics">Discourse 1.</head><note place="margin" hand="1">D Powell 1821</note>
                    
                         <div type="discourse-p1"><ab> 
                         <lb/><milestone unit="section" n="e01-01" />Hermes the most industrious inquisitor into every <choice><orig>naturall</orig><reg>natural</reg></choice> secret doth
@@ -79,7 +79,7 @@
                         <lb/><seg rend="underline" hand="2">that is</seg>, o<seg rend="underline" hand="2">f water elevating earth with it into an airy rarit</seg>y, <seg rend="underline" hand="2">and of earth</seg>
                         <lb/><seg rend="underline" hand="2">forcing <choice><orig>aire</orig><reg>air</reg></choice> to</seg> <seg rend="underline" hand="2"><choice><orig>returne</orig><reg>return</reg></choice> into a <choice><orig>watry</orig><reg>watery</reg></choice> earth</seg> or <seg rend="underline" hand="2">earthy water:</seg> <milestone unit="section" n="e01-08" />for <seg rend="underline" hand="2">the Ele</seg>
                         <lb break="no"/><seg rend="underline" hand="2">ments being <choice><orig>alltogether</orig><reg>altogether</reg></choice> in it,</seg> and mixed, and subdued and re<seg rend="underline" hand="2">duced together</seg>
-                        <lb/><seg rend="underline" hand="2">into a viscous nature,</seg> th<seg rend="underline" hand="2">ey <choice><orig>doe</orig><reg>do</reg></choice> not easily recede one from the other</seg>, <hi rend="superscript">1</hi>but
+                        <lb/><seg rend="underline" hand="2">into a viscous nature,</seg> th<seg rend="underline" hand="2">ey <choice><orig>doe</orig><reg>do</reg></choice> not easily recede one from the other</seg>,<hi rend="superscript">1</hi> but
                         <lb/><hi rend="superscript">3</hi>either <hi rend="superscript">5</hi>the <hi rend="superscript">6</hi>volatile <hi rend="superscript">2</hi><choice><orig>doe</orig><reg>do</reg></choice> <hi rend="superscript">4</hi>follow <hi rend="superscript">7</hi>above, <hi rend="superscript">8</hi>or <choice><orig>remayne</orig><reg>remain</reg></choice> below with the fixed, the
                         <lb/>first whereof is evident in <choice><orig>coḿon</orig><reg>common</reg></choice> Mercury, the other in the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice>
                         <lb/>and fixed <choice><orig>metalls</orig><reg>metals</reg></choice>: in these the fixed Elements <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>prædominate</orig><reg>predominate</reg></choice> <add hand="2">over</add> the volatile,
@@ -92,7 +92,7 @@
                         <lb/>out of <choice><orig>bodyes</orig><reg>bodies</reg></choice>, and bring them <choice><orig>backe</orig><reg>back</reg></choice> <choice><orig>againe</orig><reg>again</reg></choice>, and <choice><orig>doe</orig><reg>do</reg></choice> many such contrary
                         <lb/>things, <choice><orig>hee</orig><reg>he</reg></choice> exquisitely <choice><orig>repræsents</orig><reg>represents</reg></choice> the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> Mercury. <milestone unit="section" n="e01-11" />Mercury there
                         <lb break="no"/>fore is wind, which takes Sulphur or Dionysius, or, if you had rather, <choice><orig>Æscu
-                        <lb/>lapius</orig><reg>Aesculapius</reg></choice>, beging yet an imperfect Embryo, out of the mothers belly, or even out<note place="margin" hand="2">becomes Volatile</note>
+                        <lb break="no"/>lapius</orig><reg>Aesculapius</reg></choice>, beging yet an <seg rend="underline" hand="2">imperfect</seg> Embryo, out of the mothers belly, or even out<note place="margin" hand="2">becomes Volatile</note>
                         <lb/>of the ashes of the mothers body burned, and <choice><orig>carryes</orig><reg>carries</reg></choice> it thither, where it <pc>-</pc>
                         <lb/>may <seg rend="underline" hand="2">be matured</seg>; <milestone unit="section" n="e01-12" />and the Embryo is Sulphur, which is infused into <pc>-</pc><note place="margin" hand="2">digested &amp; fix'd</note>
                         <lb/>the belly of Boreas by the <choice><orig>cælestiall</orig><reg>celestial</reg></choice> <choice><orig>Sunne</orig><reg>Sun</reg></choice>, that <choice><orig>hee</orig><reg>he</reg></choice> may bring it <pc>-</pc>
@@ -113,19 +113,19 @@
                         <lb break="no"/>ject to that <choice><orig>evill</orig><reg>evil</reg></choice>, which then <choice><orig>shews</orig><reg>shows</reg></choice> to Jason the <choice><orig>Physitian</orig><reg>Physician</reg></choice> the way to
                         <lb/><choice><orig>obtaine</orig><reg>obtain</reg></choice> the golden fleece. <milestone unit="section" n="e01-15" />These winds our countryman Basill amongst
                         <lb/>others <choice><orig>allso</orig><reg>also</reg></choice> takes notice of, and plainly <choice><orig>sayth</orig><reg>says</reg></choice>: <subst><del>The</del><add><seg rend="underline" hand="2">A double</seg></add></subst><seg rend="underline" hand="2">wind</seg> ought to <subst><del>come</del><add>arise</add></subst>;<note place="margin" hand="2">absurdly described</note>
-                        <lb/><del>that</del>called Vulturnus, and <subst><del>after that one</del><add>; then a single wind</add></subst>, ca<seg rend="underline" hand="2">lled Notu</seg>s, which <subst><del>must</del><add>will</add></subst>blow<note place="margin" hand="2">Naaman comes <lb/>from the north</note>
+                        <lb/><del>that</del> called Vulturnus, and <subst><del>after that one</del><add>; then a single wind</add></subst>, ca<seg rend="underline" hand="2">lled Notu</seg>s, which <subst><del>must</del><add>will</add></subst>blow<note place="margin" hand="2">Naaman comes <lb/>from the north</note>
                         <lb/>from the East and South impetuously, whose motion ceasing, <choice><orig>soe</orig><reg>so</reg></choice> as wa
                         <lb break="no"/>ter to be made of <choice><orig>aire</orig><reg>air</reg></choice>, you <subst><del>may</del><add>will</add></subst>confidently <choice><orig>beleive</orig><reg>believe</reg></choice>, th<seg rend="underline" hand="2">at a <choice><orig>corporall</orig><reg>corporal</reg></choice></seg> <pc>-</pc>
                         <lb/><seg rend="underline" hand="2">thing will be made of a <choice><orig>spirituall</orig><reg>spiritual</reg></choice></seg>. <milestone unit="section" n="e01-16" />And Ripley gate 8. <choice><orig>sayth</orig><reg>says</reg></choice>, that <pc>-</pc>
                         <lb/>our Infant ought to be <choice><orig>borne</orig><reg>born</reg></choice> <choice><orig>againe</orig><reg>again</reg></choice> in <choice><orig>aire</orig><reg>air</reg></choice>, that is, in the belly of
                         <lb/>wind: <milestone unit="section" n="e01-17" /><choice><orig>Sayth</orig><reg>Says</reg></choice> Scala Philosophorum, degree 6. after the same sense thus:
                         <lb/>You must know that the <choice><orig>Sonne</orig><reg>Son</reg></choice> of the wise is <choice><orig>borne</orig><reg>born</reg></choice> in the <choice><orig>aire</orig><reg>air</reg></choice>: <milestone unit="section" n="e01-18" />and
-                        <lb/>degree 8: Airy Spirits ascending together into the <choice><orig>aire</orig><reg>air</reg></choice> <choice><orig>doe</orig><reg>do</reg></choice> love <subst><del>them</del><add>one<pc rend="double-hyphen">-</pc></add></subst>
+                            <lb/>degree 8: Airy Spirits ascending together into the <choice><orig>aire</orig><reg>air</reg></choice> <choice><orig>doe</orig><reg>do</reg></choice> love <subst><del>them</del><pc rend="double-hyphen">-</pc><add>one</add></subst>
                         <lb/><subst><del>selves</del><add>another</add></subst>, as Hermes <choice><orig>sayth</orig><reg>says</reg></choice>, the wind <choice><orig>carryd</orig><reg>carried</reg></choice> him in its belly: because <pc>-</pc>
                         <lb/>the generation of our <choice><orig>Sonne</orig><reg>Son</reg></choice> is made in the <choice><orig>aire</orig><reg>air</reg></choice>, and being <choice><orig>borne</orig><reg>born</reg></choice> <pc>-</pc>
                         <lb/>in the <choice><orig>aire</orig><reg>air</reg></choice> is <choice><orig>borne</orig><reg>born</reg></choice> wisely: for <choice><orig>hee</orig><reg>he</reg></choice> ascends from earth to heaven, and
                         <lb/><choice><orig>againe</orig><reg>again</reg></choice> descends to earth acquiring both the <choice><orig>superiour</orig><reg>superior</reg></choice> and <choice><orig>inferiour</orig><reg>inferior</reg></choice>
-                        <lb/>virtue. <pc>- - - - - - - - - - - - -</pc>
+                        <lb/>virtue. <pc>. . . . . . . . . . . . .</pc>
                     </ab>   </div>
                 </div>
                 
