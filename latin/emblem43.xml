@@ -136,7 +136,7 @@
                      <lb n="21"/>de Ph<hi rend="ligature">oe</hi>nice ave scribit, huic <hi rend="ligature">ae</hi>qu<hi rend="grave">e</hi> (quia eadem est) convenit:
                      <lb n="22"/><quote rend="italic"><!-- this is AL 647.5-6, which is attributed erroneously to Ausonius, not Vergil-->Alipedem cervum corvus ter vincit, at illum
                         <lb n="23"/>Multiplicat novies Ph<hi rend="ligature">oe</hi>nix reparabilis ales:</quote>
-                     <lb n="24" xml:id="l24"/><milestone unit="section" n="e43-23"/>Hujus nidos attingere vald<hi rend="grave">e</hi> difficil<hi rend="grave">e</hi> est: Cum serpente Mercuriali pugnat,
+                     <lb n="24" xml:id="l24"/><seg rend="smaller"><milestone unit="section" n="e43-23"/>Hujus nidos attingere vald<hi rend="grave">e</hi> difficil<hi rend="grave">e</hi> est: Cum serpente Mercuriali pugnat,
                      <lb n="25" xml:id="l25"/><expan><abbr>e<hi rend="acute">u</hi>mq<am>;</am></abbr><ex>ue</ex></expan> vincit, hoc est, Sol cum luna. <milestone unit="section" n="e43-24"/>Ex vento concipitur, <g type="ampersand">et</g> in ventre ejus por
                      <lb n="26" xml:id="l26" break="no"/>tatur, <g type="ampersand">et</g> in aëre nascitur. <hi rend="ligature">Ae</hi>tites lapis lapillum <expan><abbr>hab<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>s</abbr></expan> intra se sonantem, <hi rend="grave">a</hi> multis
                      <lb n="27" xml:id="l27"/><expan><abbr>toti<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> dicitur. <milestone unit="section" n="e43-25"/>Unus saltem immusulus in nido <expan><abbr>Philos<am>.</am></abbr><ex>ophico</ex></expan> invenitur. Innocentissima
@@ -147,8 +147,7 @@
                         <lb n="32" xml:id="l32" break="no"/>gmentorum, <g type="ampersand">et</g> spiritus vel species, ibi similiter est: </quote><milestone unit="section" n="e43-27"/><hi rend="italic"><persName ref="https://viaf.org/viaf/12734759">Morienus</persName></hi>: <quote rend="italic">Conscendite alta montana,
                         <lb n="33" xml:id="l33"/>arboribus consita quia ibi lapis noster invenitur <g type="ampersand">et</g> absconditus est:</quote> <hi rend="italic">Et <persName ref="https://viaf.org/viaf/24571510">Hermes</persName>:</hi> <quote rend="italic">Recipite lapi
                         <lb n="34" xml:id="l34" break="no"/>dem benedictum, comminuite <g type="ampersand">et</g> lavate lapidem rubeum, de quo extrahitur, qui invenitur
-                        <lb n="35" xml:id="l35"/>in montibus <g type="ampersand">et</g> maxim<hi rend="grave">e</hi> aliquando in cloacis veteribus.</quote>
-                     <span style="0.75em;" from="#l24" to="#l35">Lines 24-35 smaller than the previous</span>
+                        <lb n="35" xml:id="l35"/>in montibus <g type="ampersand">et</g> maxim<hi rend="grave">e</hi> aliquando in cloacis veteribus.</quote></seg>
                   </ab></div>
             <fw type="catchword" place="bottom-right" xml:lang="de">Durch</fw>                  
             </div>            

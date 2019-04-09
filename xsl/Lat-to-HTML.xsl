@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-a<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl"
     xmlns:af="http://www.tei-c.org/ns/1.0"
@@ -109,6 +109,10 @@ a<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
         <xsl:apply-templates/>
     </xsl:template>
     
+    <xsl:template match="af:seg[@rend='smaller']">
+        <span class="smaller"><xsl:apply-templates/></span>
+    </xsl:template>
+    
     <!--    Milestones and reference markers -->     
     <xsl:template match="af:milestone">
         <span class="milestone atalanta-fugiens"><xsl:value-of select="@n"/></span>
@@ -158,13 +162,21 @@ a<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     
     <xsl:template match="af:l">
         <xsl:choose>
-            <xsl:when test="number(preceding-sibling::af:lb[1]/@n) mod 2 = 0">
-                <span class="v-line-indent"><xsl:apply-templates/></span>  
+            <xsl:when test="ancestor::af:div[@type='epigram']">
+                <xsl:choose>
+                    <xsl:when test="number(preceding-sibling::af:lb[1]/@n) mod 2 = 0">
+                        <span class="v-line-indent"><xsl:apply-templates/></span>  
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <span class="v-line"><xsl:apply-templates/></span>  
+                    </xsl:otherwise>
+                </xsl:choose>
             </xsl:when>
-            <xsl:otherwise>
-                <span class="v-line"><xsl:apply-templates/></span>  
-             </xsl:otherwise>
+            <xsl:when test="ancestor::af:div[@type='discourse-p1'] or ancestor::af:div[@type='discourse-p2']">
+                <span class="v-line-discourse"><xsl:apply-templates/></span>
+            </xsl:when>
         </xsl:choose>
+        
        
     </xsl:template>
     
@@ -191,10 +203,6 @@ a<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
            <xsl:apply-templates/>
        </span>
    </xsl:template>
-    
-    <xsl:template match="af:hi[@rend='italics']">
-        <span class="italics"><xsl:apply-templates/></span>
-    </xsl:template>
     
     <xsl:template match="af:hi[@rend='superscript']">
         <span class="superscript"><xsl:apply-templates/></span>
@@ -245,11 +253,18 @@ a<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
         <span class="original"><xsl:apply-templates/></span>
     </xsl:template>
     
-    <xsl:template match="af:q">
-        <span class="quote"><xsl:apply-templates/></span>
+    <xsl:template match="af:quote">
+        <xsl:choose>
+            <xsl:when test="@rend='italic' or @rend='smallCaps'" >
+                <span class="{@rend}"><xsl:apply-templates/></span>
+            </xsl:when>
+            <!-- deal with indent -->
+            <xsl:otherwise><xsl:apply-templates/></xsl:otherwise>
+        </xsl:choose>
+        
     </xsl:template>
      
-    <xsl:template match="af:hi[@rend='italic'] | af:hi[@rend='gothic'] | af:hi[@rend='latin'] | af:hi[@rend='caps'] | af:hi[@rend='raised']">
+    <xsl:template match="af:hi[@rend='italic'] | af:hi[@rend='gothic'] | af:hi[@rend='latin'] | af:hi[@rend='smallCaps'] | af:hi[@rend='caps'] | af:hi[@rend='raised']">
         <span class="{@rend}"><xsl:apply-templates/></span>
     </xsl:template>
     
@@ -383,7 +398,7 @@ a<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     <xsl:template match="af:hi[@rend='stroke']" mode="abbrev">
         <xsl:choose>
             <xsl:when test=".='p'">ꝑ</xsl:when>
-            <xsl:when test=".='q'">ꝙ</xsl:when>
+            <xsl:when test=".='q'">ꝙ</xsl:when><!-- &#xA759 -->
             <xsl:when test=".='v'">℣</xsl:when>  <!-- versicle -->
         </xsl:choose>
     </xsl:template>
@@ -407,11 +422,12 @@ a<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
         <xsl:text>ē</xsl:text>
     </xsl:template>
     
-    <xsl:template match="af:hi[@rend='tail']" mode="abbrev">
-        <xsl:text>ɋ</xsl:text>
+    <xsl:template match="af:hi[@rend='bar']" mode="abbrev">
+        <xsl:text>ɋ</xsl:text><!-- &#xA757 -->
     </xsl:template>
     
-    <xsl:template match="af:hi[@rend='acute tail']" mode="abbrev">
+    
+    <xsl:template match="af:hi[@rend='acute stroke']" mode="abbrev">
         <xsl:text>ɋ&#x301;</xsl:text>
     </xsl:template>
     
@@ -427,7 +443,7 @@ a<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     
     <!-- at some point, check these- either used for indexing or might need formating in some cases. Put into encodingDesc -->
     
-    <xsl:template match="af:persName | af:placeName | af:orgName | af:quote | af:num | 
+    <xsl:template match="af:persName | af:placeName | af:orgName | af:num | 
         af:title | af:foreign | af:name | af:date">
         <xsl:apply-templates/>
     </xsl:template>

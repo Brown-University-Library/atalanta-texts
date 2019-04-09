@@ -74,7 +74,7 @@
                <pb n="198" edRef="Maier1618"/>
                <fw type="pageNum" place="top-left">198</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="47">XLVII</num>.</fw>
                   <div type="discourse-p1"><ab>
-                     <lb n="1"/><milestone unit="section" n="e47-01"/><hi rend="caps">Philosophi</hi> multis in locis duorum memin<hi rend="circumflex">e</hi>re lapidum gratis
+                     <lb n="1"/><milestone unit="section" n="e47-01"/>Philosophi multis in locis duorum memin<hi rend="circumflex">e</hi>re lapidum gratis
                      <lb n="2"/>nobis datorum, ut <persName>Isaac</persName>, <persName ref="http://viaf.org/viaf/100189814">Arnoldus</persName> <g type="ampersand">et</g> ali<hi rend="circumflex">i</hi>, inter quos <persName ref="https://viaf.org/viaf/89770781">Avicenna</persName>
                      <lb n="3"/>dicit eos in stercore jacere abjectos, neglectos vulg<hi rend="grave">o</hi>, qui si conjun
                      <lb n="4" break="no"/>gantur, perficiant magisterium: <milestone unit="section" n="e47-02"/>Quidam attollunt Mercurium oc
@@ -103,7 +103,7 @@
                      <lb n="27"/>intulerat cani, ab eo recipiens, donec se mutuis conficiant <g type="ampersand">et</g> interi
                      <lb n="28" break="no"/>mant morsibus: <milestone unit="section" n="e47-10"/>De lupo <persName ref="https://viaf.org/viaf/79142489"><hi rend="italic">Rosinus</hi></persName> ad <persName>Euthiciam</persName>; inquit <quote rend="italic">quod sit miles
                         <lb n="29"/>victor duorum roboratus multi precii <g type="ampersand">et</g> intensissimi roboris, <expan><abbr>perfor<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>s</abbr></expan> corpo
-                        <lb n="30" break="no"/>ra cum iis obviat, <g type="ampersand">et</g> est albus apparitione, rubeus experimento, <expan><abbr>est<hi rend="acute tail">q</hi></abbr><ex>ue</ex></expan> mas
+                        <lb n="30" break="no"/>ra cum iis obviat, <g type="ampersand">et</g> est albus apparitione, rubeus experimento, <expan><abbr>est<hi rend="acute stroke">q</hi></abbr><ex>ue</ex></expan> mas
                      <lb n="31"/>qui lunam duxit in uxorem, quem nonnulli putant aurum esse preciosissim<hi rend="ligature">ae</hi>
                      <lb n="32"/><expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>n</ex><abbr>nexionis</abbr></expan>, cujus congelatum nunquam dissolvitur, neque vestigia delentur
                         <lb n="33"/>quod Deus sanctis Philosophis <g type="ampersand">et</g> electis largitus est: Scito, quod natura cepit</quote>

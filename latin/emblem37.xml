@@ -108,9 +108,9 @@
                      <lb n="29" break="no"/>runt, c<hi rend="grave">u</hi>m ipsi essent stultiti<hi rend="ligature">ae</hi> poti<hi rend="grave">u</hi>s coarguendi, qui vinum <persName ref="http://viaf.org/viaf/120696927">Lullii</persName>
                      <lb n="30"/>nunquam gust<hi rend="circumflex">a</hi>runt; <milestone unit="section" n="e37-10"/>At <persName ref="http://viaf.org/viaf/120696927">Lullium</persName> <persName ref="https://viaf.org/viaf/172539947">aureus ille poëta</persName> meli<hi rend="grave">u</hi>s intellexit,
                      <lb n="31"/>qui <title ref="https://viaf.org/viaf/223472326"><expan><abbr>Chrysop<am>.</am></abbr><ex>oeiae</ex></expan></title> <expan><abbr>lib<am>.</am></abbr><ex>ro</ex></expan> <num value="1" type="ordinal">1</num>. ita canit:
-                     <lb n="32"/><quote rend="italic indent">At non ille quidem sensit, qu<hi rend="ligature">ae</hi> dicere prim<hi rend="circumflex">a</hi>
-                     <lb n="33"/>Est facie visus, neque um stillantia vina
-                     <lb n="34"/>Miscebat, <expan><abbr><g type="ampersand">et</g>c<am>.</am></abbr><ex>aetera</ex></expan>.</quote>
+                     <lb n="32"/><quote rend="italic"><lg><l>At non ille quidem sensit, qu<hi rend="ligature">ae</hi> dicere prim<hi rend="circumflex">a</hi></l>
+                     <lb n="33"/><l>Est facie visus, neque um stillantia vina</l>
+                     <lb n="34"/><l>Miscebat, <expan><abbr><g type="ampersand">et</g>c<am>.</am></abbr><ex>aetera</ex></expan>.</l></lg></quote>
                   </ab></div>
                   <fw type="catchword" place="bottom-right">Post</fw>
                <pb n="159" edRef="Maier1618"/>
