@@ -29,24 +29,24 @@
             <pb n="16" edRef="Maier1618"/>
             <fw type="pageNum" place="top-left">16</fw> <fw type="header" place="top-center">FUGA II. in Quinta, infr<hi rend="grave">a</hi>.</fw>
             <div type="fugue" xml:lang="de">
-               <head><lb n="1"/>Sein Saugmutter ist die Erden.</head>
+               <head><lb n="1"/>Sein Saügmutter ist die Erden.</head>
             </div>
             
             <div type="epigram" xml:lang="de">
                <head>II. Epigrammatis Latini versio Germanica.</head>
                <lg>
                   <lb n="1"/><l><persName>Romulus</persName> von einer Wölffin ist <pc>/</pc> aber <persName>Jupiter</persName> gesäuget</l>
-                  <lb n="2"/><l>Von einer Geiß<pc>/</pc> wir solchs das Gerüchte bezeuget.</l>
+                  <lb n="2"/><l>Von einer Geiß<pc>/</pc> wir solches das Gerüchte bezeuget.</l>
                   <lb n="3"/><l>Was Wunder ist <pc>/</pc> so wir sagen <pc>/</pc> daß der Weisen Kind ernehret</l>
-                  <lb n="4"/><l>Sen von der Erd <pc>/</pc> so ihm ihre Milch hat gewehret?</l>
+                  <lb n="4"/><l>Sey von der Erd <pc>/</pc> so ihm ihre Milch hat gewehret?</l>
                   <lb n="5"/><l>So dann die Thier gespeiset <expan><abbr>ha</abbr><ex>be</ex><abbr>n</abbr></expan> solche grosse Helden gewiß <pc>/</pc></l>
-                  <lb n="6"/><l>Wie groß mag dann der senn <pc>/</pc> <choice><reg>dessen</reg><orig>dessin</orig></choice> die Erd Säugmutter ist?</l>
+                  <lb n="6"/><l>Wie groß mag dann der seyn <pc>/</pc> <choice><reg>dessn</reg><orig>dessin</orig></choice> die Erd Säugmutter ist?</l>
                </lg>
             </div>
             
             <fw type="catchword" place="bottom-right">Emble-</fw>
             <pb n="13" edRef="Maier1618"/>
-            <fw type="header">Emblema II.<hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">17</fw>
+            <fw type="header" place="top-center">Emblema II.<hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">17</fw>
 
             <div type="image" xml:lang="la">
                <head>

@@ -173,7 +173,7 @@
                 </xsl:choose>
             </xsl:when>
             <xsl:when test="ancestor::af:div[@type='discourse-p1'] or ancestor::af:div[@type='discourse-p2']">
-                <span class="v-line-discourse"><xsl:apply-templates/></span>
+                <span class="v-line-discoursel"><xsl:apply-templates/></span>
             </xsl:when>
         </xsl:choose>
         
