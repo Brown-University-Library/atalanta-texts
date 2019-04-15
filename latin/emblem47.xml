@@ -25,7 +25,7 @@
       <body>
          <div type="emblem" n="e47">
             <pb n="196" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left">196</fw><fw type="header" place="top-center">FUGA <num value="47" type="cardinal">XLVII</num>. in <num value="8">8</num>. duplici suprà.</fw>
+            <fw type="pageNum" place="top-left">196</fw><fw type="header" place="top-center">FUGA <num value="47">XLVII</num>. in 8. duplici suprà.</fw>
             
             <div type="fugue" xml:lang="de">
                <head>
@@ -36,7 +36,7 @@
             </div>
             
             <div type="epigram" xml:lang="de">
-               <head><num value="47" type="cardinal">XLVII</num>. Epigrammatis Latini versio Germanica.</head>
+               <head><num value="47">XLVII</num>. Epigrammatis Latini versio Germanica.</head>
                <lg>
                   <lb n="1"/><l>Der Wolff von Auffgang der Sonnen <pc>/</pc> aber der Hund kompt gelauf<pc>=</pc> <hi rend="sling-below">fen<pc>/</pc></hi></l>
                   <lb n="2"/><l>Vom Nidergang <pc>/</pc> diese beyd haben der Galln ein hauffen <pc>/</pc></l>
@@ -50,14 +50,14 @@
             
             <pb n="197" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="47" type="cardinal">XLVII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">197</fw>
+            <fw type="header" place="top-center">Emblema <num value="47">XLVII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">197</fw>
             
             <div type="image" xml:lang="la">
                <head><lb n="1"/>Lupus ab Oriente <g type="ampersand">et</g> Canis ab Occidente venientes se
                   <lb n="2"/>invicem momorderunt.</head>
             </div>            
             <div type="epigram" xml:lang="la">
-               <head>Epigramma <num value="47" type="cardinal">XLVII</num>.</head>
+               <head>Epigramma <num value="47">XLVII</num>.</head>
                <lg>
                   <lb n="1"/><l>Hinc, ubi Sol oritur, Lupus advenit, ast ubi Ponte</l>
                   <lb n="2"/><l>Mergitur, inde canis, qui duo bile tument:</l>
@@ -72,7 +72,7 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="198" edRef="Maier1618"/>
-               <fw type="pageNum" place="top-left">198</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="47">XLVII</num>.</fw>
+               <fw type="pageNum" place="top-left">198</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi>. <num value="47">XLVII</num>.</fw>
                   <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e47-01"/>Philosophi multis in locis duorum memin<hi rend="circumflex">e</hi>re lapidum gratis
                      <lb n="2"/>nobis datorum, ut <persName>Isaac</persName>, <persName ref="http://viaf.org/viaf/100189814">Arnoldus</persName> <g type="ampersand">et</g> ali<hi rend="circumflex">i</hi>, inter quos <persName ref="https://viaf.org/viaf/89770781">Avicenna</persName>
@@ -110,7 +110,7 @@
                   </ab></div>
                   <fw type="catchword" place="bottom-right">com-</fw>
                <pb n="199" edRef="Maier1618"/>
-               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="47">XLVII</num>.</fw> <fw type="pageNum" place="top-right">199</fw>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="47">XLVII</num>.</fw> <fw type="pageNum" place="top-right">199</fw>
                   <div type="discourse-p2"><ab>
                      <lb n="1"/><quote rend="italic">comparem ut inimicum: H<hi rend="ligature">ae</hi>c ille.</quote> <milestone unit="section" n="e47-11"/>Et mox: <quote rend="italic">quod sulphur</quote>, inquit, <quote rend="italic">fortissimam
                         <lb n="2"/>est <g type="ampersand">et</g> ad versus ignem pugnans quod continet <g type="ampersand">et</g> continetur: Ex his nam

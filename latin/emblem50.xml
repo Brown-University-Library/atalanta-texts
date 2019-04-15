@@ -24,7 +24,7 @@
       <body>
          <div type="emblem" n="e50">
             <pb n="208" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left">208</fw><fw type="header" place="top-center">FUGA <num value="50" type="cardinal">L</num>. in 3. seu 10. infr<hi rend="grave">a</hi>.</fw>
+            <fw type="pageNum" place="top-left">208</fw><fw type="header" place="top-center">FUGA <num value="50">L</num>. in 3. seu 10. infrà.</fw>
             
             <div type="fugue" xml:lang="de">
                <head>
@@ -73,7 +73,7 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="210" edRef="Maier1618"/>
-               <fw type="pageNum" place="top-left">210</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="50">L</num>.</fw>
+               <fw type="pageNum" place="top-left">210</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="50">L</num>.</fw>
                   <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e50-01"/> Draconum mansio in cavernis terr<hi rend="ligature">ae</hi> est, hominum ver<hi rend="grave">o</hi> supra
                      <lb n="2"/>terram in aëre proximo; qu<hi rend="ligature">ae</hi> duo sunt elementa contraria <g type="ampersand">et</g>
@@ -112,7 +112,7 @@
                <fw type="catchword" place="bottom-right"><hi rend="italic">post</hi></fw>
                   
                <pb n="211" edRef="Maier1618"/>
-               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="50">L</num>.</fw> <fw type="pageNum" place="top-right">211</fw>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="50">L</num>.</fw> <fw type="pageNum" place="top-right">211</fw>
                   <div type="discourse-p2"><ab>
                      <lb n="1"/><quote rend="italic">post distillationem aqu<hi rend="ligature">ae</hi> ab ea:</quote> <milestone unit="section" n="e50-11"/> Et ex <persName ref="http://viaf.org/viaf/24571510">Hermete</persName>: <quote rend="italic">Aqua aëris inter c<hi rend="ligature">oe</hi>lum <g type="ampersand">et</g>
                      <lb n="2"/>terram existens est vita unius cujusque rei. Ipsa enim aqua solvit corpus in spi

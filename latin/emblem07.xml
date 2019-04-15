@@ -28,7 +28,7 @@
          <div type="emblem" n="e7">
             
             <pb n="36" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left">36</fw> <fw type="header" place="top-center">FUGA VII. in 3. seu 10. supr<hi rend="grave">a</hi>.</fw>
+            <fw type="pageNum" place="top-left">36</fw> <fw type="header" place="top-center">FUGA VII. in 3. seu 10. suprà.</fw>
             
             <div type="fugue" xml:lang="de">
                <head>
@@ -75,7 +75,7 @@
             
            <fw type="gathering">E 3</fw> <fw type="catchword" place="bottom-right">Quod</fw>
             <pb n="38" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left">38</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="7">VII</num>.</fw>
+            <fw type="pageNum" place="top-left">38</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="7">VII</num>.</fw>
             
             <div type="discourse" xml:lang="la">
                   <div type="discourse-p1"><ab>
@@ -117,7 +117,7 @@
                
                <fw type="catchword" place="bottom-right">rat</fw>
                <pb n="39" edRef="Maier1618"/>
-               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="7">VII</num>.</fw> <fw type="pageNum" place="top-right">39</fw>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="7">VII</num>.</fw> <fw type="pageNum" place="top-right">39</fw>
  
               <div type="discourse-p2">
                  <ab>

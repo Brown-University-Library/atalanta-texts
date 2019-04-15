@@ -71,7 +71,7 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="102" edRef="Maier1618"/>
-               <fw type="pageNum" place="top-left">102</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="23">XXIII</num>.</fw>
+               <fw type="pageNum" place="top-left">102</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="23">XXIII</num>.</fw>
                   <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e23-01"/>Aurum aliquando in terras pluisse, nisi allegoric<hi rend="grave">e</hi> intelligere
                      <lb n="2" break="no"/>tur, insania esset, affirmare: Non enim sunt fluvii auriferi aut
@@ -85,7 +85,7 @@
                      <lb n="10"/>Emblematis, nihil iis absurdius, si mentem, nil verius existit. <milestone unit="section" n="e24-04"/>Est
                      <lb n="11"/>autem <placeName>Rhodos</placeName> insula prim<hi rend="grave">o</hi> <placeName>Ophiusa</placeName> dicta ob serpentum multitu
                      <lb n="12" break="no"/>dinem, post <placeName>Rhodos</placeName> <hi rend="grave">a</hi> rosetis ibidem florentibus, <expan><abbr>deniq<am>;</am></abbr><ex>ue</ex></expan> <g type="ampersand">et</g> <persName>Colossi
-                     <lb n="13" break="no"/>cola</persName> <hi rend="grave">a</hi> Colosso solis, qui ibidem existens inter <num value="7" type="cardinal">7</num>. orbis miracula nu
+                     <lb n="13" break="no"/>cola</persName> <hi rend="grave">a</hi> Colosso solis, qui ibidem existens inter <num value="7">7</num>. orbis miracula nu
                      <lb n="14" break="no"/>meratus fuit. <milestone unit="section" n="e23-05"/>Hinc antiqui Philosophi, c<hi rend="grave">u</hi>m eorum materia mercu
                      <lb n="15" break="no"/>rialis cruda instar serpentis se habeat, postea ver<hi rend="grave">o</hi> pr<hi rend="ligature">ae</hi>parata <g type="ampersand">et</g>
                      <lb n="16"/>cocta Ros<hi rend="ligature">ae</hi> purpureum assumat colorem, <hi rend="grave">a</hi> <placeName>Rhodo</placeName> insula quas
@@ -94,13 +94,13 @@
                      <lb n="19" break="no"/>ret: <milestone unit="section" n="e23-06"/>Hoc primitus tropic<hi rend="grave">e</hi> dictum ansam pr<hi rend="ligature">ae</hi>buit, cur <orgName>Rhodii</orgName> su
                      <lb n="20" break="no"/>perbiores facti, quia tanti D<hi rend="grave">i</hi>i apud ipsos liberis operam dederint,
                      <lb n="21"/><persName>Solis</persName> quasi idolum stupenda magnitudine <g type="ampersand">et</g> sumptu erexerint. <milestone unit="section" n="e23-07"/>Fuit
-                     <lb n="22"/>enim, ut tradunt histori<hi rend="ligature">ae</hi>, ille colossus <num value="70" type="cardinal">70</num>. cubitorum altitudinis ita
+                     <lb n="22"/>enim, ut tradunt histori<hi rend="ligature">ae</hi>, ille colossus <num value="70">70</num>. cubitorum altitudinis ita
                      <lb n="23"/>positus, ut naves expansis velis inter crura ejus tendere possent:
                      <lb n="24"/><milestone unit="section" n="e23-08"/>Digiti <hi rend="ligature">ae</hi>quabant vulgares statuas <g type="ampersand">et</g> pauci pollicem amplecti potu
                      <lb n="25" break="no"/>erunt: <milestone unit="section" n="e23-09"/>Artifex fuit <persName ref="https://viaf.org/viaf/96594267">Chares Lyndius</persName> <persName ref="https://viaf.org/viaf/297421082">Lysippi</persName> discipulus, <hi rend="grave">a</hi> quo factus
                      <lb n="26"/>est annis duodecim: <milestone unit="section" n="e23-10"/>Post quinquagesimum sextum annum terr<hi rend="ligature">ae</hi>
                      <lb n="27" break="no"/>motu prostratus, etiam jacens fuit miraculo: <milestone unit="section" n="e23-11"/><persName>Soldanus</persName> <orgName><hi rend="ligature">Ae</hi>gypti</orgName>,
-                     <lb n="28"/>c<hi rend="grave">u</hi>m <placeName>Rhodum</placeName> occuparet, ex <hi rend="ligature">ae</hi>re hujus statu<hi rend="ligature">ae</hi> <num value="900" type="cardinal">900</num>. camelos oneras
+                     <lb n="28"/>c<hi rend="grave">u</hi>m <placeName>Rhodum</placeName> occuparet, ex <hi rend="ligature">ae</hi>re hujus statu<hi rend="ligature">ae</hi> <num value="900">900</num>. camelos oneras
                      <lb n="29" break="no"/>se fertur. <milestone unit="section" n="e23-12"/>Quod Sol est inter planetas, inquit Philosophus, id aurum
                      <lb n="30"/>est inter metalla; atque hoc soli inprimis appropriatur ab calorem,
                      <lb n="31"/>colorem, virtutem <g type="ampersand">et</g> essentiam: <milestone unit="section" n="e23-13"/>Hinc aurea pluvia debetur solis
@@ -110,7 +110,7 @@
                   </ab></div>
                   <fw type="catchword" place="bottom-right">lem</fw>
                <pb n="103" edRef="Maier1618"/>
-               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="23">XXIII</num>.</fw> <fw type="pageNum" place="top-right">103</fw>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="23">XXIII</num>.</fw> <fw type="pageNum" place="top-right">103</fw>
                   <div type="discourse-p2"><ab>
                      <lb n="1"/>lem hinc natam <placeName>Rhodum</placeName> revera esse oportet: <milestone unit="section" n="e23-14"/>Hic est formosus, ro
                      <lb n="2" break="no"/>sis similis, Philosophorum filius, qui omnium oculos <g type="ampersand">et</g> mentem ad

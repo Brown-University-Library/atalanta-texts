@@ -74,7 +74,7 @@
             
             <fw type="gathering" place="bottom-right">I 3</fw> <fw type="catchword" place="bottom-right">Ut</fw>
             <pb n="70" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left">70</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="15">XV</num>.</fw>
+            <fw type="pageNum" place="top-left">70</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi>. <num value="15">XV</num>.</fw>
             
             <div type="discourse" xml:lang="la">
                   <div type="discourse-p1"><ab>
@@ -115,7 +115,7 @@
                   </ab></div>
                   <fw type="catchword" place="bottom-right">rem</fw>
                <pb n="71" edRef="Maier1618"/>
-               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="15">XV</num>.</fw> <fw type="pageNum" place="top-right">71</fw>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi>. <num value="15">XV</num>.</fw> <fw type="pageNum" place="top-right">71</fw>
                <div type="discourse-p2"><ab>
                      <lb n="1"/>rem mors finiit: <milestone unit="section" n="e15-11"/> Non enim inde, in quo naturaliter non inest, peti
                      <lb n="2"/>debet aurum vel argentum, c<hi rend="grave">u</hi>m Magia diabolica in operibus hisce

@@ -71,7 +71,7 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="90" edRef="Maier1618"/>
-               <fw type="pageNum" place="top-left">92</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="20">XX</num>.</fw>
+               <fw type="pageNum" place="top-left">92</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="20">XX</num>.</fw>
                   <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e20-01"/>Commune Philosophorum symbolum est, quo se mutuo agno
                      <lb n="2" break="no"/>scant, naturam <hi rend="grave">a</hi> natura duci, doceri, regi, superari, nempe disci
@@ -110,7 +110,7 @@
                   </ab></div>
                   <fw type="catchword" place="bottom-right">tuntur</fw>
                <pb n="91" edRef="Maier1618"/>
-               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="20">XX</num>.</fw> <fw type="pageNum" place="top-right">91</fw>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="20">XX</num>.</fw> <fw type="pageNum" place="top-right">91</fw>
                   <div type="discourse-p2"><ab>
                      <lb n="1"/><expan><abbr>t<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>tur</abbr></expan>, qu<hi rend="grave">a</hi>m <persName ref="https://viaf.org/viaf/12734759">Morienus</persName> dicit esse <expan><abbr>quoq<am>;</am></abbr><ex>ue</ex></expan> fel vitri <g type="ampersand">et</g> in vitreis vasis <expan><abbr>qu</abbr><ex>a</ex><abbr><hi rend="hook">e</hi>
                      <lb break="no" n="2"/>r<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>d<hi rend="tilde">a</hi></abbr><ex>m</ex></expan>: Calor <expan><ex>e</ex><abbr>n<am>.</am></abbr><ex>im</ex></expan> ignis corpus ipsum festina <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>m</ex><abbr>bustione</abbr></expan> <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>n</ex><abbr>sumit</abbr></expan>: <milestone unit="section" n="e20-12"/>At Eu

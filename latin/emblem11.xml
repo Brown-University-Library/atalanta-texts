@@ -27,7 +27,7 @@
       <body>
          <div type="emblem" n="e11">
             <pb n="52" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left">52</fw> <fw type="header" place="top-center">FUGA XI. in 6. supr<hi rend="grave">a</hi>.</fw>
+            <fw type="pageNum" place="top-left">52</fw> <fw type="header" place="top-center">FUGA XI. in 6. suprà.</fw>
                         
             <div type="fugue" xml:lang="de">
                <head>
@@ -73,7 +73,7 @@
             
            <fw type="gathering">G <unclear cert="high">3</unclear></fw> <fw type="catchword" place="bottom-right">Tanta</fw>
             <pb n="54" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left">54</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="11">XI</num>.</fw>
+            <fw type="pageNum" place="top-left">54</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="11">XI</num>.</fw>
             
             <div type="discourse" xml:lang="la">
                   <div type="discourse-p1">
@@ -116,7 +116,7 @@
                   
                <fw type="catchword" place="bottom-right">d<hi rend="ligature">tur</hi></fw> 
                <pb n="55" edRef="Maier1618"/>
-               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="11">XI</num>.</fw> <fw type="pageNum" place="top-right">55</fw>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="11">XI</num>.</fw> <fw type="pageNum" place="top-right">55</fw>
 
                <div type="discourse-p2">
                      <ab>
@@ -133,7 +133,7 @@
                      <lb n="11"/><persName><expan><abbr>Laton<hi rend="tilde">a</hi></abbr><ex>m</ex></expan></persName> solis <g type="ampersand">et</g> Lun<hi rend="ligature">ae</hi> seu <persName>Apollinis</persName> <g type="ampersand">et</g> <persName>Dian<hi rend="ligature">ae</hi></persName> matrem statuunt, Alli
                      <lb n="12"/>nutricem. Pri<hi rend="grave">u</hi>s autem <persName><expan><abbr>Dian<hi rend="tilde">a</hi></abbr><ex>m</ex></expan></persName> editam (Luna enim <g type="ampersand">et</g> albedo prim<hi rend="grave">o</hi>
                      <lb n="13"/>apparet) qu<hi rend="ligature">ae</hi> deinde obstetricis munere functa sit <expan><abbr>e<hi rend="circumflex">a</hi>d<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> die in eden
-                     <lb n="14" break="no"/>do <pc>|</pc> suo fratre <persName>Apolline</persName>. <milestone unit="section" n="e11-15"/> Est autem <persName>Latona</persName> una ex <num value="12" type="cardinal">12<am>.</am></num> diis Hierogly
+                     <lb n="14" break="no"/>do <pc>|</pc> suo fratre <persName>Apolline</persName>. <milestone unit="section" n="e11-15"/> Est autem <persName>Latona</persName> una ex <num value="12">12<am>.</am></num> diis Hierogly
                      <lb n="15" break="no"/>phicis <orgName><expan><abbr><hi rend="ligature">Ae</hi>gyptior<hi rend="tilde">u</hi></abbr><ex>m</ex></expan></orgName>, <hi rend="grave">a</hi> <expan><abbr>quib<am>.</am></abbr><ex>us</ex></expan> <expan><abbr>h</abbr><ex>a</ex><abbr><hi rend="hook">e</hi>c</abbr></expan> <expan><abbr>ali<hi rend="ligature">ae</hi>q<am>;</am></abbr><ex>ue</ex></expan> <expan><abbr>allegori</abbr><ex>a</ex><abbr><hi rend="hook">e</hi></abbr></expan> ad reliquas <expan><abbr>g<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>tes</abbr></expan> pro
                      <lb n="16" break="no"/>pagat<hi rend="ligature">ae</hi> <expan><abbr>s<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>t</abbr></expan>, solis paucissimis <expan><abbr>sacerdotib<am>.</am></abbr><ex>us</ex></expan> <orgName><hi rend="ligature">Ae</hi>gyptiis</orgName> <expan><abbr>har<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <expan><abbr>ver<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> <expan><abbr>m<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>t<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> <g type="ampersand">et</g>
                      <lb n="17"/>sententiam intelligentibus, c<hi rend="ligature">ae</hi>teris omnibus ad alia subjecta, qu<hi rend="ligature">ae</hi>

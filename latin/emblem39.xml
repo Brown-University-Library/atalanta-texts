@@ -24,7 +24,7 @@
       <body>
          <div type="emblem" n="e39">
             <pb n="164" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left">164</fw><fw type="header" place="top-center">FUGA <num value="39" type="cardinal">XXXIX</num>. in <num value="3">3</num>. seu <num value="10">10</num>. suprà.</fw>
+            <fw type="pageNum" place="top-left">164</fw><fw type="header" place="top-center">FUGA <num value="39">XXXIX</num>. in 3. seu 10. suprà.</fw>
             
             <div type="fugue" xml:lang="de">
                <head>
@@ -38,7 +38,7 @@
             </div>
             
             <div type="epigram" xml:lang="de">
-               <head><num value="39" type="cardinal">XXXIX</num>. Epigrammatis Latini versio Germanica.</head>
+               <head><num value="39">XXXIX</num>. Epigrammatis Latini versio Germanica.</head>
                <lg>
                   <lb n="1"/><l>Es hat <hi rend="latin">Sphyngem</hi>, mit Rätzeln den <orgName>Thebanern</orgName> sehr erschrecklich <pc>/</pc></l>
                   <lb n="2"/><l>Der <persName><hi rend="latin">Oedypus</hi></persName> durch sein Kunst zum Todt gebracht listiglich.</l>
@@ -52,7 +52,7 @@
             
             <pb n="165" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="39" type="cardinal">XXXIX</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">165</fw>
+            <fw type="header" place="top-center">Emblema <num value="39">XXXIX</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">165</fw>
             
             <div type="image" xml:lang="la">
                <head><lb n="1"/><persName>Oedypus</persName> Sphynge superata <g type="ampersand">et</g> trucidato <persName>Lajo</persName> patre 
@@ -61,7 +61,7 @@
             </div>
             
             <div type="epigram" xml:lang="la">
-               <head>Epigramma <num value="39" type="cardinal">XXXIX</num>.</head>
+               <head>Epigramma <num value="39">XXXIX</num>.</head>
                <lg>
                   <lb n="1"/><l>Sphyngem <hi rend="ligature">ae</hi>nigmatico <placeName>Thebis</placeName> sermone timendam</l>
                   <lb n="2"/><l><persName>Oedypus</persName> ad propriam torserat arte necem:</l>
@@ -76,7 +76,7 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="166" edRef="Maier1618"/>
-               <fw type="pageNum" place="top-left">166</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="39">XXXIX</num>.</fw>
+               <fw type="pageNum" place="top-left">166</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="39">XXXIX</num>.</fw>
                   <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e39-01"/><persName>Bacasser</persName> <expan><abbr>Philos<am>.</am></abbr><ex>ophus</ex></expan> in <title ref="http://viaf.org/viaf/317093189">turba</title>, <expan><abbr><hi rend="bar">q</hi></abbr><ex>uod</ex></expan> qu<hi rend="ligature">ae</hi>ritis, <expan><abbr>in<hi rend="stroke">q</hi></abbr><ex>ui</ex><abbr>t</abbr></expan>, parvi nequaquam est
                      <lb n="2"/>precii: <expan><abbr>Thesaur<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <expan><ex>e</ex><abbr>n<am>.</am></abbr><ex>im</ex></expan> <expan><abbr>maxim<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <g type="ampersand">et</g> munus Dei <expan><abbr>excellentissim<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> qu<hi rend="ligature">ae</hi>
@@ -114,7 +114,7 @@
                   </ab></div>
                   <fw type="catchword" place="bottom-right"><hi rend="ligature">ae</hi>qui-</fw>
                <pb n="167" edRef="Maier1618"/>
-               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="39">XXXIX</num>.</fw> <fw type="pageNum" place="top-right">167</fw>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="39">XXXIX</num>.</fw> <fw type="pageNum" place="top-right">167</fw>
                   <div type="discourse-p2"><ab>
                      <lb n="1"/><expan><abbr><hi rend="ligature">ae</hi><hi rend="bar">q</hi></abbr><ex>ui</ex><abbr>vocatio</abbr></expan> errorem parit, <expan><abbr><hi rend="stroke">q</hi></abbr><ex>uod</ex></expan> Solis <expan><abbr>Philos<am>.</am></abbr><ex>ophici</ex></expan> non sol<hi rend="grave">u</hi>m <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>n</ex><abbr>cessum</abbr></expan>, sed <g type="ampersand">et</g>
                      <lb n="2"/><expan><abbr>imperat<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> est. <milestone unit="section" n="e39-12"/><expan><abbr><hi rend="ligature">Ae</hi>nigmatib<am>.</am></abbr><ex>us</ex></expan> <expan><abbr>itaq<am>;</am></abbr><ex>us</ex></expan> Sphyngis <placeName><expan><abbr>Thebar<hi rend="tilde">u</hi></abbr><ex>m</ex></expan></placeName> civitate diu ve

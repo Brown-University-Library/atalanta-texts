@@ -28,7 +28,7 @@
          <div type="emblem" n="e10">
             
             <pb n="48" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left">48</fw> <fw type="header" place="top-center">FUGA X. in 2. infr<hi rend="grave">a</hi>.</fw>
+            <fw type="pageNum" place="top-left">48</fw> <fw type="header" place="top-center">FUGA X. in 2. infrà.</fw>
                        
             <div type="fugue" xml:lang="de">
                <head>
@@ -74,7 +74,7 @@
             
            <fw type="gathering">G</fw> <fw type="catchword" place="bottom-right">H<hi rend="ligature">ae</hi>c</fw>
             <pb n="50" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left">50</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="10">X</num>.</fw>
+            <fw type="pageNum" place="top-left">50</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="10">X</num>.</fw>
             
             <div type="discourse" xml:lang="la">
                   <div type="discourse-p1"><ab>
@@ -117,7 +117,7 @@
                <fw type="catchword" place="bottom-right">d<hi rend="ligature">ae</hi></fw>
                   
                <pb n="51" edRef="Maier1618"/>
-               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="10">X</num>.</fw> <fw type="pageNum" place="top-right">51</fw>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="10">X</num>.</fw> <fw type="pageNum" place="top-right">51</fw>
                <div type="discourse-p2">
                   <ab>
                      <lb n="1"/>d<hi rend="ligature">ae</hi>, ex <expan><abbr>quib<am>.</am></abbr><ex>us</ex></expan> crud<hi rend="ligature">ae</hi> per <expan><abbr>coction<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> <expan><abbr>matur<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>d<hi rend="ligature">ae</hi></abbr></expan> sunt, aut matur<hi rend="ligature">ae</hi> <hi rend="grave">a</hi> super

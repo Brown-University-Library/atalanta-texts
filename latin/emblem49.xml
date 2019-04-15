@@ -24,7 +24,7 @@
       <body>
          <div type="emblem" n="e49">
             <pb n="204" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left">204</fw><fw type="header" place="top-center">FUGA <num value="49" type="cardinal">XLIX</num>. in <num value="5">5</num>. suprà. vertendo Basin seu fugientem vocem
+            <fw type="pageNum" place="top-left">204</fw><fw type="header" place="top-center">FUGA <num value="49">XLIX</num>. in 5. suprà. vertendo Basin seu fugientem vocem
                <lb n="1"/><g type="ampersand">et</g> incipiendo ab initio in d. sic vertendo simplicem
                   <lb n="3"/><g type="ampersand">et</g> incipiendo in fine g. </fw>
             
@@ -37,7 +37,7 @@
             </div>
             
             <div type="epigram" xml:lang="de">
-               <head><num value="49" type="cardinal">XLIX</num>. Epigrammatis Latini versio Germanica.</head>
+               <head><num value="49">XLIX</num>. Epigrammatis Latini versio Germanica.</head>
                <lg>
                   <lb n="1"/><l>Das <persName type="divinity"><hi rend="latin">Ph<hi rend="ligature">oe</hi>bus</hi></persName>, <persName type="divinity"><hi rend="latin">Mercurius</hi></persName> und der Fewrgott <pc>/</pc> wie Fablen zeigen an <pc>/</pc></l>
                   <lb n="2"/><l>Haben in ein Rindes Haut ihrn kräfftigen Samen gethan <pc>/</pc></l>
@@ -51,14 +51,14 @@
             
             <pb n="205" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="49" type="cardinal">XLIX</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">205</fw>
+            <fw type="header" place="top-center">Emblema <num value="49">XLIX</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">205</fw>
             
             <div type="image" xml:lang="la">
                <head><lb n="1"/>Infans Philosophicus tres agnoscit patres, ut <persName>Orion</persName>.</head>
             </div>            
             
             <div type="epigram" xml:lang="la">
-               <head>Epigramma <num value="49" type="cardinal">XLIX</num>.</head>
+               <head>Epigramma <num value="49">XLIX</num>.</head>
                <lg>
                   <lb n="1"/><l>Fabula narratur, <persName type="divinity">Ph<hi rend="ligature">oe</hi>bus</persName>, <persName type="divinity">Vulcanus</persName> <g type="ampersand">et</g> <persName type="divinity">Hermes</persName></l>
                   <lb n="2"/><l>In pellem bubulam semina quod suerint;</l>
@@ -73,7 +73,7 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="206" edRef="Maier1618"/>
-               <fw type="pageNum" place="top-left">206</fw> <fw type="header" place="top-center"><fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="49">XLIX</num>.</fw></fw>
+               <fw type="pageNum" place="top-left">206</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="49">XLIX</num>.</fw>
                   <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e49-01"/>Mulieres, qu<hi rend="ligature">ae</hi> se variis prostituunt viris, rar<hi rend="grave">o</hi> sobolem viva
                      <lb n="2" break="no"/>cem concipiunt ex confusione diversorum seminum. <milestone unit="section" n="e49-02"/>Natura
@@ -81,7 +81,7 @@
                      <lb n="4" break="no"/>mittit superf<hi rend="ligature">oe</hi>tationem, nisi fort<hi rend="grave">e</hi> rarissim<hi rend="grave">e</hi>: <milestone unit="section" n="e49-03"/>Hinc ex unico patre <g type="ampersand">et</g>
                      <lb n="5"/>matre proles qu<hi rend="ligature">ae</hi>cunque nascitur, sive sit una aut plures, ut quoque
                      <lb n="6"/>ex historiis <g type="ampersand">et</g> eventu aliter judicantium patet, inprimis <persName ref="https://viaf.org/viaf/18365892">Margarit<hi rend="ligature">ae</hi></persName>
-                     <lb n="7"/>illius <persName ref="https://viaf.org/viaf/52489362">Hermanni</persName> comitis <placeName>Hennebergi<hi rend="ligature">ae</hi></placeName> uxoris, qu<hi rend="ligature">ae</hi> <date>anno <num value="1276" type="cardinal">1276</num></date>. <num value="365" type="cardinal">tre
+                     <lb n="7"/>illius <persName ref="https://viaf.org/viaf/52489362">Hermanni</persName> comitis <placeName>Hennebergi<hi rend="ligature">ae</hi></placeName> uxoris, qu<hi rend="ligature">ae</hi> <date>anno <num value="1276">1276</num></date>. <num value="365">tre
                      <lb n="8" break="no"/>centos <g type="ampersand">et</g> sexaginta quinque</num> enixa est pueros, quorum omnium ba
                      <lb n="9" break="no"/>ptisatorum, <g type="ampersand">et</g> masculorum, <persName>Johannis</persName>, f<hi rend="ligature">oe</hi>minarum <persName>Elisabeth<hi rend="ligature">ae</hi></persName> no
                      <lb n="10" break="no"/>mine vocatorum, post demortuorum sepultura in <placeName>Lausdunensi</placeName>
@@ -103,7 +103,7 @@
                         <lb n="26" break="no"/>chus</persName> bimater appellatur, quem immaturum combust<hi rend="circumflex">a</hi> matre ex e
                      <lb n="27" break="no"/>jus <expan><abbr>v<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>tre</abbr></expan> eripuit <g type="ampersand">et</g> femori suo insuit, ut pater mater factus sit: <milestone unit="section" n="e49-10"/>Sed
                      <lb n="28"/>h<hi rend="ligature">ae</hi>c magis <expan><abbr>declar<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>tur</abbr></expan> in <persName>Orionis</persName> conceptu, <expan><abbr><hi rend="bar">q</hi></abbr><ex>ui</ex></expan> ex <persName type="divinity">Apollinis</persName>, <persName type="divinity">Vulcan<hi rend="raised">i</hi></persName>
-                     <lb n="29"/><g type="ampersand">et</g> <persName type="divinity">Mercurii</persName> commixtis seminibus in pelle bubula inclusis per <num value="10" type="cardinal">10</num>
+                     <lb n="29"/><g type="ampersand">et</g> <persName type="divinity">Mercurii</persName> commixtis seminibus in pelle bubula inclusis per <num value="10">10</num>
                      <lb n="30"/>menses, natus dicitur: <milestone unit="section" n="e49-11"/>Monstrosa h<hi rend="ligature">ae</hi>c essent omnino, non tant<hi rend="grave">u</hi>m
                      <lb n="31"/>fabulosa, nisi arcanum natur<hi rend="ligature">ae</hi> sub his involucris lateret, non <expan><abbr>omnib<am>.</am></abbr><ex>us</ex></expan>
                      <lb n="32"/>obvium. <persName ref="http://viaf.org/viaf/120696927">Lullius</persName> in <title>Theorica testamenti</title> eidem f<hi rend="ligature">oe</hi>tui Philosophico
@@ -111,7 +111,7 @@
                   </ab></div>
                   <fw type="catchword" place="bottom-right">sive</fw>
                <pb n="207" edRef="Maier1618"/>
-               <fw type="header" place="top-center"><fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="49">XLIX</num>.</fw></fw> <fw type="pageNum" place="top-right"><choice><corr>207</corr><sic>107</sic></choice></fw>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="49">XLIX</num>.</fw> <fw type="pageNum" place="top-right"><choice><corr>207</corr><sic>107</sic></choice></fw>
                   <div type="discourse-p2"><ab>
                      <lb n="1"/>sive Sol c<hi rend="ligature">oe</hi>lestis est primus hujus generationis author, qui virtute
                      <lb n="2"/>sua inenarrabili <g type="ampersand">et</g> occulta seu astrali operatur in materiam quan

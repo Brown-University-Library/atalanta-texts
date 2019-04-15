@@ -24,7 +24,7 @@
       <body>
          <div type="emblem" n="e42">
             <pb n="176" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left">176</fw><fw type="header" place="top-center">FUGA <num value="42" type="cardinal">XLII</num>. in 4. supr<hi rend="grave">a</hi>. Contrapunctum.</fw>
+            <fw type="pageNum" place="top-left">176</fw><fw type="header" place="top-center">FUGA <num value="42">XLII</num>. in 4. suprà. Contrapunctum.</fw>
             
             <div type="fugue" xml:lang="de">
                <head>
@@ -74,7 +74,7 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="178" edRef="Maier1618"/>
-               <fw type="pageNum" place="top-left">178</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="42">XLII</num>.</fw>
+               <fw type="pageNum" place="top-left">178</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="42">XLII</num>.</fw>
                   <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e42-01"/> Casus, qui peregrinantibus accidere possunt, innumeri sunt,
                      <lb n="2"/>pr<hi rend="ligature">ae</hi>sertim si pedibus noctu per loca lubrica <g type="ampersand">et</g> periculosa iter fa
@@ -114,7 +114,7 @@
                <fw type="catchword" place="bottom-right">ne</fw>
                   
                <pb n="179" edRef="Maier1618"/>
-               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="42">XLII</num>.</fw> <fw type="pageNum" place="top-right">179</fw>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="42">XLII</num>.</fw> <fw type="pageNum" place="top-right">179</fw>
                   <div type="discourse-p2"><ab>
                      <lb n="1"/>ne enim quis ad lapsum in errores erit proclivis, Unde dicunt Philo
                      <lb n="2" break="no"/>sophi; Quicquid audis, ratiocinare, num ita esse possit, necne. <milestone unit="section" n="e42-14"/> Ad im

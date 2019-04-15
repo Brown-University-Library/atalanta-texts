@@ -24,7 +24,7 @@
       <body>
          <div type="emblem" n="e45">
             <pb n="188" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left">188</fw><fw type="header" place="top-center">FUGA <num value="45" type="cardinal">XLV</num>. in <num value="3">3</num>. <expan><abbr>sup</abbr><ex>rà</ex></expan>. vertendo <expan><abbr>Bas<am>.</am></abbr><ex>sum</ex></expan> <g type="ampersand">et</g> <expan><abbr>incip<am>.</am></abbr><ex>e</ex></expan> ab initio in clave d.</fw>
+            <fw type="pageNum" place="top-left">188</fw><fw type="header" place="top-center">FUGA <num value="45">XLV</num>. in 3. <expan><abbr>sup</abbr><ex>rà</ex></expan>. vertendo <expan><abbr>Bas<am>.</am></abbr><ex>sum</ex></expan> <g type="ampersand">et</g> <expan><abbr>incip<am>.</am></abbr><ex>e</ex></expan> ab initio in clave d.</fw>
             
             <div type="fugue" xml:lang="de">
                <head>
@@ -36,7 +36,7 @@
             </div>
             
             <div type="epigram" xml:lang="de">
-               <head><num value="45" type="cardinal">XLV</num>. Epigrammatis Latini versio Germanica.</head>
+               <head><num value="45">XLV</num>. Epigrammatis Latini versio Germanica.</head>
                <lg>
                   <lb n="1"/><l>Die <expan><abbr>So<hi rend="tilde">n</hi></abbr><ex>n</ex></expan> deß <expan><abbr>Hi<hi rend="tilde">m</hi></abbr><ex>m</ex><abbr>els</abbr></expan> klares Liecht kan nicht dicke Leiber durch gehn <pc>/</pc></l>
                   <lb n="2"/><l>Drumb bleibt ein Schatten an den Orten <pc>/</pc> so sie nicht kan sehn <pc>/</pc></l>
@@ -50,14 +50,14 @@
             
             <pb n="189" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="45" type="cardinal">XLV</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">189</fw>
+            <fw type="header" place="top-center">Emblema <num value="45">XLV</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">189</fw>
             
             <div type="image" xml:lang="la">
                <head><lb n="1"/>Sol <g type="ampersand">et</g> ejus umbra perficiunt opus.</head>
             </div> 
             
             <div type="epigram" xml:lang="la">
-               <head>Epigramma <num value="45" type="cardinal">XLV</num>.</head>
+               <head>Epigramma <num value="45">XLV</num>.</head>
                <lg>
                   <lb n="1"/><l><hi rend="smallCaps">Sol</hi>, fax clara poli, non corpora densa pen<hi rend="acute">e</hi>trat,</l>
                   <lb n="2"/><l>Hinc illi adversis partibus umbra manet:</l>
@@ -72,7 +72,7 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="190" edRef="Maier1618"/>
-               <fw type="pageNum" place="top-left">190</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="45">XLV</num>.</fw>
+               <fw type="pageNum" place="top-left">190</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="45">XLV</num>.</fw>
                   <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e45-01"/>Quemadmodum in Palatio rotundo seu form<hi rend="ligature">ae</hi> sph<hi rend="ligature">ae</hi>ric<hi rend="ligature">ae</hi>, uno
                      <lb n="2"/>loco ignis incensus illustrat circum circa omnes parietes supe
@@ -98,7 +98,7 @@
                      <lb n="22"/>primum mobile, cui <persName type="divinity">Vulcanus</persName> pr<hi rend="ligature">ae</hi>ficitur, ut <g type="ampersand">et</g> illa Terr<hi rend="ligature">ae</hi> t<hi rend="ligature">ae</hi> pars,
                      <lb n="23"/>qu<hi rend="ligature">ae</hi> nunc umbros<hi rend="circumflex">a</hi> nocte tegitur, clar<hi rend="circumflex">a</hi> fruatur luce solari: <milestone unit="section" n="e45-07"/>Nisi e
                      <lb n="24" break="no"/>nim per motum primum totum Firmamentum c<hi rend="ligature">oe</hi>li cum omnibus
-                     <lb n="25"/>contentis singulis diebus naturalibus, hoc est, <num value="24" type="cardinal">viginti quatuor</num> horis
+                     <lb n="25"/>contentis singulis diebus naturalibus, hoc est, <num value="24">viginti quatuor</num> horis
                      <lb n="26"/>semel circumduceretur, sed saltem motu suo proprio, secundo <g type="ampersand">et</g>
                      <lb n="27"/>annuo dicto Sol moveretur, qui infra nos sunt Antipodes, fer<hi rend="grave">e</hi> seme
                      <lb n="28" break="no"/>stri temporis spacio noctem habere <g type="ampersand">et</g> nos diem unum contingeret,
@@ -111,7 +111,7 @@
                   </ab></div>
                   <fw type="catchword" place="bottom-right">buit:</fw>
                <pb n="191" edRef="Maier1618"/>
-               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="45">XLV</num>.</fw> <fw type="pageNum" place="top-right">191</fw>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="45">XLV</num>.</fw> <fw type="pageNum" place="top-right">191</fw>
                   <div type="discourse-p2"><ab>
                      <lb n="1"/>buit: <milestone unit="section" n="e45-10"/>Umbra autem illa <g type="ampersand">et</g> sol diem <g type="ampersand">et</g> noctem faciunt simul, quod
                      <lb n="2"/>sol per se solus non posset, cujus est illuminare omnia opposita loca

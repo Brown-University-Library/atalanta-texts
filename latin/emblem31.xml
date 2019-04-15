@@ -24,7 +24,7 @@
       <body>
          <div type="emblem" n="e31">
             <pb n="132" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left">132</fw><fw type="header" place="top-center">FUGA <num value="31" type="cardinal">XXXI</num>. in <num value="4">4</num>. suprà.</fw>
+            <fw type="pageNum" place="top-left">132</fw><fw type="header" place="top-center">FUGA <num value="31">XXXI</num>. in 4. suprà.</fw>
             
             <div type="fugue" xml:lang="de">
                <head>
@@ -37,7 +37,7 @@
             </div>
             
             <div type="epigram" xml:lang="de">
-               <head><num value="31" type="cardinal">XXXI</num>. Epigrammatis Latini versio Germanica.</head>
+               <head><num value="31">XXXI</num>. Epigrammatis Latini versio Germanica.</head>
                <lg>
                   <lb n="1"/><l>Der König <pc>/</pc> dem sein Haupt ist von einer güldnen <expan><abbr>Kron<hi rend="tilde">e</hi></abbr><ex>n</ex></expan> ganz schwer <pc>/</pc></l>
                   <lb n="2"/><l>Rufft also uberlaut <pc>/</pc> schwimmende im tieffem Meer:</l>
@@ -51,7 +51,7 @@
             
             <pb n="133" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="31" type="cardinal">XXXI</num>.</fw><fw type="pageNum" place="top-right">133</fw>
+            <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="31">XXXI</num>.</fw><fw type="pageNum" place="top-right">133</fw>
             
             <div type="image" xml:lang="la">
                <head><lb n="1"/>Rex natans in mari, clamans alt<hi rend="circumflex">a</hi> voce: Qui me eripiet,
@@ -59,7 +59,7 @@
             </div>      
             
             <div type="epigram" xml:lang="la">
-               <head>Epigramma <num value="31" type="cardinal">XXXI</num>.</head>
+               <head>Epigramma <num value="31">XXXI</num>.</head>
                <lg>
                   <lb n="1"/><l>Rex Diadema caput cui pr<hi rend="ligature">ae</hi>gravat, <hi rend="ligature">ae</hi>quore vasto</l>
                   <lb n="2"/><l>Innatat, atque altis vocibus usus ait:</l>
@@ -74,7 +74,7 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="134" edRef="Maier1618"/>
-               <fw type="pageNum" place="top-left">134</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="31">XXXI</num>.</fw>
+               <fw type="pageNum" place="top-left">134</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="31">XXXI</num>.</fw>
                   <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e31-01"/>Prima omnis disciplin<hi rend="ligature">ae</hi> rudimenta antiquitus fu<hi rend="circumflex">e</hi>re natandi
                      <lb n="2"/>peritia <g type="ampersand">et</g> in literis institutio: Hinc de homine rudi dici <g type="ampersand">et</g> impolito
@@ -112,7 +112,7 @@
                   </ab></div>
                   <fw type="catchword" place="bottom-right">in<hi rend="grave">es</hi></fw>
                <pb n="135" edRef="Maier1618"/>
-               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="31">XXXI</num>.</fw> <fw type="pageNum" place="top-right">135</fw>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi>. <num value="31">XXXI</num>.</fw> <fw type="pageNum" place="top-right">135</fw>
                   <div type="discourse-p2"><ab>
                      <lb n="1"/>in fundo, unde non tutum est navibus ferro compactis aut oneratis
                      <lb n="2"/>per id transire: Facil<hi rend="grave">e</hi> enim in fundum magnetis vi attrahi possent.

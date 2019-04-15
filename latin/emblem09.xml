@@ -29,7 +29,7 @@
          <div type="emblem" n="e9">
             
             <pb n="44" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left">44</fw> <fw type="header" place="top-center">FUGA IX. in 5 supr<hi rend="grave">a</hi>.</fw>
+            <fw type="pageNum" place="top-left">44</fw> <fw type="header" place="top-center">FUGA IX. in 5 suprà.</fw>
 
             
             <div type="fugue" xml:lang="de">
@@ -78,7 +78,7 @@
             
            <fw type="gathering">F 3</fw> <fw type="catchword" place="bottom-right">Qu<hi rend="ligature">ae</hi></fw>
             <pb n="46" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left">46</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="9">IX</num>.</fw>
+            <fw type="pageNum" place="top-left">46</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="9">IX</num>.</fw>
             
             <div type="discourse" xml:lang="la">
 <div type="discourse-p1">
@@ -122,7 +122,7 @@
 </div>
                <fw type="catchword" place="bottom-right">co</fw>                  
                <pb n="47" edRef="Maier1618"/>
-               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="9">IX</num>.</fw> <fw type="pageNum" place="top-right">47</fw>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="9">IX</num>.</fw> <fw type="pageNum" place="top-right">47</fw>
                   <div type="discourse-p2">
                      <ab>
                      <lb n="1"/><expan><abbr>comest<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> <expan><abbr>laud<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>t</abbr></expan>. <milestone unit="section" n="e09-12"/> Sed san<hi rend="grave">e</hi> h<hi rend="ligature">ae</hi>c media sunt ipsa senectute rigidiora, <g type="ampersand">et</g>

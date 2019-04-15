@@ -28,7 +28,7 @@
       <body>
          <div type="emblem" n="e1">
             <pb n="12" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left">12</fw> <fw type="header" place="top-center">FUGA I. in Quarta, infr<hi rend="grave">a</hi>.</fw>
+            <fw type="pageNum" place="top-left">12</fw> <fw type="header" place="top-center">FUGA I. in Quarta, infrà.</fw>
             
             <div type="fugue" xml:lang="de">
                <head>
@@ -132,7 +132,7 @@
             </div>
                <fw type="catchword" place="bottom-right">vincitur</fw>
                <pb n="15" edRef="Maier1618"/>
-               <fw type="header" place="center-top"><fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="1">I</num>.</fw></fw> <fw type="pageNum" place="top-right">15</fw>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="1">I</num>.</fw> <fw type="pageNum" place="top-right">15</fw>
                <div type="discourse-p2">
                   <ab>
                      <lb n="1"/>vincitur: <milestone unit="section" n="e01-10"/> At quia caduceum gestet binis serpentibus transversim

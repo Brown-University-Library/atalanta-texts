@@ -27,7 +27,7 @@
       <body>
          <div type="emblem" n="e2">
             <pb n="16" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left">16</fw> <fw type="header" place="top-center">FUGA II. in Quinta, infr<hi rend="grave">a</hi>.</fw>
+            <fw type="pageNum" place="top-left">16</fw> <fw type="header" place="top-center">FUGA II. in Quinta, infrà.</fw>
             <div type="fugue" xml:lang="de">
                <head><lb n="1"/>Sein Saügmutter ist die Erden.</head>
             </div>
@@ -69,7 +69,7 @@
             
            <fw type="gathering">C</fw> <fw type="catchword" place="bottom-right">Apud</fw>
             <pb n="18" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left">18</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="2">II</num></fw>
+            <fw type="pageNum" place="top-left">18</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="2">II</num></fw>
             
             <div type="discourse" xml:lang="la">
                  <div type="discourse-p1">
@@ -100,7 +100,7 @@
                      <lb n="24" break="no"/>tum acquirit, deinde lacte nutritur: <milestone unit="section" n="e02-11"/> Mulier ver<hi rend="grave">o</hi> conceptionis <g type="ampersand">et</g>
                      <lb n="25"/>impr<hi rend="ligature">ae</hi>gnationis tempore in calore, cibo <g type="ampersand">et</g> potu, motu <g type="ampersand">et</g> quiete, a
                      <lb n="26" break="no"/>liis<hi rend="acute">q</hi>ue se temperat<hi rend="grave">e</hi> ut gerat, necessse est, ali<hi rend="grave">a</hi>s abortus sequetur <g type="ampersand">et</g>
-                     <lb n="27"/>concepti f<hi rend="ligature">oe</hi>tus destructio, qu<hi rend="ligature">ae</hi> observatio in <num type="cardinal" value="6">6</num>. rebus <expan><abbr>n<hi rend="tilde">o</hi></abbr><ex>n</ex></expan> naturali
+                     <lb n="27"/>concepti f<hi rend="ligature">oe</hi>tus destructio, qu<hi rend="ligature">ae</hi> observatio in <num value="6">6</num>. rebus <expan><abbr>n<hi rend="tilde">o</hi></abbr><ex>n</ex></expan> naturali
                      <lb n="28" break="no"/>ibus, quia <hi rend="grave">a</hi> medicis secund<hi rend="grave">u</hi>m artem suam pr<hi rend="ligature">ae</hi>scribitur, artificialis
                      <lb n="29"/>quoque est. <milestone unit="section" n="e02-12"/> Eodem modo semina si sint non conjuncta in opere
                      <lb n="30"/>Philosophico, conjungi debent: Quod si ver<hi rend="grave">o</hi> alicubi conjuncta in
@@ -112,7 +112,7 @@
                
                <fw type="catchword" place="bottom-right">testan</fw>
                <pb n="19" edRef="Maier1618"/>
-               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="2">II</num>.</fw> <fw type="pageNum" place="top-right">19</fw>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="2">II</num>.</fw> <fw type="pageNum" place="top-right">19</fw>
                   
                <div type="discourse-p2">
                   <ab>

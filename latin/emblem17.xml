@@ -69,7 +69,7 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="78" edRef="Maier1618"/>
-               <fw type="pageNum" place="top-left">78</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="17">XVII</num>.</fw>
+               <fw type="pageNum" place="top-left">78</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi>. <num value="17">XVII</num>.</fw>
                   <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e17-01"/>Philosophi de quatuor ignium generibus ad opus naturale ne
                      <lb n="2" break="no"/>cessaris multis in locis meminerunt, nempe <persName ref="http://viaf.org/viaf/120696927">Lullius</persName>, Author <title>Sca
@@ -108,7 +108,7 @@
                   </ab></div>
                   <fw type="catchword" place="bottom-right">neris</fw>
                <pb n="79" edRef="Maier1618"/>
-               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="17">XVII</num>.</fw> <fw type="pageNum" place="top-right"><choice><corr>79</corr><sic>78</sic></choice></fw>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi>. <num value="17">XVII</num>.</fw> <fw type="pageNum" place="top-right"><choice><corr>79</corr><sic>78</sic></choice></fw>
                   <div type="discourse-p2"><ab>
                      <lb n="1"/>neris <expan><abbr>serp<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>tes</abbr></expan>, corpora sibi <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>m</ex><abbr>mixta</abbr></expan> <expan><abbr>atter<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>t</abbr></expan> <g type="ampersand">et</g> <expan><abbr>alter<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>t</abbr></expan>, hoc est, <expan><abbr>solv<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>t</abbr></expan>
                      <lb n="2"/><g type="ampersand">et</g> <expan><abbr>coagul<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>t</abbr></expan>: <milestone unit="section" n="e17-14"/><expan><abbr>M<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>strua</abbr></expan> dicuntur, quia ex illis f<hi rend="ligature">oe</hi>tus <expan><abbr>Philos<am>.</am></abbr><ex>ophicus</ex></expan> producitur

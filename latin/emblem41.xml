@@ -24,7 +24,7 @@
       <body>
          <div type="emblem" n="e41">
             <pb n="172" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left">172</fw><fw type="header" place="top-center">FUGA <num value="41" type="cardinal">XLI</num>. in <num value="3">3</num>. infrà. retrograda existente simplici seu Basi.</fw>
+            <fw type="pageNum" place="top-left">172</fw><fw type="header" place="top-center">FUGA <num value="41">XLI</num>. in 3. infrà. retrograda existente simplici seu Basi.</fw>
             
             <div type="fugue" xml:lang="de">
                <head>
@@ -37,7 +37,7 @@
             </div>
             
             <div type="epigram" xml:lang="de">
-               <head><num value="41" type="cardinal">XLI</num>. Epigrammatis Latini versio Germanica.</head>
+               <head><num value="41">XLI</num>. Epigrammatis Latini versio Germanica.</head>
                <lg>
                   <lb n="1"/><l>Von ihrem eygnen Vatter hat die <persName><hi rend="latin">Myrrha</hi></persName> <persName><hi rend="latin">Adonim</hi></persName> gebohren <pc>/</pc></l>
                   <lb n="2"/><l>Welchen die <persName type="divinity"><hi rend="latin">Venus</hi></persName> sehr liebt <pc>/</pc> ein wild Saw tödt im Zoren <pc>/</pc></l>
@@ -51,7 +51,7 @@
             
             <pb n="173" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="41" type="cardinal">XLI</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">173</fw>
+            <fw type="header" place="top-center">Emblema <num value="41">XLI</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">173</fw>
             
             <div type="image" xml:lang="la">
                <head><lb n="1"/><persName>Adonis</persName> ab apro occiditur, cui <persName type="divinity">Venus</persName> accurrens tinxit
@@ -59,7 +59,7 @@
             </div>  
             
             <div type="epigram" xml:lang="la">
-               <head>Epigramma <num value="41" type="cardinal">XLI</num>.</head>
+               <head>Epigramma <num value="41">XLI</num>.</head>
                <lg>
                   <lb n="1"/><l>Ex patre, <persName>Myrrha</persName> suo pulchrum suscepit <persName>Adonim</persName>,</l>
                   <lb n="2"/><l>Delitias <persName type="divinity">Cypri<hi rend="ligature">ae</hi></persName>, quem nece stravit aper.</l>
@@ -74,11 +74,11 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="174" edRef="Maier1618"/>
-               <fw type="pageNum" place="top-left">174</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="41">XLI</num>.</fw>
+               <fw type="pageNum" place="top-left">174</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="41">XLI</num>.</fw>
                   <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e41-01"/><persName><hi rend="smallCaps">Adonidis</hi></persName> allegoriam qu<hi rend="grave">a</hi>m impropri<hi rend="grave">e</hi> quidam ex mythologis
                      <lb n="2"/>explicent, <g type="ampersand">et</g> eum nunc ad Solem, aprum, <hi rend="grave">a</hi> quo occisus est, ad
-                     <lb n="3"/>Brumam hirsutam, nunc ad semina frumentorum, qu<hi rend="ligature">ae</hi> <num value="6" type="cardinal">6</num>. mensibus
+                     <lb n="3"/>Brumam hirsutam, nunc ad semina frumentorum, qu<hi rend="ligature">ae</hi> <num value="6">6</num>. mensibus
                      <lb n="4"/>apud <persName type="divinity">Proserpinam</persName> subtus terram, <g type="ampersand">et</g> totidem supra terram apud
                      <lb n="5"/><persName type="divinity">Venerem</persName> sunt, referant, alibi satis expositum <g type="ampersand">et</g> refutatum est <hi rend="grave">a</hi> no
                      <lb n="6" break="no"/>bis. <milestone unit="section" n="e41-02"/>Hic Solem esse Philosophicum sub <persName>Adonide</persName> intellectum cum
@@ -113,7 +113,7 @@
                   </ab></div>
                   <fw type="catchword" place="bottom-right">f<hi rend="ligature">oe</hi>cun-</fw>
                <pb n="175" edRef="Maier1618"/>
-               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="41">XLI</num>.</fw> <fw type="pageNum" place="top-right">175</fw>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="41">XLI</num>.</fw> <fw type="pageNum" place="top-right">175</fw>
                   <div type="discourse-p2"><ab>
                      <lb n="1"/>f<hi rend="ligature">oe</hi>cundiores <g type="ampersand">et</g> <hi rend="grave">e</hi>converso, quo remotiores, e<hi rend="grave">o</hi> in f<hi rend="ligature">oe</hi>cundiores, quod
                      <lb n="2"/>in hominum matrimonio tolerabile non est. <milestone unit="section" n="e41-13"/>Hinc <persName>Oedypus</persName> pro

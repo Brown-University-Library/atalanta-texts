@@ -28,7 +28,7 @@
          <div type="emblem" n="e12">
             
             <pb n="56" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left">56</fw> <fw type="header" place="top-center">FUGA XII. in 2. supr<hi rend="grave">a</hi>.</fw>
+            <fw type="pageNum" place="top-left">56</fw> <fw type="header" place="top-center">FUGA XII. in 2. suprà.</fw>
             
             
             <div type="fugue" xml:lang="de">
@@ -77,7 +77,7 @@
             
            <fw type="gathering">H </fw> <fw type="catchword" place="bottom-right">Saturni</fw>
             <pb n="58" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left">58</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="12">XII</num>.</fw>
+            <fw type="pageNum" place="top-left">58</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="12">XII</num>.</fw>
             
             <div type="discourse" xml:lang="la">
                   <div type="discourse-p1">
@@ -120,7 +120,7 @@
                <fw type="catchword" place="bottom-right"><g type="ampersand">et</g></fw>
                   
                <pb n="59" edRef="Maier1618"/>
-               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="12">XII</num>.</fw> <fw type="pageNum" place="top-right">59</fw>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="12">XII</num>.</fw> <fw type="pageNum" place="top-right">59</fw>
                   <div type="discourse-p2">
                      <ab>
                      <lb n="1"/><g type="ampersand">et</g> in suo corpore, antequam moreretur, revertuntur. <milestone unit="section" n="e12-11"/> Hic lapis ite

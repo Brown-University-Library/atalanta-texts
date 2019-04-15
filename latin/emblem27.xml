@@ -23,7 +23,7 @@
       <body>
          <div type="emblem" n="e27">
             <pb n="116" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left">116</fw><fw type="header" place="top-center">FUGA <num value="27" type="cardinal">XXVII</num>. in <num value="8">8</num>. suprà.</fw>
+            <fw type="pageNum" place="top-left">116</fw><fw type="header" place="top-center">FUGA <num value="27">XXVII</num>. in 8. suprà.</fw>
             
             <div type="fugue" xml:lang="de">
                <head>
@@ -36,7 +36,7 @@
             </div>
             
             <div type="epigram" xml:lang="de">
-               <head><num value="27" type="cardinal">XXVII</num>. Epigrammatis Latini versio Germanica.</head>
+               <head><num value="27">XXVII</num>. Epigrammatis Latini versio Germanica.</head>
                <lg>
                   <lb n="1"/><l>Mit Rosen vielerley Art ist geziert der Garte der Weißheit <pc>/</pc></l>
                   <lb n="2"/><l>Aber sein Thür steht fest mit Schlossen versehen allzeit <pc>/</pc></l>
@@ -50,7 +50,7 @@
             
             <pb n="117" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="27" type="cardinal">XXVII</num>. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">117</fw>
+            <fw type="header" place="top-center">Emblema <num value="27">XXVII</num>. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">117</fw>
             
             <div type="image" xml:lang="la">
                <head><lb n="1"/>Qui Rosarium intrare conatur Philosophicum absque clave,
@@ -58,7 +58,7 @@
             </div>  
             
             <div type="epigram" xml:lang="la">
-               <head>Epigramma <num value="27" type="cardinal">XXVII</num>.</head>
+               <head>Epigramma <num value="27">XXVII</num>.</head>
                <lg>
                   <lb n="1"/><l>Luxuriat Sophi<hi rend="ligature">ae</hi> diverso flore <hi rend="smallCaps">Rosetum</hi>,</l>
                   <lb n="2"/><l>Semper at est firmis janua clausa seris:</l>
@@ -73,7 +73,7 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="118" edRef="Maier1618"/>
-               <fw type="pageNum" place="top-left"><supplied reason="omitted">1</supplied>18</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="27">XXVII</num>.</fw>
+               <fw type="pageNum" place="top-left"><supplied reason="omitted">1</supplied>18</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="27">XXVII</num>.</fw>
                   <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e27-01"/>De <persName>Erichthonio</persName> <expan><abbr>scrib<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>t</abbr></expan>, eum ex semine <persName>Vulcani</persName> cum <persName>Pallade</persName> sa
                      <lb n="2" break="no"/>pienti<hi rend="ligature">ae</hi> Dea luctantis in terram emisso natum serpentinis <g type="ampersand">et</g>
@@ -112,7 +112,7 @@
                   </ab></div>
                   <fw type="catchword" place="bottom-right">pten</fw>
                <pb n="119" edRef="Maier1618"/>
-               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="27">XXVII</num>.</fw> <fw type="pageNum" place="top-right">119</fw>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="27">XXVII</num>.</fw> <fw type="pageNum" place="top-right">119</fw>
                   <div type="discourse-p2"><ab>
                      <lb n="1"/>ptentrionali rever<hi rend="grave">a</hi> inveniet si signa bene numerare <g type="ampersand">et</g> discernere
                      <lb n="2"/>sciat, <g type="ampersand">et</g> lorum pessuli in meridionali: Quibus occupatis, facil<hi rend="grave">e</hi> erit

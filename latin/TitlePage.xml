@@ -42,7 +42,7 @@
                    <lb n="8"/>Accomodata partim oculis <g type="ampersand">et</g> intellectui, figuris
                    <lb n="9"/>cupro incisis, adjectis<hi rend="acute">q</hi>ue sententiis, Epigram
                    <lb n="10" break="no"/>matis <g type="ampersand">et</g> notis, partim auribus <g type="ampersand">et</g> recreationi
-                   <lb n="11"/>animi plus minus <num value="50" type="cardinal">50</num>. Fugis Musicalibus trium
+                   <lb n="11"/>animi plus minus <num value="50">50</num>. Fugis Musicalibus trium
                    <lb n="12"/>Vocum, quarum du<hi rend="ligature">ae</hi> ad unam simplicem melo
                    <lb n="13" break="no"/>diam distichis canendis peraptam, correspon
                    <lb n="14" break="no"/>deant, non <expan><abbr>absq<am>;</am></abbr><ex>ue</ex></expan> singulari jucunditate videnda,
@@ -56,7 +56,7 @@
                    <lb n="20"/><placeName><hi rend="caps">Oppenheimii</hi></placeName>
                    <lb n="21"/>Ex typographia <persName ref="http://viaf.org/viaf/101590698"><hi rend="caps">Hieronymi Galleri</hi></persName>,
                    <lb n="22"/><hi rend="italic">Sumptibus</hi> <persName ref="http://viaf.org/viaf/7388985"><hi rend="caps"><expan><abbr>Joh<am>.</am></abbr><ex>annis</ex> Theodori</expan></hi> de <hi rend="caps">Bry</hi></persName>,
-                   <lb n="23"/><date when="1618"><num type="cardinal" value="1618"><hi rend="overline">M DC XVII</hi></num></date>.
+                   <lb n="23"/><date when="1618"><num value="1618"><hi rend="overline">M DC XVII</hi></num></date>.
                 </ab>
             </div>                     
          </div>

@@ -27,7 +27,7 @@
       <body>
          <div type="emblem" n="e3">
             <pb n="20" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left">20</fw> <fw type="header" place="top-center">FUGA III in Quarta, infr<hi rend="grave">a</hi>.
+            <fw type="pageNum" place="top-left">20</fw> <fw type="header" place="top-center">FUGA III in Quarta, infrà.
             </fw>
             
             <div type="fugue" xml:lang="de">
@@ -74,7 +74,7 @@
             
            <fw type="gathering">C 3</fw> <fw type="catchword" place="bottom-right">Si</fw>
             <pb n="22" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left">22</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="3">III</num>.</fw>
+            <fw type="pageNum" place="top-left">22</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="3">III</num>.</fw>
             
             <div type="discourse" xml:lang="la">
                   <div type="discourse-p1"> 
@@ -118,7 +118,7 @@
                
                <fw type="catchword" place="bottom-right">modum</fw>
                <pb n="23" edRef="Maier1618"/>
-               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="3">III</num>.</fw> <fw type="pageNum" place="top-right">23</fw>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="3">III</num>.</fw> <fw type="pageNum" place="top-right">23</fw>
                
                <div type="discourse-p2">
                    <ab>

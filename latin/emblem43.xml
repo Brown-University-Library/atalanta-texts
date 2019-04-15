@@ -24,7 +24,7 @@
       <body>
          <div type="emblem" n="e43">
             <pb n="180" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left">180</fw><fw type="header" place="top-center">FUGA <num value="43" type="cardinal">XLIII</num>. in <num value="5">5</num>. seu <num value="12">12</num>. infrà. Contrapunctum.</fw>
+            <fw type="pageNum" place="top-left">180</fw><fw type="header" place="top-center">FUGA <num value="43">XLIII</num>. in 5. seu 12. infrà. Contrapunctum.</fw>
             
             <div type="fugue" xml:lang="de">
                <head>
@@ -36,7 +36,7 @@
             </div>
             
             <div type="epigram" xml:lang="de">
-               <head><num value="43" type="cardinal">XLIII</num>. Epigrammatis Latini versio Germanica.</head>
+               <head><num value="43">XLIII</num>. Epigrammatis Latini versio Germanica.</head>
                <lg>
                   <lb n="1"/><l>Auff der Spizen hoch deß Bergs der Geyer thut sitzende laut schreyn</l>
                   <lb n="2"/><l>Ohn unterlaß: Ich bin der weisse und schwarze allein <pc>/</pc></l>
@@ -50,14 +50,14 @@
             
             <pb n="181" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="43" type="cardinal">XLIII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">181</fw>
+            <fw type="header" place="top-center">Emblema <num value="43">XLIII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">181</fw>
             
             <div type="image" xml:lang="la">
                <head><lb n="1"/>Audi loquacem vulturem, qui neutiquam te decipit.</head>
             </div>   
             
             <div type="epigram" xml:lang="la">
-               <head>Epigramma <num value="43" type="cardinal">XLIII</num>.</head>
+               <head>Epigramma <num value="43">XLIII</num>.</head>
                <lg>
                   <lb n="1"/><l>Montis in excelso consistit vertice vultur</l>
                   <lb n="2"/><l>Assidu<hi rend="grave">e</hi> clamans; Albus ego atque niger,</l>
@@ -72,7 +72,7 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="182" edRef="Maier1618"/>
-               <fw type="pageNum" place="top-left">182</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="43">XLIII</num>.</fw>
+               <fw type="pageNum" place="top-left">182</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="43">XLIII</num>.</fw>
                   <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e43-01"/><hi rend="smallCaps">Loquaces</hi> seu vocis human<hi rend="ligature">ae</hi> <hi rend="ligature">ae</hi>mulas volucres, videlicet Psitta
                      <lb n="2" break="no"/>cos, corvos, monedulas, <g type="ampersand">et</g> picas quotidi<hi rend="grave">e</hi> passim audimus. <milestone unit="section" n="e43-02"/>Sic
@@ -111,7 +111,7 @@
                   </ab></div>
                   <fw type="catchword" place="bottom-right">junctione</fw>
                <pb n="183" edRef="Maier1618"/>
-               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="43">XLIII</num>.</fw> <fw type="pageNum" place="top-right">183</fw>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="43">XLIII</num>.</fw> <fw type="pageNum" place="top-right">183</fw>
                   <div type="discourse-p2"><ab>
                      <lb n="1"/>junctione generare, nat<hi rend="acute">o</hi>sque ex iis in multam <hi rend="ligature">ae</hi>tatem procedere
                      <lb n="2"/>ad annum usque centesimum. Nidificant isn altis rupibus, nidos ne

@@ -75,7 +75,7 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="94" edRef="Maier1618"/>
-               <fw type="pageNum" place="top-left">94</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="21">XXI</num>.</fw>
+               <fw type="pageNum" place="top-left">94</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="21">XXI</num>.</fw>
                   <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e21-01"/><persName ref="https://viaf.org/viaf/108159964">Plato</persName> Philosophus ille celeberimus menti human<hi rend="ligature">ae</hi> noticias,
                      <lb n="2"/>qu<hi rend="ligature">ae</hi> sunt artium <g type="ampersand">et</g> scientiarum omnium fundamenta, esse quasi
@@ -88,7 +88,7 @@
                      <lb n="9" break="no"/>tralia pervenisse. <milestone unit="section" n="e21-03"/>Unde omnem doctrinam <g type="ampersand">et</g> disciplinam non ab
                      <lb n="10"/>initio disci vel hauriri, sed saltem recordatione in animum revocari
                      <lb n="11"/><g type="ampersand">et</g> revolvi <hi rend="grave">a</hi> pueris statuit, colludens ad magnum suum annum, quo
-                     <lb n="12"/>ante <num value="48000" type="cardinal">48. millia</num> annorum solarium e<hi rend="ligature">ae</hi>dem person<hi rend="ligature">ae</hi>, res <g type="ampersand">et</g> actiones,
+                     <lb n="12"/>ante <num value="48000">48. millia</num> annorum solarium e<hi rend="ligature">ae</hi>dem person<hi rend="ligature">ae</hi>, res <g type="ampersand">et</g> actiones,
                      <lb n="13"/>ante c<hi rend="ligature">oe</hi>li revolutionem, eodem modo, quo nunc, extitisse ab eo di
                      <lb n="14" break="no"/>cebantur: Ver<hi rend="grave">u</hi>m h<hi rend="ligature">ae</hi>c esse absque ullo veritatis fundamento so
                      <lb n="15" break="no"/>mniis persimilia, nemo non intelligit. <milestone unit="section" n="e21-04"/>Esse nobis insitas <expan><abbr>quasd<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> scin
@@ -114,7 +114,7 @@
                   </ab></div>
                   <fw type="catchword" place="bottom-right">runt?</fw>
                <pb n="95" edRef="Maier1618"/>
-               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="21">XXI</num>.</fw> <fw type="pageNum" place="top-right">95</fw>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="21">XXI</num>.</fw> <fw type="pageNum" place="top-right">95</fw>
                   <div type="discourse-p2"><ab>
                      <lb n="1"/>runt? <milestone unit="section" n="e21-09"/>Id non opinandum erit; quia videmus brutam <hi rend="grave">a</hi> natura edo
                      <lb n="2" break="no"/>cta abhorrere <g type="ampersand">et</g> cavere pericula ab igne, aqua, casu pr<hi rend="ligature">ae</hi>cipiti <g type="ampersand">et</g>
@@ -140,8 +140,8 @@
                      <lb n="22" xml:id="l22"/><milestone unit="section" n="e21-15"/>Illa ut addiscatur, Geometram de solidis corporibus agentem oportet investi
                      <lb n="23" break="no" xml:id="l23"/>gare, qu<hi rend="ligature">ae</hi> figurarum solidarum, exempli gratia, Sph<hi rend="ligature">ae</hi>r<hi rend="ligature">ae</hi> <g type="ampersand">et</g> Cubi profunditas a
                      <lb n="24" break="no" xml:id="l24"/>gnoscatur <g type="ampersand">et</g> ad usum seu praxin manualem transferatur: <milestone unit="section" n="e21-16"/>Si sph<hi rend="ligature">ae</hi>r<hi rend="ligature">ae</hi> capacitas
-                     <lb n="25" xml:id="l25"/><seg rend="smaller">seu <expan><abbr>circ<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <expan><abbr>fer<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>tia</abbr></expan> sit <num value="32" type="cardinal">32</num>. pedum, <expan><abbr>quant<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> erit <expan><abbr>un<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> ex cubi lateribus, ut capacitatem
-                     <lb n="26" xml:id="l26"/>hujus sph<hi rend="ligature">ae</hi>r<hi rend="ligature">ae</hi> <expan><abbr>ad</abbr><ex>a</ex><abbr><hi rend="hook">e</hi>quet</abbr></expan>, econtra, si sph<hi rend="ligature">ae</hi>ra <num value="32" type="cardinal">32</num>. <expan><abbr>m<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>suras</abbr></expan> capiat in tanta <expan><abbr>circ<hi rend="tilde">u</hi></abbr><ex>m</ex><abbr>fer<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>tia</abbr></expan>,
+                     <lb n="25" xml:id="l25"/><seg rend="smaller">seu <expan><abbr>circ<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <expan><abbr>fer<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>tia</abbr></expan> sit <num value="32">32</num>. pedum, <expan><abbr>quant<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> erit <expan><abbr>un<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> ex cubi lateribus, ut capacitatem
+                     <lb n="26" xml:id="l26"/>hujus sph<hi rend="ligature">ae</hi>r<hi rend="ligature">ae</hi> <expan><abbr>ad</abbr><ex>a</ex><abbr><hi rend="hook">e</hi>quet</abbr></expan>, econtra, si sph<hi rend="ligature">ae</hi>ra <num value="32">32</num>. <expan><abbr>m<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>suras</abbr></expan> capiat in tanta <expan><abbr>circ<hi rend="tilde">u</hi></abbr><ex>m</ex><abbr>fer<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>tia</abbr></expan>,
                      <lb n="27" xml:id="l27"/>quantum erit latus <expan><abbr>un<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> cubi, ut tantundem capiat, aut respiciendo <hi rend="grave">a</hi> mensuris,
                      <lb n="28" xml:id="l28"/><expan><abbr>quar<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> capax est sph<hi rend="ligature">ae</hi>ra vel cubus, ad pedes <expan><abbr>cujusq<am>;</am></abbr><ex>ue</ex></expan> <expan><abbr>circ<hi rend="tilde">u</hi></abbr><ex>m</ex><abbr>fer<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>ti<hi rend="ligature">ae</hi></abbr></expan>. <milestone unit="section" n="e21-17"/>Similiter <expan><abbr>vol<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>t</abbr></expan>/
                      <lb n="29" xml:id="l29"/>Philosophi <expan><abbr>quadr<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>gul<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> in <expan><abbr>triangul<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <expan><abbr>ducend<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> esse, hoc est, in corpus, <expan><abbr>spirit<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> <g type="ampersand">et</g>

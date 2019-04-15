@@ -29,7 +29,7 @@
             
             <pb n="24" edRef="Maier1618"/>
             
-            <fw type="pageNum" place="top-left">24</fw> <fw type="header" place="top-center">FUGA IV. in Quarta, supr<hi rend="grave">a</hi>.</fw>
+            <fw type="pageNum" place="top-left">24</fw> <fw type="header" place="top-center">FUGA IV. in Quarta, suprà.</fw>
       
             <div type="fugue" xml:lang="de">
                <head>
@@ -75,7 +75,7 @@
             
            <fw type="gathering">D</fw> <fw type="catchword" place="bottom-right">Lex</fw>
             <pb n="26" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left">26</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="4">IV</num>.</fw>
+            <fw type="pageNum" place="top-left">26</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="4">IV</num>.</fw>
             
             <div type="discourse" xml:lang="la">
                <div type="discourse-p1">
@@ -117,7 +117,7 @@
                </div>
                <fw type="catchword" place="bottom-right">utrisque</fw>
                <pb n="27" edRef="Maier1618"/>
-               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="4">IV</num>,</fw> <fw type="pageNum" place="top-right">27</fw>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="4">IV</num>,</fw> <fw type="pageNum" place="top-right">27</fw>
                   <div type="discourse-p2">
                      <ab>
                      <lb n="1"/>utrisque frigidis (frigiditas enim maris inf<hi rend="ligature">oe</hi>cunditas est) proles vi

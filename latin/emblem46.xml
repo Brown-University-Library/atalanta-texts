@@ -29,7 +29,7 @@
       <body>
          <div type="emblem" n="e46">
             <pb n="192" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left">192</fw><fw type="header" place="top-center">FUGA <num value="46" type="cardinal">XLVI</num>. Reciproca.</fw>
+            <fw type="pageNum" place="top-left">192</fw><fw type="header" place="top-center">FUGA <num value="46">XLVI</num>. Reciproca.</fw>
             
             <div type="fugue" xml:lang="de">
                <head>
@@ -41,7 +41,7 @@
             </div>
             
             <div type="epigram" xml:lang="de">
-               <head><num value="46" type="cardinal">XLVI</num>. Epigrammatis Latini versio Germanica.</head>
+               <head><num value="46">XLVI</num>. Epigrammatis Latini versio Germanica.</head>
                <lg>
                   <lb n="1"/><l>Der <persName type="divinity"><hi rend="latin">Jupiter</hi></persName> von <placeName>Delphis</placeName> zween Adler hat außgesendet <pc>/</pc></l>
                   <lb n="2"/><l>Gegen Auffgang und Niedergang so fern die Erd sich endet <pc>/</pc></l>
@@ -55,14 +55,14 @@
             
             <pb n="193" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="46" type="cardinal">XLVI</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">193</fw>
+            <fw type="header" place="top-center">Emblema <num value="46">XLVI</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">193</fw>
             
             <div type="image" xml:lang="la">
                <head><lb n="1"/>Aquil<hi rend="ligature">ae</hi> du<hi rend="ligature">ae</hi>, una ab ortu, altera ab occasu conveniunt.</head>
             </div>      
             
             <div type="epigram" xml:lang="la">
-               <head>Epigramma <num value="46" type="cardinal">XLVI</num>.</head>
+               <head>Epigramma <num value="46">XLVI</num>.</head>
                <lg>
                   <lb n="1"/><l><persName type="divinity">Jupiter</persName> <hi rend="grave">e</hi> <placeName><hi rend="smallCaps">Delphis</hi></placeName> aquilas misisse gemellas</l>
                   <lb n="2"/><l>Fertur ad E<hi rend="circumflex">o</hi>as Occidu<hi rend="acute">a</hi>sque plagas:</l>
@@ -77,7 +77,7 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="194" edRef="Maier1618"/>
-               <fw type="pageNum" place="top-left">194</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="46">XLVI</num>.</fw>
+               <fw type="pageNum" place="top-left">194</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="46">XLVI</num>.</fw>
                   <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e46-01"/><persName type="divinity">Apollinem</persName> antiquissimum ex <persName type="divinity">Vulcano</persName> natum, <placeName>Athenarum</placeName> cu
                      <lb n="2" break="no"/>stodem tradit <persName ref="https://viaf.org/viaf/78769600">Cicero</persName> <expan><abbr>lib<am>.</am></abbr><ex>ro</ex></expan> <title ref="https://viaf.org/viaf/178863840">de natura Deorum</title>. <milestone unit="section" n="e46-02"/>Qu<hi rend="ligature">ae</hi> quidem o
@@ -115,7 +115,7 @@
                   </ab></div>
                   <fw type="catchword" place="bottom-right">quoque</fw>
                <pb n="195" edRef="Maier1618"/>
-               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="46">XLVI</num>.</fw> <fw type="pageNum" place="top-right">195</fw>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="46">XLVI</num>.</fw> <fw type="pageNum" place="top-right">195</fw>
                   <div type="discourse-p2"><ab>
                      <lb n="1"/>quoque sacratus fuit ille celebris tripes, <hi rend="grave">a</hi> <persName>Pelope</persName>, dum uxorem <persName>Hip
                      <lb n="2" break="no"/>podamiam</persName> duceret <persName>Oenomai</persName> regis <placeName>Elidis</placeName> filiam, quem Tripodem

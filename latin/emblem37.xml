@@ -24,7 +24,7 @@
       <body>
          <div type="emblem" n="e37">
             <pb n="156" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left">156</fw><fw type="header" place="top-center">FUGA <num value="37" type="cardinal">XXXVII</num>. in <num value="8">8</num>. suprà.</fw>
+            <fw type="pageNum" place="top-left">156</fw><fw type="header" place="top-center">FUGA <num value="37">XXXVII</num>. in 8. suprà.</fw>
             
             <div type="fugue" xml:lang="de">
                <head>
@@ -37,7 +37,7 @@
             </div>
             
             <div type="epigram" xml:lang="de">
-               <head><num value="37" type="cardinal">XXXVII</num>. Epigrammatis Latini versio Germanica.</head>
+               <head><num value="37">XXXVII</num>. Epigrammatis Latini versio Germanica.</head>
                <lg>
                   <lb n="1"/><l>Dreij Ding zur Meisterschafft gehören <pc>/</pc> Wasser <pc>/</pc> so stinckend ist <pc>/</pc></l>
                   <lb n="2"/><l>Und der scheenweisse Rauch <pc>/</pc> sampt dem Löwen grün gewiß <pc>/</pc></l>
@@ -51,7 +51,7 @@
             
             <pb n="157" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="37" type="cardinal">XXXVII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">157</fw>
+            <fw type="header" place="top-center">Emblema <num value="37">XXXVII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">157</fw>
             
             <div type="image" xml:lang="la">
                <head><lb n="1"/>Tria sufficiunt ad magisterium, fumus, albus, hoc est, aqua, leo
@@ -60,7 +60,7 @@
             
             
             <div type="epigram" xml:lang="la">
-               <head>Epigramma <num value="37" type="cardinal">XXXVII</num>.</head>
+               <head>Epigramma <num value="37">XXXVII</num>.</head>
                <lg>
                   <lb n="1"/><l>Terna magisterii sunt semina, f<hi rend="ligature">oe</hi>tida Lympha,</l>
                   <lb n="2"/><l>Et niveus vapor, ac pelle <hi rend="smallCaps">Leo</hi> viridi:</l>
@@ -75,7 +75,7 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="158" edRef="Maier1618"/>
-               <fw type="pageNum" place="top-left">158</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="37">XXXVII</num>.</fw>
+               <fw type="pageNum" place="top-left">158</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="37">XXXVII</num>.</fw>
                   <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e37-01"/>Ut tria essentialia ad cujusque <hi rend="ligature">ae</hi>dificii constructionem requirun
                      <lb n="2" break="no"/>tur, quorum uno absente, ejus nulla adesse potest perfectio, <expan><abbr>qu</abbr><ex>a</ex><abbr><hi rend="hook">e</hi></abbr></expan>
@@ -114,7 +114,7 @@
                   </ab></div>
                   <fw type="catchword" place="bottom-right">Post</fw>
                <pb n="159" edRef="Maier1618"/>
-               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="37">XXXVII</num>.</fw> <fw type="pageNum" place="top-right">159</fw>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="37">XXXVII</num>.</fw> <fw type="pageNum" place="top-right">159</fw>
                   <div type="discourse-p2"><ab>
                      <lb n="1"/><milestone unit="section" n="e37-11"/>Post aquam f<hi rend="ligature">oe</hi>tidam Leo viridis occurrit: de quo <title ref="http://viaf.org/viaf/191597728">Rosarius</title>, qu<hi rend="ligature">ae</hi>si
                      <lb n="2" break="no"/>visti autem de viriditate, putans, quod <hi rend="ligature">ae</hi>s esset corpus leprosum pro

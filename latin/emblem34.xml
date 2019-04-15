@@ -25,7 +25,7 @@
       <body>
          <div type="emblem" n="e34">
             <pb n="144" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left">144</fw><fw type="header" place="top-center">FUGA <num value="34" type="cardinal">XXXIV</num>. in <num value="8">8</num>. infrà.</fw>
+            <fw type="pageNum" place="top-left">144</fw><fw type="header" place="top-center">FUGA <num value="34">XXXIV</num>. in 8. infrà.</fw>
             
             <div type="fugue" xml:lang="de">
                <head>
@@ -37,7 +37,7 @@
             </div>
             
             <div type="epigram" xml:lang="de">
-               <head><num value="34" type="cardinal">XXXIV</num>. Epigrammatis Latini versio Germanica.</head>
+               <head><num value="34">XXXIV</num>. Epigrammatis Latini versio Germanica.</head>
                <lg>
                   <lb n="1"/><l>Im Wasserbad geschehn ist sein Empfängnuß <pc>/</pc> aber in Lüfften</l>
                   <lb n="2"/><l>Ist er geborn <pc>/</pc> und roht geht uber die Wasserklüfften <pc>/</pc></l>
@@ -51,7 +51,7 @@
             
             <pb n="145" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="34" type="cardinal">XXXIV</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi> </fw><fw type="pageNum" place="top-right">145</fw>
+            <fw type="header" place="top-center">Emblema <num value="34">XXXIV</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi> </fw><fw type="pageNum" place="top-right">145</fw>
             
             <div type="image" xml:lang="la">
                <head> <lb n="1"/>In balneis concipitur, <g type="ampersand">et</g> in aëre nascitur, rubeus ver<hi rend="grave">o</hi>
@@ -59,7 +59,7 @@
             </div>      
             
             <div type="epigram" xml:lang="la">
-               <head>Epigramma <num value="34" type="cardinal">XXXIV</num>.</head>
+               <head>Epigramma <num value="34">XXXIV</num>.</head>
                <lg>
                   <lb n="1"/><l>Balnea conceptu pueri, natalibus aër</l>
                   <lb n="2"/><l>Splendet <g type="ampersand">et</g> hinc rubeus sub pede cernit aquas.</l>
@@ -74,7 +74,7 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="146" edRef="Maier1618"/>
-               <fw type="pageNum" place="top-left"><choice><sic>149</sic><corr>146</corr></choice></fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="34">XXXIV</num>
+               <fw type="pageNum" place="top-left"><choice><sic>149</sic><corr>146</corr></choice></fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="34">XXXIV</num>
                </fw>
                <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e34-01"/>Hominum opinio vel adulatio quibusdam pr<hi rend="ligature">ae</hi> reliquis mira
@@ -114,7 +114,7 @@
                   </ab></div>
                   <fw type="catchword" place="bottom-right">trefactio</fw>
                <pb n="147" edRef="Maier1618"/>
-               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="34">XXXIV</num>.</fw> <fw type="pageNum" place="top-right">147</fw>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="34">XXXIV</num>.</fw> <fw type="pageNum" place="top-right">147</fw>
                   <div type="discourse-p2"><ab>
                      <lb n="1"/>trefactio fiat igne lentissimo fimi calidi <g type="ampersand">et</g> humidi, <g type="ampersand">et</g> nequaquam
                      <lb n="2"/>alio, ita quod nihil ascendat: quia si aliquid ascenderet, fieret separa

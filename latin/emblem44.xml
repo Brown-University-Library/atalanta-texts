@@ -24,7 +24,7 @@
       <body>
          <div type="emblem" n="e44">
             <pb n="184" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left">184</fw><fw type="header" place="top-center">FUGA <num value="44" type="cardinal">XLIV</num>. in <num value="5">5</num>. seu <num value="12">12</num>. suprà. Basi sola proportione existente.</fw>
+            <fw type="pageNum" place="top-left">184</fw><fw type="header" place="top-center">FUGA <num value="44">XLIV</num>. in 5. seu 12. suprà. Basi sola proportione existente.</fw>
             
             <div type="fugue" xml:lang="de">
                <head>
@@ -37,7 +37,7 @@
             </div>
             
             <div type="epigram" xml:lang="de">
-               <head><num value="44" type="cardinal">XLIV</num>. Epigrammatis Latini versio Germanica.</head>
+               <head><num value="44">XLIV</num>. Epigrammatis Latini versio Germanica.</head>
                <lg>
                   <lb n="1"/><l><placeName>Syrien</placeName> <persName><hi rend="latin">Adonim</hi></persName> hat <pc>/</pc> <persName type="divinity"><hi rend="latin">Dionysum</hi></persName> <placeName>Griechenland</placeName> eben <pc>/</pc></l>
                   <lb n="2"/><l><placeName>Egypten</placeName> <persName type="divinity"><hi rend="latin">Osirim</hi></persName>, so seynd die Sonn den Weisen geben <pc>/</pc></l>
@@ -51,7 +51,7 @@
             
             <pb n="185" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="44" type="cardinal">XLIV</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">185</fw>
+            <fw type="header" place="top-center">Emblema <num value="44">XLIV</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">185</fw>
             
             <div type="image" xml:lang="la">
                <head><lb n="1"/>Dolo <persName type="divinity">Typhon</persName> <persName type="divinity">Osyridem</persName> trucidat, art<hi rend="acute">u</hi>sque illius
@@ -59,7 +59,7 @@
             </div>     
             
             <div type="epigram" xml:lang="la">
-               <head>Epigramma <num value="44" type="cardinal">XLIV</num>.</head>
+               <head>Epigramma <num value="44">XLIV</num>.</head>
                <lg>
                   <lb n="1"/><l><placeName>Syria</placeName> <persName>Adonidem</persName> habet, <persName type="divinity">Dionysum</persName> <placeName>Gr<hi rend="ligature">ae</hi>cia</placeName>, <persName type="divinity">Osirim</persName></l>
                   <lb n="2"/><l><placeName><hi rend="ligature">Ae</hi>gyptus</placeName>, qui sunt nil nisi <hi rend="smallCaps">Sol</hi> Sophi<hi rend="ligature">ae</hi>:</l>
@@ -74,7 +74,7 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="186" edRef="Maier1618"/>
-               <fw type="pageNum" place="top-left">186</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="44">XLIV</num>.</fw>
+               <fw type="pageNum" place="top-left">186</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="44">XLIV</num>.</fw>
                   <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e44-01"/><persName type="divinity">Osyridis</persName> allegoriam alibi, nempe in <num value="1" type="ordinal">1</num>. <expan><abbr>lib<am>.</am></abbr><ex>ro</ex></expan> <title><expan><abbr>Hieroglyph<am>.</am></abbr><ex>icorum</ex></expan></title> ad suam
                      <lb n="2"/>veram originem, qu<hi rend="ligature">ae</hi> Chymica est, reduximus <g type="ampersand">et</g> plenari<hi rend="grave">e</hi> ex
@@ -112,7 +112,7 @@
                   </ab></div>
                   <fw type="catchword" place="bottom-right">Diony-</fw>
                <pb n="187" edRef="Maier1618"/>
-               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="44">XLIV</num>.</fw> <fw type="pageNum" place="top-right">187</fw>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="44">XLIV</num>.</fw> <fw type="pageNum" place="top-right">187</fw>
                   <div type="discourse-p2"><ab>
                      <lb n="1"/><milestone unit="section" n="e44-13"/><persName type="divinity">Dionysus</persName> adultus novam vini potionem monstrat hominibus <expan><abbr>usq<am>;</am></abbr><ex>ue</ex></expan>
                      <lb n="2"/>in <placeName>Indiam</placeName> expeditionem suscipiens; <persName type="divinity">Osiris</persName> <g type="ampersand">et</g> <persName>Triptolemus</persName>, frugum
@@ -130,7 +130,7 @@
                      <lb n="14"/><persName>Helena</persName> <orgName>Trojani</orgName> belli caus<hi rend="ligature">ae</hi> fuerunt, h<hi rend="ligature">ae</hi>c ut impulsiva, ille ut effi
                      <lb n="15" break="no"/>ciens; <persName>Helena</persName> nata ex ovo est, <g type="ampersand">et</g> in <persName>Pelei</persName> <g type="ampersand">et</g> <persName type="divinity">Thetidis</persName> nuptiis, ex <expan><abbr>quib<am>.</am></abbr><ex>us</ex></expan>
                      <lb n="16"/><persName>Achilles</persName> natus, pomum <persName type="divinity">Eridos</persName>, prima causa raptus <persName>Helen<hi rend="ligature">ae</hi></persName>, proje
-                     <lb n="17" break="no"/>ctum fuit. <milestone unit="section" n="e44-17"/><persName>Pollux</persName> adfuit Argonautis, qui <num value="50" type="cardinal">quinquaginta</num> fer<hi rend="grave">e</hi> annis
+                     <lb n="17" break="no"/>ctum fuit. <milestone unit="section" n="e44-17"/><persName>Pollux</persName> adfuit Argonautis, qui <num value="50">quinquaginta</num> fer<hi rend="grave">e</hi> annis
                      <lb n="18"/>ante bellem <orgName>Trojanum</orgName> inceptum vixisse pr<hi rend="ligature">ae</hi>supponuntur (si vixe
                      <lb n="19" break="no"/>rint) <g type="ampersand">et</g> <persName>Helena</persName> cum <persName>Polluce</persName> ex uno ovo prodiit; <milestone unit="section" n="e44-18"/>Fuit itaque anus
                      <lb n="20"/><persName>Helena</persName>, c<hi rend="grave">u</hi>m raperetur <hi rend="grave">a</hi> <persName>Paride</persName>: <persName>Achilli</persName> in <placeName>Elysiis</placeName> campis <persName>Medea</persName>

@@ -72,7 +72,7 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="98" edRef="Maier1618"/>
-               <fw type="pageNum" place="top-left">98</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="22">XXII</num>.</fw>
+               <fw type="pageNum" place="top-left">98</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="22">XXII</num>.</fw>
                   <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e22-01"/>Quemadmodum in triviis statu<hi rend="ligature">ae</hi> Mercuriales un<hi rend="grave">a</hi> cum indice
                      <lb n="2"/><g type="ampersand">et</g> inscriptione poni solent ad deducendum ancipites viatores
@@ -110,7 +110,7 @@
                   </ab></div>
                   <fw type="catchword" place="bottom-right">pro-</fw>
                <pb n="99" edRef="Maier1618"/>
-               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="22">XXII</num>.</fw> <fw type="pageNum" place="top-right">99</fw>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="22">XXII</num>.</fw> <fw type="pageNum" place="top-right">99</fw>
                   <div type="discourse-p2"><ab>
                      <lb n="1"/>prodeunt. <milestone unit="section" n="e22-12"/>Per coctionem ver<hi rend="grave">o</hi> maturatio, <g type="ampersand">et</g> crudiorum partium
                      <lb n="2"/>dispersio intelligitur, qu<hi rend="ligature">ae</hi> fit per <persName><expan><abbr>Vulcan<hi rend="tilde">u</hi></abbr><ex>m</ex></expan></persName> in Philosophi<hi rend="ligature">ae</hi> vasis: Non

@@ -24,7 +24,7 @@
       <body>
          <div type="emblem" n="e28">
             <pb n="120" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left">120</fw><fw type="header" place="top-center">FUGA <num value="28" type="cardinal">XXVIII</num>. in <num value="9">9</num> seu <num value="12">12</num>. suprà.</fw>
+            <fw type="pageNum" place="top-left">120</fw><fw type="header" place="top-center">FUGA <num value="28">XXVIII</num>. in 9 seu 12. suprà.</fw>
             
             <div type="fugue" xml:lang="de">
                <head>
@@ -36,7 +36,7 @@
             </div>
             
             <div type="epigram" xml:lang="de">
-               <head><num value="28" type="cardinal">XXVIII</num>. Epigrammatis Latini versio Germanica.</head>
+               <head><num value="28">XXVIII</num>. Epigrammatis Latini versio Germanica.</head>
                <lg>
                   <lb n="1"/><l>Der König <persName>Duenech</persName> (der ein grünen Löwen führet in seinm Schildt)</l>
                   <lb n="2"/><l>Durch der Gallen Uberfluß von Sitten scheinte ganz wildt <pc>/</pc></l>
@@ -50,7 +50,7 @@
             
             <pb n="121" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="28" type="cardinal">XXVIII</num>. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">121</fw>
+            <fw type="header" place="top-center">Emblema <num value="28">XXVIII</num>. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">121</fw>
             
             <div type="image" xml:lang="la">
                <head><lb n="1"/>Rex balneatur in Laconico sedens,
@@ -58,7 +58,7 @@
             </div>
             
             <div type="epigram" xml:lang="la">
-               <head>Epigramma <num value="28" type="cardinal">XXVIII</num>.</head>
+               <head>Epigramma <num value="28">XXVIII</num>.</head>
                <lg>
                   <lb n="1"/><l>Rex <persName>Duenech</persName> (viridis cui fulgent arma Leonis)</l>
                   <lb n="2"/><l>Bile tumens rigidis moribus usus erat.</l>
@@ -73,7 +73,7 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="122" edRef="Maier1618"/>
-               <fw type="pageNum" place="top-left">122</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="28">XXVIII</num>.</fw>
+               <fw type="pageNum" place="top-left">122</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="28">XXVIII</num>.</fw>
                   <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e28-01"/>Ut tres sunt in homine concoctiones, prima in ventriculo, <expan><abbr>sec<hi rend="tilde">u</hi></abbr><ex>n</ex>
                         <lb n="2" break="no"/><abbr>da</abbr></expan> in epate, teria in venis, ita <g type="ampersand">et</g> totidem sunt universales excre
@@ -111,7 +111,7 @@
                   </ab></div>
                   <fw type="catchword" place="bottom-right">itaque</fw>
                <pb n="123" edRef="Maier1618"/>
-               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="28">XXVIII</num>.</fw> <fw type="pageNum" place="top-right">123</fw>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="28">XXVIII</num>.</fw> <fw type="pageNum" place="top-right">123</fw>
                   <div type="discourse-p2"><ab>
                      <lb n="1"/><expan><abbr>itaq<am>;</am></abbr><ex>ue</ex></expan> <hi rend="grave">a</hi> <persName>Pharut</persName> in Laconicum introducitur, ut ibi sudet, <g type="ampersand">et</g> terti<hi rend="ligature">ae</hi> <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>n</ex>
                      <lb n="2" break="no"/><abbr>coctionis</abbr></expan> f<hi rend="ligature">oe</hi>ces per poros excernat: Est autem hujus regis affectus

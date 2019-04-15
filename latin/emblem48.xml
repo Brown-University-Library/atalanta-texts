@@ -25,7 +25,7 @@
       <body>
          <div type="emblem" n="e48">
             <pb n="200" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left"><choice><sic>184</sic><corr>200</corr></choice></fw><fw type="header" place="top-center">FUGA <num value="48" type="cardinal">XLVIII</num>. in <num value="5">5</num>. seu <num value="12">12</num>. suprà. vertendo simplicem. ac initio.</fw>
+            <fw type="pageNum" place="top-left"><choice><sic>184</sic><corr>200</corr></choice></fw><fw type="header" place="top-center">FUGA <num value="48">XLVIII</num>. in 5. seu 12. suprà. vertendo simplicem. ac initio.</fw>
             
             <div type="fugue" xml:lang="de">
                <head>
@@ -38,7 +38,7 @@
             </div>
             
             <div type="epigram" xml:lang="de">
-               <head><num value="48" type="cardinal">XLVIII</num>. Epigrammatis Latini versio Germanica.</head>
+               <head><num value="48">XLVIII</num>. Epigrammatis Latini versio Germanica.</head>
                <lg>
                   <lb n="1"/><l>Einm König von Gut <expan><abbr>v</abbr><ex>o</ex><abbr><hi rend="tilde">n</hi></abbr></expan> Leuten mächtig ein Brunnwasser für allen <pc>/</pc></l>
                   <lb n="2"/><l>So er den Dienern befohl zubringen <pc>/</pc> thät gefallen <pc>/</pc></l>
@@ -52,7 +52,7 @@
             
             <pb n="201" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="48" type="cardinal">XLVIII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">201</fw>
+            <fw type="header" place="top-center">Emblema <num value="48">XLVIII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">201</fw>
             
             <div type="image" xml:lang="la">
                <head> <lb n="1"/>Rex ab aquis potatis morbum, <hi rend="grave">a</hi> medicis curatus
@@ -60,7 +60,7 @@
             </div>          
             
             <div type="epigram" xml:lang="la">
-               <head>Epigramma <num value="48" type="cardinal">XLVIII</num>.</head>
+               <head>Epigramma <num value="48">XLVIII</num>.</head>
                <lg>
                   <lb n="1"/><l>Divitius popul<hi rend="acute">i</hi>sque potens Rex fontis amavit,</l>
                   <lb n="2"/><l>Portari <hi rend="grave">a</hi> servis quas sibi poscit, aquas:</l>
@@ -75,7 +75,7 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="202" edRef="Maier1618"/>
-               <fw type="pageNum" place="top-left">202</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="48">XLVIII</num>.</fw>
+               <fw type="pageNum" place="top-left">202</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="48">XLVIII</num>.</fw>
                   <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e48-01"/><persName ref="https://viaf.org/viaf/282770127">Xerxes</persName> ille potentissimus <orgName>Persarum</orgName> rex, c<hi rend="grave">u</hi>m per sicca <g type="ampersand">et</g> inculta
                      <lb n="2"/>loca sub <hi rend="ligature">ae</hi>stu exercitum duceret sitibundus haustum aqu<hi rend="ligature">ae</hi> tur
@@ -113,7 +113,7 @@
                   </ab></div>
                   <fw type="catchword" place="bottom-right">potest</fw>
                <pb n="203" edRef="Maier1618"/>
-               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="48">XLVIII</num>.</fw> <fw type="pageNum" place="top-right">203</fw>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="48">XLVIII</num>.</fw> <fw type="pageNum" place="top-right">203</fw>
                   <div type="discourse-p2"><ab>
                      <lb n="1"/><quote>potest dare ignem, cui vult, <g type="ampersand">et</g> quando vult, <g type="ampersand">et</g> quantum vult sine su<hi rend="raised">o</hi>
                         <lb n="2"/>periculo <g type="ampersand">et</g> defectu.</quote> <milestone unit="section" n="e48-12"/><persName ref="http://viaf.org/viaf/228724785">Democriti</persName> pater ade<hi rend="grave">o</hi> dives fuit, ut exercitui

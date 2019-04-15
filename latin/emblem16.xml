@@ -70,7 +70,7 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="74" edRef="Maier1618"/>
-               <fw type="pageNum" place="top-left">74</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="16">XVI</num>.</fw>
+               <fw type="pageNum" place="top-left">74</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi>. <num value="16">XVI</num>.</fw>
                   <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e16-01"/>Leonem non tam magnitudine <g type="ampersand">et</g> robore corporis qu<hi rend="grave">a</hi>m gene
                      <lb n="2" break="no"/>rositate c<hi rend="ligature">ae</hi>teris pr<hi rend="ligature">ae</hi>valere animalibus, ab <expan><abbr>experi<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>tia</abbr></expan> notum est.
@@ -108,7 +108,7 @@
                   </ab></div>
                   <fw type="catchword" place="bottom-right">quando</fw>
                <pb n="75" edRef="Maier1618"/>
-               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="16">XVI</num>.</fw> <fw type="pageNum" place="top-right">75</fw>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi>. <num value="16">XVI</num>.</fw> <fw type="pageNum" place="top-right">75</fw>
                   <div type="discourse-p2"><ab>
                      <lb n="1"/>quando absque causa in furorem incidat, fugam meditari. <milestone unit="section" n="e16-15"/>Ipse
                      <lb n="2"/>enim dum fugituram moratur, majori erga eam amore incita

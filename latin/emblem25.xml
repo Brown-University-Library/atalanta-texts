@@ -47,7 +47,7 @@
             
             <fw type="catchword">Emble-</fw>            
             <pb n="109" edRef="Maier1618"/>
-            <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="25">XXV</num>.</fw><fw type="pageNum" place="top-right">109</fw>
+            <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="25">XXV</num>.</fw><fw type="pageNum" place="top-right">109</fw>
             
             <div type="image" xml:lang="la">
                <head><lb n="1"/>Draco non moritur, nisi cum fratre <g type="ampersand">et</g> sorore sua inter
@@ -67,7 +67,7 @@
             </div>
             
             <fw type="gathering" place="bottom-right">O 3</fw> <fw type="catchword" place="bottom-right">In</fw>
-            <fw type="pageNum" place="top-left">110</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="25">XXV</num>.</fw>
+            <fw type="pageNum" place="top-left">110</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="25">XXV</num>.</fw>
             
             <div type="discourse" xml:lang="la">
                <pb n="110" edRef="Maier1618"/>
@@ -109,7 +109,7 @@
                   </ab></div>
                   <fw type="catchword" place="bottom-right">nus</fw>
                <pb n="111" edRef="Maier1618"/>
-               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="25">XXV</num>.</fw> <fw type="pageNum" place="top-right">111</fw>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="25">XXV</num>.</fw> <fw type="pageNum" place="top-right">111</fw>
                <div type="discourse-p2"><ab>
                      <lb n="1" break="no"/>nus: <milestone unit="section" n="e25-15"/><persName><hi rend="ligature">Ae</hi>sculapio</persName> <persName>Apollinis</persName> filio, medicin<hi rend="ligature">ae</hi> inventori (Medicin<hi rend="ligature">ae</hi> <expan><abbr>Phi
                      <lb n="2" break="no"/>los<am>.</am></abbr><ex>phicae</ex></expan> <expan><abbr>serp<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>s</abbr></expan> dicatur, in qua forma ex <placeName>Epidauro</placeName> <persName><expan><abbr>Rom<hi rend="tilde">a</hi></abbr><ex>m</ex></expan></persName> advectus cre

@@ -27,7 +27,7 @@
       <body>
          <div type="emblem" n="e8">
             <pb n="40" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left">40</fw> <fw type="header" place="top-center">FUGA <choice><sic>IV</sic><corr>VIII</corr></choice>. in 8 supr<hi rend="grave">a</hi>.</fw>
+            <fw type="pageNum" place="top-left">40</fw> <fw type="header" place="top-center">FUGA <choice><sic>IV</sic><corr>VIII</corr></choice>. in 8 suprà.</fw>
             
             
             <div type="fugue" xml:lang="de">
@@ -75,7 +75,7 @@
             
            <fw type="gathering">F</fw> <fw type="catchword" place="bottom-right">Multa</fw>
             <pb n="42" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left">42</fw><fw type="header" place="top-center"> <hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="8">VIII</num>,</fw>
+            <fw type="pageNum" place="top-left">42</fw><fw type="header" place="top-center"> <hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="8">VIII</num>,</fw>
             
             <div type="discourse" xml:lang="la">
                   <div type="discourse-p1"><ab>
@@ -116,7 +116,7 @@
                <fw type="catchword" place="bottom-right">sic</fw>
                   
                <pb n="43" edRef="Maier1618"/>
-               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="8">VIII</num>.</fw> <fw type="pageNum" place="top-right">43</fw>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="8">VIII</num>.</fw> <fw type="pageNum" place="top-right">43</fw>
 <div type="discourse-p2">
    <ab>
                      <lb n="1"/>sic <persName ref="http://viaf.org/viaf/120696927">Lullius</persName> hunc gladium igneum, acutam lanceam vocat multis in

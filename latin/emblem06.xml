@@ -29,7 +29,7 @@
          <div type="emblem" n="e6">
             
             <pb n="32" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left">32</fw> <fw type="header" place="top-center">FUGA VI. in Quarta, infr<hi rend="grave">a</hi>.</fw>
+            <fw type="pageNum" place="top-left">32</fw> <fw type="header" place="top-center">FUGA VI. in Quarta, infrà.</fw>
 
             <div type="fugue" xml:lang="de">
                <head>
@@ -75,7 +75,7 @@
             
            <fw type="gathering">E</fw> <fw type="catchword" place="bottom-right">Plato</fw>
             <pb n="34" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left">34</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="6">VI</num>.</fw>
+            <fw type="pageNum" place="top-left">34</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="6">VI</num>.</fw>
             
             <div type="discourse" xml:lang="la">
                    <div type="discourse-p1"><ab>
@@ -115,7 +115,7 @@
                      <lb n="34" break="no"/>ptolem<hi rend="tilde">u</hi></abbr><ex>m</ex></expan></persName>, <persName><expan><abbr>Osirid<hi rend="tilde">e</hi></abbr><ex>m</ex></expan></persName>, <persName>Dionysum</persName>, Deos aureos, seu ad <expan><abbr>chemi<hi rend="tilde">a</hi></abbr><ex>m</ex></expan> <expan><abbr>spect<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>tes</abbr></expan>
                   </ab></div>
                <fw type="catchword" place="bottom-right">quasi</fw>
-               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="6">VI</num>.</fw> <fw type="pageNum" place="top-right">35</fw>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="6">VI</num>.</fw> <fw type="pageNum" place="top-right">35</fw>
                
                <pb n="35" edRef="Maier1618"/>
                <div type="discourse-p2"><ab>

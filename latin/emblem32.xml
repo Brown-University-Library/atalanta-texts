@@ -24,7 +24,7 @@
       <body>
          <div type="emblem" n="e32">
             <pb n="136" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left"><choice><sic>126</sic><corr>136</corr></choice></fw><fw type="header" place="top-center">FUGA <num value="32" type="cardinal">XXXII</num>. in <num value="5">5</num>. suprà.</fw>
+            <fw type="pageNum" place="top-left"><choice><sic>126</sic><corr>136</corr></choice></fw><fw type="header" place="top-center">FUGA <num value="32">XXXII</num>. in 5. suprà.</fw>
             
             <div type="fugue" xml:lang="de">
                <head>
@@ -36,7 +36,7 @@
             </div>
             
             <div type="epigram" xml:lang="de">
-               <head><num value="32" type="cardinal">XXXII</num>. Epigrammatis Latini versio Germanica.</head>
+               <head><num value="32">XXXII</num>. Epigrammatis Latini versio Germanica.</head>
                <lg>
                   <lb n="1"/><l>Ein Pflantze Feucht <pc>/</pc> wachsend im Meer von <orgName>Sicilien</orgName> nicht weit <pc>/</pc></l>
                   <lb n="2"/><l>Unterm warmen Wasser hat sein Zweiglein fein außgebreitt <pc>/</pc></l>
@@ -50,14 +50,14 @@
             
             <pb n="137" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="32" type="cardinal">XXXII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi> </fw><fw type="pageNum" place="top-right">137</fw>
+            <fw type="header" place="top-center">Emblema <num value="32">XXXII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi> </fw><fw type="pageNum" place="top-right">137</fw>
             
             <div type="image" xml:lang="la">
                <head> <lb n="1"/>Corallus sub aquis ut crescit <g type="ampersand">et</g> aëre induratur, sic lapis.</head>
             </div>  
             
             <div type="epigram" xml:lang="la">
-               <head>Epigramma <num value="32" type="cardinal">XXXII</num>.</head>
+               <head>Epigramma <num value="32">XXXII</num>.</head>
                <lg>
                   <lb n="1"/><l>Planta maris vegetans <orgName>Siculi</orgName> sub fluctibus uda</l>
                   <lb n="2"/><l>Ramos sub tepidis multiplicavit aquis.</l>
@@ -72,7 +72,7 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="138" edRef="Maier1618"/>
-               <fw type="pageNum" place="top-left">138</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="32">XXXII</num>.</fw>
+               <fw type="pageNum" place="top-left">138</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="32">XXXII</num>.</fw>
                   <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e32-01"/>Philosophi vocant lapidem suum vegetabilem, quia instar
                      <lb n="2"/>plant<hi rend="ligature">ae</hi> vegetet, crescat, augmentetur <g type="ampersand">et</g> multiplicetur: quod
@@ -103,14 +103,14 @@
                      <lb n="27"/>Nam mineras quasdam, ferri <g type="ampersand">et</g> argenti succino adnatas vidimus,
                      <lb n="28"/>quid fieri non potuit, nisi in terra. <milestone unit="section" n="e32-08"/>Quod ver<hi rend="grave">o</hi> musc<hi rend="ligature">ae</hi>, culices, aranei<supplied reason="omitted">,</supplied>
                      <lb n="29"/>papiliones, ran<hi rend="ligature">ae</hi> <g type="ampersand">et</g> serpentes in quibusdam frustulis cernantur
-                     <lb n="30"/>(quemadmodum nos <num value="120" type="cardinal">120</num> globulos ex succino tornatos habuimus,
+                     <lb n="30"/>(quemadmodum nos <num value="120">120</num> globulos ex succino tornatos habuimus,
                      <lb n="31"/>qui singuli muscas, culices, araneas, papiliones aliquot <expan><abbr>continuer<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>t</abbr></expan>
-                     <lb n="32"/>una etiam particula <num value="9" type="cardinal">9</num>. non sine natur<hi rend="ligature">ae</hi> singulari miraculo) ex pro
+                     <lb n="32"/>una etiam particula <num value="9">9</num>. non sine natur<hi rend="ligature">ae</hi> singulari miraculo) ex pro
                      <lb n="33" break="no"/>fluentia <g type="ampersand">et</g> imaginatione c<hi rend="ligature">oe</hi>li accidit; ut alibi demonstravimus.
                   </ab></div>
                   <fw type="catchword" place="bottom-right">Ambra</fw>
                <pb n="139" edRef="Maier1618"/>
-               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi>. <num value="32">XXXII</num>.</fw> <fw type="pageNum" place="top-right">139</fw>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi>. <num value="32">XXXII</num>.</fw> <fw type="pageNum" place="top-right">139</fw>
                   <div type="discourse-p2"><ab>
                      <lb n="1"/><milestone unit="section" n="e32-09"/>Ambra Grysea quo <expan><abbr>eod<hi rend="tilde">e</hi></abbr><ex>m</ex></expan> modo in <placeName>Indi<hi rend="ligature">ae</hi></placeName> orientalis <g type="ampersand">et</g> occidentalis
                      <lb n="2"/>littoribus inveniatur, negari non potest <g type="ampersand">et</g> quamvis quidam ad ar

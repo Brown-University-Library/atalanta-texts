@@ -25,7 +25,7 @@
       <body>
          <div type="emblem" n="e26">
             <pb n="112" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left">112</fw><fw type="header" place="top-center">FUGA <choice><sic><num value="22" type="cardinal">XXII</num></sic><corr><num value="26" type="cardinal">XXVI</num></corr></choice>. in <num value="8">8</num>. duplici; infrà. </fw>
+            <fw type="pageNum" place="top-left">112</fw><fw type="header" place="top-center">FUGA <choice><sic><num value="22">XXII</num></sic><corr><num value="26">XXVI</num></corr></choice>. in 8. duplici; infrà. </fw>
             
             <div type="fugue" xml:lang="de">
                <head>
@@ -72,7 +72,7 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="114" edRef="Maier1618"/>
-               <fw type="pageNum" place="top-left">114</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="26">XXVI</num>.</fw>
+               <fw type="pageNum" place="top-left">114</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="26">XXVI</num>.</fw>
                   <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e26-01"/> Pr<hi rend="ligature">ae</hi>clar<hi rend="grave">e</hi> <persName ref="http://viaf.org/viaf/78769600"><hi rend="italic">Tullius</hi></persName> hominis differentiam essentialem, qu<hi rend="circumflex">a</hi> <hi rend="grave">a</hi> reli
                      <lb n="2" break="no"/>quorum animalium genere differt, descripsit in hunc modum: 
@@ -116,7 +116,7 @@
                <fw type="catchword" place="bottom-right"><hi rend="italic">jucundior</hi></fw>
                   
                <pb n="115" edRef="Maier1618"/>
-               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num type="cardinal" value="26"><choice><corr>X</corr><sic>Y</sic></choice>VI</num>.</fw> <fw type="pageNum" place="top-right">115</fw>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="26"><choice><corr>X</corr><sic>Y</sic></choice>VI</num>.</fw> <fw type="pageNum" place="top-right">115</fw>
                   <div type="discourse-p2"><ab>
                      <lb n="1"/><quote rend="italic">jucundior est: Est <expan><ex>e</ex><abbr>n<am>.</am></abbr><ex>im</ex></expan> arbor vit<hi rend="ligature">ae</hi> <expan><abbr>omnib<am>.</am></abbr><ex>us</ex></expan> qui apprehendunt eam <g type="ampersand">et</g> beati sunt,
                         <note place="margin-right" rend="italic">

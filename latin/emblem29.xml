@@ -24,7 +24,7 @@
       <body>
          <div type="emblem" n="e29">
             <pb n="124" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left">124</fw><fw type="header" place="top-center">FUGA <num value="29" type="cardinal">XXIX</num>. in <num value="9">9</num> seu infrà.</fw>
+            <fw type="pageNum" place="top-left">124</fw><fw type="header" place="top-center">FUGA <num value="29">XXIX</num>. in 9 seu infrà.</fw>
             
             <div type="fugue" xml:lang="de">
                <head>
@@ -36,7 +36,7 @@
             </div>
             
             <div type="epigram" xml:lang="de">
-               <head><num value="29" type="cardinal">XXIX</num>. Epigrammatis Latini versio Germanica.</head>
+               <head><num value="29">XXIX</num>. Epigrammatis Latini versio Germanica.</head>
                <lg>
                   <lb n="1"/><l>Der Salamander kräfftig lebet in starckem Fewr unversehret <pc>/</pc></l>
                   <lb n="2"/><l>Und <persName><hi rend="latin">Vulcane</hi></persName> ganz nicht an dein Dräwen sich<pc>|</pc> kehret <pc>/</pc></l>
@@ -50,14 +50,14 @@
             
             <pb n="125" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="29" type="cardinal">XXIX</num>. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">125</fw>
+            <fw type="header" place="top-center">Emblema <num value="29">XXIX</num>. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">125</fw>
             
             <div type="image" xml:lang="la">
                <head><lb n="1"/>Ut Salamandra vivit igne sic lapis:</head>
             </div>            
             
             <div type="epigram" xml:lang="la">
-               <head>Epigramma <num value="29" type="cardinal">XXIX</num>.</head>
+               <head>Epigramma <num value="29">XXIX</num>.</head>
                <lg>
                   <lb n="1"/><l>Degit in ardenti Salamandra potentior igne,</l>
                   <lb n="2"/><l>Nec <persName>Vulcane</persName> tuas <hi rend="ligature">ae</hi>stimat illa minas:</l>
@@ -72,7 +72,7 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="126" edRef="Maier1618"/>
-               <fw type="pageNum" place="top-left">126</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="29">XXIX</num>.</fw>
+               <fw type="pageNum" place="top-left">126</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="29">XXIX</num>.</fw>
                   <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e29-01"/>Duo <expan><abbr>s<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>t</abbr></expan> <expan><abbr>Elem<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>ta</abbr></expan>, in <expan><abbr>quib<am>.</am></abbr><ex>us</ex></expan> animalia degunt, aqua <g type="ampersand">et</g> aër, <g type="ampersand">et</g> <expan><abbr>totid<hi rend="tilde">e</hi></abbr><ex>m</ex></expan>
                      <lb n="2"/>in <expan><abbr>quib<am>.</am></abbr><ex>us</ex></expan> nihil <expan><abbr>animat<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> superesse potest, terra <g type="ampersand">et</g> ignis. <milestone unit="section" n="e29-02"/>Ut <expan><ex>e</ex><abbr>n<am>.</am></abbr><ex>im</ex></expan> illa
@@ -111,7 +111,7 @@
                   </ab></div>
                   <fw type="catchword" place="bottom-right">suum</fw>
                <pb n="127" edRef="Maier1618"/>
-               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="29">XXIX</num>.</fw> <fw type="pageNum" place="top-right">127</fw>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="29">XXIX</num>.</fw> <fw type="pageNum" place="top-right">127</fw>
                   <div type="discourse-p2"><ab>
                      <lb n="1"/><expan><abbr>su<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> vocat <g type="ampersand">et</g> <expan><abbr>judici<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>, <expan><abbr>ex<hi rend="tilde">e</hi></abbr><ex>m</ex><abbr>ptis</abbr></expan> ab ejus foro nonnullis tanquam natur<hi rend="ligature">ae</hi>
                      <lb n="2"/>Imperatricis privilegiis <g type="ampersand">et</g> indultis: <milestone unit="section" n="e29-16"/>In h<hi rend="ligature">ae</hi>c <expan><abbr><hi rend="stroke">p</hi></abbr><ex>er</ex></expan> se, nisi alios sibi <expan><abbr>adj<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>gat</abbr></expan>

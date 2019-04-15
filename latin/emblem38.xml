@@ -24,7 +24,7 @@
       <body>
          <div type="emblem" n="e38">
             <pb n="160" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left">160</fw><fw type="header" place="top-center">FUGA <num value="38" type="cardinal">XXXVIII</num>. in <num value="7">7</num>. suprà.</fw>
+            <fw type="pageNum" place="top-left">160</fw><fw type="header" place="top-center">FUGA <num value="38">XXXVIII</num>. in 7. suprà.</fw>
             
             <div type="fugue" xml:lang="de">
                <head>
@@ -36,7 +36,7 @@
             </div>
             
             <div type="epigram" xml:lang="de">
-               <head><num value="38" type="cardinal">XXXVIII</num>. Epigrammatis Latini versio Germanica.</head>
+               <head><num value="38">XXXVIII</num>. Epigrammatis Latini versio Germanica.</head>
                <lg>
                   <lb n="1"/><l>Die Alten haben zwey Ding genant <persName><hi rend="latin">Rebis</hi></persName> mit einem Namen <pc>/</pc></l>
                   <lb n="2"/><l>Dieweil es in einem Leib Mann und Weib ist zusamen.</l>
@@ -50,7 +50,7 @@
             
             <pb n="161" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="38" type="cardinal">XXXVIII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">161</fw>
+            <fw type="header" place="top-center">Emblema <num value="38">XXXVIII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">161</fw>
             
             <div type="image" xml:lang="la">
                <head> <lb n="1"/><persName>Rebis</persName>, ut <persName>Hermaphroditus</persName>, nascitur ex duobus montibus,
@@ -58,7 +58,7 @@
             </div>   
             
             <div type="epigram" xml:lang="la">
-               <head>Epigramma <num value="38" type="cardinal">XXXVIII</num>.</head>
+               <head>Epigramma <num value="38">XXXVIII</num>.</head>
                <lg>
                   <lb n="1"/><l>Rem geminam <persName><hi rend="smallCaps">Rebis</hi></persName> veteres dix<hi rend="circumflex">e</hi>re, quod uno</l>
                   <lb n="2"/><l>Corpore sit mas h<hi rend="ligature">ae</hi>c f<hi rend="ligature">oe</hi>min<hi rend="acute">a</hi>que, Androgyna.</l>
@@ -73,7 +73,7 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="162" edRef="Maier1618"/>
-               <fw type="pageNum" place="top-left"><choice><sic>163</sic><corr>162</corr></choice></fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="38">XXXVIII</num>.</fw>
+               <fw type="pageNum" place="top-left"><choice><sic>163</sic><corr>162</corr></choice></fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="38">XXXVIII</num>.</fw>
                   <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e38-01"/><persName ref="https://viaf.org/viaf/88039167">Socrates</persName> interrogatus, cujas esset, Cosmopolitam seu mundi
                      <lb n="2"/>civem, respondit: Quo innuere voluit, se, etsi <placeName>Athenis</placeName> natus sit
@@ -111,7 +111,7 @@
                   </ab></div>
                   <fw type="catchword" place="bottom-right">Non</fw>
                <pb n="163" edRef="Maier1618"/>
-               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="38">XXXVIII</num>.</fw> <fw type="pageNum" place="top-right">163</fw>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="38">XXXVIII</num>.</fw> <fw type="pageNum" place="top-right">163</fw>
                   <div type="discourse-p2"><ab>
                      <lb n="1"/><milestone unit="section" n="e38-10"/>Non minori assiduitate <g type="ampersand">et</g> diligentia uti debent illi, qui patriam <persName>Re
                         <lb n="2" break="no"/>bis</persName> ex sese qu<hi rend="ligature">ae</hi>runt, ratione <g type="ampersand">et</g> librorum indicio edocti: Ver<hi rend="grave">u</hi>m li

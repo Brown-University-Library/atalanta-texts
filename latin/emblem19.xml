@@ -72,7 +72,7 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="86" edRef="Maier1618"/>
-               <fw type="pageNum" place="top-left">86</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="19">XIX</num>.</fw>
+               <fw type="pageNum" place="top-left">86</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="19">XIX</num>.</fw>
                   <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e19-01"/>Poët<hi rend="ligature">ae</hi> fingunt <persName>Geryonem</persName> <placeName>Hispani<hi rend="ligature">ae</hi></placeName> regem tricorporem exti
                      <lb n="2" break="no"/>tisse, qui boves purpurei coloris habuerit, quibus canis capitum
@@ -88,7 +88,7 @@
                      <lb n="12" break="no"/>nis</persName>, aut elementorum tanta consanguinitas <g type="ampersand">et</g> naturalis conjunctio,
                      <lb n="13"/>ut uno superato vel occiso <g type="ampersand">et</g> reliqua ex sese concidant <g type="ampersand">et</g> putrefiant
                      <lb n="14"/><expan><abbr>absq<am>;</am></abbr><ex>ue</ex></expan> ulla vi manuali adhibita. <milestone unit="section" n="e19-06"/>De <expan><abbr>bicorporib<am>.</am></abbr><ex>us</ex></expan> notum est, quod uno
-                     <lb n="15"/>mortuo <g type="ampersand">et</g> alter tabescat: quemadmodum puerum <num value="4" type="cardinal">4</num>. annorum <hi rend="ligature">ae</hi>
+                     <lb n="15"/>mortuo <g type="ampersand">et</g> alter tabescat: quemadmodum puerum <num value="4">4</num>. annorum <hi rend="ligature">ae</hi>
                      <lb n="16" break="no"/>tatis in <placeName>Italia</placeName> vidimus bicorporem, qui fratris sibi adh<hi rend="ligature">ae</hi>rentis caput
                      <lb n="17"/>intra suum corpus abscondebat, c<hi rend="ligature">ae</hi>tera propendebant umbilico
                      <lb n="18" break="no"/>tenus, in quo colligati seu connati erant: <milestone unit="section" n="e19-07"/>Quod si ille, qui propende
@@ -110,7 +110,7 @@
                   </ab></div>
                   <fw type="catchword" place="bottom-right">conster-</fw>
                <pb n="87" edRef="Maier1618"/>
-               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="19">XIX</num>.</fw> <fw type="pageNum" place="top-right"><choice><sic>67</sic><corr>87</corr></choice></fw>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="19">XIX</num>.</fw> <fw type="pageNum" place="top-right"><choice><sic>67</sic><corr>87</corr></choice></fw>
                   <div type="discourse-p2"><ab>
                      <lb n="1"/>consternatione, forti imaginatione in pestifera lue, vel ex f<hi rend="ligature">oe</hi>deris
                      <lb n="2"/>voto: <milestone unit="section" n="e19-11"/>In <placeName>India</placeName> sub <persName type="title" ref="https://viaf.org/viaf/38320916">imperio magni illius Mogolli<orgName/></persName> (qui nonus nunc ex

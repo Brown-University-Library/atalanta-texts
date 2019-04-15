@@ -25,7 +25,7 @@
       <body>
          <div type="emblem" n="e36">
             <pb n="152" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left">152</fw><fw type="header" place="top-center">FUGA <num value="36" type="cardinal">XXXVI</num>. in <num value="7">7</num>. infrà.</fw>
+            <fw type="pageNum" place="top-left">152</fw><fw type="header" place="top-center">FUGA <num value="36">XXXVI</num>. in 7. infrà.</fw>
             
             <div type="fugue" xml:lang="de">
                <head>
@@ -38,7 +38,7 @@
             </div>
             
             <div type="epigram" xml:lang="de">
-               <head><num value="36" type="cardinal">XXXVI</num>. Epigrammatis Latini versio Germanica.</head>
+               <head><num value="36">XXXVI</num>. Epigrammatis Latini versio Germanica.</head>
                <lg>
                   <lb n="1"/><l>Man sagt <pc>/</pc> daß der Stein sey ein verworffen Ding und schlecht <pc>/</pc></l>
                   <lb n="2"/><l>So ligt am Weg <pc>/</pc> daß ihn Reich und Arm könn haben mit Recht <pc>/</pc></l>
@@ -52,7 +52,7 @@
             
             <pb n="153" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema <num value="36" type="cardinal">XXXVI</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">153</fw>
+            <fw type="header" place="top-center">Emblema <num value="36">XXXVI</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">153</fw>
             
             <div type="image" xml:lang="la">
                <head><lb n="1"/>Lapis projectus est in terras, <g type="ampersand">et</g> in montibus exaltatus, <g type="ampersand">et</g> in
@@ -60,7 +60,7 @@
             </div>
             
             <div type="epigram" xml:lang="la">
-               <head>Epigramma <num value="36" type="cardinal">XXXVI</num>.</head>
+               <head>Epigramma <num value="36">XXXVI</num>.</head>
                <lg>
                   <lb n="1"/><l>Vile recrementum fertur <hi rend="smallCaps">Lapis</hi> atque jacere</l>
                   <lb n="2"/><l>Fort<hi rend="grave">e</hi> viis, sibi ut hinc dives in<hi rend="acute">o</hi>psque parent.</l>
@@ -75,7 +75,7 @@
             
             <div type="discourse" xml:lang="la">
                <pb n="154" edRef="Maier1618"/>
-               <fw type="pageNum" place="top-left">154</fw> <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="36">XXXVI</num>.</fw>
+               <fw type="pageNum" place="top-left">154</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="36">XXXVI</num>.</fw>
                   <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e36-01"/>Ab omnibus, qui lapidis nomen <g type="ampersand">et</g> potentiam vel semel audive
                      <lb n="2" break="no"/>runt, nisi sint ex penit<hi rend="grave">u</hi>s incredulis, qu<hi rend="ligature">ae</hi>ri solet, ubi inveniendus
@@ -113,7 +113,7 @@
                   </ab></div>
                   <fw type="catchword" place="bottom-right">sed</fw>
                <pb n="155" edRef="Maier1618"/>
-               <fw type="header" place="top-center"><hi rend="italic">Disc</hi>U<hi rend="italic">rs</hi>U<hi rend="italic">s</hi> <num value="36">XXXVI</num>.</fw> <fw type="pageNum" place="top-right">155</fw>
+               <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="36">XXXVI</num>.</fw> <fw type="pageNum" place="top-right">155</fw>
                   <div type="discourse-p2"><ab>
                      <lb n="1"/>sed exaltatur ad montes, utpote <placeName>Athum</placeName>, <placeName>Vesuvium</placeName>, <placeName><hi rend="ligature">Ae</hi>thnam</placeName>, <g type="ampersand">et</g>
                      <lb n="2"/>his similes flammivomos, quales in diversis orbis partibus permulti
