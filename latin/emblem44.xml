@@ -40,11 +40,11 @@
                <head><num value="44" type="cardinal">XLIV</num>. Epigrammatis Latini versio Germanica.</head>
                <lg>
                   <lb n="1"/><l><placeName>Syrien</placeName> <persName><hi rend="latin">Adonim</hi></persName> hat <pc>/</pc> <persName type="divinity"><hi rend="latin">Dionysum</hi></persName> <placeName>Griechenland</placeName> eben <pc>/</pc></l>
-                  <lb n="2"/><l><placeName>Egypten</placeName> <persName type="divinity"><hi rend="latin">Osirim</hi></persName>, so seijnd die Sonn den Weisen geben <pc>/</pc></l>
+                  <lb n="2"/><l><placeName>Egypten</placeName> <persName type="divinity"><hi rend="latin">Osirim</hi></persName>, so seynd die Sonn den Weisen geben <pc>/</pc></l>
                   <lb n="3"/><l>Die <persName type="divinity"><hi rend="latin">Isis</hi></persName> ist die Schwester <pc>/</pc> auch Mutter und <persName type="divinity"><hi rend="latin">Osiridis</hi></persName> Weib <pc>/</pc></l>
                   <lb n="4"/><l>Welchs Glieder der <persName type="divinity"><hi rend="latin">Typhon</hi></persName> theilt <pc>/</pc> sie wider fügt in ein Leib <pc>/</pc></l>
                   <lb n="5"/><l>Ihm aber gebrach das Glied deß Manns <pc>/</pc> im Wasser verlohren <pc>/</pc></l>
-                  <lb n="6"/><l>Dann der Schwebel vergeht <pc>/</pc> so den Schwebel gebohren.</l>
+                  <lb n="6"/><l>Dann der <choice><sic>Schwebel</sic><corr>Schwefel</corr></choice> vergeht <pc>/</pc> so den <choice><sic>Schwebel</sic><corr>Schwefel</corr></choice> gebohren.</l>
                </lg>
             </div>
             <fw type="catchword">Emble-</fw>

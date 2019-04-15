@@ -28,7 +28,7 @@
             <div type="fugue" xml:lang="de">
                <head>
 
-               <lb n="1"/>Welcher n der Philosophen Rosen Garten wil gehen ohne
+               <lb n="1"/>Welcher in der Philosophen RosenGarten wil gehen ohne
                <lb n="2"/>den Schlüssel <pc>/</pc> ist gleich einem Manne <pc>/</pc> der gehen wil
                <lb n="3"/>ohne Füssen.
             </head>
@@ -38,12 +38,12 @@
             <div type="epigram" xml:lang="de">
                <head><num value="27" type="cardinal">XXVII</num>. Epigrammatis Latini versio Germanica.</head>
                <lg>
-                  <lb n="1"/><l>Mit Rosen vielerleij Art ist geziert der Garte der Weißheit <pc>/</pc></l>
-                  <lb n="2"/><l>Aber sein Thür steht fest mit Schlossen versichen allzeit <pc>/</pc></l>
-                  <lb n="3"/><l>Ein gering Ding <pc>/</pc> so schleußt ihm auff <pc>/</pc> in der Welt gefunden werd <pc/></l>
+                  <lb n="1"/><l>Mit Rosen vielerley Art ist geziert der Garte der Weißheit <pc>/</pc></l>
+                  <lb n="2"/><l>Aber sein Thür steht fest mit Schlossen versehen allzeit <pc>/</pc></l>
+                  <lb n="3"/><l>Ein gering Ding <pc>/</pc> so schleußt ihn auff <pc>/</pc> in der Welt gefunden werd <pc/></l>
                   <lb n="4"/><l>Ohn welches du wandlest gleich ohen Fässe auff Erd <pc>/</pc></l>
                   <lb n="5"/><l>Umbsonst du auff den hohen Berg <placeName><hi rend="latin">Parnassum</hi></placeName> trachtest zu gehn <pc>/</pc></l>
-                  <lb n="6"/><l>Der du auff ebenem Weg kaum auff <expan><abbr>ein<am>'</am></abbr><ex>e</ex><abbr>m</abbr></expan> Schenckel kanst stehn.</l>
+                  <lb n="6"/><l>Der du auff ebenem Weg kaum auff ein'em Schenckel kanst stehn.</l>
                </lg>
             </div>
             <fw type="catchword">Emble-</fw>
