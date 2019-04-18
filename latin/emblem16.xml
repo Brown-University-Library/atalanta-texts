@@ -49,7 +49,7 @@
             <fw type="catchword">Emble-</fw>
             <pb n="73" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema XVI. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">73</fw>
+            <fw type="header" place="top-center">Emblema <num value="16">XVI</num>. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">73</fw>
             <div type="image" xml:lang="la">
                <head> <lb n="1"/>Hic leo, quas plumas non habet, alter habet.</head>
             </div>

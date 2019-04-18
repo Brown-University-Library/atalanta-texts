@@ -24,7 +24,7 @@
       <body>
          <div type="emblem" n="e19">
             <pb n="84" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left">84</fw><fw type="header" place="top-center">FUGA XIX. in 6. infrà.</fw>
+            <fw type="pageNum" place="top-left">84</fw><fw type="header" place="top-center">FUGA <num value="19">XIX</num>. in 6. infrà.</fw>
             
             <div type="fugue" xml:lang="de">
                <head>
@@ -50,7 +50,7 @@
             
             <pb n="85" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema XIX. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">85</fw>
+            <fw type="header" place="top-center">Emblema <num value="19">XIX</num>. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">85</fw>
             
             <div type="image" xml:lang="la">
                <head> <lb n="1"/>Si de quattuor unum Occidas, subit<hi rend="grave">o</hi> mortuus omnis erit.</head>

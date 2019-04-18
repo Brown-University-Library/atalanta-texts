@@ -25,7 +25,7 @@
       <body>
          <div type="emblem" n="e21">
             <pb n="92" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left">92</fw><fw type="header" place="top-center">FUGA XXI. in 4. suprà.</fw>
+            <fw type="pageNum" place="top-left">92</fw><fw type="header" place="top-center">FUGA <num value="21">XXI</num>. in 4. suprà.</fw>
             
             <div type="fugue" xml:lang="de">
                <head>
@@ -52,7 +52,7 @@
             
             <pb n="93" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema XXI. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">93</fw>
+            <fw type="header" place="top-center">Emblema <num value="21">XXI</num>. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">93</fw>
             
             <div type="image" xml:lang="la">
                <head><lb n="1"/>Fac ex mare <g type="ampersand">et</g> f<hi rend="ligature">oe</hi>mina circulum, inde quadrangulum, hinc trian

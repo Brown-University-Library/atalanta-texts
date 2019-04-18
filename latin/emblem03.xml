@@ -51,7 +51,7 @@
             
             <fw type="catchword" place="bottom-right">Emblema</fw>
             <pb n="21" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-right">21</fw><fw type="header" place="top-center">Emblema III.<hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.</fw>
+            <fw type="pageNum" place="top-right">21</fw><fw type="header" place="top-center">Emblema <num value="3">III</num>.<hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw>
             
             <div type="image" xml:lang="la">
                <head>

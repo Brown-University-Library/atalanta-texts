@@ -49,7 +49,7 @@
             
             <pb n="81" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema XVIII. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">81</fw>
+            <fw type="header" place="top-center">Emblema <num value="18">XVIII</num>. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">81</fw>
             
             <div type="image" xml:lang="la">
                <head><lb n="1"/>Ignire ignis amat, non aurificare, sed aurum:</head>

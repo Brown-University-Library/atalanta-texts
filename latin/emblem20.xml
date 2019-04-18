@@ -23,7 +23,7 @@
       <body>
          <div type="emblem" n="e20">
             <pb n="88" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left">88</fw><fw type="header" place="top-center">FUGA XX. in 3. infrà.</fw>
+            <fw type="pageNum" place="top-left">88</fw><fw type="header" place="top-center">FUGA <num value="20">XX</num>. in 3. infrà.</fw>
             
             <div type="fugue" xml:lang="de">
                <head>
@@ -49,7 +49,7 @@
             
             <pb n="89" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema XX. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">89</fw>
+            <fw type="header" place="top-center">Emblema <num value="20">XX</num>. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">89</fw>
             
             <div type="image" xml:lang="la">
                <head> <lb n="1"/>Naturam natura docet, debellet ut ignem.</head>

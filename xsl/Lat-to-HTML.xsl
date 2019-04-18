@@ -7,11 +7,16 @@
     version="2.0">
     <xd:doc scope="stylesheet">
         <xd:desc>
-            <xd:p>Stylesheet to convert the Latin Atalanta transcription to HTML. This is the
+            <xd:p>
+                Stylesheet to convert the Latin Atalanta transcription to HTML. This is the
             facsimile view.</xd:p>
             <xd:p><xd:b>Created on:</xd:b> Aug 18, 2018</xd:p>
             <xd:p><xd:b>Author:</xd:b> elli</xd:p>
-            <xd:p></xd:p>
+            <xd:p>Important to note that in order for html to work properly, text that should only appear in 
+            the facsimile view is enclosed in span elements with class="original" and text that should only appear
+            in the normalized, reading view is enclosed in span elements with class="regularized"
+            
+            </xd:p>
         </xd:desc>
     </xd:doc>
     
@@ -65,6 +70,11 @@
         <div class="{@type}">
             <xsl:apply-templates/>
         </div>
+        <xsl:choose>
+            <xsl:when test="@type='discourse-p1'">
+                <br class="discourse-pagebreak" />
+            </xsl:when>
+        </xsl:choose>
     </xsl:template>
     
     <xsl:template match="af:div[@type='page']">
@@ -188,7 +198,7 @@
     </xsl:template>
     
     <xsl:template match="af:reg | af:corr">  <!-- choice/orig/reg -->
-        <span class="regularized">[<xsl:apply-templates/>]</span>
+        <span class="regularized"><xsl:apply-templates/></span>
     </xsl:template>
     
     <xsl:template match="af:orig | af:sic">      
@@ -197,11 +207,24 @@
             <xsl:otherwise><span class="orig-solo"><xsl:apply-templates/></span></xsl:otherwise>
         </xsl:choose>      
     </xsl:template>
+    
+    <xsl:template match="af:surplus ">
+        <span class="original">
+            <xsl:text>{</xsl:text><xsl:apply-templates/><xsl:text>}</xsl:text>
+        </span>
+    </xsl:template>
+    
+    <xsl:template match="af:supplied ">
+        <span class="original">
+            <xsl:text>&lt;</xsl:text><xsl:apply-templates/><xsl:text>&gt;</xsl:text>
+        </span>
+        <span class="regularized">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
        
-    <xsl:template match="af:unclear | af:supplied | af:add ">
-       <span class="{name()}">
-           <xsl:apply-templates/>
-       </span>
+    <xsl:template match="af:unclear"> . <!-- should we keep unlcear indication in regularized?  -->
+           <xsl:text>[</xsl:text><xsl:apply-templates/><xsl:text>]</xsl:text>
    </xsl:template>
     
     <xsl:template match="af:hi[@rend='superscript']">
@@ -221,7 +244,7 @@
         <span class="original">&amp;</span><!--<span class="regularized">et</span>-->
     </xsl:template>
     
-    <!-- Abbreviations -->
+    <!-- xiations -->
     
     <xsl:template match="af:expan">
         <xsl:apply-templates mode="abbrev"/><span class="regularized"><xsl:apply-templates mode="expand"/></span>
@@ -249,9 +272,6 @@
     </xsl:template>
     <!-- end abbreviations -->
     
-    <xsl:template match="af:surplus">
-        <span class="original"><xsl:apply-templates/></span>
-    </xsl:template>
     
     <xsl:template match="af:quote">
         <xsl:choose>

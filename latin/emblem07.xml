@@ -52,7 +52,7 @@
             
             <fw type="catchword" place="bottom-right">Emblema</fw>
             <pb n="37" edRef="Maier1618"/> 
-            <fw type="header" place="top-center">Emblema VII.<hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.</fw> <fw type="pageNum" place="top-right">37</fw>
+            <fw type="header" place="top-center">Emblema <num value="7">VII</num>.<hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw> <fw type="pageNum" place="top-right">37</fw>
             
             <div type="image" xml:lang="la">
                <head>

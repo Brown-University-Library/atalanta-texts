@@ -23,7 +23,7 @@
       <body>
          <div type="emblem" n="e23">
             <pb n="100" edRef="Maier1618"/>
-            <fw type="pageNum" place="top-left">100</fw><fw type="header" place="top-center">FUGA XXIII. in 5. seu 12. suprà.</fw>
+            <fw type="pageNum" place="top-left">100</fw><fw type="header" place="top-center">FUGA <num value="23">XXIII</num>. in 5. seu 12. suprà.</fw>
             
             <div type="fugue" xml:lang="de">
                <head>
@@ -49,7 +49,7 @@
             
             <pb n="101" edRef="Maier1618"/>
             
-            <fw type="header" place="top-center">Emblema XXIII. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">101</fw>
+            <fw type="header" place="top-center">Emblema <num value="23">XXIII</num>. De Secretis Natur<hi rend="ligature">ae</hi>.</fw><fw type="pageNum" place="top-right">101</fw>
             
             <div type="image" xml:lang="la">
                <head><lb n="1"/>Aurum pluit, dum nascitur <persName>Pallas</persName> <placeName>Rhodi</placeName>, <g type="ampersand">et</g> <persName>Sol</persName> concumbit <persName>Veneri</persName>.</head>

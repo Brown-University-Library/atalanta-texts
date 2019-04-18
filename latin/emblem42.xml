@@ -51,7 +51,7 @@
             
             <pb n="177" edRef="Maier1618"/> 
             
-            <fw type="header" place="top-center">Emblema XLII. <hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">177</fw>
+            <fw type="header" place="top-center">Emblema <num value="42">XLII</num>. <hi rend="italic">De secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">177</fw>
             
             <div type="image" xml:lang="la">
                <head><lb n="1"/>In Chymicis versanti Natura, Ratio, Experientia <g type="ampersand">et></g> lectio,ob
