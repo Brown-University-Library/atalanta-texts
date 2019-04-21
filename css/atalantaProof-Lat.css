@@ -193,12 +193,12 @@ span.latin {
     font-style: normal;
 }
 
-span.caps, hi.caps {
-    text-transform: uppercase;
+span.smallCaps, hi.smallCaps {
+    font-variant: small-caps;
 }
 
-span.caps-latin {
-    text-transform: uppercase;
+span.smallCaps-latin {
+    font-variant: small-caps;
     font-style: normal;
 }
 
@@ -209,7 +209,6 @@ span.raised {
 .pc{
 
 }
-
 
 
 .fw{

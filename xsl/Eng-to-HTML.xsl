@@ -122,7 +122,6 @@
             <xsl:otherwise><span class="original"><br/></span><span class="regularized">&#160;</span> </xsl:otherwise>
         </xsl:choose>
         
-        
     </xsl:template>
 
     <xsl:template match="af:ab">
@@ -137,7 +136,7 @@
     
     <xsl:template match="af:orig | af:sic">      
         <xsl:choose>
-            <xsl:when test="parent::af:choice"><span class="original"><xsl:apply-templates/><xsl:text> </xsl:text></span></xsl:when>
+            <xsl:when test="parent::af:choice"><span class="original"><xsl:apply-templates/></span></xsl:when>
             <xsl:otherwise><span class="orig-solo"><xsl:apply-templates/></span></xsl:otherwise>
         </xsl:choose>      
     </xsl:template>
@@ -191,12 +190,15 @@
 
     <xsl:template match="af:pc">
         <xsl:choose>
-            <xsl:when test="following-sibling::af:lb[1]"/>
-            <!-- ignore if it's at the end of a line -->
+            <xsl:when test="following-sibling::af:lb[1]">
+                <!-- it's at the end of a line -->
+                <span class="original"><xsl:apply-templates/></span>
+            </xsl:when>
+        
             <xsl:otherwise>
                 <xsl:choose>
                     <xsl:when test="@rend='double-hyphen'">
-                        <xsl:text>=</xsl:text>
+                        <span class="original"><xsl:text>=</xsl:text></span><span class="regularized"><xsl:text>-</xsl:text></span>
                     </xsl:when>
                     <xsl:otherwise>
                         <span class="{name()}">

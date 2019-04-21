@@ -284,12 +284,12 @@
         
     </xsl:template>
      
-    <xsl:template match="af:hi[@rend='italic'] | af:hi[@rend='gothic'] | af:hi[@rend='latin'] | af:hi[@rend='smallCaps'] | af:hi[@rend='caps'] | af:hi[@rend='raised']">
+    <xsl:template match="af:hi[@rend='italic'] | af:hi[@rend='gothic'] | af:hi[@rend='latin'] | af:hi[@rend='smallCaps'] | af:hi[@rend='raised']">
         <span class="{@rend}"><xsl:apply-templates/></span>
     </xsl:template>
     
-    <xsl:template match="af:hi[@rend='caps latin']">
-        <span class="caps-latin"><xsl:apply-templates/></span>
+    <xsl:template match="af:hi[@rend='smallCaps latin']">
+        <span class="smallCaps-latin"><xsl:apply-templates/></span>
     </xsl:template>
     
     <!-- 

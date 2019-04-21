@@ -40,7 +40,7 @@
             <div type="epigram" xml:lang="de">
                <head><num value="48">XLVIII</num>. Epigrammatis Latini versio Germanica.</head>
                <lg>
-                  <lb n="1"/><l>Einm König von Gut <expan><abbr>v</abbr><ex>o</ex><abbr><hi rend="tilde">n</hi></abbr></expan> Leuten mächtig ein Brunnwasser für allen <pc>/</pc></l>
+                  <lb n="1"/><l>Einm König von Gut <expan><abbr>u<hi rend="tilde">n</hi></abbr><ex>d</ex></expan> Leuten mächtig ein Brunnwasser für allen <pc>/</pc></l>
                   <lb n="2"/><l>So er den Dienern befohl zubringen <pc>/</pc> thät gefallen <pc>/</pc></l>
                   <lb n="3"/><l>Diß trunck er offt <pc>/</pc> biß daß er davon die Adern fund beschwerd</l>
                   <lb n="4"/><l>Gantz ungestalt <pc>/</pc> von Aertzten berümpt auffgenommen werd <pc>/</pc></l> 
@@ -71,7 +71,7 @@
                </lg>
             </div>
             
-            <fw type="gathering" place="bottom-right">Cc</fw> <fw type="catchword" place="bottom-right"><hi rend="caps">Xer-</hi></fw>
+            <fw type="gathering" place="bottom-right">Cc</fw> <fw type="catchword" place="bottom-right">Xer-</fw>
             
             <div type="discourse" xml:lang="la">
                <pb n="202" edRef="Maier1618"/>
