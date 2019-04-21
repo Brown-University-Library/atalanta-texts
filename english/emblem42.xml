@@ -39,7 +39,7 @@
                     <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 42.</head>
                     <lg>
                         <l>Pursuing art, let Nature be your guide,</l>
-                        <l>Tracing her steps your feet will not back<pc rend="double-hyphen">-</pc>slide:</l>
+                        <l>Tracing her steps your feet will not <choice><orig>back<pc rend="double-hyphen">-</pc>slide</orig><reg>backslide</reg></choice>:</l>
                         <l>Let reason be your <choice><orig>staffe</orig><reg>staff</reg></choice>, experience add</l>
                         <l>Strength to your sight, discerning good from bad:</l>
                         <l>In <choice><orig>darkenesse</orig><reg>darkness</reg></choice> reading will as light direct,</l>
@@ -77,7 +77,7 @@
                         <lb break="no"/>rall</orig><reg>natural</reg></choice> <choice><orig>bodyes</orig><reg>bodies</reg></choice> and Spirits, as subjects first <choice><orig>ministred</orig><reg>ministered</reg></choice> by nature, upon
                         <lb/>which art must afterwards act, <choice><orig>præparing</orig><reg>preparing</reg></choice>, purifying, and fitting it,
                         <lb/>that thereof may be made that, which art <choice><orig>promiseth</orig><reg>promises</reg></choice> for the end:
-                        <lb/><milestone unit="section" n="e42-09" /><choice><orig>Soe</orig><reg>So</reg></choice> a Potter takes water and earth, a Glasse<pc rend="double-hyphen">-</pc>maker ashes and <pc>-</pc>
+                        <lb/><milestone unit="section" n="e42-09" /><choice><orig>Soe</orig><reg>So</reg></choice> a Potter takes water and earth, a <choice><orig>Glasse<pc rend="double-hyphen">-</pc>maker</orig><reg>Glassmaker</reg></choice> ashes and <pc>-</pc>
                         <lb/>Sand, a Smith iron, copper, <choice><orig>tinne</orig><reg>tin</reg></choice>, lead, Silver or gold, a Tanner
                         <lb/>raw hides, and <choice><orig>soe</orig><reg>so</reg></choice> other men other things: Such respect <choice><orig>allso</orig><reg>also</reg></choice> <pc>-</pc>
                         <lb/><choice><orig>hath</orig><reg>has</reg></choice> the operator of Chymistry to his <choice><orig>materialls</orig><reg>materials</reg></choice>: <milestone unit="section" n="e42-10" />Their <choice><orig>materi

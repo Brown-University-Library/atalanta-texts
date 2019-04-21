@@ -36,7 +36,7 @@
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 4i.</head>
+                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> <choice><sic>4i</sic><corr>41</corr></choice>.</head>
                     <lg>
                         <l>Myrrha, conspiring with her Sire, gave breath</l>
                         <l>To <choice><orig>th'</orig><reg>the</reg></choice> fair Adonis, <choice><orig>tushd</orig><reg>tushed</reg></choice> by a Boar to death:</l>
@@ -51,9 +51,9 @@
                 <pb n="129"/> 
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="174"/>
-                    <head rend="italics">Discourse 4i.</head>
+                    <head rend="italics">Discourse <choice><sic>4i</sic><corr>41</corr></choice>.</head>
                     <div type="discourse-p1"><ab> 
-                        <lb/>How improperly some of the Mythologists resolve the Allegory of <pc>-</pc><milestone unit="section" n="e03-01" /> 
+                        <lb/>How improperly some of the Mythologists resolve the Allegory of <pc>-</pc> 
                         <lb/>Adonis, and ascribe him sometimes to the <choice><orig>Sunne</orig><reg>Sun</reg></choice>, the <choice><orig>Boare</orig><reg>Boar</reg></choice>, by which
                         <lb/><choice><orig>hee</orig><reg>he</reg></choice> was <choice><orig>slayne</orig><reg>slain</reg></choice>, to a hard winter, sometimes to the seed of wheat, <pc>-</pc>
                         <lb/>which is six <choice><orig>moneths</orig><reg>months</reg></choice> with Proserpina under the earth, and as many
@@ -73,7 +73,7 @@
                         <lb/>as to Adonis, and on the contrary, as <choice><orig>allso</orig><reg>also</reg></choice> to Osiris. Adonis is <choice><orig>killd</orig><reg>killed</reg></choice> by a
                         <lb/><choice><orig>Boare</orig><reg>Boar</reg></choice>, that is, by Acetum acerrimum, or the solutive water, which <choice><orig>hath</orig><reg>has</reg></choice>
                         <lb/>terrible teeth like a boar, with which <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>tusheth</orig><reg>tushes</reg></choice> Adonis; because the <pc>-</pc>
-                        <lb/><choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> Sol is <choice><orig>mortalls</orig><reg>mortals</reg></choice> wounded by that boar, loosened in the
+                        <lb/><choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> Sol is mortally wounded by that boar, loosened in the
                         <lb/>members and <choice><orig>cutt</orig><reg>cut</reg></choice> <choice><orig>of</orig><reg>off</reg></choice>; But Venus <choice><orig>endeavours</orig><reg>endeavors</reg></choice> to <choice><orig>helpe</orig><reg>help</reg></choice> her Paramour, <pc>-</pc>
                         <lb/>who being dead, <choice><orig>shee</orig><reg>she</reg></choice> <choice><orig>layd</orig><reg>laid</reg></choice> him amongst <choice><orig>Lettices</orig><reg>Lettuces</reg></choice>, and <choice><orig>watchd</orig><reg>watched</reg></choice> him. After
                         <lb/>the same manner is Osiris <choice><orig>killd</orig><reg>killed</reg></choice> by Typhon, and cut into <choice><orig>severall</orig><reg>several</reg></choice> <choice><orig>peices</orig><reg>pieces</reg></choice>,
