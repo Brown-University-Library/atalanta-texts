@@ -26,10 +26,10 @@
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="157"/>
                     <head>
-                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 37. Of the Secrets of Nature.</seg>
+                        <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 37. Of the Secrets of Nature.</seg>
                         </head>
                         <head>
-                        <lb/><seg rend="italics">Three things are sufficient for the Magistery, the white fume, that
+                        <lb/><seg rend="italic">Three things are sufficient for the Magistery, the white fume, that
                         <lb/>is, water, the green <choice><orig>Lyon</orig><reg>Lion</reg></choice>, that is, the <choice><orig>brasse</orig><reg>brass</reg></choice> of Hermes, and aqua
                         <lb/>fœtida.</seg>
                     </head>
@@ -37,7 +37,7 @@
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 37.</head>
+                    <head rend="italic"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 37.</head>
                     <lg>
                         <l>The <choice><orig>Lyon</orig><reg>Lion</reg></choice> green, white fume, and stinking juice,</l>
                         <l>Are all that to our <choice><orig>Processe</orig><reg>Process</reg></choice> <choice><orig>doe</orig><reg>do</reg></choice> conduce:</l>
@@ -52,7 +52,7 @@
                 <pb n="117"/> 
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="158"/>
-                    <head rend="italics">Discourse 37.</head>
+                    <head rend="italic">Discourse 37.</head>
                     <div type="discourse-p1"><ab> 
                         <lb/>As three <choice><orig>essentiall</orig><reg>essential</reg></choice> things, which are the foundation, walls, and <choice><orig>roofe</orig><reg>roof</reg></choice>, are 
                         <lb/>required to the building of every <choice><orig>ædifice</orig><reg>edifice</reg></choice>, whereof one being absent, there
@@ -104,7 +104,7 @@
                         
                         
                         
-                        <pb n="118"/><fw rend="italics">Discourse 37.</fw>
+                        <pb n="118"/><fw rend="italic">Discourse 37.</fw>
                         <lb/>alone, which is in it: because that <choice><orig>greenesse</orig><reg>greenness</reg></choice> is by our Magistery suddenly
                         <lb/>turned into our most true gold, and this <choice><orig>wee</orig><reg>we</reg></choice> have had experience of:
                         <lb/>yet you can <choice><orig>noe</orig><reg>no</reg></choice> way <choice><orig>præpare</orig><reg>prepare</reg></choice> the Stone without Duenech green and

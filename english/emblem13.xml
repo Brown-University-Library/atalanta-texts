@@ -26,17 +26,17 @@
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="061"/>
                     <head>
-                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 13. Of the Secrets of Nature.</seg>
+                        <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 13. Of the Secrets of Nature.</seg>
                     </head>
                     <head>
-                        <lb/><seg rend="italics">The Philosophers <choice><orig>brasse</orig><reg>brass</reg></choice> is <choice><orig>hydropicall</orig><reg>hydropical</reg></choice>, and desires to be seven
+                        <lb/><seg rend="italic">The Philosophers <choice><orig>brasse</orig><reg>brass</reg></choice> is <choice><orig>hydropicall</orig><reg>hydropical</reg></choice>, and desires to be seven
                         <lb/>times <choice><orig>washd</orig><reg>washed</reg></choice> in a river, as Naaman the leper in <choice><orig>jordan</orig><reg>Jordan</reg></choice>.</seg>
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 13.</head>
+                    <head rend="italic"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 13.</head>
                     <lg>
                         <l>Humors <choice><orig>Hydropicall</orig><reg>Hydropical</reg></choice> the Sophian <choice><orig>brasse</orig><reg>brass</reg></choice></l>
                         <l>Infesting, has <choice><orig>noe</orig><reg>no</reg></choice> cure but one alas:</l>
@@ -51,7 +51,7 @@
                 <pb n="45"/> 
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="062"/>
-                    <head rend="italics">Discourse 13.</head>
+                    <head rend="italic">Discourse 13.</head>
                     <div type="discourse-p1"><ab> 
                         <lb/>That Naaman the Syrian <choice><orig>betooke</orig><reg>betook</reg></choice> <choice><orig>himselfe</orig><reg>himself</reg></choice> to <choice><orig>Judæa</orig><reg>Judea</reg></choice> at the <choice><orig>perswasion</orig><reg>persuasion</reg></choice> of the 
                         <lb/>Prophet, and <choice><orig>washd</orig><reg>washed</reg></choice> <choice><orig>himselfe</orig><reg>himself</reg></choice> seven times in the river Jordan, is to be <choice><orig>ascribd</orig><reg>ascribed</reg></choice>
@@ -98,7 +98,7 @@
                         <lb/>By the same <choice><orig>wayes</orig><reg>ways</reg></choice> must this Patient be cured, sometimes by waters, <pc>-</pc>
                         
                         
-                        <pb n="46"/><fw rend="italics">Discourse 13.</fw>
+                        <pb n="46"/><fw rend="italic">Discourse 13.</fw>
                         <lb/>sometimes by the <choice><orig>hott</orig><reg>hot</reg></choice> <choice><orig>aire</orig><reg>air</reg></choice> of furnaces, sometimes by dung, sometimes Sand,
                         <lb/>and by abstaining from <choice><orig>drinke</orig><reg>drink</reg></choice>: for these are most <choice><orig>effectuall</orig><reg>effectual</reg></choice> <choice><orig>remedyes</orig><reg>remedies</reg></choice> in both
                         <lb/>cases, here and there to be used: but in all these things heat is the operator, <pc>-</pc>

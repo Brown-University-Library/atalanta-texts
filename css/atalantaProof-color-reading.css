@@ -49,6 +49,10 @@ h3.discourse
     /*margin-bottom: -30px;*/
 }
 
+.verse-discourse no-space {
+    /* this verse starts immediately on same line - no break */
+}
+
 .ab {
     /* margin-top: -40px; */
 }
@@ -193,6 +197,10 @@ span.italics{
     font-weight: bold;
     vertical-align: super;
     text-decoration: none;
+}
+
+.bottom-note {
+    outline: .5px solid #b5b5b5;
 }
 
 .help{

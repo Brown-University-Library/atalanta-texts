@@ -26,17 +26,17 @@
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="149"/>
                     <head>
-                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 35. Of the Secrets of Nature.</seg>
+                        <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 35. Of the Secrets of Nature.</seg>
                         </head>
                         <head>
-                        <lb/><seg rend="italics">As Ceres accustomed Triptolemus, and Thetis Achilles to abide in
+                        <lb/><seg rend="italic">As Ceres accustomed Triptolemus, and Thetis Achilles to abide in
                         <lb/>fire, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>doth</orig><reg>does</reg></choice> an artist the stone.</seg>
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 35.</head>
+                    <head rend="italic"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 35.</head>
                     <lg>
                         <l>Achilles and Triptolemus <choice><orig>enur'd</orig><reg>inured</reg></choice>,</l>
                         <l>By documents, the hottest flames <choice><orig>endur'd</orig><reg>endured</reg></choice>:</l>
@@ -51,7 +51,7 @@
                 <pb n="111"/> 
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="150"/>
-                    <head rend="italics">Discourse 35.</head>
+                    <head rend="italic">Discourse 35.</head>
                     <div type="discourse-p1"><ab> 
                         <lb/>Lycurgus that <choice><orig>Law<pc rend="double-hyphen">-</pc>maker</orig><reg>Lawmaker</reg></choice> of the Spartans <choice><orig>Shewed</orig><reg>Showed</reg></choice> to the people in <pc>-</pc> 
                         <lb/>an assembly in the Theater by an ocular example, how <choice><orig>farre</orig><reg>far</reg></choice> <choice><orig>custome</orig><reg>custom</reg></choice>
@@ -97,7 +97,7 @@
                         
                         
                         
-                        <pb n="112"/><fw rend="italics">Discourse 35.</fw>
+                        <pb n="112"/><fw rend="italic">Discourse 35.</fw>
                         <lb/>Philosophers seeds are to be cast into their earth. These same things
                         <lb/>are ascribed to Osiris, who to that end <choice><orig>tooke</orig><reg>took</reg></choice> a view of the whole world,
                         <lb/>as <choice><orig>wee</orig><reg>we</reg></choice> have <choice><orig>elswhere</orig><reg>elsewhere</reg></choice> demonstrated, and to Dionysius, who travelled <pc>-</pc>

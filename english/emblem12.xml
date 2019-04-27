@@ -26,17 +26,17 @@
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="057"/>
                     <head>
-                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 12. Of the Secrets of Nature.</seg>
+                        <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 12. Of the Secrets of Nature.</seg>
                         </head>
                         <head>
-                        <lb/><seg rend="italics">The Stone, which <choice><orig>Saturne</orig><reg>Saturn</reg></choice> vomited up, being devoured instead
+                        <lb/><seg rend="italic">The Stone, which <choice><orig>Saturne</orig><reg>Saturn</reg></choice> vomited up, being devoured instead
                             <lb/>of his <choice><orig>Sonne</orig><reg>Son</reg></choice> <choice><orig>jupiter</orig><reg>Jupiter</reg></choice>, is placed in Helicon as a monument to men.</seg>
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 12.</head>
+                    <head rend="italic"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 12.</head>
                     <lg>
                         <l>Know would you why the Poets <choice><orig>soe</orig><reg>so</reg></choice> recount</l>
                         <l>The fame of Helicon, the Muses mount?</l>
@@ -51,7 +51,7 @@
                 <pb n="42"/> 
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="058"/>
-                    <head rend="italics">Discourse 12.</head>
+                    <head rend="italic">Discourse 12.</head>
                     <div type="discourse-p1"><ab> 
                         <lb/>The Allegory of <choice><orig>Saturne</orig><reg>Saturn</reg></choice> <choice><orig>wee</orig><reg>we</reg></choice> find to be taken <choice><orig>divers</orig><reg>diverse</reg></choice> <choice><orig>wayes</orig><reg>ways</reg></choice>: for the Astro 
                         <lb break="no"/>nomers repute him the highest of the <choice><orig>Planetts</orig><reg>Planets</reg></choice> in order; the young students

@@ -26,16 +26,16 @@
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="097"/>
                     <head>
-                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 22. Of the Secrets of Nature.</seg>
+                        <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 22. Of the Secrets of Nature.</seg>
                         </head>
                         <head>
-                        <lb/><seg rend="italics">Having acquired white lead <choice><orig>doe</orig><reg>do</reg></choice> the <choice><orig>worke</orig><reg>work</reg></choice> of women, that is, <choice><orig>Boyle</orig><reg>Boil</reg></choice></seg>
+                        <lb/><seg rend="italic">Having acquired white lead <choice><orig>doe</orig><reg>do</reg></choice> the <choice><orig>worke</orig><reg>work</reg></choice> of women, that is, <choice><orig>Boyle</orig><reg>Boil</reg></choice></seg>
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 22.</head>
+                    <head rend="italic"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 22.</head>
                     <lg>
                         <l>If much with little pains you would effect,</l>
                         <l>The livid Spots of Saturn's face correct,</l>
@@ -50,7 +50,7 @@
                 <pb n="72"/> 
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="098"/>
-                    <head rend="italics">Discourse 22.</head>
+                    <head rend="italic">Discourse 22.</head>
                     <div type="discourse-p1"><ab> 
                         <lb/>As <choice><orig>Mercuriall</orig><reg>Mercurial</reg></choice> Statues are <choice><orig>coḿonly</orig><reg>commonly</reg></choice> placed in roads where three <choice><orig>wayes</orig><reg>ways</reg></choice> meet, to<milestone unit="section" n="e22-01" /> 
                         <lb break="no"/>gether with a title and inscription, to guide <choice><orig>doubtfull</orig><reg>doubtful</reg></choice> travellers into the right
@@ -98,7 +98,7 @@
                         
                         
                         
-                        <pb n="73"/><fw rend="italics">Discourse 22.</fw>
+                        <pb n="73"/><fw rend="italic">Discourse 22.</fw>
                         <lb/>that <choice><orig>vessell</orig><reg>vessel</reg></choice> above the <choice><orig>vessell</orig><reg>vessel</reg></choice>, and the Philosophers <choice><orig>pott</orig><reg>pot</reg></choice>, the Laconian bath,
                         <lb/>in which the old man sweats: Some there are, who <choice><orig>boyle</orig><reg>boil</reg></choice> fish, Lobsters, Crabs,
                         <lb/>or green Peas in a double, <choice><orig>soe</orig><reg>so</reg></choice> that the <choice><orig>sayd</orig><reg>said</reg></choice> things are in the upper <choice><orig>pott</orig><reg>pot</reg></choice>, and

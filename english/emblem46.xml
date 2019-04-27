@@ -26,16 +26,16 @@
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="193"/>
                     <head>
-                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 46. Of the Secrets of Nature.</seg>
+                        <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 46. Of the Secrets of Nature.</seg>
                         </head>
                         <head>
-                        <lb/><seg rend="italics">Two Eagles come together, one from the East, the other from the West.</seg>
+                        <lb/><seg rend="italic">Two Eagles come together, one from the East, the other from the West.</seg>
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 46.</head>
+                    <head rend="italic"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 46.</head>
                     <lg>
                         <l>Great Jove two Eagles out of Delphi sent</l>
                         <l>To <choice><orig>th'</orig><reg>the</reg></choice> East and Western parts, for this intent,</l>
@@ -50,7 +50,7 @@
                 <pb n="144"/> 
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="194"/>
-                    <head rend="italics">Discourse 46.</head>
+                    <head rend="italic">Discourse 46.</head>
                     <div type="discourse-p1"><ab> 
                         <lb/>Cicero in his <choice><orig>booke</orig><reg>book</reg></choice> of the nature of the Gods declares the most ancient <pc>-</pc> 
                         <lb/>Apollo to be the <choice><orig>Sonne</orig><reg>Son</reg></choice> of Vulcan, and keeper of Athens: Which opinion,
@@ -96,7 +96,7 @@
                         
                         
                         
-                        <pb n="145"/><fw rend="italics">Discourse 46.</fw>
+                        <pb n="145"/><fw rend="italic">Discourse 46.</fw>
                         <lb/><choice><orig>receiv'd</orig><reg>received</reg></choice> the inspiration of the <choice><orig>Devill</orig><reg>Devil</reg></choice> gaping with a wide mouth, and then <pc>-</pc>
                         <lb/><choice><orig>prophesyd</orig><reg>prophesied</reg></choice>, and gave responses to those that <choice><orig>desird</orig><reg>desired</reg></choice> to know the events of things
                         <lb/>to come: Delphos was indeed in <choice><orig>Bœotica</orig><reg>Boeotica</reg></choice> seated about the foot of Parnassus. <pc>-</pc>

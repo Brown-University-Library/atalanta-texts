@@ -26,17 +26,17 @@
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="197"/>
                     <head>
-                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 47. Of the Secrets of Nature.</seg>
+                        <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 47. Of the Secrets of Nature.</seg>
                         </head>
                         <head>
-                        <lb/><seg rend="italics">A <choice><orig>Wolfe</orig><reg>Wolf</reg></choice> coming from the East, and a <choice><orig>Dogge</orig><reg>Dog</reg></choice> from the West <choice><orig>werry'd</orig><reg>werried</reg></choice>
+                        <lb/><seg rend="italic">A <choice><orig>Wolfe</orig><reg>Wolf</reg></choice> coming from the East, and a <choice><orig>Dogge</orig><reg>Dog</reg></choice> from the West <choice><orig>werry'd</orig><reg>werried</reg></choice>
                         <lb/>one another.</seg>
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 47.</head>
+                    <head rend="italic"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 47.</head>
                     <lg>
                         <l>From <choice><orig>th'</orig><reg>the</reg></choice> East a <choice><orig>Wolfe</orig><reg>Wolf</reg></choice>, from <choice><orig>th'</orig><reg>the</reg></choice> West a <choice><orig>Dogge</orig><reg>Dog</reg></choice> appears,</l>
                         <l>Which raging fall together by the ears,</l>
@@ -51,7 +51,7 @@
                 <pb n="147"/> 
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="198"/>
-                    <head rend="italics">Discourse 47.</head>
+                    <head rend="italic">Discourse 47.</head>
                     <div type="discourse-p1"><ab> 
                         <lb/>The Philosophers have in many places made mention of two stones given to us 
                         <lb/>gratis, as <choice><orig>Isaack</orig><reg>Isaac</reg></choice>, Arnold, and others, amongst <choice><orig>whome</orig><reg>whom</reg></choice> Avicenne <choice><orig>sayth</orig><reg>says</reg></choice> they <choice><orig>lye</orig><reg>lie</reg></choice> in <pc>-</pc>
@@ -98,7 +98,7 @@
                         
                         
                         
-                        <pb n="148"/><fw rend="italics">Discourse 47.</fw>
+                        <pb n="148"/><fw rend="italic">Discourse 47.</fw>
                         <lb/>perforated it, in like manner the tincture of the <choice><orig>Soule</orig><reg>Soul</reg></choice> <choice><orig>hath</orig><reg>has</reg></choice> both perforated
                         <lb/>and is mixed with the body, and the body <choice><orig>hath</orig><reg>has</reg></choice> contained the <choice><orig>soule</orig><reg>soul</reg></choice>, and
                         <lb/>restrained the <choice><orig>naturall</orig><reg>natural</reg></choice> part from flying. And then to one demanding which

@@ -26,16 +26,16 @@
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="053"/>
                     <head>
-                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 11. Of the Secrets of Nature.</seg>
+                        <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 11. Of the Secrets of Nature.</seg>
                         </head>
                         <head>
-                        <lb/><seg rend="italics">Whiten Latona and tear your books.</seg>
+                        <lb/><seg rend="italic">Whiten Latona and tear your books.</seg>
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 11.</head>
+                    <head rend="italic"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 11.</head>
                     <lg>
                         <l>Ancestors (of truth <choice><orig>noe</orig><reg>no</reg></choice> doubt) to us relate</l>
                         <l>Latona's <choice><orig>twinns</orig><reg>twins</reg></choice> <choice><orig>producd</orig><reg>produced</reg></choice> from Jove the great.</l>
@@ -50,7 +50,7 @@
                 <pb n="39"/> 
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="054"/>
-                    <head rend="italics">Discourse 11.</head>
+                    <head rend="italic">Discourse 11.</head>
                     <div type="discourse-p1"><ab> 
                         <lb/><milestone unit="section" n="e11-01" /><choice><orig>Soe</orig><reg>So</reg></choice> great is the diversity of Authors in writing, that the explorators of <pc>-</pc> 
                         <lb/>truth <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>allmost</orig><reg>almost</reg></choice> <choice><orig>despaire</orig><reg>despair</reg></choice> of finding the end of art: <milestone unit="section" n="e11-02" />for <choice><orig>Allegoricall</orig><reg>Allegorical</reg></choice> speeches
@@ -97,7 +97,7 @@
                         
                         
                         
-                        <pb n="40"/><fw rend="italics">Discourse 11.</fw>
+                        <pb n="40"/><fw rend="italic">Discourse 11.</fw>
                         <lb/>imperfect body compounded of Sol and Luna. <milestone unit="section" n="e11-14" />The most ancient Poets and
                         <lb/>writers <choice><orig>affirme</orig><reg>affirm</reg></choice> Latona to be the mother of Sol and Luna, or Apollo and <pc>-</pc>
                         <lb/>Diana, others the <choice><orig>Nurce</orig><reg>Nurse</reg></choice>; and that Diana was first <choice><orig>borne</orig><reg>born</reg></choice> (for Luna and <pc>-</pc>

@@ -26,16 +26,16 @@
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="125"/>
                     <head>
-                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> the 29. Of the Secrets of Nature.</seg>
+                        <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> the 29. Of the Secrets of Nature.</seg>
                         </head>
                         <head>
-                        <lb/><seg rend="italics">As the Salamander lives in fire <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> the Stone.</seg>
+                        <lb/><seg rend="italic">As the Salamander lives in fire <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> the Stone.</seg>
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 29.</head>
+                    <head rend="italic"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 29.</head>
                     <lg>
                         <l>The Salamander sports in scorching heats,</l>
                         <l>And, Vulcan! bids <choice><orig>defyance</orig><reg>defiance</reg></choice> to your threats;</l>
@@ -50,7 +50,7 @@
                 <pb n="93"/> 
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="126"/>
-                    <head rend="italics">Discourse 29.</head>
+                    <head rend="italic">Discourse 29.</head>
                     <div type="discourse-p1"><ab> 
                         <lb/>Two Elements there are, in which <choice><orig>animalls</orig><reg>animals</reg></choice> live, water and <choice><orig>aire</orig><reg>air</reg></choice>, and as ma 
                         <lb break="no"/>ny in which <choice><orig>noe</orig><reg>no</reg></choice> animated thing can live, earth and fire: For as those are
@@ -68,7 +68,7 @@
                         <lb/>unlike to a Lizard, but of Slower pace, bigger head, and different <choice><orig>colour</orig><reg>color</reg></choice>, such
                         <lb/>as I remember I have seen in the Alps, or <choice><orig>necke</orig><reg>neck</reg></choice> of Spluga, coming out of
                         <lb/>the caverns of rocks after thunder and <choice><orig>raine</orig><reg>rain</reg></choice>, and staying in the way, a <pc>-</pc>
-                        <lb/>countryman of that place advertising that it was, called <seg rend="italics">ein Molch</seg>: And it
+                        <lb/>countryman of that place advertising that it was, called <seg rend="italic">ein Molch</seg>: And it
                         <lb/>had about a clammy and viscous <choice><orig>moistnesse</orig><reg>moistness</reg></choice>, by the virtue of which it
                         <lb/><choice><orig>passeth</orig><reg>passes</reg></choice> freely through fire without <choice><orig>harme</orig><reg>harm</reg></choice>: But the Philosophers Sala
                         <lb break="no"/>mander is much different, though it be assimilated to this: For that is <pc>-</pc>
@@ -96,7 +96,7 @@
                         
                         
                         
-                        <pb n="94"/><fw rend="italics">Discourse 29.</fw>
+                        <pb n="94"/><fw rend="italic">Discourse 29.</fw>
                         <lb/>judges, and Salamanders are above his violence, which they <choice><orig>doe</orig><reg>do</reg></choice> not fear: <pc>-</pc>
                         <lb/><choice><orig>Avicenne</orig><reg>Avicenna</reg></choice> in Porta reckons up the various temperaments of <choice><orig>bodyes</orig><reg>bodies</reg></choice>, which are
                         <lb/>all <choice><orig>unæquall</orig><reg>unequal</reg></choice>, and therefore corruptible by fire and other <choice><orig>injuryes</orig><reg>injuries</reg></choice>: but one

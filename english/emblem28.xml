@@ -26,17 +26,17 @@
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="121"/>
                     <head>
-                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 28. Of the Secrets of Nature.</seg>
+                        <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 28. Of the Secrets of Nature.</seg>
                         </head>
                         <head>
-                        <lb/><seg rend="italics">The King sitting in a vaporous bath is bathed, and freed from
+                        <lb/><seg rend="italic">The King sitting in a vaporous bath is bathed, and freed from
                         <lb/>melancholy by Pharut.</seg>
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 28.</head>
+                    <head rend="italic"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 28.</head>
                     <lg>
                         <l>Prince Duenech, armed with the <choice><orig>Lyons</orig><reg>Lions</reg></choice> strength,</l>
                         <l>Grew <choice><orig>melancholicke</orig><reg>melancholic</reg></choice> and morose at length:</l>
@@ -51,7 +51,7 @@
                 <pb n="90"/> 
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="122"/>
-                    <head rend="italics">Discourse 3.</head>
+                    <head rend="italic">Discourse 3.</head>
                     <div type="discourse-p1"><ab> 
                         <lb/>As there are three concoctions in man, the first in the <choice><orig>Stomacke</orig><reg>Stomach</reg></choice>, the second 
                         <lb/>in the Liver, the third in the veins, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>soe</orig><reg>so</reg></choice> many are the <choice><orig>universall</orig><reg>universal</reg></choice> <pc>-</pc>
@@ -98,7 +98,7 @@
                         
                         
                         
-                        <pb n="9i"/><fw rend="italics">Discourse 28.</fw><!-- should be regularized to 91 -->
+                        <pb n="9i"/><fw rend="italic">Discourse 28.</fw><!-- should be regularized to 91 -->
                         <lb/>upon <choice><orig>himselfe</orig><reg>himself</reg></choice>, <choice><orig>hee</orig><reg>he</reg></choice> was brought with <choice><orig>entreatyes</orig><reg>entreaties</reg></choice> and rewards: And this Allegory
                         <lb/>is very frequent in the writings of the Philosophers, as of Bernard, Alanus, in the
                         <lb/>treatise of Duenech, and innumerable others; <choice><orig>wee</orig><reg>we</reg></choice> therefore add <choice><orig>noe</orig><reg>no</reg></choice> other cir

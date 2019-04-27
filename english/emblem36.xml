@@ -26,17 +26,17 @@
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="153"/>
                     <head>
-                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 36. Of the Secrets of Nature.</seg>
+                        <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 36. Of the Secrets of Nature.</seg>
                         </head>
                         <head>
-                        <lb/><seg rend="italics">The Stone, that is, Mercury, is cast upon the earth, and exalted on
+                        <lb/><seg rend="italic">The Stone, that is, Mercury, is cast upon the earth, and exalted on
                         <lb/>mountains, and resides in the <choice><orig>aire</orig><reg>air</reg></choice>, and is nourished in water</seg> <pc>.....</pc>
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 36.</head>
+                    <head rend="italic"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 36.</head>
                     <lg>
                         <l>The Stone, as refuse, is by some <choice><orig>suppos'd</orig><reg>supposed</reg></choice></l>
                         <l><choice><orig>Throwne</orig><reg>Thrown</reg></choice> <choice><orig>upo'</orig><reg>upon</reg></choice> <choice><orig>th'</orig><reg>the</reg></choice> earth, to rich and <choice><orig>poore</orig><reg>poor</reg></choice> <choice><orig>disclosd</orig><reg>disclosed</reg></choice>:</l>
@@ -51,7 +51,7 @@
                 <pb n="114"/> 
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="154"/>
-                    <head rend="italics">Discourse 36.</head>
+                    <head rend="italic">Discourse 36.</head>
                     <div type="discourse-p1"><ab> 
                         <lb/>All men, that have but once heard the name and power of the Stone, 
                         <lb/><choice><orig>unlesse</orig><reg>unless</reg></choice> they be such as are <choice><orig>alltogther</orig><reg>altogether</reg></choice> incredulous, <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>coḿonly</orig><reg>commonly</reg></choice> <choice><orig>aske</orig><reg>ask</reg></choice> <pc>-</pc>
@@ -96,7 +96,7 @@
                         <lb break="no"/>meth</orig><reg>sublimes</reg></choice> the Stone, and <choice><orig>rayseth</orig><reg>raises</reg></choice> it to the highest dignity. As in
                         
                         
-                        <pb n="115"/><fw rend="italics">Discourse 36.</fw>
+                        <pb n="115"/><fw rend="italic">Discourse 36.</fw>
                         <lb/>mountains it <choice><orig>growes</orig><reg>grows</reg></choice> in a rude <choice><orig>forme</orig><reg>form</reg></choice> out of Sulphur and Argent vive, <choice><orig>soe</orig><reg>so</reg></choice>
                         <lb/>is it matured and perfected at the top of the mountains, where <choice><orig>allso</orig><reg>also</reg></choice> <pc>-</pc>
                         <lb/>is an <choice><orig>herbe</orig><reg>herb</reg></choice> produced, without which fire cannot be regulated, because

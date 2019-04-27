@@ -26,17 +26,17 @@
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="045"/>
                     <head>
-                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 9. Of the Secrets of Nature.</seg>
+                        <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 9. Of the Secrets of Nature.</seg>
                         </head>
                         <head>
-                        <lb/><seg rend="italics">Shut up the tree with the old man in the house of dew, and eating
+                        <lb/><seg rend="italic">Shut up the tree with the old man in the house of dew, and eating
                         <lb/>of the fruit thereof <choice><orig>hee</orig><reg>he</reg></choice> will become young.</seg>
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 9.</head>
+                    <head rend="italic"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 9.</head>
                     <lg>
                         <l>The Sophi have a tree with golden fruit,</l>
                         <l>And an old Senior of <choice><orig>noe</orig><reg>no</reg></choice> mean repute;</l>
@@ -51,7 +51,7 @@
                 <pb n="33"/> 
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="046"/>
-                    <head rend="italics">Discourse 9.</head>
+                    <head rend="italic">Discourse 9.</head>
                     <div type="discourse-p1"><ab> 
                         <lb/><milestone unit="section" n="e09-01" />All things whatsoever <choice><orig>doe</orig><reg>do</reg></choice> grow in length, breadth, and depth, that is, are 
                         <lb/>propagated, nourished, and augmented to maturity, the same things <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>all
@@ -97,7 +97,7 @@
                         
                         
                         
-                        <pb n="34"/><fw rend="italics">Discourse 9.</fw>
+                        <pb n="34"/><fw rend="italic">Discourse 9.</fw>
                         <lb/>more rigid than old age, and scarce to be used by one of a thousand, <pc>-</pc>
                         <lb/>though they Should not be without <choice><orig>certaine</orig><reg>certain</reg></choice> effect: It is written by Para
                         <lb break="no"/>celsus in his <choice><orig>booke</orig><reg>book</reg></choice> of long life, that a <choice><orig>sicke</orig><reg>sick</reg></choice> man may attract to <choice><orig>him

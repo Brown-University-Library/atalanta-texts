@@ -26,17 +26,17 @@
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="017"/>
                     <head>
-                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 2. Of the Secrets of Nature.</seg>
+                        <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 2. Of the Secrets of Nature.</seg>
                     </head>
                     <head>
-                        <lb/><seg rend="italics">the earth is his <choice><orig>Nurce</orig><reg>Nurse</reg></choice>.</seg>
+                        <lb/><seg rend="italic">the earth is his <choice><orig>Nurce</orig><reg>Nurse</reg></choice>.</seg>
                         
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 2.</head>
+                    <head rend="italic"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 2.</head>
                     <lg>
                         <l>A courteous <choice><orig>Wolfe</orig><reg>Wolf</reg></choice> to Romulus <choice><orig>displayd</orig><reg>displayed</reg></choice></l>
                         <l>Her milky duggs, to Jove a Goat, tis <choice><orig>sayd</orig><reg>said</reg></choice>:</l>
@@ -51,7 +51,7 @@
                 <pb n="12"/> 
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="018"/>
-                    <head rend="italics">Discourse 2.</head>
+                    <head rend="italic">Discourse 2.</head>
                     <div type="discourse-p1"><ab> 
                         <lb/><milestone unit="section" n="e02-01" />It is concluded by the <choice><orig>Peripateticks</orig><reg>Peripatetics</reg></choice>, and Orthodox Philosophers, that the <pc>-</pc> 
                         <lb/>thing nourishing is converted into the substance of the thing nourished, and <pc>-</pc>
@@ -100,7 +100,7 @@
                         
                         
                         
-                        <pb n="13"/><fw rend="italics">Discourse 2.</fw>
+                        <pb n="13"/><fw rend="italic">Discourse 2.</fw>
                         <lb/><choice><orig>naturall</orig><reg>natural</reg></choice> heat by his furnaces for the hatching of eggs: <milestone unit="section" n="e02-16" />the Seeds of <choice><orig>Silke</orig><reg>silk</reg></choice>
                         <lb break="no"/>worms, yea even <choice><orig>henne</orig><reg>hen</reg></choice> eggs are <choice><orig>sayd</orig><reg>said</reg></choice> to be hatched by the warmth of a Virgins
                         <lb/>breasts: <milestone unit="section" n="e02-17" />Art therefore and Nature <choice><orig>doe</orig><reg>do</reg></choice> mutually <choice><orig>helpe</orig><reg>help</reg></choice>, <choice><orig>soe</orig><reg>so</reg></choice> as to officiate one for the <pc>-</pc>

@@ -26,16 +26,16 @@
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="189"/>
                     <head>
-                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 45. Of the Secrets of Nature.</seg>
+                        <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 45. Of the Secrets of Nature.</seg>
                         </head>
                         <head>
-                        <lb/><seg rend="italics">The <choice><orig>worke</orig><reg>work</reg></choice> is perfected by Sol and his shade.</seg>
+                        <lb/><seg rend="italic">The <choice><orig>worke</orig><reg>work</reg></choice> is perfected by Sol and his shade.</seg>
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 45.</head>
+                    <head rend="italic"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 45.</head>
                     <lg>
                         <l>The <choice><orig>Sunne</orig><reg>Sun</reg></choice> <choice><orig>noe</orig><reg>no</reg></choice> <choice><orig>bodyes</orig><reg>bodies</reg></choice> dense can penetrate,</l>
                         <l>And <choice><orig>soe</orig><reg>so</reg></choice> the adverse parts a shade create:</l>
@@ -50,7 +50,7 @@
                 <pb n="141"/> 
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="190"/>
-                    <head rend="italics">Discourse 45.</head>
+                    <head rend="italic">Discourse 45.</head>
                     <div type="discourse-p1"><ab> 
                         <lb/>As in a round or <choice><orig>Sphericall</orig><reg>Spherical</reg></choice> Palace, a fire kindled in one place illustrates 
                         <lb/>the parts above and below round about all the walls, except those, where
@@ -98,7 +98,7 @@
                         
                         
                         
-                        <pb n="142"/><fw rend="italics">Discourse 45.</fw>
+                        <pb n="142"/><fw rend="italic">Discourse 45.</fw>
                         <lb/>Golden table at the <choice><orig>begining</orig><reg>beginning</reg></choice>, must be extinguished and consumed by a fiery
                         <lb/>medicine. The utility of shadows in <choice><orig>Astronomicall</orig><reg>Astronomical</reg></choice> affairs is <choice><orig>soe</orig><reg>so</reg></choice> great, that <pc>-</pc>
                         <lb/>without them that Science can scarce be perfected; Chymists <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> ascribe

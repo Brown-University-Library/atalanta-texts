@@ -26,17 +26,17 @@
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="041"/>
                     <head>
-                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 8. Of the Secrets of Nature.</seg>
+                        <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 8. Of the Secrets of Nature.</seg>
                         </head>
                         <head>
-                        <lb/><seg rend="italics">Take an <choice><orig>egge</orig><reg>egg</reg></choice> and smite it with a fiery sword.</seg>
+                        <lb/><seg rend="italic">Take an <choice><orig>egge</orig><reg>egg</reg></choice> and smite it with a fiery sword.</seg>
                         
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice>. 8.</head>
+                    <head rend="italic"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice>. 8.</head>
                     <lg>
                         <l>Rest not till you have found that <choice><orig>egge</orig><reg>egg</reg></choice> <choice><orig>soe</orig><reg>so</reg></choice> rare,</l>
                         <l>Descended from the <choice><orig>loftyest</orig><reg>loftiest</reg></choice> bird <choice><orig>oth'</orig><reg>of the</reg></choice> <choice><orig>aire</orig><reg>air</reg></choice>:</l>
@@ -51,7 +51,7 @@
                 <pb n="30"/> 
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="042"/>
-                    <head rend="italics">Discourse 8.</head>
+                    <head rend="italic">Discourse 8.</head>
                     <div type="discourse-p1"><ab> 
                         <lb/><milestone unit="section" n="e08-01"/>Many and <choice><orig>severall</orig><reg>several</reg></choice> sorts of birds there are, which as they are indefinite in number, <choice><orig>soe</orig><reg>so</reg></choice> 
                         <lb/>are they <choice><orig>unknowne</orig><reg>unknown</reg></choice> to us by names: <milestone unit="section" n="e08-02"/>Story tells us of a very great bird appearing at a <pc>-</pc>
@@ -99,7 +99,7 @@
                         
                         
                         
-                        <pb n="31"/><fw rend="italics">Discourse 8.</fw>
+                        <pb n="31"/><fw rend="italic">Discourse 8.</fw>
                         <lb/>place of heat: upon which consideration that, wherewith the Philosophers <choice><orig>egge</orig><reg>egg</reg></choice> <pc>-</pc>
                         <lb/>ought to be pieced and smitten, may not undeservedly be called a fiery sword:
                         <lb/><milestone unit="section" n="e08-18"/>but the Philosophers had rather have it understood of a temperate heat, where

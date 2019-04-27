@@ -26,16 +26,16 @@
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="049"/>
                     <head>
-                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 10. Of the Secrets of Nature.</seg>
+                        <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 10. Of the Secrets of Nature.</seg>
                         </head>
                         <head>
-                        <lb/><seg rend="italics">Give fire to fire, Mercury to Mercury, and you have enough.</seg>
+                        <lb/><seg rend="italic">Give fire to fire, Mercury to Mercury, and you have enough.</seg>
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 10.</head>
+                    <head rend="italic"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 10.</head>
                     <lg>
                         <l>The worlds whole frame depends upon this <choice><orig>chaine</orig><reg>chain</reg></choice>,</l>
                         <l>Like to its like, as <choice><orig>Shepheardesse</orig><reg>Shepherdess</reg></choice> to <choice><orig>Swaine</orig><reg>Swain</reg></choice>:</l>
@@ -50,7 +50,7 @@
                 <pb n="36"/> 
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="050"/>
-                    <head rend="italics">Discourse 10.</head>
+                    <head rend="italic">Discourse 10.</head>
                     <div type="discourse-p1"><ab> 
                         <lb/><milestone unit="section" n="e10-01" />If this saying be taken literally, it <choice><orig>onely</orig><reg>only</reg></choice> <choice><orig>increaseth</orig><reg>increases</reg></choice> the quality of fire and Mer 
                         <lb break="no"/>cury, and <choice><orig>introduceth</orig><reg>introduces</reg></choice> <choice><orig>noe</orig><reg>no</reg></choice> new quality in the subject: for every like being added
@@ -96,7 +96,7 @@
                         <lb break="no"/>mined two principles of all things, love, and variance, or <choice><orig>freindship</orig><reg>friendship</reg></choice> and dis
                         
                         
-                        <pb n="37"/><fw rend="italics">Discourse 10.</fw>
+                        <pb n="37"/><fw rend="italic">Discourse 10.</fw>
                         <lb break="no"/>cord: that by variance corruptions were made, generations by love: such vari
                         <lb break="no"/>ance is manifestly beheld between fire and water, fire causing water to eva
                         <lb break="no"/>porate, if it can, water on the contrary extinguishing fire, if admitted to it: <pc>-</pc>

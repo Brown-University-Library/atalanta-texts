@@ -26,17 +26,17 @@
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="201"/>
                     <head>
-                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 48. Of the Secrets of Nature.</seg>
+                        <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 48. Of the Secrets of Nature.</seg>
                         </head>
                         <head>
-                        <lb/><seg rend="italics">The King falls <choice><orig>sicke</orig><reg>sick</reg></choice> by drinking water, and is restored to health
+                        <lb/><seg rend="italic">The King falls <choice><orig>sicke</orig><reg>sick</reg></choice> by drinking water, and is restored to health
                         <lb/>by <choice><orig>Physitians</orig><reg>Physicians</reg></choice>.</seg>
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 48.</head>
+                    <head rend="italic"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 48.</head>
                     <lg>
                         <l>In wealth nor people <choice><orig>dos</orig><reg>does</reg></choice> the King delight,</l>
                         <l><choice><orig>Soe</orig><reg>So</reg></choice> much as to have water brought in sight.</l>
@@ -51,7 +51,7 @@
                 <pb n="150"/> 
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="202"/>
-                    <head rend="italics">Discourse 48.</head>
+                    <head rend="italic">Discourse 48.</head>
                     <div type="discourse-p1"><ab> 
                         <lb/>Xerxes that most potent King of Persia leading his army through dry <pc>-</pc> 
                         <lb/>and rugged places in <choice><orig>hott</orig><reg>hot</reg></choice> weather, being thirsty, refused not a draught <pc>-</pc>
@@ -98,7 +98,7 @@
                         
                         
                         
-                        <pb n="151"/><fw rend="italics">Discourse 48.</fw>
+                        <pb n="151"/><fw rend="italic">Discourse 48.</fw>
                         <lb/>into the Kings army, but the barbarous King taking the petition of Pythius
                         <lb/>most unworthily, <choice><orig>comanded</orig><reg>commanded</reg></choice> his younger <choice><orig>sonne</orig><reg>son</reg></choice> to be <choice><orig>cutt</orig><reg>cut</reg></choice> in two <choice><orig>peices</orig><reg>pieces</reg></choice>, <pc>-</pc>
                         <lb/>and fastened to stakes on both sides the high way, by which his whole ar

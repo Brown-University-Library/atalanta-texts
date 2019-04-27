@@ -60,6 +60,10 @@ span.v-line-indent {
     margin-left: 10%;
 }
 
+span.v-line-discourse {
+    margin-left: 5%;
+}
+
 /*  hiding own title. only show what's on the page */
 h2{
     display: none;
@@ -173,6 +177,10 @@ span.underline{
     text-decoration: underline;
 }
 
+span.smaller {
+    font-size: smaller;
+}
+
 span.underline2{
     border-bottom: 2px grey solid;
 }
@@ -186,7 +194,7 @@ span.quote {
 }
 
 span.gothic {
-     /*  what shall we put here?   */
+     font-weight: bold;
 }
 
 span.latin {
@@ -197,8 +205,8 @@ span.smallCaps, hi.smallCaps {
     font-variant: small-caps;
 }
 
-span.smallCaps-latin {
-    font-variant: small-caps;
+span.caps-latin {
+    text-transform: uppercase;
     font-style: normal;
 }
 
@@ -209,6 +217,7 @@ span.raised {
 .pc{
 
 }
+
 
 
 .fw{
@@ -223,7 +232,7 @@ span.raised {
     top: auto; /* default */
     width: 175px;
     padding-left: 10px;
-
+    font-style: italic;
 }
 
 .note-mark{

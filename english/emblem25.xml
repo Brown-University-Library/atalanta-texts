@@ -26,17 +26,17 @@
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="109"/>
                     <head>
-                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 25. Of the Secrets of Nature.</seg>
+                        <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 25. Of the Secrets of Nature.</seg>
                         </head>
                         <head>
-                        <lb/><seg rend="italics">The Dragon <choice><orig>dyes</orig><reg>dies</reg></choice> not, except <choice><orig>hee</orig><reg>he</reg></choice> be <choice><orig>killd</orig><reg>killed</reg></choice> by his brother and Sister,
+                        <lb/><seg rend="italic">The Dragon <choice><orig>dyes</orig><reg>dies</reg></choice> not, except <choice><orig>hee</orig><reg>he</reg></choice> be <choice><orig>killd</orig><reg>killed</reg></choice> by his brother and Sister,
                         <lb/>which are Sol and Luna.</seg>
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 25.</head>
+                    <head rend="italic"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 25.</head>
                     <lg>
                         <l>To kill the dragon will much art require,</l>
                         <l><choice><orig>Soe</orig><reg>So</reg></choice> sure as never after to respire:</l>
@@ -51,7 +51,7 @@
                 <pb n="8i"/><!-- should be regularized to 81 --> 
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="110"/>
-                    <head rend="italics">Discourse 25.</head>
+                    <head rend="italic">Discourse 25.</head>
                     <div type="discourse-p1"><ab> 
                         <lb/>In acquiring the golden fleece the Dragon was first of all to be killed, because <pc>-</pc>
                         <lb/>the <choice><orig>labour</orig><reg>labor</reg></choice> being attempted by many men, they were overcome by the Dragon <pc>-</pc>
@@ -60,7 +60,7 @@
                         <lb/>might be <choice><orig>slayne</orig><reg>slain</reg></choice>: but Jason (the <choice><orig>Physitian</orig><reg>Physician</reg></choice>) neglected <choice><orig>noe</orig><reg>no</reg></choice> manner of <choice><orig>reme
                         <lb break="no"/>dyes</orig><reg>remedies</reg></choice>, whereof <choice><orig>hee</orig><reg>he</reg></choice> received <choice><orig>severall</orig><reg>several</reg></choice> from Medea (the advice of the mind) and <pc>-</pc>
                         <lb/>amongst those the images of Sol and Luna, which using <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>successefully</orig><reg>successfully</reg></choice> <choice><orig>ob
-                        <lb break="no"/>taind</orig><reg>obtained</reg></choice> the victory with the reward, that is, the <hi rend="italics">Golden Fleece</hi>. The Dragon there
+                        <lb break="no"/>taind</orig><reg>obtained</reg></choice> the victory with the reward, that is, the <hi rend="italic">Golden Fleece</hi>. The Dragon there
                         <lb break="no"/>fore was <choice><orig>slayne</orig><reg>slain</reg></choice> by Sol and Luna, or the images of them, which the Philosophers
                         <lb/><choice><orig>doe</orig><reg>do</reg></choice> in many places inculcate: for an Author of the Rosary amongst others <choice><orig>hath</orig><reg>has</reg></choice> it
                         <lb/>thus: Hermes; The Dragon <choice><orig>dyes</orig><reg>dies</reg></choice> not, except <choice><orig>hee</orig><reg>he</reg></choice> be <choice><orig>killd</orig><reg>killed</reg></choice> by his brother and Sister,
@@ -97,7 +97,7 @@
                         <lb/>and <choice><orig>poyson</orig><reg>poison</reg></choice>, wherewith <choice><orig>hee</orig><reg>he</reg></choice> is armed: For though <choice><orig>coḿon</orig><reg>common</reg></choice> dragons are <choice><orig>sayd</orig><reg>said</reg></choice>
                         <lb/>to be <choice><orig>voyd</orig><reg>void</reg></choice> of <choice><orig>poyson</orig><reg>poison</reg></choice>, yet this is not without it, venting it upon any one
                         
-                        <pb n="82"/><fw rend="italics">Discourse 25.</fw>
+                        <pb n="82"/><fw rend="italic">Discourse 25.</fw>
                         <lb/>in his way, if <choice><orig>hee</orig><reg>he</reg></choice> be not warily managed: <choice><orig>Hee</orig><reg>He</reg></choice> can therefore be rarely over
                         <lb break="no"/>come by force, except the craft of his consanguine relations be <choice><orig>allso</orig><reg>also</reg></choice> added: For
                         <lb/>the Poet <choice><orig>sayd</orig><reg>said</reg></choice> <choice><orig>truely</orig><reg>truly</reg></choice>, It is a safe and <choice><orig>usuall</orig><reg>usual</reg></choice> way to deceive by the name <pc>-</pc>

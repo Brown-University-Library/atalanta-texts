@@ -26,17 +26,17 @@
                 <div type="titlePage" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="001"/>
                     <ab rend="center">
-                        <lb/><seg rend="italics">Atalanta running,
+                        <lb/><seg rend="italic">Atalanta running,
                         <lb/>that is,</seg>
                     </ab>
   
                     <ab rend="center">
-                        <lb/><seg rend="italics">New <choice><orig>Chymicall</orig><reg>Chymical</reg></choice> Emblems relating to the
+                        <lb/><seg rend="italic">New <choice><orig>Chymicall</orig><reg>Chymical</reg></choice> Emblems relating to the
                         <lb/>Secrets of Nature,</seg>
                     </ab>
   
                     <ab rend="center">
-                        <lb/><seg rend="italics"><choice><orig>Accomodated</orig><reg>Accommodated</reg></choice> partly to the eyes and understanding, with figures <choice><orig>cutt</orig><reg>cut</reg></choice>
+                        <lb/><seg rend="italic"><choice><orig>Accomodated</orig><reg>Accommodated</reg></choice> partly to the eyes and understanding, with figures <choice><orig>cutt</orig><reg>cut</reg></choice>
                         <lb/>in Copper, and Sentences, Epigrams, and notes added, partly to the
                         <lb/>ears and recreation of the mind, with 50 <choice><orig>musicall</orig><reg>musical</reg></choice> flights of
                         <lb/>three <choice><orig>voyces</orig><reg>voices</reg></choice>, whereof two may correspond to one single
@@ -58,15 +58,15 @@
                     </ab>
 
                     <ab rend="centr">
-                        <lb/><seg rend="italics">Michael <choice><orig>Majerus</orig><reg>Maierus</reg></choice> Count of the Imperiall Con
+                        <lb/><seg rend="italic">Michael <choice><orig>Majerus</orig><reg>Maierus</reg></choice> Count of the Imperiall Con
                         <lb break="no"/>sistory. Doctor of <choice><orig>Physicke</orig><reg>Physic</reg></choice>. Knight of etc.
                         <lb/><pc>. . . . .</pc></seg>
                     </ab>
                     <ab rend="center">
-                        <lb/><seg rend="italics">Oppenheim.</seg>
+                        <lb/><seg rend="italic">Oppenheim.</seg>
                     </ab>
                     <ab rend="center">
-                        <lb/><seg rend="italics">Printed by Hieronymus Gallerus, at the charge of
+                        <lb/><seg rend="italic">Printed by Hieronymus Gallerus, at the charge of
                         <lb/>John Theodore de Bry.
                         <lb/>1618.
                         <lb/><pc>. . . .</pc></seg>
@@ -78,7 +78,7 @@
                 <div type="epigram-authoris" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="002"/>
                     <div type="epigram" xml:lang="en">
-                        <head rend="italics">the Author's <choice><orig>Epigramme</orig><reg>Epigram</reg></choice>.</head>
+                        <head rend="italic">the Author's <choice><orig>Epigramme</orig><reg>Epigram</reg></choice>.</head>
                     <lg>
                         <l>The Hesperian apples of the Cyprian dame</l>
                         <l>Gave to the nimble youth a victors fame:</l>
@@ -112,7 +112,7 @@
                 
                 <pb n="03"/> <milestone unit="page" ed="Meier" n="003"/>
                     <div type="dedication">
-                        <ab rend="center italics">
+                        <ab rend="center italic">
                             <lb/>Michael <choice><orig>Majerus</orig><reg>Maierus</reg></choice> Doctor of <choice><orig>Physicke</orig><reg>Physic</reg></choice>, <choice><orig>Præsident</orig><reg>President</reg></choice> of
                         <lb/>the <choice><orig>Imperiall</orig><reg>Imperial</reg></choice> Consistory, Knight etc. most humbly
                         <lb/>offers, presents, and dedicates this testimony (such
@@ -124,7 +124,7 @@
                         <lb/>true <choice><orig>noblenesse</orig><reg>nobleness</reg></choice> of mind;
                     </ab>
               
-                    <ab rend="center italics">
+                    <ab rend="center italic">
                         <lb/>as <choice><orig>allso</orig><reg>also</reg></choice>
                         <lb/>to the most vigilant <choice><orig>Syndicke</orig><reg>Syndic</reg></choice> thereof of Christopher
                         <lb/>Reinart, a most eminent Doctor of both <choice><orig>lawes</orig><reg>laws</reg></choice>, etc.
@@ -208,7 +208,7 @@
                         <lb break="no"/>till</orig><reg>subtle</reg></choice>, concise, sacred, rare, and abstruse, and therefore to be comprehended
                         <lb/>by the understanding sooner than by sense, rather by profound contem
                         
-                        <pb n="05"/><fw rend="italics">the <choice><orig>præface</orig><reg>preface</reg></choice> to the Reader.</fw>
+                        <pb n="05"/><fw rend="italic">the <choice><orig>præface</orig><reg>preface</reg></choice> to the Reader.</fw>
                         <lb break="no"/>plation upon the reading of authors, and comparing them together, and <pc>-</pc>
                         <lb/>with the works of nature, than sensitive operation, or <choice><orig>manuall</orig><reg>manual</reg></choice> experi
                         <lb break="no"/>mentation, which is blind without <choice><orig>prævious</orig><reg>previous</reg></choice> theory: next after such <choice><orig>intellec
@@ -255,7 +255,7 @@
                         <lb break="no"/>cleated by the understanding, you have <choice><orig>alltogether</orig><reg>altogether</reg></choice> in one <choice><orig>booke</orig><reg>book</reg></choice>, and may
                         <lb/>as designed apply them to your <choice><orig>owne</orig><reg>own</reg></choice> use, which if it be more <choice><orig>intel
                         
-                        <pb n="06"/><fw rend="italics">the <choice><orig>præface</orig><reg>preface</reg></choice> to the Reader.</fw>
+                        <pb n="06"/><fw rend="italic">the <choice><orig>præface</orig><reg>preface</reg></choice> to the Reader.</fw>
                             <lb break="no"/>lectuall</orig><reg>intellectual</reg></choice>, than <choice><orig>sensuall</orig><reg>sensual</reg></choice>, the more profitable <milestone unit="page" ed="Meier" n="009"/>and <choice><orig>delightfull</orig><reg>delightful</reg></choice> will it be in time:
                         <lb/>but if it be first in bondage to the sense, there is <choice><orig>noe</orig><reg>no</reg></choice> doubt but there will <pc>-</pc>
                         <lb/>be a passage from the sense to the understanding as by a <choice><orig>doore</orig><reg>door</reg></choice>: for nothing is
@@ -301,7 +301,7 @@
                         <lb/>where the eyes alone are deceived, they judging it very near to nature, <pc>-</pc>
                         <lb/>why should not the learned have these figures in good estimation <pc>-</pc>
                     
-                        <pb n="07"/><fw rend="italics">the <choice><orig>præface</orig><reg>preface</reg></choice> to the Reader.</fw>
+                        <pb n="07"/><fw rend="italic">the <choice><orig>præface</orig><reg>preface</reg></choice> to the Reader.</fw>
                         <lb/>which are <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>usefull</orig><reg>useful</reg></choice> and serviceable both to the understanding and
                         <lb/>many of the senses, that great utility besides delight and recreation <pc>-</pc>
                         <lb/>may be expected from them? Farewell <pc>. . . . . . .</pc>

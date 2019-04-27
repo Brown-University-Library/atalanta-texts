@@ -26,17 +26,17 @@
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="173"/>
                     <head>
-                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 41. Of the Secrets of Nature.</seg>
+                        <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 41. Of the Secrets of Nature.</seg>
                         </head>
                         <head>
-                        <lb/><seg rend="italics">Adonis is <choice><orig>killd</orig><reg>killed</reg></choice> by a Boar, to <choice><orig>whome</orig><reg>whom</reg></choice> Venus hasting tinged the
+                        <lb/><seg rend="italic">Adonis is <choice><orig>killd</orig><reg>killed</reg></choice> by a Boar, to <choice><orig>whome</orig><reg>whom</reg></choice> Venus hasting tinged the
                         <lb/>Roses with her blood.</seg>
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> <choice><sic>4i</sic><corr>41</corr></choice>.</head>
+                    <head rend="italic"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> <choice><sic>4i</sic><corr>41</corr></choice>.</head>
                     <lg>
                         <l>Myrrha, conspiring with her Sire, gave breath</l>
                         <l>To <choice><orig>th'</orig><reg>the</reg></choice> fair Adonis, <choice><orig>tushd</orig><reg>tushed</reg></choice> by a Boar to death:</l>
@@ -51,7 +51,7 @@
                 <pb n="129"/> 
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="174"/>
-                    <head rend="italics">Discourse <choice><sic>4i</sic><corr>41</corr></choice>.</head>
+                    <head rend="italic">Discourse <choice><sic>4i</sic><corr>41</corr></choice>.</head>
                     <div type="discourse-p1"><ab> 
                         <lb/>How improperly some of the Mythologists resolve the Allegory of <pc>-</pc> 
                         <lb/>Adonis, and ascribe him sometimes to the <choice><orig>Sunne</orig><reg>Sun</reg></choice>, the <choice><orig>Boare</orig><reg>Boar</reg></choice>, by which
@@ -63,7 +63,7 @@
                         <quote>
                             <lg xml:lang="la">
                                 <l>Omnia sunt idem, Dionysus, Sol, et Adonis:</l></lg>
-                            And Orpheus:<pc>------</pc><lg xml:lang="la"><l>Qui vario lætaris nomine Adoni,</l>
+                            And Orpheus:<pc>------</pc><lg xml:lang="la" rend="no-space"><l>Qui vario lætaris nomine Adoni,</l>
                                 <l>Germinum et idem author, pariter puer atꝗ puella.</l>
                             </lg>
                         </quote>
@@ -100,7 +100,7 @@
                         
                         
                         
-                        <pb n="130"/><fw rend="italics">Discourse 4i.</fw>
+                        <pb n="130"/><fw rend="italic">Discourse 4i.</fw>
                         <lb/>speaks thus of Adonis, that is, of <choice><orig>himselfe</orig><reg>himself</reg></choice>: Know yee, that my father Sol
                         <lb/><choice><orig>hath</orig><reg>has</reg></choice> given <choice><orig>mee</orig><reg>me</reg></choice> power above all power, and <choice><orig>cloathed</orig><reg>clothed</reg></choice> <choice><orig>mee</orig><reg>me</reg></choice> with the gar
                         <lb break="no"/>ment of glory: And a little after: For I am his <choice><orig>onely</orig><reg>only</reg></choice> <choice><orig>Sonne</orig><reg>Son</reg></choice> and more

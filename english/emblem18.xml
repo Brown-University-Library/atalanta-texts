@@ -26,16 +26,16 @@
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="081"/>
                     <head>
-                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 18. Of the Secrets of Nature.</seg>
+                        <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 18. Of the Secrets of Nature.</seg>
                         </head>
                         <head>
-                        <lb/><seg rend="italics">Fire loves to <choice><orig>burne</orig><reg>burn</reg></choice>, not to aurify, but gold.</seg>
+                        <lb/><seg rend="italic">Fire loves to <choice><orig>burne</orig><reg>burn</reg></choice>, not to aurify, but gold.</seg>
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 18.</head>
+                    <head rend="italic"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 18.</head>
                     <lg>
                         <l>All Natures agents <choice><orig>doe</orig><reg>do</reg></choice> their seed diffuse,</l>
                         <l>That thus they may their species produce:</l>
@@ -50,7 +50,7 @@
                 <pb n="60"/> 
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="082"/>
-                    <head rend="italics">Discourse 18.</head>
+                    <head rend="italic">Discourse 18.</head>
                     <div type="discourse-p1"><ab> 
                         <lb/>Natures way of operating in all <choice><orig>individualls</orig><reg>individuals</reg></choice> of the universe is to use one<milestone unit="section" n="e18-01" /> 
                         <lb/>single <choice><orig>processe</orig><reg>process</reg></choice> to complete and perfect one single motion, as appears in the
@@ -100,7 +100,7 @@
                         
                         
                         
-                            <pb n="6i"/><fw rend="italics">Discourse 18.</fw><!-- should be regularized to 61 -->
+                            <pb n="6i"/><fw rend="italic">Discourse 18.</fw><!-- should be regularized to 61 -->
                         <lb/>likely to be true: I know not whether they are more confident or <pc>-</pc>
                         <lb/><choice><orig>successefull</orig><reg>successful</reg></choice>, who <choice><orig>endeavour</orig><reg>endeavor</reg></choice> to deduce gold from gold, according to the
                         <lb/>saying of the golden <choice><orig>Poett</orig><reg>Poet</reg></choice>: <choice><orig>Hee</orig><reg>He</reg></choice> that desires barley <choice><orig>sowes</orig><reg>sows</reg></choice> <choice><orig>onely</orig><reg>only</reg></choice> barley,

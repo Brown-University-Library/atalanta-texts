@@ -26,17 +26,17 @@
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="177"/>
                     <head>
-                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 42. Of the Secrets of Nature.</seg>
+                        <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 42. Of the Secrets of Nature.</seg>
                         </head>
                         <head>
-                        <lb/><seg rend="italics">Nature, Reason, Experience, and reading must be the guide, <choice><orig>staffe</orig><reg>staff</reg></choice>,
+                        <lb/><seg rend="italic">Nature, Reason, Experience, and reading must be the guide, <choice><orig>staffe</orig><reg>staff</reg></choice>,
                         <lb/>Spectacles, and Lamp to him that is <choice><orig>employd</orig><reg>employed</reg></choice> in <choice><orig>Chymicall</orig><reg>Chymical</reg></choice> affairs.</seg>
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 42.</head>
+                    <head rend="italic"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 42.</head>
                     <lg>
                         <l>Pursuing art, let Nature be your guide,</l>
                         <l>Tracing her steps your feet will not <choice><orig>back<pc rend="double-hyphen">-</pc>slide</orig><reg>backslide</reg></choice>:</l>
@@ -51,7 +51,7 @@
                 <pb n="132"/> 
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="178"/>
-                    <head rend="italics">Discourse 42.</head>
+                    <head rend="italic">Discourse 42.</head>
                     <div type="discourse-p1"><ab> 
                         <lb/><milestone unit="section" n="e42-01" />The chances, which may happen to <choice><orig>travellers</orig><reg>travelers</reg></choice>, are innumerable, es 
                         <lb break="no"/>pecially if they take a journey on foot by night through slippery <pc>-</pc>
@@ -96,7 +96,7 @@
                         
                         
                         
-                        <pb n="133"/><fw rend="italics">Discourse 42.</fw>
+                        <pb n="133"/><fw rend="italic">Discourse 42.</fw>
                         <lb/>into <choice><orig>errours</orig><reg>errors</reg></choice>, and therefore say the Philosophers; Whatsoever you hear,
                         <lb/>consult with reason, whether it can be <choice><orig>soe</orig><reg>so</reg></choice>, or <choice><orig>noe</orig><reg>no</reg></choice>: <milestone unit="section" n="e42-14" />For <choice><orig>noe</orig><reg>no</reg></choice> man is
                         <lb/>forced to <choice><orig>beleive</orig><reg>believe</reg></choice> or <choice><orig>performe</orig><reg>perform</reg></choice> things impossible, except <choice><orig>hee</orig><reg>he</reg></choice> be of <pc>-</pc>

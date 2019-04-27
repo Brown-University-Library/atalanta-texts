@@ -163,8 +163,8 @@
 
     </xsl:template>
 
-    <xsl:template match="af:seg[@rend='italics']">
-        <span class="italics">
+    <xsl:template match="af:seg[@rend='italic']">
+        <span class="italic">
             <xsl:apply-templates/>
         </span>
     </xsl:template>
@@ -174,17 +174,30 @@
             <xsl:apply-templates/>
         </span>
     </xsl:template>
+    
+    <xsl:template match="af:hi[@rend='italic']">
+        <span class="italic">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
 
     <xsl:template match="af:note">
-        <xsl:if test="@place='margin'">
-            <span class="note-mark">*</span>
-            <div class="margin-note">
-                <span class="note-mark">
-                    <xsl:text>*</xsl:text>
-                </span>
-                <xsl:apply-templates/>
-            </div>
-        </xsl:if>
+        <xsl:choose>
+            <xsl:when test="@place='margin'">
+                <span class="note-mark">*</span>
+                <div class="margin-note">
+                    <span class="note-mark">
+                        <xsl:text>*</xsl:text>
+                    </span>
+                    <xsl:apply-templates/>
+                </div>
+            </xsl:when>
+            <xsl:when test="@place='bottom'">
+                <div class="bottom-note">
+                    <xsl:apply-templates/>
+                </div>
+            </xsl:when>
+        </xsl:choose>
         
     </xsl:template>
 

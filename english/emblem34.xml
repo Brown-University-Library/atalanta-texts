@@ -26,17 +26,17 @@
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="145"/>
                     <head>
-                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 34. Of the Secrets of Nature.</seg>
+                        <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 34. Of the Secrets of Nature.</seg>
                         </head>
                         <head>
-                        <lb/><seg rend="italics"><choice><orig>Hee</orig><reg>He</reg></choice> is conceived in baths, and <choice><orig>borne</orig><reg>born</reg></choice> in the <choice><orig>aire</orig><reg>air</reg></choice>, and being made
+                        <lb/><seg rend="italic"><choice><orig>Hee</orig><reg>He</reg></choice> is conceived in baths, and <choice><orig>borne</orig><reg>born</reg></choice> in the <choice><orig>aire</orig><reg>air</reg></choice>, and being made
                         <lb/>red walks upon the waters.</seg>
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 34.</head>
+                    <head rend="italic"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 34.</head>
                     <lg>
                         <l>Sol is in baths <choice><orig>conceiv'd</orig><reg>conceived</reg></choice>, <choice><orig>produc'd</orig><reg>produced</reg></choice> <choice><orig>ith'</orig><reg>in the</reg></choice> <choice><orig>aire</orig><reg>air</reg></choice>,</l>
                         <l>And growing red treads water without fear:</l>
@@ -51,7 +51,7 @@
                 <pb n="108"/> 
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="146"/>
-                    <head rend="italics">Discourse 34.</head>
+                    <head rend="italic">Discourse 34.</head>
                     <div type="discourse-p1"><ab> 
                         <lb/>The opinion or flattery of men attributes <choice><orig>wonderfull</orig><reg>wonderful</reg></choice> births to some <pc>-</pc> 
                         <lb/>persons above others, but certainly fabulous, as to Alexander the great,
@@ -98,7 +98,7 @@
                         
                         
                         
-                        <pb n="109"/><fw rend="italics">Discourse 34.</fw>
+                        <pb n="109"/><fw rend="italic">Discourse 34.</fw>
                         <lb/>of mountains, that is, in the <choice><orig>aire</orig><reg>air</reg></choice> or <choice><orig>Alembicke</orig><reg>Alembic</reg></choice>; which is by Rosinus to
                         <lb/>Euthicia thus explained: The wise man <choice><orig>sayd</orig><reg>said</reg></choice>. Take things out of their
                         <lb/><choice><orig>mynes</orig><reg>mines</reg></choice>, and exalt them to higher places, and send them from the top

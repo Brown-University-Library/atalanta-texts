@@ -26,17 +26,17 @@
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="037"/>
                     <head>
-                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 7. Of the Secrets of Nature.</seg>
+                        <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 7. Of the Secrets of Nature.</seg>
                         </head>
                         <head>
-                        <lb/><seg rend="italics">A chicken is flying out of the nest, which falls <choice><orig>againe</orig><reg>again</reg></choice> into the nest.</seg>
+                        <lb/><seg rend="italic">A chicken is flying out of the nest, which falls <choice><orig>againe</orig><reg>again</reg></choice> into the nest.</seg>
                         
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 7.</head>
+                    <head rend="italic"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 7.</head>
                     <lg>
                         <l>The bird of Jove had nested on a <choice><orig>rocke</orig><reg>rock</reg></choice>,</l>
                         <l>Whe<subst><del>e</del><add>r</add></subst>e <choice><orig>Shee</orig><reg>She</reg></choice> brought forth, and fed her tender <choice><orig>flocke</orig><reg>flock</reg></choice>:</l>
@@ -51,7 +51,7 @@
                 <pb n="27"/> 
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="038"/>
-                    <head rend="italics">Discourse 7.</head>
+                    <head rend="italic">Discourse 7.</head>
                     <div type="discourse-p1"><ab> 
                         <lb/><milestone unit="section" n="e07-01" />What Hippocrates, the defender and propugnator of <choice><orig>Physitians</orig><reg>Physicians</reg></choice>, affirms of hu 
                         <lb break="no"/>mors, that they are different and many in man, and not one <choice><orig>onely</orig><reg>only</reg></choice>, otherwise
@@ -101,7 +101,7 @@
                         
                         
                         
-                        <pb n="28"/><fw rend="italics">Discourse 7.</fw>
+                        <pb n="28"/><fw rend="italic">Discourse 7.</fw>
                         <lb/><choice><orig>soe</orig><reg>so</reg></choice> many <choice><orig>metallicke</orig><reg>metallic</reg></choice> <choice><orig>bodyes</orig><reg>bodies</reg></choice>, as fixed <choice><orig>Starrs</orig><reg>Stars</reg></choice>, and <choice><orig>enjoyns</orig><reg>enjoins</reg></choice> these to be
                         <lb/>wedded to those: <milestone unit="section" n="e07-14" />from thence <choice><orig>allso</orig><reg>also</reg></choice> <seg rend="underline" hand="2">Aristotle</seg> the <seg rend="underline" hand="2">Chymist</seg>, the Spirit, <choice><orig>sayth</orig><reg>says</reg></choice> <choice><orig>hee</orig><reg>he</reg></choice>,
                         <lb/>having dissolved the body and <choice><orig>Soule</orig><reg>Soul</reg></choice>, <choice><orig>soe</orig><reg>so</reg></choice> as to exist in their <choice><orig>forme</orig><reg>form</reg></choice>, <choice><orig>doth</orig><reg>does</reg></choice> not

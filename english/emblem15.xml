@@ -26,17 +26,17 @@
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="069"/>
                     <head>
-                        <lb/><seg rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 15. Of the Secrets of Nature.</seg>
+                        <lb/><seg rend="italic"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 15. Of the Secrets of Nature.</seg>
                         </head>
                         <head>
-                        <lb/><seg rend="italics">Let the <choice><orig>worke</orig><reg>work</reg></choice> of the Potter, consisting in siccity and moisture,
+                        <lb/><seg rend="italic">Let the <choice><orig>worke</orig><reg>work</reg></choice> of the Potter, consisting in siccity and moisture,
                         <lb/>instruct you.</seg>
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 15.</head>
+                    <head rend="italic"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 15.</head>
                     <lg>
                         <l>Water the Potter mixing with his clay,</l>
                         <l>Makes <choice><orig>vessells</orig><reg>vessels</reg></choice> <choice><orig>Shapd</orig><reg>Shaped</reg></choice> by <choice><orig>wheele</orig><reg>wheel</reg></choice> without delay:</l>
@@ -51,7 +51,7 @@
                 <pb n="51"/> 
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="070"/>
-                    <head rend="italics">Discourse 15.</head>
+                    <head rend="italic">Discourse 15.</head>
                     <div type="discourse-p1"><ab> 
                         <lb/>As this <choice><orig>orbe</orig><reg>orb</reg></choice> is by the <choice><orig>connexion</orig><reg>connection</reg></choice> of earth and water conglobated into one<milestone unit="section" n="e15-01" /> 
                         <lb/>round body, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> the Potters <choice><orig>worke</orig><reg>work</reg></choice> seems to be compounded of the
@@ -99,7 +99,7 @@
                         
                         
                         
-                        <pb n="52"/><fw rend="italics">Discourse 15.</fw>
+                        <pb n="52"/><fw rend="italic">Discourse 15.</fw>
                         <lb break="no"/>possible: as for the transmutation of <choice><orig>gemms</orig><reg>gems</reg></choice> by it, and performing the <pc>-</pc>
                         <lb/>malleability of <choice><orig>glasse</orig><reg>glass</reg></choice> any man thereby perceive, whether these
                         <lb/>things are possible, and <choice><orig>congrous</orig><reg>congruous</reg></choice> to this nature, or <choice><orig>noe</orig><reg>no</reg></choice>: Geber affirms <pc>-</pc>

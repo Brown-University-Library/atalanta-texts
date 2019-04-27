@@ -26,16 +26,16 @@
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="073"/>
                     <head>
-                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 16. Of the Secrets of Nature.</seg>
+                        <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 16. Of the Secrets of Nature.</seg>
                         </head>
                         <head>
-                        <lb/><seg rend="italics">One <choice><orig>Lyon</orig><reg>Lion</reg></choice> <choice><orig>hath</orig><reg>has</reg></choice> wings, the other none.</seg>
+                        <lb/><seg rend="italic">One <choice><orig>Lyon</orig><reg>Lion</reg></choice> <choice><orig>hath</orig><reg>has</reg></choice> wings, the other none.</seg>
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 16.</head>
+                    <head rend="italic"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 16.</head>
                     <lg>
                         <l>The <choice><orig>Lyon</orig><reg>Lion</reg></choice> prince of beasts in might and sway</l>
                         <l>Fights without fear, and <choice><orig>scornes</orig><reg>scorns</reg></choice> to <choice><orig>runne</orig><reg>run</reg></choice> away:</l>
@@ -50,7 +50,7 @@
                 <pb n="54"/> 
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="074"/>
-                    <head rend="italics">Discourse 16.</head>
+                    <head rend="italic">Discourse 16.</head>
                     <div type="discourse-p1"><ab> 
                         <lb/>It is a thing <choice><orig>knowne</orig><reg>known</reg></choice> by experience that a <choice><orig>Lyon</orig><reg>Lion</reg></choice> <choice><orig>excells</orig><reg>excels</reg></choice> other <choice><orig>animalls</orig><reg>animals</reg></choice> not 
                         <lb/><choice><orig>soe</orig><reg>so</reg></choice> much in <choice><orig>bignesse</orig><reg>bigness</reg></choice> and strength of body, as generosity: if <choice><orig>hee</orig><reg>he</reg></choice> be seen in <pc>-</pc>
@@ -96,7 +96,7 @@
                         
                         
                         
-                        <pb n="55"/><fw rend="italics">Discourse 16.</fw>
+                        <pb n="55"/><fw rend="italic">Discourse 16.</fw>
                         <lb/>is incited with greater love towards her, <choice><orig>freindship</orig><reg>friendship</reg></choice> being made after discord. <pc>-</pc>
                         <lb/>But you will say who ever saw a <choice><orig>Lionesse</orig><reg>Lioness</reg></choice> with wings, or what can the plumes
                         <lb/>of a <choice><orig>Lionesse</orig><reg>Lioness</reg></choice> <choice><orig>avayle</orig><reg>avail</reg></choice>? There is a deep valley near the <choice><orig>mountaine</orig><reg>mountain</reg></choice> <choice><orig>Cythæron</orig><reg>Cithaeron</reg></choice>,

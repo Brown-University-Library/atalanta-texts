@@ -26,17 +26,17 @@
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="165"/>
                     <head>
-                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 39. Of the Secrets of Nature.</seg>
+                        <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 39. Of the Secrets of Nature.</seg>
                         </head>
                         <head>
-                        <lb/><seg rend="italics"><choice><orig>Œdipus</orig><reg>Oedipus</reg></choice> having overcome <choice><orig>Sphynx</orig><reg>Sphinx</reg></choice>, and <choice><orig>Killd</orig><reg>Killed</reg></choice> his father <choice><orig>Lajus</orig><reg>Laius</reg></choice>,
+                        <lb/><seg rend="italic"><choice><orig>Œdipus</orig><reg>Oedipus</reg></choice> having overcome <choice><orig>Sphynx</orig><reg>Sphinx</reg></choice>, and <choice><orig>Killd</orig><reg>Killed</reg></choice> his father <choice><orig>Lajus</orig><reg>Laius</reg></choice>,
                         <lb/><choice><orig>marryed</orig><reg>married</reg></choice> his Mother Jocasta.</seg>
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 39.</head>
+                    <head rend="italic"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 39.</head>
                     <lg>
                         <l><choice><orig>Sphynx</orig><reg>Sphinx</reg></choice> with her riddles did the Thebans dread,</l>
                         <l>But <choice><orig>subtill</orig><reg>subtle</reg></choice> <choice><orig>Œdipus</orig><reg>Oedipus</reg></choice> her wiles <choice><orig>betrayd</orig><reg>betrayed</reg></choice>:</l>
@@ -51,7 +51,7 @@
                 <pb n="123"/> 
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="166"/>
-                    <head rend="italics">Discourse 39.</head>
+                    <head rend="italic">Discourse 39.</head>
                     <div type="discourse-p1"><ab> 
                         <lb/>Bacasser a Philosopher in Turba <choice><orig>sayth</orig><reg>says</reg></choice>, that which you <choice><orig>seeke</orig><reg>seek</reg></choice> for is of <choice><orig>noe</orig><reg>no</reg></choice> small 
                         <lb/>value, for you <choice><orig>seeke</orig><reg>seek</reg></choice> the greatest treasure, and most excellent gift of God. <pc>-</pc>
@@ -97,7 +97,7 @@
                         
                         
                         
-                        <pb n="124"/><fw rend="italics">Discourse 39.</fw>
+                        <pb n="124"/><fw rend="italic">Discourse 39.</fw>
                         <lb/>to the Philosophers alone: The City of Thebes therefore being long <pc>-</pc>
                         <lb/>perplexed with the riddles of <choice><orig>Sphynx</orig><reg>Sphinx</reg></choice> at length came one <choice><orig>Œdipus</orig><reg>Oedipus</reg></choice>, <pc>-</pc>
                         <lb/>who gave such responses to the <choice><orig>quæstions</orig><reg>questions</reg></choice> offered, that <choice><orig>Sphynx</orig><reg>Sphinx</reg></choice> could

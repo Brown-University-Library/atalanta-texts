@@ -59,16 +59,16 @@
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="013"/>
                     <head>
-                        <lb/><seg rend="italics">the first <choice><orig>Embleme</orig><reg>Emblem</reg></choice>. Of the Secrets of Nature.</seg>
+                        <lb/><seg rend="italic">the first <choice><orig>Embleme</orig><reg>Emblem</reg></choice>. Of the Secrets of Nature.</seg>
                     </head>
                     <head>
-                        <lb/><seg rend="italics"><del rend="strikethrough"><unclear reason="illegible">4 chars</unclear> </del><subst><del><unclear reason="illegible">1 char</unclear></del><add>W</add></subst>ind <choice><orig>carryed</orig><reg>carried</reg></choice> him in his belly <pc>- - - -</pc>
+                        <lb/><seg rend="italic"><del rend="strikethrough"><unclear reason="illegible">4 chars</unclear> </del><subst><del><unclear reason="illegible">1 char</unclear></del><add>W</add></subst>ind <choice><orig>carryed</orig><reg>carried</reg></choice> him in his belly <pc>- - - -</pc>
 </seg>                    </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head rend="italics">the first <choice><orig>Epigramme</orig><reg>Epigram</reg></choice>.</head>
+                    <head rend="italic">the first <choice><orig>Epigramme</orig><reg>Epigram</reg></choice>.</head>
                     <lg>
                         <l>If Boreas once expand his windy <choice><orig>wombe</orig><reg>womb</reg></choice>,</l>
                         <l>That <choice><orig>th'</orig><reg>the</reg></choice> Infant in the world alive may come,</l>
@@ -84,7 +84,7 @@
                 <milestone unit="page" ed="Meier" n="014"/>
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="014"/>
-                    <head rend="italics">Discourse 1.</head><note place="margin" hand="1">D Powell 1821</note>
+                    <head rend="italic">Discourse 1.</head><note place="margin" hand="1">D Powell 1821</note>
                    
                         <div type="discourse-p1"><ab> 
                         <lb/><milestone unit="section" n="e01-01" />Hermes the most industrious inquisitor into every <choice><orig>naturall</orig><reg>natural</reg></choice> secret doth
@@ -129,15 +129,15 @@
                         <lb/>of the ashes of the mothers body burned, and <choice><orig>carryes</orig><reg>carries</reg></choice> it thither, where it <pc>-</pc>
                         <lb/>may <seg rend="underline" hand="pencil">be matured</seg>; <milestone unit="section" n="e01-12" />and the Embryo is Sulphur, which is infused into <pc>-</pc><note place="margin" hand="2">digested &amp; fix'd</note>
                         <lb/>the belly of Boreas by the <choice><orig>cælestiall</orig><reg>celestial</reg></choice> <choice><orig>Sunne</orig><reg>Sun</reg></choice>, that <choice><orig>hee</orig><reg>he</reg></choice> may bring it <pc>-</pc>
-                        <lb/>forth being matured, who in the <choice><orig>compleat</orig><reg>complete</reg></choice> time of his <choice><orig>cariage</orig><reg>carriage</reg></choice> <choice><orig>produceth</orig><reg>produces</reg></choice><pc>-</pc><note place="margin" hand="2">the White &amp; <unclear reason="illegible">reddish</unclear>
-                            <lb/><unclear reason="illegible">or</unclear> 🜍</note>
+                        <lb/>forth being matured, who in the <choice><orig>compleat</orig><reg>complete</reg></choice> time of his <choice><orig>cariage</orig><reg>carriage</reg></choice> <choice><orig>produceth</orig><reg>produces</reg></choice><pc>-</pc><note place="margin" hand="2">the White &amp; reddish
+                            <lb/>or 🜍</note>
                         <lb/>twins, one with w<seg rend="underline" hand="pencil">hite <choice><orig>haire</orig><reg>hair</reg></choice></seg>, called Calais, the other with <seg rend="underline" hand="pencil">red</seg>, named<note place="margin" hand="2">x a</note>
                         <lb/>Zethe: <milestone unit="section" n="e01-13" />these <choice><orig>Sonns</orig><reg>Sons</reg></choice> of Boreas were (as Orpheus the <choice><orig>Chymicall</orig><reg>Chymical</reg></choice> poet writes)
                         
                         
-                        <pb n="10"/><fw rend="italics">Discourse <choice><orig><seg rend="underline">i</seg></orig><reg>I</reg></choice>.</fw>
+                        <pb n="10"/><fw rend="italic">Discourse <choice><orig><seg rend="underline">i</seg></orig><reg>I</reg></choice>.</fw>
                         <lb/>with Jason among the Argonauts to carry away the golden fleece from Col
-                        <lb break="no"/>chos: and P<seg rend="underline" hand="pencil">hineus</seg> the blind Prophet, infested by the <seg rend="underline" hand="pencil"><choice><orig>Harpyes</orig><reg>Harpies</reg></choice></seg>, could not be<note place="margin" hand="2"><unclear reason="illegible">Black </unclear></note>
+                            <lb break="no"/>chos: and P<seg rend="underline" hand="pencil">hineus</seg> the blind Prophet, infested by the <seg rend="underline" hand="pencil"><choice><orig>Harpyes</orig><reg>Harpies</reg></choice></seg>, could not be<note place="margin" hand="2">Black <g n="U+1F70D">🜍</g>. <unclear reason="illegible">illeg.</unclear> 🜍 re</note>
                         <lb/>freed, but by the <choice><orig>sayd</orig><reg>said</reg></choice> <choice><orig>Sonns</orig><reg>sons</reg></choice> of Boreas, for which <choice><orig>benefitt</orig><reg>benefit</reg></choice> obtained from <pc>-</pc>
                         <lb/>them, <choice><orig>hee</orig><reg>he</reg></choice>, being <choice><orig>gratefull</orig><reg>grateful</reg></choice>, declared the whole manner of the way to the
                         <lb/>Argonauts: <milestone unit="section" n="e01-14" />But t<seg rend="underline" hand="pencil">he <choice><orig>Harpyes</orig><reg>Harpies</reg></choice> are</seg> <choice><orig>noe</orig><reg>no</reg></choice> other, than cor<seg rend="underline" hand="pencil">rupting Sulphu</seg>r, w<seg rend="underline" hand="pencil">hich</seg>

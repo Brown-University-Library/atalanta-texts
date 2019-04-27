@@ -26,16 +26,16 @@
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="077"/>
                     <head>
-                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 17. Of the Secrets of Nature.</seg>
+                        <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 17. Of the Secrets of Nature.</seg>
                         </head>
                         <head>
-                        <lb/><seg rend="italics"><choice><orig>Fower</orig><reg>Four</reg></choice> <choice><orig>orbes</orig><reg>orbs</reg></choice> <choice><orig>governe</orig><reg>govern</reg></choice> this <choice><orig>worke</orig><reg>work</reg></choice> of fire.</seg>
+                        <lb/><seg rend="italic"><choice><orig>Fower</orig><reg>Four</reg></choice> <choice><orig>orbes</orig><reg>orbs</reg></choice> <choice><orig>governe</orig><reg>govern</reg></choice> this <choice><orig>worke</orig><reg>work</reg></choice> of fire.</seg>
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 17.</head>
+                    <head rend="italic"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 17.</head>
                     <lg>
                         <l>Consult with Nature, and four <choice><orig>orbes</orig><reg>orbs</reg></choice> acquire,</l>
                         <l>Excited with a soft <choice><orig>internall</orig><reg>internal</reg></choice> fire:</l>
@@ -50,7 +50,7 @@
                 <pb n="57"/> 
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="078"/>
-                    <head rend="italics">Discourse 17.</head>
+                    <head rend="italic">Discourse 17.</head>
                     <div type="discourse-p1"><ab> 
                         <lb/>The Philosophers have in many places made mention of four sorts of fire<milestone unit="section" n="e17-01" /> 
                         <lb/>necessary to the <choice><orig>naturall</orig><reg>natural</reg></choice> <choice><orig>worke</orig><reg>work</reg></choice>, namely Lully, the Author of Scala, Ripley,
@@ -97,7 +97,7 @@
                         
                         
                         
-                        <pb n="58"/><fw rend="italics">Discourse 17.</fw>
+                        <pb n="58"/><fw rend="italic">Discourse 17.</fw>
                         <lb/>Menstruums, the vegetable, and <choice><orig>minerall</orig><reg>mineral</reg></choice>, Ripley in his <choice><orig>Præface</orig><reg>Preface</reg></choice> of the gates <choice><orig>hath</orig><reg>has</reg></choice>
                         <lb/>three, which are really one and <choice><orig>doe</orig><reg>do</reg></choice> agree: for the generation of the infant
                         <lb/>is made of them <choice><orig>alltogether</orig><reg>altogether</reg></choice>, and a white water <choice><orig>præceeds</orig><reg>preceeds</reg></choice> the birth of it, which

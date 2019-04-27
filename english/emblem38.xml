@@ -26,17 +26,17 @@
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="161"/>
                     <head>
-                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 38. Of the Secrets of Nature.</seg>
+                        <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 38. Of the Secrets of Nature.</seg>
                         </head>
                         <head>
-                        <lb/><seg rend="italics">Rebis is, as Hermaphroditus, produced from the two moun
+                        <lb/><seg rend="italic">Rebis is, as Hermaphroditus, produced from the two moun
                         <lb break="no"/>tains of Mercury and Venus.</seg>
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 38.</head>
+                    <head rend="italic"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 38.</head>
                     <lg>
                         <l>Rebis is by the Ancients calld a <choice><orig>Twinne</orig><reg>Twin</reg></choice>,</l>
                         <l>Containing male and female sex therein:</l>
@@ -51,7 +51,7 @@
                 <pb n="120"/> 
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="162"/>
-                    <head rend="italics">Discourse 38.</head>
+                    <head rend="italic">Discourse 38.</head>
                     <div type="discourse-p1"><ab> 
                         <lb/>Socrates being demanded what Country man <choice><orig>hee</orig><reg>he</reg></choice> was, answered a <pc>-</pc> 
                         <lb/>Citizen of the world: by which his intention was to signify, that though
@@ -96,7 +96,7 @@
                         
                         
                         
-                        <pb n="121"/><fw rend="italics">Discourse 38.</fw>
+                        <pb n="121"/><fw rend="italic">Discourse 38.</fw>
                         <lb break="no"/>cuous, yet they are <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>veild</orig><reg>veiled</reg></choice> and clouded with intricacy and ob
                         <lb break="no"/>scurity, that by reason thereof it is very difficult to make distinction:
                         <lb/>Wherefore <choice><orig>wee</orig><reg>we</reg></choice> must cautiously proceed with them, that they, which are
@@ -125,7 +125,7 @@
                         <lb/>impeded by I know not what obstacles? Whoever<!-- he splits the word here. How to code? --> attaines to the <pc>-</pc>
                         <lb/><choice><orig>midle</orig><reg>middle</reg></choice> of it? for
                             <quote>
-                                <lg xml:lang="la" rend="run-on"><l>Non levis ascensus, si quis petat ardua, sudor</l>
+                                <lg xml:lang="la" rend="no-space"><l>Non levis ascensus, si quis petat ardua, sudor</l>
                                     <l>Plurimus hunc tollit, nocturnæ insomnis olivæ</l>
                                     <l>Immoritur, delet, quod mox laudaverat in se,</l>
                                     <l>Qui cupit æternæ donari frondis honore.</l>

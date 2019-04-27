@@ -26,17 +26,17 @@
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="209"/>
                     <head>
-                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 50. Of the Secrets of Nature.</seg>
+                        <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 50. Of the Secrets of Nature.</seg>
                         </head>
                         <head>
-                        <lb/><seg rend="italics">The Dragon kills the woman, and <choice><orig>shee</orig><reg>she</reg></choice> him, and are both bloody
+                        <lb/><seg rend="italic">The Dragon kills the woman, and <choice><orig>shee</orig><reg>she</reg></choice> him, and are both bloody
                         <lb/>all over.</seg>
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 50.</head>
+                    <head rend="italic"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 50.</head>
                     <lg>
                         <l><choice><orig>Fitt</orig><reg>Fit</reg></choice> for the Dragon <choice><orig>digge</orig><reg>dig</reg></choice> a cavous place,</l>
                         <l>And therewith <choice><orig>joyne</orig><reg>join</reg></choice> the woman face to face:</l>
@@ -51,7 +51,7 @@
                 <pb n="156"/> 
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="210"/>
-                    <head rend="italics">Discourse 50.</head>
+                    <head rend="italic">Discourse 50.</head>
                     <div type="discourse-p1"><ab> 
                         <lb/><milestone unit="section" n="e50-01" />The mansion of Dragons is in caverns of the earth, but the residence 
                         <lb/>of men above the earth in the <choice><orig>iḿediate</orig><reg>immediate</reg></choice> <choice><orig>aire</orig><reg>air</reg></choice>; which two Elements
@@ -96,7 +96,7 @@
                         
                         
                         
-                        <pb n="157"/><fw rend="italics">Discourse 50.</fw>
+                        <pb n="157"/><fw rend="italic">Discourse 50.</fw>
                         <lb/>spirit, and <choice><orig>vivifyes</orig><reg>vivifies</reg></choice> a dead thing, and makes matrimony between man and wo
                         <lb break="no"/>man: For it <choice><orig>conferrs</orig><reg>confers</reg></choice> the whole <choice><orig>benefitt</orig><reg>benefit</reg></choice> of the art: <milestone unit="section" n="e50-12" />Of the earth <choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>hee</orig><reg>he</reg></choice> thus
                         <lb/>speaks. And moreover understand, that the particular earth, which <choice><orig>wee</orig><reg>we</reg></choice> tread

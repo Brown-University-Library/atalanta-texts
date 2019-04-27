@@ -26,16 +26,16 @@
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="085"/>
                     <head>
-                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 19. Of the Secrets of Nature.</seg>
+                        <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 19. Of the Secrets of Nature.</seg>
                         </head>
                         <head>
-                        <lb/><seg rend="italics">If you kill one of the <choice><orig>fower</orig><reg>four</reg></choice>, they will all suddenly <choice><orig>dye</orig><reg>die</reg></choice>.</seg>
+                        <lb/><seg rend="italic">If you kill one of the <choice><orig>fower</orig><reg>four</reg></choice>, they will all suddenly <choice><orig>dye</orig><reg>die</reg></choice>.</seg>
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 19.</head>
+                    <head rend="italic"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 19.</head>
                     <lg>
                         <l>Behold! <choice><orig>foure</orig><reg>four</reg></choice> brethen here together stand,</l>
                         <l>One having earth, water the next in hand,</l>
@@ -50,7 +50,7 @@
                 <pb n="63"/> 
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="086"/>
-                    <head rend="italics">Discourse 19.</head>
+                    <head rend="italic">Discourse 19.</head>
                     <div type="discourse-p1"><ab> 
                         <lb/>The <choice><orig>Poetts</orig><reg>Poets</reg></choice> <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>feigne</orig><reg>feign</reg></choice> Geryon King of <choice><orig>Spayne</orig><reg>Spain</reg></choice> to have been <choice><orig>tricorporeall</orig><reg>tricorporeal</reg></choice>, <pc>-</pc><milestone unit="section" n="e19-01" /> 
                         <lb/>who had oxen of a purple <choice><orig>colour</orig><reg>color</reg></choice>, which a <choice><orig>dogge</orig><reg>dog</reg></choice> with two heads, and a Dragon
@@ -98,7 +98,7 @@
                         
                         
                         
-                        <pb n="64"/><fw rend="italics">Discourse 19.</fw>
+                        <pb n="64"/><fw rend="italic">Discourse 19.</fw>
                         <lb/>they were willing to <choice><orig>dye</orig><reg>die</reg></choice>: <choice><orig>Soe</orig><reg>So</reg></choice> in the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> <choice><orig>worke</orig><reg>work</reg></choice>, one of the bre
                         <lb break="no"/>thren being dead, the other <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> perish by fire, not compulsively, but
                         <lb/>voluntarily, that they may not survive in sorrow and infamy: or if one be

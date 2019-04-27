@@ -26,16 +26,16 @@
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="065"/>
                     <head>
-                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 14. Of the Secrets of Nature.</seg>
+                        <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 14. Of the Secrets of Nature.</seg>
                         </head>
                         <head>
-                        <lb/><seg rend="italics">This is the Dragon which devours his <choice><orig>tayle</orig><reg>tail</reg></choice>.</seg>
+                        <lb/><seg rend="italic">This is the Dragon which devours his <choice><orig>tayle</orig><reg>tail</reg></choice>.</seg>
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 14.</head>
+                    <head rend="italic"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 14.</head>
                     <lg>
                         <l>Hunger taught Polypus his flesh to eat,</l>
                         <l>And man with man his appetite to treat:</l>
@@ -50,7 +50,7 @@
                 <pb n="48"/> 
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="066"/>
-                    <head rend="italics">Discourse 14.</head>
+                    <head rend="italic">Discourse 14.</head>
                     <div type="discourse-p1"><ab> 
                         <lb/>It is a saying of the Ancients, that a Serpent, which <choice><orig>hath</orig><reg>has</reg></choice> <choice><orig>devourd</orig><reg>devoured</reg></choice> a Serpent, be 
                         <lb break="no"/>comes a Dragon: for it is <choice><orig>cruell</orig><reg>cruel</reg></choice> to its kind, as a <choice><orig>theife</orig><reg>thief</reg></choice> and Murderer to his: It is <pc>-</pc>
@@ -99,7 +99,7 @@
                         
                         
                         
-                        <pb n="49"/><fw rend="italics">Discourse 14.</fw>
+                        <pb n="49"/><fw rend="italic">Discourse 14.</fw>
                         <lb/>In <choice><orig>Affrica</orig><reg>Africa</reg></choice> they say are flying Serpents, which would waste and depopu
                         <lb break="no"/>late all things, if they were not <choice><orig>destroyd</orig><reg>destroyed</reg></choice> by the bird calld Ibis: For which
                         <lb/>cause Ibis is erected amongst the sacred <choice><orig>Ægyptian</orig><reg>Egyptian</reg></choice> images, both for the mani

@@ -26,16 +26,16 @@
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="115"/>
                     <head>
-                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 26. Of the Secrets of Nature.</seg>
+                        <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 26. Of the Secrets of Nature.</seg>
                         </head>
                         <head>
-                        <lb/><seg rend="italics">The tree of life is the fruit of <choice><orig>humane</orig><reg>human</reg></choice> <choice><orig>wisedome</orig><reg>wisdom</reg></choice>.</seg>
+                        <lb/><seg rend="italic">The tree of life is the fruit of <choice><orig>humane</orig><reg>human</reg></choice> <choice><orig>wisedome</orig><reg>wisdom</reg></choice>.</seg>
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 26.</head>
+                    <head rend="italic"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 26.</head>
                     <lg>
                         <l>To greater <choice><orig>wisedome</orig><reg>wisdom</reg></choice> man cannot <choice><orig>attaine</orig><reg>attain</reg></choice>,</l>
                         <l>Than health with wealth to acquire, if not in <choice><orig>vaine</orig><reg>vain</reg></choice>:</l>
@@ -50,7 +50,7 @@
                 <pb n="84"/> 
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="114"/>
-                    <head rend="italics">Discourse 26.</head>
+                    <head rend="italic">Discourse 26.</head>
                     <div type="discourse-p1"><ab> 
                         <lb/><milestone unit="section" n="e26-01" />Tully <choice><orig>hath</orig><reg>has</reg></choice> excellently described the <choice><orig>essentiall</orig><reg>essential</reg></choice> difference of man, whereby <choice><orig>hee</orig><reg>he</reg></choice> 
                         <lb/>differs from all other <choice><orig>animalls</orig><reg>animals</reg></choice>, after this manner: As a bird is intended by nature
@@ -98,7 +98,7 @@
                         
                         
                         
-                        <pb n="85"/><fw rend="italics">Discourse 26.</fw>
+                        <pb n="85"/><fw rend="italic">Discourse 26.</fw>
                         <lb/>is secret advice in the knowledge of God: <choice><orig>wisedome</orig><reg>wisdom</reg></choice> <choice><orig>conferrs</orig><reg>confers</reg></choice> all things, and infinite<note place="margin">Wis:. 7.11.</note>
                         <lb/>riches are <choice><orig>produc'd</orig><reg>produced</reg></choice> from the <choice><orig>labour</orig><reg>labor</reg></choice> of the hands: yea all good things proceed from
                         <lb/>her, and great riches and wealth are in her hands, and <choice><orig>hee</orig><reg>he</reg></choice> that <choice><orig>converseth</orig><reg>converses</reg></choice> with<note place="margin">Sir.1.v.25.</note>

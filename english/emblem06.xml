@@ -26,17 +26,17 @@
             <div type="title" xml:lang="en">
                <milestone unit="page" ed="Meier" n="033"/>
                <head>
-                 <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 6. Of the Secrets of Nature.</seg>
+                 <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 6. Of the Secrets of Nature.</seg>
                  </head>
                  <head>
-                 <lb/><seg rend="italics"><choice><orig>Sowe</orig><reg>Sow</reg></choice> your gold in the white foliated earth.</seg>
+                 <lb/><seg rend="italic"><choice><orig>Sowe</orig><reg>Sow</reg></choice> your gold in the white foliated earth.</seg>
                   
                </head>
             </div>
             
             
             <div type="epigram" xml:lang="en">
-               <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 6.</head>
+               <head rend="italic"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 6.</head>
                <lg>
                   <l><choice><orig>Rusticks</orig><reg>Rustics</reg></choice> their seed to <choice><orig>th'</orig><reg>the</reg></choice> fertile earth <choice><orig>committ</orig><reg>commit</reg></choice>,</l>
                   <l>When with their harrows they have made it <choice><orig>fitt</orig><reg>fit</reg></choice>:</l>
@@ -51,7 +51,7 @@
             <pb n="24"/>
             <div type="discourse" xml:lang="en">
                <milestone unit="page" ed="Meier" n="034"/>
-               <head rend="italics">Discourse 6.</head>
+               <head rend="italic">Discourse 6.</head>
                <div type="discourse-p1"><ab> 
                   <lb/><milestone unit="section" n="e06-01" />A City <choice><orig>sayth</orig><reg>says</reg></choice> Plato subsists not by <choice><orig>Physitian</orig><reg>Physician</reg></choice> and <choice><orig>Physitian</orig><reg>Physician</reg></choice>, but by <choice><orig>Physitian</orig><reg>Physician</reg></choice> and
                   <lb/>husbandman, that is, men of <choice><orig>divers</orig><reg>diverse</reg></choice> functions, but <choice><orig>hee</orig><reg>he</reg></choice> mentions the Husbandman
@@ -101,7 +101,7 @@
                   <lb/>agriculture in the producing of <choice><orig>corne</orig><reg>corn</reg></choice> to the semination of gold, or generation of
                   
        
-                  <pb n="25"/><fw rend="italics">Discourse 6.</fw>
+                  <pb n="25"/><fw rend="italic">Discourse 6.</fw>
                   <lb/>the tincture: <milestone unit="section" n="e06-15" />White earth, because sandy, <choice><orig>yeilds</orig><reg>yields</reg></choice> little fruit to the countrymen, by
                   <lb/><choice><orig>whome</orig><reg>whom</reg></choice> that which is <choice><orig>blacke</orig><reg>black</reg></choice> and <choice><orig>fatt</orig><reg>fat</reg></choice> is more desired, <milestone unit="section" n="e06-16" />but the white principally
                   <lb/><choice><orig>conduceth</orig><reg>conduces</reg></choice> to the Philosophers, if it be foliated, that is well <choice><orig>præpared</orig><reg>prepared</reg></choice>, because <pc>-</pc>

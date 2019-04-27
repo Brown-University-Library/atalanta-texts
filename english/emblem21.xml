@@ -26,17 +26,17 @@
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="093"/>
                     <head>
-                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 21. Of the Secrets of Nature.</seg>
+                        <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 21. Of the Secrets of Nature.</seg>
                         </head>
                         <head>
-                        <lb/><seg rend="italics">Make <del>o</del>f<add>or</add> the man and the woman a circle, of that a quadrangle, of this
+                        <lb/><seg rend="italic">Make <del>o</del>f<add>or</add> the man and the woman a circle, of that a quadrangle, of this
                         <lb/>a triangle, of the same a circle, and you will have the Philosoph. Stone.</seg>
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 21.</head>
+                    <head rend="italic"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 21.</head>
                     <lg>
                         <l>A circle for the man and wife provide,</l>
                         <l>Which make quadrangular with <choice><orig>æquall</orig><reg>equal</reg></choice> side,</l>
@@ -51,7 +51,7 @@
                 <pb n="69"/> 
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="094"/>
-                    <head rend="italics">Discourse 21.</head>
+                    <head rend="italic">Discourse 21.</head>
                     <div type="discourse-p1"><ab> 
                         <lb/>It is the doctrine of that <seg rend="underline" hand="2">most famous Philosopher Plato th</seg>at knowledge is as 
                         <lb/>it were actually engraven and imprinted in the mind of man, which is as the
@@ -99,7 +99,7 @@
                         
                         
                         
-                        <pb n="70"/><fw rend="italics">Discourse 21.</fw>
+                        <pb n="70"/><fw rend="italic">Discourse 21.</fw>
                         <lb/><choice><orig>borne</orig><reg>born</reg></choice>. If Geometry be <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>naturall</orig><reg>natural</reg></choice> and easy to children, how comes it to <choice><orig>passe</orig><reg>pass</reg></choice>
                         <lb/>that the Square of a circle was not <choice><orig>knowne</orig><reg>known</reg></choice> to Plato <choice><orig>himselfe</orig><reg>himself</reg></choice>, <choice><orig>Soe</orig><reg>So</reg></choice> that Aris
                         <lb break="no"/>totle the <choice><orig>Schollar</orig><reg>Scholar</reg></choice> of Plato affirmed it possible to be <choice><orig>knowne</orig><reg>known</reg></choice>, but not as yet <pc>-</pc>

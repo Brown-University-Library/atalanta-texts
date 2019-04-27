@@ -25,15 +25,15 @@
             <div type="title" xml:lang="en">
                <milestone unit="page" ed="Meier" n="021"/>
                <head>
-                  <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 3. Of the Secrets of Nature.</seg>
+                  <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 3. Of the Secrets of Nature.</seg>
                </head>
                <head>
-                  <lb/><seg rend="italics"><choice><orig>Goe</orig><reg>Go</reg></choice> to the woman washing <choice><orig>cloaths</orig><reg>clothes</reg></choice>, and <choice><orig>doe</orig><reg>do</reg></choice> you after the same manner.</seg>
+                  <lb/><seg rend="italic"><choice><orig>Goe</orig><reg>Go</reg></choice> to the woman washing <choice><orig>cloaths</orig><reg>clothes</reg></choice>, and <choice><orig>doe</orig><reg>do</reg></choice> you after the same manner.</seg>
                </head>
             </div>
             
             <div type="epigram" xml:lang="en">
-               <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 3.</head>
+               <head rend="italic"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 3.</head>
                <lg>
                   <l>If you delight to dive in things abstruse,</l>
                   <l>Be vigilant, observe what may conduce:</l>
@@ -47,7 +47,7 @@
             <pb n="15"/>
             <div type="discourse" xml:lang="en">
                <milestone unit="page" ed="Meier" n="022"/>
-               <head rend="italics">Discourse 3.</head>
+               <head rend="italic">Discourse 3.</head>
                <div type="discourse-p1"><ab> 
                   <lb/><milestone unit="section" n="e03-01" />If <subst><del>some <choice><orig>certaine</orig><reg>certain</reg></choice></del><add>any</add></subst> <choice><orig>impurityes</orig><reg>impurities</reg></choice> happen to <choice><orig>linnen</orig><reg>linen</reg></choice> <choice><orig>cloaths</orig><reg>clothes</reg></choice>, whereby they are spot
                   <lb break="no" />ted and <choice><orig>blacke</orig><reg>black</reg></choice>, as with earthy recrements, they are <choice><orig>washd</orig><reg>washed</reg></choice> away by the next <pc>-</pc>
@@ -94,7 +94,7 @@
                   <lb/>vainly <choice><orig>talke</orig><reg>talk</reg></choice> of the <choice><orig>haires</orig><reg>hairs</reg></choice> of the reptile Salamander, as if incombustible
                
                   
-                  <pb n="16"/><fw rend="italics">Discourse 3.</fw>
+                  <pb n="16"/><fw rend="italic">Discourse 3.</fw>
                   <lb/>Elychnia <add>or <choice><orig>lamp wiecks</orig><reg>lamp wicks</reg></choice></add> may be made thereof, is not to be regarded: Some there be who of a
                   <lb/>truth <choice><orig>affirme</orig><reg>affirm</reg></choice> that in times past a texture was <choice><orig>præpared</orig><reg>prepared</reg></choice> <milestone unit="section" n="e03-16" />of <choice><orig>Talke</orig><reg>Talc</reg></choice>, plumous Alum,
                   <lb/>and such other matters, which was frequently purged by fire, but that the art <pc>-</pc>
@@ -109,7 +109,7 @@
                   <lb/>not obvious to all men: <milestone unit="section" n="e03-19" /><seg rend="underline" hand="2">To wash them, they make a Lixivium, or Lye, not <pc>-</pc>
                   <lb/>with the ashes, or Salt of Oaks,</seg> bu<seg rend="underline" hand="2">t <choice><orig>metallicke</orig><reg>metallic</reg></choice>, which is more durable than <pc>-</pc>
                   <lb/>the other, nor with <choice><orig>coḿon</orig><reg>common</reg></choice> water,</seg> <seg rend="underline" hand="2">but that, which <choice><orig>hath</orig><reg>has</reg></choice> been <choice><orig>congeled</orig><reg>congealed</reg></choice> into <pc>-</pc>
-                  <lb/>Ice and Snow under the <choice><orig>signe</orig><reg>sign</reg></choice> <choice><orig>Aquary</orig><reg>Aquarius</reg></choice>, as that which is of thinner parts, than <pc>-</pc>
+                  <lb/><note place="margin"><unclear reason="illegible">illeg.</unclear></note>Ice and Snow under the <choice><orig>signe</orig><reg>sign</reg></choice> <choice><orig>Aquary</orig><reg>Aquarius</reg></choice>, as that which is of thinner parts, than <pc>-</pc>
                   <lb/>standing waters of ditches or Marshes, and therefore can better penetrate into
                   <lb/>the more <choice><orig>internall</orig><reg>internal</reg></choice> parts of the <choice><orig>blacke</orig><reg>black</reg></choice> and unclean <choice><orig>Philosophicall</orig><reg>Philsophical</reg></choice> body, in <pc>-</pc>
                   <lb/>order to the washing and purging thereof</seg><pc>. . . . . . .</pc>

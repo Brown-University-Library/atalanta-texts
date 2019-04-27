@@ -26,16 +26,16 @@
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="181"/>
                     <head>
-                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 43. Of the Secrets of Nature.</seg>
+                        <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 43. Of the Secrets of Nature.</seg>
                         </head>
                         <head>
-                        <lb/><seg rend="italics">Give ear to the <choice><orig>Vultur's</orig><reg>Vulture's</reg></choice> words, which are <choice><orig>noewise</orig><reg>nowise</reg></choice> false.</seg>
+                        <lb/><seg rend="italic">Give ear to the <choice><orig>Vultur's</orig><reg>Vulture's</reg></choice> words, which are <choice><orig>noewise</orig><reg>nowise</reg></choice> false.</seg>
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 43.</head>
+                    <head rend="italic"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 43.</head>
                     <lg>
                         <l>The <choice><orig>Vultur</orig><reg>Vulture</reg></choice> on the <choice><orig>mountaine</orig><reg>mountain</reg></choice> stands in sight,</l>
                         <l><choice><orig>Himselfe</orig><reg>Himself</reg></choice> proclaiming daily, <choice><orig>blacke</orig><reg>black</reg></choice>, and white,</l>
@@ -50,7 +50,7 @@
                 <pb n="135"/> 
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="182"/>
-                    <head rend="italics">Discourse 43.</head>
+                    <head rend="italic">Discourse 43.</head>
                     <div type="discourse-p1"><ab> 
                         <lb/><choice><orig>Wee</orig><reg>We</reg></choice> daily in many places hear birds prattling or imitating the <choice><orig>voyce</orig><reg>voice</reg></choice> 
                         <lb/>of man, such as <choice><orig>Parrotts</orig><reg>Parrots</reg></choice>, Ravens, Dawes, and <choice><orig>Pyes</orig><reg>Pies</reg></choice>. <choice><orig>Soe</orig><reg>So</reg></choice> Pliny writes <pc>-</pc>
@@ -96,7 +96,7 @@
                         
                         
                         
-                        <pb n="136"/><fw rend="italics">Discourse 43.</fw>
+                        <pb n="136"/><fw rend="italic">Discourse 43.</fw>
                         <lb/>perplexed with the East wind. When they begin to lay eggs, they <pc>-</pc>
                         <lb/>bring a thing out of the <choice><orig>Indyes</orig><reg>Indies</reg></choice>, which is as a <choice><orig>nutt</orig><reg>nut</reg></choice>, having within a <pc>-</pc>
                         <lb/>thing that may be moved, and forthwith <choice><orig>yeilds</orig><reg>yields</reg></choice> a sound, which when

@@ -26,17 +26,17 @@
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="185"/>
                     <head>
-                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 44. Of the Secrets of Nature.</seg>
+                        <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 44. Of the Secrets of Nature.</seg>
                         </head>
                         <head>
-                        <lb/><seg rend="italics">Typhon kills <choice><orig>Osyris</orig><reg>Osiris</reg></choice> by <choice><orig>deceipt</orig><reg>deceit</reg></choice>, and <choice><orig>disperseth</orig><reg>disperses</reg></choice> the parts of his body on
+                        <lb/><seg rend="italic">Typhon kills <choice><orig>Osyris</orig><reg>Osiris</reg></choice> by <choice><orig>deceipt</orig><reg>deceit</reg></choice>, and <choice><orig>disperseth</orig><reg>disperses</reg></choice> the parts of his body on
                         <lb/>all sides, but the famous Isis gathered them together.</seg>
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 44.</head>
+                    <head rend="italic"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 44.</head>
                     <lg>
                         <l>Adonis Syria, Greece <choice><orig>hath</orig><reg>has</reg></choice> <choice><orig>Dionyse</orig><reg>Dionysus</reg></choice>,</l>
                         <l><choice><orig>Ægypt</orig><reg>Egypt</reg></choice>, <choice><orig>Osyris</orig><reg>Osiris</reg></choice>, all the <choice><orig>Sunne</orig><reg>Sun</reg></choice> <choice><orig>o'th</orig><reg>of the</reg></choice> wise:</l>
@@ -51,7 +51,7 @@
                 <pb n="138"/> 
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="186"/>
-                    <head rend="italics">Discourse 44.</head>
+                    <head rend="italic">Discourse 44.</head>
                     <div type="discourse-p1"><ab> 
                         <lb/>The allegory of <choice><orig>Osyris</orig><reg>Osiris</reg></choice> <choice><orig>wee</orig><reg>we</reg></choice> have <choice><orig>elswhere</orig><reg>elsewhere</reg></choice> (namely in the first 
                         <lb/><choice><orig>booke</orig><reg>book</reg></choice> of <choice><orig>Hieroglyphicks</orig><reg>Hieroglyphics</reg></choice>) reduced to its true <choice><orig>originall</orig><reg>original</reg></choice>, which is
@@ -98,7 +98,7 @@
                         
                         
                         
-                        <pb n="139"/><fw rend="italics">Discourse 44.</fw>
+                        <pb n="139"/><fw rend="italic">Discourse 44.</fw>
                         <lb break="no"/>dicine: Dionysus <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>calld</orig><reg>called</reg></choice> by the Greeks, is Bacchus with the Romans, <pc>-</pc>
                         <lb/>with the <choice><orig>Ægyptians</orig><reg>Egyptians</reg></choice> <choice><orig>Osyris</orig><reg>Osiris</reg></choice>, with the Syrians Adonis. <choice><orig>Œdipus</orig><reg>Oedipus</reg></choice> <choice><orig>killd</orig><reg>killed</reg></choice> his father
                         <lb/>and <choice><orig>marryd</orig><reg>married</reg></choice> his mother; Perseus slew his <choice><orig>Grand<pc rend="double-hyphen">-</pc>father</orig><reg>Grandfather</reg></choice>, Typhon his bro

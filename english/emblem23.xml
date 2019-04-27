@@ -26,17 +26,17 @@
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="101"/>
                     <head>
-                        <lb/><seg rend="italics"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 23. Of the Secrets of Nature.</seg>
+                        <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 23. Of the Secrets of Nature.</seg>
                         </head>
                         <head>
-                        <lb/><seg rend="italics">When Pallas was <choice><orig>borne</orig><reg>born</reg></choice>, and Sol lay with Venus, it rained gold
+                        <lb/><seg rend="italic">When Pallas was <choice><orig>borne</orig><reg>born</reg></choice>, and Sol lay with Venus, it rained gold
                         <lb/>at Rhodes.</seg>
                     </head>
                 </div>
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head rend="italics"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 23.</head>
+                    <head rend="italic"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> 23.</head>
                     <lg>
                         <l>This prodigy seems more than strange to us,</l>
                         <l>Yet <choice><orig>Græce</orig><reg>Greece</reg></choice> for truth <choice><orig>hath</orig><reg>has</reg></choice> it affirmed thus:</l>
@@ -45,13 +45,14 @@
                         <l>When Sol to Venus <choice><orig>payd</orig><reg>paid</reg></choice> the dues of love,</l>
                         <l>And Pallas Sprung out of the <choice><orig>braine</orig><reg>brain</reg></choice> of Jove.</l>
                     </lg>
+                    <note place="bottom" hand="3"  anchored="false"><choice><orig>yeilding</orig><reg>yielding</reg></choice> air</note>
                 </div>
-                <note place="bottom" hand="3"  anchored="false"><choice><orig>yeilding</orig><reg>yielding</reg></choice> air</note>
+               
                 
                 <pb n="75"/> 
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="102"/>
-                    <head rend="italics">Discourse 23.</head>
+                    <head rend="italic">Discourse 23.</head>
                     <div type="discourse-p1"><ab> 
                         <lb/>It would be <choice><orig>madnesse</orig><reg>madness</reg></choice> to <choice><orig>affirme</orig><reg>affirm</reg></choice> that gold ever rained upon the earth, except 
                         <lb/>it was allegorically understood: for there are <choice><orig>noe</orig><reg>no</reg></choice> golden rivers, or <choice><orig>Mynes</orig><reg>Mines</reg></choice> of <pc>-</pc>
@@ -95,7 +96,7 @@
                         <lb break="no"/>pen: for <choice><orig>hee</orig><reg>he</reg></choice> in all his actions will be miraculous, and excite a <pc>-</pc>
                         <lb/>golden <choice><orig>rayne</orig><reg>rain</reg></choice>: This is the brother of Augius the <choice><orig>Sonne</orig><reg>Son</reg></choice> of Sol, <pc>-</pc>
                         
-                        <pb n="76"/><fw rend="italics">Discourse 23.</fw>
+                        <pb n="76"/><fw rend="italic">Discourse 23.</fw>
                         <lb/>who had Oxen for a patrimony, the dung whereof Hercules purged away
                         <lb/>in one day: <choice><orig>Hee</orig><reg>He</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> is the brother of Æeta, who possessed the golden
                         <lb/>fleece obtained by Jason. Of Pallas <choice><orig>proceding</orig><reg>proceeding</reg></choice> from the <choice><orig>braine</orig><reg>brain</reg></choice> of Jupiter,
