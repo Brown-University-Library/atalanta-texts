@@ -6,15 +6,48 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Title</title>
-            </titleStmt>
+                <title>Atalanta Running (English Translation): Digital transcription</title>
+                <principal><persName>Tara Nummedal</persName></principal>
+                <principal><persName>Donna Bilak</persName></principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <persName>George Elliot</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoding design and oversight</resp>
+                    <persName>Elli Mylonas</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>proofreading and editorial oversight</resp>
+                    <persName>Donna Bilak</persName>
+                </respStmt>
+               </titleStmt>
             <publicationStmt>
-                <p>Publication Information</p>
+                <p>rights info</p>
             </publicationStmt>
             <sourceDesc>
-                <p>Information about the source</p>
+                <biblStruct type="book" xml:id="Maier1618">
+                    <monogr>
+                        <title level="m">Atalanta running, that is, new chymicall emblems relating to the
+                            secrets of nature.</title>
+                        <author><forename>Michael</forename><surname>Maier</surname></author>
+                        <imprint>
+                            <date>1618</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
             </sourceDesc>
         </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <ab>
+                    information about what we have encoded and how, here.
+                </ab> 
+               <hyphenation >
+                    <ab></ab>
+                </hyphenation>
+            </editorialDecl>
+        </encodingDesc>
     </teiHeader>
     
     <text>

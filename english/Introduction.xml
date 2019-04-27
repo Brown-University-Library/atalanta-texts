@@ -44,13 +44,13 @@
                         <subst>
                             <del>
                                 <lb/>melody <hi rend="superscript">1</hi>appropriated <hi rend="superscript">5</hi>with <hi rend="superscript">6</hi>distichs <hi rend="superscript">2</hi>to <hi rend="superscript">3</hi>be <hi rend="superscript">4</hi>sung: <hi rend="superscript">11</hi>to <hi rend="superscript">12</hi>be <pc>-</pc>
-                                <lb/><hi rend="superscript">13</hi>seen, <hi rend="superscript">14</hi>read, <hi rend="superscript">15</hi>meditated, <hi rend="superscript">16</hi>understood, <subst><del>judged</del><hi rend="superscript">17</hi><add>distinguished</add></subst>, <hi rend="superscript">18</hi>sung,
+                                <lb/><hi rend="superscript">13</hi>seen, <hi rend="superscript">14</hi>read, <hi rend="superscript">15</hi>meditated, <hi rend="superscript">16</hi>understood, <subst><del>judged</del><add><hi rend="superscript">17</hi>Tdistinguished</add></subst>, <hi rend="superscript">18</hi>sung,
                                 <lb/><hi rend="superscript">19</hi>and <hi rend="superscript">20</hi> heard <hi rend="superscript">7</hi>not <hi rend="superscript">8</hi>without <hi rend="superscript">9</hi>Singular <hi rend="superscript">10</hi>delectation.
                                 <lb/><pc>. . . . . . . .</pc>
                             </del>
                             <add rend="on-glued-flap">
                                 <lb/>melody <choice><orig>Apropriated</orig><reg>Appropriated</reg></choice> to be Sung with distichs, not without 
-                                <lb/>Singlular delectation, to be seen, read, meditated,
+                                <lb/>Singular delectation, to be seen, read, meditated,
                                 <lb/>Understood, distinguished, Sung and Heard;
                             </add>
                         </subst>
@@ -58,7 +58,7 @@
                     </ab>
 
                     <ab rend="centr">
-                        <lb/><seg rend="italics">Michael Maierus Count of the Imperiall Con
+                        <lb/><seg rend="italics">Michael <choice><orig>Majerus</orig><reg>Maierus</reg></choice> Count of the Imperiall Con
                         <lb break="no"/>sistory. Doctor of <choice><orig>Physicke</orig><reg>Physic</reg></choice>. Knight of etc.
                         <lb/><pc>. . . . .</pc></seg>
                     </ab>
@@ -113,7 +113,7 @@
                 <pb n="03"/> <milestone unit="page" ed="Meier" n="003"/>
                     <div type="dedication">
                         <ab rend="center italics">
-                        <lb/>Michael Maierus Doctor of <choice><orig>Physicke</orig><reg>Physic</reg></choice>, <choice><orig>Præsident</orig><reg>President</reg></choice> of
+                            <lb/>Michael <choice><orig>Majerus</orig><reg>Maierus</reg></choice> Doctor of <choice><orig>Physicke</orig><reg>Physic</reg></choice>, <choice><orig>Præsident</orig><reg>President</reg></choice> of
                         <lb/>the <choice><orig>Imperiall</orig><reg>Imperial</reg></choice> Consistory, Knight etc. most humbly
                         <lb/>offers, presents, and dedicates this testimony (such
                         <lb/>as it is) of his good will and gratitude to the most
@@ -192,7 +192,7 @@
                         <lb/>divine nature, the more <choice><orig>doth</orig><reg>does</reg></choice> <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>rejoyce</orig><reg>rejoice</reg></choice> and is delighted in searching out <pc>-</pc>
                         <lb/>things <choice><orig>subtill</orig><reg>subtle</reg></choice> <choice><orig>wonderfull</orig><reg>wonderful</reg></choice> and rare, by the understanding: and on the contrary,
                         <lb/>the more a man declines and degenerates to a <choice><orig>bestiall</orig><reg>bestial</reg></choice> kind, the <choice><orig>lesse</orig><reg>less</reg></choice> is <choice><orig>hee</orig><reg>he</reg></choice> <pc>-</pc>
-                        <lb/>affected with them, and is bound to a more <choice><orig>corporeall</orig><reg>corporeal</reg></choice> sense.<note place="margin" n="X">
+                        <lb/>affected with them, and is bound to a more <choice><orig>corporeall</orig><reg>corporeal</reg></choice> sense.<note place="margin" n="X" rend="bracket-left">
                         <lb/>X <choice><orig>Wee</orig><reg>We</reg></choice> see examples of either, that some, namely the more learned
                         <lb/>are adorned with those arts &amp; sciences, but very many addicted to these,
                         <lb/>that is to say the pleasures of the body, lust, gluttony, <choice><orig>externall</orig><reg>external</reg></choice> <choice><orig>pompe</orig><reg>pomp</reg></choice>,

@@ -134,8 +134,8 @@
                         <lb n="19" break="no"/>pens seipsum luxurians, seipsum impr<hi rend="ligature">ae</hi>gnans <g type="ampersand">et</g> in die una parturiens, <expan><abbr><g type="ampersand">et</g>c</abbr><ex>aetera</ex></expan></quote>.
                      <lb n="20"/><milestone unit="section" n="e43-22"/>Diutissim<hi rend="grave">e</hi> vivit <g type="ampersand">et</g> superest, se<hi rend="acute">q</hi>ue multiplicat. Quod enim <persName ref="https://viaf.org/viaf/8194433">Virgilius</persName>
                      <lb n="21"/>de Ph<hi rend="ligature">oe</hi>nice ave scribit, huic <hi rend="ligature">ae</hi>qu<hi rend="grave">e</hi> (quia eadem est) convenit:
-                     <lb n="22"/><quote rend="italic"><!-- this is AL 647.5-6, which is attributed erroneously to Ausonius, not Vergil-->Alipedem cervum corvus ter vincit, at illum
-                        <lb n="23"/>Multiplicat novies Ph<hi rend="ligature">oe</hi>nix reparabilis ales:</quote>
+                     <lb n="22"/><quote rend="italic"><!-- this is AL 647.5-6, which is attributed erroneously to Ausonius, not Vergil--><lg><l>Alipedem cervum corvus ter vincit, at illum</l>
+                        <lb n="23"/><l>Multiplicat novies Ph<hi rend="ligature">oe</hi>nix reparabilis ales:</l></lg></quote>
                      <lb n="24" xml:id="l24"/><seg rend="smaller"><milestone unit="section" n="e43-23"/>Hujus nidos attingere vald<hi rend="grave">e</hi> difficil<hi rend="grave">e</hi> est: Cum serpente Mercuriali pugnat,
                      <lb n="25" xml:id="l25"/><expan><abbr>e<hi rend="acute">u</hi>mq<am>;</am></abbr><ex>ue</ex></expan> vincit, hoc est, Sol cum luna. <milestone unit="section" n="e43-24"/>Ex vento concipitur, <g type="ampersand">et</g> in ventre ejus por
                      <lb n="26" xml:id="l26" break="no"/>tatur, <g type="ampersand">et</g> in aëre nascitur. <hi rend="ligature">Ae</hi>tites lapis lapillum <expan><abbr>hab<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>s</abbr></expan> intra se sonantem, <hi rend="grave">a</hi> multis

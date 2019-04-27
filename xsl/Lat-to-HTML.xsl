@@ -30,7 +30,7 @@
     <xsl:template match="/">
         
         <html>
-            <head>s
+            <head>
                 <title>Atalanta Fugiens (Maier Edition. transcription) Facsimile Copy. Emblem <xsl:value-of select="substring(af:div[@type='emblem/@n'],2)"/></title>
                 <link rel="stylesheet" type="text/css" href="atalantaProof-Lat.css"  />
             </head>
@@ -60,14 +60,22 @@
     </xsl:template>
 
     <xsl:template match="af:div[@type='fugue' or @type='epigram' or @type='discourse' or @type='image'or @type='preface']">
-        <div class="{@type} {@xml:lang}">
+        <div class="{@type} {@xml:lang}" lang="{@xml:lang}">
+            <xsl:choose>
+                <xsl:when test="@type='fugue' or @type='image'">
+                    <span class="pb atalanta-fugiens"><xsl:value-of select="preceding::af:pb[1]/@n"/></span>
+                </xsl:when>
+            </xsl:choose>
             <xsl:apply-templates/>
         </div>
     </xsl:template>
     
     <xsl:template match="af:div[@type='discourse-p1' or @type='discourse-p2']">
-        <h3 class="title"><xsl:value-of select="preceding::af:fw[@type='header'][1]"/></h3>
         <div class="{@type}">
+            <span class="pb atalanta-fugiens"><xsl:value-of select="preceding::af:pb[1]/@n"/></span>
+            <xsl:choose>
+                <xsl:when test="@type='discourse-p1'"><h3 class="title"><xsl:apply-templates select="preceding::af:fw[@type='header'][1]" mode="titles"/></h3></xsl:when>
+            </xsl:choose>
             <xsl:apply-templates/>
         </div>
         <xsl:choose>
@@ -88,6 +96,10 @@
         </xsl:choose>
     </xsl:template>
     
+    <xsl:template match="af:fw" mode="titles">
+        <xsl:apply-templates/>
+    </xsl:template>
+    
     <xsl:template match="af:fw"/>
     <!-- formwork contents are handled by the divs that follow them -->
        
@@ -99,13 +111,13 @@
     <xsl:template match="af:head">
         <xsl:choose>
             <xsl:when test="parent::af:div[@type='epigram']">
-                <h3 class="title">
+                <h3 class="title" lang="la">
                     <xsl:apply-templates/>
                 </h3>
             </xsl:when>
             <xsl:when test="parent::af:div[@type='fugue'] or parent::af:div[@type='image']">
-                <h3 class="title"><xsl:value-of select="preceding::af:fw[@type='header'][1]"/></h3>
-                <h1 class="title">
+                <h3 class="title" lang="la"><xsl:apply-templates select="preceding::af:fw[@type='header'][1]" mode="titles"/></h3>
+                <h1 class="title" lang="{parent::af:div/@xml:lang}">
                     <xsl:apply-templates/>
                 </h1>
             </xsl:when>
@@ -119,31 +131,43 @@
         <xsl:apply-templates/>
     </xsl:template>
     
+    <xsl:template match="af:ab[parent::af:div[@type='discourse-p1'] or parent::af:div[@type='discourse-p2']]">
+        <div class="ab"><xsl:apply-templates/></div>
+    </xsl:template>
+    
     <xsl:template match="af:seg[@rend='smaller']">
         <span class="smaller"><xsl:apply-templates/></span>
     </xsl:template>
     
     <!--    Milestones and reference markers -->     
-    <xsl:template match="af:milestone">
+    <!--<xsl:template match="af:milestone">
         <span class="milestone atalanta-fugiens"><xsl:value-of select="@n"/></span>
-    </xsl:template>
+    </xsl:template>-->
     
-    <xsl:template match="af:pb">
+   <!-- <xsl:template match="af:pb">
         <span class="pb atalanta-fugiens"><xsl:value-of select="@n"/></span>
-    </xsl:template>
+    </xsl:template>-->
     
-    <xsl:template match="af:lb" mode="#all">
+    <!--xsl:template match="af:lb" mode="#all">
         <xsl:choose>
             <xsl:when test="@break='no'"><xsl:text>-</xsl:text><br /></xsl:when>
             <xsl:otherwise><br/></xsl:otherwise>
         </xsl:choose>
+    </xsl:template -->
+    
+    <xsl:template match="af:lb" mode="#all">
+        <br/>
     </xsl:template>
-   
-    <xsl:template match="text()[following-sibling::node()[1][self::af:lb[@break eq 'no']]]" mode="#all">
+    
+    <xsl:template match="text()[parent::af:ab][preceding-sibling::af:lb[1]][following::af:lb[1][@break eq 'no']]" mode="#all">
+        <xsl:value-of select="replace(., '&#x0D;?&#x0a;', '-')"/>
+    </xsl:template>
+    
+   <!-- <xsl:template match="text()[following-sibling::node()[1][self::af:lb[@break eq 'no']]]" mode="#all">
         <xsl:value-of select="substring( normalize-space( concat('␠',.)), 2 )"/>
     </xsl:template>
     
-    <!-- <xsl:template match="text()[following-sibling::node()[1][self::af:lb[@break eq 'no']]]">
+    <xsl:template match="text()[following-sibling::node()[1][self::af:lb[@break eq 'no']]]">
          <xsl:value-of select="substring-before(.,' ')"/>
     </xsl:template>-->
     
@@ -158,14 +182,24 @@
                 </div>
             </xsl:when>
             <xsl:when test="parent::af:div[@type='epigram']">
-                <div class="verse-epigram">
+                <div class="verse-epigram" lang="{parent::af:div[@type='epigram']/@xml:lang}">
                     <xsl:apply-templates/>
                 </div>
             </xsl:when>
             <xsl:otherwise>
-                <div class="verse-discourse">
-                    <xsl:apply-templates/>
-                </div>
+                <xsl:choose>
+                    <xsl:when test="@rend='no-space'">
+                        <div class="verse-discourse no-space">
+                            <xsl:apply-templates/>
+                        </div>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <div class="verse-discourse">
+                            <xsl:apply-templates/>
+                        </div>
+                    </xsl:otherwise>
+                </xsl:choose>
+                
             </xsl:otherwise>
         </xsl:choose>
     </xsl:template>
@@ -183,7 +217,7 @@
                 </xsl:choose>
             </xsl:when>
             <xsl:when test="ancestor::af:div[@type='discourse-p1'] or ancestor::af:div[@type='discourse-p2']">
-                <span class="v-line-discoursel"><xsl:apply-templates/></span>
+                <span class="v-line-discourse"><xsl:apply-templates/></span>
             </xsl:when>
         </xsl:choose>
         
@@ -233,7 +267,7 @@
     
     <xsl:template match="af:pc">
        <xsl:choose>
-           <xsl:when test=".[parent::af:hi][1]"/>
+           <xsl:when test=".[parent::af:hi][1]"/> <!-- hide marks for german verse wraps -->
            <xsl:otherwise>
                <xsl:apply-templates/>
            </xsl:otherwise>
@@ -241,10 +275,10 @@
     </xsl:template>
     
     <xsl:template match="af:g">
-        <span class="original">&amp;</span><!--<span class="regularized">et</span>-->
+        <span class="original">&amp;</span><span class="regularized">et</span>
     </xsl:template>
     
-    <!-- xiations -->
+    <!-- abbreviations -->
     
     <xsl:template match="af:expan">
         <xsl:apply-templates mode="abbrev"/><span class="regularized"><xsl:apply-templates mode="expand"/></span>
@@ -270,6 +304,10 @@
     <xsl:template match="af:am" >
         <xsl:apply-templates/>
     </xsl:template>
+    
+    <xsl:template match="af:g" mode="abbrev">
+        <xsl:text>&amp;</xsl:text>
+    </xsl:template>
     <!-- end abbreviations -->
     
     
@@ -278,18 +316,37 @@
             <xsl:when test="@rend='italic' or @rend='smallCaps'" >
                 <span class="{@rend}"><xsl:apply-templates/></span>
             </xsl:when>
+            <xsl:when test="@rend='italic indent'" >
+                <span class="{@rend}"><xsl:apply-templates/></span>
+            </xsl:when>
             <!-- deal with indent -->
             <xsl:otherwise><xsl:apply-templates/></xsl:otherwise>
         </xsl:choose>
         
     </xsl:template>
      
-    <xsl:template match="af:hi[@rend='italic'] | af:hi[@rend='gothic'] | af:hi[@rend='latin'] | af:hi[@rend='smallCaps'] | af:hi[@rend='raised']">
+    <xsl:template match="af:hi[@rend='italic'] | af:hi[@rend='gothic'] | af:hi[@rend='latin'] | af:hi[@rend='smallCaps']">
         <span class="{@rend}"><xsl:apply-templates/></span>
+    </xsl:template>
+    
+    <xsl:template match="af:hi[@rend='raised']">
+        <span class="original"><span class="{@rend}"><xsl:apply-templates/></span></span><span class="regularized"><xsl:apply-templates/></span>
     </xsl:template>
     
     <xsl:template match="af:hi[@rend='smallCaps latin']">
         <span class="smallCaps-latin"><xsl:apply-templates/></span>
+    </xsl:template>
+    
+    <xsl:template match="af:foreign">
+        <xsl:choose>
+            <xsl:when test="@rend='la'">
+                <span class="latin"><xsl:apply-templates/></span>
+            </xsl:when>
+            <xsl:when test="@rend='de'">
+                <span class="gothic"><xsl:apply-templates/></span>
+            </xsl:when>
+        </xsl:choose>
+       
     </xsl:template>
     
     <!-- 
@@ -451,9 +508,9 @@
         <xsl:text>ɋ&#x301;</xsl:text>
     </xsl:template>
     
-    <xsl:template match="af:hi[@rend='invert']">
-        <xsl:text>u</xsl:text>
-    </xsl:template>  <!-- this should probably be a sic corr -->
+    <xsl:template match="af:hi[@rend='invert']"> 
+        <xsl:text>n</xsl:text>
+    </xsl:template>  <!--  -->
     
     <xsl:template match="af:hi[@rend='sling-below'] | af:hi[@rend='sling-above']"> <!-- This should probably be a span. -->
         <xsl:apply-templates/>
@@ -464,7 +521,7 @@
     <!-- at some point, check these- either used for indexing or might need formating in some cases. Put into encodingDesc -->
     
     <xsl:template match="af:persName | af:placeName | af:orgName | af:num | 
-        af:title | af:foreign | af:name | af:date">
+        af:title | af:name | af:date">
         <xsl:apply-templates/>
     </xsl:template>
     
