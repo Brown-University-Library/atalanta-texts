@@ -25,12 +25,12 @@
                 
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="045"/>
-                    <head>
-                        <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 9. Of the Secrets of Nature.</seg>
+                    <head rend="italic">
+                        <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 9. Of the Secrets of Nature.
                         </head>
-                        <head>
-                        <lb/><seg rend="italic">Shut up the tree with the old man in the house of dew, and eating
-                        <lb/>of the fruit thereof <choice><orig>hee</orig><reg>he</reg></choice> will become young.</seg>
+                        <head rend="italic">
+                        <lb/>Shut up the tree with the old man in the house of dew, and eating
+                        <lb/>of the fruit thereof <choice><orig>hee</orig><reg>he</reg></choice> will become young.
                     </head>
                 </div>
                 

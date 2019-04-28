@@ -25,11 +25,11 @@
                 
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="115"/>
-                    <head>
-                        <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 26. Of the Secrets of Nature.</seg>
+                    <head rend="italic">
+                        <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 26. Of the Secrets of Nature.
                         </head>
-                        <head>
-                        <lb/><seg rend="italic">The tree of life is the fruit of <choice><orig>humane</orig><reg>human</reg></choice> <choice><orig>wisedome</orig><reg>wisdom</reg></choice>.</seg>
+                        <head rend="italic">
+                        <lb/>The tree of life is the fruit of <choice><orig>humane</orig><reg>human</reg></choice> <choice><orig>wisedome</orig><reg>wisdom</reg></choice>.
                     </head>
                 </div>
                 

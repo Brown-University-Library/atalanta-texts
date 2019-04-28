@@ -25,12 +25,12 @@
                 
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="177"/>
-                    <head>
-                        <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 42. Of the Secrets of Nature.</seg>
+                    <head rend="italic">
+                        <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 42. Of the Secrets of Nature.
                         </head>
-                        <head>
-                        <lb/><seg rend="italic">Nature, Reason, Experience, and reading must be the guide, <choice><orig>staffe</orig><reg>staff</reg></choice>,
-                        <lb/>Spectacles, and Lamp to him that is <choice><orig>employd</orig><reg>employed</reg></choice> in <choice><orig>Chymicall</orig><reg>Chymical</reg></choice> affairs.</seg>
+                        <head rend="italic">
+                        <lb/>Nature, Reason, Experience, and reading must be the guide, <choice><orig>staffe</orig><reg>staff</reg></choice>,
+                        <lb/>Spectacles, and Lamp to him that is <choice><orig>employd</orig><reg>employed</reg></choice> in <choice><orig>Chymicall</orig><reg>Chymical</reg></choice> affairs.
                     </head>
                 </div>
                 

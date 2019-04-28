@@ -24,11 +24,11 @@
          
             <div type="title" xml:lang="en">
                <milestone unit="page" ed="Meier" n="021"/>
-               <head>
-                  <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 3. Of the Secrets of Nature.</seg>
+               <head rend="italic">
+                  <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 3. Of the Secrets of Nature.
                </head>
-               <head>
-                  <lb/><seg rend="italic"><choice><orig>Goe</orig><reg>Go</reg></choice> to the woman washing <choice><orig>cloaths</orig><reg>clothes</reg></choice>, and <choice><orig>doe</orig><reg>do</reg></choice> you after the same manner.</seg>
+               <head rend="italic">
+                  <lb/><choice><orig>Goe</orig><reg>Go</reg></choice> to the woman washing <choice><orig>cloaths</orig><reg>clothes</reg></choice>, and <choice><orig>doe</orig><reg>do</reg></choice> you after the same manner.
                </head>
             </div>
             

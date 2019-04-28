@@ -25,11 +25,11 @@
                 
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="085"/>
-                    <head>
-                        <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 19. Of the Secrets of Nature.</seg>
+                    <head rend="italic">
+                        <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 19. Of the Secrets of Nature.
                         </head>
-                        <head>
-                        <lb/><seg rend="italic">If you kill one of the <choice><orig>fower</orig><reg>four</reg></choice>, they will all suddenly <choice><orig>dye</orig><reg>die</reg></choice>.</seg>
+                        <head rend="italic">
+                        <lb/>If you kill one of the <choice><orig>fower</orig><reg>four</reg></choice>, they will all suddenly <choice><orig>dye</orig><reg>die</reg></choice>.
                     </head>
                 </div>
                 

@@ -25,11 +25,11 @@
                 
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="041"/>
-                    <head>
-                        <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 8. Of the Secrets of Nature.</seg>
+                    <head rend="italic">
+                        <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 8. Of the Secrets of Nature.
                         </head>
-                        <head>
-                        <lb/><seg rend="italic">Take an <choice><orig>egge</orig><reg>egg</reg></choice> and smite it with a fiery sword.</seg>
+                        <head rend="italic">
+                        <lb/>Take an <choice><orig>egge</orig><reg>egg</reg></choice> and smite it with a fiery sword.
                         
                     </head>
                 </div>

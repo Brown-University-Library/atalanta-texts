@@ -25,11 +25,11 @@
                 
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="105"/>
-                    <head>
-                        <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 24. Of the Secrets of Nature.</seg>
+                    <head rend="italic">
+                        <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 24. Of the Secrets of Nature.
                     </head>
-                    <head>
-                        <lb/><seg rend="italic">A <choice><orig>wolfe</orig><reg>wolf</reg></choice> devoured the King, and being burned restored him to life <choice><orig>againe</orig><reg>again</reg></choice>.</seg>
+                    <head rend="italic">
+                        <lb/>A <choice><orig>wolfe</orig><reg>wolf</reg></choice> devoured the King, and being burned restored him to life <choice><orig>againe</orig><reg>again</reg></choice>.
                     </head>
                     
                 </div>

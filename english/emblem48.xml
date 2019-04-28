@@ -25,12 +25,12 @@
                 
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="201"/>
-                    <head>
-                        <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 48. Of the Secrets of Nature.</seg>
+                    <head rend="italic">
+                        <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 48. Of the Secrets of Nature.
                         </head>
-                        <head>
-                        <lb/><seg rend="italic">The King falls <choice><orig>sicke</orig><reg>sick</reg></choice> by drinking water, and is restored to health
-                        <lb/>by <choice><orig>Physitians</orig><reg>Physicians</reg></choice>.</seg>
+                        <head rend="italic">
+                        <lb/>The King falls <choice><orig>sicke</orig><reg>sick</reg></choice> by drinking water, and is restored to health
+                        <lb/>by <choice><orig>Physitians</orig><reg>Physicians</reg></choice>.
                     </head>
                 </div>
                 

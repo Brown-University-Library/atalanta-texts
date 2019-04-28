@@ -37,7 +37,7 @@
 
     <xsl:template match="af:teiHeader"/>
 
-    <xsl:template match="text">
+    <xsl:template match="af:text">
         <xsl:apply-templates/>
     </xsl:template>
 
@@ -50,37 +50,47 @@
         <xsl:apply-templates/>
     </xsl:template>
 
-    <xsl:template match="af:div[@type='title' or @type='epigram' or @type='discourse' or 
-        @type='dedication' or @type='preface' or @type='titlePage']">       
+    <xsl:template match="af:div[@type='dedication' or @type='preface' or @type='titlePage']">       
         <div class="{@type}">
-            <!--<h3 class="label"><xsl:value-of select="upper-case(@type)"/></h3>-->
             <xsl:apply-templates/>
         </div>
     </xsl:template>
     
-    <!--This is only for the Latin
-        
-        <xsl:template match="af:div[@type='discourse-p1' or @type='discourse-p2']">
-        <h3 class="title"><xsl:value-of select="preceding::af:head"/></h3>
+    <xsl:template match="af:div[@type='title']">
         <div class="{@type}">
-            <xsl:apply-templates/>
+            <span class="pb beinecke"><xsl:value-of select="preceding::af:pb[1]/@n"/> </span>
+            <span class="pb atalanta-fugiens"><xsl:value-of select="af:milestone[@ed='Meier']/@n"/></span>
+            <h3><xsl:apply-templates select="af:head[1]"/></h3>
+            <h1><xsl:apply-templates select="af:head[2]"/></h1>
         </div>
-    </xsl:template>-->
-   
-    <xsl:template match="af:head">
-        <xsl:choose>
-            <xsl:when test="preceding-sibling::af:head and parent::af:div[@type='title']">
-                <h1 class="title">
-                    <xsl:apply-templates/>
-                </h1></xsl:when>
-            <xsl:otherwise>
-                <h3 class="title">
-                <xsl:apply-templates/>
-            </h3>
-            </xsl:otherwise>
-        </xsl:choose>
     </xsl:template>
     
+    <xsl:template match="af:div[@type='epigram']">
+        <div class="{@type}">
+            <h3><xsl:apply-templates select="af:head"/></h3>
+            <xsl:apply-templates select="af:lg"/>
+        </div>
+    </xsl:template>
+    
+    <xsl:template match="af:div[@type='discourse']">
+        <div class="{@type}">
+            <xsl:apply-templates select="af:div[@type='discourse-p1']"/>
+            <br class="discourse-pagebreak" />
+            <xsl:apply-templates select="af:div[@type='discourse-p2']"/>
+        </div>
+    </xsl:template>
+    
+    <!-- what do we do differently in discourse-p1 and -2 -->
+    <xsl:template match="af:div[@type='discourse-p1'] | af:div[@type='discourse-p2']">
+        <div class="{@type}">  
+            <span class="pb beinecke"><xsl:value-of select="preceding::af:pb[1]/@n"/> </span>
+            <span class="pb atalanta-fugiens"><xsl:value-of select="preceding::af:milestone[@ed='Meier'][1]/@n"/></span>
+            <h3><xsl:apply-templates select="preceding::af:head[1]"/></h3>
+            <div class="ab">
+               <xsl:apply-templates select="af:ab"/>
+            </div>
+        </div>
+    </xsl:template>   
 
     <xsl:template match="af:lg">
         <xsl:choose>
@@ -98,22 +108,15 @@
     </xsl:template>
 
     <xsl:template match="af:l">
-        <br/>
-        <xsl:apply-templates/>
+        <br/><span class="v-line"><xsl:apply-templates/></span>
     </xsl:template>
-
-    <xsl:template match="af:milestone">
-        <span class="milestone">
-            <xsl:value-of select="@n"/>
-        </span>
-    </xsl:template>
+    
+    <!--  <xsl:template match="af:pb"> maybe show it in discourse-p2 inline
+        <span class="pb"><xsl:value-of select="@n"/></span>
+    </xsl:template>-->
     
     <xsl:template match="text()[following-sibling::node()[1][self::af:lb[@break eq 'no']]]">
         <xsl:value-of select="substring( normalize-space( concat('␠',.)), 2 )"/>
-    </xsl:template>
-
-    <xsl:template match="af:pb">
-        <span class="pb"><xsl:value-of select="@n"/></span>
     </xsl:template>
     
     <xsl:template match="af:lb">
@@ -129,6 +132,8 @@
             <xsl:apply-templates/>
         </div>
     </xsl:template>
+    
+<!--     Phrase level formatting   -->
 
     <xsl:template match="af:reg | af:corr">  <!-- choice/orig/reg -->
         <span class="regularized"><xsl:apply-templates/></span>
@@ -150,7 +155,7 @@
     <xsl:template match="af:seg[@rend='underline']">
         <xsl:choose>
             <xsl:when test="@hand">
-                <span class="underline{@hand}">
+                <span class="underline-{@hand}">
                     <xsl:apply-templates/>
                 </span>
             </xsl:when>
@@ -163,20 +168,8 @@
 
     </xsl:template>
 
-    <xsl:template match="af:seg[@rend='italic']">
-        <span class="italic">
-            <xsl:apply-templates/>
-        </span>
-    </xsl:template>
-
-    <xsl:template match="af:hi[@rend='superscript']">
-        <span class="superscript">
-            <xsl:apply-templates/>
-        </span>
-    </xsl:template>
-    
-    <xsl:template match="af:hi[@rend='italic']">
-        <span class="italic">
+    <xsl:template match="af:hi[@rend='italic'] | af:hi[@rend='superscript']">
+        <span class="{@rend}">
             <xsl:apply-templates/>
         </span>
     </xsl:template>
@@ -223,11 +216,7 @@
         </xsl:choose>
     </xsl:template>
     
-    <xsl:template match="af:fw">
-        <span class="fw original">
-            <xsl:apply-templates/>
-        </span>
-        <!-- fw only visible in original view. Otherwise show nothing. -->
-    </xsl:template>
+    <xsl:template match="af:fw"/> 
+        
 
 </xsl:stylesheet>

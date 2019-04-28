@@ -25,12 +25,12 @@
                 
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="185"/>
-                    <head>
-                        <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 44. Of the Secrets of Nature.</seg>
+                    <head rend="italic">
+                        <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 44. Of the Secrets of Nature.
                         </head>
-                        <head>
-                        <lb/><seg rend="italic">Typhon kills <choice><orig>Osyris</orig><reg>Osiris</reg></choice> by <choice><orig>deceipt</orig><reg>deceit</reg></choice>, and <choice><orig>disperseth</orig><reg>disperses</reg></choice> the parts of his body on
-                        <lb/>all sides, but the famous Isis gathered them together.</seg>
+                        <head rend="italic">
+                        <lb/>Typhon kills <choice><orig>Osyris</orig><reg>Osiris</reg></choice> by <choice><orig>deceipt</orig><reg>deceit</reg></choice>, and <choice><orig>disperseth</orig><reg>disperses</reg></choice> the parts of his body on
+                        <lb/>all sides, but the famous Isis gathered them together.
                     </head>
                 </div>
                 

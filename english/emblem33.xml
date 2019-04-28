@@ -25,11 +25,11 @@
                 
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="141"/>
-                    <head>
-                        <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 33. of the Secrets of Nature.</seg>
+                    <head rend="italic">
+                        <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 33. of the Secrets of Nature.
                         </head>
-                        <head>
-                        <lb/><seg rend="italic">The Hermaphrodite lying like a dead man in <choice><orig>darknesse</orig><reg>darkness</reg></choice>, wants fire.</seg>
+                        <head rend="italic">
+                        <lb/>The Hermaphrodite lying like a dead man in <choice><orig>darknesse</orig><reg>darkness</reg></choice>, wants fire.
                     </head>
                 </div>
                 

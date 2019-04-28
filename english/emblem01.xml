@@ -58,12 +58,11 @@
                 
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="013"/>
-                    <head>
-                        <lb/><seg rend="italic">the first <choice><orig>Embleme</orig><reg>Emblem</reg></choice>. Of the Secrets of Nature.</seg>
+                    <head rend="italic">
+                        <lb/>the first <choice><orig>Embleme</orig><reg>Emblem</reg></choice>. Of the Secrets of Nature.
                     </head>
-                    <head>
-                        <lb/><seg rend="italic"><del rend="strikethrough"><unclear reason="illegible">4 chars</unclear> </del><subst><del><unclear reason="illegible">1 char</unclear></del><add>W</add></subst>ind <choice><orig>carryed</orig><reg>carried</reg></choice> him in his belly <pc>- - - -</pc>
-</seg>                    </head>
+                    <head rend="italic">
+                        <lb/><del rend="strikethrough"><unclear reason="illegible">4 chars</unclear> </del><subst><del><unclear reason="illegible">1 char</unclear></del><add>W</add></subst>ind <choice><orig>carryed</orig><reg>carried</reg></choice> him in his belly <pc>- - - -</pc>                    </head>
                 </div>
                 
                 

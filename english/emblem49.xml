@@ -25,11 +25,11 @@
                 
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="205"/>
-                    <head>
-                        <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 49. Of the Secrets of Nature.</seg>
+                    <head rend="italic">
+                        <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 49. Of the Secrets of Nature.
                         </head>
-                        <head>
-                        <lb/><seg rend="italic">The <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> infant is, as Orion, the <choice><orig>Sonne</orig><reg>Son</reg></choice> of three fathers.</seg>
+                        <head rend="italic">
+                        <lb/>The <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> infant is, as Orion, the <choice><orig>Sonne</orig><reg>Son</reg></choice> of three fathers.
                     </head>
                 </div>
                 

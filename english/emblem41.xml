@@ -25,12 +25,12 @@
                 
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="173"/>
-                    <head>
-                        <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 41. Of the Secrets of Nature.</seg>
+                    <head rend="italic">
+                        <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 41. Of the Secrets of Nature.
                         </head>
-                        <head>
-                        <lb/><seg rend="italic">Adonis is <choice><orig>killd</orig><reg>killed</reg></choice> by a Boar, to <choice><orig>whome</orig><reg>whom</reg></choice> Venus hasting tinged the
-                        <lb/>Roses with her blood.</seg>
+                        <head rend="italic">
+                        <lb/>Adonis is <choice><orig>killd</orig><reg>killed</reg></choice> by a Boar, to <choice><orig>whome</orig><reg>whom</reg></choice> Venus hasting tinged the
+                        <lb/>Roses with her blood.
                     </head>
                 </div>
                 
@@ -63,7 +63,7 @@
                         <quote>
                             <lg xml:lang="la">
                                 <l>Omnia sunt idem, Dionysus, Sol, et Adonis:</l></lg>
-                            And Orpheus:<pc>------</pc><lg xml:lang="la" rend="no-space"><l>Qui vario lætaris nomine Adoni,</l>
+                            <lb/>And Orpheus:<pc>------</pc><lg xml:lang="la" rend="no-space"><l>Qui vario lætaris nomine Adoni,</l>
                                 <l>Germinum et idem author, pariter puer atꝗ puella.</l>
                             </lg>
                         </quote>

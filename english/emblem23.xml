@@ -25,12 +25,12 @@
                 
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="101"/>
-                    <head>
-                        <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 23. Of the Secrets of Nature.</seg>
+                    <head rend="italic">
+                        <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 23. Of the Secrets of Nature.
                         </head>
-                        <head>
-                        <lb/><seg rend="italic">When Pallas was <choice><orig>borne</orig><reg>born</reg></choice>, and Sol lay with Venus, it rained gold
-                        <lb/>at Rhodes.</seg>
+                        <head rend="italic">
+                        <lb/>When Pallas was <choice><orig>borne</orig><reg>born</reg></choice>, and Sol lay with Venus, it rained gold
+                        <lb/>at Rhodes.
                     </head>
                 </div>
                 

@@ -25,11 +25,11 @@
                 
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="017"/>
-                    <head>
-                        <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 2. Of the Secrets of Nature.</seg>
+                    <head rend="italic">
+                        <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 2. Of the Secrets of Nature.
                     </head>
-                    <head>
-                        <lb/><seg rend="italic">the earth is his <choice><orig>Nurce</orig><reg>Nurse</reg></choice>.</seg>
+                    <head rend="italic">
+                        <lb/>the earth is his <choice><orig>Nurce</orig><reg>Nurse</reg></choice>.
                         
                     </head>
                 </div>

@@ -25,12 +25,12 @@
                 
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="197"/>
-                    <head>
-                        <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 47. Of the Secrets of Nature.</seg>
+                    <head rend="italic">
+                        <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 47. Of the Secrets of Nature.
                         </head>
-                        <head>
-                        <lb/><seg rend="italic">A <choice><orig>Wolfe</orig><reg>Wolf</reg></choice> coming from the East, and a <choice><orig>Dogge</orig><reg>Dog</reg></choice> from the West <choice><orig>werry'd</orig><reg>werried</reg></choice>
-                        <lb/>one another.</seg>
+                        <head rend="italic">
+                        <lb/>A <choice><orig>Wolfe</orig><reg>Wolf</reg></choice> coming from the East, and a <choice><orig>Dogge</orig><reg>Dog</reg></choice> from the West <choice><orig>werry'd</orig><reg>werried</reg></choice>
+                        <lb/>one another.
                     </head>
                 </div>
                 

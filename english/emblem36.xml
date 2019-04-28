@@ -25,12 +25,12 @@
                 
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="153"/>
-                    <head>
-                        <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 36. Of the Secrets of Nature.</seg>
+                    <head rend="italic">
+                        <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 36. Of the Secrets of Nature.
                         </head>
-                        <head>
-                        <lb/><seg rend="italic">The Stone, that is, Mercury, is cast upon the earth, and exalted on
-                        <lb/>mountains, and resides in the <choice><orig>aire</orig><reg>air</reg></choice>, and is nourished in water</seg> <pc>.....</pc>
+                        <head rend="italic">
+                        <lb/>The Stone, that is, Mercury, is cast upon the earth, and exalted on
+                        <lb/>mountains, and resides in the <choice><orig>aire</orig><reg>air</reg></choice>, and is nourished in water <pc>.....</pc>
                     </head>
                 </div>
                 

@@ -25,12 +25,12 @@
                 
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="161"/>
-                    <head>
-                        <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 38. Of the Secrets of Nature.</seg>
+                    <head rend="italic">
+                        <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 38. Of the Secrets of Nature.
                         </head>
-                        <head>
-                        <lb/><seg rend="italic">Rebis is, as Hermaphroditus, produced from the two moun
-                        <lb break="no"/>tains of Mercury and Venus.</seg>
+                        <head rend="italic">
+                        <lb/>Rebis is, as Hermaphroditus, produced from the two moun
+                        <lb break="no"/>tains of Mercury and Venus.
                     </head>
                 </div>
                 

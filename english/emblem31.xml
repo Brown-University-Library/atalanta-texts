@@ -25,12 +25,12 @@
                 
                 <div type="title" xml:lang="en">
                     <milestone unit="page" ed="Meier" n="133"/>
-                    <head>
-                        <lb/><seg rend="italic"><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 31. Of the Secrets of Nature.</seg>
+                    <head rend="italic">
+                        <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 31. Of the Secrets of Nature.
                         </head>
-                        <head>
-                        <lb/><seg rend="italic">The King swimming in the Sea <choice><orig>cryes</orig><reg>cries</reg></choice> out with a loud <choice><orig>voyce</orig><reg>voice</reg></choice>, <choice><orig>hee</orig><reg>he</reg></choice> that
-                        <lb/>will deliver <choice><orig>mee</orig><reg>me</reg></choice> shall have great reward.</seg>
+                        <head rend="italic">
+                        <lb/>The King swimming in the Sea <choice><orig>cryes</orig><reg>cries</reg></choice> out with a loud <choice><orig>voyce</orig><reg>voice</reg></choice>, <choice><orig>hee</orig><reg>he</reg></choice> that
+                        <lb/>will deliver <choice><orig>mee</orig><reg>me</reg></choice> shall have great reward.
                     </head>
                 </div>
                 
