@@ -96,7 +96,7 @@
                         <l><choice><orig>Mov'd</orig><reg>Moved</reg></choice> her <choice><orig>chast</orig><reg>chaste</reg></choice> <choice><orig>soule</orig><reg>soul</reg></choice> to wrath by that disgrace,</l>
                         <l>Transmuting in revenge their <choice><orig>formall</orig><reg>formal</reg></choice> state</l>
                         <l>Into a <choice><orig>Lyon</orig><reg>Lion</reg></choice> and a <choice><orig>Lyons</orig><reg>Lions</reg></choice> mate.</l>
-                        <l>This princely chase the better to <choice><orig>pourtray</orig><reg>portray</reg></choice>,</l>
+                        <l><note place="margin">[vertical line in left margin ll. 17-25]</note>This princely chase the better to <choice><orig>pourtray</orig><reg>portray</reg></choice>,</l>
                         <l>My Muse describes it in a triple way,</l>
                         <l>Depicting first the Speed retarding fruit,</l>
                         <l>One <choice><orig>runne</orig><reg>run</reg></choice> before, the third in <choice><orig>hott</orig><reg>hot</reg></choice> pursuit:</l>
@@ -134,7 +134,7 @@
                 <div type="dedication">
                         <opener>Most honorable and most prudent Senators!</opener>
                     <ab>
-                        <lb rend="indent"/>As touching that Tripos <pc>-</pc>
+                        <lb/><seg rend="indent">As touching that Tripos <pc>-</pc></seg>
                         <lb/>given by Vulcan to Pelops the <choice><orig>Bridegroome</orig><reg>Bridegroom</reg></choice> when <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>marryed</orig><reg>married</reg></choice> Hippo
                         <lb break="no"/>damia the daughter of Oënomaus King of Elis, they report, that, being of
                         <lb/>singular artifice, it was <choice><orig>againe</orig><reg>again</reg></choice> presented by Pelops to Apollo Pythius at
@@ -181,7 +181,7 @@
                         <head rend="italics center">The <choice><orig>Præface</orig><reg>Preface</reg></choice> to the Reader.</head>         
                         <opener>Candid Reader!</opener>
                         <ab>
-                        <lb rend="indent"/>It is a truth <choice><orig>denyd</orig><reg>denied</reg></choice> by none that man in his composition
+                        <lb/><seg rend="indent">It is a truth <choice><orig>denyd</orig><reg>denied</reg></choice> by none that man in his composition</seg>
                         <lb/><choice><orig>repræsents</orig><reg>represents</reg></choice> a compendium of the universe, and is destinated to live three kinds
                         <lb/>of life, namely a vegetable, in his mothers <choice><orig>wombe</orig><reg>womb</reg></choice>, where indeed <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>growes</orig><reg>grows</reg></choice> <pc>-</pc>
                         <lb/>and is <choice><orig>encreased</orig><reg>increased</reg></choice> like a plant; a sensible, <choice><orig>towitt</orig><reg>to wit</reg></choice> in this world, where for the

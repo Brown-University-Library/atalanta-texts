@@ -159,7 +159,7 @@
         <br/>
     </xsl:template>
     
-    <xsl:template match="text()[ancestor::af:ab][preceding-sibling::af:lb[1]][following::af:lb[1][@break eq 'no']]" mode="#all">
+    <xsl:template match="text()[ancestor::af:ab][preceding::af:lb[1]][following::af:lb[1][@break eq 'no']]" mode="#all">
         <xsl:value-of select="replace(., '&#x0D;?&#x0a;', '-')"/>
     </xsl:template>
     

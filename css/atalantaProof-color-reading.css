@@ -27,7 +27,12 @@ body{
 {
     margin-top: 100px;
     text-align: center;
-    font-style: italic;
+}
+
+h3.title {
+    
+    margin-top: 100px;
+    text-align: center;
 }
 
 h3.discourse
@@ -40,7 +45,6 @@ h3.discourse
     margin-top: -30px;
     text-align: left;
     margin-left: 33%;
-    font-style: italic;
 }
 
 .verse-discourse {
@@ -63,11 +67,6 @@ h2{
     color: #b5b5b5;
 }
 
-h3.title {
-    
-    margin-top: 100px;
-    text-align: center;
-}
 
 .pb{
     text-align: left;
@@ -134,7 +133,7 @@ h3.title {
 
 
 .unclear:before{
-    content: "[? ";
+    content: "[ ";
 }
 
 .unclear:after{
@@ -168,7 +167,7 @@ span.underline2{
     border-bottom: 2px grey solid;
 }
 
-span.italics{
+span.italic{
     font-style: italic;
 }
 
@@ -201,6 +200,10 @@ span.italics{
 
 .bottom-note {
     outline: .5px solid #b5b5b5;
+    text-align: right;
+    font-style: normal;
+    font-size: smaller;
+    /* need to get the box to be only around the text. It's right aligned. */
 }
 
 .help{
