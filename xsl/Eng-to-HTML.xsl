@@ -25,7 +25,7 @@
             <head>
                 <title>Atalanta Fugiens (Beinecke Ms. transcription) Facsimile Copy. Emblem
                         <xsl:value-of select="af:div[@type='emblem/@n']"/></title>
-                <link rel="stylesheet" type="text/css" href="atalantaProof-color-reading.css"/>
+                <link rel="stylesheet" type="text/css" href="atalantaProof-Eng.css"/>
             </head>
 
             <body>
@@ -142,12 +142,21 @@
     <xsl:template match="af:orig | af:sic">      
         <xsl:choose>
             <xsl:when test="parent::af:choice"><span class="original"><xsl:apply-templates/></span></xsl:when>
-            <xsl:otherwise><span class="orig-solo"><xsl:apply-templates/></span></xsl:otherwise>
+            <xsl:otherwise><xsl:apply-templates/></xsl:otherwise>
         </xsl:choose>      
     </xsl:template>
 
-    <xsl:template match="af:unclear | af:supplied | af:subst | af:add | af:del">
+    <xsl:template match="af:unclear | af:subst | af:add | af:del">
         <span class="{name()}">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+    
+    <xsl:template match="af:supplied">
+        <span class="original">
+            <xsl:text>[</xsl:text><xsl:apply-templates/><xsl:text>]</xsl:text>
+        </span>
+        <span class="regularized">
             <xsl:apply-templates/>
         </span>
     </xsl:template>
@@ -160,12 +169,14 @@
                 </span>
             </xsl:when>
             <xsl:otherwise>
-                <span class="underline">
-                    <xsl:apply-templates/>
-                </span>
+                <span class="underline"><xsl:apply-templates/></span>
             </xsl:otherwise>
         </xsl:choose>
 
+    </xsl:template>
+    
+    <xsl:template match="af:seg[@rend='indent']">
+        <span class="indent"><xsl:apply-templates/></span>
     </xsl:template>
 
     <xsl:template match="af:hi[@rend='italic'] | af:hi[@rend='superscript']">

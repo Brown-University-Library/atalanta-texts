@@ -244,13 +244,14 @@
     
     <xsl:template match="af:surplus ">
         <span class="original">
-            <xsl:text>{</xsl:text><xsl:apply-templates/><xsl:text>}</xsl:text>
+            <!--<xsl:text></xsl:text><xsl:apply-templates/><xsl:text>}</xsl:text>-->
+            <xsl:apply-templates/>
         </span>
     </xsl:template>
     
     <xsl:template match="af:supplied ">
         <span class="original">
-            <xsl:text>&lt;</xsl:text><xsl:apply-templates/><xsl:text>&gt;</xsl:text>
+            <xsl:text>[</xsl:text><xsl:apply-templates/><xsl:text>]</xsl:text>
         </span>
         <span class="regularized">
             <xsl:apply-templates/>
@@ -325,7 +326,7 @@
         
     </xsl:template>
      
-    <xsl:template match="af:hi[@rend='italic'] | af:hi[@rend='gothic'] | af:hi[@rend='latin'] | af:hi[@rend='smallCaps']">
+    <xsl:template match="af:hi[@rend='italic'] | af:hi[@rend='gothic'] | af:hi[@rend='roman'] | af:hi[@rend='smallCaps']">
         <span class="{@rend}"><xsl:apply-templates/></span>
     </xsl:template>
     

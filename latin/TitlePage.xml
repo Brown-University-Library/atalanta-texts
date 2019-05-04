@@ -30,15 +30,15 @@
             
             <div type="title" xml:lang="la">
                 <ab rend="center">
-                   <lb n="1"/><title rend="caps">Atalanta
-                   <lb n="2"/>Fugiens</title>,
-                   <lb n="3"/>hoc est,
-                   <lb n="4"/><title rend="caps">Emblemata
-                   <lb n="5"/>Nova
+                   <lb n="1"/><head rend="caps">Atalanta
+                   <lb n="2"/>Fugiens</head>,
+                   <lb n="3"/><head>hoc est,</head>
+                   <lb n="4"/><head rend="big-caps">Emblemata</head>
+                   <lb n="5"/><head rend="caps">Nova
                    <lb n="6"/>De Secretis Natur<hi rend="ligature">ae</hi>
-                   <lb n="7"/>Chymica</title>,
+                   <lb n="7"/>Chymica</head>,
                 </ab>
-               <ab rend="left">
+               <ab rend="hanging-indent">
                    <lb n="8"/>Accommodata partim oculis <g type="ampersand">et</g> intellectui, figuris
                    <lb n="9"/>cupro incisis, adjectis<hi rend="acute">q</hi>ue sententiis, Epigram
                    <lb n="10" break="no"/>matis <g type="ampersand">et</g> notis, partim auribus <g type="ampersand">et</g> recreationi
