@@ -29,7 +29,11 @@ body{
     text-align: center;
 }
 
-h3.title {
+h1 {
+    font-style: italic;
+}
+
+h3 {
     
     margin-top: 100px;
     text-align: center;

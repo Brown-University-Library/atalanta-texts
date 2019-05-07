@@ -72,6 +72,7 @@
         </div>
     </xsl:template>
     
+    
     <xsl:template match="af:div[@type='discourse']">
         <div class="{@type}">
             <xsl:apply-templates select="af:div[@type='discourse-p1']"/>

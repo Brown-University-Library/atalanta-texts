@@ -340,10 +340,10 @@
     
     <xsl:template match="af:foreign">
         <xsl:choose>
-            <xsl:when test="@rend='la'">
+            <xsl:when test="@rend='latin'">
                 <span class="latin"><xsl:apply-templates/></span>
             </xsl:when>
-            <xsl:when test="@rend='de'">
+            <xsl:when test="@rend='gothic'">
                 <span class="gothic"><xsl:apply-templates/></span>
             </xsl:when>
         </xsl:choose>

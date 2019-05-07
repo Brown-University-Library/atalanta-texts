@@ -30,7 +30,7 @@
                <lg rend="italic">
                   <lb n="1"/><l><persName>Hesperii</persName> precium juvenis tulit impiger horti</l>
                   <lb n="2"/><l>Dante De<hi rend="circumflex">a</hi> pomum <persName type="divinity">Cypride</persName> tergeminum:</l>
-                  <lb n="3"/><l><expan><abbr>Id<hi rend="acute tail">q</hi></abbr><ex>ue</ex></expan> sequens fugientis humo glomeravit ad ora</l>
+                  <lb n="3"/><l><expan><abbr>Id<hi rend="acute q-semi">q</hi></abbr><ex>ue</ex></expan> sequens fugientis humo glomeravit ad ora</l>
                   <lb n="4"/><l>Virginis, hinc tardas contrahit illa moras:</l>
                   <lb n="5"/><l>Mox micat is, micat h<hi rend="ligature">ae</hi>c mox ante fugacior <persName>Euris</persName>,</l>
                   <lb n="6"/><l>Alteratum spargens aurea dona solo,</l>
@@ -43,7 +43,7 @@
                   <lb n="13"/><l>Qui postquam cupido se complectuntur amore</l>
                   <lb n="14"/><l>In fano <persName type="divinity">Cybeles</persName>, corrigit ira Deam;</l>
                   <lb n="15"/><l>Pelle leonina vindex <g type="ampersand">et</g> vestiit ambos,</l>
-                  <lb n="16"/><l>Inde rubent posthac corpore, <expan><abbr>sunt<hi rend="acute tail">q</hi></abbr><ex>ue</ex></expan> feri.</l>
+                  <lb n="16"/><l>Inde rubent posthac corpore, <expan><abbr>sunt<hi rend="acute q-semi">q</hi></abbr><ex>ue</ex></expan> feri.</l>
                   <lb n="17"/><l>Hujus ut exprimeret simulacra simillima cursus</l>
                   <lb n="18"/><l>Voce tibi tern<hi rend="circumflex">a</hi> dat mea Musa fugas:</l>
                   <lb n="19"/><l><hi rend="roman">U</hi>na manet simplex, pom<hi rend="acute">u</hi>mque refert remorans vox,</l>
