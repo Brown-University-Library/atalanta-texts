@@ -205,9 +205,13 @@ span.smallCaps, hi.smallCaps {
     font-variant: small-caps;
 }
 
-span.caps-latin {
+span.caps-roman {
     text-transform: uppercase;
     font-style: normal;
+}
+
+span.roman {
+        font-style: normal;
 }
 
 span.raised {

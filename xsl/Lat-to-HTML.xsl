@@ -282,12 +282,12 @@
     <!-- abbreviations -->
     
     <xsl:template match="af:expan">
-        <xsl:apply-templates mode="abbrev"/><span class="regularized"><xsl:apply-templates mode="expand"/></span>
+        <span class="original"><xsl:apply-templates mode="abbrev"/></span><span class="regularized"><xsl:apply-templates mode="expand"/></span>
     </xsl:template>
     
     <xsl:template match="af:abbr">
         <xsl:apply-templates/>
-    </xsl:template>
+    </xsl:template>    
     
     <xsl:template match="af:ex" mode="expand">
         <xsl:apply-templates/>
@@ -309,6 +309,8 @@
     <xsl:template match="af:g" mode="abbrev">
         <xsl:text>&amp;</xsl:text>
     </xsl:template>
+    
+    
     <!-- end abbreviations -->
     
     
@@ -330,13 +332,18 @@
         <span class="{@rend}"><xsl:apply-templates/></span>
     </xsl:template>
     
-    <xsl:template match="af:hi[@rend='raised']">
-        <span class="original"><span class="{@rend}"><xsl:apply-templates/></span></span><span class="regularized"><xsl:apply-templates/></span>
+    <xsl:template match="af:hi">
+        <xsl:choose>
+            <xsl:when test="@rend='raised'">
+                <span class="original"><span class="{@rend}"><xsl:apply-templates/></span></span><span class="regularized"><xsl:apply-templates/></span>
+            </xsl:when>
+            <xsl:when test="@rend='smallCaps roman'">
+                <span class="smallCaps-roman"><xsl:apply-templates/></span>
+            </xsl:when>
+        </xsl:choose>
+        
     </xsl:template>
     
-    <xsl:template match="af:hi[@rend='smallCaps latin']">
-        <span class="smallCaps-latin"><xsl:apply-templates/></span>
-    </xsl:template>
     
     <xsl:template match="af:foreign">
         <xsl:choose>
@@ -369,6 +376,19 @@
             <xsl:otherwise><xsl:apply-templates/></xsl:otherwise>    
         </xsl:choose>
     </xsl:template>
+    
+    
+    <!-- - - - - - - - title page - - - - - - - -->
+    
+   <xsl:template match="af:div[@type='title']/af:ab[@rend='center']">
+       <div class="titlepage-center"><xsl:apply-templates/></div>
+   </xsl:template>
+    
+    <xsl:template match="af:div[@type='title']/af:ab[@rend='hanging-indent']">
+        <div class="titlepage-hanging-indent"><xsl:apply-templates/></div>
+    </xsl:template>
+    
+    
     
     <!-- Kludgy way to handle these substitutions before I put them into the header. Need to handle 3 modes: in mode="abbrev"
          the charager is shown with the punctuation. In empty mode, again, shown with punctuation but this occurs outside 
