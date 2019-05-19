@@ -29,16 +29,16 @@
             <figure><graphic url=""></graphic></figure>
             
             <docTitle xml:lang="la">
-                <a rend="center">
-                   <lb n="1"/><head rend="caps">Atalanta
-                   <lb n="2"/>Fugiens,</head>
-                   <lb n="3"/><head>hoc est,</head>
-                   <lb n="4"/><head rend="big-caps">Emblemata</head>
-                   <lb n="5"/><head rend="caps">Nova
+                <titlePart rend="center">
+                   <lb n="1"/><seg rend="title-1">Atalanta
+                   <lb n="2"/>Fugiens,</seg>
+                   <lb n="3"/><seg rend="title-2">hoc est,</seg>
+                   <lb n="4"/><seg rend="title-3">Emblemata</seg>
+                   <lb n="5"/><seg rend="title-4">Nova
                    <lb n="6"/>De Secretis Natur<hi rend="ligature">ae</hi>
-                      <lb n="7"/>Chymica,</head>
-                </a>
-               <div rend="hanging-indent">
+                      <lb n="7"/>Chymica,</seg>
+                </titlePart>
+               <titlePart rend="hanging-indent">
                    <lb n="8"/>Accommodata partim oculis <g type="ampersand">et</g> intellectui, figuris
                    <lb n="9"/>cupro incisis, adjectis<hi rend="acute">q</hi>ue sententiis, Epigram
                    <lb n="10" break="no"/>matis <g type="ampersand">et</g> notis, partim auribus <g type="ampersand">et</g> recreationi
@@ -48,18 +48,19 @@
                    <lb n="14" break="no"/>deant, non <expan><abbr>absq<am>;</am></abbr><ex>ue</ex></expan> singulari jucunditate videnda,
                    <lb n="15"/>legenda, meditanda,<surplus>,</surplus> intelligenda, dijudicanda,
                    <lb n="16"/>canenda <g type="ampersand">et</g> audienda:
-                </div>
-               <div rend="center">
+                </titlePart>
+               <titlePart rend="center">
                   <lb n="17"/><hi rend="italic">Authore</hi>
                    <lb n="18"/><persName ref="http://viaf.org/viaf/103210603"><hi rend="smallCaps">Michaele Majero</hi></persName> <expan><abbr>Imperial<am>.</am></abbr><ex>i</ex></expan> Con
                    <lb n="19" break="no"/>sistorii Comite, <expan><abbr>Med<am>.</am></abbr><ex>icinarum</ex></expan> <expan><abbr>D<am>.</am></abbr><ex>octore</ex></expan> <expan><abbr>Eq<am>.</am></abbr><ex>uite</ex></expan> <expan><abbr>ex<am>.</am></abbr><ex>empto</ex></expan> <expan><abbr><g type="ampersand">et</g>c</abbr><ex>aetera</ex></expan>.
-                   <lb n="20"/><placeName><hi rend="caps">Oppenheimii</hi></placeName>
+                  <lb n="20"/><hi rend="caps italic"><placeName>Oppenheimii</placeName></hi>
                    <lb n="21"/>Ex typographia <persName ref="http://viaf.org/viaf/101590698"><hi rend="smallCaps">Hieronymi Galleri</hi></persName>,
-                   <lb n="22"/><hi rend="italic">Sumptibus</hi> <persName ref="http://viaf.org/viaf/7388985"><hi rend="smallCaps"><expan><abbr>Joh<am>.</am></abbr><ex>annis</ex> Theodori</expan></hi> de <hi rend="caps">Bry</hi></persName>,
-                   <lb n="23"/><date when="1618"><num value="1618"><hi rend="overline">M DC XVIII</hi></num></date>.
-                </div>
+                  <lb n="22"/><hi rend="italic">Sumptibus</hi> <persName ref="http://viaf.org/viaf/7388985"><hi rend="smallCaps"><expan><abbr>Joh<am>.</am></abbr><ex>annis</ex></expan> Theodori</hi> de <hi rend="caps">Bry</hi></persName>,
+                  <lb n="23"/><hi rend="overline"><date when="1618" ><num value="1618">M DC XVIII</num></date></hi>.
+                </titlePart>
             </docTitle>                     
          
       </front>
+    
   </text>
 </TEI>

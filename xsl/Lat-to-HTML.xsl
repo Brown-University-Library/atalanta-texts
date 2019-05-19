@@ -86,14 +86,16 @@
     </xsl:template>
     
     <xsl:template match="af:div[@type='page']">
+        <div class="{@type}">
+            <span class="pb atalanta-fugiens"><xsl:value-of select="preceding::af:pb[1]/@n"/></span>
+        <xsl:apply-templates/>
+        </div>
         <xsl:choose>
-            <xsl:when test="child::af:ab[@rend='italics']">
-                <div class="{@type} italic"><xsl:apply-templates/></div>
+            <xsl:when test="position() != last()">
+              <br class="discourse-pagebreak" />
             </xsl:when>
-            <xsl:otherwise>
-                <xsl:apply-templates/>
-            </xsl:otherwise>
         </xsl:choose>
+        
     </xsl:template>
     
     <xsl:template match="af:fw" mode="titles">
@@ -121,18 +123,23 @@
                     <xsl:apply-templates/>
                 </h1>
             </xsl:when>
-            <xsl:when test="parent::af:div[@type='preface']">
+            <xsl:when test="ancestor::af:div[@type='preface']">
                 <h1><xsl:apply-templates/></h1>
             </xsl:when>
         </xsl:choose>
     </xsl:template>
     
     <xsl:template match="af:ab">
-        <xsl:apply-templates/>
-    </xsl:template>
-    
-    <xsl:template match="af:ab[parent::af:div[@type='discourse-p1'] or parent::af:div[@type='discourse-p2']]">
-        <div class="ab"><xsl:apply-templates/></div>
+        <xsl:choose>
+            <xsl:when test="@rend='italic'">
+                <div class="ab italic"><xsl:apply-templates/></div>
+                
+            </xsl:when>
+            <xsl:when test="current()[parent::af:div[@type='discourse-p1'] or parent::af:div[@type='discourse-p2']]">
+                <div class="ab"><xsl:apply-templates/></div>
+            </xsl:when>
+            <xsl:otherwise><xsl:apply-templates/></xsl:otherwise>
+        </xsl:choose>
     </xsl:template>
     
     <xsl:template match="af:seg[@rend='smaller']">
@@ -328,7 +335,7 @@
         
     </xsl:template>
      
-    <xsl:template match="af:hi[@rend='italic'] | af:hi[@rend='gothic'] | af:hi[@rend='roman'] | af:hi[@rend='smallCaps']">
+    <xsl:template match="af:hi[@rend='italic'] | af:hi[@rend='gothic'] | af:hi[@rend='roman'] | af:hi[@rend='smallCaps'] | af:hi[@rend='large'] | af:hi[@rend='large'] | af:hi[@rend='caps'] | af:hi[@rend='overline']">
         <span class="{@rend}"><xsl:apply-templates/></span>
     </xsl:template>
     
@@ -339,6 +346,9 @@
             </xsl:when>
             <xsl:when test="@rend='smallCaps roman'">
                 <span class="smallCaps-roman"><xsl:apply-templates/></span>
+            </xsl:when>
+            <xsl:when test="@rend='caps large'">
+                <span class="caps-large"><xsl:apply-templates/></span>
             </xsl:when>
         </xsl:choose>
         
@@ -380,12 +390,25 @@
     
     <!-- - - - - - - - title page - - - - - - - -->
     
-   <xsl:template match="af:div[@type='title']/af:ab[@rend='center']">
+   <xsl:template match="af:titlePart[@rend='center']">
        <div class="titlepage-center"><xsl:apply-templates/></div>
    </xsl:template>
     
+    <xsl:template match="af:titlePart[@rend='italic hanging-indent']">
+        <div class="italic-hanging-indent"><xsl:apply-templates/></div>
+    </xsl:template>
+  
+    
+    <xsl:template match="af:titlePart/af:eg">
+        <span class="{@type}"><xsl:apply-templates/></span>
+    </xsl:template>
+    
     <xsl:template match="af:div[@type='title']/af:ab[@rend='hanging-indent']">
         <div class="titlepage-hanging-indent"><xsl:apply-templates/></div>
+    </xsl:template>
+    
+    <xsl:template match="af:hi[@rend='caps italic']">
+        <span class="caps-italic"><xsl:apply-templates/></span>
     </xsl:template>
     
     
