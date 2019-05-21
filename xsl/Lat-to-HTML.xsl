@@ -394,13 +394,13 @@
        <div class="titlepage-center"><xsl:apply-templates/></div>
    </xsl:template>
     
-    <xsl:template match="af:titlePart[@rend='italic hanging-indent']">
-        <div class="italic-hanging-indent"><xsl:apply-templates/></div>
+    <xsl:template match="af:titlePart[@rend='hanging-indent']">
+        <div class="hanging-indent"><xsl:apply-templates/></div>
     </xsl:template>
   
     
-    <xsl:template match="af:titlePart/af:eg">
-        <span class="{@type}"><xsl:apply-templates/></span>
+    <xsl:template match="af:titlePart/af:seg">
+        <span class="{@rend}"><xsl:apply-templates/></span>
     </xsl:template>
     
     <xsl:template match="af:div[@type='title']/af:ab[@rend='hanging-indent']">
