@@ -1,28 +1,24 @@
-SAXON_COMMAND = 'Transform.exe'
-
 from subprocess import run
 import sys
 from pathlib import Path
+import yaml
 
-THISDIR = Path(sys.argv[0]).parent
+with Path('../atalanta/atalanta-src/furnace.project.yaml').open('r') as f:
+    settings = yaml.load(f, Loader=yaml.FullLoader)
+
+commands = settings['extracaminar-activities']['saxon-command-lines']
+
+THISDIR = Path(sys.argv[0]).parent.resolve()
 print(THISDIR)
 
-for f in THISDIR.glob('english/*.xml'):
-    args = [
-        SAXON_COMMAND,
-        "-s:{}/{}".format(THISDIR, f),
-        "-xsl:{}/xsl/Eng-to-HTML.xsl".format(THISDIR),
-        "-o:{}/english-html/{}".format(THISDIR, f.name.replace('.xml', '.html')),
-    ]
-    print(args[1])
-    run(args)
-
-for f in THISDIR.glob('latin/*.xml'):
-    args = [
-        SAXON_COMMAND,
-        "-s:{}/{}".format(THISDIR, f),
-        "-xsl:{}/xsl/Lat-to-HTML.xsl".format(THISDIR),
-        "-o:{}/latin-html/{}".format(THISDIR, f.name.replace('.xml', '.html')),
-    ]
-    print(args[1])
-    run(args)
+for lang, templ in {"english": "xsl/Eng-to-HTML.xsl", "latin": "xsl/Lat-to-HTML.xsl"}.items():
+    xsl =  str((THISDIR / templ).resolve())
+    for f in THISDIR.glob('%s/*.xml' % lang):
+        src = str(f.resolve())
+        out = str(THISDIR / ('%s-html'%lang) / f.name.replace('.xml', '.html'))
+        
+        for command in commands:
+            cmd = command % (src, xsl, out) 
+            print(cmd)
+            if run(cmd.split()).returncode == 0:
+                break
