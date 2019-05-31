@@ -3,7 +3,7 @@ import sys
 from pathlib import Path
 import yaml
 
-with Path('../atalanta/atalanta-src/furnace.project.yaml').open('r') as f:
+with Path('../atalanta-src/furnace.project.yaml').open('r') as f:
     settings = yaml.load(f, Loader=yaml.FullLoader)
 
 commands = settings['extracaminar-activities']['saxon-command-lines']
