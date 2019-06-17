@@ -1,30 +1,117 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Title</title>
+       <fileDesc>
+           
+        <titleStmt>
+                    <title>Atalanta Fugiens (digital transcription). Emblem 05.</title>
+                <principal ref="http://viaf.org/viaf/32331303">Tara Nummedal</principal>
+                <principal>Donna Bilak</principal>
+                <respStmt>
+                    <resp>Transcription and TEI Encoding</resp>
+                    <persName>George Elliot</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Editorial Oversight and Proofreading</resp>
+                    <persName>Donna Bilak</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI encoding oversight</resp>
+                    <persName ref="https://orcid.org/0000-0002-0215-4324">Elli Mylonas</persName>
+                </respStmt>
             </titleStmt>
-            <publicationStmt>
-                <p>Publication Information</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Information about the source</p>
-            </sourceDesc>
+           
+        <editionStmt>
+            <edition>Transcription and Encoding completed <date>2019-05-20</date></edition>
+        </editionStmt>
+           
+           <publicationStmt>
+            <authority>Brown University</authority>
+            <availability status="free">
+                <licence>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+                    <ref target="http://creativecommons.org/licenses/by-nc/4.0/">Distributed under a Creative Commons licence Attribution-BY-NC 4.0</ref>
+                </licence>
+            </availability>
+        </publicationStmt>
+           
+           <sourceDesc>
+                 <biblStruct type="manuscript">
+                    <monogr>
+                        <title level="m">Atalanta running, that is, new chymicall emblems relating
+                            to the secrets of nature</title>
+                        <author><forename>Michael</forename><surname>Maier</surname></author>
+                        <idno type="Beinecke">Mellon MS. 88</idno>
+                        <imprint>
+                            <pubPlace>England (?)</pubPlace>
+                            <date>[1618 or after]</date>
+                            <note type="url">https://brbl-dl.library.yale.edu/vufind/Record/4262893</note>
+                        </imprint>
+                        <extent>86 pp.</extent>
+                    </monogr>
+                </biblStruct>
+        </sourceDesc>
         </fileDesc>
-    </teiHeader>
+            
+        <encodingDesc>
+            <projectDesc><p>This text has been transcribed and encoded using the TEI for Tara Nummedal and Donna Bilak’s <title>Furnace and Fugue: A Digital Edition of Michael Maier’s Atalanta fugiens (1618) with Scholarly Commentary</title>, part of Brown University’s Digital Publications Initiative, funded by the Andrew W. Mellon Foundation.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>This transcription includes all text in the Beinecke library Mellon MS. 88 (English Translation of Michael Meier's Atalanta Fugiens).</p>
+                <p>All line breaks are indicated using the <gi>lb</gi> element. Hyphenation is marked with the <att>break</att> attribute.
+                    This manuscript has hyphens filling out lines at the right margin, as well as at the end of a page. These are marked as punctuation using
+                     the <gi>pc</gi> element. Pagination as printed is encoded using <gi>fw</gi>. <gi>pb</gi> elements 
+                     provide the page number in a canonical form. Page breaks in the original Meier printed text are also inserted and have been marked with a <gi>milestone</gi> element 
+                    <egXML xmlns="http://www.tei-c.org/ns/Examples"><milestone unit="page" ed="Meier" n="037"/></egXML></p>
+                <p>Within the discourse section of each element, <gi>ab</gi> are used to group text that appears on each page of the equivalent Meier edition. This is useful when
+                formatting a side-by-side edition, but can be ignored otherwise.</p>
+                <p>Archaic spellings have been modernized throughout, using <gi>orig</gi>/<gi>reg</gi> pairs.</p>
+                <p>Strikeouts and additions have been marked using <gi>subst</gi>, <gi>add</gi> and <gi>del</gi> elements.</p>
+                <p>This manuscript has underlining in a variety of hands. Underlining is indicated and an attempt has been made to 
+                disambiguate hands. Underlining is marked using the <gi>seg</gi> element, for example, <egXML xmlns="http://www.tei-c.org/ns/Examples"><seg rend="underline" hand="2"/></egXML></p>
+               <p>In the Author's Epigram, text is marked with vertical bars along the left margin, this is marked as a note. In the Preface to the Reader, a long margin note is grouped using a long brace which is encoded
+                    using a <att>rend</att> attribute on the note.</p>
+                <p>Margin notes contain some alchemical symbols, which are itemized in the Character Declaration below.</p>
+            </editorialDecl>
+            
+            <charDecl>
+                <glyph xml:id="antimony">
+                    <glyphName>EARTH</glyphName>
+                    <desc>circle with a cross on the top of it</desc>
+                    <mapping type="printed">♁</mapping>
+                    <mapping type="PUA">U+2641</mapping>
+                </glyph>
+                <glyph xml:id="iron">
+                    <glyphName>MALE SIGN</glyphName>
+                    <desc>circle with an arrow pointing diagonally up</desc>
+                    <mapping type="printed">♂</mapping>
+                    <mapping type="PUA">U+2642</mapping>
+                </glyph>
+                 <glyph xml:id="sulphur">
+                     <glyphName>ALCHEMICAL SYMBOL FOR SULPHUR</glyphName>
+                    <desc>downward triangle with cross on top</desc>
+                    <mapping type="printed">🜍</mapping>
+                    <mapping type="PUA">U+1F70D</mapping>
+                </glyph>
+            </charDecl>
+            
+        </encodingDesc>
+        
+        </teiHeader>
+    
+    <facsimile>
+        <graphic url="https://brbl-zoom.library.yale.edu/viewer/15959813" xml:id="p020"/>
+        <graphic url="https://brbl-zoom.library.yale.edu/viewer/15959814" xml:id="p021"/>
+        <graphic url="https://brbl-zoom.library.yale.edu/viewer/15959815" xml:id="p022"/>
+    </facsimile>
     
     <text>
         <body>
             <div type="emblem" n="e05">
-                <pb n="20"/>
+                <pb n="20" edRef="BeineckeMellon48" facs="#p020"/>
                 
                 
                 <div type="title" xml:lang="en">
-                    <milestone unit="page" ed="Meier" n="029"/>
+                    <milestone unit="page" ed="Meier1618" n="029"/>
                     <head rend="italic">
                         <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 5. Of the Secrets of Nature.
                     </head>
@@ -49,77 +136,77 @@
                 </div>
                 
                 
-                <pb n="21"/> 
+                <pb n="21" edRef="BeineckeMellon48" facs="#p021"/> 
                 <div type="discourse" xml:lang="en">
-                    <milestone unit="page" ed="Meier" n="030"/>
+                    <milestone unit="page" ed="Meier1618" n="030"/>
                     <head rend="italic">Discourse 5.</head>
                     <div type="discourse-p1"><ab> 
-                        <lb/><milestone unit="section" n="e05-01" />The whole troop of <del>the</del> Philosophers <choice><orig>doe</orig><reg>do</reg></choice> herein consent, that their <choice><orig>worke</orig><reg>work</reg></choice> is <pc>-</pc> 
+                        <lb/><milestone unit="section" n="e05-01"/>The whole troop of <del>the</del> Philosophers <choice><orig>doe</orig><reg>do</reg></choice> herein consent, that their <choice><orig>worke</orig><reg>work</reg></choice> is <pc>-</pc> 
                         <lb/>nothing <choice><orig>els</orig><reg>else</reg></choice>, but man and wife: the mans part is indeed to generate, and <choice><orig>governe</orig><reg>govern</reg></choice> <pc>-</pc>
                         <lb/>the wife, hers to conceive, be <choice><orig>imprægnated</orig><reg>impregnated</reg></choice>, bring forth, give <choice><orig>sucke</orig><reg>suck</reg></choice>, and educate
-                        <lb/>the offspring, and be subject to the mans <choice><orig>coḿand</orig><reg>command</reg></choice>: <milestone unit="section" n="e05-02" />for as <choice><orig>Shee</orig><reg>She</reg></choice> <choice><orig>sustaines</orig><reg>sustains</reg></choice> and <pc>-</pc>
+                        <lb/>the offspring, and be subject to the mans <choice><orig>coḿand</orig><reg>command</reg></choice>: <milestone unit="section" n="e05-02"/>for as <choice><orig>Shee</orig><reg>She</reg></choice> <choice><orig>sustaines</orig><reg>sustains</reg></choice> and <pc>-</pc>
                         <lb/><choice><orig>nourisheth</orig><reg>nourishes</reg></choice> the conceived Embryo, before it be brought to light, with blood, <choice><orig>soe</orig><reg>so</reg></choice>
-                        <lb/>being brought forth with <choice><orig>milke</orig><reg>milk</reg></choice>. <milestone unit="section" n="e05-03" />To this end Nature <choice><orig>hath</orig><reg>has</reg></choice> <choice><orig>præpared</orig><reg>prepared</reg></choice> for the <pc>-</pc>
+                        <lb/>being brought forth with <choice><orig>milke</orig><reg>milk</reg></choice>. <milestone unit="section" n="e05-03"/>To this end Nature <choice><orig>hath</orig><reg>has</reg></choice> <choice><orig>præpared</orig><reg>prepared</reg></choice> for the <pc>-</pc>
                         <lb/>tender infant a digestible and proportioned food in the mothers breasts, which <pc>-</pc>
                         <lb/>waits his coming, as the first provision and viaticum in this race of the world:
-                        <lb/><milestone unit="section" n="e05-04" />by <choice><orig>milke</orig><reg>milk</reg></choice> therefore <choice><orig>hee</orig><reg>he</reg></choice> is nourished, <choice><orig>growes</orig><reg>grows</reg></choice>, and is increased, till <choice><orig>hee</orig><reg>he</reg></choice> be furnished
+                        <lb/><milestone unit="section" n="e05-04"/>by <choice><orig>milke</orig><reg>milk</reg></choice> therefore <choice><orig>hee</orig><reg>he</reg></choice> is nourished, <choice><orig>growes</orig><reg>grows</reg></choice>, and is increased, till <choice><orig>hee</orig><reg>he</reg></choice> be furnished
                         <lb/>with instruments to chaw bread, that is, teeth, then is <choice><orig>hee</orig><reg>he</reg></choice> deservedly weaned, be
-                        <lb break="no"/>cause nature <choice><orig>hath</orig><reg>has</reg></choice> provided him other nutriment more solid: <milestone unit="section" n="e05-05" />But here the Phi
+                        <lb break="no"/>cause nature <choice><orig>hath</orig><reg>has</reg></choice> provided him other nutriment more solid: <milestone unit="section" n="e05-05"/>But here the Phi
                         <lb break="no"/>losophers say, that a Toad must be put to the womans breasts, that <choice><orig>Shee</orig><reg>She</reg></choice> may <pc>-</pc>
-                        <lb/>nourish it, as an infant, with her <choice><orig>milke</orig><reg>milk</reg></choice>: <milestone unit="section" n="e05-06" />This is a miserable and horrible spectacle,
+                        <lb/>nourish it, as an infant, with her <choice><orig>milke</orig><reg>milk</reg></choice>: <milestone unit="section" n="e05-06"/>This is a miserable and horrible spectacle,
                         <lb/>yea and a wicked thing, that <choice><orig>milke</orig><reg>milk</reg></choice> designed for an infant Should be given to a
-                        <lb/>Toad, being a venomous beast, and contrary to the nature of man: <milestone unit="section" n="e05-07" /><choice><orig>Wee</orig><reg>We</reg></choice> have
+                        <lb/>Toad, being a venomous beast, and contrary to the nature of man: <milestone unit="section" n="e05-07"/><choice><orig>Wee</orig><reg>We</reg></choice> have
                         <lb/>heard and read of Serpents and Dragons sucking the teats of <choice><orig>Cowes</orig><reg>Cows</reg></choice>: Toads might
-                        <lb/>perhaps desire the same thing, if occasion Should be offered in beasts. <milestone unit="section" n="e05-08" />There is a <pc>-</pc>
+                        <lb/>perhaps desire the same thing, if occasion Should be offered in beasts. <milestone unit="section" n="e05-08"/>There is a <pc>-</pc>
                         <lb/>noted story of a Toad, who seated <choice><orig>himselfe</orig><reg>himself</reg></choice> upon the mouth, and inside of the <pc>-</pc>
                         <lb/><choice><orig>lipps</orig><reg>lips</reg></choice> of a <choice><orig>certaine</orig><reg>certain</reg></choice> countryman being asleep, <choice><orig>soe</orig><reg>so</reg></choice> that <choice><orig>hee</orig><reg>he</reg></choice> could not be driven <choice><orig>of</orig><reg>off</reg></choice> <pc>-</pc>
                         <lb/>by any contrivance, <choice><orig>unlesse</orig><reg>unless</reg></choice> by violence, which being <choice><orig>accompanyd</orig><reg>accompanied</reg></choice> with danger of
                         <lb/>death, by the spitting of <choice><orig>poyson</orig><reg>poison</reg></choice> (which <choice><orig>hee</orig><reg>he</reg></choice> is <choice><orig>sayd</orig><reg>said</reg></choice> to use for defensive or offensive
-                        <lb/>weapons) was therefore not to be attempted; <milestone unit="section" n="e05-09" />but a remedy being found for the <pc>-</pc>
+                        <lb/>weapons) was therefore not to be attempted; <milestone unit="section" n="e05-09"/>but a remedy being found for the <pc>-</pc>
                         <lb/>miserable man by antipathy, namely, of a very great Spider and the Toad,
-                        <lb/>who hate one another mortally, <milestone unit="section" n="e05-10" /><choice><orig>hee</orig><reg>he</reg></choice> was therefore <choice><orig>carryd</orig><reg>carried</reg></choice> with the Toad di
+                        <lb/>who hate one another mortally, <milestone unit="section" n="e05-10"/><choice><orig>hee</orig><reg>he</reg></choice> was therefore <choice><orig>carryd</orig><reg>carried</reg></choice> with the Toad di
                         <lb break="no"/>rectly to the place, where an over<subst><del>come</del><add><choice><orig>growne</orig><reg>grown</reg></choice></add></subst> Spider had made its webs, which <pc>-</pc>
                         <lb/><choice><orig>seing</orig><reg>seeing</reg></choice> the Toad, <choice><orig>præsently</orig><reg>presently</reg></choice> came <choice><orig>downe</orig><reg>down</reg></choice> upon the <choice><orig>backe</orig><reg>back</reg></choice> of the Toad, and
-                        <lb/><choice><orig>prickd</orig><reg>pricked</reg></choice> him with its sting: <milestone unit="section" n="e05-11" />but <choice><orig>hee</orig><reg>he</reg></choice> having received <choice><orig>noe</orig><reg>no</reg></choice> <choice><orig>harme</orig><reg>harm</reg></choice> thereby, it
+                        <lb/><choice><orig>prickd</orig><reg>pricked</reg></choice> him with its sting: <milestone unit="section" n="e05-11"/>but <choice><orig>hee</orig><reg>he</reg></choice> having received <choice><orig>noe</orig><reg>no</reg></choice> <choice><orig>harme</orig><reg>harm</reg></choice> thereby, it
                         <lb/>descended a second time, and <choice><orig>strucke</orig><reg>struck</reg></choice> him <choice><orig>againe</orig><reg>again</reg></choice> more strongly, where
                         <lb break="no"/>upon the Toad began <choice><orig>iḿediately</orig><reg>immediately</reg></choice> to swell, and fell <choice><orig>downe</orig><reg>down</reg></choice> dead from the
-                        <lb/>mans mouth, without any hurt to him. <milestone unit="section" n="e05-12" />But here a thing contrary happens, be
+                        <lb/>mans mouth, without any hurt to him. <milestone unit="section" n="e05-12"/>But here a thing contrary happens, be
                         <lb break="no"/>cause the Toad <choice><orig>seizeth</orig><reg>seizes</reg></choice> not the mouth but the breast of the woman, by whose <choice><orig>milke</orig><reg>milk</reg></choice> <choice><orig>hee</orig><reg>he</reg></choice>
-                        <lb/><choice><orig>increaseth</orig><reg>increases</reg></choice> <choice><orig>soe</orig><reg>so</reg></choice> as to be of great magnitude and strength, <milestone unit="section" n="e05-13" />but the woman consumes <pc>-</pc>
-                        <lb/>and <choice><orig>dyes</orig><reg>dies</reg></choice> her spirits being taken away: for <choice><orig>poyson</orig><reg>poison</reg></choice> is easily <choice><orig>coḿunicated</orig><reg>communicated</reg></choice> by the </ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier" n="031"/><choice><orig>pec
+                        <lb/><choice><orig>increaseth</orig><reg>increases</reg></choice> <choice><orig>soe</orig><reg>so</reg></choice> as to be of great magnitude and strength, <milestone unit="section" n="e05-13"/>but the woman consumes <pc>-</pc>
+                        <lb/>and <choice><orig>dyes</orig><reg>dies</reg></choice> her spirits being taken away: for <choice><orig>poyson</orig><reg>poison</reg></choice> is easily <choice><orig>coḿunicated</orig><reg>communicated</reg></choice> by the </ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier1618" n="031"/><choice><orig>pec
                         <lb break="no"/>torall</orig><reg>pectoral</reg></choice> veins to the heart, and corrupts and <choice><orig>destroyes</orig><reg>destroys</reg></choice> it, as it is evident in the case of
                         <lb/>Cleopatra, who <choice><orig>applyed</orig><reg>applied</reg></choice> Vipers to her breasts, being willing to be <choice><orig>prævented</orig><reg>prevented</reg></choice> by vo<note place="margin">Theophilus in<lb/>Turba makes men<lb break="no"/>tion of a Dragon<lb/><choice><orig>joynd</orig><reg>joined</reg></choice> to a woman.-</note>
                         <lb break="no"/>luntary death from being led alive into the hands and triumphs of the <choice><orig>con
-                        <lb break="no"/>querours</orig><reg>conquerors</reg></choice>: <milestone unit="section" n="e05-14" />But lest any man should <choice><orig>thinke</orig><reg>think</reg></choice> the Philosophers <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>cruell</orig><reg>cruel</reg></choice>, as to <choice><orig>en
+                        <lb break="no"/>querours</orig><reg>conquerors</reg></choice>: <milestone unit="section" n="e05-14"/>But lest any man should <choice><orig>thinke</orig><reg>think</reg></choice> the Philosophers <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>cruell</orig><reg>cruel</reg></choice>, as to <choice><orig>en
                         <lb break="no"/>joyne</orig><reg>enjoin</reg></choice> a venomous reptile to be put to a woman, <choice><orig>hee</orig><reg>he</reg></choice> must know that this Toad
                         <lb/>is the offspring or <choice><orig>Sonne</orig><reg>Son</reg></choice> of the same woman, produced by a monstrous birth,
                         <lb/>and therefore by <choice><orig>naturall</orig><reg>natural</reg></choice> right ought to be fed and nourished by the mothers
-                        <lb/><choice><orig>milke</orig><reg>milk</reg></choice>, but it is not in the will of the <choice><orig>Sonne</orig><reg>Son</reg></choice> that the mother should <choice><orig>dye</orig><reg>die</reg></choice>: <milestone unit="section" n="e05-15" />for
+                        <lb/><choice><orig>milke</orig><reg>milk</reg></choice>, but it is not in the will of the <choice><orig>Sonne</orig><reg>Son</reg></choice> that the mother should <choice><orig>dye</orig><reg>die</reg></choice>: <milestone unit="section" n="e05-15"/>for
                         <lb/>neither could <choice><orig>hee</orig><reg>he</reg></choice> infect his mother, who was coagulated in her <choice><orig>bowells</orig><reg>bowels</reg></choice>, and <pc>-</pc>
-                        <lb/> increased by blood even to birth. <milestone unit="section" n="e05-16" />It is indeed a thing ominous for a Toad
+                        <lb/> increased by blood even to birth. <milestone unit="section" n="e05-16"/>It is indeed a thing ominous for a Toad
                         <lb/>to be <choice><orig>borne</orig><reg>born</reg></choice> of a woman, which in our knowledge <choice><orig>hath</orig><reg>has</reg></choice> happened <choice><orig>elswhere</orig><reg>elsewhere</reg></choice>:
                         
                         
                         
-                        <pb n="22"/><fw rend="italic">Discourse 5.</fw>
+                        <pb n="22" edRef="BeineckeMellon48" facs="#p022"/><fw rend="italic">Discourse 5.</fw>
                         <lb/>Guilielmus Novobrigensis, an English writer, in his <choice><orig>coḿentaryes</orig><reg>commentaries</reg></choice> <choice><orig>sayth</orig><reg>says</reg></choice> (how <pc>-</pc>
                         <lb/><choice><orig>truely</orig><reg>truly</reg></choice> let others judge) that in a <choice><orig>certaine</orig><reg>certain</reg></choice> <choice><orig>Stone<pc rend="double-hyphen">-</pc>quarry</orig><reg>Stone quarry</reg></choice> in the Diocesse of the <pc>-</pc>
                         <lb/>Bishop of Winchester, a great stone being divided, there was within found a living
                         <lb/>Toad with a golden <choice><orig>chaine</orig><reg>chain</reg></choice>, and it was by the Bishops <choice><orig>coḿand</orig><reg>command</reg></choice> hidden in the <pc>-</pc>
                         <lb/>same place, and <choice><orig>buryd</orig><reg>buried</reg></choice> in <choice><orig>perpetuall</orig><reg>perpetual</reg></choice> <choice><orig>darknesse</orig><reg>darkness</reg></choice>, lest it might bear an ill omen <pc>-</pc>
-                        <lb/>with it: <milestone unit="section" n="e05-17" />Such is <choice><orig>allso</orig><reg>also</reg></choice> this Toad: for it is <choice><orig>apparelled</orig><reg>appareled</reg></choice> with gold, though not <choice><orig>extrin
+                        <lb/>with it: <milestone unit="section" n="e05-17"/>Such is <choice><orig>allso</orig><reg>also</reg></choice> this Toad: for it is <choice><orig>apparelled</orig><reg>appareled</reg></choice> with gold, though not <choice><orig>extrin
                         <lb break="no"/>secally</orig><reg>extrinsically</reg></choice>, with the <choice><orig>artificiall</orig><reg>artificial</reg></choice> <choice><orig>worke</orig><reg>work</reg></choice> of a <choice><orig>chaine</orig><reg>chain</reg></choice>, yet <choice><orig>intrisecally</orig><reg>intrinsically</reg></choice> with a <choice><orig>naturall</orig><reg>natural</reg></choice>,
                         <lb/>namely of a Stone, which some call Borax, Chelonitis, Batrachites, Crapaudina,
-                        <lb/>or Garatronium: <milestone unit="section" n="e05-18" />for this <choice><orig>farre</orig><reg>far</reg></choice> <choice><orig>excells</orig><reg>excels</reg></choice> gold in virtue against all <choice><orig>poysons</orig><reg>poisons</reg></choice> whatsoe
+                        <lb/>or Garatronium: <milestone unit="section" n="e05-18"/>for this <choice><orig>farre</orig><reg>far</reg></choice> <choice><orig>excells</orig><reg>excels</reg></choice> gold in virtue against all <choice><orig>poysons</orig><reg>poisons</reg></choice> whatsoe
                         <lb break="no"/>ver of <choice><orig>animalls</orig><reg>animals</reg></choice>, and is <choice><orig>coḿonly</orig><reg>commonly</reg></choice> <choice><orig>sett</orig><reg>set</reg></choice> in gold, as a case or cover, that it may <pc>-</pc>
-                        <lb/>not be hurt or lost. <milestone unit="section" n="e05-19" />But it ought to be legitimate <add>being</add> had out of <subst><del>the</del><add>an</add></subst><choice><orig>animall</orig><reg>animal</reg></choice>, but if
+                        <lb/>not be hurt or lost. <milestone unit="section" n="e05-19"/>But it ought to be legitimate <add>being</add> had out of <subst><del>the</del><add>an</add></subst><choice><orig>animall</orig><reg>animal</reg></choice>, but if
                         <lb/>it be <choice><orig>pickd</orig><reg>picked</reg></choice> out of subterranean trenches, as <choice><orig>coḿonly</orig><reg>commonly</reg></choice> it is, the Stone taken up <pc>-</pc>
                         <lb/>may be made neat in the <choice><orig>forme</orig><reg>form</reg></choice> of it, and used instead thereof with the best
-                        <lb/><choice><orig>mineralls</orig><reg>minerals</reg></choice>, <choice><orig>releiving</orig><reg>relieving</reg></choice> and comforting the heart: <milestone unit="section" n="e05-20" />for <add>here</add> in <del>these</del><add>is</add> the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice>
+                        <lb/><choice><orig>mineralls</orig><reg>minerals</reg></choice>, <choice><orig>releiving</orig><reg>relieving</reg></choice> and comforting the heart: <milestone unit="section" n="e05-20"/>for <add>here</add> in <del>these</del><add>is</add> the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice>
                             <lb/>Toad <subst><del>is indeed</del><add>really</add></subst> found, not in a <choice><orig>Stone<pc rend="double-hyphen">-</pc>quarry</orig><reg>Stone quarry</reg></choice> (as that fabler affirms) and <choice><orig>hath</orig><reg>has</reg></choice>
                         <lb/>gold in him, not outwardly for <choice><orig>pompe</orig><reg>pomp</reg></choice>: for to what end should a Toad <choice><orig>adorne</orig><reg>adorn</reg></choice>
-                        <lb/><choice><orig>himselfe</orig><reg>himself</reg></choice>, lurking in <choice><orig>darkenesse</orig><reg>darkness</reg></choice> and secret places?  <milestone unit="section" n="e05-21" />that <choice><orig>hee</orig><reg>he</reg></choice> might perhaps <pc>-</pc>
-                        <lb/>be magnificently saluted by a Beetle, if it <choice><orig>mett</orig><reg>met</reg></choice> him in the <choice><orig>twylight</orig><reg>twilight</reg></choice>? <milestone unit="section" n="e05-22" />what
+                        <lb/><choice><orig>himselfe</orig><reg>himself</reg></choice>, lurking in <choice><orig>darkenesse</orig><reg>darkness</reg></choice> and secret places?  <milestone unit="section" n="e05-21"/>that <choice><orig>hee</orig><reg>he</reg></choice> might perhaps <pc>-</pc>
+                        <lb/>be magnificently saluted by a Beetle, if it <choice><orig>mett</orig><reg>met</reg></choice> him in the <choice><orig>twylight</orig><reg>twilight</reg></choice>? <milestone unit="section" n="e05-22"/>what
                         <lb/>subterranean Goldsmith should make him a golden <choice><orig>chayne</orig><reg>chain</reg></choice>? the father <pc>-</pc>
                         <lb/>perhaps of the green <choice><orig>boyes</orig><reg>boys</reg></choice>, which came out of the land of St Martin, yea <pc>-</pc>
                             <lb/>out of the earth <choice><orig>itselfe</orig><reg>itself</reg></choice>, as <choice><orig>allso</orig><reg>also</reg></choice> two <choice><orig>doggs</orig><reg>dogs</reg></choice> out of the <choice><orig>Stone<pc rend="double-hyphen">-</pc>quarry</orig><reg>Stone quarry</reg></choice>, asserted
@@ -131,4 +218,3 @@
         </body>
     </text>
 </TEI>
-

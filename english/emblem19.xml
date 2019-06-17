@@ -1,30 +1,117 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Title</title>
+       <fileDesc>
+           
+        <titleStmt>
+                    <title>Atalanta Fugiens (digital transcription). Emblem 19.</title>
+                <principal ref="http://viaf.org/viaf/32331303">Tara Nummedal</principal>
+                <principal>Donna Bilak</principal>
+                <respStmt>
+                    <resp>Transcription and TEI Encoding</resp>
+                    <persName>George Elliot</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Editorial Oversight and Proofreading</resp>
+                    <persName>Donna Bilak</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI encoding oversight</resp>
+                    <persName ref="https://orcid.org/0000-0002-0215-4324">Elli Mylonas</persName>
+                </respStmt>
             </titleStmt>
-            <publicationStmt>
-                <p>Publication Information</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Information about the source</p>
-            </sourceDesc>
+           
+        <editionStmt>
+            <edition>Transcription and Encoding completed <date>2019-05-20</date></edition>
+        </editionStmt>
+           
+           <publicationStmt>
+            <authority>Brown University</authority>
+            <availability status="free">
+                <licence>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+                    <ref target="http://creativecommons.org/licenses/by-nc/4.0/">Distributed under a Creative Commons licence Attribution-BY-NC 4.0</ref>
+                </licence>
+            </availability>
+        </publicationStmt>
+           
+           <sourceDesc>
+                 <biblStruct type="manuscript">
+                    <monogr>
+                        <title level="m">Atalanta running, that is, new chymicall emblems relating
+                            to the secrets of nature</title>
+                        <author><forename>Michael</forename><surname>Maier</surname></author>
+                        <idno type="Beinecke">Mellon MS. 88</idno>
+                        <imprint>
+                            <pubPlace>England (?)</pubPlace>
+                            <date>[1618 or after]</date>
+                            <note type="url">https://brbl-dl.library.yale.edu/vufind/Record/4262893</note>
+                        </imprint>
+                        <extent>86 pp.</extent>
+                    </monogr>
+                </biblStruct>
+        </sourceDesc>
         </fileDesc>
-    </teiHeader>
+            
+        <encodingDesc>
+            <projectDesc><p>This text has been transcribed and encoded using the TEI for Tara Nummedal and Donna Bilak’s <title>Furnace and Fugue: A Digital Edition of Michael Maier’s Atalanta fugiens (1618) with Scholarly Commentary</title>, part of Brown University’s Digital Publications Initiative, funded by the Andrew W. Mellon Foundation.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>This transcription includes all text in the Beinecke library Mellon MS. 88 (English Translation of Michael Meier's Atalanta Fugiens).</p>
+                <p>All line breaks are indicated using the <gi>lb</gi> element. Hyphenation is marked with the <att>break</att> attribute.
+                    This manuscript has hyphens filling out lines at the right margin, as well as at the end of a page. These are marked as punctuation using
+                     the <gi>pc</gi> element. Pagination as printed is encoded using <gi>fw</gi>. <gi>pb</gi> elements 
+                     provide the page number in a canonical form. Page breaks in the original Meier printed text are also inserted and have been marked with a <gi>milestone</gi> element 
+                    <egXML xmlns="http://www.tei-c.org/ns/Examples"><milestone unit="page" ed="Meier" n="037"/></egXML></p>
+                <p>Within the discourse section of each element, <gi>ab</gi> are used to group text that appears on each page of the equivalent Meier edition. This is useful when
+                formatting a side-by-side edition, but can be ignored otherwise.</p>
+                <p>Archaic spellings have been modernized throughout, using <gi>orig</gi>/<gi>reg</gi> pairs.</p>
+                <p>Strikeouts and additions have been marked using <gi>subst</gi>, <gi>add</gi> and <gi>del</gi> elements.</p>
+                <p>This manuscript has underlining in a variety of hands. Underlining is indicated and an attempt has been made to 
+                disambiguate hands. Underlining is marked using the <gi>seg</gi> element, for example, <egXML xmlns="http://www.tei-c.org/ns/Examples"><seg rend="underline" hand="2"/></egXML></p>
+               <p>In the Author's Epigram, text is marked with vertical bars along the left margin, this is marked as a note. In the Preface to the Reader, a long margin note is grouped using a long brace which is encoded
+                    using a <att>rend</att> attribute on the note.</p>
+                <p>Margin notes contain some alchemical symbols, which are itemized in the Character Declaration below.</p>
+            </editorialDecl>
+            
+            <charDecl>
+                <glyph xml:id="antimony">
+                    <glyphName>EARTH</glyphName>
+                    <desc>circle with a cross on the top of it</desc>
+                    <mapping type="printed">♁</mapping>
+                    <mapping type="PUA">U+2641</mapping>
+                </glyph>
+                <glyph xml:id="iron">
+                    <glyphName>MALE SIGN</glyphName>
+                    <desc>circle with an arrow pointing diagonally up</desc>
+                    <mapping type="printed">♂</mapping>
+                    <mapping type="PUA">U+2642</mapping>
+                </glyph>
+                 <glyph xml:id="sulphur">
+                     <glyphName>ALCHEMICAL SYMBOL FOR SULPHUR</glyphName>
+                    <desc>downward triangle with cross on top</desc>
+                    <mapping type="printed">🜍</mapping>
+                    <mapping type="PUA">U+1F70D</mapping>
+                </glyph>
+            </charDecl>
+            
+        </encodingDesc>
+        
+        </teiHeader>
+    
+    <facsimile>
+        <graphic url="https://brbl-zoom.library.yale.edu/viewer/15959855" xml:id="p062"/>
+        <graphic url="https://brbl-zoom.library.yale.edu/viewer/15959856" xml:id="p063"/>
+        <graphic url="https://brbl-zoom.library.yale.edu/viewer/15959857" xml:id="p064"/>
+    </facsimile>
     
     <text>
         <body>
             <div type="emblem" n="e19">
-                <pb n="62"/>
+                <pb n="62" edRef="BeineckeMellon48" facs="#p062"/>
                 
                 
                 <div type="title" xml:lang="en">
-                    <milestone unit="page" ed="Meier" n="085"/>
+                    <milestone unit="page" ed="Meier1618" n="085"/>
                     <head rend="italic">
                         <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 19. Of the Secrets of Nature.
                         </head>
@@ -47,12 +134,12 @@
                 </div>
                 
                 
-                <pb n="63"/> 
+                <pb n="63" edRef="BeineckeMellon48" facs="#p063"/> 
                 <div type="discourse" xml:lang="en">
-                    <milestone unit="page" ed="Meier" n="086"/>
+                    <milestone unit="page" ed="Meier1618" n="086"/>
                     <head rend="italic">Discourse 19.</head>
                     <div type="discourse-p1"><ab> 
-                        <lb/>The <choice><orig>Poetts</orig><reg>Poets</reg></choice> <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>feigne</orig><reg>feign</reg></choice> Geryon King of <choice><orig>Spayne</orig><reg>Spain</reg></choice> to have been <choice><orig>tricorporeall</orig><reg>tricorporeal</reg></choice>, <pc>-</pc><milestone unit="section" n="e19-01" /> 
+                        <lb/>The <choice><orig>Poetts</orig><reg>Poets</reg></choice> <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>feigne</orig><reg>feign</reg></choice> Geryon King of <choice><orig>Spayne</orig><reg>Spain</reg></choice> to have been <choice><orig>tricorporeall</orig><reg>tricorporeal</reg></choice>, <pc>-</pc><milestone unit="section" n="e19-01"/> 
                         <lb/>who had oxen of a purple <choice><orig>colour</orig><reg>color</reg></choice>, which a <choice><orig>dogge</orig><reg>dog</reg></choice> with two heads, and a Dragon
                         <lb/>with seven were <choice><orig>chargd</orig><reg>charged</reg></choice> with as warders: and the same Geryon is reported to be
                         <lb/>the <choice><orig>Sonne</orig><reg>Son</reg></choice> of Chrysaor sprung from the blood of Medusa, and that Dragon the <pc>-</pc>
@@ -86,7 +173,7 @@
                         <lb/>of life being <choice><orig>borne</orig><reg>born</reg></choice> at one birth both by father and mother, as <choice><orig>wee</orig><reg>we</reg></choice> <pc>-</pc>
                         <lb/>have read has happened to some, perhaps by the inclination of the
                         <lb/><choice><orig>starrs</orig><reg>stars</reg></choice>, or by being <choice><orig>joyned</orig><reg>joined</reg></choice> together not <choice><orig>onely</orig><reg>only</reg></choice> in <choice><orig>soules</orig><reg>souls</reg></choice>, but <choice><orig>allso</orig><reg>also</reg></choice> ligaments
-                        <lb/>of the body, or by </ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier" n="067"/>consternation of mind, by strong imagination in time
+                        <lb/>of the body, or by </ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier1618" n="067"/>consternation of mind, by strong imagination in time
                         <lb/>of pestilence, or by the vow of a league: A <choice><orig>certaine</orig><reg>certain</reg></choice> heathenish people
                         <lb/><choice><orig>livd</orig><reg>lived</reg></choice> by the name of Pythagoreans in the <choice><orig>Indyes</orig><reg>Indies</reg></choice> under the govern
                         <lb break="no"/>ment of the great <choice><orig>Mogull</orig><reg>Mogul</reg></choice> (who now reigns there the nineth of the <pc>-</pc>
@@ -98,7 +185,7 @@
                         
                         
                         
-                        <pb n="64"/><fw rend="italic">Discourse 19.</fw>
+                        <pb n="64" edRef="BeineckeMellon48" facs="#p064"/><fw rend="italic">Discourse 19.</fw>
                         <lb/>they were willing to <choice><orig>dye</orig><reg>die</reg></choice>: <choice><orig>Soe</orig><reg>So</reg></choice> in the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> <choice><orig>worke</orig><reg>work</reg></choice>, one of the bre
                         <lb break="no"/>thren being dead, the other <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> perish by fire, not compulsively, but
                         <lb/>voluntarily, that they may not survive in sorrow and infamy: or if one be
@@ -131,4 +218,3 @@
         </body>
     </text>
 </TEI>
-

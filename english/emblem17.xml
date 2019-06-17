@@ -1,30 +1,117 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Title</title>
+       <fileDesc>
+           
+        <titleStmt>
+                    <title>Atalanta Fugiens (digital transcription). Emblem 17.</title>
+                <principal ref="http://viaf.org/viaf/32331303">Tara Nummedal</principal>
+                <principal>Donna Bilak</principal>
+                <respStmt>
+                    <resp>Transcription and TEI Encoding</resp>
+                    <persName>George Elliot</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Editorial Oversight and Proofreading</resp>
+                    <persName>Donna Bilak</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI encoding oversight</resp>
+                    <persName ref="https://orcid.org/0000-0002-0215-4324">Elli Mylonas</persName>
+                </respStmt>
             </titleStmt>
-            <publicationStmt>
-                <p>Publication Information</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Information about the source</p>
-            </sourceDesc>
+           
+        <editionStmt>
+            <edition>Transcription and Encoding completed <date>2019-05-20</date></edition>
+        </editionStmt>
+           
+           <publicationStmt>
+            <authority>Brown University</authority>
+            <availability status="free">
+                <licence>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+                    <ref target="http://creativecommons.org/licenses/by-nc/4.0/">Distributed under a Creative Commons licence Attribution-BY-NC 4.0</ref>
+                </licence>
+            </availability>
+        </publicationStmt>
+           
+           <sourceDesc>
+                 <biblStruct type="manuscript">
+                    <monogr>
+                        <title level="m">Atalanta running, that is, new chymicall emblems relating
+                            to the secrets of nature</title>
+                        <author><forename>Michael</forename><surname>Maier</surname></author>
+                        <idno type="Beinecke">Mellon MS. 88</idno>
+                        <imprint>
+                            <pubPlace>England (?)</pubPlace>
+                            <date>[1618 or after]</date>
+                            <note type="url">https://brbl-dl.library.yale.edu/vufind/Record/4262893</note>
+                        </imprint>
+                        <extent>86 pp.</extent>
+                    </monogr>
+                </biblStruct>
+        </sourceDesc>
         </fileDesc>
-    </teiHeader>
+            
+        <encodingDesc>
+            <projectDesc><p>This text has been transcribed and encoded using the TEI for Tara Nummedal and Donna Bilak’s <title>Furnace and Fugue: A Digital Edition of Michael Maier’s Atalanta fugiens (1618) with Scholarly Commentary</title>, part of Brown University’s Digital Publications Initiative, funded by the Andrew W. Mellon Foundation.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>This transcription includes all text in the Beinecke library Mellon MS. 88 (English Translation of Michael Meier's Atalanta Fugiens).</p>
+                <p>All line breaks are indicated using the <gi>lb</gi> element. Hyphenation is marked with the <att>break</att> attribute.
+                    This manuscript has hyphens filling out lines at the right margin, as well as at the end of a page. These are marked as punctuation using
+                     the <gi>pc</gi> element. Pagination as printed is encoded using <gi>fw</gi>. <gi>pb</gi> elements 
+                     provide the page number in a canonical form. Page breaks in the original Meier printed text are also inserted and have been marked with a <gi>milestone</gi> element 
+                    <egXML xmlns="http://www.tei-c.org/ns/Examples"><milestone unit="page" ed="Meier" n="037"/></egXML></p>
+                <p>Within the discourse section of each element, <gi>ab</gi> are used to group text that appears on each page of the equivalent Meier edition. This is useful when
+                formatting a side-by-side edition, but can be ignored otherwise.</p>
+                <p>Archaic spellings have been modernized throughout, using <gi>orig</gi>/<gi>reg</gi> pairs.</p>
+                <p>Strikeouts and additions have been marked using <gi>subst</gi>, <gi>add</gi> and <gi>del</gi> elements.</p>
+                <p>This manuscript has underlining in a variety of hands. Underlining is indicated and an attempt has been made to 
+                disambiguate hands. Underlining is marked using the <gi>seg</gi> element, for example, <egXML xmlns="http://www.tei-c.org/ns/Examples"><seg rend="underline" hand="2"/></egXML></p>
+               <p>In the Author's Epigram, text is marked with vertical bars along the left margin, this is marked as a note. In the Preface to the Reader, a long margin note is grouped using a long brace which is encoded
+                    using a <att>rend</att> attribute on the note.</p>
+                <p>Margin notes contain some alchemical symbols, which are itemized in the Character Declaration below.</p>
+            </editorialDecl>
+            
+            <charDecl>
+                <glyph xml:id="antimony">
+                    <glyphName>EARTH</glyphName>
+                    <desc>circle with a cross on the top of it</desc>
+                    <mapping type="printed">♁</mapping>
+                    <mapping type="PUA">U+2641</mapping>
+                </glyph>
+                <glyph xml:id="iron">
+                    <glyphName>MALE SIGN</glyphName>
+                    <desc>circle with an arrow pointing diagonally up</desc>
+                    <mapping type="printed">♂</mapping>
+                    <mapping type="PUA">U+2642</mapping>
+                </glyph>
+                 <glyph xml:id="sulphur">
+                     <glyphName>ALCHEMICAL SYMBOL FOR SULPHUR</glyphName>
+                    <desc>downward triangle with cross on top</desc>
+                    <mapping type="printed">🜍</mapping>
+                    <mapping type="PUA">U+1F70D</mapping>
+                </glyph>
+            </charDecl>
+            
+        </encodingDesc>
+        
+        </teiHeader>
+    
+    <facsimile>
+        <graphic url="https://brbl-zoom.library.yale.edu/viewer/15959849" xml:id="p056"/>
+        <graphic url="https://brbl-zoom.library.yale.edu/viewer/15959850" xml:id="p057"/>
+        <graphic url="https://brbl-zoom.library.yale.edu/viewer/15959851" xml:id="p058"/>
+    </facsimile>
     
     <text>
         <body>
             <div type="emblem" n="e17">
-                <pb n="56"/>
+                <pb n="56" edRef="BeineckeMellon48" facs="#p056"/>
                 
                 
                 <div type="title" xml:lang="en">
-                    <milestone unit="page" ed="Meier" n="077"/>
+                    <milestone unit="page" ed="Meier1618" n="077"/>
                     <head rend="italic">
                         <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 17. Of the Secrets of Nature.
                         </head>
@@ -47,12 +134,12 @@
                 </div>
                 
                 
-                <pb n="57"/> 
+                <pb n="57" edRef="BeineckeMellon48" facs="#p057"/> 
                 <div type="discourse" xml:lang="en">
-                    <milestone unit="page" ed="Meier" n="078"/>
+                    <milestone unit="page" ed="Meier1618" n="078"/>
                     <head rend="italic">Discourse 17.</head>
                     <div type="discourse-p1"><ab> 
-                        <lb/>The Philosophers have in many places made mention of four sorts of fire<milestone unit="section" n="e17-01" /> 
+                        <lb/>The Philosophers have in many places made mention of four sorts of fire<milestone unit="section" n="e17-01"/> 
                         <lb/>necessary to the <choice><orig>naturall</orig><reg>natural</reg></choice> <choice><orig>worke</orig><reg>work</reg></choice>, namely Lully, the Author of Scala, Ripley,
                         <lb/>and many others: and to this end Raymund speaking of fires (<choice><orig>Sayth</orig><reg>Says</reg></choice> Scala)
                         <lb/>You must note, that here are contrary operations: because as the fire <pc>-</pc>
@@ -89,7 +176,7 @@
                         <lb break="no"/>ture, the fourth earthy: It is <choice><orig>needlesse</orig><reg>needless</reg></choice> to say any thing of the first, <pc>-</pc>
                         <lb/>because it is <choice><orig>knowne</orig><reg>known</reg></choice> to every mans eye and touch: The three other are
                         <lb/>dragons, <choice><orig>menstrua's</orig><reg>menstruums</reg></choice>, waters, Sulphurs, and <choice><orig>Mercuryes</orig><reg>Mercuries</reg></choice>: Dragons, because <pc>-</pc>
-                        <lb/>being participants of venenosity, they <choice><orig>devoure</orig><reg>devour</reg></choice> </ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier" n="079"/>serpents of their <choice><orig>owne</orig><reg>own</reg></choice>
+                        <lb/>being participants of venenosity, they <choice><orig>devoure</orig><reg>devour</reg></choice> </ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier1618" n="079"/>serpents of their <choice><orig>owne</orig><reg>own</reg></choice>
                         <lb/>kind, frett and alter, that is, dissolve and coagulate <choice><orig>bodyes</orig><reg>bodies</reg></choice> incorporated <pc>-</pc>
                             <lb/>and mixed with them: They are called <choice><orig>Menstrua's</orig><reg>Menstruums</reg></choice>, because the <choice><orig>Philoso
                         <lb break="no"/>phicall</orig><reg>Philosophical</reg></choice> infant is produced from them, and nourished therewith even to
@@ -97,7 +184,7 @@
                         
                         
                         
-                        <pb n="58"/><fw rend="italic">Discourse 17.</fw>
+                        <pb n="58" edRef="BeineckeMellon48" facs="#p058"/><fw rend="italic">Discourse 17.</fw>
                         <lb/>Menstruums, the vegetable, and <choice><orig>minerall</orig><reg>mineral</reg></choice>, Ripley in his <choice><orig>Præface</orig><reg>Preface</reg></choice> of the gates <choice><orig>hath</orig><reg>has</reg></choice>
                         <lb/>three, which are really one and <choice><orig>doe</orig><reg>do</reg></choice> agree: for the generation of the infant
                         <lb/>is made of them <choice><orig>alltogether</orig><reg>altogether</reg></choice>, and a white water <choice><orig>præceeds</orig><reg>preceeds</reg></choice> the birth of it, which
@@ -137,4 +224,3 @@
         </body>
     </text>
 </TEI>
-

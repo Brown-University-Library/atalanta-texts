@@ -527,7 +527,7 @@
     <xsl:template match="af:hi[@rend='hook']">
         <xsl:choose>
             <xsl:when test=".='p'">Ꝓ</xsl:when>
-            <xsl:when test=".='e'">ę</xsl:when>
+            <xsl:when test=".='e'">ę</xsl:when><!-- &#x0119 -->
         </xsl:choose>
     </xsl:template>
     
@@ -548,7 +548,7 @@
     </xsl:template>
     
     
-    <xsl:template match="af:hi[@rend='acute stroke']" mode="abbrev">
+    <xsl:template match="af:hi[@rend='acute tail']" mode="abbrev">
         <xsl:text>ɋ&#x301;</xsl:text>
     </xsl:template>
     

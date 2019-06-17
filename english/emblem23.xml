@@ -1,30 +1,117 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Title</title>
+       <fileDesc>
+           
+        <titleStmt>
+                    <title>Atalanta Fugiens (digital transcription). Emblem 23.</title>
+                <principal ref="http://viaf.org/viaf/32331303">Tara Nummedal</principal>
+                <principal>Donna Bilak</principal>
+                <respStmt>
+                    <resp>Transcription and TEI Encoding</resp>
+                    <persName>George Elliot</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Editorial Oversight and Proofreading</resp>
+                    <persName>Donna Bilak</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI encoding oversight</resp>
+                    <persName ref="https://orcid.org/0000-0002-0215-4324">Elli Mylonas</persName>
+                </respStmt>
             </titleStmt>
-            <publicationStmt>
-                <p>Publication Information</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Information about the source</p>
-            </sourceDesc>
+           
+        <editionStmt>
+            <edition>Transcription and Encoding completed <date>2019-05-20</date></edition>
+        </editionStmt>
+           
+           <publicationStmt>
+            <authority>Brown University</authority>
+            <availability status="free">
+                <licence>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+                    <ref target="http://creativecommons.org/licenses/by-nc/4.0/">Distributed under a Creative Commons licence Attribution-BY-NC 4.0</ref>
+                </licence>
+            </availability>
+        </publicationStmt>
+           
+           <sourceDesc>
+                 <biblStruct type="manuscript">
+                    <monogr>
+                        <title level="m">Atalanta running, that is, new chymicall emblems relating
+                            to the secrets of nature</title>
+                        <author><forename>Michael</forename><surname>Maier</surname></author>
+                        <idno type="Beinecke">Mellon MS. 88</idno>
+                        <imprint>
+                            <pubPlace>England (?)</pubPlace>
+                            <date>[1618 or after]</date>
+                            <note type="url">https://brbl-dl.library.yale.edu/vufind/Record/4262893</note>
+                        </imprint>
+                        <extent>86 pp.</extent>
+                    </monogr>
+                </biblStruct>
+        </sourceDesc>
         </fileDesc>
-    </teiHeader>
+            
+        <encodingDesc>
+            <projectDesc><p>This text has been transcribed and encoded using the TEI for Tara Nummedal and Donna Bilak’s <title>Furnace and Fugue: A Digital Edition of Michael Maier’s Atalanta fugiens (1618) with Scholarly Commentary</title>, part of Brown University’s Digital Publications Initiative, funded by the Andrew W. Mellon Foundation.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>This transcription includes all text in the Beinecke library Mellon MS. 88 (English Translation of Michael Meier's Atalanta Fugiens).</p>
+                <p>All line breaks are indicated using the <gi>lb</gi> element. Hyphenation is marked with the <att>break</att> attribute.
+                    This manuscript has hyphens filling out lines at the right margin, as well as at the end of a page. These are marked as punctuation using
+                     the <gi>pc</gi> element. Pagination as printed is encoded using <gi>fw</gi>. <gi>pb</gi> elements 
+                     provide the page number in a canonical form. Page breaks in the original Meier printed text are also inserted and have been marked with a <gi>milestone</gi> element 
+                    <egXML xmlns="http://www.tei-c.org/ns/Examples"><milestone unit="page" ed="Meier" n="037"/></egXML></p>
+                <p>Within the discourse section of each element, <gi>ab</gi> are used to group text that appears on each page of the equivalent Meier edition. This is useful when
+                formatting a side-by-side edition, but can be ignored otherwise.</p>
+                <p>Archaic spellings have been modernized throughout, using <gi>orig</gi>/<gi>reg</gi> pairs.</p>
+                <p>Strikeouts and additions have been marked using <gi>subst</gi>, <gi>add</gi> and <gi>del</gi> elements.</p>
+                <p>This manuscript has underlining in a variety of hands. Underlining is indicated and an attempt has been made to 
+                disambiguate hands. Underlining is marked using the <gi>seg</gi> element, for example, <egXML xmlns="http://www.tei-c.org/ns/Examples"><seg rend="underline" hand="2"/></egXML></p>
+               <p>In the Author's Epigram, text is marked with vertical bars along the left margin, this is marked as a note. In the Preface to the Reader, a long margin note is grouped using a long brace which is encoded
+                    using a <att>rend</att> attribute on the note.</p>
+                <p>Margin notes contain some alchemical symbols, which are itemized in the Character Declaration below.</p>
+            </editorialDecl>
+            
+            <charDecl>
+                <glyph xml:id="antimony">
+                    <glyphName>EARTH</glyphName>
+                    <desc>circle with a cross on the top of it</desc>
+                    <mapping type="printed">♁</mapping>
+                    <mapping type="PUA">U+2641</mapping>
+                </glyph>
+                <glyph xml:id="iron">
+                    <glyphName>MALE SIGN</glyphName>
+                    <desc>circle with an arrow pointing diagonally up</desc>
+                    <mapping type="printed">♂</mapping>
+                    <mapping type="PUA">U+2642</mapping>
+                </glyph>
+                 <glyph xml:id="sulphur">
+                     <glyphName>ALCHEMICAL SYMBOL FOR SULPHUR</glyphName>
+                    <desc>downward triangle with cross on top</desc>
+                    <mapping type="printed">🜍</mapping>
+                    <mapping type="PUA">U+1F70D</mapping>
+                </glyph>
+            </charDecl>
+            
+        </encodingDesc>
+        
+        </teiHeader>
+    
+    <facsimile>
+        <graphic url="https://brbl-zoom.library.yale.edu/viewer/15959867" xml:id="p074"/>
+        <graphic url="https://brbl-zoom.library.yale.edu/viewer/15959868" xml:id="p075"/>
+        <graphic url="https://brbl-zoom.library.yale.edu/viewer/15959869" xml:id="p076"/>
+    </facsimile>
     
     <text>
         <body>
             <div type="emblem" n="e23">
-                <pb n="74"/>
+                <pb n="74" edRef="BeineckeMellon48" facs="#p074"/>
                 
                 
                 <div type="title" xml:lang="en">
-                    <milestone unit="page" ed="Meier" n="101"/>
+                    <milestone unit="page" ed="Meier1618" n="101"/>
                     <head rend="italic">
                         <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 23. Of the Secrets of Nature.
                         </head>
@@ -45,13 +132,13 @@
                         <l>When Sol to Venus <choice><orig>payd</orig><reg>paid</reg></choice> the dues of love,</l>
                         <l>And Pallas Sprung out of the <choice><orig>braine</orig><reg>brain</reg></choice> of Jove.</l>
                     </lg>
-                    <note place="bottom" hand="3"  anchored="false"><choice><orig>yeilding</orig><reg>yielding</reg></choice> air</note>
+                    <note place="bottom" hand="3" anchored="false"><choice><orig>yeilding</orig><reg>yielding</reg></choice> air</note>
                 </div>
                
                 
-                <pb n="75"/> 
+                <pb n="75" edRef="BeineckeMellon48" facs="#p075"/> 
                 <div type="discourse" xml:lang="en">
-                    <milestone unit="page" ed="Meier" n="102"/>
+                    <milestone unit="page" ed="Meier1618" n="102"/>
                     <head rend="italic">Discourse 23.</head>
                     <div type="discourse-p1"><ab> 
                         <lb/>It would be <choice><orig>madnesse</orig><reg>madness</reg></choice> to <choice><orig>affirme</orig><reg>affirm</reg></choice> that gold ever rained upon the earth, except 
@@ -89,14 +176,14 @@
                         <lb/>virtue and essence: for this reason is a golden <choice><orig>rayne</orig><reg>rain</reg></choice> ascribed to the <pc>-</pc>
                         <lb/>generation of Sol: when little <choice><orig>Sunns</orig><reg>Suns</reg></choice> are <choice><orig>conceivd</orig><reg>conceived</reg></choice> by Venus: For Ve
                         <lb break="no"/>nus <choice><orig>hath</orig><reg>has</reg></choice> a rosy <choice><orig>colour</orig><reg>color</reg></choice> in her face, and if infused into the seed of <pc>-</pc>
-                        <lb/>Sol, </ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier" n="103"/>the offspring from hence produced must really be a Rhodian: <pc>-</pc>
+                        <lb/>Sol, </ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier1618" n="103"/>the offspring from hence produced must really be a Rhodian: <pc>-</pc>
                         <lb/><choice><orig>Hee</orig><reg>He</reg></choice> is <choice><orig>beautifull</orig><reg>beautiful</reg></choice>, like roses, the <choice><orig>Sonne</orig><reg>Son</reg></choice> of the Philosophers, who <pc>-</pc>
                         <lb/><choice><orig>drawes</orig><reg>draws</reg></choice> and allures the eyes and minds of all men to him, and de
                         <lb break="no"/>serves love, at whose birth it is <choice><orig>noe</orig><reg>no</reg></choice> strange thing if miracles hap
                         <lb break="no"/>pen: for <choice><orig>hee</orig><reg>he</reg></choice> in all his actions will be miraculous, and excite a <pc>-</pc>
                         <lb/>golden <choice><orig>rayne</orig><reg>rain</reg></choice>: This is the brother of Augius the <choice><orig>Sonne</orig><reg>Son</reg></choice> of Sol, <pc>-</pc>
                         
-                        <pb n="76"/><fw rend="italic">Discourse 23.</fw>
+                        <pb n="76" edRef="BeineckeMellon48" facs="#p076"/><fw rend="italic">Discourse 23.</fw>
                         <lb/>who had Oxen for a patrimony, the dung whereof Hercules purged away
                         <lb/>in one day: <choice><orig>Hee</orig><reg>He</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> is the brother of Æeta, who possessed the golden
                         <lb/>fleece obtained by Jason. Of Pallas <choice><orig>proceding</orig><reg>proceeding</reg></choice> from the <choice><orig>braine</orig><reg>brain</reg></choice> of Jupiter,

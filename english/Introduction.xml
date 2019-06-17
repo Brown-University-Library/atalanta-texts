@@ -1,30 +1,122 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Title</title>
+       <fileDesc>
+           
+        <titleStmt>
+                    <title>Atalanta Fugiens (digital transcription). Emblem intro.</title>
+                <principal ref="http://viaf.org/viaf/32331303">Tara Nummedal</principal>
+                <principal>Donna Bilak</principal>
+                <respStmt>
+                    <resp>Transcription and TEI Encoding</resp>
+                    <persName>George Elliot</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Editorial Oversight and Proofreading</resp>
+                    <persName>Donna Bilak</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI encoding oversight</resp>
+                    <persName ref="https://orcid.org/0000-0002-0215-4324">Elli Mylonas</persName>
+                </respStmt>
             </titleStmt>
-            <publicationStmt>
-                <p>Publication Information</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Information about the source</p>
-            </sourceDesc>
+           
+        <editionStmt>
+            <edition>Transcription and Encoding completed <date>2019-05-20</date></edition>
+        </editionStmt>
+           
+           <publicationStmt>
+            <authority>Brown University</authority>
+            <availability status="free">
+                <licence>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+                    <ref target="http://creativecommons.org/licenses/by-nc/4.0/">Distributed under a Creative Commons licence Attribution-BY-NC 4.0</ref>
+                </licence>
+            </availability>
+        </publicationStmt>
+           
+           <sourceDesc>
+                 <biblStruct type="manuscript">
+                    <monogr>
+                        <title level="m">Atalanta running, that is, new chymicall emblems relating
+                            to the secrets of nature</title>
+                        <author><forename>Michael</forename><surname>Maier</surname></author>
+                        <idno type="Beinecke">Mellon MS. 88</idno>
+                        <imprint>
+                            <pubPlace>England (?)</pubPlace>
+                            <date>[1618 or after]</date>
+                            <note type="url">https://brbl-dl.library.yale.edu/vufind/Record/4262893</note>
+                        </imprint>
+                        <extent>86 pp.</extent>
+                    </monogr>
+                </biblStruct>
+        </sourceDesc>
         </fileDesc>
-    </teiHeader>
+            
+        <encodingDesc>
+            <projectDesc><p>This text has been transcribed and encoded using the TEI for Tara Nummedal and Donna Bilak’s <title>Furnace and Fugue: A Digital Edition of Michael Maier’s Atalanta fugiens (1618) with Scholarly Commentary</title>, part of Brown University’s Digital Publications Initiative, funded by the Andrew W. Mellon Foundation.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>This transcription includes all text in the Beinecke library Mellon MS. 88 (English Translation of Michael Meier's Atalanta Fugiens).</p>
+                <p>All line breaks are indicated using the <gi>lb</gi> element. Hyphenation is marked with the <att>break</att> attribute.
+                    This manuscript has hyphens filling out lines at the right margin, as well as at the end of a page. These are marked as punctuation using
+                     the <gi>pc</gi> element. Pagination as printed is encoded using <gi>fw</gi>. <gi>pb</gi> elements 
+                     provide the page number in a canonical form. Page breaks in the original Meier printed text are also inserted and have been marked with a <gi>milestone</gi> element 
+                    <egXML xmlns="http://www.tei-c.org/ns/Examples"><milestone unit="page" ed="Meier" n="037"/></egXML></p>
+                <p>Within the discourse section of each element, <gi>ab</gi> are used to group text that appears on each page of the equivalent Meier edition. This is useful when
+                formatting a side-by-side edition, but can be ignored otherwise.</p>
+                <p>Archaic spellings have been modernized throughout, using <gi>orig</gi>/<gi>reg</gi> pairs.</p>
+                <p>Strikeouts and additions have been marked using <gi>subst</gi>, <gi>add</gi> and <gi>del</gi> elements.</p>
+                <p>This manuscript has underlining in a variety of hands. Underlining is indicated and an attempt has been made to 
+                disambiguate hands. Underlining is marked using the <gi>seg</gi> element, for example, <egXML xmlns="http://www.tei-c.org/ns/Examples"><seg rend="underline" hand="2"/></egXML></p>
+               <p>In the Author's Epigram, text is marked with vertical bars along the left margin, this is marked as a note. In the Preface to the Reader, a long margin note is grouped using a long brace which is encoded
+                    using a <att>rend</att> attribute on the note.</p>
+                <p>Margin notes contain some alchemical symbols, which are itemized in the Character Declaration below.</p>
+            </editorialDecl>
+            
+            <charDecl>
+                <glyph xml:id="antimony">
+                    <glyphName>EARTH</glyphName>
+                    <desc>circle with a cross on the top of it</desc>
+                    <mapping type="printed">♁</mapping>
+                    <mapping type="PUA">U+2641</mapping>
+                </glyph>
+                <glyph xml:id="iron">
+                    <glyphName>MALE SIGN</glyphName>
+                    <desc>circle with an arrow pointing diagonally up</desc>
+                    <mapping type="printed">♂</mapping>
+                    <mapping type="PUA">U+2642</mapping>
+                </glyph>
+                 <glyph xml:id="sulphur">
+                     <glyphName>ALCHEMICAL SYMBOL FOR SULPHUR</glyphName>
+                    <desc>downward triangle with cross on top</desc>
+                    <mapping type="printed">🜍</mapping>
+                    <mapping type="PUA">U+1F70D</mapping>
+                </glyph>
+            </charDecl>
+            
+        </encodingDesc>
+        
+        </teiHeader>
+    
+    <facsimile>
+        <graphic url="https://brbl-zoom.library.yale.edu/viewer/15959793" xml:id="p001"/>
+        <graphic url="https://brbl-zoom.library.yale.edu/viewer/15959794" xml:id="p001a"/>	
+        <graphic url="https://brbl-zoom.library.yale.edu/viewer/15959795" xml:id="p002"/>
+        <graphic url="https://brbl-zoom.library.yale.edu/viewer/15959796" xml:id="p003"/>
+        <graphic url="https://brbl-zoom.library.yale.edu/viewer/15959797" xml:id="p004"/>
+        <graphic url="https://brbl-zoom.library.yale.edu/viewer/15959798" xml:id="p005"/>
+        <graphic url="https://brbl-zoom.library.yale.edu/viewer/15959799" xml:id="p006"/>
+        <graphic url="https://brbl-zoom.library.yale.edu/viewer/15959800" xml:id="p007"/>
+    </facsimile>
     
     <text>
         <body>
             <div type="emblem" n="intro">
-                <pb n="01"/>
+                <pb n="01" edRef="BeineckeMellon48" facs="#p001"/>
                 
                 
                 <div type="titlePage" xml:lang="en">
-                    <milestone unit="page" ed="Meier" n="001"/>
+                    <milestone unit="page" ed="Meier1618" n="001"/>
                     <ab rend="center">
                         <lb/><seg rend="italic">Atalanta running,
                         <lb/>that is,</seg>
@@ -74,9 +166,9 @@
                 </div>
                 
                 
-                <pb n="02"/>
+                <pb n="02" edRef="BeineckeMellon48" facs="#p002"/>
                 <div type="epigram-authoris" xml:lang="en">
-                    <milestone unit="page" ed="Meier" n="002"/>
+                    <milestone unit="page" ed="Meier1618" n="002"/>
                     <div type="epigram" xml:lang="en">
                         <head rend="italic">the Author's <choice><orig>Epigramme</orig><reg>Epigram</reg></choice>.</head>
                     <lg>
@@ -110,7 +202,7 @@
                 </div>   
                         
                 
-                <pb n="03"/> <milestone unit="page" ed="Meier" n="003"/>
+                <pb n="03" edRef="BeineckeMellon48" facs="#p003"/> <milestone unit="page" ed="Meier1618" n="003"/>
                     <div type="dedication">
                         <ab rend="center italic">
                             <lb/>Michael <choice><orig>Majerus</orig><reg>Maierus</reg></choice> Doctor of <choice><orig>Physicke</orig><reg>Physic</reg></choice>, <choice><orig>Præsident</orig><reg>President</reg></choice> of
@@ -139,7 +231,7 @@
                         <lb break="no"/>damia the daughter of Oënomaus King of Elis, they report, that, being of
                         <lb/>singular artifice, it was <choice><orig>againe</orig><reg>again</reg></choice> presented by Pelops to Apollo Pythius at
                         <lb/>Delphos, upon which oracles were by the inspiration of that God from <pc>-</pc>
-                        <lb/>thenceforth uttered by a Virgin: <milestone unit="page" ed="Meier" n="004"/><choice><orig>Soe</orig><reg>So</reg></choice> this Tripes (curiously wrought by <pc>-</pc>
+                        <lb/>thenceforth uttered by a Virgin: <milestone unit="page" ed="Meier1618" n="004"/><choice><orig>Soe</orig><reg>So</reg></choice> this Tripes (curiously wrought by <pc>-</pc>
                         <lb/>Vulcan) coming to my hand, moved by the example of Pelops, I resolved
                         <lb/>to present and consecrate it to the most worthy place and order, and in
                         <lb break="no"/>deed before all others, to your <choice><orig>Honours</orig><reg>Honors</reg></choice> and <choice><orig>Excellencyes</orig><reg>Excellencies</reg></choice>, yet not to the
@@ -159,9 +251,9 @@
                         <lb break="no"/>never appear in <choice><orig>publick</orig><reg>public</reg></choice> without the conduct of a Scipio, for if they
                         <lb/>Should have fallen, who could have <choice><orig>help'd</orig><reg>helped</reg></choice> them? I entreat that I
                         
-                <pb n="04"/>
+                <pb n="04" edRef="BeineckeMellon48" facs="#p004"/>
                         <lb/>may <choice><orig>terme</orig><reg>term</reg></choice> you the patrons of this little <choice><orig>worke</orig><reg>work</reg></choice>, not that you have exer
-                        <lb break="no"/>cised either hand or mind, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>farre</orig><reg>far</reg></choice> as I know, in this study <milestone unit="page" ed="Meier" n="005"/>(for neither <pc>-</pc>
+                        <lb break="no"/>cised either hand or mind, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>farre</orig><reg>far</reg></choice> as I know, in this study <milestone unit="page" ed="Meier1618" n="005"/>(for neither <pc>-</pc>
                         <lb/>have you <choice><orig>soe</orig><reg>so</reg></choice> much leisure from most weighty affairs) but because you <pc>-</pc>
                         <lb/>seem to <choice><orig>mee</orig><reg>me</reg></choice> able to defend any branch of learning, and as the case stands
                         <lb/>I have not <choice><orig>mett</orig><reg>met</reg></choice> with any matter more worthy, or more honest, abuse ex
@@ -177,7 +269,7 @@
                     </closer>
                         </div>
                     <div type="preface">
-                        <milestone unit="page" ed="Meier" n="006"/>
+                        <milestone unit="page" ed="Meier1618" n="006"/>
                         <head rend="italics center">The <choice><orig>Præface</orig><reg>Preface</reg></choice> to the Reader.</head>         
                         <opener>Candid Reader!</opener>
                         <ab>
@@ -199,7 +291,7 @@
                             <lb/>and the like.</note> Now to instruct <pc>-</pc>
                         <lb/>and perfect the understanding God <choice><orig>hath</orig><reg>has</reg></choice> hidden infinite secrets in nature, <pc>-</pc>
                         <lb/>which are <choice><orig>forc'd</orig><reg>forced</reg></choice> out <subst><del>of</del><add>by</add></subst> innumerable arts and Sciences, as fire out of a flint, <pc>-</pc>
-                        <lb/>and <choice><orig>transferrd</orig><reg>transferred</reg></choice> to use: amongst these <choice><orig>Chymicall</orig><reg>Chymical</reg></choice> <milestone unit="page" ed="Meier" n="007"/>secrets are not the mea
+                        <lb/>and <choice><orig>transferrd</orig><reg>transferred</reg></choice> to use: amongst these <choice><orig>Chymicall</orig><reg>Chymical</reg></choice> <milestone unit="page" ed="Meier1618" n="007"/>secrets are not the mea
                         <lb break="no"/>nest, but next to the indagation of divine things, the <choice><orig>principall</orig><reg>principal</reg></choice> and most <pc>-</pc>
                         <lb/><choice><orig>pretious</orig><reg>precious</reg></choice> of all, not to be investigated by circumforaneous impostors, and <pc>-</pc>
                         <lb/><choice><orig>pseudochymicall</orig><reg>pseudochymical</reg></choice> drones (who in these things are asini ad Lyram, because <pc>-</pc>
@@ -208,7 +300,7 @@
                         <lb break="no"/>till</orig><reg>subtle</reg></choice>, concise, sacred, rare, and abstruse, and therefore to be comprehended
                         <lb/>by the understanding sooner than by sense, rather by profound contem
                         
-                        <pb n="05"/><fw rend="italic">the <choice><orig>præface</orig><reg>preface</reg></choice> to the Reader.</fw>
+                        <pb n="05" edRef="BeineckeMellon48" facs="#p005"/><fw rend="italic">the <choice><orig>præface</orig><reg>preface</reg></choice> to the Reader.</fw>
                         <lb break="no"/>plation upon the reading of authors, and comparing them together, and <pc>-</pc>
                         <lb/>with the works of nature, than sensitive operation, or <choice><orig>manuall</orig><reg>manual</reg></choice> experi
                         <lb break="no"/>mentation, which is blind without <choice><orig>prævious</orig><reg>previous</reg></choice> theory: next after such <choice><orig>intellec
@@ -227,7 +319,7 @@
                         <lb/>by the <choice><orig>Græks</orig><reg>Greeks</reg></choice> termed <choice><orig>warrlike</orig><reg>warlike</reg></choice>, because it was sung in <choice><orig>warre</orig><reg>war</reg></choice>, and upon en
                         <lb break="no"/>gagement, and had a singular virtue in stirring up the Spirits of the <pc>-</pc>
                         <lb/>Soldiers; instead of which the <choice><orig>Jonicke</orig><reg>Ionic</reg></choice> is sometimes used for the same pur
-                        <lb break="no"/>pose, which was formerly esteemed <milestone unit="page" ed="Meier" n="008"/>amatory (as the Phrygian is <subst><del>sometimes</del><add>now</add></subst> re
+                        <lb break="no"/>pose, which was formerly esteemed <milestone unit="page" ed="Meier1618" n="008"/>amatory (as the Phrygian is <subst><del>sometimes</del><add>now</add></subst> re
                         <lb break="no"/>puted) from which <choice><orig>wee</orig><reg>we</reg></choice> gather tunes <choice><orig>changd</orig><reg>changed</reg></choice> one with another: it is <choice><orig>sayd</orig><reg>said</reg></choice> that
                         <lb/>Timothy Milese used the Phrygian to make Alexander the great more <pc>-</pc>
                         <lb/><choice><orig>Spritefull</orig><reg>Spriteful</reg></choice> and <choice><orig>couragious</orig><reg>courageous</reg></choice> in warlike <choice><orig>affaires</orig><reg>affairs</reg></choice>, which Cicero takes notice of 2.
@@ -255,8 +347,8 @@
                         <lb break="no"/>cleated by the understanding, you have <choice><orig>alltogether</orig><reg>altogether</reg></choice> in one <choice><orig>booke</orig><reg>book</reg></choice>, and may
                         <lb/>as designed apply them to your <choice><orig>owne</orig><reg>own</reg></choice> use, which if it be more <choice><orig>intel
                         
-                        <pb n="06"/><fw rend="italic">the <choice><orig>præface</orig><reg>preface</reg></choice> to the Reader.</fw>
-                            <lb break="no"/>lectuall</orig><reg>intellectual</reg></choice>, than <choice><orig>sensuall</orig><reg>sensual</reg></choice>, the more profitable <milestone unit="page" ed="Meier" n="009"/>and <choice><orig>delightfull</orig><reg>delightful</reg></choice> will it be in time:
+                        <pb n="06" edRef="BeineckeMellon48" facs="#p006"/><fw rend="italic">the <choice><orig>præface</orig><reg>preface</reg></choice> to the Reader.</fw>
+                            <lb break="no"/>lectuall</orig><reg>intellectual</reg></choice>, than <choice><orig>sensuall</orig><reg>sensual</reg></choice>, the more profitable <milestone unit="page" ed="Meier1618" n="009"/>and <choice><orig>delightfull</orig><reg>delightful</reg></choice> will it be in time:
                         <lb/>but if it be first in bondage to the sense, there is <choice><orig>noe</orig><reg>no</reg></choice> doubt but there will <pc>-</pc>
                         <lb/>be a passage from the sense to the understanding as by a <choice><orig>doore</orig><reg>door</reg></choice>: for nothing is
                         <lb/><choice><orig>sayd</orig><reg>said</reg></choice> to be in the understanding, which had not admission by some sense, <pc>-</pc>
@@ -282,7 +374,7 @@
                         <lb/>know how to make stand, <choice><orig>hee</orig><reg>he</reg></choice> will have that Spouse which <choice><orig>hee</orig><reg>he</reg></choice> desires, if <pc>-</pc>
                         <lb/>not, destruction and <choice><orig>ruine</orig><reg>ruin</reg></choice> of his <choice><orig>affaires</orig><reg>affairs</reg></choice>: From Hippomenes and Atalanta
                         <lb/>lying together in the temple of the mother of the Gods, that is, a <choice><orig>vessell</orig><reg>vessel</reg></choice>, <pc>-</pc>
-                        <lb/>are <choice><orig>Lyons</orig><reg>Lions</reg></choice> produced, or they acquire a red <choice><orig>colour</orig><reg>color</reg></choice>: <milestone unit="page" ed="Meier" n="0010"/>This virgin <choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>obtaind</orig><reg>obtained</reg></choice>
+                        <lb/>are <choice><orig>Lyons</orig><reg>Lions</reg></choice> produced, or they acquire a red <choice><orig>colour</orig><reg>color</reg></choice>: <milestone unit="page" ed="Meier1618" n="0010"/>This virgin <choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>obtaind</orig><reg>obtained</reg></choice>
                         <lb/>a victory before men, killing a <choice><orig>certaine</orig><reg>certain</reg></choice> boar of notable <choice><orig>bignesse</orig><reg>bigness</reg></choice>, for which
                         <lb/><choice><orig>Shee</orig><reg>She</reg></choice> was rewarded by Meleager: Striking a <choice><orig>rocke</orig><reg>rock</reg></choice> at Stethæus the temple
                         <lb/>of <choice><orig>Æsculapius</orig><reg>Aesculapius</reg></choice> <choice><orig>Shee</orig><reg>She</reg></choice> brought forth water, <subst><del>which</del><add>whereof</add></subst> being thirsty, <choice><orig>Shee</orig><reg>She</reg></choice> <choice><orig>dranke</orig><reg>drank</reg></choice>:
@@ -301,7 +393,7 @@
                         <lb/>where the eyes alone are deceived, they judging it very near to nature, <pc>-</pc>
                         <lb/>why should not the learned have these figures in good estimation <pc>-</pc>
                     
-                        <pb n="07"/><fw rend="italic">the <choice><orig>præface</orig><reg>preface</reg></choice> to the Reader.</fw>
+                        <pb n="07" edRef="BeineckeMellon48" facs="#p007"/><fw rend="italic">the <choice><orig>præface</orig><reg>preface</reg></choice> to the Reader.</fw>
                         <lb/>which are <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>usefull</orig><reg>useful</reg></choice> and serviceable both to the understanding and
                         <lb/>many of the senses, that great utility besides delight and recreation <pc>-</pc>
                         <lb/>may be expected from them? Farewell <pc>. . . . . . .</pc>
@@ -312,4 +404,3 @@
         </body>
     </text>
 </TEI>
-

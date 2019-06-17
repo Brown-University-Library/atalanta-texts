@@ -59,7 +59,7 @@
     <xsl:template match="af:div[@type='title']">
         <div class="{@type}">
             <span class="pb beinecke"><xsl:value-of select="preceding::af:pb[1]/@n"/> </span>
-            <span class="pb atalanta-fugiens"><xsl:value-of select="af:milestone[@ed='Meier']/@n"/></span>
+            <span class="pb atalanta-fugiens"><xsl:value-of select="af:milestone[@ed='Meier1618']/@n"/></span>
             <h3><xsl:apply-templates select="af:head[1]"/></h3>
             <h1><xsl:apply-templates select="af:head[2]"/></h1>
         </div>
@@ -85,7 +85,7 @@
     <xsl:template match="af:div[@type='discourse-p1'] | af:div[@type='discourse-p2']">
         <div class="{@type}">  
             <span class="pb beinecke"><xsl:value-of select="preceding::af:pb[1]/@n"/> </span>
-            <span class="pb atalanta-fugiens"><xsl:value-of select="preceding::af:milestone[@ed='Meier'][1]/@n"/></span>
+            <span class="pb atalanta-fugiens"><xsl:value-of select="preceding::af:milestone[@ed='Meier1618'][1]/@n"/></span>
             <h3><xsl:apply-templates select="preceding::af:head[1]"/></h3>
             <div class="ab">
                <xsl:apply-templates select="af:ab"/>

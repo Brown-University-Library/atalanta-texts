@@ -1,30 +1,117 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Title</title>
+       <fileDesc>
+           
+        <titleStmt>
+                    <title>Atalanta Fugiens (digital transcription). Emblem 50.</title>
+                <principal ref="http://viaf.org/viaf/32331303">Tara Nummedal</principal>
+                <principal>Donna Bilak</principal>
+                <respStmt>
+                    <resp>Transcription and TEI Encoding</resp>
+                    <persName>George Elliot</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Editorial Oversight and Proofreading</resp>
+                    <persName>Donna Bilak</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI encoding oversight</resp>
+                    <persName ref="https://orcid.org/0000-0002-0215-4324">Elli Mylonas</persName>
+                </respStmt>
             </titleStmt>
-            <publicationStmt>
-                <p>Publication Information</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Information about the source</p>
-            </sourceDesc>
+           
+        <editionStmt>
+            <edition>Transcription and Encoding completed <date>2019-05-20</date></edition>
+        </editionStmt>
+           
+           <publicationStmt>
+            <authority>Brown University</authority>
+            <availability status="free">
+                <licence>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+                    <ref target="http://creativecommons.org/licenses/by-nc/4.0/">Distributed under a Creative Commons licence Attribution-BY-NC 4.0</ref>
+                </licence>
+            </availability>
+        </publicationStmt>
+           
+           <sourceDesc>
+                 <biblStruct type="manuscript">
+                    <monogr>
+                        <title level="m">Atalanta running, that is, new chymicall emblems relating
+                            to the secrets of nature</title>
+                        <author><forename>Michael</forename><surname>Maier</surname></author>
+                        <idno type="Beinecke">Mellon MS. 88</idno>
+                        <imprint>
+                            <pubPlace>England (?)</pubPlace>
+                            <date>[1618 or after]</date>
+                            <note type="url">https://brbl-dl.library.yale.edu/vufind/Record/4262893</note>
+                        </imprint>
+                        <extent>86 pp.</extent>
+                    </monogr>
+                </biblStruct>
+        </sourceDesc>
         </fileDesc>
-    </teiHeader>
+            
+        <encodingDesc>
+            <projectDesc><p>This text has been transcribed and encoded using the TEI for Tara Nummedal and Donna Bilak’s <title>Furnace and Fugue: A Digital Edition of Michael Maier’s Atalanta fugiens (1618) with Scholarly Commentary</title>, part of Brown University’s Digital Publications Initiative, funded by the Andrew W. Mellon Foundation.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>This transcription includes all text in the Beinecke library Mellon MS. 88 (English Translation of Michael Meier's Atalanta Fugiens).</p>
+                <p>All line breaks are indicated using the <gi>lb</gi> element. Hyphenation is marked with the <att>break</att> attribute.
+                    This manuscript has hyphens filling out lines at the right margin, as well as at the end of a page. These are marked as punctuation using
+                     the <gi>pc</gi> element. Pagination as printed is encoded using <gi>fw</gi>. <gi>pb</gi> elements 
+                     provide the page number in a canonical form. Page breaks in the original Meier printed text are also inserted and have been marked with a <gi>milestone</gi> element 
+                    <egXML xmlns="http://www.tei-c.org/ns/Examples"><milestone unit="page" ed="Meier" n="037"/></egXML></p>
+                <p>Within the discourse section of each element, <gi>ab</gi> are used to group text that appears on each page of the equivalent Meier edition. This is useful when
+                formatting a side-by-side edition, but can be ignored otherwise.</p>
+                <p>Archaic spellings have been modernized throughout, using <gi>orig</gi>/<gi>reg</gi> pairs.</p>
+                <p>Strikeouts and additions have been marked using <gi>subst</gi>, <gi>add</gi> and <gi>del</gi> elements.</p>
+                <p>This manuscript has underlining in a variety of hands. Underlining is indicated and an attempt has been made to 
+                disambiguate hands. Underlining is marked using the <gi>seg</gi> element, for example, <egXML xmlns="http://www.tei-c.org/ns/Examples"><seg rend="underline" hand="2"/></egXML></p>
+               <p>In the Author's Epigram, text is marked with vertical bars along the left margin, this is marked as a note. In the Preface to the Reader, a long margin note is grouped using a long brace which is encoded
+                    using a <att>rend</att> attribute on the note.</p>
+                <p>Margin notes contain some alchemical symbols, which are itemized in the Character Declaration below.</p>
+            </editorialDecl>
+            
+            <charDecl>
+                <glyph xml:id="antimony">
+                    <glyphName>EARTH</glyphName>
+                    <desc>circle with a cross on the top of it</desc>
+                    <mapping type="printed">♁</mapping>
+                    <mapping type="PUA">U+2641</mapping>
+                </glyph>
+                <glyph xml:id="iron">
+                    <glyphName>MALE SIGN</glyphName>
+                    <desc>circle with an arrow pointing diagonally up</desc>
+                    <mapping type="printed">♂</mapping>
+                    <mapping type="PUA">U+2642</mapping>
+                </glyph>
+                 <glyph xml:id="sulphur">
+                     <glyphName>ALCHEMICAL SYMBOL FOR SULPHUR</glyphName>
+                    <desc>downward triangle with cross on top</desc>
+                    <mapping type="printed">🜍</mapping>
+                    <mapping type="PUA">U+1F70D</mapping>
+                </glyph>
+            </charDecl>
+            
+        </encodingDesc>
+        
+        </teiHeader>
+    
+    <facsimile>
+        <graphic url="https://brbl-zoom.library.yale.edu/viewer/15959948" xml:id="p155"/>
+        <graphic url="https://brbl-zoom.library.yale.edu/viewer/15959949" xml:id="p156"/>
+        <graphic url="https://brbl-zoom.library.yale.edu/viewer/15959950" xml:id="p157"/>
+    </facsimile>
     
     <text>
         <body>
             <div type="emblem" n="e50">
-                <pb n="155"/>
+                <pb n="155" edRef="BeineckeMellon48" facs="#p155"/>
                 
                 
                 <div type="title" xml:lang="en">
-                    <milestone unit="page" ed="Meier" n="209"/>
+                    <milestone unit="page" ed="Meier1618" n="209"/>
                     <head rend="italic">
                         <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 50. Of the Secrets of Nature.
                         </head>
@@ -48,18 +135,18 @@
                 </div>
                 
                 
-                <pb n="156"/> 
+                <pb n="156" edRef="BeineckeMellon48" facs="#p156"/> 
                 <div type="discourse" xml:lang="en">
-                    <milestone unit="page" ed="Meier" n="210"/>
+                    <milestone unit="page" ed="Meier1618" n="210"/>
                     <head rend="italic">Discourse 50.</head>
                     <div type="discourse-p1"><ab> 
-                        <lb/><milestone unit="section" n="e50-01" />The mansion of Dragons is in caverns of the earth, but the residence 
+                        <lb/><milestone unit="section" n="e50-01"/>The mansion of Dragons is in caverns of the earth, but the residence 
                         <lb/>of men above the earth in the <choice><orig>iḿediate</orig><reg>immediate</reg></choice> <choice><orig>aire</orig><reg>air</reg></choice>; which two Elements
                         <lb/>are contrary, and appointed by the Philosophers to be <choice><orig>joynd</orig><reg>joined</reg></choice> together,
-                        <lb/>that one may act upon the other: <milestone unit="section" n="e50-02" />But by the woman others <choice><orig>meane</orig><reg>mean</reg></choice>, as
+                        <lb/>that one may act upon the other: <milestone unit="section" n="e50-02"/>But by the woman others <choice><orig>meane</orig><reg>mean</reg></choice>, as
                         <lb/><choice><orig>Basill</orig><reg>Basil</reg></choice> in Key 2d. <choice><orig>sayth</orig><reg>says</reg></choice>: For it is not convenient or <choice><orig>coḿodious</orig><reg>commodious</reg></choice> for an <pc>-</pc>
                         <lb/>Eagle to place her nest upon the Alps, because her chickens would <choice><orig>dye</orig><reg>die</reg></choice>
-                        <lb/>through the <choice><orig>coldnesse</orig><reg>coldness</reg></choice> of the Snow at the top of the mountains: <milestone unit="section" n="e50-03" />But
+                        <lb/>through the <choice><orig>coldnesse</orig><reg>coldness</reg></choice> of the Snow at the top of the mountains: <milestone unit="section" n="e50-03"/>But
                         <lb/>if you add to the Eagle a cold Dragon, which <choice><orig>hath</orig><reg>has</reg></choice> had his habitation
                         <lb/>a long time in the rocks, and crept out of the caves of the earth, <pc>-</pc>
                         <lb/>and put them both into an <choice><orig>infernall</orig><reg>infernal</reg></choice> <choice><orig>sell</orig><reg>cell</reg></choice>, then will Pluto blow a <pc>-</pc>
@@ -67,58 +154,58 @@
                         <lb/>with its great heat will <choice><orig>burne</orig><reg>burn</reg></choice> the Eagles feathers, and excite such a
                         <lb/><choice><orig>sudorificke</orig><reg>sudorific</reg></choice> bath, as to melt the Snow at the top of the mountains, <pc>-</pc>
 			            <lb/>and turn it into water; from which a miserable bath may be well <pc>-</pc>
-                        <lb/><choice><orig>præpared</orig><reg>prepared</reg></choice>, contributing fortune and health to the King. <milestone unit="section" n="e50-04" />Admirable in
+                        <lb/><choice><orig>præpared</orig><reg>prepared</reg></choice>, contributing fortune and health to the King. <milestone unit="section" n="e50-04"/>Admirable in
                         <lb break="no"/>deed it is, that a cold dragon should <choice><orig>yeild</orig><reg>yield</reg></choice> a fiery Spirit; yet experience <pc>-</pc>
                         <lb/>declares it to be true in burned serpents, which <choice><orig>doe</orig><reg>do</reg></choice> send forth a venomous <pc>-</pc>
-                        <lb/>flame <choice><orig>poysoning</orig><reg>poisoning</reg></choice> the standers by: <milestone unit="section" n="e50-05" />Nor in <choice><orig>vayne</orig><reg>vain</reg></choice> are the keepers of the <choice><orig>Chy
+                        <lb/>flame <choice><orig>poysoning</orig><reg>poisoning</reg></choice> the standers by: <milestone unit="section" n="e50-05"/>Nor in <choice><orig>vayne</orig><reg>vain</reg></choice> are the keepers of the <choice><orig>Chy
                         <lb break="no"/>micall</orig><reg>Chymical</reg></choice> treasures called flammivomous dragons, as the keepers of the golden
-                        <lb/>fleece, the Hesperian gardens, Cadmus, and the like. <milestone unit="section" n="e50-06" />But this dragon lives
+                        <lb/>fleece, the Hesperian gardens, Cadmus, and the like. <milestone unit="section" n="e50-06"/>But this dragon lives
                         <lb/>in <choice><orig>streight</orig><reg>straight</reg></choice> places of subterranean rocks, which you must there take, and
                         <lb/><choice><orig>joyne</orig><reg>join</reg></choice> to the Eagle or woman, to her, in the grave, to the other, if you <pc>-</pc>
                         <lb/>had rather, in the nest: For the nature of a dragon is sometimes to <choice><orig>lye</orig><reg>lie</reg></choice> in
-                        <lb/><choice><orig>waite</orig><reg>wait</reg></choice> for the Eagles eggs, and wage <choice><orig>mortall</orig><reg>mortal</reg></choice> <choice><orig>warre</orig><reg>war</reg></choice> with the Eagle: <milestone unit="section" n="e50-07" />Some
+                        <lb/><choice><orig>waite</orig><reg>wait</reg></choice> for the Eagles eggs, and wage <choice><orig>mortall</orig><reg>mortal</reg></choice> <choice><orig>warre</orig><reg>war</reg></choice> with the Eagle: <milestone unit="section" n="e50-07"/>Some
                         <lb/>there are of the <choice><orig>Græcian</orig><reg>Grecian</reg></choice> writers who <choice><orig>affirme</orig><reg>affirm</reg></choice> that a dragon in times past <pc>-</pc>
                         <lb/>fell in love with a <choice><orig>mayd</orig><reg>maid</reg></choice> and lay with her. What wonder therefore, if
                         <lb/>the Philosophers would have their dragon <choice><orig>shutt</orig><reg>shut</reg></choice> up in a <choice><orig>caverne</orig><reg>cavern</reg></choice> with a <pc>-</pc>
-                        <lb/>woman? <milestone unit="section" n="e50-08" />Greverus <choice><orig>joynes</orig><reg>joins</reg></choice> red and <choice><orig>blacke</orig><reg>black</reg></choice> dragons together in the deep <pc>-</pc>
+                        <lb/>woman? <milestone unit="section" n="e50-08"/>Greverus <choice><orig>joynes</orig><reg>joins</reg></choice> red and <choice><orig>blacke</orig><reg>black</reg></choice> dragons together in the deep <pc>-</pc>
                         <lb/><choice><orig>gulfe</orig><reg>gulf</reg></choice> of the <choice><orig>mountaine</orig><reg>mountain</reg></choice>, and <choice><orig>burnes</orig><reg>burns</reg></choice> them with fire, and the <choice><orig>blacke</orig><reg>black</reg></choice> pe
                         <lb break="no"/>rishing, <choice><orig>hee</orig><reg>he</reg></choice> <choice><orig>sayth</orig><reg>says</reg></choice> that the keeper of the <choice><orig>mountaine</orig><reg>mountain</reg></choice> <choice><orig>searcheth</orig><reg>searchs</reg></choice> for them
-                        <lb/>every where, and brings them to the <choice><orig>mountaine</orig><reg>mountain</reg></choice>. <milestone unit="section" n="e50-09" />Merlin in his vision (if it
+                        <lb/>every where, and brings them to the <choice><orig>mountaine</orig><reg>mountain</reg></choice>. <milestone unit="section" n="e50-09"/>Merlin in his vision (if it
                         <lb/>be not suppositious) makes mention of a white and red dragon; These
                         <lb/>Dragons, whatsoever they be, whether one be a woman, or a female <pc>-</pc>
                         <lb/>dragon, <choice><orig>doe</orig><reg>do</reg></choice> act one with the other, till they both <choice><orig>dye</orig><reg>die</reg></choice>, and <choice><orig>emitt</orig><reg>emit</reg></choice> blood
                         <lb/>from their wounds, wherewith they are <choice><orig>embrued</orig><reg>imbrued</reg></choice>. But here the element
                         <lb/>of earth and fire is understood by the dragon, and by the woman the
-                        <lb/>element of <choice><orig>aire</orig><reg>air</reg></choice> and water; <milestone unit="section" n="e50-10" />whereupon <choice><orig>sayth</orig><reg>says</reg></choice> Clangor buccinæ: The Dragon
-                        <lb/>is the matter remaining in the <choice><orig>bottome</orig><reg>bottom</reg></choice> </ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier" n="211"/>after the water be <choice><orig>distilld</orig><reg>distilled</reg></choice> from
-                        <lb/>it: <milestone unit="section" n="e50-11" />And according to Hermes: The water of <choice><orig>aire</orig><reg>air</reg></choice> being between heaven and
+                        <lb/>element of <choice><orig>aire</orig><reg>air</reg></choice> and water; <milestone unit="section" n="e50-10"/>whereupon <choice><orig>sayth</orig><reg>says</reg></choice> Clangor buccinæ: The Dragon
+                        <lb/>is the matter remaining in the <choice><orig>bottome</orig><reg>bottom</reg></choice> </ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier1618" n="211"/>after the water be <choice><orig>distilld</orig><reg>distilled</reg></choice> from
+                        <lb/>it: <milestone unit="section" n="e50-11"/>And according to Hermes: The water of <choice><orig>aire</orig><reg>air</reg></choice> being between heaven and
                         <lb/>earth is the life of every thing, for that water dissolves a body into a <pc>-</pc>
                         
                         
                         
-                        <pb n="157"/><fw rend="italic">Discourse 50.</fw>
+                        <pb n="157" edRef="BeineckeMellon48" facs="#p157"/><fw rend="italic">Discourse 50.</fw>
                         <lb/>spirit, and <choice><orig>vivifyes</orig><reg>vivifies</reg></choice> a dead thing, and makes matrimony between man and wo
-                        <lb break="no"/>man: For it <choice><orig>conferrs</orig><reg>confers</reg></choice> the whole <choice><orig>benefitt</orig><reg>benefit</reg></choice> of the art: <milestone unit="section" n="e50-12" />Of the earth <choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>hee</orig><reg>he</reg></choice> thus
+                        <lb break="no"/>man: For it <choice><orig>conferrs</orig><reg>confers</reg></choice> the whole <choice><orig>benefitt</orig><reg>benefit</reg></choice> of the art: <milestone unit="section" n="e50-12"/>Of the earth <choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>hee</orig><reg>he</reg></choice> thus
                         <lb/>speaks. And moreover understand, that the particular earth, which <choice><orig>wee</orig><reg>we</reg></choice> tread
                         <lb/>upon, is not the true element, <choice><orig>yea</orig><reg>yes</reg></choice> is elemented with its true fifth element: Nor
                         <lb/><choice><orig>doth</orig><reg>does</reg></choice> the fifth <choice><orig>elementall</orig><reg>elemental</reg></choice> substance recede from its elemented body, of which
-                        <lb/>the earth is formed. <milestone unit="section" n="e50-13" />And a little after. But the Virgin and true element, <pc>-</pc>
+                        <lb/>the earth is formed. <milestone unit="section" n="e50-13"/>And a little after. But the Virgin and true element, <pc>-</pc>
                         <lb/>which fire cannot <choice><orig>burne</orig><reg>burn</reg></choice>, is in the center of the earth: This is the dragon,
                         <lb/>whereof <choice><orig>wee</orig><reg>we</reg></choice> <choice><orig>speake</orig><reg>speak</reg></choice>, insinuating <choice><orig>itselfe</orig><reg>itself</reg></choice> even into the center of the earth,
                         <lb/>where the heat being great, it conceives within <choice><orig>itselfe</orig><reg>itself</reg></choice> a flaming heat, where
-                        <lb break="no"/>with it <choice><orig>burnes</orig><reg>burns</reg></choice> the woman or eagle. <milestone unit="section" n="e50-14" />The woman or eagle is indeed an airy <pc>-</pc>
+                        <lb break="no"/>with it <choice><orig>burnes</orig><reg>burns</reg></choice> the woman or eagle. <milestone unit="section" n="e50-14"/>The woman or eagle is indeed an airy <pc>-</pc>
                         <lb/>water, which some call the white or <choice><orig>cælestiall</orig><reg>celestial</reg></choice> eagle, and will have it made
                         <lb/>of <choice><orig>coḿon</orig><reg>common</reg></choice> Mercury, or sublimed Salts, following therein the sense of some <choice><orig>cer
-                        <lb break="no"/>taine</orig><reg>certain</reg></choice> men blind in this art, <choice><orig>faigning</orig><reg>feigning</reg></choice> themselves to be quicksighted; <milestone unit="section" n="e50-15" />But <pc>-</pc>
+                        <lb break="no"/>taine</orig><reg>certain</reg></choice> men blind in this art, <choice><orig>faigning</orig><reg>feigning</reg></choice> themselves to be quicksighted; <milestone unit="section" n="e50-15"/>But <pc>-</pc>
                         <lb/><choice><orig>sayth</orig><reg>says</reg></choice> Count Bernhard in his Epistle, I tell you <choice><orig>truely</orig><reg>truly</reg></choice>, that <choice><orig>noe</orig><reg>no</reg></choice> water dissolves
                         <lb/>a <choice><orig>metallicke</orig><reg>metallic</reg></choice> species by <choice><orig>naturall</orig><reg>natural</reg></choice> reduction, except that which continues with <pc>-</pc>
                         <lb/>it in matter and <choice><orig>forme</orig><reg>form</reg></choice>, and which the <choice><orig>metalls</orig><reg>metals</reg></choice> themselves can <choice><orig>recongeale</orig><reg>recongeal</reg></choice>: <pc>-</pc>
-                        <lb/><milestone unit="section" n="e50-16" />And a little after: Nor <choice><orig>doth</orig><reg>does</reg></choice> that water <choice><orig>appertaine</orig><reg>appertain</reg></choice> to <choice><orig>bodyes</orig><reg>bodies</reg></choice> in solutions, which
-                        <lb/>remains not with them in congelations: <milestone unit="section" n="e50-17" />And a little after: I tell you <choice><orig>truely</orig><reg>truly</reg></choice>,
+                        <lb/><milestone unit="section" n="e50-16"/>And a little after: Nor <choice><orig>doth</orig><reg>does</reg></choice> that water <choice><orig>appertaine</orig><reg>appertain</reg></choice> to <choice><orig>bodyes</orig><reg>bodies</reg></choice> in solutions, which
+                        <lb/>remains not with them in congelations: <milestone unit="section" n="e50-17"/>And a little after: I tell you <choice><orig>truely</orig><reg>truly</reg></choice>,
                         <lb/>that the <choice><orig>oyle</orig><reg>oil</reg></choice> which naturally incerates and <choice><orig>joyns</orig><reg>joins</reg></choice> natures together, and natu
                         <lb break="no"/>rally <choice><orig>introduceth</orig><reg>introduces</reg></choice> a Medicine for the tinging of other <choice><orig>bodyes</orig><reg>bodies</reg></choice>, is not compounded
                         <lb/>of any other extraneous thing, but <choice><orig>onely</orig><reg>only</reg></choice> of the <choice><orig>bowells</orig><reg>bowels</reg></choice> of the body which is
-                        <lb/>to be dissolved: <milestone unit="section" n="e50-18" />This therefore being apprehended, the eagle and woman, as
+                        <lb/>to be dissolved: <milestone unit="section" n="e50-18"/>This therefore being apprehended, the eagle and woman, as
                         <lb/><choice><orig>allso</orig><reg>also</reg></choice> the Dragon with the secrets of <choice><orig>allmost</orig><reg>almost</reg></choice> the whole art are understood, <pc>-</pc>
                         <lb/>which perhaps <choice><orig>wee</orig><reg>we</reg></choice> have thus <choice><orig>farre</orig><reg>far</reg></choice> too openly explained and declared to
                         <lb/>the <choice><orig>Sonns</orig><reg>Sons</reg></choice> of learning, that God may hereby be <choice><orig>glorifyed</orig><reg>glorified</reg></choice> <pc>. . . . .</pc>

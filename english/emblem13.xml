@@ -1,30 +1,117 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Title</title>
+       <fileDesc>
+           
+        <titleStmt>
+                    <title>Atalanta Fugiens (digital transcription). Emblem 13.</title>
+                <principal ref="http://viaf.org/viaf/32331303">Tara Nummedal</principal>
+                <principal>Donna Bilak</principal>
+                <respStmt>
+                    <resp>Transcription and TEI Encoding</resp>
+                    <persName>George Elliot</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Editorial Oversight and Proofreading</resp>
+                    <persName>Donna Bilak</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI encoding oversight</resp>
+                    <persName ref="https://orcid.org/0000-0002-0215-4324">Elli Mylonas</persName>
+                </respStmt>
             </titleStmt>
-            <publicationStmt>
-                <p>Publication Information</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Information about the source</p>
-            </sourceDesc>
+           
+        <editionStmt>
+            <edition>Transcription and Encoding completed <date>2019-05-20</date></edition>
+        </editionStmt>
+           
+           <publicationStmt>
+            <authority>Brown University</authority>
+            <availability status="free">
+                <licence>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+                    <ref target="http://creativecommons.org/licenses/by-nc/4.0/">Distributed under a Creative Commons licence Attribution-BY-NC 4.0</ref>
+                </licence>
+            </availability>
+        </publicationStmt>
+           
+           <sourceDesc>
+                 <biblStruct type="manuscript">
+                    <monogr>
+                        <title level="m">Atalanta running, that is, new chymicall emblems relating
+                            to the secrets of nature</title>
+                        <author><forename>Michael</forename><surname>Maier</surname></author>
+                        <idno type="Beinecke">Mellon MS. 88</idno>
+                        <imprint>
+                            <pubPlace>England (?)</pubPlace>
+                            <date>[1618 or after]</date>
+                            <note type="url">https://brbl-dl.library.yale.edu/vufind/Record/4262893</note>
+                        </imprint>
+                        <extent>86 pp.</extent>
+                    </monogr>
+                </biblStruct>
+        </sourceDesc>
         </fileDesc>
-    </teiHeader>
+            
+        <encodingDesc>
+            <projectDesc><p>This text has been transcribed and encoded using the TEI for Tara Nummedal and Donna Bilak’s <title>Furnace and Fugue: A Digital Edition of Michael Maier’s Atalanta fugiens (1618) with Scholarly Commentary</title>, part of Brown University’s Digital Publications Initiative, funded by the Andrew W. Mellon Foundation.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>This transcription includes all text in the Beinecke library Mellon MS. 88 (English Translation of Michael Meier's Atalanta Fugiens).</p>
+                <p>All line breaks are indicated using the <gi>lb</gi> element. Hyphenation is marked with the <att>break</att> attribute.
+                    This manuscript has hyphens filling out lines at the right margin, as well as at the end of a page. These are marked as punctuation using
+                     the <gi>pc</gi> element. Pagination as printed is encoded using <gi>fw</gi>. <gi>pb</gi> elements 
+                     provide the page number in a canonical form. Page breaks in the original Meier printed text are also inserted and have been marked with a <gi>milestone</gi> element 
+                    <egXML xmlns="http://www.tei-c.org/ns/Examples"><milestone unit="page" ed="Meier" n="037"/></egXML></p>
+                <p>Within the discourse section of each element, <gi>ab</gi> are used to group text that appears on each page of the equivalent Meier edition. This is useful when
+                formatting a side-by-side edition, but can be ignored otherwise.</p>
+                <p>Archaic spellings have been modernized throughout, using <gi>orig</gi>/<gi>reg</gi> pairs.</p>
+                <p>Strikeouts and additions have been marked using <gi>subst</gi>, <gi>add</gi> and <gi>del</gi> elements.</p>
+                <p>This manuscript has underlining in a variety of hands. Underlining is indicated and an attempt has been made to 
+                disambiguate hands. Underlining is marked using the <gi>seg</gi> element, for example, <egXML xmlns="http://www.tei-c.org/ns/Examples"><seg rend="underline" hand="2"/></egXML></p>
+               <p>In the Author's Epigram, text is marked with vertical bars along the left margin, this is marked as a note. In the Preface to the Reader, a long margin note is grouped using a long brace which is encoded
+                    using a <att>rend</att> attribute on the note.</p>
+                <p>Margin notes contain some alchemical symbols, which are itemized in the Character Declaration below.</p>
+            </editorialDecl>
+            
+            <charDecl>
+                <glyph xml:id="antimony">
+                    <glyphName>EARTH</glyphName>
+                    <desc>circle with a cross on the top of it</desc>
+                    <mapping type="printed">♁</mapping>
+                    <mapping type="PUA">U+2641</mapping>
+                </glyph>
+                <glyph xml:id="iron">
+                    <glyphName>MALE SIGN</glyphName>
+                    <desc>circle with an arrow pointing diagonally up</desc>
+                    <mapping type="printed">♂</mapping>
+                    <mapping type="PUA">U+2642</mapping>
+                </glyph>
+                 <glyph xml:id="sulphur">
+                     <glyphName>ALCHEMICAL SYMBOL FOR SULPHUR</glyphName>
+                    <desc>downward triangle with cross on top</desc>
+                    <mapping type="printed">🜍</mapping>
+                    <mapping type="PUA">U+1F70D</mapping>
+                </glyph>
+            </charDecl>
+            
+        </encodingDesc>
+        
+        </teiHeader>
+    
+    <facsimile>
+        <graphic url="https://brbl-zoom.library.yale.edu/viewer/15959837" xml:id="p044"/>
+        <graphic url="https://brbl-zoom.library.yale.edu/viewer/15959838" xml:id="p045"/>
+        <graphic url="https://brbl-zoom.library.yale.edu/viewer/15959839" xml:id="p046"/>
+    </facsimile>
     
     <text>
         <body>
             <div type="emblem" n="e13">
-                <pb n="44"/>
+                <pb n="44" edRef="BeineckeMellon48" facs="#p044"/>
                 
                 
                 <div type="title" xml:lang="en">
-                    <milestone unit="page" ed="Meier" n="061"/>
+                    <milestone unit="page" ed="Meier1618" n="061"/>
                     <head rend="italic">
                         <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 13. Of the Secrets of Nature.
                     </head>
@@ -48,9 +135,9 @@
                 </div>
                 
                 
-                <pb n="45"/> 
+                <pb n="45" edRef="BeineckeMellon48" facs="#p045"/> 
                 <div type="discourse" xml:lang="en">
-                    <milestone unit="page" ed="Meier" n="062"/>
+                    <milestone unit="page" ed="Meier1618" n="062"/>
                     <head rend="italic">Discourse 13.</head>
                     <div type="discourse-p1"><ab> 
                         <lb/>That Naaman the Syrian <choice><orig>betooke</orig><reg>betook</reg></choice> <choice><orig>himselfe</orig><reg>himself</reg></choice> to <choice><orig>Judæa</orig><reg>Judea</reg></choice> at the <choice><orig>perswasion</orig><reg>persuasion</reg></choice> of the 
@@ -89,7 +176,7 @@
                         <lb break="no"/>losophically washed: For this is that which they say, wash with fire, and <pc>-</pc>
                         <lb/><choice><orig>burne</orig><reg>burn</reg></choice> with water; for that fire, which <choice><orig>washeth</orig><reg>washes</reg></choice>, and that water, which <choice><orig>bur
                         <lb break="no"/>neth</orig><reg>burns</reg></choice>, differ one from the other in name <choice><orig>onely</orig><reg>only</reg></choice>, but agree in effect and ope
-                        <lb break="no"/>ration: That <choice><orig>brasse</orig><reg>brass</reg></choice> therefore must be </ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier" n="063"/><choice><orig>washd</orig><reg>washed</reg></choice>, that is, <choice><orig>dryed</orig><reg>dried</reg></choice> from its super
+                        <lb break="no"/>ration: That <choice><orig>brasse</orig><reg>brass</reg></choice> therefore must be </ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier1618" n="063"/><choice><orig>washd</orig><reg>washed</reg></choice>, that is, <choice><orig>dryed</orig><reg>dried</reg></choice> from its super
                         <lb break="no"/>fluous moistures by this water, or this fire: <choice><orig>Wee</orig><reg>We</reg></choice> have <choice><orig>knowne</orig><reg>known</reg></choice> experiments <pc>-</pc>
                         <lb/>of <choice><orig>Hydropicall</orig><reg>Hydropical</reg></choice> <choice><orig>bodyes</orig><reg>bodies</reg></choice> cured by six <choice><orig>moneths</orig><reg>months</reg></choice> abstinence from any <choice><orig>drinke</orig><reg>drink</reg></choice>, <pc>-</pc>
                          <lb/>by being <choice><orig>buryed</orig><reg>buried</reg></choice> in <seg rend="underline" hand="2"><choice><orig>hott</orig><reg>hot</reg></choice> sand</seg>, or <seg rend="underline" hand="2"><choice><orig>Cowes</orig><reg>Cows</reg></choice> dung, </seg>by being put in a ho<seg rend="underline" hand="2"><choice><orig>tt</orig><reg>t</reg></choice> fur</seg><note place="margin">NB</note>
@@ -98,7 +185,7 @@
                         <lb/>By the same <choice><orig>wayes</orig><reg>ways</reg></choice> must this Patient be cured, sometimes by waters, <pc>-</pc>
                         
                         
-                        <pb n="46"/><fw rend="italic">Discourse 13.</fw>
+                        <pb n="46" edRef="BeineckeMellon48" facs="#p046"/><fw rend="italic">Discourse 13.</fw>
                         <lb/>sometimes by the <choice><orig>hott</orig><reg>hot</reg></choice> <choice><orig>aire</orig><reg>air</reg></choice> of furnaces, sometimes by dung, sometimes Sand,
                         <lb/>and by abstaining from <choice><orig>drinke</orig><reg>drink</reg></choice>: for these are most <choice><orig>effectuall</orig><reg>effectual</reg></choice> <choice><orig>remedyes</orig><reg>remedies</reg></choice> in both
                         <lb/>cases, here and there to be used: but in all these things heat is the operator, <pc>-</pc>
@@ -136,4 +223,3 @@
         </body>
     </text>
 </TEI>
-

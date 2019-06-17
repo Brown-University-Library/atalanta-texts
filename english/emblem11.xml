@@ -1,30 +1,117 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Title</title>
+       <fileDesc>
+           
+        <titleStmt>
+                    <title>Atalanta Fugiens (digital transcription). Emblem 11.</title>
+                <principal ref="http://viaf.org/viaf/32331303">Tara Nummedal</principal>
+                <principal>Donna Bilak</principal>
+                <respStmt>
+                    <resp>Transcription and TEI Encoding</resp>
+                    <persName>George Elliot</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Editorial Oversight and Proofreading</resp>
+                    <persName>Donna Bilak</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI encoding oversight</resp>
+                    <persName ref="https://orcid.org/0000-0002-0215-4324">Elli Mylonas</persName>
+                </respStmt>
             </titleStmt>
-            <publicationStmt>
-                <p>Publication Information</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Information about the source</p>
-            </sourceDesc>
+           
+        <editionStmt>
+            <edition>Transcription and Encoding completed <date>2019-05-20</date></edition>
+        </editionStmt>
+           
+           <publicationStmt>
+            <authority>Brown University</authority>
+            <availability status="free">
+                <licence>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+                    <ref target="http://creativecommons.org/licenses/by-nc/4.0/">Distributed under a Creative Commons licence Attribution-BY-NC 4.0</ref>
+                </licence>
+            </availability>
+        </publicationStmt>
+           
+           <sourceDesc>
+                 <biblStruct type="manuscript">
+                    <monogr>
+                        <title level="m">Atalanta running, that is, new chymicall emblems relating
+                            to the secrets of nature</title>
+                        <author><forename>Michael</forename><surname>Maier</surname></author>
+                        <idno type="Beinecke">Mellon MS. 88</idno>
+                        <imprint>
+                            <pubPlace>England (?)</pubPlace>
+                            <date>[1618 or after]</date>
+                            <note type="url">https://brbl-dl.library.yale.edu/vufind/Record/4262893</note>
+                        </imprint>
+                        <extent>86 pp.</extent>
+                    </monogr>
+                </biblStruct>
+        </sourceDesc>
         </fileDesc>
-    </teiHeader>
+            
+        <encodingDesc>
+            <projectDesc><p>This text has been transcribed and encoded using the TEI for Tara Nummedal and Donna Bilak’s <title>Furnace and Fugue: A Digital Edition of Michael Maier’s Atalanta fugiens (1618) with Scholarly Commentary</title>, part of Brown University’s Digital Publications Initiative, funded by the Andrew W. Mellon Foundation.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>This transcription includes all text in the Beinecke library Mellon MS. 88 (English Translation of Michael Meier's Atalanta Fugiens).</p>
+                <p>All line breaks are indicated using the <gi>lb</gi> element. Hyphenation is marked with the <att>break</att> attribute.
+                    This manuscript has hyphens filling out lines at the right margin, as well as at the end of a page. These are marked as punctuation using
+                     the <gi>pc</gi> element. Pagination as printed is encoded using <gi>fw</gi>. <gi>pb</gi> elements 
+                     provide the page number in a canonical form. Page breaks in the original Meier printed text are also inserted and have been marked with a <gi>milestone</gi> element 
+                    <egXML xmlns="http://www.tei-c.org/ns/Examples"><milestone unit="page" ed="Meier" n="037"/></egXML></p>
+                <p>Within the discourse section of each element, <gi>ab</gi> are used to group text that appears on each page of the equivalent Meier edition. This is useful when
+                formatting a side-by-side edition, but can be ignored otherwise.</p>
+                <p>Archaic spellings have been modernized throughout, using <gi>orig</gi>/<gi>reg</gi> pairs.</p>
+                <p>Strikeouts and additions have been marked using <gi>subst</gi>, <gi>add</gi> and <gi>del</gi> elements.</p>
+                <p>This manuscript has underlining in a variety of hands. Underlining is indicated and an attempt has been made to 
+                disambiguate hands. Underlining is marked using the <gi>seg</gi> element, for example, <egXML xmlns="http://www.tei-c.org/ns/Examples"><seg rend="underline" hand="2"/></egXML></p>
+               <p>In the Author's Epigram, text is marked with vertical bars along the left margin, this is marked as a note. In the Preface to the Reader, a long margin note is grouped using a long brace which is encoded
+                    using a <att>rend</att> attribute on the note.</p>
+                <p>Margin notes contain some alchemical symbols, which are itemized in the Character Declaration below.</p>
+            </editorialDecl>
+            
+            <charDecl>
+                <glyph xml:id="antimony">
+                    <glyphName>EARTH</glyphName>
+                    <desc>circle with a cross on the top of it</desc>
+                    <mapping type="printed">♁</mapping>
+                    <mapping type="PUA">U+2641</mapping>
+                </glyph>
+                <glyph xml:id="iron">
+                    <glyphName>MALE SIGN</glyphName>
+                    <desc>circle with an arrow pointing diagonally up</desc>
+                    <mapping type="printed">♂</mapping>
+                    <mapping type="PUA">U+2642</mapping>
+                </glyph>
+                 <glyph xml:id="sulphur">
+                     <glyphName>ALCHEMICAL SYMBOL FOR SULPHUR</glyphName>
+                    <desc>downward triangle with cross on top</desc>
+                    <mapping type="printed">🜍</mapping>
+                    <mapping type="PUA">U+1F70D</mapping>
+                </glyph>
+            </charDecl>
+            
+        </encodingDesc>
+        
+        </teiHeader>
+    
+    <facsimile>
+        <graphic url="https://brbl-zoom.library.yale.edu/viewer/15959831" xml:id="p038"/>
+        <graphic url="https://brbl-zoom.library.yale.edu/viewer/15959832" xml:id="p039"/>
+        <graphic url="https://brbl-zoom.library.yale.edu/viewer/15959833" xml:id="p040"/>
+    </facsimile>
     
     <text>
         <body>
             <div type="emblem" n="e11">
-                <pb n="38"/>
+                <pb n="38" edRef="BeineckeMellon48" facs="#p038"/>
                 
                 
                 <div type="title" xml:lang="en">
-                    <milestone unit="page" ed="Meier" n="053"/>
+                    <milestone unit="page" ed="Meier1618" n="053"/>
                     <head rend="italic">
                         <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 11. Of the Secrets of Nature.
                         </head>
@@ -47,79 +134,79 @@
                 </div>
                 
                 
-                <pb n="39"/> 
+                <pb n="39" edRef="BeineckeMellon48" facs="#p039"/> 
                 <div type="discourse" xml:lang="en">
-                    <milestone unit="page" ed="Meier" n="054"/>
+                    <milestone unit="page" ed="Meier1618" n="054"/>
                     <head rend="italic">Discourse 11.</head>
                     <div type="discourse-p1"><ab> 
-                        <lb/><milestone unit="section" n="e11-01" /><choice><orig>Soe</orig><reg>So</reg></choice> great is the diversity of Authors in writing, that the explorators of <pc>-</pc> 
-                        <lb/>truth <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>allmost</orig><reg>almost</reg></choice> <choice><orig>despaire</orig><reg>despair</reg></choice> of finding the end of art: <milestone unit="section" n="e11-02" />for <choice><orig>Allegoricall</orig><reg>Allegorical</reg></choice> speeches
+                        <lb/><milestone unit="section" n="e11-01"/><choice><orig>Soe</orig><reg>So</reg></choice> great is the diversity of Authors in writing, that the explorators of <pc>-</pc> 
+                        <lb/>truth <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>allmost</orig><reg>almost</reg></choice> <choice><orig>despaire</orig><reg>despair</reg></choice> of finding the end of art: <milestone unit="section" n="e11-02"/>for <choice><orig>Allegoricall</orig><reg>Allegorical</reg></choice> speeches
                         <lb/>being of themselves difficult to be understood, and the causes of many errors,
                         <lb/>especially then, if the same words be <choice><orig>applyd</orig><reg>applied</reg></choice> to different things, and diffe
-                        <lb break="no"/>rent words to the same things: <milestone unit="section" n="e11-03" />out of which if a man would extricate <choice><orig>him
+                        <lb break="no"/>rent words to the same things: <milestone unit="section" n="e11-03"/>out of which if a man would extricate <choice><orig>him
                         <lb break="no"/>selfe</orig><reg>himself</reg></choice>, <choice><orig>hee</orig><reg>he</reg></choice> must either be of a divine genius, to perceive the truth invol
                         <lb break="no"/>ved in <choice><orig>soe</orig><reg>so</reg></choice> great <choice><orig>darkenesse</orig><reg>darkness</reg></choice>, or of <choice><orig>endlesse</orig><reg>endless</reg></choice> pains and charge in proving what
-                        <lb/>is true, what not: <milestone unit="section" n="e11-04" />But the Philosophers say one is not sufficient  without the <pc>-</pc>
+                        <lb/>is true, what not: <milestone unit="section" n="e11-04"/>But the Philosophers say one is not sufficient  without the <pc>-</pc>
                         <lb/>other, an acute genius without <choice><orig>hand<pc rend="double-hyphen">-</pc>labour</orig><reg>hand labor</reg></choice>, or this without that, as neither
-                        <lb/>the theory without the practice, and contrarywise: <milestone unit="section" n="e11-05" />for <choice><orig>noe</orig><reg>no</reg></choice> man is of <choice><orig>soe</orig><reg>so</reg></choice> <pc>-</pc>
+                        <lb/>the theory without the practice, and contrarywise: <milestone unit="section" n="e11-05"/>for <choice><orig>noe</orig><reg>no</reg></choice> man is of <choice><orig>soe</orig><reg>so</reg></choice> <pc>-</pc>
                         <lb/>discreet an understanding as to <choice><orig>avoyd</orig><reg>avoid</reg></choice> a hundred thousand circumvagations,
                         <lb/>errors, <choice><orig>falsityes</orig><reg>falsities</reg></choice> as to the word, digressions, and <choice><orig>ambiguityes</orig><reg>ambiguities</reg></choice>, and persist in the
                         <lb/>true path of nature: wherefore say the Philosophers, <choice><orig>hee</orig><reg>he</reg></choice> that <choice><orig>hath</orig><reg>has</reg></choice> not as
                         <lb/>yet erred, <choice><orig>hath</orig><reg>has</reg></choice> not yet begun, and that errors are the informers of those <pc>-</pc>
-                        <lb/>things which ought to be done or not. <milestone unit="section" n="e11-06" /><choice><orig>Soe</orig><reg>So</reg></choice> the same <choice><orig>doe</orig><reg>do</reg></choice> inculcate, that a <pc>-</pc>
+                        <lb/>things which ought to be done or not. <milestone unit="section" n="e11-06"/><choice><orig>Soe</orig><reg>So</reg></choice> the same <choice><orig>doe</orig><reg>do</reg></choice> inculcate, that a <pc>-</pc>
                         <lb/>man may spend his whole life, though <choice><orig>hee</orig><reg>he</reg></choice> Should live a thousand years, in
                         <lb/>distilling and redistilling, before <choice><orig>hee</orig><reg>he</reg></choice> can <choice><orig>attaine</orig><reg>attain</reg></choice> to truth by experimentation
-                        <lb/>alone: <milestone unit="section" n="e11-07" />That little benefit can be had without study and reading of au
+                        <lb/>alone: <milestone unit="section" n="e11-07"/>That little benefit can be had without study and reading of au
                         <lb break="no"/>thors, the Corrector of fools <choice><orig>signifyes</orig><reg>signifies</reg></choice>, saying: Study <choice><orig>removeth</orig><reg>removes</reg></choice> ignorance, <pc>-</pc>
                         <lb/>and <choice><orig>reduceth</orig><reg>reduces</reg></choice> a mans genius to true understanding, and the knowledge of
                         <lb/>every thing: It is therefore principally necessary to acquire the knowledge of
                         <lb/>this delectable <choice><orig>worke</orig><reg>work</reg></choice> by study, and to sharpen the <choice><orig>witt</orig><reg>wit</reg></choice> by <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> <pc>-</pc>
-                        <lb/>sayings, the knowledge of truth being <choice><orig>centred</orig><reg>centered</reg></choice> in them: <milestone unit="section" n="e11-08" />If therefore opera
+                        <lb/>sayings, the knowledge of truth being <choice><orig>centred</orig><reg>centered</reg></choice> in them: <milestone unit="section" n="e11-08"/>If therefore opera
                         <lb break="no"/>tors despise not study, they will sweetly relish the fruit from thence <choice><orig>pro
-                        <lb break="no"/>ceding</orig><reg>proceeding</reg></choice>: <milestone unit="section" n="e11-09" />but they that <choice><orig>abhorre</orig><reg>abhor</reg></choice> study, and yet are willing to operate, let them
+                        <lb break="no"/>ceding</orig><reg>proceeding</reg></choice>: <milestone unit="section" n="e11-09"/>but they that <choice><orig>abhorre</orig><reg>abhor</reg></choice> study, and yet are willing to operate, let them
                         <lb/>see whether that art be the imitation of nature <choice><orig>herselfe</orig><reg>herself</reg></choice>, which the art of
                         <lb/>her desires to amend: because it is impossible for it to <choice><orig>præpare</orig><reg>prepare</reg></choice> the Philoso
-                        <lb break="no"/>phers secrets to a perfect end: <milestone unit="section" n="e11-10" />Of these men say the Sophi, that they <choice><orig>runne</orig><reg>run</reg></choice> to
+                        <lb break="no"/>phers secrets to a perfect end: <milestone unit="section" n="e11-10"/>Of these men say the Sophi, that they <choice><orig>runne</orig><reg>run</reg></choice> to
                         <lb/>practice as an <choice><orig>asse</orig><reg>ass</reg></choice> to hay, not knowing what to lay his nose to, <choice><orig>onely</orig><reg>only</reg></choice> <choice><orig>soe</orig><reg>so</reg></choice> far
                         <lb/>as the outward senses <choice><orig>doe</orig><reg>do</reg></choice> without understanding lead him to food by sight
-                        <lb/>and <choice><orig>tast</orig><reg>taste</reg></choice>: these are his words. <milestone unit="section" n="e11-11" />But lest a man should macerate <choice><orig>himselfe</orig><reg>himself</reg></choice> with
+                        <lb/>and <choice><orig>tast</orig><reg>taste</reg></choice>: these are his words. <milestone unit="section" n="e11-11"/>But lest a man should macerate <choice><orig>himselfe</orig><reg>himself</reg></choice> with
                         <lb/>overmuch study, which is an inexhaustible sea and of immense profundity
-                        <lb/>and <choice><orig>endeavour</orig><reg>endeavor</reg></choice> </ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier" n="055"/>(though in <choice><orig>vaine</orig><reg>vain</reg></choice>) to bring every letter, agreeing <choice><orig>allso</orig><reg>also</reg></choice> with ma
+                        <lb/>and <choice><orig>endeavour</orig><reg>endeavor</reg></choice> </ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier1618" n="055"/>(though in <choice><orig>vaine</orig><reg>vain</reg></choice>) to bring every letter, agreeing <choice><orig>allso</orig><reg>also</reg></choice> with ma
                         <lb break="no"/>ny other things, into act, in the <choice><orig>meane</orig><reg>mean</reg></choice> time consuming or diminishing his
                         <lb/>strength, time, reputation, wealth and riches, the Philosophers <choice><orig>doe</orig><reg>do</reg></choice> use this
                         <lb/><choice><orig>Emblematicall</orig><reg>Emblematical</reg></choice> speech, that Latona must be whitened, and those books
                         <lb/><choice><orig>torne</orig><reg>torn</reg></choice>, lest their hearts be broken, <seg rend="underline" hand="2">for there are many books <choice><orig>soe</orig><reg>so</reg></choice> obscurely</seg> <pc>-</pc>
-                        <lb/>written, <seg rend="underline" hand="2">as to be understood by their <choice><orig>owne</orig><reg>own</reg></choice> Authors <choice><orig>onely</orig><reg>only</reg></choice>:</seg> <milestone unit="section" n="e11-12" />not a few left out<note place="margin" hand="2">!!</note>
+                        <lb/>written, <seg rend="underline" hand="2">as to be understood by their <choice><orig>owne</orig><reg>own</reg></choice> Authors <choice><orig>onely</orig><reg>only</reg></choice>:</seg> <milestone unit="section" n="e11-12"/>not a few left out<note place="margin" hand="2">!!</note>
                         <lb/>of envy to seduce others, or rather to retard them, that they may not <choice><orig>attaine</orig><reg>attain</reg></choice>
                         <lb/>to their end without difficulty, or to obscure those things written before by <pc>-</pc>
-                        <lb/>themselves: <milestone unit="section" n="e11-13" />But what is the meaning of whitening Latona? this is the <pc>-</pc>
+                        <lb/>themselves: <milestone unit="section" n="e11-13"/>But what is the meaning of whitening Latona? this is the <pc>-</pc>
                         <lb/><choice><orig>worke</orig><reg>work</reg></choice> this the <choice><orig>labour</orig><reg>labor</reg></choice> to inquire: Clangor buccinæ affirms Latona to be an
                         
                         
                         
-                        <pb n="40"/><fw rend="italic">Discourse 11.</fw>
-                        <lb/>imperfect body compounded of Sol and Luna. <milestone unit="section" n="e11-14" />The most ancient Poets and
+                        <pb n="40" edRef="BeineckeMellon48" facs="#p040"/><fw rend="italic">Discourse 11.</fw>
+                        <lb/>imperfect body compounded of Sol and Luna. <milestone unit="section" n="e11-14"/>The most ancient Poets and
                         <lb/>writers <choice><orig>affirme</orig><reg>affirm</reg></choice> Latona to be the mother of Sol and Luna, or Apollo and <pc>-</pc>
                         <lb/>Diana, others the <choice><orig>Nurce</orig><reg>Nurse</reg></choice>; and that Diana was first <choice><orig>borne</orig><reg>born</reg></choice> (for Luna and <pc>-</pc>
                         <lb/><choice><orig>whitenesse</orig><reg>whiteness</reg></choice> first appears) and did then <choice><orig>performe</orig><reg>perform</reg></choice> the office of a midwife <pc>-</pc>
-                        <lb/>the same day in bringing forth her brother Apollo. <milestone unit="section" n="e11-15" />Latona was indeed one
+                        <lb/>the same day in bringing forth her brother Apollo. <milestone unit="section" n="e11-15"/>Latona was indeed one
                         <note place="margin" hand="2">!</note><lb/>of the <seg rend="underline" hand="2">twelve</seg> divine <choice><orig>Hieroglyphicks</orig><reg>Hieroglyphics</reg></choice> of the <choice><orig>Ægyptians</orig><reg>Egyptians</reg></choice>, by <choice><orig>whome</orig><reg>whom</reg></choice> these <pc>-</pc>
                         <lb/>and other <choice><orig>Allegoryes</orig><reg>Allegories</reg></choice> were propagated amongst other nations, very few of <pc>-</pc>
                         <lb/>the <choice><orig>Ægyptians</orig><reg>Egyptians</reg></choice> <choice><orig>Preists</orig><reg>Priests</reg></choice>, and those <choice><orig>onely</orig><reg>only</reg></choice> understanding the true meaning <pc>-</pc>
                         <lb/>and sense of them, all the rest referring them to other subjects, which were <pc>-</pc>
                         <lb/>not in the nature of things, namely various Gods, Goddesses, and the like: <pc>-</pc>
-                        <lb/><milestone unit="section" n="e11-16" />Hereupon Latona had there the most sumptuous temple next to Vulcan, cove
+                        <lb/><milestone unit="section" n="e11-16"/>Hereupon Latona had there the most sumptuous temple next to Vulcan, cove
                         <lb break="no"/>red and adorned with gold, as <choice><orig>Shee</orig><reg>She</reg></choice> that was the Mother of the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice>
-                        <lb/>Apollo and Diana: <milestone unit="section" n="e11-17" />but this Latona is <choice><orig>browne</orig><reg>brown</reg></choice> and blackish, and <choice><orig>hath</orig><reg>has</reg></choice> many
+                        <lb/>Apollo and Diana: <milestone unit="section" n="e11-17"/>but this Latona is <choice><orig>browne</orig><reg>brown</reg></choice> and blackish, and <choice><orig>hath</orig><reg>has</reg></choice> many
                         <lb/>moles and blemishes in her face, which must be taken away by art, namely
-                        <lb/>by dealbation: <milestone unit="section" n="e11-18" />Some <choice><orig>doe</orig><reg>do</reg></choice> make dealbations of Ceruse, Mercury Sublimate,
+                        <lb/>by dealbation: <milestone unit="section" n="e11-18"/>Some <choice><orig>doe</orig><reg>do</reg></choice> make dealbations of Ceruse, Mercury Sublimate,
                         <lb/><choice><orig>Talke</orig><reg>Talc</reg></choice>, reduced into <choice><orig>oyle</orig><reg>oil</reg></choice>, and the like, with which they incrust, cover, and
                         <lb/><choice><orig>soe</orig><reg>so</reg></choice> whiten the outside of the <choice><orig>Skinne</orig><reg>Skin</reg></choice>; but these whitening incrustations
                         <lb/>fall <choice><orig>of</orig><reg>off</reg></choice> with every wind or liquor, because they <choice><orig>doe</orig><reg>do</reg></choice> not penetrate to the more
-                        <lb/>inward parts: <milestone unit="section" n="e11-19" />But the Philosophers care not for such colorations, which are <pc>-</pc>
+                        <lb/>inward parts: <milestone unit="section" n="e11-19"/>But the Philosophers care not for such colorations, which are <pc>-</pc>
                         <lb/><choice><orig>usd</orig><reg>used</reg></choice> more to deceive the eyes, than to tinge the <choice><orig>internall</orig><reg>internal</reg></choice> substance of the
                         <lb/>body: For they would have the face of Latona whitened thoroughly, and
-                        <lb/>the <choice><orig>Skinne</orig><reg>Skin</reg></choice> <choice><orig>itselfe</orig><reg>itself</reg></choice> altered, that is, <choice><orig>truely</orig><reg>truly</reg></choice>, and not superficially: <milestone unit="section" n="e11-20" />a <choice><orig>Quæstion</orig><reg>Question</reg></choice>
+                        <lb/>the <choice><orig>Skinne</orig><reg>Skin</reg></choice> <choice><orig>itselfe</orig><reg>itself</reg></choice> altered, that is, <choice><orig>truely</orig><reg>truly</reg></choice>, and not superficially: <milestone unit="section" n="e11-20"/>a <choice><orig>Quæstion</orig><reg>Question</reg></choice>
                         <lb/>might be asked how it can be? I answer, Latona must be first sought out
                         <lb/>and <choice><orig>knowne</orig><reg>known</reg></choice>, which though <choice><orig>Shee</orig><reg>She</reg></choice> be taken out of a vile place, must not
                         <lb break="no"/>withstanding be sublimed to a more worthy, but if <choice><orig>Shee</orig><reg>She</reg></choice> be taken out
@@ -134,4 +221,3 @@
         </body>
     </text>
 </TEI>
-

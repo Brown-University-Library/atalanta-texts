@@ -1,30 +1,117 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Title</title>
+       <fileDesc>
+           
+        <titleStmt>
+                    <title>Atalanta Fugiens (digital transcription). Emblem 37.</title>
+                <principal ref="http://viaf.org/viaf/32331303">Tara Nummedal</principal>
+                <principal>Donna Bilak</principal>
+                <respStmt>
+                    <resp>Transcription and TEI Encoding</resp>
+                    <persName>George Elliot</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Editorial Oversight and Proofreading</resp>
+                    <persName>Donna Bilak</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI encoding oversight</resp>
+                    <persName ref="https://orcid.org/0000-0002-0215-4324">Elli Mylonas</persName>
+                </respStmt>
             </titleStmt>
-            <publicationStmt>
-                <p>Publication Information</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Information about the source</p>
-            </sourceDesc>
+           
+        <editionStmt>
+            <edition>Transcription and Encoding completed <date>2019-05-20</date></edition>
+        </editionStmt>
+           
+           <publicationStmt>
+            <authority>Brown University</authority>
+            <availability status="free">
+                <licence>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+                    <ref target="http://creativecommons.org/licenses/by-nc/4.0/">Distributed under a Creative Commons licence Attribution-BY-NC 4.0</ref>
+                </licence>
+            </availability>
+        </publicationStmt>
+           
+           <sourceDesc>
+                 <biblStruct type="manuscript">
+                    <monogr>
+                        <title level="m">Atalanta running, that is, new chymicall emblems relating
+                            to the secrets of nature</title>
+                        <author><forename>Michael</forename><surname>Maier</surname></author>
+                        <idno type="Beinecke">Mellon MS. 88</idno>
+                        <imprint>
+                            <pubPlace>England (?)</pubPlace>
+                            <date>[1618 or after]</date>
+                            <note type="url">https://brbl-dl.library.yale.edu/vufind/Record/4262893</note>
+                        </imprint>
+                        <extent>86 pp.</extent>
+                    </monogr>
+                </biblStruct>
+        </sourceDesc>
         </fileDesc>
-    </teiHeader>
+            
+        <encodingDesc>
+            <projectDesc><p>This text has been transcribed and encoded using the TEI for Tara Nummedal and Donna Bilak’s <title>Furnace and Fugue: A Digital Edition of Michael Maier’s Atalanta fugiens (1618) with Scholarly Commentary</title>, part of Brown University’s Digital Publications Initiative, funded by the Andrew W. Mellon Foundation.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>This transcription includes all text in the Beinecke library Mellon MS. 88 (English Translation of Michael Meier's Atalanta Fugiens).</p>
+                <p>All line breaks are indicated using the <gi>lb</gi> element. Hyphenation is marked with the <att>break</att> attribute.
+                    This manuscript has hyphens filling out lines at the right margin, as well as at the end of a page. These are marked as punctuation using
+                     the <gi>pc</gi> element. Pagination as printed is encoded using <gi>fw</gi>. <gi>pb</gi> elements 
+                     provide the page number in a canonical form. Page breaks in the original Meier printed text are also inserted and have been marked with a <gi>milestone</gi> element 
+                    <egXML xmlns="http://www.tei-c.org/ns/Examples"><milestone unit="page" ed="Meier" n="037"/></egXML></p>
+                <p>Within the discourse section of each element, <gi>ab</gi> are used to group text that appears on each page of the equivalent Meier edition. This is useful when
+                formatting a side-by-side edition, but can be ignored otherwise.</p>
+                <p>Archaic spellings have been modernized throughout, using <gi>orig</gi>/<gi>reg</gi> pairs.</p>
+                <p>Strikeouts and additions have been marked using <gi>subst</gi>, <gi>add</gi> and <gi>del</gi> elements.</p>
+                <p>This manuscript has underlining in a variety of hands. Underlining is indicated and an attempt has been made to 
+                disambiguate hands. Underlining is marked using the <gi>seg</gi> element, for example, <egXML xmlns="http://www.tei-c.org/ns/Examples"><seg rend="underline" hand="2"/></egXML></p>
+               <p>In the Author's Epigram, text is marked with vertical bars along the left margin, this is marked as a note. In the Preface to the Reader, a long margin note is grouped using a long brace which is encoded
+                    using a <att>rend</att> attribute on the note.</p>
+                <p>Margin notes contain some alchemical symbols, which are itemized in the Character Declaration below.</p>
+            </editorialDecl>
+            
+            <charDecl>
+                <glyph xml:id="antimony">
+                    <glyphName>EARTH</glyphName>
+                    <desc>circle with a cross on the top of it</desc>
+                    <mapping type="printed">♁</mapping>
+                    <mapping type="PUA">U+2641</mapping>
+                </glyph>
+                <glyph xml:id="iron">
+                    <glyphName>MALE SIGN</glyphName>
+                    <desc>circle with an arrow pointing diagonally up</desc>
+                    <mapping type="printed">♂</mapping>
+                    <mapping type="PUA">U+2642</mapping>
+                </glyph>
+                 <glyph xml:id="sulphur">
+                     <glyphName>ALCHEMICAL SYMBOL FOR SULPHUR</glyphName>
+                    <desc>downward triangle with cross on top</desc>
+                    <mapping type="printed">🜍</mapping>
+                    <mapping type="PUA">U+1F70D</mapping>
+                </glyph>
+            </charDecl>
+            
+        </encodingDesc>
+        
+        </teiHeader>
+    
+    <facsimile>
+        <graphic url="https://brbl-zoom.library.yale.edu/viewer/15959909" xml:id="p116"/>
+        <graphic url="https://brbl-zoom.library.yale.edu/viewer/15959910" xml:id="p117"/>
+        <graphic url="https://brbl-zoom.library.yale.edu/viewer/15959911" xml:id="p118"/>
+    </facsimile>
     
     <text>
         <body>
             <div type="emblem" n="e37">
-                <pb n="116"/>
+                <pb n="116" edRef="BeineckeMellon48" facs="#p116"/>
                 
                 
                 <div type="title" xml:lang="en">
-                    <milestone unit="page" ed="Meier" n="157"/>
+                    <milestone unit="page" ed="Meier1618" n="157"/>
                     <head rend="italic">
                         <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 37. Of the Secrets of Nature.
                         </head>
@@ -49,9 +136,9 @@
                 </div>
                 
                 
-                <pb n="117"/> 
+                <pb n="117" edRef="BeineckeMellon48" facs="#p117"/> 
                 <div type="discourse" xml:lang="en">
-                    <milestone unit="page" ed="Meier" n="158"/>
+                    <milestone unit="page" ed="Meier1618" n="158"/>
                     <head rend="italic">Discourse 37.</head>
                     <div type="discourse-p1"><ab> 
                         <lb/>As three <choice><orig>essentiall</orig><reg>essential</reg></choice> things, which are the foundation, walls, and <choice><orig>roofe</orig><reg>roof</reg></choice>, are 
@@ -97,14 +184,14 @@
                                 <l>Nor then <choice><orig>mixd</orig><reg>mixed</reg></choice> stilling wines, etc.</l>
                             </lg>
                         </quote>
-                        <lb/></ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier" n="159"/>After Aqua fœtida comes the green <choice><orig>Lyon</orig><reg>Lion</reg></choice>: concerning which <choice><orig>sayth</orig><reg>says</reg></choice> Ro
+                        <lb/></ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier1618" n="159"/>After Aqua fœtida comes the green <choice><orig>Lyon</orig><reg>Lion</reg></choice>: concerning which <choice><orig>sayth</orig><reg>says</reg></choice> Ro
                         <lb break="no"/>sarius; you have sought for <choice><orig>greennesse</orig><reg>greenness</reg></choice>, supposing, that <choice><orig>brasse</orig><reg>brass</reg></choice> was a <pc>-</pc>
                         <lb/>leprous body, because of that <choice><orig>greenesse</orig><reg>greenness</reg></choice> which it <choice><orig>hath</orig><reg>has</reg></choice>: and therefore <pc>-</pc>
                         <lb/>I declare to you, that whatsoever is perfect in <choice><orig>brasse</orig><reg>brass</reg></choice>, is that <choice><orig>greenesse</orig><reg>greenness</reg></choice>
                         
                         
                         
-                        <pb n="118"/><fw rend="italic">Discourse 37.</fw>
+                        <pb n="118" edRef="BeineckeMellon48" facs="#p118"/><fw rend="italic">Discourse 37.</fw>
                         <lb/>alone, which is in it: because that <choice><orig>greenesse</orig><reg>greenness</reg></choice> is by our Magistery suddenly
                         <lb/>turned into our most true gold, and this <choice><orig>wee</orig><reg>we</reg></choice> have had experience of:
                         <lb/>yet you can <choice><orig>noe</orig><reg>no</reg></choice> way <choice><orig>præpare</orig><reg>prepare</reg></choice> the Stone without Duenech green and

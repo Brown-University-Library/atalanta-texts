@@ -1,30 +1,142 @@
-<?xml version="1.1" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Title</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Publication Information</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Information about the source</p>
-         </sourceDesc>
-      </fileDesc>
-     <revisionDesc>
+  <teiHeader><fileDesc><titleStmt>
+                    <title>Atalanta Fugiens (digital transcription). Emblem 33.</title>
+                <principal ref="http://viaf.org/viaf/32331303">Tara Nummedal</principal>
+                <principal>Donna Bilak</principal>
+                <respStmt>
+                    <resp>Transcription and TEI Encoding</resp>
+                    <persName>Scott DiGiulio</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI encoding oversight</resp>
+                    <persName ref="https://orcid.org/0000-0002-0215-4324">Elli Mylonas</persName>
+                </respStmt>
+            </titleStmt>
+<editionStmt><edition>Transcription and Encoding completed <date>2019-05-20</date></edition></editionStmt><publicationStmt>
+            <authority>Brown University</authority>
+            <availability status="free">
+                <licence>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+                    <ref target="http://creativecommons.org/licenses/by-nc/4.0/">Distributed under a Creative Commons licence Attribution-BY-NC 4.0</ref>
+                    <p>Please acknowledge the Brown University Library and the Mellon Publication Initiative when re-using or re-publishing.</p>
+                </licence>
+            </availability>
+        </publicationStmt><sourceDesc>
+            <biblStruct type="book" xml:id="Maier1618">
+                <monogr>
+                    <title level="m">Atalanta fugiens, : hoc est, emblemata nova de secretis naturæ.
+                        chymica, accomodata partim oculis &amp; intellectui, figuris cupro incisi,
+                        adiectisque sententiis, epigrammatis &amp; notis, partim auribus &amp; recreationi
+                        animi plus minus 50 rugis musicalibus trium vocum ...</title>
+                    <title type="short">Atalanta fugiens,</title>
+                    <author><forename>Michael</forename><surname>Maier</surname></author>
+                    <imprint>
+                        <pubPlace>Oppenheimii</pubPlace>
+                        <publisher>Extypographia Hieronymi Galleri, sumptibus Joh. Theodori de Bry</publisher>
+                        <date>1618</date>
+                        <note type="url">https://repository.library.brown.edu/studio/item/bdr:698524/</note>
+                    </imprint>
+                    <extent>211, [5] p. (last leaf blank)</extent>
+                </monogr>
+            </biblStruct>
+        </sourceDesc></fileDesc><encodingDesc>
+            <projectDesc><p>This text has been transcribed and encoded using the TEI for Tara Nummedal and Donna Bilak’s <title>Furnace and Fugue: A Digital Edition of Michael Maier’s Atalanta fugiens (1618) with Scholarly Commentary</title>, part of Brown University’s Digital Publications Initiative, funded by the Andrew W. Mellon Foundation.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>This transcription includes all text in the Meier edition except for the words that are printed with the 
+                music of each fugue. Those haven't been transcribed as they are identical to the Latin epigram, and are also
+                transcribed as part of the musical notation. German has been transcribed as written, with inconsistent modernization
+                of spelling. Wrapped verse lines are indicated using <egXML xmlns="http://www.tei-c.org/ns/Examples"><hi rend="sling=below"/></egXML> or <egXML xmlns="http://www.tei-c.org/ns/Examples"><hi rend="sling-above"/></egXML></p>
+                <p>All line breaks are indicated using the <gi>lb</gi> element and are numbered within their containing <gi>div</gi> or <gi>ab</gi>. We use the <att>break</att> attribute to show hyphenation
+                    where it appears in the text. Pagination as printed in encoding using <gi>fw</gi>. The <gi>pb</gi> element is used 
+                    to provide the page number in a canonical form.</p>
+                <p>Within the discourse section of each element, <gi>ab</gi> are used to group text that appears on each page. This is useful when
+                aligning the transcription with page image from the book, but can be ignored otherwise.</p>
+                <p>Latin abbreviations are encoded and expanded using the Epi<ref target="http://www.stoa.org/epidoc/gl/latest/trans-abbrevfully.html"/>doc conventions.</p>
+                <p>All brevigraphs (et, per, pro, quod, qui) are encoded as abbreviations. Accented characters other than those accents used to mark abbreviations have been encoded as <gi>hi</gi> elements.</p>
+                <p>Indentations, drop caps and italics are generally not marked when they follow a consistent typographic
+                convention in the text. For ex. all epigrams are italicized, which is not explicity marked.</p>
+                <p>Running headers and catchwords are encoded as <gi>fw</gi>.</p>
+                <p>The use of "j" and "v" is retained as printed in the text and not regularized. Long s is silently transcribed as "s."</p>
+               <p>The few mis-spellings and inverted or duplicated letters are marked using <gi>sic</gi> and <gi>corr</gi> element pairs, <gi>surplus</gi>, and <gi>hi</gi>.</p>
+                <p>Personal names, work titles, places and organizational units are marked. Personal names are disambiguated using VIAF identifiers. Citations are supplied when possible.</p>
+                <p>The set of letter forms used in the book seems to have been missing the lowercase italic letter u, so the uppercase letter is used in its place throughout.</p>
+            </editorialDecl>
+            
+            <charDecl>
+                <glyph xml:id="brevi-pro">
+                    <glyphName>LATIN SMALL LETTER P WITH FLOURISH</glyphName>
+                    <desc>Brevigraph for "pro." Small descending tail to left of descender.</desc>
+                    <mapping type="printed">ꝓ</mapping>
+                    <mapping type="PUA">U+A753</mapping>
+                    <mapping type="expanded">pro</mapping>
+                    <mapping type="hi-rend">hook</mapping>
+                </glyph>
+                <glyph xml:id="brevi-per">
+                    <glyphName>LATIN SMALL LETTER P WITH SQUIRREL TAIL</glyphName>
+                    <desc>Brevigraph for "per." Small ascending tail to the left of descender.</desc>
+                    <mapping type="printed">ꝕ</mapping>
+                    <mapping type="PUA">U+A755</mapping>
+                    <mapping type="expanded">per</mapping>
+                    <mapping type="hi-rend">stroke</mapping>
+                </glyph>
+                 <glyph xml:id="brevi-qui">
+                     <glyphName>LATIN SMALL LETTER Q WITH STROKE THROUGH DESCENDER</glyphName>
+                    <desc>Brevigraph for "qui." Horizontal bar through descender.</desc>
+                    <mapping type="printed">ꝗ</mapping>
+                    <mapping type="PUA">U+A757</mapping>
+                     <mapping type="expanded">qui</mapping>
+                    <mapping type="hi-rend">bar</mapping>
+                </glyph>
+                 <glyph xml:id="brevi-quod">
+                     <glyphName>LATIN SMALL LETTER Q WITH DIAGONAL STROKE</glyphName>
+                    <desc>Brevigraph for "quod." Flourish ascending through descender from lower left to upper right.</desc>
+                    <mapping type="printed">ꝙ</mapping>
+                    <mapping type="PUA">U+A759</mapping>
+                     <mapping type="expanded">quod</mapping>
+                    <mapping type="hi-rend">stroke</mapping>
+                </glyph>
+                <glyph xml:id="brevi-que">
+                     <glyphName>LATIN SMALL LETTER Q WITH DIAGONAL STROKE</glyphName>
+                    <desc>Brevigraph for "quod." Flourish ascending through descender from lower left to upper right.</desc>
+                    <mapping type="printed">q</mapping>
+                     <mapping type="expanded">que</mapping>
+                    <mapping type="hi-rend">acute-tail</mapping>
+                </glyph>
+                <glyph xml:id="brevi-ae">
+                     <glyphName>LATIN SMALL LETTER E WITH OGONEK</glyphName>
+                    <desc>Brevigraph for "ae." e with a right facing hook underneath.</desc>
+                    <mapping type="printed">ę</mapping>
+                    <mapping type="PUA">U+0119</mapping>
+                     <mapping type="expanded">ae</mapping>
+                    <mapping type="hi-rend">hook</mapping>
+                </glyph>
+                <glyph xml:id="versicle">
+                     <glyphName>VERSICLE</glyphName>
+                    <desc>Brevigraph for a verse marker. v with a vertical slash through it..</desc>
+                    <mapping type="printed">℣</mapping>
+                    <mapping type="PUA">U+2123</mapping>
+                     <mapping type="expanded">v.</mapping>
+                    <mapping type="hi-rend">stroke</mapping>
+                </glyph>
+            </charDecl>
+            
+        </encodingDesc><revisionDesc>
         <change when="2018-03-12" who="SJD">Start encoding</change>
         <change when="2018-03-12" who="SJD">Finish draft</change>
         <change when="2018-08-18" who="EM">structural changes. See Github.</change>
         <change when="2018-09-11" who="SJD">Changed markup of verse line in German straddling two lines</change>
-     </revisionDesc>
-  </teiHeader>
-   
-   
+     <change when="2019-05-26" who="EM">Added teiHeader details</change></revisionDesc></teiHeader>
+   <facsimile>
+      <graphic url="https://repository.library.brown.edu/studio/item/bdr:760122" xml:id="p140"/>
+      <graphic url="https://repository.library.brown.edu/studio/item/bdr:760123" xml:id="p141"/>
+      <graphic url="https://repository.library.brown.edu/studio/item/bdr:760124" xml:id="p142"/>
+      <graphic url="https://repository.library.brown.edu/studio/item/bdr:760125" xml:id="p143"/>
+   </facsimile> 
   <text>
       <body>
          <div type="emblem" n="e33">
-            <pb n="140" edRef="Maier1618"/>
+            <pb n="140" edRef="Maier1618" facs="#p140"/>
             <fw type="pageNum" place="top-left">140</fw><fw type="header" place="top-center">FUGA <num value="33">XXXIII</num>. in 5. infrà.</fw>
             
             <div type="fugue" xml:lang="de">
@@ -49,7 +161,7 @@
             </div>
             <fw type="catchword">Emble-</fw>
             
-            <pb n="141" edRef="Maier1618"/>
+            <pb n="141" edRef="Maier1618" facs="#p141"/>
             
             <fw type="header" place="top-center">Emblema <num value="33">XXXIII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi> </fw><fw type="pageNum" place="top-right">141</fw>
             
@@ -72,7 +184,7 @@
             <fw type="gathering" place="bottom-right">S 3</fw> <fw type="catchword" place="bottom-right">Ex</fw>
             
             <div type="discourse" xml:lang="la">
-               <pb n="142" edRef="Maier1618"/>
+               <pb n="142" edRef="Maier1618" facs="#p142"/>
                <fw type="pageNum" place="top-left">142</fw> <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="33">XXXIII</num>.</fw>
                   <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e33-01"/>Ex arcanis natur<hi rend="ligature">ae</hi> est, qu<hi rend="grave">o</hi>d, ingruente hyeme, ran<hi rend="ligature">ae</hi> <g type="ampersand">et</g> hirundi
@@ -111,7 +223,7 @@
                      <lb n="34"/>ut <hi rend="italic"><persName ref="https://viaf.org/viaf/9919481">Pontanus</persName></hi> in <title>stellis</title>:
                   </ab></div>
                   <fw type="catchword" place="bottom-right">P<hi rend="ligature">oe</hi>niteat</fw>
-               <pb n="143" edRef="Maier1618"/>
+               <pb n="143" edRef="Maier1618" facs="#p143"/>
                <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi>. <num value="33">XXXIII</num>.</fw> <fw type="pageNum" place="top-right"><choice><sic>133</sic><corr>143</corr></choice></fw>
                   <div type="discourse-p2"><ab>
                      <lb n="1"/><quote ana="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2011.01.0513"><lg>

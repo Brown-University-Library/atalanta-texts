@@ -1,30 +1,117 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Title</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Publication Information</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Information about the source</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
+       <fileDesc>
+           
+        <titleStmt>
+                    <title>Atalanta Fugiens (digital transcription). Emblem 06.</title>
+                <principal ref="http://viaf.org/viaf/32331303">Tara Nummedal</principal>
+                <principal>Donna Bilak</principal>
+                <respStmt>
+                    <resp>Transcription and TEI Encoding</resp>
+                    <persName>George Elliot</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Editorial Oversight and Proofreading</resp>
+                    <persName>Donna Bilak</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI encoding oversight</resp>
+                    <persName ref="https://orcid.org/0000-0002-0215-4324">Elli Mylonas</persName>
+                </respStmt>
+            </titleStmt>
+           
+        <editionStmt>
+            <edition>Transcription and Encoding completed <date>2019-05-20</date></edition>
+        </editionStmt>
+           
+           <publicationStmt>
+            <authority>Brown University</authority>
+            <availability status="free">
+                <licence>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+                    <ref target="http://creativecommons.org/licenses/by-nc/4.0/">Distributed under a Creative Commons licence Attribution-BY-NC 4.0</ref>
+                </licence>
+            </availability>
+        </publicationStmt>
+           
+           <sourceDesc>
+                 <biblStruct type="manuscript">
+                    <monogr>
+                        <title level="m">Atalanta running, that is, new chymicall emblems relating
+                            to the secrets of nature</title>
+                        <author><forename>Michael</forename><surname>Maier</surname></author>
+                        <idno type="Beinecke">Mellon MS. 88</idno>
+                        <imprint>
+                            <pubPlace>England (?)</pubPlace>
+                            <date>[1618 or after]</date>
+                            <note type="url">https://brbl-dl.library.yale.edu/vufind/Record/4262893</note>
+                        </imprint>
+                        <extent>86 pp.</extent>
+                    </monogr>
+                </biblStruct>
+        </sourceDesc>
+        </fileDesc>
+            
+        <encodingDesc>
+            <projectDesc><p>This text has been transcribed and encoded using the TEI for Tara Nummedal and Donna Bilak’s <title>Furnace and Fugue: A Digital Edition of Michael Maier’s Atalanta fugiens (1618) with Scholarly Commentary</title>, part of Brown University’s Digital Publications Initiative, funded by the Andrew W. Mellon Foundation.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>This transcription includes all text in the Beinecke library Mellon MS. 88 (English Translation of Michael Meier's Atalanta Fugiens).</p>
+                <p>All line breaks are indicated using the <gi>lb</gi> element. Hyphenation is marked with the <att>break</att> attribute.
+                    This manuscript has hyphens filling out lines at the right margin, as well as at the end of a page. These are marked as punctuation using
+                     the <gi>pc</gi> element. Pagination as printed is encoded using <gi>fw</gi>. <gi>pb</gi> elements 
+                     provide the page number in a canonical form. Page breaks in the original Meier printed text are also inserted and have been marked with a <gi>milestone</gi> element 
+                    <egXML xmlns="http://www.tei-c.org/ns/Examples"><milestone unit="page" ed="Meier" n="037"/></egXML></p>
+                <p>Within the discourse section of each element, <gi>ab</gi> are used to group text that appears on each page of the equivalent Meier edition. This is useful when
+                formatting a side-by-side edition, but can be ignored otherwise.</p>
+                <p>Archaic spellings have been modernized throughout, using <gi>orig</gi>/<gi>reg</gi> pairs.</p>
+                <p>Strikeouts and additions have been marked using <gi>subst</gi>, <gi>add</gi> and <gi>del</gi> elements.</p>
+                <p>This manuscript has underlining in a variety of hands. Underlining is indicated and an attempt has been made to 
+                disambiguate hands. Underlining is marked using the <gi>seg</gi> element, for example, <egXML xmlns="http://www.tei-c.org/ns/Examples"><seg rend="underline" hand="2"/></egXML></p>
+               <p>In the Author's Epigram, text is marked with vertical bars along the left margin, this is marked as a note. In the Preface to the Reader, a long margin note is grouped using a long brace which is encoded
+                    using a <att>rend</att> attribute on the note.</p>
+                <p>Margin notes contain some alchemical symbols, which are itemized in the Character Declaration below.</p>
+            </editorialDecl>
+            
+            <charDecl>
+                <glyph xml:id="antimony">
+                    <glyphName>EARTH</glyphName>
+                    <desc>circle with a cross on the top of it</desc>
+                    <mapping type="printed">♁</mapping>
+                    <mapping type="PUA">U+2641</mapping>
+                </glyph>
+                <glyph xml:id="iron">
+                    <glyphName>MALE SIGN</glyphName>
+                    <desc>circle with an arrow pointing diagonally up</desc>
+                    <mapping type="printed">♂</mapping>
+                    <mapping type="PUA">U+2642</mapping>
+                </glyph>
+                 <glyph xml:id="sulphur">
+                     <glyphName>ALCHEMICAL SYMBOL FOR SULPHUR</glyphName>
+                    <desc>downward triangle with cross on top</desc>
+                    <mapping type="printed">🜍</mapping>
+                    <mapping type="PUA">U+1F70D</mapping>
+                </glyph>
+            </charDecl>
+            
+        </encodingDesc>
+        
+        </teiHeader>
+   
+   <facsimile>
+      <graphic url="https://brbl-zoom.library.yale.edu/viewer/15959816" xml:id="p023"/>
+      <graphic url="https://brbl-zoom.library.yale.edu/viewer/15959817" xml:id="p024"/>
+      <graphic url="https://brbl-zoom.library.yale.edu/viewer/15959818" xml:id="p025"/>
+   </facsimile>
    
    <text>
       <body>
          <div type="emblem" n="e06">
-            <pb n="23"/>
+            <pb n="23" edRef="BeineckeMellon48" facs="#p023"/>
             
             
             <div type="title" xml:lang="en">
-               <milestone unit="page" ed="Meier" n="033"/>
+               <milestone unit="page" ed="Meier1618" n="033"/>
                <head rend="italic">
                  <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 6. Of the Secrets of Nature.
                  </head>
@@ -48,52 +135,52 @@
             </div>
             
             
-            <pb n="24"/>
+            <pb n="24" edRef="BeineckeMellon48" facs="#p024"/>
             <div type="discourse" xml:lang="en">
-               <milestone unit="page" ed="Meier" n="034"/>
+               <milestone unit="page" ed="Meier1618" n="034"/>
                <head rend="italic">Discourse 6.</head>
                <div type="discourse-p1"><ab> 
-                  <lb/><milestone unit="section" n="e06-01" />A City <choice><orig>sayth</orig><reg>says</reg></choice> Plato subsists not by <choice><orig>Physitian</orig><reg>Physician</reg></choice> and <choice><orig>Physitian</orig><reg>Physician</reg></choice>, but by <choice><orig>Physitian</orig><reg>Physician</reg></choice> and
+                  <lb/><milestone unit="section" n="e06-01"/>A City <choice><orig>sayth</orig><reg>says</reg></choice> Plato subsists not by <choice><orig>Physitian</orig><reg>Physician</reg></choice> and <choice><orig>Physitian</orig><reg>Physician</reg></choice>, but by <choice><orig>Physitian</orig><reg>Physician</reg></choice> and
                   <lb/>husbandman, that is, men of <choice><orig>divers</orig><reg>diverse</reg></choice> functions, but <choice><orig>hee</orig><reg>he</reg></choice> mentions the Husbandman
                   <lb/>and <choice><orig>Physitian</orig><reg>Physician</reg></choice> first, because their works are very conspicuous in the imitation, <pc>-</pc>
-                  <lb/>emendation, and perfection of nature: <milestone unit="section" n="e06-02" />for they both take a <choice><orig>naturall</orig><reg>natural</reg></choice> subject,
+                  <lb/>emendation, and perfection of nature: <milestone unit="section" n="e06-02"/>for they both take a <choice><orig>naturall</orig><reg>natural</reg></choice> subject,
                   <lb/>in which they according to art add some <choice><orig>certaine</orig><reg>certain</reg></choice> things necessary being wanting,
-                  <lb/>or <choice><orig>allso</orig><reg>also</reg></choice> remove those things which are superfluous: <milestone unit="section" n="e06-03" /><choice><orig>soe</orig><reg>so</reg></choice> that the art of both may
+                  <lb/>or <choice><orig>allso</orig><reg>also</reg></choice> remove those things which are superfluous: <milestone unit="section" n="e06-03"/><choice><orig>soe</orig><reg>so</reg></choice> that the art of both may
                   <lb/>(as medicine by Hippocrates) be defined by the addition of defect, and subtract
-                  <lb break="no"/>tion of superfluity: <milestone unit="section" n="e06-04" />for what <choice><orig>dos</orig><reg>does</reg></choice> the Husbandman more than add ploughing, ridging
+                  <lb break="no"/>tion of superfluity: <milestone unit="section" n="e06-04"/>for what <choice><orig>dos</orig><reg>does</reg></choice> the Husbandman more than add ploughing, ridging
                   <lb/>furrowing, harrowing, dunging or manuring, sowing, etc. to land left by nature, that
                   <lb/>is, commit the increase and good <choice><orig>successe</orig><reg>success</reg></choice> to nature, which <choice><orig>administreth</orig><reg>administers</reg></choice> the heat
                   <lb/>of the <choice><orig>Sunne</orig><reg>Sun</reg></choice>, and <choice><orig>raine</orig><reg>rain</reg></choice>, and <choice><orig>multiplyes</orig><reg>multiplies</reg></choice> the seeds by them, and promotes them to
-                  <lb/>standing <choice><orig>corne</orig><reg>corn</reg></choice> soon after to be reaped: <milestone unit="section" n="e06-05" />in the <choice><orig>meane</orig><reg>mean</reg></choice> time whilst the <choice><orig>herbe</orig><reg>herb</reg></choice> is <pc>-</pc>
+                  <lb/>standing <choice><orig>corne</orig><reg>corn</reg></choice> soon after to be reaped: <milestone unit="section" n="e06-05"/>in the <choice><orig>meane</orig><reg>mean</reg></choice> time whilst the <choice><orig>herbe</orig><reg>herb</reg></choice> is <pc>-</pc>
                   <lb/>Springing the husbandman weeds out thistles and all impediments, gathers <pc>-</pc>
                   <lb/>the <choice><orig>corne</orig><reg>corn</reg></choice> being ripe, takes away things superfluous from it being reaped, namely,
-                  <lb/>straw, <choice><orig>chaffe</orig><reg>chaff</reg></choice>, and such other things: <milestone unit="section" n="e06-06" /><choice><orig>Soe</orig><reg>So</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> a <choice><orig>Physitian</orig><reg>Physician</reg></choice> (as <choice><orig>allso</orig><reg>also</reg></choice> a Chymist in
+                  <lb/>straw, <choice><orig>chaffe</orig><reg>chaff</reg></choice>, and such other things: <milestone unit="section" n="e06-06"/><choice><orig>Soe</orig><reg>So</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> a <choice><orig>Physitian</orig><reg>Physician</reg></choice> (as <choice><orig>allso</orig><reg>also</reg></choice> a Chymist in
                   <lb/>a different respect) <choice><orig>teacheth</orig><reg>teaches</reg></choice> how to <choice><orig>præserve</orig><reg>preserve</reg></choice> <choice><orig>præsent</orig><reg>present</reg></choice> health to mans body, being
                   <lb/>wanting to recover it by <choice><orig>severall</orig><reg>several</reg></choice> <choice><orig>remedyes</orig><reg>remedies</reg></choice>, takes away the <choice><orig>morbificke</orig><reg>morbific</reg></choice> cause,
                   <lb/>cures the disease, <choice><orig>asswageth</orig><reg>assuages</reg></choice> symptoms, abates superfluous blood by opening
                   <lb/>a <choice><orig>veyne</orig><reg>vein</reg></choice>, being wanting restores it by <choice><orig>apointing</orig><reg>appointing</reg></choice> good order of <choice><orig>dyet</orig><reg>diet</reg></choice>, evacua
                   <lb break="no"/>ates noxious humors by purgation, and <choice><orig>soe</orig><reg>so</reg></choice> imitates, <choice><orig>supplyes</orig><reg>supplies</reg></choice>, and amends
                   <lb/>nature a thousand ways by the works of the understanding and art; which
-                  <lb/>being notorious, <choice><orig>Chymicall</orig><reg>Chymical</reg></choice> things are rather to be considered by us: <milestone unit="section" n="e06-07" />for Chy
+                  <lb/>being notorious, <choice><orig>Chymicall</orig><reg>Chymical</reg></choice> things are rather to be considered by us: <milestone unit="section" n="e06-07"/>for Chy
                   <lb break="no"/>mistry <choice><orig>doth</orig><reg>does</reg></choice> first declare the operations of agriculture by its secret bounds <pc>-</pc>
-                  <lb/>and <choice><orig>wayes</orig><reg>ways</reg></choice> of operating: <milestone unit="section" n="e06-08" />Husbandmen have land, wherein to sow seed, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice>
+                  <lb/>and <choice><orig>wayes</orig><reg>ways</reg></choice> of operating: <milestone unit="section" n="e06-08"/>Husbandmen have land, wherein to sow seed, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice>
                   <lb/>the Chymists: They have dung wherewith to manure their ground, <choice><orig>soe</orig><reg>so</reg></choice> <pc>-</pc>
                   <lb/><choice><orig>allso</orig><reg>also</reg></choice> these, without which nothing could be done, nor any successe expected:
-                  <lb/>They have seed, the multiplication of which they desire: <milestone unit="section" n="e06-09" /><seg rend="underline" hand="2">if Chymists</seg> <pc>-</pc>
+                  <lb/>They have seed, the multiplication of which they desire: <milestone unit="section" n="e06-09"/><seg rend="underline" hand="2">if Chymists</seg> <pc>-</pc>
                   <lb/><seg rend="underline" hand="2">had not the like</seg>, they would (as Lully <choice><orig>sayth</orig><reg>says</reg></choice>) imitate the painter, that <pc>-</pc>
                   <lb/><choice><orig>endeavoures</orig><reg>endeavors</reg></choice> to <choice><orig>expresse</orig><reg>express</reg></choice> the face of a <choice><orig>certaine</orig><reg>certain</reg></choice> man, <choice><orig>whome</orig><reg>whom</reg></choice> <choice><orig>hee</orig><reg>he</reg></choice> had never
-                  <lb/>seen, nor the image of him: <milestone unit="section" n="e06-10" />Husbandmen expect <choice><orig>raine</orig><reg>rain</reg></choice>, and heat of the <pc>-</pc>
+                  <lb/>seen, nor the image of him: <milestone unit="section" n="e06-10"/>Husbandmen expect <choice><orig>raine</orig><reg>rain</reg></choice>, and heat of the <pc>-</pc>
                   <lb/><choice><orig>Sunne</orig><reg>Sun</reg></choice>, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>doe</orig><reg>do</reg></choice> the Chymists <choice><orig>truely</orig><reg>truly</reg></choice> administe<seg rend="underline" hand="2">r heat convenient to</seg>
-                  <lb/><seg rend="underline" hand="2">their <choice><orig>worke</orig><reg>work</reg></choice></seg>, <seg rend="underline" hand="2">and <choice><orig>raine</orig><reg>rain</reg></choice></seg>: I need say <choice><orig>noe</orig><reg>no</reg></choice> more: <milestone unit="section" n="e06-11" /><note place="margin" n="X">X Chymistry is exactly parallell to agriculture, and its deputy,
+                  <lb/><seg rend="underline" hand="2">their <choice><orig>worke</orig><reg>work</reg></choice></seg>, <seg rend="underline" hand="2">and <choice><orig>raine</orig><reg>rain</reg></choice></seg>: I need say <choice><orig>noe</orig><reg>no</reg></choice> more: <milestone unit="section" n="e06-11"/><note place="margin" n="X">X Chymistry is exactly parallell to agriculture, and its deputy,
                   <lb/>which in all things <choice><orig>expresseth</orig><reg>expresses</reg></choice> its offices, but under a most absolute alle
-                  <lb break="no"/>gory<pc>------------</pc></note><milestone unit="section" n="e06-12" />From hence the Ancients pro
+                  <lb break="no"/>gory<pc>------------</pc></note><milestone unit="section" n="e06-12"/>From hence the Ancients pro
                   <lb break="no"/>duced Ceres, Triptolemus, Osiris, Dionysus, the golden Gods, as relating to Chy
-                  <lb break="no"/>mistry, </ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier" n="035"/>teaching as it were men how to cast the seeds of fruits into their <pc>-</pc>
+                  <lb break="no"/>mistry, </ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier1618" n="035"/>teaching as it were men how to cast the seeds of fruits into their <pc>-</pc>
                   <lb/>earth, <choice><orig>shewing</orig><reg>showing</reg></choice> tillage, with the propagation of vines, and use of wine, <pc>-</pc>
                   <lb/>all which things the ignorant have interpreted to <choice><orig>rusticall</orig><reg>rustical</reg></choice> operations, but
-                  <lb/>erroneously: <milestone unit="section" n="e06-13" />for those things, which are absconded from the vulgar, and <pc>-</pc>
+                  <lb/>erroneously: <milestone unit="section" n="e06-13"/>for those things, which are absconded from the vulgar, and <pc>-</pc>
                   <lb/>declared to the Learned under these veils of agriculture, are most abstruse <pc>-</pc>
-                  <lb/><choice><orig>mysteryes</orig><reg>mysteries</reg></choice> of nature: <milestone unit="section" n="e06-14" />To this end say the Philosophers that their gold must <pc>-</pc>
+                  <lb/><choice><orig>mysteryes</orig><reg>mysteries</reg></choice> of nature: <milestone unit="section" n="e06-14"/>To this end say the Philosophers that their gold must <pc>-</pc>
                   <lb/>be sowed upon white foliated earth, as if they meant that the Sowing of <choice><orig>corne</orig><reg>corn</reg></choice>
                   <lb/>Should be observed and imitated for example, <seg rend="underline" hand="2">which the author of the trea
                   <note place="margin" hand="2">?</note><lb break="no"/>tise of <choice><orig>corne</orig><reg>corn</reg></choice></seg> <seg rend="underline" hand="2">and</seg> Jo<seg rend="underline" hand="2">doc. Greverus have most excellently performed in their</seg> <pc>-</pc>
@@ -101,29 +188,29 @@
                   <lb/>agriculture in the producing of <choice><orig>corne</orig><reg>corn</reg></choice> to the semination of gold, or generation of
                   
        
-                  <pb n="25"/><fw rend="italic">Discourse 6.</fw>
-                  <lb/>the tincture: <milestone unit="section" n="e06-15" />White earth, because sandy, <choice><orig>yeilds</orig><reg>yields</reg></choice> little fruit to the countrymen, by
-                  <lb/><choice><orig>whome</orig><reg>whom</reg></choice> that which is <choice><orig>blacke</orig><reg>black</reg></choice> and <choice><orig>fatt</orig><reg>fat</reg></choice> is more desired, <milestone unit="section" n="e06-16" />but the white principally
+                  <pb n="25" edRef="BeineckeMellon48" facs="#p025"/><fw rend="italic">Discourse 6.</fw>
+                  <lb/>the tincture: <milestone unit="section" n="e06-15"/>White earth, because sandy, <choice><orig>yeilds</orig><reg>yields</reg></choice> little fruit to the countrymen, by
+                  <lb/><choice><orig>whome</orig><reg>whom</reg></choice> that which is <choice><orig>blacke</orig><reg>black</reg></choice> and <choice><orig>fatt</orig><reg>fat</reg></choice> is more desired, <milestone unit="section" n="e06-16"/>but the white principally
                   <lb/><choice><orig>conduceth</orig><reg>conduces</reg></choice> to the Philosophers, if it be foliated, that is well <choice><orig>præpared</orig><reg>prepared</reg></choice>, because <pc>-</pc>
                   <lb/>they know how to enrich it with their dung, the other not at all: Now sowing is
                   <lb/>the propagation of the world, whereby that, which cannot long endure in an
-                  <lb/><choice><orig>individuall</orig><reg>individual</reg></choice>, is caused to persist in the Species: <milestone unit="section" n="e06-17" />This is in man, <choice><orig>animalls</orig><reg>animals</reg></choice>, and
+                  <lb/><choice><orig>individuall</orig><reg>individual</reg></choice>, is caused to persist in the Species: <milestone unit="section" n="e06-17"/>This is in man, <choice><orig>animalls</orig><reg>animals</reg></choice>, and
                   <lb/>plants, in these hermaphroditically, in them under two distinct sexes: but in
                   <lb/><choice><orig>metalls</orig><reg>metals</reg></choice> <choice><orig>farre</orig><reg>far</reg></choice> otherwise: for i<seg rend="underline" hand="2">n them a line is made of the flux of a point, a</seg> <pc>-</pc>
-                  <lb/><seg rend="underline" hand="2">superficies of the flux of a line,</seg> a <seg rend="underline" hand="2">body of the flux of a superficies:</seg> <milestone unit="section" n="e06-18" />But <pc>-</pc>
+                  <lb/><seg rend="underline" hand="2">superficies of the flux of a line,</seg> a <seg rend="underline" hand="2">body of the flux of a superficies:</seg> <milestone unit="section" n="e06-18"/>But <pc>-</pc>
                   <lb/>the <choice><orig>Starrs</orig><reg>Stars</reg></choice> produced that point before the line, superficies, and body, because <pc>-</pc>
-                  <lb/>it is the principle of them all: <milestone unit="section" n="e06-19" />Nature added the flux a long time after, that is, <pc>-</pc>
+                  <lb/>it is the principle of them all: <milestone unit="section" n="e06-19"/>Nature added the flux a long time after, that is, <pc>-</pc>
                   <lb/>the <choice><orig>cælestiall</orig><reg>celestial</reg></choice> <choice><orig>Sunne</orig><reg>Sun</reg></choice> did in the earth generate a <choice><orig>Sonne</orig><reg>Son</reg></choice>, <choice><orig>whome</orig><reg>whom</reg></choice> Mercury <choice><orig>coḿitted</orig><reg>committed</reg></choice>
                   <lb/>to Vulcan and Chiron to be educated, that is, to <choice><orig>manuall</orig><reg>manual</reg></choice> artifice, to be instructed,
                   <lb/>even as they write of Achilles, who was held and hardened in fire by his mother
-                  <lb/>Thetys: <milestone unit="section" n="e06-20" /><choice><orig>hee</orig><reg>he</reg></choice>, amongst other things, learned <choice><orig>Musicke</orig><reg>Music</reg></choice>, and the art of playing on the <note place="margin">For this reason <choice><orig>sayth</orig><reg>says</reg></choice> <lb/>Ovid. Phyllirides <pc>-</pc><lb/>made the youth <pc>-</pc><lb/>Achilles an excellent <lb/>Harper<pc>. . . .</pc></note>
-                  <lb/>Harp from Chiron: <milestone unit="section" n="e06-21" />but Achilles being <choice><orig>noe</orig><reg>no</reg></choice> other than the <choice><orig>Philosphicall</orig><reg>Philosophical</reg></choice> subject (
+                  <lb/>Thetys: <milestone unit="section" n="e06-20"/><choice><orig>hee</orig><reg>he</reg></choice>, amongst other things, learned <choice><orig>Musicke</orig><reg>Music</reg></choice>, and the art of playing on the <note place="margin">For this reason <choice><orig>sayth</orig><reg>says</reg></choice> <lb/>Ovid. Phyllirides <pc>-</pc><lb/>made the youth <pc>-</pc><lb/>Achilles an excellent <lb/>Harper<pc>. . . .</pc></note>
+                  <lb/>Harp from Chiron: <milestone unit="section" n="e06-21"/>but Achilles being <choice><orig>noe</orig><reg>no</reg></choice> other than the <choice><orig>Philosphicall</orig><reg>Philosophical</reg></choice> subject (
                   <lb/>whose <choice><orig>Sonne</orig><reg>Son</reg></choice> was was Pyrrhus with red <choice><orig>haire</orig><reg>hair</reg></choice>, without which two Troy could not be <pc>-</pc>
                   <lb/>taken and subdued, as <choice><orig>wee</orig><reg>we</reg></choice> have abundantly demonstrated in our <choice><orig>Hieroglyphicks</orig><reg>Hieroglyphics</reg></choice> <pc>-</pc>
                   <lb/><seg rend="v-lines-right">booke 6.) therefore <choice><orig>doe</orig><reg>do</reg></choice> <choice><orig>wee</orig><reg>we</reg></choice> not without reason touch (though cursorily) upon <choice><orig>Musicke</orig><reg>Music</reg></choice>
                   <lb/>in this our <choice><orig>worke</orig><reg>work</reg></choice>, where <choice><orig>wee</orig><reg>we</reg></choice> describe Achilles, and his <choice><orig>heroicke</orig><reg>heroic</reg></choice> virtues and en 
-                  <lb break="no"/>terprises: <milestone unit="section" n="e06-22" />For if <choice><orig>Musicke</orig><reg>Music</reg></choice> adorned <choice><orig>soe</orig><reg>so</reg></choice> great a <choice><orig>Heroe</orig><reg>Hero</reg></choice>, why may it not <choice><orig>allso</orig><reg>also</reg></choice> <pc>-</pc>
-                  <lb/>make this our <choice><orig>worke</orig><reg>work</reg></choice> more complete and acceptable: <milestone unit="section" n="e06-23" />For the <choice><orig>Angells</orig><reg>Angels</reg></choice> sing (as the
+                  <lb break="no"/>terprises: <milestone unit="section" n="e06-22"/>For if <choice><orig>Musicke</orig><reg>Music</reg></choice> adorned <choice><orig>soe</orig><reg>so</reg></choice> great a <choice><orig>Heroe</orig><reg>Hero</reg></choice>, why may it not <choice><orig>allso</orig><reg>also</reg></choice> <pc>-</pc>
+                  <lb/>make this our <choice><orig>worke</orig><reg>work</reg></choice> more complete and acceptable: <milestone unit="section" n="e06-23"/>For the <choice><orig>Angells</orig><reg>Angels</reg></choice> sing (as the
                   <lb/>sacred scriptures attest<supplied>)</supplied>, the heavens sing, as Pythagoras <choice><orig>affirmes</orig><reg>affirms</reg></choice>, and, as the <pc>-</pc>
                   <lb/>Psalmist <choice><orig>sayth</orig><reg>says</reg></choice>, declare the glory of God, the Muses and Apollo sing, as <pc>-</pc>
                   <lb/>the <choice><orig>Poetts</orig><reg>Poets</reg></choice>, men even infants sing, birds sing, Sheep and geese sing in <pc>-</pc>

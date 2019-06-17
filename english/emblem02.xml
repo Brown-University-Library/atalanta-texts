@@ -1,30 +1,117 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Title</title>
+       <fileDesc>
+           
+        <titleStmt>
+                    <title>Atalanta Fugiens (digital transcription). Emblem 02.</title>
+                <principal ref="http://viaf.org/viaf/32331303">Tara Nummedal</principal>
+                <principal>Donna Bilak</principal>
+                <respStmt>
+                    <resp>Transcription and TEI Encoding</resp>
+                    <persName>George Elliot</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Editorial Oversight and Proofreading</resp>
+                    <persName>Donna Bilak</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI encoding oversight</resp>
+                    <persName ref="https://orcid.org/0000-0002-0215-4324">Elli Mylonas</persName>
+                </respStmt>
             </titleStmt>
-            <publicationStmt>
-                <p>Publication Information</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Information about the source</p>
-            </sourceDesc>
+           
+        <editionStmt>
+            <edition>Transcription and Encoding completed <date>2019-05-20</date></edition>
+        </editionStmt>
+           
+           <publicationStmt>
+            <authority>Brown University</authority>
+            <availability status="free">
+                <licence>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+                    <ref target="http://creativecommons.org/licenses/by-nc/4.0/">Distributed under a Creative Commons licence Attribution-BY-NC 4.0</ref>
+                </licence>
+            </availability>
+        </publicationStmt>
+           
+           <sourceDesc>
+                 <biblStruct type="manuscript">
+                    <monogr>
+                        <title level="m">Atalanta running, that is, new chymicall emblems relating
+                            to the secrets of nature</title>
+                        <author><forename>Michael</forename><surname>Maier</surname></author>
+                        <idno type="Beinecke">Mellon MS. 88</idno>
+                        <imprint>
+                            <pubPlace>England (?)</pubPlace>
+                            <date>[1618 or after]</date>
+                            <note type="url">https://brbl-dl.library.yale.edu/vufind/Record/4262893</note>
+                        </imprint>
+                        <extent>86 pp.</extent>
+                    </monogr>
+                </biblStruct>
+        </sourceDesc>
         </fileDesc>
-    </teiHeader>
+            
+        <encodingDesc>
+            <projectDesc><p>This text has been transcribed and encoded using the TEI for Tara Nummedal and Donna Bilak’s <title>Furnace and Fugue: A Digital Edition of Michael Maier’s Atalanta fugiens (1618) with Scholarly Commentary</title>, part of Brown University’s Digital Publications Initiative, funded by the Andrew W. Mellon Foundation.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>This transcription includes all text in the Beinecke library Mellon MS. 88 (English Translation of Michael Meier's Atalanta Fugiens).</p>
+                <p>All line breaks are indicated using the <gi>lb</gi> element. Hyphenation is marked with the <att>break</att> attribute.
+                    This manuscript has hyphens filling out lines at the right margin, as well as at the end of a page. These are marked as punctuation using
+                     the <gi>pc</gi> element. Pagination as printed is encoded using <gi>fw</gi>. <gi>pb</gi> elements 
+                     provide the page number in a canonical form. Page breaks in the original Meier printed text are also inserted and have been marked with a <gi>milestone</gi> element 
+                    <egXML xmlns="http://www.tei-c.org/ns/Examples"><milestone unit="page" ed="Meier" n="037"/></egXML></p>
+                <p>Within the discourse section of each element, <gi>ab</gi> are used to group text that appears on each page of the equivalent Meier edition. This is useful when
+                formatting a side-by-side edition, but can be ignored otherwise.</p>
+                <p>Archaic spellings have been modernized throughout, using <gi>orig</gi>/<gi>reg</gi> pairs.</p>
+                <p>Strikeouts and additions have been marked using <gi>subst</gi>, <gi>add</gi> and <gi>del</gi> elements.</p>
+                <p>This manuscript has underlining in a variety of hands. Underlining is indicated and an attempt has been made to 
+                disambiguate hands. Underlining is marked using the <gi>seg</gi> element, for example, <egXML xmlns="http://www.tei-c.org/ns/Examples"><seg rend="underline" hand="2"/></egXML></p>
+               <p>In the Author's Epigram, text is marked with vertical bars along the left margin, this is marked as a note. In the Preface to the Reader, a long margin note is grouped using a long brace which is encoded
+                    using a <att>rend</att> attribute on the note.</p>
+                <p>Margin notes contain some alchemical symbols, which are itemized in the Character Declaration below.</p>
+            </editorialDecl>
+            
+            <charDecl>
+                <glyph xml:id="antimony">
+                    <glyphName>EARTH</glyphName>
+                    <desc>circle with a cross on the top of it</desc>
+                    <mapping type="printed">♁</mapping>
+                    <mapping type="PUA">U+2641</mapping>
+                </glyph>
+                <glyph xml:id="iron">
+                    <glyphName>MALE SIGN</glyphName>
+                    <desc>circle with an arrow pointing diagonally up</desc>
+                    <mapping type="printed">♂</mapping>
+                    <mapping type="PUA">U+2642</mapping>
+                </glyph>
+                 <glyph xml:id="sulphur">
+                     <glyphName>ALCHEMICAL SYMBOL FOR SULPHUR</glyphName>
+                    <desc>downward triangle with cross on top</desc>
+                    <mapping type="printed">🜍</mapping>
+                    <mapping type="PUA">U+1F70D</mapping>
+                </glyph>
+            </charDecl>
+            
+        </encodingDesc>
+        
+        </teiHeader>
+    
+    <facsimile>
+        <graphic url="https://brbl-zoom.library.yale.edu/viewer/15959804" xml:id="p011"/>
+        <graphic url="https://brbl-zoom.library.yale.edu/viewer/15959805" xml:id="p012"/>
+        <graphic url="https://brbl-zoom.library.yale.edu/viewer/15959806" xml:id="p013"/>
+    </facsimile>
     
     <text>
         <body>
             <div type="emblem" n="e02">
-                <pb n="11"/>
+                <pb n="11" edRef="BeineckeMellon48" facs="#p011"/>
                 
                 
                 <div type="title" xml:lang="en">
-                    <milestone unit="page" ed="Meier" n="017"/>
+                    <milestone unit="page" ed="Meier1618" n="017"/>
                     <head rend="italic">
                         <lb/><choice><orig>Embleme</orig><reg>Emblem</reg></choice> 2. Of the Secrets of Nature.
                     </head>
@@ -48,74 +135,74 @@
                 </div>
                 
                 
-                <pb n="12"/> 
+                <pb n="12" edRef="BeineckeMellon48" facs="#p012"/> 
                 <div type="discourse" xml:lang="en">
-                    <milestone unit="page" ed="Meier" n="018"/>
+                    <milestone unit="page" ed="Meier1618" n="018"/>
                     <head rend="italic">Discourse 2.</head>
                     <div type="discourse-p1"><ab> 
-                        <lb/><milestone unit="section" n="e02-01" />It is concluded by the <choice><orig>Peripateticks</orig><reg>Peripatetics</reg></choice>, and Orthodox Philosophers, that the <pc>-</pc> 
+                        <lb/><milestone unit="section" n="e02-01"/>It is concluded by the <choice><orig>Peripateticks</orig><reg>Peripatetics</reg></choice>, and Orthodox Philosophers, that the <pc>-</pc> 
                         <lb/>thing nourishing is converted into the substance of the thing nourished, and <pc>-</pc>
                         <lb/>assimilated to it, not indeed before, but after the alteration of it, and that is ac
-                        <lb break="no"/>counted an infallible <choice><orig>axiome</orig><reg>axiom</reg></choice>: <milestone unit="section" n="e02-02" />for how would the thing nourishing (which is all
+                        <lb break="no"/>counted an infallible <choice><orig>axiome</orig><reg>axiom</reg></choice>: <milestone unit="section" n="e02-02"/>for how would the thing nourishing (which is all
                         <lb break="no"/>ready before the like and the same with the thing nourished) have need of
                         <lb/>the mutation of its essence, which if it should happen, it would not <choice><orig>remayne</orig><reg>remain</reg></choice>
                         <lb/>the same nor the like; or how should those things, which cannot be assimilated
-                        <lb/>to the thing nourished, be taken for nutriment, <milestone unit="section" n="e02-03" />such as are wood, stones and <pc>-</pc>
-                        <lb/>the like? <milestone unit="section" n="e02-04" />as therefore the first is <choice><orig>vayne</orig><reg>vain</reg></choice>, <choice><orig>soe</orig><reg>so</reg></choice> the other is contrary to nature; <milestone unit="section" n="e02-05" />but
+                        <lb/>to the thing nourished, be taken for nutriment, <milestone unit="section" n="e02-03"/>such as are wood, stones and <pc>-</pc>
+                        <lb/>the like? <milestone unit="section" n="e02-04"/>as therefore the first is <choice><orig>vayne</orig><reg>vain</reg></choice>, <choice><orig>soe</orig><reg>so</reg></choice> the other is contrary to nature; <milestone unit="section" n="e02-05"/>but
                         <lb/>for an Infant new <choice><orig>borne</orig><reg>born</reg></choice> to be nourished by the <choice><orig>milke</orig><reg>milk</reg></choice> of <choice><orig>animalls</orig><reg>animals</reg></choice>, is a thing
                         <lb/>not repugnant to nature: because assimilation of it may be made, but far
-                        <lb/>more easily of the mothers, than of anothers: <milestone unit="section" n="e02-06" />wherefore <choice><orig>Physitians</orig><reg>Physicians</reg></choice> <choice><orig>doe</orig><reg>do</reg></choice> con
+                        <lb/>more easily of the mothers, than of anothers: <milestone unit="section" n="e02-06"/>wherefore <choice><orig>Physitians</orig><reg>Physicians</reg></choice> <choice><orig>doe</orig><reg>do</reg></choice> con
                         <lb break="no"/>clude, that it <choice><orig>conduceth</orig><reg>conduces</reg></choice> to the health, similitude of substance and manners,
                         <lb/>as <choice><orig>allso</orig><reg>also</reg></choice> strength of an Infant, if it be <choice><orig>allwayes</orig><reg>always</reg></choice> nourished by the <choice><orig>milke</orig><reg>milk</reg></choice> of its <pc>-</pc>
-                        <lb/><choice><orig>owne</orig><reg>own</reg></choice> mother, on the contrary if by anothers. <milestone unit="section" n="e02-07" />This is the harmony of every 
+                        <lb/><choice><orig>owne</orig><reg>own</reg></choice> mother, on the contrary if by anothers. <milestone unit="section" n="e02-07"/>This is the harmony of every 
                         <lb/>nature, that like delights in its like, and <choice><orig>followes</orig><reg>follows</reg></choice> its footsteps, <choice><orig>soe</orig><reg>so</reg></choice> <choice><orig>farre</orig><reg>far</reg></choice> as it
-                        <lb/>is able, in all things, with a <choice><orig>certaine</orig><reg>certain</reg></choice> tacit consent and conspiration: <milestone unit="section" n="e02-08" />the same
+                        <lb/>is able, in all things, with a <choice><orig>certaine</orig><reg>certain</reg></choice> tacit consent and conspiration: <milestone unit="section" n="e02-08"/>the same
                         <lb/>thing usually happens in the <choice><orig>naturall</orig><reg>natural</reg></choice> <choice><orig>worke</orig><reg>work</reg></choice> of the Philosophers, which is <choice><orig>æqually</orig><reg>equally</reg></choice>
                         <lb/>governed by nature in the conformation of it, as an infant in the mothers <pc>-</pc>
-                        <lb/><choice><orig>wombe</orig><reg>womb</reg></choice>; <milestone unit="section" n="e02-09" />and though a father and mother, and <choice><orig>nurce</orig><reg>nurse</reg></choice> <del>itself</del> be by way of si
+                        <lb/><choice><orig>wombe</orig><reg>womb</reg></choice>; <milestone unit="section" n="e02-09"/>and though a father and mother, and <choice><orig>nurce</orig><reg>nurse</reg></choice> <del>itself</del> be by way of si
                         <lb break="no"/>militude ascribed to it, yet it is not more <choice><orig>artificiall</orig><reg>artificial</reg></choice>, than the generation of
-                        <lb/>every <choice><orig>animall</orig><reg>animal</reg></choice>: <milestone unit="section" n="e02-10" />two seeds are by a <choice><orig>certaine</orig><reg>certain</reg></choice> pleasant artifice <choice><orig>joynd</orig><reg>joined</reg></choice> together
+                        <lb/>every <choice><orig>animall</orig><reg>animal</reg></choice>: <milestone unit="section" n="e02-10"/>two seeds are by a <choice><orig>certaine</orig><reg>certain</reg></choice> pleasant artifice <choice><orig>joynd</orig><reg>joined</reg></choice> together
                         <lb/>by <choice><orig>animalls</orig><reg>animals</reg></choice>, and both <choice><orig>humane</orig><reg>human</reg></choice> sexes, which being united <choice><orig>doe</orig><reg>do</reg></choice> by successive
                         <lb/>alteration produce an Embryo, which <choice><orig>growes</orig><reg>grows</reg></choice> and is increased, acquires life <pc>-</pc>
-                        <lb/>and motion, and then is nourished by <choice><orig>milke</orig><reg>milk</reg></choice>: <milestone unit="section" n="e02-11" />but necessary it is for the wo
+                        <lb/>and motion, and then is nourished by <choice><orig>milke</orig><reg>milk</reg></choice>: <milestone unit="section" n="e02-11"/>but necessary it is for the wo
                         <lb break="no"/>man in time of conception and <choice><orig>imprægnation</orig><reg>impregnation</reg></choice> to carry <choice><orig>herselfe</orig><reg>herself</reg></choice> temperately
                         <lb/>in heat, meat and <choice><orig>drinke</orig><reg>drink</reg></choice>, motion and rest, and other circumstances, otherwise
                         <lb/>an abortion will follow, and destruction of the conceived Embryo, which <pc>-</pc>
                         <lb/>observation in six things not <choice><orig>naturall</orig><reg>natural</reg></choice>, because it is <choice><orig>præscribed</orig><reg>prescribed</reg></choice> by <choice><orig>Physi
-                        <lb break="no"/>tians</orig><reg>Physicians</reg></choice> according to their art, is <choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>artificiall</orig><reg>artificial</reg></choice>. <milestone unit="section" n="e02-12" />After the same manner if the <pc>-</pc>
+                        <lb break="no"/>tians</orig><reg>Physicians</reg></choice> according to their art, is <choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>artificiall</orig><reg>artificial</reg></choice>. <milestone unit="section" n="e02-12"/>After the same manner if the <pc>-</pc>
                         <lb/>seeds be not joyned together in the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> <choice><orig>worke</orig><reg>work</reg></choice>, they ought to be
                         <lb/><choice><orig>joyned</orig><reg>joined</reg></choice>: but if they could be found somewhere <choice><orig>joyned</orig><reg>joined</reg></choice> together, as the seed
                         <lb/>of the <choice><orig>Cocke</orig><reg>Cock</reg></choice> and <choice><orig>Henne</orig><reg>Hen</reg></choice> are had in an <choice><orig>egge</orig><reg>egg</reg></choice> subsisting together in one <pc>-</pc>
                         <lb/>continent, then would the Philosophers <choice><orig>worke</orig><reg>work</reg></choice> be yet more <choice><orig>naturalle</orig><reg>natural</reg></choice>, than
-                        <lb/>the generation of <choice><orig>animalls</orig><reg>animals</reg></choice>. <milestone unit="section" n="e02-13" />But let us grant, as the Philosophers <choice><orig>doe</orig><reg>do</reg></choice> assert,
-                        <lb/></ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier" n="019"/>that one comes from the east and another from the west, and are made one,
+                        <lb/>the generation of <choice><orig>animalls</orig><reg>animals</reg></choice>. <milestone unit="section" n="e02-13"/>But let us grant, as the Philosophers <choice><orig>doe</orig><reg>do</reg></choice> assert,
+                        <lb/></ab></div><div type="discourse-p2"><ab><milestone unit="page" ed="Meier1618" n="019"/>that one comes from the east and another from the west, and are made one,
                         <lb/>what more is <choice><orig>administred</orig><reg>administered</reg></choice> to them, than mixti<subst><del>ure</del><add>on</add></subst> in their <choice><orig>owne</orig><reg>own</reg></choice> <choice><orig>vessell</orig><reg>vessel</reg></choice>, tem
-                        <lb break="no"/>perate heat and nutriment? <milestone unit="section" n="e02-14" />the <choice><orig>vessell</orig><reg>vessel</reg></choice> is indeed <choice><orig>artificiall</orig><reg>artificial</reg></choice>, but herein is
+                        <lb break="no"/>perate heat and nutriment? <milestone unit="section" n="e02-14"/>the <choice><orig>vessell</orig><reg>vessel</reg></choice> is indeed <choice><orig>artificiall</orig><reg>artificial</reg></choice>, but herein is
                         <lb/><choice><orig>noe</orig><reg>no</reg></choice> difference, whether the nest be made by the <choice><orig>Henne</orig><reg>Hen</reg></choice> <choice><orig>herselfe</orig><reg>herself</reg></choice>, or dispo
                         <lb break="no"/>sed by a <subst><del><choice><orig>rusticke</orig><reg>rustic</reg></choice></del><add>country dame</add></subst> in <subst><del>an un</del><add>some</add></subst> <choice><orig>certaine</orig><reg>certain</reg></choice> place, as <choice><orig>coḿon</orig><reg>common</reg></choice> it is, the generation of
-                        <lb/>the eggs, and the hatching of chickens from them will be the same. <milestone unit="section" n="e02-15" />Heat
+                        <lb/>the eggs, and the hatching of chickens from them will be the same. <milestone unit="section" n="e02-15"/>Heat
                         <lb/>is a <choice><orig>naturall</orig><reg>natural</reg></choice> thing, whether it proceed from the temperate fire of fur
                         <lb break="no"/>naces, and putrefaction of dung, or from the <choice><orig>Sunne</orig><reg>Sun</reg></choice> and <choice><orig>aire</orig><reg>air</reg></choice>, or <choice><orig>bowells</orig><reg>bowels</reg></choice>
                         <lb/>of the mother, or <choice><orig>elswhere</orig><reg>elsewhere</reg></choice>: thus the <choice><orig>Ægyptian</orig><reg>Egyptian</reg></choice> doth by art administer <pc>-</pc>
                         
                         
                         
-                        <pb n="13"/><fw rend="italic">Discourse 2.</fw>
-                        <lb/><choice><orig>naturall</orig><reg>natural</reg></choice> heat by his furnaces for the hatching of eggs: <milestone unit="section" n="e02-16" />the Seeds of <choice><orig>Silke</orig><reg>silk</reg></choice>
+                        <pb n="13" edRef="BeineckeMellon48" facs="#p013"/><fw rend="italic">Discourse 2.</fw>
+                        <lb/><choice><orig>naturall</orig><reg>natural</reg></choice> heat by his furnaces for the hatching of eggs: <milestone unit="section" n="e02-16"/>the Seeds of <choice><orig>Silke</orig><reg>silk</reg></choice>
                         <lb break="no"/>worms, yea even <choice><orig>henne</orig><reg>hen</reg></choice> eggs are <choice><orig>sayd</orig><reg>said</reg></choice> to be hatched by the warmth of a Virgins
-                        <lb/>breasts: <milestone unit="section" n="e02-17" />Art therefore and Nature <choice><orig>doe</orig><reg>do</reg></choice> mutually <choice><orig>helpe</orig><reg>help</reg></choice>, <choice><orig>soe</orig><reg>so</reg></choice> as to officiate one for the <pc>-</pc>
-                        <lb/>other: <choice><orig>neverthelesse</orig><reg>nevertheless</reg></choice> nature is <choice><orig>allways</orig><reg>always</reg></choice> the <choice><orig>Mistresse</orig><reg>Mistress</reg></choice>, and Art the servant. <milestone unit="section" n="e02-18" />But to say
+                        <lb/>breasts: <milestone unit="section" n="e02-17"/>Art therefore and Nature <choice><orig>doe</orig><reg>do</reg></choice> mutually <choice><orig>helpe</orig><reg>help</reg></choice>, <choice><orig>soe</orig><reg>so</reg></choice> as to officiate one for the <pc>-</pc>
+                        <lb/>other: <choice><orig>neverthelesse</orig><reg>nevertheless</reg></choice> nature is <choice><orig>allways</orig><reg>always</reg></choice> the <choice><orig>Mistresse</orig><reg>Mistress</reg></choice>, and Art the servant. <milestone unit="section" n="e02-18"/>But to say
                         <lb/>the earth is the <choice><orig>Nurce</orig><reg>Nurse</reg></choice> of the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> babe, might create an objection to any
                         <lb/>one, the earth being of all the elements most dry and <choice><orig>voyd</orig><reg>void</reg></choice> of juice, to which siccity
-                        <lb/>as the proper quality appertains: <milestone unit="section" n="e02-19" />but it may be <choice><orig>answerd</orig><reg>answered</reg></choice>, th<seg rend="underline" hand="2">at the earth elemented</seg>
+                        <lb/>as the proper quality appertains: <milestone unit="section" n="e02-19"/>but it may be <choice><orig>answerd</orig><reg>answered</reg></choice>, th<seg rend="underline" hand="2">at the earth elemented</seg>
                         <lb/>is here understood, not the Element, which <choice><orig>wee</orig><reg>we</reg></choice> <choice><orig>tooke</orig><reg>took</reg></choice> notice enough of in the first
-                        <lb/>day of the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> <choice><orig>weeke</orig><reg>week</reg></choice>, and explained nature: <milestone unit="section" n="e02-20" />This (earth) is the <choice><orig>Nurce</orig><reg>nurse</reg></choice> <pc>-</pc>
+                        <lb/>day of the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> <choice><orig>weeke</orig><reg>week</reg></choice>, and explained nature: <milestone unit="section" n="e02-20"/>This (earth) is the <choice><orig>Nurce</orig><reg>nurse</reg></choice> <pc>-</pc>
                         <lb/>of Cælum, not in opening, washing or watering the babe, but coagulating, fix
-                        <lb break="no"/>ing and colouring, and converting it into mere juice and blood: <milestone unit="section" n="e02-21" />For nutri
+                        <lb break="no"/>ing and colouring, and converting it into mere juice and blood: <milestone unit="section" n="e02-21"/>For nutri
                         <lb break="no"/>tion <choice><orig>implyes</orig><reg>implies</reg></choice> augmentation in length, breadth, and depth, that is, extending <pc>-</pc>
                         <lb/><choice><orig>itselfe</orig><reg>itself</reg></choice> through all dimensions of the body, which being here, and <choice><orig>performd</orig><reg>performed</reg></choice>
                         <lb/>by earth alone to the <choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> babe, the name of <choice><orig>Nurce</orig><reg>nurse</reg></choice> is not <pc>-</pc>
-                        <lb/>without reason to be <choice><orig>ascribd</orig><reg>ascribed</reg></choice> to earth: <milestone unit="section" n="e02-22" />but a thing contrary to the other <pc>-</pc>
+                        <lb/>without reason to be <choice><orig>ascribd</orig><reg>ascribed</reg></choice> to earth: <milestone unit="section" n="e02-22"/>but a thing contrary to the other <pc>-</pc>
                         <lb/>kinds of <choice><orig>milke</orig><reg>milk</reg></choice>, which are converted and <choice><orig>doe</orig><reg>do</reg></choice> not convert, happens in this
                         <lb/>admirable <choice><orig>terrestriall</orig><reg>terrestrial</reg></choice> juice, it by reason of its most efficacious virtue <pc>-</pc>
                         <lb/>much altering the nature of the thing nourished, even as the <choice><orig>milke</orig><reg>milk</reg></choice> of
