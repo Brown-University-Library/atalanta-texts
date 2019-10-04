@@ -249,6 +249,30 @@
         </xsl:choose>      
     </xsl:template>
     
+  <!-- to handle one case of an orig/reg in an abbreviation in emblem 3. -->  
+    <xsl:template match="af:choice" mode="abbrev">
+        <xsl:apply-templates/>
+    </xsl:template>
+    
+    <xsl:template match="af:choice" mode="expand">
+        <xsl:apply-templates/>
+    </xsl:template>
+    
+    
+    <xsl:template match="af:corr" mode="abbrev"/>
+    
+    
+    <xsl:template match="af:sic" mode="abbrev">      
+        <xsl:apply-templates/>
+    </xsl:template>
+    
+    <xsl:template match="af:sic" mode="expand"/>
+   
+    <xsl:template match="af:corr" mode="expand">      
+        <xsl:apply-templates/>
+    </xsl:template>
+    
+    
     <xsl:template match="af:surplus ">
         <span class="original">
             <!--<xsl:text></xsl:text><xsl:apply-templates/><xsl:text>}</xsl:text>-->
@@ -294,7 +318,7 @@
     
     <xsl:template match="af:abbr">
         <xsl:apply-templates/>
-    </xsl:template>    
+    </xsl:template>
     
     <xsl:template match="af:ex" mode="expand">
         <xsl:apply-templates/>

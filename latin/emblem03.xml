@@ -125,7 +125,9 @@
         <change when="2017-03-15" who="SJD">Created</change>
         <change when="2017-03-15" who="SJD">Completed draft, though see comments in text</change>
         <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
-     <change when="2019-05-26" who="EM">Added teiHeader details</change></revisionDesc></teiHeader>
+     <change when="2019-05-26" who="EM">Added teiHeader details</change>
+            <change when="2019-10-03" who="EM">Proofeading corrections</change>
+        </revisionDesc></teiHeader>
    <facsimile>
       <graphic url="https://repository.library.brown.edu/studio/item/bdr:760156" xml:id="p020"/>
       <graphic url="https://repository.library.brown.edu/studio/item/bdr:760157" xml:id="p021"/>
@@ -231,10 +233,10 @@
                
                <div type="discourse-p2">
                    <ab>
-                      <lb n="1"/>modum <persName ref="http://viaf.org/viaf/100226923"><expan><abbr><choice><sic>c</sic><corr>C</corr></choice>or<am>.</am><ex>nelius</ex></abbr></expan> Tacitus</persName> de simili ignis genere narrat, quod non aquis,
+                       <lb n="1"/>modum <persName ref="http://viaf.org/viaf/100226923"><expan><abbr><choice><sic>c</sic><corr>C</corr></choice>or<am>.</am></abbr><ex>nelius</ex></expan> Tacitus</persName> de simili ignis genere narrat, quod non aquis,
                      <lb n="2"/>sed fustibus <g type="ampersand">et</g> vestibus corpori detractis saltem opprimi potuerit <!-- This seems to refer to Tac. Ann. 15.43 - find way to include reference?-->: 
                      <lb n="3"/><milestone unit="section" n="e03-13"/>Ignium itaque magna est diversitas, <g type="ampersand">et</g> in excitando <g type="ampersand">et</g> in extin
-                     <lb n="4" break="no"/>guendo, nec minor liquorum, quia lac, acetum, spiritus vibi, aqua
+                     <lb n="4" break="no"/>guendo, nec minor liquorum, quia lac, acetum, spiritus vini, aqua
                      <lb n="5"/>fortis, Regia <g type="ampersand">et</g> communis vald<hi rend="grave">e</hi> inter se differunt, qu<hi rend="grave">o</hi> ad collatio
                      <lb n="6" break="no"/>nem cum igne: <milestone unit="section" n="e03-14"/>Nec hoc sol<hi rend="grave">u</hi>m, sed <g type="ampersand">et</g> ipsa materia aliquando ignem
                      <lb n="7"/>sustinet, ut panni illi byssini, antiquit<hi rend="grave">u</hi>s in precio <g type="ampersand">et</g> usu divitibus ha

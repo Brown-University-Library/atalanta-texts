@@ -126,7 +126,11 @@
         <change when="2017-02-15" who="SJD">Completed draft</change>
         <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
         <change when="2018-09-11" who="SJD">Fixed markup of marginal notes</change>
-     <change when="2019-05-26" who="EM">Added teiHeader details</change></revisionDesc></teiHeader>
+     <change when="2019-05-26" who="EM">Added teiHeader details</change>
+            <change when="2019-10-03" who="EM">Proofeading corrections</change>
+        </revisionDesc>
+  </teiHeader>
+    
    <facsimile>
       <graphic url="https://repository.library.brown.edu/studio/item/bdr:760148" xml:id="p012"/>
       <graphic url="https://repository.library.brown.edu/studio/item/bdr:760149" xml:id="p013"/>
@@ -171,11 +175,11 @@
             <div type="epigram" xml:lang="la">
                <head>Epigramma I.</head>
                <lg>
-                  <lb n="1"/><l>Embryo ventos<hi rend="circumflex">a</hi> BORE<hi rend="ligature">Ae</hi> qui clauditur alvo,</l>
+                  <lb n="1"/><l>Embryo ventos<hi rend="circumflex">a</hi> <hi rend="smallCaps">Bore<hi rend="ligature">ae</hi></hi> qui clauditur alvo,</l>
                   <lb n="2"/><l>Vivus in hanc lucem si semel ortus erit;</l>
                   <lb n="3"/><l>Unus is Heroum cunctos superare labores</l>
                   <lb n="4"/><l>Arte, manu, forti corpore, mente, potest.</l>
-                  <lb n="5"/><l>Ne tibi sit <persName>C<hi rend="ligature">ae</hi>so</persName>, nec abortus inutilis ill<hi rend="hook">e</hi>,</l>
+                  <lb n="5"/><l>Ne tibi sit <persName>C<hi rend="ligature">ae</hi>so</persName>, nec abortus inutilis ille,</l>
                   <lb n="6"/><l>Non <persName>Agrippa</persName>, bono sydere sed genitus.</l>
                </lg>
             </div>
@@ -233,7 +237,7 @@
                      <lb n="28"/>in Philosophico <g type="ampersand">et</g> metallis fixis apparet: In his Elementa fixa pr<hi rend="ligature">ae</hi>
                      <lb n="29" break="no"/>dominantur volatilibus, in illo volatilia fixis. <milestone unit="section" n="e01-09"/> Nec ver<hi rend="grave">o</hi> <expan><abbr>absq<am>;</am></abbr><ex>ue</ex></expan> cau
                      <lb n="30" break="no"/>sa est, cur Mercurius Deorum reliquorum nuncius, interpres <g type="ampersand">et</g>
-                     <lb n="31"/>quasi minister intermedius currens dicatur <g type="ampersand">et</g> habeatur, al ad
+                     <lb n="31"/>quasi minister intermedius currens dicatur <g type="ampersand">et</g> habeatur, alis ad
                      <lb n="32"/>caput <g type="ampersand">et</g> pedes adaptatis: Ventosus enim est <g type="ampersand">et</g> volat per aëra, ut
                      <lb n="33"/>ipse ventus, ut in communi, multorum cum damno re ipsa con
                      <lb break="no"/>
@@ -266,11 +270,11 @@
                         <lb n="20" break="no"/><abbr>torum</abbr></expan> meminit <expan><abbr>quoq<am>;</am></abbr><ex>ue</ex></expan> inter alios <hi rend="italic"><persName ref="http://viaf.org/viaf/31992530/">Basilius</persName></hi> <hi rend="italic">nostras</hi>, qui clar<hi rend="grave">e</hi> <num type="ordinal">6</num>. inquit:
                      <lb n="21"/><quote type="direct"><hi rend="italic">Nam geminus ventus venire debet, <persName>Vulturnus</persName> dictus, ac deinde simplex,
                      <lb n="22"/><persName>Notus</persName> appellatus, qui ab oriente <g type="ampersand">et</g> meridie impetuos<hi rend="grave">e</hi> spirabunt, quorum
-                     <lb n="23"/>motione cessante, ita ut ex aëre facta sit aqua, audacter confides, quod ex sp
+                     <lb n="23"/>motione cessante, ita ut ex aëre facta sit aqua, audacter confides, quod ex spi
                         <lb n="24" break="no"/>rituali corporale fiet.</hi></quote> <milestone unit="section" n="e01-16"/> Et <hi rend="italic"><persName ref="http://viaf.org/viaf/122334648">Ripl<hi rend="ligature">ae</hi>us</persName></hi> <title><expan><abbr>port<am>.</am></abbr><ex>u</ex></expan></title> <num type="ordinal" value="8">8</num>. dicit <quote type="paraphrase">in aëre nostrum infan
                      <lb n="25" break="no"/>tem debere renasci</quote>, hoc est, in ventre venti: <milestone unit="section" n="e01-17"/> Ad eundem sensum
                      <lb n="26"/><title>scala <expan><abbr>philos<am>.</am></abbr><ex>ophorum</ex></expan></title> gradu. <num type="ordinal" value="6">6</num>. Et <quote><hi rend="italic">sciendum</hi></quote>, inquit, <quote><hi rend="italic">quod natus sapientis in aëre
-                     <lb n="27"/>nascitur:</hi></quote> <milestone unit="section" n="e01-18"/> Et gradu <num type="ordinal" value="8">8</num>. <quote><hi rend="italic">spiritus aërei siml in aërem scandentes se diligunt, ut
+                     <lb n="27"/>nascitur:</hi></quote> <milestone unit="section" n="e01-18"/> Et gradu <num type="ordinal" value="8">8</num>. <quote><hi rend="italic">spiritus aërei simul in aërem scandentes se diligunt, ut
                      <lb n="28"/><persName ref="https://viaf.org/viaf/24571510/">Hermes</persName></hi> inquit, <hi rend="italic"><quote>portavit illum ventus in ventre suo:</quote> Quia generatio ge
                      <lb n="29" break="no"/>niti nostri fit in aëre <g type="ampersand">et</g> nascens in aëre sapienter nascitur: Ascendit enim <hi rend="grave">a</hi>
                      <lb n="30"/>terra in c<hi rend="ligature">oe</hi>lum, iter<hi rend="acute">u</hi>mque descendit in terram conquirendo vim superio

@@ -125,7 +125,9 @@
         <change when="2017-03-08" who="SJD">Created</change>
         <change when="2017-03-09" who="SJD">Completed draft</change>
         <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
-     <change when="2019-05-26" who="EM">Added teiHeader details</change></revisionDesc></teiHeader>
+     <change when="2019-05-26" who="EM">Added teiHeader details</change>
+            <change when="2019-10-03" who="EM">Proofeading corrections</change>
+        </revisionDesc></teiHeader>
    <facsimile>
       <graphic url="https://repository.library.brown.edu/studio/item/bdr:760152" xml:id="p016"/>
       <graphic url="https://repository.library.brown.edu/studio/item/bdr:760153" xml:id="p017"/>
@@ -169,10 +171,10 @@
                <lg>
                   <lb n="1"/><l><persName>Romulus</persName> hirta lup<hi rend="ligature">ae</hi> pressisse, sed ubera capr<hi rend="ligature">ae</hi></l>
                   <lb n="2"/><l><persName>Jupiter</persName>, <g type="ampersand">et</g> factis, fertur, adesse fides:</l>
-                  <lb n="3"/><l>Quid mirum, tener<hi rend="ligature">ae</hi> SAPIENTUM viscera PROLIS</l>
-                  <lb n="4"/><l>Si ferimus TERRAM lacte nutrisse suo?</l>
+                  <lb n="3"/><l>Quid mirum, tener<hi rend="ligature">ae</hi> <hi rend="smallCaps">Sapientum</hi> viscera <hi rend="smallCaps">Prolis</hi></l>
+                  <lb n="4"/><l>Si ferimus <hi rend="smallCaps">Terram</hi> lacte nutrisse suo?</l>
                   <lb n="5"/><l>Parvula si tantas Heroas bestia pavit,</l>
-                  <lb n="6"/><l>QUANTUS, cui NUTRIX TERREUS ORBIS, erit?</l>
+                  <lb n="6"/><l><hi rend="smallCaps">Quantus</hi>, cui <hi rend="smallCaps">Nutrix Terreus Orbis</hi>, erit?</l>
                </lg>
             </div>
             
@@ -201,7 +203,7 @@
                      <lb n="16"/>potest, in omnibus ex tacito quodam consensu <g type="ampersand">et</g> conspiratione. <milestone unit="section" n="e02-08"/>I
                      <lb n="17" break="no"/>dem usu venit in naturali Philosophorum opere quod <hi rend="ligature">ae</hi>qu<hi rend="grave">e</hi> <hi rend="grave">a</hi> na
                      <lb n="18" break="no"/>tura regitur in sui conformatione, qu<hi rend="grave">a</hi>m infans sub utero materno:
-                     <lb n="19"/><milestone unit="section" n="e02-09"/>Et licet pater <g type="ampersand">et</g> mater, ipsa<hi rend="acute">q</hi>ue nutrix illi similtudinari<hi rend="grave">e</hi> a<surplus>s</surplus>scriban
+                     <lb n="19"/><milestone unit="section" n="e02-09"/>Et licet pater <g type="ampersand">et</g> mater, ipsa<hi rend="acute">q</hi>ue nutrix illi similitudinari<hi rend="grave">e</hi> a<surplus>s</surplus>scriban
                      <lb n="20" break="no"/>tur, non tamen artificiale est magis, qu<hi rend="grave">a</hi>m animalis cujusque gene
                      <lb n="21" break="no"/>ratio: <milestone unit="section" n="e02-10"/> Semina bina quodam delectabili artificio conjunguntur ab
                      <lb n="22"/>animalibus <g type="ampersand">et</g> utroque sexu hominis, ex quibus unitis per successi
@@ -215,7 +217,7 @@
                      <lb n="30"/>Philosophico, conjungi debent: Quod si ver<hi rend="grave">o</hi> alicubi conjuncta in
                      <lb n="31" break="no"/>venirentur, ut in ovo semen galli <g type="ampersand">et</g> gallin<hi rend="ligature">ae</hi> substantia habentur si
                      <lb n="32" break="no"/>mul in uno continente, tum esset Philosophorum opus adhuc ma
-                     <lb n="33" break="no"/>gis naturale, qu<hi rend="grave">a</hi>m generatio animalium. <milestone unit="section" n="e02-13"/> At demus, ut philsophi
+                     <lb n="33" break="no"/>gis naturale, qu<hi rend="grave">a</hi>m generatio animalium. <milestone unit="section" n="e02-13"/> At demus, ut philosophi
                   </ab>
                  </div>
                
@@ -232,8 +234,8 @@
                      <lb n="5"/>fiat, sive <hi rend="grave">a</hi> rustica incerto quodam loco (ut solet) ordinetur, eadem
                      <lb n="6"/>erit ovorum generatio <g type="ampersand">et</g> ex illis pullorum exclusio. <milestone unit="section" n="e02-15"/> Calor est res
                      <lb n="7"/>naturalis, sive ab igne temperato veniat furnorum <g type="ampersand">et</g> fimi putredi
-                     <lb n="8" break="no"/>nis, vel sole <g type="ampersand">et</g> aëre, vel matris visceribus, aut aliunde: sic <orgName><hi rend="ligature">Ae</hi>gytus</orgName>
-                     <lb n="9"/>calorem ovis exludendis arte naturalem administrat per suos fur
+                     <lb n="8" break="no"/>nis, vel sole <g type="ampersand">et</g> aëre, vel matris visceribus, aut aliunde: sic <orgName><hi rend="ligature">Ae</hi>gyptus</orgName>
+                     <lb n="9"/>calorem ovis excludendis arte naturalem administrat per suos fur
                      <lb n="10" break="no"/>nos: <milestone unit="section" n="e02-16"/> Bombycum semina, im<hi rend="grave">o</hi> <g type="ampersand">et</g> ova gallinacea virginearum mam
                      <lb n="11" break="no"/>marum tepore exclusa leguntur: <milestone unit="section" n="e02-17"/> Ars itaque <g type="ampersand">et</g> natura mutuas sibi
                      <lb n="12"/>manus conferunt, ita ut h<hi rend="ligature">ae</hi>c illius vicaria fiat <g type="ampersand">et</g> illa hujus: Nihilo

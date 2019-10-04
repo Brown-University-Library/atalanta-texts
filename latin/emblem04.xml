@@ -125,7 +125,9 @@
         <change when="2017-03-15" who="SJD">Created</change>
         <change when="2017-03-15" who="SJD">Completed draft</change>
         <change when="2018-08-18" who="EM">structural changes. See Github.</change> 
-     <change when="2019-05-26" who="EM">Added teiHeader details</change></revisionDesc></teiHeader>
+     <change when="2019-05-26" who="EM">Added teiHeader details</change>
+            <change when="2019-10-03" who="EM">Proofeading corrections</change>
+        </revisionDesc></teiHeader>
    <facsimile>
       <graphic url="https://repository.library.brown.edu/studio/item/bdr:760160" xml:id="p024"/>
       <graphic url="https://repository.library.brown.edu/studio/item/bdr:760161" xml:id="p025"/>
@@ -173,7 +175,7 @@
             <div type="epigram" xml:lang="la">
                <head>Epigramma IV.</head>
                <lg>
-                  <lb n="1"/><l>Non hominum foret in mundo nun tanta propago,</l>
+                  <lb n="1"/><l>Non hominum foret in mundo nunc tanta propago,</l>
                   <lb n="2"/><l>Si fratri coniunx non data prima soror.</l>
                   <lb n="3"/><l>Ergo lubens conjunge duos ab utroque parente</l>
                   <lb n="4"/><l>Progenitos, ut sint f<hi rend="ligature">oe</hi>mina m<hi rend="acute">a</hi>sque toro.</l>
@@ -191,27 +193,27 @@
                   <ab>
                      <lb n="1"/><milestone unit="section" n="e04-01"/>Lex Divina <g type="ampersand">et</g> politica prohibit gradu sanguinis propinquiore
                      <lb n="2"/>per naturam conjunctos, matrimonio copulari, quales sunt di
-                     <lb n="3" break="no"/>recte ascendentes <g type="ampersand">et</g> descendentes in arbore genealogica <g type="ampersand">et</g> ad la
+                      <lb n="3" break="no"/>rect<hi rend="grave">e</hi> ascendentes <g type="ampersand">et</g> descendentes in arbore genealogica <g type="ampersand">et</g> ad la
                      <lb n="4" break="no"/>tera concurrentes, idque propter causas certissimas: <milestone unit="section" n="e04-02"/> At quando
                      <lb n="5"/>philosophi de matre cum filio, aut patre cum filia, seu de fratre cum
-                     <lb n="6"/>sorore, conjugio jugendis loquuntur, non contra dictam legem 
+                     <lb n="6"/>sorore, conjugio jungendis loquuntur, non contra dictam legem 
                      <lb n="7"/>quid dicunt aut faciunt: Quia subjecta distinguunt attributa <g type="ampersand">et</g>
                      <lb n="8"/>caus<hi rend="ligature">ae</hi> effectus: <milestone unit="section" n="e04-03"/> Person<hi rend="ligature">ae</hi> enim Philosophorum ab iis differentiis
                      <lb n="9"/>sunt liber<hi rend="ligature">ae</hi> <hi rend="ligature">ae</hi>qu<hi rend="grave">e</hi> ut <persName>Adami</persName> filii fili<hi rend="ligature">ae</hi>que, qui se invicem in conjuges
                      <lb n="10"/>ducebant absque ullius criminis imputatione: <milestone unit="section" n="e04-04"/> Ratio autem potis
                      <lb n="11" break="no"/>sima videtur, ut genus humanum affinitate <g type="ampersand">et</g> amicitia firmi<hi rend="grave">u</hi>s coa
-                     <lb n="12" break="no"/>lcescat <g type="ampersand">et</g> consocietur, nec in factiones familiarum inimicas <g type="ampersand">et</g> h<hi rend="ligature">ae</hi>re
+                     <lb n="12" break="no"/>lescat <g type="ampersand">et</g> consocietur, nec in factiones familiarum inimicas <g type="ampersand">et</g> h<hi rend="ligature">ae</hi>re
                      <lb n="13" break="no"/>ditarias dividatur: <milestone unit="section" n="e04-05"/> Eadem causa quia primis fratribus <g type="ampersand">et</g> sororibus
                      <lb n="14"/><orgName>Adamicis</orgName> integra manserit, nil prohibuit, quo minus matrimonio
                      <lb n="15"/>conjungerentur: <milestone unit="section" n="e04-06"/> In ipsis enim solis genus humanum tum extitit,
                      <lb n="16"/>nec alii pr<hi rend="ligature">ae</hi>ter ipsos, eorum<hi rend="acute">q</hi>ue parentes, vixerunt ide<hi rend="acute">o</hi>que ut san
                      <lb n="17" break="no"/>guine connexi, sic affinitate connectendi necessario fuerunt: At
-                     <lb n="18"/>succrescentes hominum multitudine, qu<hi rend="ligature">ae</hi> in innumeras familias
+                     <lb n="18"/>succrescente hominum multitudine, qu<hi rend="ligature">ae</hi> in innumeras familias
                      <lb n="19"/>distributa, causa h<hi rend="ligature">ae</hi>c vera <g type="ampersand">et</g> <hi rend="ligature">ae</hi>qua inventa est, ne fratres sorores
                      <lb n="20"/>ducerent: <milestone unit="section" n="e04-07"/> Apud philosophos alia ratio est, cur sorores nubant fra
                      <lb n="21" break="no"/>tribus, nempe similitudo substanti<hi rend="ligature">ae</hi>, ut simil conjungatur: <milestone unit="section" n="e04-08"/> Sunt
                      <lb n="22"/>autem in hoc genere saltem duo sibi quo ad speciem similia,
-                     <lb n="23"/>quo ad sexum differentia, quorum unum fratis, alterum
+                     <lb n="23"/>quo ad sexum differentia, quorum unum fratris, alterum
                      <lb n="24"/>sororis nomine salutatur: H<hi rend="ligature">ae</hi>c itaque e<hi rend="circumflex">a</hi>dem <g type="ampersand">et</g> libertate <g type="ampersand">et</g>
                      <lb n="25"/>conditione, im<hi rend="grave">o</hi> <g type="ampersand">et</g> necessitate inevitabili, qu<hi rend="circumflex">a</hi> primi homine con
                      <lb n="26" break="no"/>sanguinei, uni matrimonio legitim<hi rend="grave">e</hi> committenda sunt: <milestone unit="section" n="e04-09"/> Frater est

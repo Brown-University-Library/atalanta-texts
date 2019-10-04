@@ -173,7 +173,7 @@
             <div type="epigram" xml:lang="la">
                <head>Epigramma VII.</head>
                <lg>
-                  <lb n="1"/><l>Rupe cav<hi rend="circumflex">a</hi> nidum <persName>Jovis</persName> ales struxerat, in quo</l>
+                  <lb n="1"/><l>Rupe cav<hi rend="circumflex">a</hi> nidum <persName>Jovis</persName> <hi rend="smallCaps">ales</hi> struxerat, in quo</l>
                   <lb n="2"/><l>Delituit, pullos enutri<hi rend="acute">i</hi>tque suos:</l>
                   <lb n="3"/><l>Horum unus levibus voluit se tollere pennis,</l>
                   <lb n="4"/><l>At fuit implumi fratre retentus ave.</l>
