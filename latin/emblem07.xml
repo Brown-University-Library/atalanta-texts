@@ -190,7 +190,7 @@
                   <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e07-01"/>Quod <persName ref="http://viaf.org/viaf/287984736">Hippocrates</persName>, medicorum antesignanus, de humoribus
                      <lb n="2"/>asserit, eos esse diversos ac plures numero in homine, nec saltem
-                     <lb n="3"/>unum, alias morbos varios exoriri non posses, id nos de Elementis
+                     <lb n="3"/>unum, alias morbos varios exoriri non posse, id nos de Elementis
                      <lb n="4"/>mundi verum dici animadvertimus. <milestone unit="section" n="e07-02"/> Si <expan><ex>e</ex><abbr>n<am>.</am></abbr><ex>im</ex></expan> unum saltem elementum
                      <lb n="5"/>esset, nulla mutatio ejus in aliud, nulla generatio nec corruptio <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>n</ex>
                      <lb n="6" break="no"/><abbr>tingeret</abbr></expan>, im<hi rend="grave">o</hi> omnia essent unum immutabile, nec meteora, mi
@@ -199,13 +199,13 @@
                      <lb n="9" break="no"/>riis naturis concinnavit, nempe ex levibus <g type="ampersand">et</g> gravibus, calidis <g type="ampersand">et</g> fri
                      <lb n="10" break="no"/>gidis, humidis <g type="ampersand">et</g> siccis, ut una in aliam per affinitatem transiret, <g type="ampersand">et</g>
                      <lb n="11"/>sic compositio fieret corporum, qu<hi rend="ligature">ae</hi> in essentia, qualitatibus, viri
-                     <lb n="12" break="no"/>bus <g type="ampersand">et</g> effectibus long<hi rend="grave">e</hi> inter se differrent: <milestone unit="section" n="e07-04"/> sunt enim imperfect<hi rend="grave">e</hi>
+                     <lb n="12" break="no"/>bus <g type="ampersand">et</g> effectibus long<hi rend="grave">e</hi> inter se differrent: <milestone unit="section" n="e07-04"/> sunt enim inperfect<hi rend="grave">e</hi>
                      <lb n="13"/>mistis Elementa levia ut ignis <g type="ampersand">et</g> aër, nec <expan><abbr>n<hi rend="tilde">o</hi></abbr><ex>n</ex></expan> gravia, ut terra <g type="ampersand">et</g> aqua,
                      <lb n="14"/>qu<hi rend="ligature">ae</hi> <hi rend="ligature">ae</hi>quilibriis ita inter se temperantur, ut unum non aufugiat ab
                      <lb n="15"/>alio, sed singula <hi rend="grave">a</hi> singulis, vicina <hi rend="grave">a</hi> vicinis facil<hi rend="grave">e</hi> se capi <g type="ampersand">et</g> detineri
                      <lb n="16"/>patiantur: <milestone unit="section" n="e07-05"/> Terra <g type="ampersand">et</g> aër sibi invicem adversantur, sic ignis <g type="ampersand">et</g> aqua;
                      <lb n="17"/>attamen ignis cum aëre per caliditatem utrique communem, cum
-                     <lb n="18"/>terra per siccitatem amicitiam fovet: sic aër cum aqua <g type="ampersand">et</g> h<hi rend="ligature">ae</hi> cum
+                     <lb n="18"/>terra per siccitatem amicitiam fovet: sic aër cum aqua <g type="ampersand">et</g> h<hi rend="ligature">ae</hi>c cum
                      <lb n="19"/>terra: <milestone unit="section" n="e07-06"/> Unde omnia affinitatis aut potius consanguinitatis vinculis
                      <lb n="20"/>connectuntur <g type="ampersand">et</g> manent simul in una <expan><abbr>c<hi rend="tilde">o</hi></abbr><ex>m</ex><abbr>positione</abbr></expan>, qu<hi rend="ligature">ae</hi> si abundet
                      <lb n="21"/>levibus, elevat secum gravia, si gravibus, premit secum levia: <milestone unit="section" n="e07-07"/> Hoc
@@ -239,7 +239,7 @@
                      <lb n="7" break="no"/>terius Caudam invicem tenet, ne facil<hi rend="grave">e</hi> separari possint. <milestone unit="section" n="e07-13"/> H<hi rend="ligature">ae</hi>c enim
                      <lb n="8"/>est natur<hi rend="ligature">ae</hi> Univers<hi rend="ligature">ae</hi> machinatio, ut gravia semper levibus attollat,
                      <lb n="9"/><g type="ampersand">et</g> vicissim levia gravibus deprimat, ut <persName ref="http://viaf.org/viaf/100189814">Author</persName> <title>perfecti Magiste
-                     <lb n="10" break="no"/>rii</title> declarat: <quote>qui septem spiritus minerales, veluti stellas Erraticas
+                     <lb n="10" break="no"/>rii</title> declarat: <quote>qui septem spiritus minerales, veluti stellas Erraticas,
                      <lb n="11"/><g type="ampersand">et</g> totidem corpora metallica, ceu stellas fixas, <expan><abbr>hasq<am>;</am></abbr><ex>ue</ex></expan> cum illis mari
                      <lb n="12" break="no"/>tari debere statuit</quote>. <milestone unit="section" n="e07-14"/> Inde <g type="ampersand">et</g> <persName>Aristoteles Chymicus</persName>; <quote>c<hi rend="grave">u</hi>m Spiritus</quote>, in
                      <lb n="13" break="no"/>quit, <quote>solverit corpus <g type="ampersand">et</g> animam, ut existant in forma sua, <expan><abbr>n<hi rend="tilde">o</hi></abbr><ex>n</ex></expan> perma
