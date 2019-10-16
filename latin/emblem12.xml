@@ -142,9 +142,9 @@
             
             <div type="fugue" xml:lang="de">
                <head>
-                  <lb n="1"/>Der Stein <pc>/</pc> welchen <persName><foreign xml:lang="la">Saturnus</foreign></persName> vor <persName><foreign xml:lang="la">Jovem</foreign></persName> seinen Sohn
+                  <lb n="1"/>Der Stein <pc>/</pc> welchen <persName><foreign xml:lang="la" rend="latin">Saturnus</foreign></persName> vor <persName><foreign xml:lang="la" rend="latin">Jovem</foreign></persName> seinen Sohn
                   <lb n="2"/>gefressen <pc>/</pc> außgespeyet <pc>/</pc> ist den zur Menschen Gedächtnuß
-                  <lb n="3"/>auff den Berg <placeName><foreign xml:lang="la">Heliconem</foreign></placeName> gesetzet.
+                  <lb n="3"/>auff den Berg <placeName><foreign xml:lang="la" rend="latin">Heliconem</foreign></placeName> gesetzet.
                </head>        
             </div>
             
@@ -154,7 +154,7 @@
                   <lb n="1"/><l>So du woltst wissen <pc>/</pc> warumb die Poeten offt thun gedencken <pc>/</pc></l>
                   <lb n="2"/><l>Daß man nach dem Helicon all sein Begierd sol lencken <pc>/</pc></l>
                   <lb n="3"/><l>Es ist der Stein zum Gedächtnüß da berühmet weit<pc>/</pc></l>
-                  <lb n="4"/><l>Welchen <persName><foreign xml:lang="la">Saturnus</foreign></persName> fraß vor <persName><foreign xml:lang="la">Jove</foreign></persName> und widerspeyt <pc>/</pc></l>
+                  <lb n="4"/><l>Welchen <persName><foreign xml:lang="la" rend="latin">Saturnus</foreign></persName> fraß vor <persName><foreign xml:lang="la" rend="latin">Jove</foreign></persName> und widerspeyt <pc>/</pc></l>
                   <lb n="5"/><l>Ob du wirst sehen nur auff der Wortern gethön <pc>/</pc> bistu nicht klug<pc>/</pc></l>
                   <lb n="6"/><l>Dann daß der Stein Chymisch sey gewesen <pc>/</pc> ist klar genug.</l>
                </lg>

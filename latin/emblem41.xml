@@ -141,8 +141,8 @@
             <div type="fugue" xml:lang="de">
                <head>
 
-               <lb n="1"/><persName><foreign xml:lang="la">Adonis</foreign></persName> wirt von einer wilden Saw erlegt <pc>/</pc> welchem wie die
-               <lb n="2"/><persName type="divinity"><foreign xml:lang="la">Venus</foreign></persName> wolt Hülffe thun <pc>/</pc> hat sie mit Blut die Rosen
+               <lb n="1"/><persName><foreign xml:lang="la" rend="latin">Adonis</foreign></persName> wirt von einer wilden Saw erlegt <pc>/</pc> welchem wie die
+               <lb n="2"/><persName type="divinity"><foreign xml:lang="la" rend="latin">Venus</foreign></persName> wolt Hülffe thun <pc>/</pc> hat sie mit Blut die Rosen
                <lb n="3"/>roht gefärbet.
             </head>
                
@@ -151,9 +151,9 @@
             <div type="epigram" xml:lang="de">
                <head><num value="41">XLI</num>. Epigrammatis Latini versio Germanica.</head>
                <lg>
-                  <lb n="1"/><l>Von ihrem eygnen Vatter hat die <persName><foreign xml:lang="la">Myrrha</foreign></persName> <persName><foreign xml:lang="la">Adonim</foreign></persName> gebohren <pc>/</pc></l>
-                  <lb n="2"/><l>Welchen die <persName type="divinity"><foreign xml:lang="la">Venus</foreign></persName> sehr liebt <pc>/</pc> ein wild Saw tödt im Zoren <pc>/</pc></l>
-                  <lb n="3"/><l><persName type="divinity"><foreign xml:lang="la">Venus</foreign></persName> laufft zu <pc>/</pc> und in dem Verletzt am Rosenstrauch ihr Bein <pc>/</pc></l>
+                  <lb n="1"/><l>Von ihrem eygnen Vatter hat die <persName><foreign xml:lang="la" rend="latin">Myrrha</foreign></persName> <persName><foreign xml:lang="la" rend="latin">Adonim</foreign></persName> gebohren <pc>/</pc></l>
+                  <lb n="2"/><l>Welchen die <persName type="divinity"><foreign xml:lang="la" rend="latin">Venus</foreign></persName> sehr liebt <pc>/</pc> ein wild Saw tödt im Zoren <pc>/</pc></l>
+                  <lb n="3"/><l><persName type="divinity"><foreign xml:lang="la" rend="latin">Venus</foreign></persName> laufft zu <pc>/</pc> und in dem Verletzt am Rosenstrauch ihr Bein <pc>/</pc></l>
                   <lb n="4"/><l>Daher von ihrem Blut die weissen Rosen roht seyn.</l>
                   <lb n="5"/><l>Die Göttin weynt (die <orgName>Syrer</orgName> weynt jederman darumb leydt trägt <pc>/</pc>)</l>
                   <lb n="6"/><l>Und hat ihn bald unter die weiche Lattich gelegt.</l>

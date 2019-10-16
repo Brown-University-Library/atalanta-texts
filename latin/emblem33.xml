@@ -142,7 +142,7 @@
             <div type="fugue" xml:lang="de">
                <head>
 
-               <lb n="1"/>Der <persName><foreign xml:lang="la">Hermaphrodit</foreign></persName> einem Todten gleich <pc>/</pc> im finstern
+               <lb n="1"/>Der <persName><foreign xml:lang="la" rend="latin">Hermaphrodit</foreign></persName> einem Todten gleich <pc>/</pc> im finstern
                <lb n="2"/>ligende <pc>/</pc> bedarff deß Fewrs.
             </head>
                
@@ -151,12 +151,12 @@
             <div type="epigram" xml:lang="de">
                <head><num value="33">XXXIII</num>. Epigrammatis Latini versio Germanica.</head>
                <lg>
-                  <lb n="1"/><l>Der zweyköpffig <persName><foreign xml:lang="la">Hermaphrodit</foreign></persName> gleicht einem Menschen der ist <hi rend="sling-below"><pc>(</pc>Todt <pc>/</pc></hi></l>
+                  <lb n="1"/><l>Der zweyköpffig <persName><foreign xml:lang="la" rend="latin">Hermaphrodit</foreign></persName> gleicht einem Menschen der ist <hi rend="sling-below"><pc>(</pc>Todt <pc>/</pc></hi></l>
                   <lb n="2"/><l>Wann er wegen geraubter Feuchtigkeit leydet groß Noht <pc>/</pc></l>
                   <lb n="3"/><l>So er in finster Nacht sich decket <pc>/</pc> mustu ihm mehr Fewr geben <pc>/</pc></l>
                   <lb n="4"/><l>Welches <pc>/</pc> so bald du thust <pc>/</pc> kompt ihm wider das Leben <pc>/</pc></l>
                   <lb n="5"/><l>All Krafft deß Steins im Fewr <pc>/</pc> all rohter Schwebel im Goldt steht <pc>/</pc></l>
-                  <lb n="6"/><l>Und der weiß <persName><foreign xml:lang="la">Mercurius</foreign></persName> allein auß Silber hergeht.</l>
+                  <lb n="6"/><l>Und der weiß <persName><foreign xml:lang="la" rend="latin">Mercurius</foreign></persName> allein auß Silber hergeht.</l>
                </lg>
             </div>
             <fw type="catchword">Emble-</fw>

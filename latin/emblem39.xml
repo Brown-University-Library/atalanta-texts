@@ -141,7 +141,7 @@
             <div type="fugue" xml:lang="de">
                <head>
 
-               <lb n="1"/><persName><foreign xml:lang="la">Oedypus</foreign></persName> wie er <foreign xml:lang="la">Sphyngem</foreign> uberwunden <pc>/</pc> und sein Vatter
+               <lb n="1"/><persName><foreign xml:lang="la" rend="latin">Oedypus</foreign></persName> wie er <foreign xml:lang="la" rend="latin">Sphyngem</foreign> uberwunden <pc>/</pc> und sein Vatter
                <lb n="2"/>ertödtet <pc>/</pc> nimpt sein Mutter zum Weib: Deß Rätzels Meynung
                <lb n="3"/>ist diese: Der Stein ist ein Triangel im Wesen <pc>/</pc>
                <lb n="4"/>und ein Vierangel in der Qualität.
@@ -152,8 +152,8 @@
             <div type="epigram" xml:lang="de">
                <head><num value="39">XXXIX</num>. Epigrammatis Latini versio Germanica.</head>
                <lg>
-                  <lb n="1"/><l>Es hat <foreign xml:lang="la">Sphyngem</foreign>, mit Rätzeln den <orgName>Thebanern</orgName> sehr erschrecklich <pc>/</pc></l>
-                  <lb n="2"/><l>Der <persName><foreign xml:lang="la">Oedypus</foreign></persName> durch sein Kunst zum Todt gebracht listiglich.</l>
+                  <lb n="1"/><l>Es hat <foreign xml:lang="la" rend="latin">Sphyngem</foreign>, mit Rätzeln den <orgName>Thebanern</orgName> sehr erschrecklich <pc>/</pc></l>
+                  <lb n="2"/><l>Der <persName><foreign xml:lang="la" rend="latin">Oedypus</foreign></persName> durch sein Kunst zum Todt gebracht listiglich.</l>
                   <lb n="3"/><l>Es ward gefragt: Was da hätt deß Morgends vier Fuß <pc>/</pc> am Mittag</l>
                   <lb n="4"/><l>Nur zween <pc>/</pc> und am Abend widerumb drey Füsse trag <pc>/</pc></l>
                   <lb n="5"/><l>Dessn Uberwinder sein Vatter <pc>/</pc> so nicht weichen wolt <pc>/</pc> erschlägt <pc>/</pc></l>

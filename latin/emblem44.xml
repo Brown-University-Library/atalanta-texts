@@ -141,8 +141,8 @@
             <div type="fugue" xml:lang="de">
                <head>
 
-               <lb n="1"/>Durch Betrug <persName type="divinity"><foreign xml:lang="la">Typhon</foreign></persName> <persName type="divinity"><foreign xml:lang="la">Osirim</foreign></persName> tödtet <pc>/</pc> und seine Glieder
-               <lb n="2"/>zerstrewet <pc>/</pc> welche widerumb zusammen bringt die <persName type="divinity"><foreign xml:lang="la">Isis</foreign></persName>,
+               <lb n="1"/>Durch Betrug <persName type="divinity"><foreign xml:lang="la" rend="latin">Typhon</foreign></persName> <persName type="divinity"><foreign xml:lang="la" rend="latin">Osirim</foreign></persName> tödtet <pc>/</pc> und seine Glieder
+               <lb n="2"/>zerstrewet <pc>/</pc> welche widerumb zusammen bringt die <persName type="divinity"><foreign xml:lang="la" rend="latin">Isis</foreign></persName>,
                <lb n="3"/>so weit berümbt.
             </head>
                
@@ -151,10 +151,10 @@
             <div type="epigram" xml:lang="de">
                <head><num value="44">XLIV</num>. Epigrammatis Latini versio Germanica.</head>
                <lg>
-                  <lb n="1"/><l><placeName>Syrien</placeName> <persName><foreign xml:lang="la">Adonim</foreign></persName> hat <pc>/</pc> <persName type="divinity"><foreign xml:lang="la">Dionysum</foreign></persName> <placeName>Griechenland</placeName> eben <pc>/</pc></l>
-                  <lb n="2"/><l><placeName>Egypten</placeName> <persName type="divinity"><foreign xml:lang="la">Osirim</foreign></persName>, so seynd die Sonn den Weisen geben <pc>/</pc></l>
-                  <lb n="3"/><l>Die <persName type="divinity"><foreign xml:lang="la">Isis</foreign></persName> ist die Schwester <pc>/</pc> auch Mutter und <persName type="divinity"><foreign xml:lang="la">Osiridis</foreign></persName> Weib <pc>/</pc></l>
-                  <lb n="4"/><l>Welchs Glieder der <persName type="divinity"><foreign xml:lang="la">Typhon</foreign></persName> theilt <pc>/</pc> sie wider fügt in ein Leib <pc>/</pc></l>
+                  <lb n="1"/><l><placeName>Syrien</placeName> <persName><foreign xml:lang="la" rend="latin">Adonim</foreign></persName> hat <pc>/</pc> <persName type="divinity"><foreign xml:lang="la" rend="latin">Dionysum</foreign></persName> <placeName>Griechenland</placeName> eben <pc>/</pc></l>
+                  <lb n="2"/><l><placeName>Egypten</placeName> <persName type="divinity"><foreign xml:lang="la" rend="latin">Osirim</foreign></persName>, so seynd die Sonn den Weisen geben <pc>/</pc></l>
+                  <lb n="3"/><l>Die <persName type="divinity"><foreign xml:lang="la" rend="latin">Isis</foreign></persName> ist die Schwester <pc>/</pc> auch Mutter und <persName type="divinity"><foreign xml:lang="la" rend="latin">Osiridis</foreign></persName> Weib <pc>/</pc></l>
+                  <lb n="4"/><l>Welchs Glieder der <persName type="divinity"><foreign xml:lang="la" rend="latin">Typhon</foreign></persName> theilt <pc>/</pc> sie wider fügt in ein Leib <pc>/</pc></l>
                   <lb n="5"/><l>Ihm aber gebrach das Glied deß Manns <pc>/</pc> im Wasser verlohren <pc>/</pc></l>
                   <lb n="6"/><l>Dann der <choice><sic>Schwebel</sic><corr>Schwefel</corr></choice> vergeht <pc>/</pc> so den <choice><sic>Schwebel</sic><corr>Schwefel</corr></choice> gebohren.</l>
                </lg>

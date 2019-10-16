@@ -151,7 +151,7 @@
                <head><num value="29">XXIX</num>. Epigrammatis Latini versio Germanica.</head>
                <lg>
                   <lb n="1"/><l>Der Salamander kräfftig lebet in starckem Fewr unversehret <pc>/</pc></l>
-                  <lb n="2"/><l>Und <persName><foreign xml:lang="la">Vulcane</foreign></persName> gantz nicht an dein Dräwen sich<pc>|</pc> kehret <pc>/</pc></l>
+                  <lb n="2"/><l>Und <persName><foreign xml:lang="la" rend="latin">Vulcane</foreign></persName> gantz nicht an dein Dräwen sich<pc>|</pc> kehret <pc>/</pc></l>
                   <lb n="3"/><l>Also auch der Flammen grawsam Entzündung achtet klein <pc>/</pc></l>
                   <lb n="4"/><l>Der geborn ist in stetem Fewr der Philosophen Stein <pc>/</pc></l>
                   <lb n="5"/><l>Derselbe kalt löschet auß das Fewr <pc>/</pc> und unverletzt entgeht <pc>/</pc></l>
