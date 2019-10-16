@@ -140,8 +140,8 @@
             <div type="fugue" xml:lang="de">
                <head>
 
-               <lb n="1"/>Es regnet Gold <pc>/</pc> dieweil <persName><hi rend="latin">Pallas</hi></persName> wirt geboren <pc>/</pc> zu <placeName>Rhodys</placeName> <pc>/</pc>
-               <lb n="2"/>und die Sonn bey <persName><hi rend="latin">Venere</hi></persName> ligt.
+               <lb n="1"/>Es regnet Gold <pc>/</pc> dieweil <persName><foreign xml:lang="la">Pallas</foreign></persName> wirt geboren <pc>/</pc> zu <placeName>Rhodys</placeName> <pc>/</pc>
+               <lb n="2"/>und die Sonn bey <persName><foreign xml:lang="la">Venere</foreign></persName> ligt.
             </head>
                
             </div>
@@ -152,8 +152,8 @@
                   <lb n="1"/><l>Ein Wundersach ists <pc>/</pc> so die <orgName>Griechen</orgName> uns lehren für Warheit <pc>/</pc></l>
                   <lb n="2"/><l>Welch zu <placeName>Rhodys</placeName> gewesen berühmet in alter Zeit <pc>/</pc></l>
                   <lb n="3"/><l>Sie zeugen <pc>/</pc> daß von Gold gefalln sey ein fruchtbar Regen <pc>/</pc></l>
-                  <lb n="4"/><l>Wie die Sonn bey <persName><hi rend="latin">Venere</hi></persName> in Liebes Brunst gelegen <pc>/</pc></l>
-                  <lb n="5"/><l>Auch auß <persName><hi rend="latin">Jovis</hi></persName> Gehirn <pc>/</pc> wie <persName><hi rend="latin">Pallas</hi></persName> thäte außsteigen <pc>/</pc></l>
+                  <lb n="4"/><l>Wie die Sonn bey <persName><foreign xml:lang="la">Venere</foreign></persName> in Liebes Brunst gelegen <pc>/</pc></l>
+                  <lb n="5"/><l>Auch auß <persName><foreign xml:lang="la">Jovis</foreign></persName> Gehirn <pc>/</pc> wie <persName><foreign xml:lang="la">Pallas</foreign></persName> thäte außsteigen <pc>/</pc></l>
                   <lb n="6"/><l>So muß auch in <expan><abbr>dein<am>'</am></abbr><ex>e</ex><abbr>m</abbr></expan> Geschirr <pc>/</pc> wie Regen <pc>/</pc> Gold sich zeigen.</l>
                </lg>
             </div>

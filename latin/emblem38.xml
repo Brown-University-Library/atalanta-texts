@@ -141,8 +141,8 @@
             <div type="fugue" xml:lang="de">
                <head>
 
-               <lb n="1"/>Das <persName><hi rend="latin">Rebis</hi></persName> wie ein <hi rend="latin">Hermaphrodit</hi> wirt gebohren auß
-               <lb n="2"/>zween Bergen deß <persName type="divinity"><hi rend="latin">Mercurii</hi></persName> und <persName type="divinity"><hi rend="latin">Veneris</hi></persName>.
+               <lb n="1"/>Das <persName><foreign xml:lang="la">Rebis</foreign></persName> wie ein <foreign xml:lang="la">Hermaphrodit</foreign> wirt gebohren auß
+               <lb n="2"/>zween Bergen deß <persName type="divinity"><foreign xml:lang="la">Mercurii</foreign></persName> und <persName type="divinity"><foreign xml:lang="la">Veneris</foreign></persName>.
             </head>
                
             </div>
@@ -150,10 +150,10 @@
             <div type="epigram" xml:lang="de">
                <head><num value="38">XXXVIII</num>. Epigrammatis Latini versio Germanica.</head>
                <lg>
-                  <lb n="1"/><l>Die Alten haben zwey Ding genant <persName><hi rend="latin">Rebis</hi></persName> mit einem Namen <pc>/</pc></l>
+                  <lb n="1"/><l>Die Alten haben zwey Ding genant <persName><foreign xml:lang="la">Rebis</foreign></persName> mit einem Namen <pc>/</pc></l>
                   <lb n="2"/><l>Dieweil es in einem Leib Mann und Weib ist zusamen.</l>
-                  <lb n="3"/><l>Denn auff zween Bergen ist der <persName><hi rend="latin">Hermaphroditus</hi></persName> erkohren <pc>/</pc></l>
-                  <lb n="4"/><l>Welchen dem <persName type="divinity"><hi rend="latin">Mercurio</hi></persName> die <persName type="divinity"><hi rend="latin">Venus</hi></persName> hat gebohren <pc>/</pc> </l>
+                  <lb n="3"/><l>Denn auff zween Bergen ist der <persName><foreign xml:lang="la">Hermaphroditus</foreign></persName> erkohren <pc>/</pc></l>
+                  <lb n="4"/><l>Welchen dem <persName type="divinity"><foreign xml:lang="la">Mercurio</foreign></persName> die <persName type="divinity"><foreign xml:lang="la">Venus</foreign></persName> hat gebohren <pc>/</pc> </l>
                   <lb n="5"/><l>Verachte du nicht das doppelt Geschlecht <pc>/</pc> so Weib ist und ein Mann <pc>/</pc></l>
                   <lb n="6"/><l>Dann es dir hernachtmals den König gebähren kan.</l>
                </lg>

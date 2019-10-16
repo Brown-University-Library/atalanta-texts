@@ -151,11 +151,11 @@
             <div type="epigram" xml:lang="de">
                <head><num value="49">XLIX</num>. Epigrammatis Latini versio Germanica.</head>
                <lg>
-                  <lb n="1"/><l>Das <persName type="divinity"><hi rend="latin">Ph<hi rend="ligature">oe</hi>bus</hi></persName>, <persName type="divinity"><hi rend="latin">Mercurius</hi></persName> und der Fewrgott <pc>/</pc> wie Fablen zeigen an <pc>/</pc></l>
+                  <lb n="1"/><l>Das <persName type="divinity"><foreign xml:lang="latin">Ph<hi rend="ligature">oe</hi>bus</foreign></persName>, <persName type="divinity"><foreign xml:lang="la">Mercurius</foreign></persName> und der Fewrgott <pc>/</pc> wie Fablen zeigen an <pc>/</pc></l>
                   <lb n="2"/><l>Haben in ein Rindes Haut ihrn kräfftigen Samen gethan <pc>/</pc></l>
-                  <lb n="3"/><l>Und seynd drey Vätter zugleich geworden deß grossen <persName><hi rend="latin">Orions</hi></persName>,</l>
+                  <lb n="3"/><l>Und seynd drey Vätter zugleich geworden deß grossen <persName><foreign xml:lang="la">Orions</foreign></persName>,</l>
                   <lb n="4"/><l>Also sagt man <pc>/</pc> daß da seynd drey Vätter der Weißheit Sohns <pc>/</pc></l> 
-                  <lb n="5"/><l>Denn die Sonn der erste <pc>/</pc> <persName type="divinity"><hi rend="latin">Vulcanus</hi></persName> der ander wirt erkennet <pc>/</pc></l>
+                  <lb n="5"/><l>Denn die Sonn der erste <pc>/</pc> <persName type="divinity"><foreign xml:lang="la">Vulcanus</foreign></persName> der ander wirt erkennet <pc>/</pc></l>
                   <lb n="6"/><l>Und der Künstler der dritt <pc>/</pc> dessn Vatter ist genennet.</l>
                </lg>
             </div>
