@@ -152,7 +152,7 @@
                   <lb n="1"/><l>Ein jeder kennet der <persName><hi rend="latin">Laton<hi rend="ligature">ae</hi></hi></persName> Zwilling Geschlecht wol<pc>/</pc></l>
                   <lb n="2"/><l>(Wie das Gerücht zeugt) welchs vom <hi rend="latin">Jove</hi> gebohren seyn sol<pc>/</pc></l>
                   <lb n="3"/><l>Diß andre nennen Sonn und Mohn verknüpfft aller massen</l>
-                  <lb n="4"/><l>Darin schwarzer Flecken sich viele spüren lassen<pc>/</pc></l>
+                  <lb n="4"/><l>Darin schwartzer Flecken sich viele spüren lassen<pc>/</pc></l>
                   <lb n="5"/><l>Drumb mache <persName><hi rend="latin">Latonam</hi></persName> von Farben am Gesicht gar weiß<pc>/</pc></l>
                   <lb n="6"/><l>Und daß dir nicht schaden die Bücher <pc>/</pc> in Stücken reiß</l>
                </lg>
@@ -221,7 +221,8 @@
                      <lb n="31" break="no"/>ducit.</quote> H<hi rend="ligature">ae</hi>c ille. <milestone unit="section" n="e11-11"/> Ver<hi rend="grave">u</hi>m ne quis nimio studio, quod mare est inex
                      <lb n="32" break="no"/>haustum <g type="ampersand">et</g> immens<hi rend="ligature">ae</hi> profunditatis, se maceret, omn<hi rend="acute">e</hi>mque lite
                      <lb n="33" break="no"/>ram, etiam cum multis aliis concordantem, in actum ducere cone
-                   </ab>
+                     <lb break="no"/>
+                     </ab>
                   </div>
                   
                <fw type="catchword" place="bottom-right">d<hi rend="ligature">tur</hi></fw> 
@@ -230,7 +231,7 @@
 
                <div type="discourse-p2">
                      <ab>
-                        <lb n="1" break="no"/>tur (licet frustra) vires, corporis <hi rend="ligature">ae</hi>tatem, famam, opes <g type="ampersand">et</g> facultates
+                     <lb n="1"/>tur (licet frustra) vires, corporis <hi rend="ligature">ae</hi>tatem, famam, opes <g type="ampersand">et</g> facultates
                      <lb n="2"/>interim absumendo aut diminuendo, Philosophi Emblematico
                      <lb n="3"/>hoc utuntur sermone, quod <persName><hi rend="smallCaps">Latona</hi></persName> <expan><abbr>dealb<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>da</abbr></expan> sit, <g type="ampersand">et</g> libri illi rum
                      <lb n="4" break="no"/>pendi, ne corda eorum rumpantur: sunt enim plerique libri ade<hi rend="grave">o</hi>

@@ -123,7 +123,7 @@
     <xsl:template match="af:lb">
         <xsl:choose>
             <xsl:when test="@break='no'"><span class="original"><xsl:text>=</xsl:text><br /></span></xsl:when>
-            <xsl:otherwise><span class="original"><br/></span><span class="regularized">&#160;</span> </xsl:otherwise>
+            <xsl:otherwise><span class="original"><br/></span> </xsl:otherwise>
         </xsl:choose>
         
     </xsl:template>

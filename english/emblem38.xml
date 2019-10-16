@@ -208,8 +208,8 @@
                         <lb/>green: it is one <choice><orig>mountaine</orig><reg>mountain</reg></choice> by name, but really two, as Hermaphro
                         <lb break="no"/>ditus is beheld with two heads, and two members in one body: But <pc>-</pc>
                         <lb/>what man of a thousand persists in ascending to the top of this <pc>-</pc>
-                        <lb/><choice><orig>mountaine</orig><reg>mountain</reg></choice>? Who dos not begin to <choice><orig>hæsitate</orig><reg>hesitate</reg></choice> at the <choice><orig>bottome</orig><reg>bottom</reg></choice> being <pc>-</pc>
-                        <lb/>impeded by I know not what obstacles? Whoever<!-- he splits the word here. How to code? --> attaines to the <pc>-</pc>
+                        <lb/><choice><orig>mountaine</orig><reg>mountain</reg></choice>? Who <choice><orig>dos</orig><reg>does</reg></choice> not begin to <choice><orig>hæsitate</orig><reg>hesitate</reg></choice> at the <choice><orig>bottome</orig><reg>bottom</reg></choice> being <pc>-</pc>
+                        <lb/>impeded by I know not what obstacles? Whoever<!-- he splits the word here. How to code? --> <choice><orig>attaines</orig><reg>attains</reg></choice> to the <pc>-</pc>
                         <lb/><choice><orig>midle</orig><reg>middle</reg></choice> of it? for
                             <quote>
                                 <lg xml:lang="la" rend="no-space"><l>Non levis ascensus, si quis petat ardua, sudor</l>
