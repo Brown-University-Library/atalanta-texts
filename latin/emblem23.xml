@@ -170,8 +170,8 @@
             <div type="epigram" xml:lang="la">
                <head>Epigramma XXIII.</head>
                <lg>
-                  <lb n="1"/><l>Res est mira, fidem fecit, sed <placeName>Gr<hi rend="ligature">ae</hi>cia</placeName> nobis</l>
-                  <lb n="2"/><l>Ejus, apud <orgName>Rhodios</orgName> qu<hi rend="ligature">ae</hi> celebrate fuit.</l>
+                  <lb n="1"/><l>Res est mira, fidem fecit sed <placeName>Gr<hi rend="ligature">ae</hi>cia</placeName> nobis</l>
+                  <lb n="2"/><l>Ejus, apud <orgName>Rhodios</orgName> qu<hi rend="ligature">ae</hi> celebrata fuit.</l>
                   <lb n="3"/><l>Nubibus Aureolus, referunt, qu<hi rend="grave">o</hi>d decidit imber,</l>
                   <lb n="4"/><l><persName>Sol</persName> ubi erat <persName>Cypri<hi rend="ligature">ae</hi></persName> junctus amore De<hi rend="ligature">ae</hi>:</l>
                   <lb n="5"/><l>Tum quoque, c<hi rend="grave">u</hi>m <persName>Pallas</persName> cerebro <persName>Jovis</persName> excidit, aurum</l>
@@ -202,7 +202,7 @@
                      <lb n="15" break="no"/>rialis cruda instar serpentis se habeat, postea ver<hi rend="grave">o</hi> pr<hi rend="ligature">ae</hi>parata <g type="ampersand">et</g>
                      <lb n="16"/>cocta Ros<hi rend="ligature">ae</hi> purpureum assumat colorem, <hi rend="grave">a</hi> <placeName>Rhodo</placeName> insula quas
                      <lb n="17" break="no"/>dam similitudines sumpserunt: Eadem quoque causa est, cur ei <expan><abbr>au
-                     <lb n="18" break="no"/>re<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> imbrem <choice><sic>asscripserinr</sic><corr>ascripserint</corr></choice>, c<hi rend="grave">u</hi>m <persName>Sol</persName> sue <persName>Apollo</persName> <persName>Veneri</persName> concumbe
+                     <lb n="18" break="no"/>re<hi rend="tilde">u</hi></abbr><ex>m</ex></expan> imbrem <choice><sic>asscripserinr</sic><corr>ascripserint</corr></choice>, c<hi rend="grave">u</hi>m <persName>Sol</persName> seu <persName>Apollo</persName> <persName>Veneri</persName> concumbe
                      <lb n="19" break="no"/>ret: <milestone unit="section" n="e23-06"/>Hoc primitus tropic<hi rend="grave">e</hi> dictum ansam pr<hi rend="ligature">ae</hi>buit, cur <orgName>Rhodii</orgName> su
                      <lb n="20" break="no"/>perbiores facti, quia tanti D<hi rend="grave">i</hi>i apud ipsos liberis operam dederint,
                      <lb n="21"/><persName>Solis</persName> quasi idolum stupenda magnitudine <g type="ampersand">et</g> sumptu erexerint. <milestone unit="section" n="e23-07"/>Fuit
@@ -241,7 +241,7 @@
                      <lb n="15"/>vulgum tanquam aurea pluvia: Sic in <persName>Palladis</persName> exortu eadem con
                      <lb n="16" break="no"/>tigit: Est enim <persName>Pallas</persName>, sapientia seu sophia, qu<hi rend="ligature">ae</hi> sanitatem in dextra
                      <lb n="17"/><g type="ampersand">et</g> divitias in sinistra gestat, homin<hi rend="acute">u</hi>mque saluti <g type="ampersand">et</g> commodis pro
-                     <lb n="18"/>spicit: <milestone unit="section" n="e23-20"/>Huic <persName>Perseus</persName> caput <persName>Medus<hi rend="ligature">ae</hi></persName> saxificum, serpentinis <g type="ampersand">et</g> vipe
+                     <lb n="18" break="no"/>spicit: <milestone unit="section" n="e23-20"/>Huic <persName>Perseus</persName> caput <persName>Medus<hi rend="ligature">ae</hi></persName> saxificum, serpentinis <g type="ampersand">et</g> vipe
                      <lb n="19" break="no"/>reis capillis horrendum attulit, quo ipsa usa est in clypeo adversus
                      <lb n="20"/>hostes suos, incultos <g type="ampersand">et</g> rudes populos, eos in saxa commutando. <milestone unit="section" n="e23-21"/>Et
                      <lb n="21"/>revera sapientia seu Philosophia naturalis incredulos illos osores <g type="ampersand">et</g>

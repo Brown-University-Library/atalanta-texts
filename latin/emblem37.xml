@@ -166,7 +166,7 @@
             <fw type="header" place="top-center">Emblema <num value="37">XXXVII</num>. <hi rend="italic">De Secretis Natur<hi rend="ligature">ae</hi></hi>.</fw><fw type="pageNum" place="top-right">157</fw>
             
             <div type="image" xml:lang="la">
-               <head><lb n="1"/>Tria sufficiunt ad magisterium, fumus, albus, hoc est, aqua, leo
+               <head><lb n="1"/>Tria sufficiunt ad magisterium, fumus albus, hoc est, aqua, leo
                   <lb n="2"/>viridis, id est, <hi rend="ligature">ae</hi>s <persName>Hermetis</persName>, <g type="ampersand">et</g> aqua f<hi rend="ligature">oe</hi>tida.</head>
             </div> 
             
@@ -212,7 +212,7 @@
                      <lb n="21" break="no"/>runt, sed stercora in stercoribus invenerunt: <milestone unit="section" n="e37-08"/>At ne putes Philoso
                      <lb n="22" break="no"/>phos scarab<hi rend="ligature">ae</hi>os esse, qui in stercoribus operentur, scias f<hi rend="ligature">oe</hi>torem, si
                      <lb n="23"/>quis adest, in magnam fragrantiam mox mutari, prout <persName ref="http://viaf.org/viaf/120696927">Lullius</persName> testa
-                     <lb n="24" break="no"/>tur de sua Quinta essentia, cui tantum odoris suavitatem assignat, si
+                     <lb n="24" break="no"/>tur de sua Quinta essentia, cui tantam odoris suavitatem assignat, si
                      <lb n="25"/>rit<hi rend="grave">e</hi> facta sit, ut in superiori <hi rend="ligature">ae</hi>dium loco posita aves volantes ad se al
                      <lb n="26" break="no"/>liciat <g type="ampersand">et</g> sistat: <milestone unit="section" n="e37-09"/>Ponit autem in fimo suam quintam essentiam, cujus
                      <lb n="27"/>calore temperatissimo ea fragrantia sequitur, quod quidam cum vi
@@ -221,8 +221,8 @@
                      <lb n="30"/>nunquam gust<hi rend="circumflex">a</hi>runt; <milestone unit="section" n="e37-10"/>At <persName ref="http://viaf.org/viaf/120696927">Lullium</persName> <persName ref="https://viaf.org/viaf/172539947">aureus ille poëta</persName> meli<hi rend="grave">u</hi>s intellexit,
                      <lb n="31"/>qui <title ref="https://viaf.org/viaf/223472326"><expan><abbr>Chrysop<am>.</am></abbr><ex>oeiae</ex></expan></title> <expan><abbr>lib<am>.</am></abbr><ex>ro</ex></expan> <num value="1" type="ordinal">1</num>. ita canit:
                      <lb n="32"/><quote rend="italic"><lg><l>At non ille quidem sensit, qu<hi rend="ligature">ae</hi> dicere prim<hi rend="circumflex">a</hi></l>
-                     <lb n="33"/><l>Est facie visus, neque um stillantia vina</l>
-                     <lb n="34"/><l>Miscebat, <expan><abbr><g type="ampersand">et</g>c<am>.</am></abbr><ex>aetera</ex></expan>.</l></lg></quote>
+                     <lb n="33"/><l>Est facie visus, neque tum stillantia vina</l>
+                     <lb n="34"/><l>Miscebat, <expan><abbr><g type="ampersand">et</g>c</abbr><ex>aetera</ex></expan>.</l></lg></quote>
                   </ab></div>
                   <fw type="catchword" place="bottom-right">Post</fw>
                <pb n="159" edRef="Maier1618" facs="#p159"/>
@@ -231,8 +231,8 @@
                      <lb n="1"/><milestone unit="section" n="e37-11"/>Post aquam f<hi rend="ligature">oe</hi>tidam Leo viridis occurrit: de quo <title ref="http://viaf.org/viaf/191597728">Rosarius</title>, qu<hi rend="ligature">ae</hi>si
                      <lb n="2" break="no"/>visti autem de viriditate, putans, quod <hi rend="ligature">ae</hi>s esset corpus leprosum pro
                      <lb n="3" break="no"/>pter illam viriditatem quam habet: <milestone unit="section" n="e37-12"/>Unde enim tibi dico, quod <expan><abbr>tot<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>
-                     <lb n="4"/>illud, quod est perfectum in <hi rend="ligature">ae</hi>re, est illa sola viriditatis, qu<hi rend="ligature">ae</hi> in ipso est:
-                     <lb n="5"/>quia illa viriditatis per nostrum magisterium vertitur cit<hi rend="grave">o</hi> in verissi
+                     <lb n="4"/>illud, quod est perfectum in <hi rend="ligature">ae</hi>re, est illa sola viriditas, qu<hi rend="ligature">ae</hi> in ipso est:
+                     <lb n="5"/>quia illa viriditas per nostrum magisterium vertitur cit<hi rend="grave">o</hi> in verissi
                      <lb n="6" break="no"/>mum aurum nostrum <g type="ampersand">et</g> hoc experti sumus: <milestone unit="section" n="e37-13"/>Nullo tamen poteris
                      <lb n="7"/>lapidem pr<hi rend="ligature">ae</hi>parare absque duenech viridi <g type="ampersand">et</g> liquido, quod videtur
                      <lb n="8"/>in mineris nostris nasci: <milestone unit="section" n="e37-14"/>O benedicta viriditas, qu<hi rend="ligature">ae</hi> cunctas res ge
