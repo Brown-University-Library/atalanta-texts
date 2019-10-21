@@ -173,8 +173,8 @@
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="35">XXXV</num>.</head>
                <lg>
-                  <lb n="1"/><l>Respice <persName>Triptolemum</persName>, dur<hi rend="acute">u</hi>mque in pr<hi rend="ligature">ae</hi>lio <persName>Achillem</persName>,</l>
-                  <lb n="2"/><l>Matre docente, <hi rend="ligature">ae</hi>stus ut didic<hi rend="circumflex">e</hi>ere graves.</l>
+                  <lb n="1"/><l>Respice <persName>Triptolemum</persName>, dur<hi rend="acute">u</hi>mque in pr<hi rend="ligature">oe</hi>lio <persName>Achillem</persName>,</l>
+                  <lb n="2"/><l>Matre docente, <hi rend="ligature">ae</hi>stus ut didic<hi rend="circumflex">e</hi>re graves.</l>
                   <lb n="3"/><l>Illum Diva <persName type="divinity">Ceres</persName>, <persName>Thetis</persName> hunc durabat in igne</l>
                   <lb n="4"/><l>Noctu, lacte ferens ubera plena die:</l>
                   <lb n="5"/><l>Haud secus assuescat medicina beata Sophorum,</l>
@@ -190,7 +190,7 @@
                   <div type="discourse-p1"><ab>
                      <lb n="1"/><milestone unit="section" n="e35-01"/><persName>Lycurgus</persName> ille <orgName>Spartanorum</orgName> legislator, quantum consuetudo
                      <lb n="2"/>valeat, <g type="ampersand">et</g> usus sive bonus sive malus, oculari exemplo populo in
-                     <lb n="3"/>theatrali concione exposuit, dum adducere binos catulos uno eni
+                     <lb n="3"/>theatrali concione exposuit, dum adduceret binos catulos uno eni
                      <lb n="4" break="no"/>xu editos; in<hi rend="acute">q</hi>ue medio poneret ollam pulte refertam ac leporem;
                      <lb n="5"/><milestone unit="section" n="e35-02"/>quorum catulorum unus c<hi rend="grave">u</hi>m videret cibum <g type="ampersand">et</g> leporem, eo relicto
                      <lb n="6"/>hunc insecutus est, quia ita assuefactus erat, alter ver<hi rend="grave">o</hi> neglecto le
