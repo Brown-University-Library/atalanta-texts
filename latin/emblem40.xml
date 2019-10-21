@@ -174,7 +174,7 @@
                   <lb n="1"/><l>Sunt bini liquido salientes gurgite fontes,</l>
                   <lb n="2"/><l>Hinc Pueri calidam suggerit unus aquam:</l>
                   <lb n="3"/><l>Alter habe gelidam, qu<hi rend="ligature">ae</hi> Virginis Unda vocatur,</l>
-                  <lb n="4"/><l>Hanc illi jungas, sint aqu<hi rend="ligature">ae</hi> ut unda du<hi rend="ligature">ae</hi>:</l>
+                  <lb n="4"/><l>Hanc illi jungas, sint aqu<hi rend="ligature">ae</hi> ut una du<hi rend="ligature">ae</hi>:</l>
                   <lb n="5"/><l>Rivus <g type="ampersand">et</g> hic mixtas vires utriusque tenebit,</l>
                   <lb n="6"/><l>Ceu <persName type="divinity">Jovis Hammonii</persName> fons calet atque riget.</l> 
                </lg>
@@ -192,7 +192,7 @@
                      <lb n="4"/>quod quasi c<hi rend="ligature">ae</hi>terarum omnium vires <g type="ampersand">et</g> proprietates non tant<hi rend="grave">u</hi>m
                      <lb n="5"/><hi rend="ligature">ae</hi>mulentur, sed quoque superent. <milestone unit="section" n="e40-03"/> <placeName>Sybaris</placeName>, <placeName>Axus <placeName>Macedoni<hi rend="ligature">ae</hi></placeName></placeName>, <placeName>Melas
                      <lb n="6"/><placeName>B<hi rend="ligature">oe</hi>oti<hi rend="ligature">ae</hi></placeName></placeName>, fluvii, nigras <expan><abbr>redd<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>t</abbr></expan> pecudes, si <expan><abbr>bib<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>tur</abbr></expan>; <placeName>Crathis</placeName> ver<hi rend="grave">o</hi>, <placeName><expan><abbr>Cli
-                        <lb n="7" break="no"/>t<hi rend="tilde">u</hi></abbr><ex>m</ex><abbr>nu</abbr></expan></placeName>, <placeName>Mevani<hi rend="ligature">ae</hi></placeName> <g type="ampersand">et</g> <placeName>Cephisu</placeName> fluvii ex nigris albas. <milestone unit="section" n="e40-04"/>Aqu<hi rend="ligature">ae</hi> <placeName>Sinuessan<hi rend="ligature">ae</hi></placeName>
+                        <lb n="7" break="no"/>t<hi rend="tilde">u</hi></abbr><ex>m</ex><abbr>nus</abbr></expan></placeName> <placeName>Mevani<hi rend="ligature">ae</hi></placeName> <g type="ampersand">et</g> <placeName>Cephisus</placeName> fluvii ex nigris albas. <milestone unit="section" n="e40-04"/>Aqu<hi rend="ligature">ae</hi> <placeName>Sinuessan<hi rend="ligature">ae</hi></placeName>
                      <lb n="8"/>in <placeName>Campani<hi rend="ligature">ae</hi></placeName> regione sterilitatem utriusque sexus abolent. <milestone unit="section" n="e40-05"/><placeName>Afrodi
                      <lb n="9" break="no"/>sius</placeName> fluvius mulieres steriles facit: <placeName>Cabura</placeName> fons <placeName>Mesopotami<hi rend="ligature">ae</hi></placeName> <expan><abbr>aqu<hi rend="tilde">a</hi></abbr><ex>m</ex></expan>
                      <lb n="10"/>habet jucund<hi rend="grave">e</hi> olentem; <placeName>Anygri</placeName> aqua in <placeName>Peloponneso</placeName> admodum
@@ -240,7 +240,7 @@
                      <lb n="14" break="no"/>tur, num prim<hi rend="ligature">ae</hi> omnium simplicium Theriac<hi rend="ligature">ae</hi>, in unam Quintam
                      <lb n="15"/>essentiam transierint, an ver<hi rend="grave">o</hi> adhuc in suis pulveribus vel substan
                      <lb n="16" break="no"/>tiis, ut prius, sint velut accidentia in subjecto vel color in pariete; <milestone unit="section" n="e40-17"/>Ac
-                     <lb n="17"/>de inde <expan><abbr><hi rend="bar">q</hi></abbr><ex>ui</ex><abbr>d</abbr></expan> de <expan><abbr>sec<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>dis</abbr></expan>, tertiis <g type="ampersand">et</g> quartis <expan><abbr>qualitatib<am>.</am></abbr><ex>us</ex></expan> <expan><abbr>dic<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>d<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>? Probabi
+                     <lb n="17"/>deinde <expan><abbr><hi rend="bar">q</hi></abbr><ex>ui</ex><abbr>d</abbr></expan> de <expan><abbr>sec<hi rend="tilde">u</hi></abbr><ex>n</ex><abbr>dis</abbr></expan>, tertiis <g type="ampersand">et</g> quartis <expan><abbr>qualitatib<am>.</am></abbr><ex>us</ex></expan> <expan><abbr>dic<hi rend="tilde">e</hi></abbr><ex>n</ex><abbr>d<hi rend="tilde">u</hi></abbr><ex>m</ex></expan>? Probabi
                      <lb n="18" break="no"/>le est omnes qualitates in suis propriis adhuc h<hi rend="ligature">ae</hi>rere subjectis, nec ve
                      <lb n="19" break="no"/>ra naturali mixtione inter se componi; <milestone unit="section" n="e40-18"/>Alias si qualitates corpora sua
                      <lb n="20"/>relinquerent, essent quatuor quint<hi rend="ligature">ae</hi> essenti<hi rend="ligature">ae</hi> in quolibet composi

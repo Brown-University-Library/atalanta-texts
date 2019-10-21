@@ -171,7 +171,7 @@
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="47">XLVII</num>.</head>
                <lg>
-                  <lb n="1"/><l>Hinc, ubi Sol oritur, Lupus advenit, ast ubi Ponte</l>
+                  <lb n="1"/><l>Hinc, ubi Sol oritur, Lupus advenit, ast ubi Ponto</l>
                   <lb n="2"/><l>Mergitur, inde canis, qui duo bile tument:</l>
                   <lb n="3"/><l>Hunc is, <g type="ampersand">et</g> hic illum, stimulante furore momordit,</l>
                   <lb n="4"/><l>Et rabidus rictu visus uterque fuit.</l>
@@ -196,7 +196,7 @@
                         <lb n="8" break="no"/>pales, albus <g type="ampersand">et</g> rubeus mirabilis natur<hi rend="ligature">ae</hi>: Albus in occasu solis incipit apparere
                         <lb n="9"/>super facies aquarum, abscondens se usque ad mediam noctem <g type="ampersand">et</g> postea ver
                      <lb n="10" break="no"/>git in profundum: Rubeus ver<hi rend="grave">o</hi> ex opposito operatur, quia incipit ascendere
-                        <lb n="11"/>super aquiis in ortu solis usque ad meridiem <g type="ampersand">et</g> postea descendit in profundum.</quote>
+                        <lb n="11"/>super aquis in ortu solis usque ad meridiem <g type="ampersand">et</g> postea descendit in profundum.</quote>
                      <lb n="12"/><milestone unit="section" n="e47-04"/>Hi <expan><abbr>itaq<am>;</am></abbr><ex>ue</ex></expan> lapides sunt ante dict<hi rend="ligature">ae</hi> <expan><abbr>a<hi rend="bar">q</hi></abbr><ex>ui</ex><abbr>l<hi rend="ligature">ae</hi></abbr></expan> <hi rend="grave">a</hi> <persName type="divinity">Jove</persName> <placeName>Delphis</placeName> emiss<hi rend="ligature">ae</hi>; Hi quo
                      <lb n="13" break="no"/>que sunt lupus <g type="ampersand">et</g> canis, ex diversis seu oppositis terr<hi rend="ligature">ae</hi> plagis venien
                      <lb n="14" break="no"/>tes, quorum unus momordit alterum, <g type="ampersand">et</g> ambo rabiosi facti sunt, vel
@@ -213,7 +213,7 @@
                      <lb n="25" break="no"/>res recolligens post canem dejicit e<hi rend="acute">i</hi>que dejecto instat usque ad in
                      <lb n="26" break="no"/>ternecionem; <milestone unit="section" n="e47-09"/>Interim non minora vulnera nec minus lethalia, <expan><abbr>qu<hi rend="tilde">a</hi></abbr><ex>m</ex></expan>
                      <lb n="27"/>intulerat cani, ab eo recipiens, donec se mutuis conficiant <g type="ampersand">et</g> interi
-                     <lb n="28" break="no"/>mant morsibus: <milestone unit="section" n="e47-10"/>De lupo <hi rend="italic"><persName ref="https://viaf.org/viaf/79142489">Rosinus</persName></hi> ad <persName>Euthiciam</persName>; inquit <quote rend="italic">quod sit miles
+                     <lb n="28" break="no"/>mant morsibus: <milestone unit="section" n="e47-10"/>De lupo <hi rend="italic"><persName ref="https://viaf.org/viaf/79142489">Rosinus</persName></hi> ad <persName>Euthiciam</persName>, inquit <quote rend="italic">quod sit miles
                         <lb n="29"/>victor duorum roboratus multi precii <g type="ampersand">et</g> intensissimi roboris, <expan><abbr>perfor<hi rend="tilde">a</hi></abbr><ex>n</ex><abbr>s</abbr></expan> corpo
                         <lb n="30" break="no"/>ra cum iis obviat, <g type="ampersand">et</g> est albus apparitione, rubeus experimento, <expan><abbr>est<hi rend="acute tail">q</hi></abbr><ex>ue</ex></expan> mas
                      <lb n="31"/>qui lunam duxit in uxorem, quem nonnulli putant aurum esse preciosissim<hi rend="ligature">ae</hi>
@@ -224,7 +224,7 @@
                <pb n="199" edRef="Maier1618" facs="#p199"/>
                <fw type="header" place="top-center"><hi rend="italic">DISC</hi>U<hi rend="italic">RS</hi>U<hi rend="italic">S</hi> <num value="47">XLVII</num>.</fw> <fw type="pageNum" place="top-right">199</fw>
                   <div type="discourse-p2"><ab>
-                     <lb n="1"/><quote rend="italic">comparem ut inimicum: H<hi rend="ligature">ae</hi>c ille.</quote> <milestone unit="section" n="e47-11"/>Et mox: <quote rend="italic">quod sulphur</quote>, inquit, <quote rend="italic">fortissimam
+                     <lb n="1"/><quote rend="italic">comparem ut inimicum: H<hi rend="ligature">ae</hi>c ille.</quote> <milestone unit="section" n="e47-11"/>Et mox: <quote rend="italic">quod sulphur</quote>, inquit, <quote rend="italic">fortissimum
                         <lb n="2"/>est <g type="ampersand">et</g> ad versus ignem pugnans quod continet <g type="ampersand">et</g> continetur: Ex his nam
                         <lb n="3" break="no"/>que conjunctis color preciosissimus exit, <g type="ampersand">et</g> nunquam potest sulphur, quod
                         <lb n="4"/>naturaliter fugit, postea fugere eo quod perforavit illud anima similiter <g type="ampersand">et</g>
@@ -237,10 +237,10 @@
                      <lb n="11"/>tingens: <milestone unit="section" n="e47-14"/>Differentia inter lupum <g type="ampersand">et</g> canem exigua est, c<hi rend="grave">u</hi>m molos
                      <lb n="12" break="no"/>sus seu pr<hi rend="ligature">ae</hi>grandis canis lupinam formam <g type="ampersand">et</g> speciem ostendat, ita
                      <lb n="13"/>ut lupus origine, sed longa progeneratione cicur factus videatur:
-                     <lb n="14"/><milestone unit="section" n="e47-15"/>Eodem modo sulphur <g type="ampersand">et</g> mecurius par<hi rend="grave">u</hi>m differunt inter se; quia
-                     <lb n="15"/>illud ex hoc, vel hic ex illo ortum ducat: Mercuruis quidem sulphur
+                     <lb n="14"/><milestone unit="section" n="e47-15"/>Eodem modo sulphur <g type="ampersand">et</g> mercurius par<hi rend="grave">u</hi>m differunt inter se; quia
+                     <lb n="15"/>illud ex hoc, vel hic ex illo ortum ducat: Mercurius quidem sulphur
                      <lb n="16"/>genuit, at sulphur Mercurium purgavit <g type="ampersand">et</g> talem reddidit: <milestone unit="section" n="e47-16"/>De his
-                     <lb n="17"/>idem <hi rend="italic"><persName ref="https://viaf.org/viaf/79142489">Rosinus</persName></hi>, dum qu<hi rend="ligature">ae</hi>rit <quote rend="italic">Unde veniat ejus color?</quote> <hi rend="italic">respondet,</hi> <quote rend="italic">ex ejus in
+                     <lb n="17"/>idem <hi rend="italic"><persName ref="https://viaf.org/viaf/79142489">Rosinus</persName></hi>, dum qu<hi rend="ligature">ae</hi>rit <quote rend="italic">Unde veniat ejus color?</quote> <hi rend="italic">respondet</hi> <quote rend="italic">ex ejus in
                         <lb n="18" break="no"/>tensissima amaritudine:</quote> <milestone unit="section" n="e47-17"/>Et illa <quote rend="italic">Unde venit ejus amaritudo <g type="ampersand">et</g> intensio?</quote> re
                      <lb n="19" break="no"/>spondet, <quote rend="italic">ex ejus metalli impuritate:</quote> <milestone unit="section" n="e47-18"/>Et illa: <quote rend="italic">nunquam ejus colore rubeus su
                      <lb n="20" break="no"/>pereminet?</quote> respondet <quote rend="italic">Etiam:</quote> <milestone unit="section" n="e47-19"/>Et illa: <quote rend="italic">nunquam etiam est igne calidior?</quote>

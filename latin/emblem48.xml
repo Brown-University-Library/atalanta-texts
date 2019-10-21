@@ -174,7 +174,7 @@
             <div type="epigram" xml:lang="la">
                <head>Epigramma <num value="48">XLVIII</num>.</head>
                <lg>
-                  <lb n="1"/><l>Divitius popul<hi rend="acute">i</hi>sque potens Rex fontis amavit,</l>
+                  <lb n="1"/><l>Divitiis popul<hi rend="acute">i</hi>sque potens Rex fontis amavit,</l>
                   <lb n="2"/><l>Portari <hi rend="grave">a</hi> servis quas sibi poscit, aquas:</l>
                   <lb n="3"/><l>Has bibit <g type="ampersand">et</g> rebibit venas mox inde repletus</l>
                   <lb n="4"/><l>Discolor <hi rend="grave">a</hi> claris suscipitur medicis;</l>
@@ -215,7 +215,7 @@
                      <lb n="24" break="no"/>tum) propter <persName type="https://viaf.org/viaf/11230687">Antiochum</persName> regem, ex amore <persName ref="https://viaf.org/viaf/13451960">Stratonices</persName> noverc<hi rend="ligature">ae</hi> <hi rend="ligature">ae</hi>
                      <lb n="25" break="no"/>grum sanatum, centum talentis <hi rend="grave">a</hi> filio ejus <persName>Ptolem<hi rend="ligature">ae</hi>o<!-- which Ptolemy? --></persName>, ut <persName>Jacobi Co
                         <lb n="26" break="no"/>cterii</persName>, medici <orgName>Galli</orgName> regis <persName ref="https://viaf.org/viaf/232234314">Ludoici</persName> <num value="2" type="ordinal">II</num>. <hi rend="grave">a</hi> quo quator millia coronato
-                     <lb n="27" break="no"/>rum singulis mensibus pro stipendio accepti, aliorum<hi rend="acute">q</hi>ue recentio
+                     <lb n="27" break="no"/>rum singulis mensibus pro stipendio accepit, aliorum<hi rend="acute">q</hi>ue recentio
                      <lb n="28" break="no"/>rum non faciamus mentionem; sed hujus regis sanatio adhuc long<hi rend="grave">e</hi>
                      <lb n="29"/>majori mercede aut pr<hi rend="ligature">ae</hi>mio recompensatur. <milestone unit="section" n="e48-10"/>Ita enim apud <title ref="http://viaf.org/viaf/191597728">Rosa
                      <lb n="30" break="no"/>rium</title> <persName ref="http://viaf.org/viaf/24571510">Hermes</persName> <g type="ampersand">et</g> <persName ref="http://viaf.org/viaf/3268479">Geber</persName>; <quote>Qui hanc</quote>, inquiunt, <quote>artem semel perfece
@@ -229,9 +229,9 @@
                   <div type="discourse-p2"><ab>
                      <lb n="1"/><quote>potest dare ignem, cui vult, <g type="ampersand">et</g> quando vult, <g type="ampersand">et</g> quantum vult sine su<hi rend="raised">o</hi>
                         <lb n="2"/>periculo <g type="ampersand">et</g> defectu.</quote> <milestone unit="section" n="e48-12"/><persName ref="http://viaf.org/viaf/228724785">Democriti</persName> pater ade<hi rend="grave">o</hi> dives fuit, ut exercitui
-                     <lb n="3"/><persName ref="https://viaf.org/viaf/282770127">Xerxis</persName> Epulum dederit, <orgName>Pythius</orgName> quidam opulentissimus, obtulit
+                     <lb n="3"/><persName ref="https://viaf.org/viaf/282770127">Xerxis</persName> Epulum dederit, <g type="ampersand">et</g> <orgName>Pythius</orgName> quidam opulentissimus obtulit
                      <lb n="4"/>eidem stipendium totius exercitus <g type="ampersand">et</g> commeatum ad menses quin
-                     <lb n="5" break="no"/>que, si mod<hi rend="grave">o</hi> unum ex quique filiis, natu minorem, qui su<hi rend="ligature">ae</hi> senectu
+                     <lb n="5" break="no"/>que, si mod<hi rend="grave">o</hi> unum ex quinque filiis, natu minorem, qui su<hi rend="ligature">ae</hi> senectu
                      <lb n="6" break="no"/>tis esse solatium, ne in castra regia ire cogeretur, domi retinere lice
                      <lb n="7" break="no"/>ret; <milestone unit="section" n="e48-13"/>sed barbarus rex indignissim<hi rend="grave">e</hi> petitionem <orgName>Pythii</orgName> ferens, jussit mi
                      <lb n="8" break="no"/>norem natu filium in duas partes dissectum palis utrimque ad viam
