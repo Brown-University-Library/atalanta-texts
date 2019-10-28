@@ -149,7 +149,7 @@
             <div type="epigram" xml:lang="de">
                <head>XI. Epigrammatis Latini versio Germanica.</head>
                <lg>
-                  <lb n="1"/><l>Ein jeder kennet der <persName><foreign xml:lang="latin">Laton<hi rend="ligature">ae</hi></foreign></persName> Zwilling Geschlecht wol<pc>/</pc></l>
+                   <lb n="1"/><l>Ein jeder kennet der <persName><foreign xml:lang="latin" rend="latin">Laton<hi rend="ligature">ae</hi></foreign></persName> Zwilling Geschlecht wol<pc>/</pc></l>
                   <lb n="2"/><l>(Wie das Gerücht zeugt) welchs vom <foreign xml:lang="la" rend="latin">Jove</foreign> gebohren seyn sol<pc>/</pc></l>
                   <lb n="3"/><l>Diß andre nennen Sonn und Mohn verknüpfft aller massen</l>
                   <lb n="4"/><l>Darin schwartzer Flecken sich viele spüren lassen<pc>/</pc></l>
