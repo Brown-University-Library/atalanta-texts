@@ -141,7 +141,7 @@
                        
             <div type="fugue" xml:lang="de">
                <head>
-                  <lb n="1"/>Gib Fewer zum Fewuer <pc>/</pc> Mercurium zum Mercurio,
+                   <lb n="1"/>Gib Fewer zum Fewuer <pc>/</pc> <foreign xml:lang="la" rend="latin">Mercurium</foreign> zum <foreign xml:lang="la" rend="latin">Mercurio</foreign>,
                   <lb n="2"/>und es ist dir genug.
                </head> 
             </div>
@@ -151,10 +151,10 @@
                <lg>
                   <lb n="1"/><l>Das gantz Gebäu an dieser Ketten hänget der gantzen Welt<pc>/</pc></l>
                   <lb n="2"/><l>Daß ein jedes zu dem <pc>/</pc> das ihm gleicht <pc>/</pc> sich gesellt:</l>
-                  <lb n="3"/><l>Mercurius wirt so zu seiner Art gefügt <pc>/</pc> und das Fewr</l>
+                   <lb n="3"/><l><foreign xml:lang="la" rend="latin">Mercurius</foreign> wirt so zu seiner Art gefügt <pc>/</pc> und das Fewr</l>
                   <lb n="4"/><l>Zum Fewr <pc>/</pc> diß laß dir seijn ein Ziel dieser Kunst so thewr:</l>
-                  <lb n="5"/><l>Vulcanus treibt den Hermetem, der Hermes wider entbindt<pc>/</pc></l>
-                  <lb n="6"/><l>Cynthiam, so sich rächet an dich <pc>/</pc> Apollo, geschwindt.</l>
+                   <lb n="5"/><l><foreign xml:lang="la" rend="latin">Vulcanus</foreign> treibt den <foreign xml:lang="la" rend="latin">Hermetem</foreign>, der <foreign xml:lang="la" rend="latin">Hermes</foreign> wider entbindt<pc>/</pc></l>
+                   <lb n="6"/><l><foreign xml:lang="la" rend="latin">Cynthiam</foreign>, so sich rächet an dich <pc>/</pc> <foreign xml:lang="la" rend="latin">Apollo</foreign>, geschwindt.</l>
                </lg>
             </div>
             
