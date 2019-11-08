@@ -147,26 +147,35 @@
     </xsl:template>
     
     <!--    Milestones and reference markers -->     
-    <!--<xsl:template match="af:milestone">
+    <!-- display section markers breaks.
+        
+        <xsl:template match="af:milestone">
         <span class="milestone atalanta-fugiens"><xsl:value-of select="@n"/></span>
     </xsl:template>-->
     
-   <!-- <xsl:template match="af:pb">
+   <!-- display page breaks
+       
+       <xsl:template match="af:pb">
         <span class="pb atalanta-fugiens"><xsl:value-of select="@n"/></span>
     </xsl:template>-->
     
-    <!--xsl:template match="af:lb" mode="#all">
-        <xsl:choose>
-            <xsl:when test="@break='no'"><xsl:text>-</xsl:text><br /></xsl:when>
-            <xsl:otherwise><br/></xsl:otherwise>
-        </xsl:choose>
-    </xsl:template -->
     
     <xsl:template match="af:lb" mode="#all">
         <br/>
     </xsl:template>
     
+    <!-- handle hyphenated word in the discourse -->
     <xsl:template match="text()[ancestor::af:ab][preceding::af:lb[1]][following::af:lb[1][@break eq 'no']]" mode="#all">
+        <xsl:value-of select="replace(., '&#x0D;?&#x0a;', '-')"/>
+    </xsl:template>
+    
+    <!-- handle hyphenated words in title page -->
+    <xsl:template match="text()[ancestor::af:titlePart][preceding::af:lb[1]][following::af:lb[1][@break eq 'no']]" mode="#all">
+        <xsl:value-of select="replace(., '&#x0D;?&#x0a;', '-')"/>
+    </xsl:template>
+    
+    <!-- handle hyphenated words in latin motto -->
+    <xsl:template match="text()[ancestor::af:head][preceding::af:lb[1]][following::af:lb[1][@break eq 'no']]" mode="#all">
         <xsl:value-of select="replace(., '&#x0D;?&#x0a;', '-')"/>
     </xsl:template>
     
@@ -386,6 +395,9 @@
             </xsl:when>
             <xsl:when test="@rend='gothic'">
                 <span class="gothic"><xsl:apply-templates/></span>
+            </xsl:when>
+            <xsl:when test="@xml:lang='grc'">
+                 <xsl:apply-templates/>
             </xsl:when>
         </xsl:choose>
        
