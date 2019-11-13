@@ -136,7 +136,7 @@
                 <milestone unit="page" ed="Meier1618" n="014"/>
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier1618" n="014"/>
-                    <head rend="italic">Discourse 1.</head><note place="margin" hand="1">D Powell 1821</note>
+                    <head rend="italic">Discourse <choice><orig>1</orig><reg>1</reg></choice>.</head><note place="margin" hand="1">D Powell 1821</note>
                    
                         <div type="discourse-p1"><ab> 
                         <lb/><milestone unit="section" n="e01-01"/>Hermes the most industrious inquisitor into every <choice><orig>naturall</orig><reg>natural</reg></choice> secret doth
@@ -179,8 +179,8 @@
                         <lb break="no"/>fore is wind, which takes Sulphur or Dionysius, or, if you had rather, <choice><orig>Æscu
                         <lb break="no"/>lapius</orig><reg>Aesculapius</reg></choice>, being yet an <seg rend="underline" hand="pencil">imperfect</seg> Embryo, out of the mothers belly, or even out<note place="margin" hand="2">becomes Volatile</note>
                         <lb/>of the ashes of the mothers body burned, and <choice><orig>carryes</orig><reg>carries</reg></choice> it thither, where it <pc>-</pc>
-                        <lb/>may <seg rend="underline" hand="pencil">be matured</seg>; <milestone unit="section" n="e01-12"/>and the Embryo is Sulphur, which is infused into <pc>-</pc><note place="margin" hand="2">digested &amp; fix'd</note>
-                        <lb/>the belly of Boreas by the <choice><orig>cælestiall</orig><reg>celestial</reg></choice> <choice><orig>Sunne</orig><reg>Sun</reg></choice>, that <choice><orig>hee</orig><reg>he</reg></choice> may bring it <pc>-</pc>
+                            <lb/>may <seg rend="underline" hand="pencil">be matured</seg>; <milestone unit="section" n="e01-12"/>and the Embryo is Sulphur, which is infused into <pc>-</pc><note place="margin" hand="2">digested &amp; <choice><orig>fix'd</orig><reg>fixed</reg></choice></note>
+                        <lb/>the belly of Boreas by the <choice><orig>cœlestiall</orig><reg>celestial</reg></choice> <choice><orig>Sunne</orig><reg>Sun</reg></choice>, that <choice><orig>hee</orig><reg>he</reg></choice> may bring it <pc>-</pc>
                         <lb/>forth being matured, who in the <choice><orig>compleat</orig><reg>complete</reg></choice> time of his <choice><orig>cariage</orig><reg>carriage</reg></choice> <choice><orig>produceth</orig><reg>produces</reg></choice><pc>-</pc><note place="margin" hand="2">the White &amp; reddish
                             <lb/>or 🜍</note>
                         <lb/>twins, one with w<seg rend="underline" hand="pencil">hite <choice><orig>haire</orig><reg>hair</reg></choice></seg>, called Calais, the other with <seg rend="underline" hand="pencil">red</seg>, named<note place="margin" hand="2">x a</note>
@@ -196,9 +196,9 @@
                         <lb/><seg rend="underline" hand="pencil">is driven away by the <choice><orig>Sonns</orig><reg>sons</reg></choice> of Boreas</seg>, having <choice><orig>attaind</orig><reg>attained</reg></choice> to full age, and of a
                         <lb/>thing imperfect or molested with noxious birds is made perfect, not sub
                         <lb break="no"/>ject to that <choice><orig>evill</orig><reg>evil</reg></choice>, which then <choice><orig>shews</orig><reg>shows</reg></choice> to Jason the <choice><orig>Physitian</orig><reg>Physician</reg></choice> the way to
-                        <lb/><choice><orig>obtaine</orig><reg>obtain</reg></choice> the golden fleece. <milestone unit="section" n="e01-15"/>These winds our countryman Basill amongst
+                            <lb/><choice><orig>obtaine</orig><reg>obtain</reg></choice> the golden fleece. <milestone unit="section" n="e01-15"/>These winds our countryman <choice><orig>Basill</orig><reg>Basil</reg></choice> amongst
                         <lb/>others <choice><orig>allso</orig><reg>also</reg></choice> takes notice of, and plainly <choice><orig>sayth</orig><reg>says</reg></choice>: <subst><del>The</del><add><seg rend="underline" hand="pencil">A double</seg></add></subst> <seg rend="underline" hand="pencil">wind</seg> ought to <subst><del>come</del><add>arise</add></subst>;<note place="margin" hand="2">absurdly described</note>
-                        <lb/><del>that</del> called Vulturnus, and <subst><del>after that one;</del><add> then a single wind</add></subst>, ca<seg rend="underline" hand="pencil">lled Notu</seg>s, which <subst><del>must</del><add>will</add></subst> blow<note place="margin" hand="2">Naaman comes <lb/>from the north</note>
+                        <lb/><del>that</del> called Vulturnus, and <subst><del>after that one;</del> <add>then a single wind</add></subst>, ca<seg rend="underline" hand="pencil">lled Notu</seg>s, which <subst><del>must</del><add>will</add></subst> blow<note place="margin" hand="2">Naaman comes <lb/>from the north</note>
                         <lb/>from the East and South impetuously, whose motion ceasing, <choice><orig>soe</orig><reg>so</reg></choice> as wa
                         <lb break="no"/>ter to be made of <choice><orig>aire</orig><reg>air</reg></choice>, you <subst><del>may</del><add>will</add></subst> confidently <choice><orig>beleive</orig><reg>believe</reg></choice>, th<seg rend="underline" hand="pencil">at a <choice><orig>corporall</orig><reg>corporal</reg></choice></seg> <pc>-</pc>
                         <lb/><seg rend="underline" hand="pencil">thing will be made of a <choice><orig>spirituall</orig><reg>spiritual</reg></choice></seg>. <milestone unit="section" n="e01-16"/>And Ripley gate 8. <choice><orig>sayth</orig><reg>says</reg></choice>, that <pc>-</pc>

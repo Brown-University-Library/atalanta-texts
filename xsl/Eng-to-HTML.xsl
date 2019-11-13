@@ -140,9 +140,16 @@
         <span class="regularized"><xsl:apply-templates/></span>
     </xsl:template>
     
-    <xsl:template match="af:orig | af:sic">      
+    <xsl:template match="af:orig>      
         <xsl:choose>
             <xsl:when test="parent::af:choice"><span class="original"><xsl:apply-templates/></span></xsl:when>
+            <xsl:otherwise><xsl:apply-templates/></xsl:otherwise>
+        </xsl:choose>      
+    </xsl:template>
+    
+    <xsl:template match="af:sic">      
+        <xsl:choose>
+            <xsl:when test="parent::af:choice"><span class="original"><xsl:apply-templates/> [sic]</span></xsl:when>
             <xsl:otherwise><xsl:apply-templates/></xsl:otherwise>
         </xsl:choose>      
     </xsl:template>

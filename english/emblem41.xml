@@ -122,12 +122,12 @@
                 
                 
                 <div type="epigram" xml:lang="en">
-                    <head rend="italic"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> <choice><sic>4i</sic><corr>41</corr></choice>.</head>
+                    <head rend="italic"><choice><orig>Epigramme</orig><reg>Epigram</reg></choice> <choice><orig>4i</orig><reg>41</reg></choice>.</head>
                     <lg>
                         <l>Myrrha, conspiring with her Sire, gave breath</l>
                         <l>To <choice><orig>th'</orig><reg>the</reg></choice> fair Adonis, <choice><orig>tushd</orig><reg>tushed</reg></choice> by a Boar to death:</l>
                         <l>Fond Venus <choice><orig>runns</orig><reg>runs</reg></choice>, with <choice><orig>thorne</orig><reg>thorn</reg></choice> in foot, which bled,</l>
-                        <l>And therewith <choice><orig>tingd</orig><reg>tinged</reg></choice> the lilly Roses red;</l>
+                        <l>And therewith <choice><orig>tingd</orig><reg>tinged</reg></choice> the <choice><orig>lilly</orig><reg>lily</reg></choice> Roses red;</l>
                         <l>The <choice><orig>Goddesse</orig><reg>Goddess</reg></choice> weeps, the Syrians can't <choice><orig>refraine</orig><reg>refrain</reg></choice>,</l>
                         <l><choice><orig>Hee's</orig><reg>He's</reg></choice> <choice><orig>layd</orig><reg>laid</reg></choice> amongst the <choice><orig>lettice</orig><reg>lettuce</reg></choice> being <choice><orig>Slayne</orig><reg>Slain</reg></choice></l>
                     </lg>
@@ -137,7 +137,7 @@
                 <pb n="129" edRef="BeineckeMellon48" facs="#p129"/> 
                 <div type="discourse" xml:lang="en">
                     <milestone unit="page" ed="Meier1618" n="174"/>
-                    <head rend="italic">Discourse <choice><sic>4i</sic><corr>41</corr></choice>.</head>
+                    <head rend="italic">Discourse <choice><orig>4i</orig><reg>41</reg></choice>.</head>
                     <div type="discourse-p1"><ab> 
                         <lb/>How improperly some of the Mythologists resolve the Allegory of <pc>-</pc> 
                         <lb/>Adonis, and ascribe him sometimes to the <choice><orig>Sunne</orig><reg>Sun</reg></choice>, the <choice><orig>Boare</orig><reg>Boar</reg></choice>, by which
@@ -153,7 +153,7 @@
                                 <l>Germinum et idem author, pariter puer atꝗ puella.</l>
                             </lg>
                         </quote>
-                        <lb/>All which are by <choice><orig>noe</orig><reg>no</reg></choice> means to be understood of the <choice><orig>cælestiall</orig><reg>celestial</reg></choice>, but <pc>-</pc>
+                        <lb/>All which are by <choice><orig>noe</orig><reg>no</reg></choice> means to be understood of the <choice><orig>cœlestiall</orig><reg>celestial</reg></choice>, but <pc>-</pc>
                         <lb/><choice><orig>Philosophicall</orig><reg>Philosophical</reg></choice> <choice><orig>Sunne</orig><reg>Sun</reg></choice>; for this <choice><orig>expresseth</orig><reg>expresses</reg></choice> both sexes, that not: <choice><orig>Soe</orig><reg>So</reg></choice> <choice><orig>all
                         <lb break="no"/>so</orig><reg>also</reg></choice> they attribute the very same thing to Dionysus, and the <choice><orig>Sunne</orig><reg>Sun</reg></choice>, <pc>-</pc>
                         <lb/>as to Adonis, and on the contrary, as <choice><orig>allso</orig><reg>also</reg></choice> to Osiris. Adonis is <choice><orig>killd</orig><reg>killed</reg></choice> by a
