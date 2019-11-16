@@ -195,7 +195,7 @@
 
     <xsl:template match="af:note">
         <xsl:choose>
-            <xsl:when test="@place='margin'">
+            <xsl:when test="@place='margin' or @place='left-margin'">
                 <span class="note-mark">*</span>
                 <div class="margin-note">
                     <span class="note-mark">
