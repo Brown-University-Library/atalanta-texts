@@ -236,6 +236,15 @@
     </xsl:template>
     
     <xsl:template match="af:fw"/> 
+    
+    <xsl:template match="af:milestone[ancestor::af:div[@type='dedication']]">
+        <span class="pb atalanta-fugiens"><xsl:value-of select="@n"/></span>
+    </xsl:template>
+    
+    <xsl:template match="af:milestone[ancestor::af:div[@type='preface']]">
+        <span class="pb atalanta-fugiens"><xsl:value-of select="@n"/></span>
+    </xsl:template>
+    
         
 
 </xsl:stylesheet>
