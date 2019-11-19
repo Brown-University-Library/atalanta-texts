@@ -149,7 +149,7 @@
     
     <xsl:template match="af:sic">      
         <xsl:choose>
-            <xsl:when test="parent::af:choice"><span class="original"><xsl:apply-templates/> [sic]</span></xsl:when>
+            <xsl:when test="parent::af:choice"><span class="original"><xsl:apply-templates/>[sic]</span></xsl:when>
             <xsl:otherwise><xsl:apply-templates/></xsl:otherwise>
         </xsl:choose>      
     </xsl:template>
