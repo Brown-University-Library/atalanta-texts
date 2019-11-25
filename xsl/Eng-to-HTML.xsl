@@ -127,6 +127,10 @@
         </xsl:choose>
         
     </xsl:template>
+    
+    <xsl:template match="af:lb[ancestor::af:div[@type='discourse-p2'] and parent::af:add]">
+        <br/>
+    </xsl:template>
 
     <xsl:template match="af:ab">
         <div class="ab">
@@ -167,6 +171,10 @@
         <span class="regularized">
             <xsl:apply-templates/>
         </span>
+    </xsl:template>
+    
+    <xsl:template match="af:gap">
+        <xsl:text>...</xsl:text>
     </xsl:template>
 
     <xsl:template match="af:seg[@rend='underline']">
