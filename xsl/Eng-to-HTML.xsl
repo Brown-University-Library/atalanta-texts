@@ -131,6 +131,8 @@
     <xsl:template match="af:lb[ancestor::af:div[@type='discourse-p2'] and parent::af:add]">
         <br/>
     </xsl:template>
+    
+    <xsl:template match="af:lb[1][ancestor::af:div[@type='titlePage'] and parent::af:add]"/>
 
     <xsl:template match="af:ab">
         <div class="ab">
@@ -160,6 +162,12 @@
 
     <xsl:template match="af:unclear | af:subst | af:add | af:del">
         <span class="{name()}">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+    
+    <xsl:template match="af:add[@rend='on-glued-flap']">
+        <span class="original"><br/></span><span class="{name()}">
             <xsl:apply-templates/>
         </span>
     </xsl:template>
