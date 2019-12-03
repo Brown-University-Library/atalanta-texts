@@ -128,12 +128,12 @@
         
     </xsl:template>
     
-    <xsl:template match="af:lb[ancestor::af:div[@type='discourse-p2'] and parent::af:add]">
-        <br/>
-    </xsl:template>
+    <xsl:template match="af:lb[1][ancestor::af:div[@type='discourse-p2'] and parent::af:add]"/>
+     <!-- handles single case of lb inside an added section in emblem 32 -->
     
     <xsl:template match="af:lb[1][ancestor::af:div[@type='titlePage'] and parent::af:add]"/>
-
+    <!-- handles single case of lb inside an added section on title page -->
+   
     <xsl:template match="af:ab">
         <div class="ab">
             <xsl:apply-templates/>
@@ -166,7 +166,7 @@
         </span>
     </xsl:template>
     
-    <xsl:template match="af:add[@rend='on-glued-flap']">
+    <xsl:template match="af:add[@rend='on-glued-flap'][ancestor::div[@type='titlePage']]">
         <span class="original"><br/></span><span class="{name()}">
             <xsl:apply-templates/>
         </span>
