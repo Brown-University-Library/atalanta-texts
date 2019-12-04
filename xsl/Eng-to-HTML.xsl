@@ -118,7 +118,11 @@
     
     <xsl:template match="text()[following-sibling::node()[1][self::af:lb[@break eq 'no']]]">
         <xsl:value-of select="substring( normalize-space( concat('␠',.)), 2 )"/>
-    </xsl:template>
+    </xsl:template> <!-- to handle words broken across adjacent lines -->
+    
+    <xsl:template match="text()[following-sibling::node()[4][self::af:lb[@break eq 'no']] and following-sibling::node()[2][self::af:fw]]">
+        <xsl:value-of select="substring( normalize-space( concat('␠',.)), 2 )"/>
+    </xsl:template>  <!-- to handle breaks across formwork and  pb elements -->
     
     <xsl:template match="af:lb">
         <xsl:choose>

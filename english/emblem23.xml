@@ -39,7 +39,7 @@
                     <monogr>
                         <author><forename>Michael</forename><surname>Maier</surname></author>
 <title level="m">Atalanta running, that is, new chymicall emblems relating
-                            to the secrets of nature</title>                        <idno type="Beinecke">Mellon MS. 88</idno>
+                            to the secrets of nature</title>                        <idno type="Beinecke">Mellon MS. 48</idno>
                         <imprint>
                             <pubPlace>England (?)</pubPlace>
                             <date>[1618 or after]</date>
@@ -55,7 +55,7 @@
             <projectDesc><p>This text has been transcribed and encoded using the TEI for Tara Nummedal and Donna Bilak’s <title>Furnace and Fugue: A Digital Edition of Michael Maier’s Atalanta fugiens (1618) with Scholarly Commentary</title>, part of Brown University’s Digital Publications Initiative, funded by the Andrew W. Mellon Foundation.</p>
             </projectDesc>
             <editorialDecl>
-                <p>This transcription includes all text in the Beinecke library Mellon MS. 88 (English Translation of Michael Meier's Atalanta Fugiens).</p>
+                <p>This transcription includes all text in the Beinecke library Mellon MS. 48 (English Translation of Michael Meier's Atalanta Fugiens).</p>
                 <p>All line breaks are indicated using the <gi>lb</gi> element. Hyphenation is marked with the <att>break</att> attribute.
                     This manuscript has hyphens filling out lines at the right margin, as well as at the end of a page. These are marked as punctuation using
                      the <gi>pc</gi> element. Pagination as printed is encoded using <gi>fw</gi>. <gi>pb</gi> elements 

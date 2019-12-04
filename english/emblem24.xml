@@ -39,7 +39,7 @@
                     <monogr>
                         <author><forename>Michael</forename><surname>Maier</surname></author>
 <title level="m">Atalanta running, that is, new chymicall emblems relating
-                            to the secrets of nature</title>                        <idno type="Beinecke">Mellon MS. 88</idno>
+                            to the secrets of nature</title>                        <idno type="Beinecke">Mellon MS. 48</idno>
                         <imprint>
                             <pubPlace>England (?)</pubPlace>
                             <date>[1618 or after]</date>
@@ -55,7 +55,7 @@
             <projectDesc><p>This text has been transcribed and encoded using the TEI for Tara Nummedal and Donna Bilak’s <title>Furnace and Fugue: A Digital Edition of Michael Maier’s Atalanta fugiens (1618) with Scholarly Commentary</title>, part of Brown University’s Digital Publications Initiative, funded by the Andrew W. Mellon Foundation.</p>
             </projectDesc>
             <editorialDecl>
-                <p>This transcription includes all text in the Beinecke library Mellon MS. 88 (English Translation of Michael Meier's Atalanta Fugiens).</p>
+                <p>This transcription includes all text in the Beinecke library Mellon MS. 48 (English Translation of Michael Meier's Atalanta Fugiens).</p>
                 <p>All line breaks are indicated using the <gi>lb</gi> element. Hyphenation is marked with the <att>break</att> attribute.
                     This manuscript has hyphens filling out lines at the right margin, as well as at the end of a page. These are marked as punctuation using
                      the <gi>pc</gi> element. Pagination as printed is encoded using <gi>fw</gi>. <gi>pb</gi> elements 
@@ -181,7 +181,8 @@
                         <lb/><seg rend="underline" hand="2">of his harbou</seg>rs, a<seg rend="underline" hand="2">nd<choice><orig>præservd</orig><reg>preserved</reg></choice> for use:</seg> <seg rend="underline" hand="2">The King <choice><orig>allso</orig><reg>also</reg></choice> coming from the</seg> <pc>-</pc>
                         <lb/><seg rend="underline" hand="2">East <choice><orig>wearyed</orig><reg>wearied</reg></choice> with a long and <choice><orig>tædious</orig><reg>tedious</reg></choice> journey at length falls <choice><orig>downe</orig><reg>down</reg></choice>, w</seg>hose
                         <lb/>death <choice><orig>allso</orig><reg>also</reg></choice> <choice><orig>greife</orig><reg>grief</reg></choice> accelerates, seeing <choice><orig>himselfe</orig><reg>himself</reg></choice> <seg rend="underline" hand="2">in <choice><orig>noe</orig><reg>no</reg></choice> <choice><orig>honour</orig><reg>honor</reg></choice></seg>, and <seg rend="underline" hand="2"><choice><orig>soe</orig><reg>so</reg></choice></seg> <pc>-</pc>
-                        <lb/><seg rend="underline" hand="2">little <choice><orig>esteemd</orig><reg>esteemed</reg></choice></seg> amongst strangers and <choice><orig>forreigners</orig><reg>foreigners</reg></choice>, as to be sold into servi<pb n="79" edRef="BeineckeMellon48" facs="#p079"/><fw rend="italic">Discourse 24.</fw>
+                        <lb/><seg rend="underline" hand="2">little <choice><orig>esteemd</orig><reg>esteemed</reg></choice></seg> amongst strangers and <choice><orig>forreigners</orig><reg>foreigners</reg></choice>, as to be sold into servi
+                        <pb n="79" edRef="BeineckeMellon48" facs="#p079"/><fw rend="italic">Discourse 24.</fw>
                         <lb break="no"/>tude for a little <choice><orig>mony</orig><reg>money</reg></choice>: But the <seg rend="underline" hand="2"><choice><orig>wolfe</orig><reg>wolf</reg></choice> </seg>must be had out <seg rend="underline" hand="2">of a colder region,</seg> for
                         <lb/>those that are bred in a cold climate are more fierce, than in Africa or <choice><orig>Ægypt</orig><reg>Egypt</reg></choice>,
                         <lb/>by reason of greater hunger <seg rend="underline" hand="2"><choice><orig>proceding</orig><reg>proceeding</reg></choice> from <choice><orig>externall</orig><reg>external</reg></choice> col</seg>d: th<seg rend="underline" hand="2">e devoured King</seg> <pc>-</pc>
