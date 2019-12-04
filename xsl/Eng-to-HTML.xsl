@@ -176,6 +176,12 @@
         </span>
     </xsl:template>
     
+    <xsl:template match="af:add[@rend='on-glued-flap'][ancestor::div[@type='discourse-p2']]">
+        <br/><span class="{name()}">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+    
     <xsl:template match="af:supplied">
         <span class="original">
             <xsl:text>[</xsl:text><xsl:apply-templates/><xsl:text>]</xsl:text>

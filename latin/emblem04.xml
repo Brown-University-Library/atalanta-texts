@@ -45,7 +45,7 @@
             <editorialDecl>
                 <p>This transcription includes all text in the Meier edition except for the words that are printed with the 
                 music of each fugue. Those haven't been transcribed as they are identical to the Latin epigram, and are also
-                transcribed as part of the musical notation. German has been transcribed as written, with inconsistent modernization
+                transcribed as part of the musical notation. German has been transcribed as written, with no modernization
                 of spelling. Wrapped verse lines are indicated using <egXML xmlns="http://www.tei-c.org/ns/Examples"><hi rend="sling=below"/></egXML> or <egXML xmlns="http://www.tei-c.org/ns/Examples"><hi rend="sling-above"/></egXML></p>
                 <p>All line breaks are indicated using the <gi>lb</gi> element and are numbered within their containing <gi>div</gi> or <gi>ab</gi>. We use the <att>break</att> attribute to show hyphenation
                     where it appears in the text. Pagination as printed in encoding using <gi>fw</gi>. The <gi>pb</gi> element is used 
