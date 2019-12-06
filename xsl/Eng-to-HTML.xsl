@@ -170,13 +170,13 @@
         </span>
     </xsl:template>
     
-    <xsl:template match="af:add[@rend='on-glued-flap'][ancestor::div[@type='titlePage']]">
+    <xsl:template match="af:add[@rend='on-glued-flap'][ancestor::af:div[@type='titlePage']]">
         <span class="original"><br/></span><span class="{name()}">
             <xsl:apply-templates/>
         </span>
     </xsl:template>
     
-    <xsl:template match="af:add[@rend='on-glued-flap'][ancestor::div[@type='discourse-p2']]">
+    <xsl:template match="af:add[@rend='on-glued-flap'][ancestor::af:div[@type='discourse-p2']]">
         <br/><span class="{name()}">
             <xsl:apply-templates/>
         </span>
